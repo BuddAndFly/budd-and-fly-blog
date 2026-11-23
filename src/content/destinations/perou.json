@@ -1,0 +1,257 @@
+{
+  "name": "Pérou",
+  "prep": "au Pérou",
+  "kind": "pays",
+  "continent": "Amérique du Sud",
+  "priority": 16,
+  "status": "brouillon",
+  "updatedAt": "2026-11-24",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Pérou : quand partir, Machu Picchu, budget, itinéraires",
+    "description": "Préparer un voyage au Pérou : saison sèche, Machu Picchu, mal des montagnes, budget seul ou à deux, Cusco, Arequipa, Titicaca. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La meilleure période pour le Pérou va de mai à octobre, la saison sèche dans les Andes. Pas de visa pour moins de 90 jours, mais un passeport valide au moins 6 mois à l'arrivée est exigé sans aucune dérogation. Prévois deux ou trois jours d'acclimatation à l'altitude avant le Machu Picchu.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Espagnol (quechua et aymara dans les Andes)",
+    "currency": "Sol (PEN)",
+    "timeDiff": "−6 h en hiver, −7 h en été",
+    "plugs": "Types A et C, 220 V : adaptateur conseillé",
+    "emergency": "Police 105 · Pompiers 116 · SAMU 106",
+    "flight": "Environ 12 h en vol direct depuis Paris pour Lima"
+  },
+  "months": [
+    { "rating": 0, "note": "Saison des pluies dans les Andes : sentiers boueux, glissements de terrain possibles. C'est l'été sur la côte." },
+    { "rating": 0, "note": "Le mois le plus pluvieux dans les Andes. Le chemin de l'Inca est fermé pour entretien." },
+    { "rating": 1, "note": "Les pluies diminuent, paysages très verts. Encore des averses." },
+    { "rating": 1, "note": "Fin de la saison des pluies, peu de monde : un bon compromis." },
+    { "rating": 2, "note": "Début de la saison sèche, ciel dégagé, avant la foule." },
+    { "rating": 2, "note": "Sec et lumineux. Le 24 juin, Inti Raymi, la fête du Soleil à Cusco." },
+    { "rating": 2, "note": "Saison sèche, mais haute saison : réserve le Machu Picchu et les trains longtemps à l'avance. Nuits glaciales en altitude." },
+    { "rating": 2, "note": "Comme en juillet, avec un peu moins de monde en fin de mois." },
+    { "rating": 2, "note": "Encore sec, moins fréquenté : excellent mois." },
+    { "rating": 1, "note": "Les premières pluies arrivent en fin de mois." },
+    { "rating": 1, "note": "Averses plus fréquentes dans les Andes, encore praticable." },
+    { "rating": 0, "note": "Retour de la saison des pluies dans les Andes. Bon pour la côte nord." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en soles, par jour et par personne, hors vols internationaux. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou guesthouse)", "solo": "120 à 250 S/", "duo": "80 à 160 S/" },
+      { "label": "Repas", "solo": "50 à 120 S/", "duo": "50 à 120 S/" },
+      { "label": "Transports locaux", "solo": "15 à 50 S/", "duo": "15 à 40 S/" },
+      { "label": "Visites et entrées", "solo": "20 à 80 S/", "duo": "20 à 80 S/" }
+    ],
+    "totalSolo": "205 à 500 S/",
+    "totalDuo": "165 à 400 S/",
+    "note": "Le Machu Picchu coûte cher : entrée, train jusqu'à Aguas Calientes et bus jusqu'au site s'ajoutent au budget quotidien. Le menu du midi dans les petits restaurants locaux est très bon marché.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour un séjour touristique de moins de 90 jours. Le passeport doit être valide au moins 6 mois à l'arrivée : la règle est appliquée strictement, sans dérogation.",
+    "points": [
+      "Sans 6 mois de validité, l'entrée est refusée et tu repars par le prochain vol, à tes frais.",
+      "La durée de séjour accordée (1 à 90 jours sur 183 jours) ne peut pas être dépassée : sinon, amende et formalités de sortie longues.",
+      "Depuis 2023, les passeports ne sont plus tamponnés dans certains aéroports : l'entrée est enregistrée électroniquement.",
+      "Au-delà de 90 jours, il faut demander un visa au consulat du Pérou avant de partir."
+    ],
+    "source": { "label": "France Diplomatie, Pérou, Entrée / séjour (mise à jour du 21 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/perou/" },
+    "checkedAt": "2026-11-24"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France, mais le vaccin contre la fièvre jaune est vivement recommandé pour l'Amazonie. L'altitude est le principal enjeu de santé.",
+    "points": [
+      "Fièvre jaune : vaccin vivement recommandé pour l'Amazonie, à faire dans un centre agréé avant le départ.",
+      "Rage : recommandé pour les enfants et les séjours en zone rurale.",
+      "Dengue : épidémies chaque année de décembre à avril, surtout dans le nord et l'ouest du pays.",
+      "Altitude : Cusco est à environ 3 400 m, Puno à plus de 3 800 m. Monte progressivement, bois beaucoup, évite l'alcool les premiers jours, et parle des médicaments préventifs avec ton médecin.",
+      "Assurance santé et rapatriement indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Pérou, Santé (mise à jour du 21 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/perou/" },
+    "checkedAt": "2026-11-24"
+  },
+  "safety": {
+    "text": "Le Pérou est moins touché par la criminalité que d'autres pays d'Amérique latine, mais quelques règles s'imposent, et deux régions sont formellement déconseillées.",
+    "points": [
+      "Formellement déconseillés : la région du VRAEM (centre du pays, sous contrôle militaire) et la zone amazonienne frontalière de la Colombie, le long du Putumayo.",
+      "Déconseillés sauf raison impérative : la ville d'Abancay et la région de Huánuco (cordillère Azul).",
+      "Lima : évite le centre historique après la tombée de la nuit et les plages le soir. Près de l'aéroport (Callao), ne circule pas à pied : réserve ton taxi à l'intérieur de l'aéroport.",
+      "Dans les bus et les gares routières, garde argent, cartes et papiers sur toi.",
+      "Des agressions sexuelles contre des voyageuses ont eu lieu en auberge de jeunesse et lors de « retraites spirituelles » : évite les dortoirs mixtes et renseigne-toi sérieusement avant toute cérémonie."
+    ],
+    "source": { "label": "France Diplomatie, Pérou, Sécurité (mise à jour du 21 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/perou/" },
+    "checkedAt": "2026-11-24"
+  },
+  "cities": [
+    {
+      "slug": "lima",
+      "name": "Lima",
+      "nights": "1 à 2 nuits",
+      "for": ["energique", "stratege"],
+      "summary": "La capitale au bord du Pacifique, réputée pour être l'une des meilleures villes gastronomiques du continent.",
+      "sleep": "Miraflores ou Barranco, sur les falaises, plus sûrs et plus agréables.",
+      "see": [
+        { "name": "Le centre historique", "note": "Place d'Armes, cathédrale, couvent San Francisco et ses catacombes. En journée." },
+        { "name": "Barranco", "note": "Le quartier bohème, ses maisons colorées et le pont des Soupirs." },
+        { "name": "Le musée Larco", "note": "La meilleure introduction aux civilisations précolombiennes." }
+      ],
+      "hidden": [
+        { "name": "La Huaca Pucllana", "note": "Une pyramide en adobe en plein Miraflores." }
+      ],
+      "eat": "Le ceviche le midi, et la cuisine nikkei, mélange péruvien et japonais.",
+      "getAround": "VTC par application. Ne hèle pas de taxi dans la rue.",
+      "tip": "Le climat est gris et brumeux une bonne partie de l'année : ne juge pas le pays à la météo de Lima."
+    },
+    {
+      "slug": "cusco",
+      "name": "Cusco et la Vallée sacrée",
+      "nights": "4 nuits",
+      "for": ["tous", "stratege", "explorateur"],
+      "summary": "L'ancienne capitale inca, aux rues pavées sur des murs incas, et la vallée sacrée de l'Urubamba, plus basse et plus douce.",
+      "sleep": "À Cusco autour de la place d'Armes ou de San Blas ; dans la Vallée sacrée (Urubamba, Ollantaytambo) pour s'acclimater à plus basse altitude.",
+      "see": [
+        { "name": "La place d'Armes et le Qorikancha", "note": "Le temple du Soleil inca, surmonté d'un couvent espagnol." },
+        { "name": "Sacsayhuamán", "note": "Une forteresse aux blocs de pierre géants, au-dessus de la ville." },
+        { "name": "Pisac et Ollantaytambo", "note": "Terrasses agricoles et forteresse dans la Vallée sacrée." },
+        { "name": "Les salines de Maras et Moray", "note": "Des milliers de bassins de sel et des terrasses circulaires." }
+      ],
+      "hidden": [
+        { "name": "La montagne aux sept couleurs (Vinicunca)", "note": "Une randonnée à plus de 5 000 m : seulement après une bonne acclimatation." }
+      ],
+      "eat": "La soupe de quinoa, le cochon d'Inde rôti (cuy) pour les curieux, et le maté de coca.",
+      "getAround": "À pied à Cusco (ça monte), colectivos et taxis vers la vallée.",
+      "tip": "Commence par la Vallée sacrée, plus basse, puis monte à Cusco : l'acclimatation sera plus facile."
+    },
+    {
+      "slug": "machu-picchu",
+      "name": "Le Machu Picchu",
+      "nights": "1 nuit à Aguas Calientes",
+      "for": ["tous"],
+      "summary": "La cité inca perchée entre les montagnes, l'un des sites les plus spectaculaires au monde.",
+      "sleep": "À Aguas Calientes, au pied du site, pour monter à l'ouverture.",
+      "see": [
+        { "name": "La citadelle", "note": "Les billets sont vendus par circuit et par horaire, en nombre limité : réserve des mois à l'avance en haute saison." },
+        { "name": "Le Huayna Picchu", "note": "La montagne derrière la citadelle, billet spécifique, montée raide." },
+        { "name": "Le chemin de l'Inca", "note": "4 jours de randonnée jusqu'à la porte du Soleil, avec agence agréée et permis à réserver très tôt." }
+      ],
+      "hidden": [
+        { "name": "Le trek du Salkantay", "note": "Une alternative au chemin de l'Inca, sans permis limité." }
+      ],
+      "eat": "Les restaurants d'Aguas Calientes, simples et chers.",
+      "getAround": "Train depuis Ollantaytambo ou Cusco jusqu'à Aguas Calientes, puis bus jusqu'au site.",
+      "tip": "Vérifie que ton nom sur le billet correspond exactement à ton passeport : il est contrôlé à l'entrée."
+    },
+    {
+      "slug": "arequipa",
+      "name": "Arequipa et le canyon de Colca",
+      "nights": "3 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "La ville blanche au pied des volcans, et l'un des canyons les plus profonds du monde, où planent les condors.",
+      "sleep": "Dans le centre historique d'Arequipa ; à Chivay ou Cabanaconde pour le canyon.",
+      "see": [
+        { "name": "Le monastère de Santa Catalina", "note": "Une ville dans la ville, aux murs colorés." },
+        { "name": "La place d'Armes", "note": "Entourée d'arcades en pierre volcanique blanche." },
+        { "name": "La Cruz del Cóndor", "note": "Le point de vue où les condors s'envolent le matin." }
+      ],
+      "hidden": [
+        { "name": "Le trek au fond du canyon", "note": "Deux jours de descente et de remontée, avec nuit dans une oasis." }
+      ],
+      "eat": "Le rocoto relleno (piment farci) et le chupe de camarones (soupe de crevettes).",
+      "getAround": "Bus touristiques ou excursions organisées pour Colca.",
+      "tip": "Le col sur la route de Colca dépasse 4 800 m : prévois-le après quelques jours en altitude."
+    },
+    {
+      "slug": "titicaca",
+      "name": "Le lac Titicaca (Puno)",
+      "nights": "2 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "Le lac navigable le plus haut du monde, ses îles flottantes et ses communautés aymaras et quechuas.",
+      "sleep": "À Puno, ou chez l'habitant sur l'île d'Amantaní ou Taquile.",
+      "see": [
+        { "name": "Les îles flottantes des Uros", "note": "Construites en roseaux, très touristiques mais uniques." },
+        { "name": "L'île de Taquile", "note": "Réputée pour ses textiles, classés à l'Unesco." },
+        { "name": "Une nuit à Amantaní", "note": "Chez l'habitant, sans électricité ou presque, ciel étoilé." }
+      ],
+      "hidden": [
+        { "name": "Sillustani", "note": "Des tours funéraires préincas au bord d'un lac." }
+      ],
+      "eat": "La truite du lac.",
+      "getAround": "Bus depuis Cusco ou Arequipa ; bateaux vers les îles.",
+      "tip": "Puno est à plus de 3 800 m et les nuits sont glaciales : prévois des vêtements chauds."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Cusco et le Machu Picchu",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jour 1", "place": "Lima", "note": "Arrivée, Miraflores." },
+        { "days": "Jours 2 à 4", "place": "La Vallée sacrée", "note": "Vol vers Cusco, descente vers la vallée pour s'acclimater." },
+        { "days": "Jours 5 et 6", "place": "Machu Picchu", "note": "Train depuis Ollantaytambo, nuit à Aguas Calientes." },
+        { "days": "Jours 7 à 10", "place": "Cusco", "note": "Ville, Sacsayhuamán, Maras et Moray. Retour via Lima." }
+      ]
+    },
+    {
+      "days": 14,
+      "title": "Le sud andin",
+      "for": ["explorateur", "lent"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Lima", "note": "Gastronomie et musées." },
+        { "days": "Jours 3 à 5", "place": "Arequipa et Colca", "note": "Vol vers Arequipa, condors." },
+        { "days": "Jours 6 et 7", "place": "Lac Titicaca", "note": "Bus vers Puno, nuit à Amantaní." },
+        { "days": "Jours 8 à 12", "place": "Cusco et la Vallée sacrée", "note": "Bus panoramique depuis Puno." },
+        { "days": "Jours 13 et 14", "place": "Machu Picchu", "note": "Retour par Cusco et Lima." }
+      ]
+    },
+    {
+      "days": 7,
+      "title": "L'essentiel",
+      "for": ["energique"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Vallée sacrée", "note": "Directement depuis l'aéroport de Cusco." },
+        { "days": "Jours 3 et 4", "place": "Machu Picchu", "note": "Nuit à Aguas Calientes." },
+        { "days": "Jours 5 à 7", "place": "Cusco", "note": "Retour via Lima." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les vols intérieurs", "text": "Lima-Cusco ou Lima-Arequipa en 1 h 30 environ : ils font gagner des journées entières de bus." },
+    { "title": "Les bus longue distance", "text": "Choisis les compagnies reconnues, avec sièges inclinables. Garde tes affaires de valeur sur toi." },
+    { "title": "Le train", "text": "Deux compagnies desservent le Machu Picchu depuis Cusco et Ollantaytambo. Réserve tôt." },
+    { "title": "Les taxis", "text": "Utilise les applications de VTC ou des taxis réservés par ton hébergement, jamais un taxi hélé dans la rue à Lima." }
+  ],
+  "culture": [
+    "Le salut « buenos días » est important avant toute question.",
+    "Demande avant de photographier quelqu'un, surtout en tenue traditionnelle : une petite somme est souvent attendue.",
+    "La feuille de coca, en infusion ou mâchée, est légale et traditionnelle dans les Andes ; elle ne doit pas sortir du pays.",
+    "L'eau du robinet ne se boit pas."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Buenos días", "say": "bouénoss dias" },
+    { "fr": "Merci", "local": "Gracias", "say": "grassiass" },
+    { "fr": "Combien ça coûte ?", "local": "¿Cuánto cuesta?", "say": "couanto couesta" },
+    { "fr": "Bonjour (en quechua)", "local": "Allillanchu", "say": "alliyanchou" },
+    { "fr": "Merci (en quechua)", "local": "Sulpayki", "say": "soulpaïki" }
+  ],
+  "checklist": [
+    "Passeport valide au moins 6 mois à l'arrivée (aucune dérogation)",
+    "Billets du Machu Picchu et train réservés longtemps à l'avance",
+    "Vaccin fièvre jaune si tu vas en Amazonie",
+    "Avis médical sur le mal des montagnes",
+    "Assurance santé et rapatriement couvrant l'altitude",
+    "Vêtements chauds pour les nuits en altitude, crème solaire forte",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour le Pérou ?", "a": "Non pour un séjour touristique de moins de 90 jours. Mais le passeport doit être valide au moins 6 mois à l'arrivée : sans cela, l'entrée est refusée, sans exception." },
+    { "q": "Quand partir au Pérou ?", "a": "De mai à octobre, pendant la saison sèche dans les Andes. Juillet et août sont les plus fréquentés. En février, le chemin de l'Inca est fermé." },
+    { "q": "Comment réserver le Machu Picchu ?", "a": "Les billets sont vendus par circuit et par horaire, en nombre limité, sur le site officiel. En haute saison, réserve plusieurs mois à l'avance, ainsi que le train jusqu'à Aguas Calientes." },
+    { "q": "Comment éviter le mal des montagnes ?", "a": "Monte progressivement (commence par la Vallée sacrée, plus basse que Cusco), bois beaucoup d'eau, évite l'alcool et les efforts les deux premiers jours, et demande conseil à ton médecin avant le départ." },
+    { "q": "Quel budget pour deux semaines au Pérou ?", "a": "Compte environ 205 à 500 S/ par jour seul et 165 à 400 S/ par personne à deux, hors vols et Machu Picchu. Ces montants sont des estimations à vérifier." }
+  ]
+}

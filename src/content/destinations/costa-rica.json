@@ -1,0 +1,254 @@
+{
+  "name": "Costa Rica",
+  "prep": "au Costa Rica",
+  "kind": "pays",
+  "continent": "Amérique centrale et Caraïbes",
+  "priority": 17,
+  "status": "brouillon",
+  "updatedAt": "2026-11-24",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Costa Rica : quand partir, budget, parcs, itinéraires",
+    "description": "Préparer un voyage au Costa Rica : saison sèche, entrée, budget seul ou à deux, Arenal, Monteverde, Manuel Antonio, Tortuguero, Osa. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Costa Rica se visite surtout de décembre à avril, pendant la saison sèche côté Pacifique ; la côte caraïbe est plus sèche en septembre-octobre. Pas de visa, mais un passeport en parfait état, un billet de sortie et une réservation d'hébergement sont exigés. Volcans, forêts et deux océans tiennent en deux semaines.",
+  "essentials": {
+    "bestPeriod": "Décembre à avril",
+    "languages": "Espagnol (anglais dans les lieux touristiques)",
+    "currency": "Colón (CRC) ; le dollar américain est largement accepté",
+    "timeDiff": "−7 h en hiver, −8 h en été",
+    "plugs": "Types A et B, 120 V : adaptateur nécessaire",
+    "emergency": "911",
+    "flight": "Environ 11 h en vol direct depuis Paris (selon la saison)"
+  },
+  "months": [
+    { "rating": 2, "note": "Saison sèche côté Pacifique et dans le centre : la haute saison, réserve tôt." },
+    { "rating": 2, "note": "Sec et ensoleillé, idéal pour les parcs et les plages du Pacifique." },
+    { "rating": 2, "note": "Toujours sec, chaleur en hausse dans le Guanacaste." },
+    { "rating": 2, "note": "Fin de la saison sèche. La Semaine sainte, selon les années, remplit plages et hébergements." },
+    { "rating": 1, "note": "Début de la saison verte : averses l'après-midi, prix en baisse." },
+    { "rating": 1, "note": "Pluies régulières, forêts luxuriantes, peu de monde." },
+    { "rating": 1, "note": "Une accalmie des pluies (le « veranillo ») fréquente en juillet. Tortues à Tortuguero." },
+    { "rating": 1, "note": "Saison des pluies, mais ponte des tortues à Tortuguero et observation des baleines côté Pacifique." },
+    { "rating": 0, "note": "Le mois le plus pluvieux côté Pacifique. La côte caraïbe, elle, est au sec." },
+    { "rating": 0, "note": "Pluies fortes côté Pacifique, routes parfois coupées. Bon pour la côte caraïbe." },
+    { "rating": 1, "note": "Fin de la saison des pluies, paysages très verts." },
+    { "rating": 2, "note": "Retour du temps sec, mais fêtes de fin d'année très chères." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols internationaux. Les prix touristiques sont souvent affichés en dollars.",
+    "rows": [
+      { "label": "Hébergement (lodge ou hôtel simple)", "solo": "50 à 110 $", "duo": "35 à 70 $" },
+      { "label": "Repas", "solo": "20 à 40 $", "duo": "20 à 40 $" },
+      { "label": "Transports locaux", "solo": "10 à 30 $", "duo": "10 à 20 $" },
+      { "label": "Parcs nationaux et activités", "solo": "15 à 50 $", "duo": "15 à 50 $" }
+    ],
+    "totalSolo": "95 à 230 $",
+    "totalDuo": "80 à 180 $",
+    "note": "Le Costa Rica est l'un des pays les plus chers d'Amérique centrale. La location d'un 4x4, souvent indispensable, se partage : à deux, la différence est nette. Les « sodas », petits restaurants locaux, servent un plat du jour (casado) bon marché.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour les Français. À l'arrivée, il faut un passeport en parfait état, un billet de sortie du pays, une preuve d'hébergement et des ressources suffisantes.",
+    "points": [
+      "Le passeport doit être sans déchirure ni tache sur la page d'identité, et valide au moins un jour après la date de sortie. Les pays de transit peuvent exiger 6 mois : vérifie.",
+      "Billet retour ou vers une autre destination, réservations d'hébergement et moyens financiers peuvent être demandés.",
+      "Au-delà de 90 jours, il faut une autorisation de séjour.",
+      "Si tu entres par la route, vérifie que ton passeport porte le tampon de sortie du pays voisin et le tampon d'entrée au Costa Rica, sinon tu es considéré en situation irrégulière.",
+      "Depuis le 11 mai 2025, si tu arrives d'un pays à risque de fièvre jaune, le carnet de vaccination original est exigé."
+    ],
+    "source": { "label": "France Diplomatie, Costa Rica, Entrée / séjour (mise à jour du 3 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/costa-rica/" },
+    "checkedAt": "2026-11-24"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France. Les soins privés coûtent très cher et un dépôt est demandé à l'admission : l'assurance est indispensable.",
+    "points": [
+      "Fièvre jaune : carnet original obligatoire si tu arrives d'un pays à risque.",
+      "Assurance santé avec prise en charge directe si possible : un dépôt de garantie est exigé dans les cliniques privées, et même le réseau public fait payer hors urgence.",
+      "Traitement en cours : emporte l'ordonnance et sa traduction en espagnol, avec la quantité de médicaments correspondant au séjour.",
+      "Protège-toi des moustiques (dengue)."
+    ],
+    "source": { "label": "France Diplomatie, Costa Rica, Santé (mise à jour du 3 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/costa-rica/" },
+    "checkedAt": "2026-11-24"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée. La criminalité augmente, avec un taux d'homicides élevé, même si les touristes sont surtout victimes de vols.",
+    "points": [
+      "Les vols sont fréquents sur les plages, dans les bus et aux arrêts, dans les voitures de location et dans les restaurants, y compris dans les parcs nationaux.",
+      "Dans le bus, garde ton sac sur toi, jamais dans le compartiment au-dessus du siège. Ne laisse rien dans la voiture.",
+      "Évite de sortir seul la nuit dans les quartiers isolés. À San José, sois vigilant notamment autour du marché « La Coca-Cola », à Barrio México et dans plusieurs quartiers du centre.",
+      "Face à une personne armée, n'oppose aucune résistance.",
+      "Urgence : 911. En cas de vol de passeport, déclare-le à la police judiciaire (OIJ) ou à la police touristique, puis contacte l'ambassade."
+    ],
+    "source": { "label": "France Diplomatie, Costa Rica, Sécurité (mise à jour du 3 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/costa-rica/" },
+    "checkedAt": "2026-11-24"
+  },
+  "cities": [
+    {
+      "slug": "la-fortuna",
+      "name": "La Fortuna et le volcan Arenal",
+      "nights": "2 à 3 nuits",
+      "for": ["tous", "energique"],
+      "summary": "Un volcan parfaitement conique, des sources chaudes, des cascades et des ponts suspendus dans la forêt.",
+      "sleep": "À La Fortuna, ou dans un lodge avec vue sur le volcan.",
+      "see": [
+        { "name": "Le parc national du volcan Arenal", "note": "Sentiers sur les anciennes coulées de lave." },
+        { "name": "La cascade de La Fortuna", "note": "Une chute de 70 m dans la jungle, avec baignade." },
+        { "name": "Les ponts suspendus", "note": "Une promenade au niveau de la canopée, idéale pour observer les oiseaux." }
+      ],
+      "hidden": [
+        { "name": "Le río Celeste", "note": "Une rivière d'un bleu irréel dans le parc du volcan Tenorio." }
+      ],
+      "eat": "Le casado (riz, haricots, viande, banane plantain) dans les sodas.",
+      "getAround": "Voiture ou navettes touristiques entre les régions.",
+      "tip": "Les sources chaudes publiques gratuites existent, mais les bassins payants sont plus sûrs et mieux entretenus."
+    },
+    {
+      "slug": "monteverde",
+      "name": "Monteverde",
+      "nights": "2 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "La forêt de nuages, brumeuse et pleine d'orchidées, où l'on peut apercevoir le quetzal resplendissant.",
+      "sleep": "À Santa Elena, le village au pied des réserves.",
+      "see": [
+        { "name": "La réserve de la forêt de nuages", "note": "Avec un guide naturaliste tôt le matin pour voir les animaux." },
+        { "name": "Une visite nocturne", "note": "Grenouilles, paresseux et tarentules à la lampe frontale." },
+        { "name": "La tyrolienne", "note": "Parmi les plus longues du pays, au-dessus de la canopée." }
+      ],
+      "hidden": [
+        { "name": "La réserve de Santa Elena", "note": "Moins fréquentée que Monteverde, tout aussi belle." }
+      ],
+      "eat": "Le café de la région et les fromages locaux.",
+      "getAround": "Route de montagne en partie non goudronnée : 4x4 recommandé. Navettes depuis La Fortuna.",
+      "tip": "Il fait frais et humide : prévois une veste imperméable, même en saison sèche."
+    },
+    {
+      "slug": "manuel-antonio",
+      "name": "Manuel Antonio",
+      "nights": "2 à 3 nuits",
+      "for": ["lent", "tous"],
+      "summary": "Un petit parc national où la jungle descend jusqu'aux plages, avec singes, paresseux et iguanes.",
+      "sleep": "Sur la colline entre Quepos et le parc.",
+      "see": [
+        { "name": "Le parc national Manuel Antonio", "note": "Réservation en ligne obligatoire, fermé le mardi selon les règles en vigueur : vérifie." },
+        { "name": "Les plages du parc", "note": "Playa Manuel Antonio et Espadilla Sur, eaux calmes." },
+        { "name": "Une sortie en kayak dans la mangrove", "note": "Au départ de Quepos." }
+      ],
+      "hidden": [
+        { "name": "Uvita et la Queue de baleine", "note": "Plus au sud : un banc de sable en forme de queue et l'observation des baleines." }
+      ],
+      "eat": "Poissons et fruits de mer à Quepos.",
+      "getAround": "Bus locaux entre Quepos et le parc ; voiture pour la côte.",
+      "tip": "Ne nourris pas les singes et surveille ton sac sur la plage : ils sont aussi habiles que les pickpockets."
+    },
+    {
+      "slug": "tortuguero",
+      "name": "Tortuguero",
+      "nights": "2 nuits",
+      "for": ["explorateur", "lent"],
+      "summary": "Un village de la côte caraïbe accessible seulement par bateau, au milieu de canaux et de forêt, célèbre pour la ponte des tortues.",
+      "sleep": "Dans le village ou dans un lodge le long des canaux.",
+      "see": [
+        { "name": "Les canaux en bateau ou en canoë", "note": "Au lever du jour, pour les singes, caïmans et oiseaux." },
+        { "name": "La ponte des tortues", "note": "De juillet à octobre surtout, uniquement avec un guide agréé la nuit." },
+        { "name": "Le sentier du parc national", "note": "Entre la plage et la forêt." }
+      ],
+      "hidden": [
+        { "name": "Puerto Viejo et Cahuita", "note": "Plus au sud, la culture afro-caribéenne et des plages bordées de jungle." }
+      ],
+      "eat": "Le rice and beans au lait de coco, spécialité caribéenne.",
+      "getAround": "Bus et bateau depuis La Pavona, ou transfert organisé depuis San José.",
+      "tip": "Pas de voiture ni de distributeur fiable sur place : prévois des espèces."
+    },
+    {
+      "slug": "osa",
+      "name": "La péninsule d'Osa (Corcovado)",
+      "nights": "3 nuits",
+      "for": ["explorateur"],
+      "summary": "L'un des endroits les plus riches en biodiversité de la planète : tapirs, aras rouges, quatre espèces de singes.",
+      "sleep": "À Puerto Jiménez ou Bahía Drake, dans des lodges en bord de jungle.",
+      "see": [
+        { "name": "Le parc national du Corcovado", "note": "Guide agréé obligatoire pour toute visite." },
+        { "name": "L'île du Caño", "note": "Plongée et snorkeling depuis Bahía Drake." },
+        { "name": "Les plages sauvages", "note": "Désertes, mais souvent dangereuses pour la baignade." }
+      ],
+      "hidden": [],
+      "eat": "Les lodges proposent généralement la pension complète.",
+      "getAround": "Petit avion depuis San José, ou longue route puis bateau.",
+      "tip": "La région est isolée : réserve tout à l'avance et garde une marge pour la météo."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 14,
+      "title": "Volcans, forêts et plages",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Tortuguero", "note": "Transfert depuis San José." },
+        { "days": "Jours 4 à 6", "place": "La Fortuna", "note": "Arenal, cascade, sources chaudes." },
+        { "days": "Jours 7 et 8", "place": "Monteverde", "note": "Forêt de nuages." },
+        { "days": "Jours 9 à 12", "place": "Manuel Antonio", "note": "Parc et plages." },
+        { "days": "Jours 13 et 14", "place": "Retour", "note": "Par San José." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "L'essentiel en douceur",
+      "for": ["lent"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "La Fortuna", "note": "À ton rythme, avec le río Celeste." },
+        { "days": "Jours 5 et 6", "place": "Monteverde", "note": "Visite guidée et nocturne." },
+        { "days": "Jours 7 à 10", "place": "Manuel Antonio", "note": "Retour par San José." }
+      ]
+    },
+    {
+      "days": 14,
+      "title": "Nature sauvage",
+      "for": ["explorateur", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "La Fortuna", "note": "Volcan et rafting." },
+        { "days": "Jours 4 et 5", "place": "Monteverde", "note": "Tyrolienne." },
+        { "days": "Jours 6 à 8", "place": "Uvita", "note": "Baleines selon la saison." },
+        { "days": "Jours 9 à 13", "place": "Péninsule d'Osa", "note": "Corcovado avec guide." },
+        { "days": "Jour 14", "place": "Retour", "note": "Petit avion vers San José." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "En voiture", "text": "Un 4x4 est conseillé hors des grands axes. Ne laisse rien dans le véhicule et ne roule pas de nuit." },
+    { "title": "Les navettes touristiques", "text": "Des minibus relient les principales étapes, porte à porte : pratique sans voiture." },
+    { "title": "Les bus publics", "text": "Très bon marché mais lents. Garde ton sac sur toi." },
+    { "title": "Les petits avions", "text": "Vols intérieurs vers la péninsule d'Osa, Tortuguero ou la côte du Pacifique." }
+  ],
+  "culture": [
+    "« Pura vida » sert à dire bonjour, merci, au revoir ou que tout va bien.",
+    "Le Costa Rica n'a pas d'armée depuis 1948 et en est très fier.",
+    "Une taxe de service est généralement incluse au restaurant ; le pourboire en plus est facultatif.",
+    "Les guides naturalistes sont précieux : sans eux, on passe à côté de la plupart des animaux."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Buenos días", "say": "bouénoss dias" },
+    { "fr": "Merci", "local": "Gracias", "say": "grassiass" },
+    { "fr": "Tout va bien / super", "local": "Pura vida", "say": "poura vida" },
+    { "fr": "Combien ça coûte ?", "local": "¿Cuánto cuesta?", "say": "couanto couesta" },
+    { "fr": "L'addition, s'il vous plaît", "local": "La cuenta, por favor", "say": "la couenta, por favor" }
+  ],
+  "checklist": [
+    "Passeport en parfait état, valide au moins jusqu'à la sortie (6 mois si transit qui l'exige)",
+    "Billet de sortie du pays et preuve d'hébergement",
+    "Carnet de fièvre jaune original si tu arrives d'un pays à risque",
+    "Assurance santé avec prise en charge directe",
+    "Ordonnance traduite en espagnol si tu suis un traitement",
+    "Réservations en ligne pour Manuel Antonio et les parcs",
+    "Veste imperméable, répulsif, adaptateur type A"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour le Costa Rica ?", "a": "Non. Il faut un passeport en parfait état, valide au moins jusqu'à la sortie du pays, un billet de sortie, une preuve d'hébergement et des moyens suffisants. Au-delà de 90 jours, une autorisation de séjour est nécessaire." },
+    { "q": "Quelle est la meilleure période pour le Costa Rica ?", "a": "De décembre à avril, pendant la saison sèche côté Pacifique. La côte caraïbe (Tortuguero, Puerto Viejo) est plus sèche en septembre et octobre." },
+    { "q": "Le Costa Rica est-il sûr ?", "a": "Le pays est en vigilance renforcée : la criminalité augmente. Les touristes sont surtout victimes de vols sur les plages, dans les bus et les voitures de location. Ne laisse rien sans surveillance et évite les quartiers isolés la nuit." },
+    { "q": "Quel budget pour deux semaines au Costa Rica ?", "a": "Compte environ 95 à 230 $ par jour seul et 80 à 180 $ par personne à deux, hors vols et location de voiture. C'est l'un des pays les plus chers d'Amérique centrale. Ces montants sont des estimations à vérifier." }
+  ]
+}
