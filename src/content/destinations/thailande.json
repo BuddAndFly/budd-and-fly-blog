@@ -1,0 +1,264 @@
+{
+  "name": "Thaïlande",
+  "prep": "en Thaïlande",
+  "kind": "pays",
+  "continent": "Asie",
+  "priority": 2,
+  "status": "brouillon",
+  "updatedAt": "2026-11-23",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Thaïlande : quand partir, budget, visa, itinéraires",
+    "description": "Préparer un voyage en Thaïlande : meilleure saison, visa (30 jours depuis 2026), budget seul ou à deux, villes, îles et itinéraires. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La meilleure période pour la Thaïlande va de novembre à février, quand il fait chaud et sec sur la plus grande partie du pays. Depuis le 15 septembre 2026, les Français peuvent y séjourner 30 jours sans visa (contre 60 auparavant), à condition de remplir la carte d'arrivée en ligne avant le départ. Pour un premier voyage de deux semaines : Bangkok, le nord autour de Chiang Mai, puis une île.",
+  "essentials": {
+    "bestPeriod": "Novembre à février",
+    "languages": "Thaï (anglais courant dans les zones touristiques)",
+    "currency": "Baht (THB)",
+    "timeDiff": "+6 h en hiver, +5 h en été",
+    "plugs": "Plusieurs types (A, B, C, O), 220 V : adaptateur conseillé",
+    "emergency": "Police 191 · Ambulance 1669 · Police touristique 1155",
+    "flight": "Environ 11 h 30 en vol direct depuis Paris"
+  },
+  "months": [
+    { "rating": 2, "note": "Saison sèche et relativement fraîche : le meilleur moment pour tout le pays, et donc le plus fréquenté." },
+    { "rating": 2, "note": "Toujours sec et ensoleillé. Les nuits sont douces dans le nord." },
+    { "rating": 1, "note": "La chaleur monte fortement, surtout dans le centre. Le nord peut être voilé par la fumée des brûlis agricoles." },
+    { "rating": 0, "note": "Le mois le plus chaud. Mi-avril, Songkran, le Nouvel An thaï, transforme les rues en bataille d'eau géante : réjouissant, mais tout est complet." },
+    { "rating": 0, "note": "Début de la saison des pluies, chaleur lourde. Prix en baisse." },
+    { "rating": 1, "note": "Pluies en averses, souvent en fin de journée. Côté golfe (Koh Samui, Koh Tao), la météo reste correcte." },
+    { "rating": 1, "note": "Saison des pluies sur la côte d'Andaman (Phuket, Krabi), mer agitée. Le golfe de Thaïlande est la meilleure option." },
+    { "rating": 1, "note": "Même configuration qu'en juillet : préfère les îles du golfe. Vacances européennes, prix en hausse." },
+    { "rating": 0, "note": "Le mois le plus pluvieux dans une grande partie du pays." },
+    { "rating": 1, "note": "Fin des pluies dans le nord et le centre. Le golfe entre dans sa saison humide." },
+    { "rating": 2, "note": "Retour du temps sec. Fête des lanternes (Loy Krathong et Yi Peng) selon le calendrier lunaire, magnifique à Chiang Mai." },
+    { "rating": 2, "note": "Sec et agréable partout sauf dans le sud du golfe. Fêtes de fin d'année : réserve tôt." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en bahts, par jour et par personne, hors vols internationaux. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (chambre simple, guesthouse ou petit hôtel)", "solo": "800 à 1 500 ฿", "duo": "500 à 1 000 ฿" },
+      { "label": "Repas (cuisine de rue et petits restaurants)", "solo": "300 à 700 ฿", "duo": "300 à 700 ฿" },
+      { "label": "Transports locaux", "solo": "100 à 400 ฿", "duo": "100 à 300 ฿" },
+      { "label": "Visites et entrées", "solo": "100 à 500 ฿", "duo": "100 à 500 ฿" }
+    ],
+    "totalSolo": "1 300 à 3 100 ฿",
+    "totalDuo": "1 000 à 2 500 ฿",
+    "note": "Les îles et Bangkok coûtent plus cher que le nord. En dortoir, compte plutôt 250 à 500 ฿ la nuit. Les trajets entre régions (train de nuit, bus ou vol intérieur) s'ajoutent.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Depuis le 15 septembre 2026, les Français peuvent séjourner 30 jours sans visa en Thaïlande pour du tourisme, contre 60 jours auparavant. Une carte d'arrivée en ligne est obligatoire.",
+    "points": [
+      "Remplis la carte d'arrivée numérique (TDAC) en ligne dans les 3 jours qui précèdent ton arrivée, sur le site officiel de l'immigration thaïlandaise.",
+      "Passeport valide au moins 6 mois après la date d'entrée, en bon état. Si tu enchaînes plusieurs pays d'Asie du Sud-Est, garde 6 mois de validité en quittant la Thaïlande.",
+      "Un passeport déclaré perdu ou volé, même retrouvé, entraîne un refus d'entrée.",
+      "Seulement deux entrées sans visa par année civile. Les allers-retours aux frontières pour prolonger son séjour (« visa run ») sont illégaux.",
+      "L'immigration peut demander de présenter l'équivalent de 20 000 ฿ par personne en espèces.",
+      "Dépasser les 30 jours sans prolongation officielle expose à une amende, voire à une expulsion. Vérifie la date inscrite sur le tampon d'entrée."
+    ],
+    "source": { "label": "France Diplomatie, Thaïlande, Entrée / séjour (mise à jour du 7 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/thailande/" },
+    "checkedAt": "2026-11-23"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France. Plusieurs vaccins sont recommandés selon le séjour, et la protection contre les moustiques est indispensable.",
+    "points": [
+      "Mets à jour les vaccins du calendrier français.",
+      "Rage : vaccin recommandé pour les enfants et les séjours en zone rurale.",
+      "Encéphalite japonaise : à discuter selon la durée et le type de séjour.",
+      "Dengue et chikungunya circulent : répulsif, vêtements couvrants, moustiquaire.",
+      "Paludisme : demande conseil à un médecin selon les régions que tu visites.",
+      "Assurance santé et rapatriement indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Thaïlande, Santé (mise à jour du 7 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/thailande/" },
+    "checkedAt": "2026-11-23"
+  },
+  "safety": {
+    "text": "Les régions touristiques sont sûres. Le principal danger est la route, en particulier en deux-roues. Plusieurs zones frontalières sont formellement déconseillées.",
+    "points": [
+      "Formellement déconseillés : les provinces de l'extrême sud (Narathiwat, Pattani, Yala, Songkhla), toute la frontière avec la Birmanie sauf la ville de Mae Sot, et une bande de 50 km le long de la frontière cambodgienne, fermée après des affrontements.",
+      "Déconseillées sauf raison impérative : les provinces de Satun et Phatthalung. Pour Koh Lipe, passe par la mer depuis Koh Lanta ou Krabi.",
+      "Route : l'un des taux d'accidents les plus élevés au monde, 90 % des accidents mortels concernent des deux-roues. Il faut un permis international pour conduire.",
+      "Méfie-toi des offres d'emploi sur les réseaux sociaux : elles servent à recruter pour des centres d'escroquerie dans les pays voisins.",
+      "Ne laisse jamais tes affaires sans surveillance sur la plage, et tiens-toi à l'écart des manifestations."
+    ],
+    "source": { "label": "France Diplomatie, Thaïlande, Sécurité (mise à jour du 7 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/thailande/" },
+    "checkedAt": "2026-11-23"
+  },
+  "cities": [
+    {
+      "slug": "bangkok",
+      "name": "Bangkok",
+      "nights": "3 nuits",
+      "for": ["energique", "explorateur", "stratege"],
+      "summary": "Une capitale immense et vivante, entre temples dorés, marchés et rooftops. Deux ou trois jours suffisent pour un premier contact.",
+      "sleep": "Autour de Silom ou Sukhumvit pour le métro aérien, près du fleuve (Riverside) pour le charme et l'accès aux temples.",
+      "see": [
+        { "name": "Le Grand Palais et le Wat Phra Kaew", "note": "Le palais royal et le Bouddha d'émeraude. Tenue couvrant épaules et genoux obligatoire." },
+        { "name": "Le Wat Pho", "note": "Le grand Bouddha couché, juste à côté du palais, et une école de massage traditionnel." },
+        { "name": "Le Wat Arun", "note": "Le temple de l'Aube, de l'autre côté du fleuve, superbe en fin de journée." },
+        { "name": "Le marché du week-end de Chatuchak", "note": "Des milliers d'échoppes, le samedi et le dimanche." }
+      ],
+      "hidden": [
+        { "name": "Les canaux de Thonburi", "note": "Une balade en bateau dans les « khlongs » pour voir la ville sur l'eau." },
+        { "name": "Talat Noi", "note": "Un vieux quartier sino-thaï au bord du fleuve, ses ruelles et ses cafés." }
+      ],
+      "eat": "Les marchés de nuit et la cuisine de rue de Chinatown (Yaowarat), le soir.",
+      "getAround": "Métro aérien (BTS), métro (MRT) et bateaux express sur le fleuve Chao Phraya. Pour les taxis, exige le compteur ou passe par une application.",
+      "tip": "Si un inconnu t'annonce qu'un temple est « fermé aujourd'hui » et te propose un tuk-tuk, c'est une arnaque classique."
+    },
+    {
+      "slug": "chiang-mai",
+      "name": "Chiang Mai",
+      "nights": "3 nuits",
+      "for": ["lent", "explorateur", "tous"],
+      "summary": "La grande ville du nord, plus douce et plus verte : temples dans la vieille ville, montagnes, cours de cuisine.",
+      "sleep": "Dans la vieille ville entourée de douves pour tout faire à pied, ou à Nimman pour les cafés et les sorties.",
+      "see": [
+        { "name": "Le Wat Phra That Doi Suthep", "note": "Le temple sur la montagne qui domine la ville, avec vue." },
+        { "name": "Les temples de la vieille ville", "note": "Wat Chedi Luang et Wat Phra Singh, à visiter à pied." },
+        { "name": "Le marché de nuit du dimanche", "note": "La grande rue piétonne de la vieille ville, artisanat et cuisine." }
+      ],
+      "hidden": [
+        { "name": "Le Doi Inthanon", "note": "Le plus haut sommet du pays, cascades et rizières, en une journée." },
+        { "name": "Un cours de cuisine thaïe", "note": "Avec passage au marché : la meilleure façon de rapporter un souvenir." }
+      ],
+      "eat": "Le khao soi, soupe de nouilles au curry typique du nord.",
+      "getAround": "À pied dans la vieille ville, en « songthaew » (pick-up partagé rouge) ou par application pour le reste.",
+      "tip": "Pour voir des éléphants, choisis un refuge qui interdit la monte et les spectacles."
+    },
+    {
+      "slug": "ayutthaya",
+      "name": "Ayutthaya",
+      "nights": "1 nuit ou une journée",
+      "for": ["stratege", "lent", "tous"],
+      "summary": "L'ancienne capitale du royaume de Siam, ses temples en ruines classés à l'Unesco, à 1 h 30 de Bangkok.",
+      "sleep": "Une nuit sur place permet de voir les ruines au lever du soleil, sans les groupes.",
+      "see": [
+        { "name": "Le Wat Mahathat", "note": "Et la célèbre tête de Bouddha prise dans les racines d'un arbre." },
+        { "name": "Le Wat Chaiwatthanaram", "note": "Au bord de la rivière, superbe au coucher du soleil." },
+        { "name": "Le Wat Phra Si Sanphet", "note": "Trois grands stupas alignés, symbole de la ville." }
+      ],
+      "hidden": [],
+      "eat": "Les crêpes sucrées « roti sai mai », spécialité locale.",
+      "getAround": "Train depuis Bangkok, puis vélo de location entre les sites.",
+      "tip": "Le site est vaste et très chaud en journée : commence tôt."
+    },
+    {
+      "slug": "krabi",
+      "name": "Krabi et Railay",
+      "nights": "3 nuits",
+      "for": ["energique", "explorateur"],
+      "summary": "Les falaises calcaires qui plongent dans une mer turquoise, sur la côte d'Andaman. Bonne base pour les îles.",
+      "sleep": "À Ao Nang pour les services, à Railay (accessible en bateau) pour le décor.",
+      "see": [
+        { "name": "La plage de Railay", "note": "Accessible uniquement par bateau, entourée de falaises." },
+        { "name": "La tournée des quatre îles", "note": "En bateau à longue queue, avec baignade et snorkeling." },
+        { "name": "Le point de vue de Railay", "note": "Une montée raide mais spectaculaire, avec chaussures adaptées." }
+      ],
+      "hidden": [
+        { "name": "Le temple de la Grotte du Tigre", "note": "1 260 marches jusqu'au sommet, vue sur toute la région." }
+      ],
+      "eat": "Poissons grillés et curry de crabe dans les restaurants de bord de mer.",
+      "getAround": "Bateaux à longue queue entre les plages, minibus entre les villes.",
+      "tip": "De mai à octobre, la mer peut être agitée de ce côté du pays : préfère les îles du golfe."
+    },
+    {
+      "slug": "koh-lanta",
+      "name": "Koh Lanta",
+      "nights": "3 nuits",
+      "for": ["lent"],
+      "summary": "Une île longue et calme, avec de grandes plages, loin de l'agitation des îles plus connues.",
+      "sleep": "Sur la côte ouest, de Long Beach à Kantiang Bay selon le calme recherché.",
+      "see": [
+        { "name": "Les plages de la côte ouest", "note": "Longues, peu construites, parfaites au coucher du soleil." },
+        { "name": "La vieille ville de Lanta", "note": "Maisons sur pilotis côté est, ambiance de village de pêcheurs." },
+        { "name": "Le parc national de Mu Ko Lanta", "note": "Le phare et une plage sauvage au bout de l'île." }
+      ],
+      "hidden": [
+        { "name": "Excursion à Koh Rok", "note": "Deux îlots, eau claire et snorkeling, en saison sèche." }
+      ],
+      "eat": "Les petits restaurants de plage, et les marchés de l'île.",
+      "getAround": "Scooter très répandu, mais dangereux sans expérience : préfère les tuk-tuks.",
+      "tip": "Koh Lanta est idéale de novembre à avril ; beaucoup d'établissements ferment pendant la saison des pluies."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Temples et plages",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Bangkok", "note": "Temples, fleuve et marchés, avec une journée à Ayutthaya." },
+        { "days": "Jours 4 à 6", "place": "Chiang Mai", "note": "En avion ou train de nuit. Temples, Doi Suthep, cours de cuisine." },
+        { "days": "Jours 7 à 10", "place": "Krabi ou Koh Lanta", "note": "Vol direct depuis Chiang Mai selon la saison, puis plages." }
+      ]
+    },
+    {
+      "days": 14,
+      "title": "Prendre son temps",
+      "for": ["lent", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Bangkok", "note": "Sans courir, avec une nuit à Ayutthaya." },
+        { "days": "Jours 4 à 8", "place": "Chiang Mai et ses environs", "note": "Avec une journée au Doi Inthanon." },
+        { "days": "Jours 9 à 13", "place": "Koh Lanta", "note": "Plages calmes et excursion à Koh Rok." },
+        { "days": "Jour 14", "place": "Retour à Bangkok", "note": "Vol intérieur depuis Krabi." }
+      ]
+    },
+    {
+      "days": 7,
+      "title": "Une semaine intense",
+      "for": ["energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Bangkok", "note": "Temples le jour, rooftops et marchés de nuit." },
+        { "days": "Jours 4 à 7", "place": "Krabi et Railay", "note": "Îles, escalade, baignade." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Vols intérieurs", "text": "Nombreux et bon marché entre Bangkok, Chiang Mai, Krabi, Phuket et Koh Samui. Pratique quand le temps est compté." },
+    { "title": "Trains", "text": "Le train de nuit Bangkok-Chiang Mai est une expérience en soi. Réserve une couchette à l'avance." },
+    { "title": "Bus et minibus", "text": "Ils relient toutes les villes. Pour les longs trajets, privilégie les compagnies officielles plutôt que les minibus vendus dans la rue." },
+    { "title": "Bateaux", "text": "Ferries et bateaux à longue queue pour les îles. Vérifie la météo en saison des pluies." },
+    { "title": "Conduire", "text": "Il faut un permis international. Le deux-roues est la première cause de décès de voyageurs : évite-le sans expérience." }
+  ],
+  "culture": [
+    "On ne critique jamais la famille royale : la loi punit très sévèrement toute offense.",
+    "Dans les temples, épaules et genoux couverts, chaussures retirées avant d'entrer dans les bâtiments.",
+    "On ne touche pas la tête de quelqu'un, et on ne pointe pas les pieds vers une personne ou un Bouddha.",
+    "Le salut traditionnel, mains jointes (« wai »), est apprécié mais pas obligatoire pour les étrangers.",
+    "Rester calme en toutes circonstances : élever la voix fait perdre la face à tout le monde.",
+    "Le pourboire n'est pas obligatoire, mais arrondir l'addition se fait volontiers."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "สวัสดี", "say": "sawatdi (+ khrap pour un homme, kha pour une femme)" },
+    { "fr": "Merci", "local": "ขอบคุณ", "say": "khop khun (khrap / kha)" },
+    { "fr": "Combien ça coûte ?", "local": "เท่าไหร่", "say": "thao rai" },
+    { "fr": "Pas épicé, s'il vous plaît", "local": "ไม่เผ็ด", "say": "mai phet" },
+    { "fr": "C'est délicieux", "local": "อร่อย", "say": "aroi" },
+    { "fr": "Pas de problème", "local": "ไม่เป็นไร", "say": "mai pen rai" }
+  ],
+  "checklist": [
+    "Passeport valide au moins 6 mois après l'entrée, en bon état",
+    "Carte d'arrivée TDAC remplie dans les 3 jours avant l'arrivée",
+    "Séjour de 30 jours maximum sans visa : vérifie tes dates",
+    "Assurance santé et rapatriement",
+    "Vaccins à jour, rendez-vous en centre de vaccinations internationales",
+    "Répulsif anti-moustiques",
+    "Permis international si tu veux conduire",
+    "Tenue couvrant épaules et genoux pour les temples",
+    "Un peu d'espèces en bahts pour l'arrivée",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour la Thaïlande ?", "a": "Non pour un séjour touristique de 30 jours maximum : c'est la règle pour les Français depuis le 15 septembre 2026 (contre 60 jours avant). Il faut un passeport valide 6 mois et remplir la carte d'arrivée en ligne TDAC dans les 3 jours avant l'arrivée." },
+    { "q": "Quelle est la meilleure période pour partir en Thaïlande ?", "a": "De novembre à février pour la plus grande partie du pays : temps sec et chaleur supportable. En juillet et août, préfère les îles du golfe (Koh Samui, Koh Tao), moins touchées par la pluie que la côte d'Andaman." },
+    { "q": "Quel budget pour deux semaines en Thaïlande ?", "a": "Compte environ 1 300 à 3 100 ฿ par jour seul et 1 000 à 2 500 ฿ par personne à deux, hors vols internationaux et trajets entre régions. Les îles et Bangkok coûtent plus cher que le nord. Ces montants sont des estimations à vérifier." },
+    { "q": "Peut-on louer un scooter en Thaïlande ?", "a": "C'est très répandu mais dangereux : 90 % des accidents mortels de la route concernent des deux-roues, et il faut un permis international. Sans expérience, préfère les tuk-tuks, songthaews et applications de transport." },
+    { "q": "Quelles régions éviter en Thaïlande ?", "a": "France Diplomatie déconseille formellement l'extrême sud (Narathiwat, Pattani, Yala, Songkhla), la frontière birmane sauf Mae Sot, et une bande de 50 km le long de la frontière cambodgienne. Les zones touristiques habituelles ne sont pas concernées." }
+  ]
+}
