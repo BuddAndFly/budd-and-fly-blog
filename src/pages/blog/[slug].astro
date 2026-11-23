@@ -1,0 +1,110 @@
+---
+import { render } from 'astro:content';
+import Base from '@/layouts/Base.astro';
+import Credit from '@/components/Credit.astro';
+import { getArticles, getDestinations, isDraft, frDate, type Article } from '@/lib/content';
+import { CATEGORIES, SITE } from '@/data/site';
+
+export async function getStaticPaths() {
+  const all = await getArticles();
+  return all.map((a) => ({ params: { slug: a.id }, props: { a } }));
+}
+
+const { a } = Astro.props as { a: Article };
+const { Content, headings } = await render(a);
+const p = a.data;
+const all = await getArticles();
+const related = all.filter((x) => x.id !== a.id && x.data.category === p.category).slice(0, 3);
+const dests = (await getDestinations()).filter((d) => p.destinations.includes(d.id));
+const cat = CATEGORIES.find((c) => c.name === p.category)!;
+const url = new URL(`/blog/${a.id}/`, SITE.url).href;
+const toc = headings.filter((h) => h.depth === 2);
+const jsonLd = [
+  {
+    '@context': 'https://schema.org', '@type': 'Article', headline: p.title, description: p.description, inLanguage: 'fr',
+    datePublished: p.publishedAt, dateModified: p.updatedAt, mainEntityOfPage: url,
+    image: p.hero ? new URL(p.hero.src, SITE.url).href : undefined,
+    author: p.author ? { '@type': 'Person', name: p.author.name } : { '@type': 'Organization', name: SITE.name },
+    publisher: { '@type': 'Organization', name: SITE.name, logo: { '@type': 'ImageObject', url: new URL('/logo-buddfly.png', SITE.url).href } },
+  },
+  {
+    '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Le blog', item: new URL('/blog/', SITE.url).href },
+      { '@type': 'ListItem', position: 2, name: p.category, item: new URL(`/blog/categorie/${cat.slug}/`, SITE.url).href },
+      { '@type': 'ListItem', position: 3, name: p.title, item: url },
+    ],
+  },
+];
+---
+<Base title={p.seoTitle ?? p.title} description={p.description} image={p.hero?.src} draft={isDraft(a)} jsonLd={jsonLd} type="article">
+  <header class="narrow head">
+    <nav aria-label="Fil d'Ariane" class="kicker"><a href="/blog/">Le blog</a> / <a href={`/blog/categorie/${cat.slug}/`}>{p.category}</a></nav>
+    <h1>{p.title}</h1>
+    <p class="meta">
+      {p.author ? <>Par <strong>{p.author.name}</strong></> : <span class="verify">Auteur à renseigner</span>}
+      {' · '}Mis à jour le {frDate(p.updatedAt)}
+    </p>
+  </header>
+  {p.hero && (
+    <figure class="wrap fig">
+      <img src={p.hero.src} alt={p.hero.alt} width="1600" height="1067" fetchpriority="high" />
+      <Credit credit={p.hero.credit} />
+    </figure>
+  )}
+  <div class="narrow">
+    {toc.length > 2 && (
+      <nav class="toc" aria-label="Sommaire">
+        <span class="kicker kicker--ink">Sommaire</span>
+        <ol>{toc.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol>
+      </nav>
+    )}
+    <article class="prose"><Content /></article>
+
+    {dests.length > 0 && (
+      <aside class="box guides">
+        <span class="kicker">Les guides liés</span>
+        {dests.map((d) => <a href={`/destinations/${d.id}/`} class="row"><span class="row__title">Guide {d.data.name}</span><span class="tag">PDF gratuit</span></a>)}
+      </aside>
+    )}
+
+    <aside class="next">
+      {p.category === 'Partir à deux' || p.category === 'Voyager seul' ? (
+        <>
+          <p class="serif">Trouve avec qui partir</p>
+          <p class="muted">Dans l'application Budd&amp;Fly, des voyageurs vérifiés et ta compatibilité avec chacun.</p>
+          <a href="/app" class="btn btn--accent">Tester l'application</a>
+        </>
+      ) : (
+        <>
+          <p class="serif">Quel voyageur es-tu ?</p>
+          <p class="muted">Deux minutes pour connaître ton profil et recevoir des guides adaptés.</p>
+          <a href="/visa-voyageur/" class="btn btn--accent">Passer mon Visa</a>
+        </>
+      )}
+    </aside>
+
+    {related.length > 0 && (
+      <section class="related">
+        <div class="rule-title"><h2>À lire aussi</h2></div>
+        <div class="rows">{related.map((r) => <a class="row" href={`/blog/${r.id}/`}><span class="row__title">{r.data.title}</span><span class="tag">Lire</span></a>)}</div>
+      </section>
+    )}
+  </div>
+</Base>
+
+<style>
+  .head { display: flex; flex-direction: column; align-items: center; text-align: center; gap: 18px; padding-top: 64px; padding-bottom: 36px; }
+  .head h1 { font-size: clamp(36px, 5vw, 56px); }
+  .head a { color: inherit; text-decoration: none; }
+  .meta { font-size: 14px; color: var(--muted); }
+  .meta strong { color: var(--ink); font-weight: 600; }
+  .fig { position: relative; margin: 0 auto 48px; max-width: 1100px; }
+  .fig img { width: 100%; max-height: 620px; object-fit: cover; }
+  .toc { border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 18px 0; margin-bottom: 36px; }
+  .toc ol { margin: 10px 0 0; padding-left: 1.2em; }
+  .toc a { color: var(--ink-soft); }
+  .guides { margin-top: 48px; display: flex; flex-direction: column; gap: 6px; }
+  .next { margin-top: 48px; padding: 32px; border: 1px solid var(--line); text-align: center; display: flex; flex-direction: column; align-items: center; gap: 12px; }
+  .next .serif { font-size: 30px; }
+  .related { margin-top: 72px; }
+</style>

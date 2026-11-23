@@ -1,0 +1,37 @@
+---
+import Page from '@/layouts/Page.astro';
+import { getDestinations } from '@/lib/content';
+const all = await getDestinations();
+---
+<Page title="Préparer son voyage : la check-list complète" heading="Préparer son voyage" kicker="Préparer" description="La check-list pour préparer un voyage à l'étranger : papiers, santé, assurance, argent, téléphone, bagages. Et les formalités vérifiées pays par pays.">
+  <p class="muted" slot="intro">Tout ce qu'il faut régler avant de partir, dans l'ordre.</p>
+
+  <h2>3 mois avant</h2>
+  <ul>
+    <li><strong>Passeport</strong> : vérifie sa date d'expiration. Beaucoup de pays exigent une validité de plusieurs mois après la date de retour, et les délais de fabrication s'allongent avant l'été.</li>
+    <li><strong>Visa ou autorisation électronique</strong> : chaque pays a ses règles. Elles sont résumées et sourcées dans chacun de nos guides, rubrique « Entrée et formalités ».</li>
+    <li><strong>Vaccins</strong> : certains se font en plusieurs injections. Prends rendez-vous chez ton médecin ou dans un centre de vaccinations internationales.</li>
+  </ul>
+
+  <h2>1 mois avant</h2>
+  <ul>
+    <li><strong>Assurance</strong> : vérifie ce que couvre ta carte bancaire (frais médicaux, rapatriement, plafonds) et complète si besoin. Hors d'Europe, les soins peuvent coûter très cher.</li>
+    <li><strong>Carte européenne d'assurance maladie</strong> pour un voyage dans l'Union européenne : demande-la sur ton compte Ameli.</li>
+    <li><strong>Banque</strong> : préviens-la de ton voyage, vérifie tes plafonds et les frais à l'étranger.</li>
+    <li><strong>Permis de conduire</strong> : certains pays demandent un permis international ou une traduction officielle.</li>
+  </ul>
+
+  <h2>La semaine du départ</h2>
+  <ul>
+    <li>Inscris-toi sur <a href="https://pastel.diplomatie.gouv.fr/fildariane/" rel="noopener">Ariane</a>, le service de France Diplomatie qui t'envoie les alertes de sécurité et permet de te joindre en cas de crise.</li>
+    <li>Relis la page Conseils aux voyageurs de ton pays de destination : les conditions peuvent changer.</li>
+    <li>Scanne passeport, billets et assurance, et garde-les hors ligne dans ton téléphone.</li>
+    <li>Prévois un adaptateur de prise, une carte SIM locale ou une eSIM, et un peu d'argent local.</li>
+    <li>Médicaments dans leur emballage d'origine, avec l'ordonnance.</li>
+  </ul>
+
+  <h2>Les formalités pays par pays</h2>
+  <p>Chaque guide résume l'entrée, la santé et la sécurité d'après France Diplomatie, avec la date de vérification.</p>
+  <ul class="cols">{all.map((d) => <li><a href={`/destinations/${d.id}/#formalites`}>{d.data.name}</a></li>)}</ul>
+</Page>
+<style>.cols { columns: 3 160px; list-style: none; padding: 0; } .cols li { margin: 0 0 6px; }</style>

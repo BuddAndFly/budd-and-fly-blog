@@ -1,0 +1,90 @@
+---
+import Base from '@/layouts/Base.astro';
+import { getDestinations } from '@/lib/content';
+import { AXES, PROFILES, type ProfileId } from '@/data/visa';
+
+export async function getStaticPaths() {
+  return Object.keys(PROFILES).map((p) => ({ params: { profil: p } }));
+}
+
+const id = Astro.params.profil as ProfileId;
+const p = PROFILES[id];
+const all = await getDestinations();
+const cities = all.flatMap((d) => d.data.cities.filter((c) => c.for.includes(id)).map((c) => ({ d, c }))).slice(0, 8);
+const others = (Object.keys(PROFILES) as ProfileId[]).filter((x) => x !== id);
+---
+<Base title={`Profil voyageur : ${p.name}`} description={`${p.name} : ${p.line} Ce qui caractérise ce profil, nos conseils et les destinations qui lui conviennent. Fais le test en 2 minutes.`.slice(0, 158)}>
+  <section class="hero hero--plain head">
+    <div class="hero__inner">
+      <nav aria-label="Fil d'Ariane" class="crumbs"><a href="/visa-voyageur/">Visa voyageur</a> / {p.name}</nav>
+      <h1>{p.name}</h1>
+      <p class="line">{p.line}</p>
+    </div>
+  </section>
+
+  <div class="narrow body">
+    <p class="lead">{p.text}</p>
+
+    <section>
+      <h2>Ce profil en 6 jauges</h2>
+      <div class="gauges">
+        {AXES.map((a) => (
+          <div class="gauge">
+            <div class="gauge__labels"><span>{a.left}</span><span>{a.right}</span></div>
+            <div class="gauge__track"><span class="gauge__dot" style={`left:${p.proto[a.id]}%`}></span></div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Nos conseils</h2>
+      <ul class="tips">{p.tips.map((t) => <li>{t}</li>)}</ul>
+    </section>
+
+    {cities.length > 0 && (
+      <section>
+        <h2>Des étapes faites pour toi</h2>
+        <div class="rows">
+          {cities.map(({ d, c }) => (
+            <a class="row" href={`/destinations/${d.id}/${c.slug}/`}>
+              <span><span class="row__title">{c.name}</span><br /><span class="row__meta">{d.data.name} · {c.summary}</span></span>
+              <span class="tag">{c.nights}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <div class="box cta">
+      <p class="serif">C'est toi ? Vérifie-le.</p>
+      <p class="muted">Le test prend deux minutes et te donne aussi tes guides adaptés.</p>
+      <a href="/visa-voyageur/" class="btn btn--accent">Passer mon Visa</a>
+    </div>
+
+    <nav aria-label="Les autres profils" class="others">
+      <span class="kicker kicker--ink">Les autres profils</span>
+      {others.map((o) => <a href={`/visa-voyageur/${o}/`}>{PROFILES[o].name}</a>)}
+    </nav>
+  </div>
+</Base>
+
+<style>
+  .head { min-height: 0; }
+  .crumbs { font-size: 13px; font-weight: 600; letter-spacing: .22em; text-transform: uppercase; }
+  .crumbs a { color: inherit; text-decoration: none; }
+  .line { font-family: var(--serif); font-style: italic; font-size: 22px; }
+  .body { display: flex; flex-direction: column; gap: 48px; padding-top: 56px; }
+  .lead { font-family: var(--serif); font-size: 24px; line-height: 1.45; }
+  h2 { font-size: clamp(28px, 3.2vw, 36px); margin-bottom: 18px; }
+  .gauges { display: flex; flex-direction: column; gap: 18px; }
+  .gauge__labels { display: flex; justify-content: space-between; font-size: 14px; color: var(--ink-soft); margin-bottom: 10px; }
+  .gauge__track { position: relative; height: 1px; background: var(--line-strong); }
+  .gauge__dot { position: absolute; top: -7px; width: 15px; height: 15px; margin-left: -7px; border-radius: 50%; background: var(--accent); }
+  .tips { padding-left: 1.2em; color: var(--ink-soft); }
+  .tips li + li { margin-top: 8px; }
+  .cta { display: flex; flex-direction: column; gap: 12px; align-items: flex-start; }
+  .cta .serif { font-size: 28px; }
+  .others { display: flex; flex-wrap: wrap; gap: 10px 24px; align-items: baseline; }
+  .others a { color: var(--accent); font-weight: 600; }
+</style>

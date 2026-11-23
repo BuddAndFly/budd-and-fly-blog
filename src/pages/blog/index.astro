@@ -1,0 +1,23 @@
+---
+import Base from '@/layouts/Base.astro';
+import PostList from '@/components/PostList.astro';
+import { getArticles } from '@/lib/content';
+import { CATEGORIES } from '@/data/site';
+const articles = await getArticles();
+---
+<Base title="Le blog voyage : conseils, idées et voyager à deux" description="Conseils pratiques, idées de voyage, voyager seul ou à deux, petits budgets : les articles Budd&Fly, vérifiés et mis à jour.">
+  <section class="hero hero--plain head">
+    <div class="hero__inner">
+      <span class="kicker">Le blog</span>
+      <h1>Conseils et idées de voyage</h1>
+      <nav class="cats" aria-label="Catégories">{CATEGORIES.map((c) => <a href={`/blog/categorie/${c.slug}/`}>{c.name}</a>)}</nav>
+    </div>
+  </section>
+  <div class="wrap section"><PostList articles={articles} /></div>
+</Base>
+<style>
+  .head { min-height: 0; }
+  .cats { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+  .cats a { border: 1px solid var(--line-strong); padding: 8px 16px; text-decoration: none; font-size: 14px; font-weight: 600; }
+  .cats a:hover { border-color: var(--ink); }
+</style>

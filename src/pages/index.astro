@@ -1,0 +1,199 @@
+---
+import Base from '@/layouts/Base.astro';
+import GuideCard from '@/components/GuideCard.astro';
+import { getDestinations, getArticles, frDate } from '@/lib/content';
+import { MONTHS, SITE, CATEGORIES } from '@/data/site';
+import { PROFILES } from '@/data/visa';
+
+const destinations = await getDestinations();
+const articles = (await getArticles()).slice(0, 3);
+const featured = destinations.slice(0, 8);
+
+// « Où partir » : le mois prochain, à partir des notes de chaque guide.
+const now = new Date();
+const next = (now.getMonth() + 1) % 12;
+const goodNext = destinations
+  .filter((d) => d.data.months[next]!.rating === 2)
+  .slice(0, 4);
+
+const catSlug = (name: string) => CATEGORIES.find((c) => c.name === name)?.slug ?? '';
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: SITE.name,
+    url: SITE.url,
+    inLanguage: 'fr',
+    description: SITE.description,
+  },
+];
+---
+<Base title="Guides de voyage gratuits et fiables, à télécharger en PDF" description={SITE.description} jsonLd={jsonLd}>
+  <section class="hero home-hero">
+    <img src="/images/home/hero.jpg" alt="Bateaux rabelos face à la Ribeira, à Porto" width="1600" height="1067" fetchpriority="high" />
+    <div class="hero__inner">
+      <span class="kicker" style="color:#fff">Guides de voyage gratuits</span>
+      <h1>Des guides de voyage fiables, à emporter partout</h1>
+      <p class="hero__date">{destinations.length} destinations · PDF A4 · sources officielles</p>
+      <div class="hero__ctas">
+        <a href="/destinations/" class="btn btn--light">Trouver mon guide</a>
+        <a href="/visa-voyageur/" class="btn btn--ghost-light">Quel voyageur es-tu ?</a>
+      </div>
+    </div>
+    <span class="credit">Porto · Jakub Hałun, CC BY 4.0</span>
+  </section>
+
+  <div class="wrap search-wrap">
+    <form class="search" action="/destinations/" method="get" role="search">
+      <label class="field field--line">Où ?
+        <input type="search" name="q" placeholder="Pays, ville…" list="dest-list" autocomplete="off" />
+        <datalist id="dest-list">{destinations.map((d) => <option value={d.data.name} />)}</datalist>
+      </label>
+      <label class="field field--line">Quand ?
+        <select name="mois"><option value="">N'importe quand</option>{MONTHS.map((m) => <option value={m.slug}>{m.name[0]!.toUpperCase() + m.name.slice(1)}</option>)}</select>
+      </label>
+      <button class="btn btn--accent" type="submit">Chercher</button>
+    </form>
+  </div>
+
+  <section class="wrap section">
+    <div class="rule-title"><h2>Par où commencer</h2></div>
+    <div class="tiles">
+      <a class="tile" href="/blog/categorie/voyager-seul/"><img src="/images/home/voyager-seul.jpg" alt="Randonneuse seule sur un sentier forestier" loading="lazy" width="800" height="533" /><span>Voyager seul</span></a>
+      <a class="tile" href="/blog/categorie/partir-a-deux/"><img src="/images/home/partir-a-deux.jpg" alt="Deux randonneuses sur un sentier" loading="lazy" width="800" height="533" /><span>Partir à deux</span></a>
+      <a class="tile" href="/blog/categorie/petits-budgets/"><img src="/images/home/petits-budgets.jpg" alt="Le tram 28 dans les rues de Lisbonne" loading="lazy" width="800" height="533" /><span>Petits budgets</span></a>
+      <a class="tile" href="/preparer/"><img src="/images/home/preparer.jpg" alt="Tampons d'entrée sur un passeport" loading="lazy" width="800" height="533" /><span>Préparer</span></a>
+    </div>
+    <p class="tile-credits">Photos : Stephan Vance (CC0) · US Forest Service, domaine public · Christine Zenino (CC BY 2.0) · Jon Evans (CC BY 2.0)</p>
+  </section>
+
+  <section class="wrap section">
+    <div class="rule-title"><h2>Les guides à télécharger</h2></div>
+    <p class="intro">Chaque guide tient en un PDF A4 : formalités vérifiées à la source, meilleure saison, budget réel, villes et itinéraires. Gratuit, sans inscription.</p>
+    <div class="cards">{featured.map((d) => <GuideCard d={d} />)}</div>
+    <div class="center"><a href="/destinations/" class="btn btn--outline">Voir toutes les destinations</a></div>
+  </section>
+
+  {goodNext.length > 0 && (
+    <section class="wrap section split">
+      <div class="split__img">
+        <img src="/images/home/ou-partir.jpg" alt="Église Saint-Jean de Kaneo au-dessus du lac d'Ohrid" loading="lazy" width="800" height="1000" />
+        <span class="credit">Ohrid · Diego Delso, CC BY-SA 3.0</span>
+      </div>
+      <div class="split__text">
+        <span class="kicker">Où partir</span>
+        <h2>Où partir en {MONTHS[next]!.name} ?</h2>
+        <p class="muted">Les destinations où la météo et l'affluence sont au rendez-vous ce mois-là.</p>
+        <div class="rows">
+          {goodNext.map((d) => (
+            <a class="row" href={`/destinations/${d.id}/#quand-partir`}>
+              <span><span class="row__title">{d.data.name}</span><br /><span class="row__meta">{d.data.months[next]!.note.split('.')[0]}.</span></span>
+              <span class="tag">Guide</span>
+            </a>
+          ))}
+        </div>
+        <a href={`/ou-partir/${MONTHS[next]!.slug}/`} class="more">Toutes les idées pour {MONTHS[next]!.name}</a>
+        <nav class="months" aria-label="Où partir, mois par mois">{MONTHS.map((m) => <a href={`/ou-partir/${m.slug}/`}>{m.name}</a>)}</nav>
+      </div>
+    </section>
+  )}
+
+  <section class="section--sand">
+    <div class="wrap split">
+      <div class="split__text">
+        <span class="kicker">Le Visa Budd&amp;Fly</span>
+        <h2>Quel voyageur es-tu ?</h2>
+        <p class="muted">Dix questions, deux minutes. Tu obtiens ton profil de voyageur, des guides adaptés à ton rythme et, si tu le souhaites, les voyageurs qui te ressemblent dans l'application.</p>
+        <div><a href="/visa-voyageur/" class="btn btn--accent">Passer mon Visa</a></div>
+      </div>
+      <div class="pass-wrap">
+        <div class="pass">
+          <div class="pass__top"><span>VISA BUDD&amp;FLY</span><span>CARTE D'EMBARQUEMENT</span></div>
+          <div class="pass__body">
+            <span class="kicker kicker--ink">Profil</span>
+            <span class="pass__name">{PROFILES.lent.name}</span>
+            <span class="pass__line">{PROFILES.lent.line}</span>
+          </div>
+          <div class="pass__foot"><div><span>RYTHME</span><strong>Lent</strong></div><div><span>RÉVEIL</span><strong>8 h</strong></div><div><span>SOIRÉES</span><strong>Calmes</strong></div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {articles.length > 0 && (
+    <section class="wrap section">
+      <div class="rule-title"><h2>Articles récents</h2></div>
+      <div class="posts">
+        {articles.map((a) => (
+          <a class="post" href={`/blog/${a.id}/`}>
+            {a.data.hero && <img src={a.data.hero.src} alt={a.data.hero.alt} loading="lazy" width="800" height="533" />}
+            <span class="kicker">{a.data.category}</span>
+            <span class="post__title">{a.data.title}</span>
+            <span class="muted small">{frDate(a.data.updatedAt)}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <section class="hero app-band">
+    <img src="/images/home/app.jpg" alt="Voyageur face à une mer de nuages au Vietnam" loading="lazy" width="1600" height="1067" />
+    <div class="hero__inner">
+      <img src="/logo-buddfly.png" alt="" width="60" height="60" class="app-logo" />
+      <span class="kicker" style="color:#fff">L'application Budd&amp;Fly</span>
+      <h2>Trouve avec qui partir</h2>
+      <p>Des voyages précis, des profils vérifiés par selfie, ta compatibilité calculée avec chaque voyageur. Gratuit.</p>
+      <a href="/app" class="btn btn--light">Tester l'application</a>
+      <span class="small">Bientôt sur iOS et Android</span>
+    </div>
+    <span class="credit">Tà Xùa, Vietnam · Linh Pham, CC0</span>
+  </section>
+
+  <section class="narrow section about">
+    <span class="kicker">Comment on travaille</span>
+    <p class="about__title">Chaque guide est vérifié à la source, daté et relu par une personne avant d'être publié.</p>
+    <p class="muted">Formalités, santé et sécurité viennent des Conseils aux voyageurs de France Diplomatie. Les photos sont sous licence libre et créditées. Si une information a changé, écris-nous : on corrige.</p>
+    <a href="/a-propos/#methode" class="more">Notre méthode</a>
+  </section>
+</Base>
+
+<style>
+  .home-hero { min-height: 640px; }
+  .hero__ctas { display: flex; gap: 14px; flex-wrap: wrap; justify-content: center; margin-top: 8px; }
+  .search-wrap { position: relative; z-index: 2; margin-top: -46px; max-width: 1000px; }
+  .search { background: #fff; box-shadow: 0 12px 40px rgba(20,24,22,.12); display: flex; flex-wrap: wrap; align-items: flex-end; gap: 16px; padding: 22px 24px; }
+  .search .field { flex: 1 1 200px; }
+  .tile-credits { font-size: 12px; color: var(--muted); margin-top: 10px; }
+  .intro { max-width: 620px; margin: -12px auto 40px; text-align: center; color: var(--muted); }
+  .center { text-align: center; margin-top: 44px; }
+  .split { display: flex; flex-wrap: wrap; gap: 56px; align-items: center; }
+  .split__img { flex: 1 1 420px; position: relative; height: 520px; }
+  .split__img img { width: 100%; height: 100%; object-fit: cover; }
+  .split__text { flex: 1 1 380px; display: flex; flex-direction: column; gap: 18px; }
+  .split__text h2 { font-size: clamp(34px, 4vw, 48px); }
+  .more { color: var(--accent); font-weight: 600; }
+  .months { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 14px; text-transform: capitalize; }
+  .pass-wrap { flex: 1 1 380px; display: flex; justify-content: center; }
+  .pass { width: 100%; max-width: 440px; background: #fff; box-shadow: 0 18px 50px rgba(20,24,22,.12); transform: rotate(-2deg); }
+  .pass__top { display: flex; justify-content: space-between; padding: 14px 22px; border-bottom: 1px solid var(--line); font-size: 11px; font-weight: 600; letter-spacing: .22em; color: var(--muted); }
+  .pass__body { padding: 24px 22px; display: flex; flex-direction: column; gap: 6px; }
+  .pass__name { font-family: var(--serif); font-size: 40px; line-height: 1; }
+  .pass__line { font-family: var(--serif); font-style: italic; font-size: 18px; color: var(--muted); }
+  .pass__foot { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 1px dashed var(--line-strong); }
+  .pass__foot div { padding: 14px 22px; display: flex; flex-direction: column; }
+  .pass__foot div + div { border-left: 1px solid var(--line); }
+  .pass__foot span { font-size: 11px; letter-spacing: .18em; color: var(--muted); }
+  .posts { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 40px; }
+  .post { display: flex; flex-direction: column; gap: 12px; text-decoration: none; text-align: center; }
+  .post img { width: 100%; height: 260px; object-fit: cover; margin-bottom: 6px; }
+  .post__title { font-family: var(--serif); font-size: 26px; line-height: 1.2; }
+  .small { font-size: 13px; }
+  .app-band { margin-top: 110px; min-height: 540px; }
+  .app-band h2 { font-size: clamp(36px, 5vw, 60px); }
+  .app-band p { font-size: 17px; }
+  .app-logo { border-radius: 16px; }
+  .about { display: flex; flex-direction: column; gap: 14px; text-align: center; align-items: center; }
+  .about__title { font-family: var(--serif); font-size: clamp(26px, 3vw, 34px); line-height: 1.25; }
+  @media (max-width: 640px) { .split__img { height: 360px; flex-basis: 100%; } .pass__foot div { padding: 12px; } }
+</style>

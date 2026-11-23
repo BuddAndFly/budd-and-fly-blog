@@ -1,0 +1,14 @@
+---
+import type { Destination } from '@/lib/content';
+interface Props { d: Destination; }
+const { d } = Astro.props;
+const g = d.data;
+const n = g.cities.length;
+---
+<a class="card" href={`/destinations/${d.id}/`}>
+  {g.hero ? <img class="card__img" src={g.hero.src} alt={g.hero.alt} loading="lazy" width="800" height="1000" /> : <span class="card__img card__img--empty">{g.name}</span>}
+  <span class="kicker">{g.continent}</span>
+  <span class="card__title">{g.name}</span>
+  <span class="muted small">{n} {n > 1 ? 'villes' : 'ville'} · guide PDF{g.status === 'brouillon' ? ' · brouillon' : ''}</span>
+</a>
+<style>.small { font-size: 14px; }</style>

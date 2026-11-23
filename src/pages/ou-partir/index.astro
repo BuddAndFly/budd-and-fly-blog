@@ -1,0 +1,37 @@
+---
+import Base from '@/layouts/Base.astro';
+import { getDestinations } from '@/lib/content';
+import { MONTHS } from '@/data/site';
+
+const all = await getDestinations();
+const counts = MONTHS.map((_, i) => all.filter((d) => d.data.months[i]!.rating === 2).length);
+const now = new Date().getMonth();
+---
+<Base title="Où partir en voyage ? Le calendrier mois par mois" description="Où partir selon le mois : les destinations où la saison est idéale, de janvier à décembre, avec météo, affluence et guides PDF gratuits.">
+  <section class="hero hero--plain head">
+    <div class="hero__inner">
+      <span class="kicker">Où partir</span>
+      <h1>Où partir, mois par mois</h1>
+      <p class="muted">Choisis ton mois de départ : on te montre les destinations où c'est la bonne saison.</p>
+    </div>
+  </section>
+  <div class="wrap section">
+    <div class="grid">
+      {MONTHS.map((m, i) => (
+        <a class:list={['month', { current: i === (now + 1) % 12 }]} href={`/ou-partir/${m.slug}/`}>
+          <span class="month__name">{m.name}</span>
+          <span class="muted">{counts[i]} destination{counts[i]! > 1 ? 's' : ''} idéale{counts[i]! > 1 ? 's' : ''}</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>
+
+<style>
+  .head { min-height: 0; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); border-top: 1px solid var(--line); border-left: 1px solid var(--line); }
+  .month { display: flex; flex-direction: column; gap: 6px; padding: 28px 24px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); text-decoration: none; }
+  .month:hover { background: var(--sand); }
+  .month.current { background: var(--sand); }
+  .month__name { font-family: var(--serif); font-size: 30px; text-transform: capitalize; }
+</style>

@@ -1,0 +1,209 @@
+---
+import Base from '@/layouts/Base.astro';
+import { getDestinations } from '@/lib/content';
+import { AXES, PROFILES, QUESTIONS } from '@/data/visa';
+
+const all = await getDestinations();
+// Pour chaque profil : les villes qui lui correspondent, regroupées par pays.
+const picks = Object.fromEntries(
+  Object.keys(PROFILES).map((p) => [
+    p,
+    all
+      .map((d) => ({ slug: d.id, name: d.data.name, img: d.data.hero?.src ?? null, cities: d.data.cities.filter((c) => c.for.includes(p as never) || c.for.includes('tous')).map((c) => c.name) }))
+      .filter((x) => x.cities.length > 0)
+      .slice(0, 4),
+  ]),
+);
+---
+<Base title="Quel voyageur es-tu ? Le Visa Budd&Fly en 2 minutes" description="Dix questions pour connaître ton profil de voyageur : rythme, organisation, confort, soirées. Avec des destinations et un guide adaptés à ta façon de voyager.">
+  <div class="visa" data-visa>
+    <div class="visa__bar"><span data-bar></span></div>
+
+    <section class="screen intro" data-screen="intro">
+      <span class="kicker">Le Visa Budd&amp;Fly</span>
+      <h1>Quel voyageur es-tu ?</h1>
+      <p class="lead">Dix questions, deux minutes. Pas de bonne ou de mauvaise réponse : ça sert à te proposer les bons guides, et les bons compagnons de voyage.</p>
+      <button class="btn btn--accent" type="button" data-start>Commencer</button>
+      <p class="muted small">Tes réponses restent dans ton navigateur : rien n'est envoyé ni enregistré.</p>
+      <noscript><p class="box">Le questionnaire a besoin de JavaScript. Tu peux lire les <a href="/visa-voyageur/explorateur/">quatre profils de voyageurs</a>.</p></noscript>
+    </section>
+
+    {QUESTIONS.map((q, qi) => (
+      <section class="screen" data-screen={`q${qi}`} hidden>
+        <span class="kicker">{q.tag} · {qi + 1} sur {QUESTIONS.length}</span>
+        <h2>{q.title}</h2>
+        <div class="options" role="group" aria-label={q.title}>
+          {q.options.map((o, oi) => (
+            <button type="button" class="option" data-q={qi} data-o={oi}>
+              <span class="option__dot" aria-hidden="true"></span>
+              <span class="option__text"><span class="option__label">{o.label}</span><span class="option__hint">{o.hint}</span></span>
+            </button>
+          ))}
+        </div>
+        {qi > 0 && <button type="button" class="back" data-back>← Question précédente</button>}
+      </section>
+    ))}
+
+    <section class="screen result" data-screen="result" hidden>
+      <div class="pass">
+        <div class="pass__top"><span>VISA BUDD&amp;FLY</span><span>CARTE D'EMBARQUEMENT</span></div>
+        <div class="pass__body">
+          <span class="kicker kicker--ink">Ton profil</span>
+          <h2 class="pass__name" data-r-name></h2>
+          <p class="pass__line" data-r-line></p>
+        </div>
+      </div>
+      <p class="lead" data-r-text></p>
+      <div class="gauges">
+        {AXES.map((a) => (
+          <div class="gauge">
+            <div class="gauge__labels"><span>{a.left}</span><span>{a.right}</span></div>
+            <div class="gauge__track"><span class="gauge__dot" data-axis={a.id}></span></div>
+          </div>
+        ))}
+      </div>
+      <div class="tips"><span class="kicker kicker--ink">Tes conseils</span><ul data-r-tips></ul></div>
+      <div class="share">
+        <button type="button" class="btn btn--outline" data-share>Partager mon Visa</button>
+        <a class="btn btn--outline" data-r-link href="#">Lire mon profil en détail</a>
+      </div>
+      <div class="dests"><span class="kicker kicker--ink">Des guides pour toi</span><div data-r-dests class="dests__list"></div></div>
+      <div class="app">
+        <p class="serif app__title">Trouve des voyageurs qui te ressemblent</p>
+        <p>Dans l'application Budd&amp;Fly, ta compatibilité est calculée avec chaque voyage proposé.</p>
+        <a href="/app" class="btn btn--light">Continuer dans l'application</a>
+      </div>
+      <button type="button" class="back" data-restart>Recommencer le test</button>
+    </section>
+  </div>
+  <script type="application/json" id="visa-picks" set:html={JSON.stringify(picks)} />
+</Base>
+
+<script>
+  import { QUESTIONS, PROFILES, AXES, computeVisa, type Option, type ProfileId } from '@/data/visa';
+
+  const root = document.querySelector<HTMLElement>('[data-visa]')!;
+  const screens = [...root.querySelectorAll<HTMLElement>('[data-screen]')];
+  const bar = root.querySelector<HTMLElement>('[data-bar]')!;
+  const picks = JSON.parse(document.getElementById('visa-picks')!.textContent ?? '{}') as Record<string, { slug: string; name: string; img: string | null; cities: string[] }[]>;
+  const answers: (Option | undefined)[] = [];
+
+  const show = (id: string) => {
+    screens.forEach((s) => (s.hidden = s.dataset.screen !== id));
+    const n = id.startsWith('q') ? Number(id.slice(1)) : id === 'result' ? QUESTIONS.length : 0;
+    bar.style.width = `${(n / QUESTIONS.length) * 100}%`;
+    const target = screens.find((s) => s.dataset.screen === id);
+    target?.querySelector<HTMLElement>('h1, h2')?.setAttribute('tabindex', '-1');
+    target?.querySelector<HTMLElement>('h1, h2')?.focus({ preventScroll: true });
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const render = (profile: ProfileId, scores: Record<string, number>) => {
+    const p = PROFILES[profile];
+    root.querySelector('[data-r-name]')!.textContent = p.name;
+    root.querySelector('[data-r-line]')!.textContent = p.line;
+    root.querySelector('[data-r-text]')!.textContent = p.text;
+    root.querySelector('[data-r-tips]')!.innerHTML = '';
+    for (const t of p.tips) {
+      const li = document.createElement('li');
+      li.textContent = t;
+      root.querySelector('[data-r-tips]')!.append(li);
+    }
+    for (const a of AXES) {
+      const dot = root.querySelector<HTMLElement>(`[data-axis="${a.id}"]`);
+      if (dot) dot.style.left = `${scores[a.id] ?? 50}%`;
+    }
+    root.querySelector<HTMLAnchorElement>('[data-r-link]')!.href = `/visa-voyageur/${profile}/`;
+    const box = root.querySelector('[data-r-dests]')!;
+    box.innerHTML = '';
+    for (const d of picks[profile] ?? []) {
+      const a = document.createElement('a');
+      a.className = 'dest';
+      a.href = `/destinations/${d.slug}/imprimer/?profil=${profile}`;
+      if (d.img) {
+        const img = document.createElement('img');
+        img.src = d.img; img.alt = ''; img.loading = 'lazy';
+        a.append(img);
+      }
+      const span = document.createElement('span');
+      const strong = document.createElement('strong');
+      strong.textContent = d.name;
+      const small = document.createElement('small');
+      small.textContent = `${d.cities.join(', ')} · guide PDF adapté`;
+      span.append(strong, document.createElement('br'), small);
+      a.append(span);
+      box.append(a);
+    }
+    if (!box.children.length) box.textContent = 'Les guides arrivent bientôt.';
+  };
+
+  root.querySelector('[data-start]')!.addEventListener('click', () => show('q0'));
+  root.querySelectorAll<HTMLButtonElement>('.option').forEach((btn) =>
+    btn.addEventListener('click', () => {
+      const qi = Number(btn.dataset.q);
+      answers[qi] = QUESTIONS[qi]!.options[Number(btn.dataset.o)];
+      if (qi + 1 < QUESTIONS.length) show(`q${qi + 1}`);
+      else {
+        const { profile, scores } = computeVisa(answers.filter(Boolean) as Option[]);
+        render(profile, scores);
+        show('result');
+      }
+    }),
+  );
+  root.querySelectorAll<HTMLButtonElement>('[data-back]').forEach((b) =>
+    b.addEventListener('click', () => {
+      const cur = screens.find((s) => !s.hidden)?.dataset.screen ?? 'q1';
+      show(`q${Math.max(0, Number(cur.slice(1)) - 1)}`);
+    }),
+  );
+  root.querySelector('[data-restart]')!.addEventListener('click', () => { answers.length = 0; show('intro'); });
+  root.querySelector('[data-share]')!.addEventListener('click', async () => {
+    const name = root.querySelector('[data-r-name]')!.textContent;
+    const url = new URL(root.querySelector<HTMLAnchorElement>('[data-r-link]')!.href, location.href).href;
+    const text = `Mon Visa Budd&Fly : ${name}. Et toi, quel voyageur es-tu ?`;
+    if (navigator.share) { try { await navigator.share({ title: 'Mon Visa Budd&Fly', text, url }); } catch { /* annulé */ } }
+    else { await navigator.clipboard.writeText(`${text} ${url}`); (root.querySelector('[data-share]') as HTMLElement).textContent = 'Lien copié'; }
+  });
+</script>
+
+<style>
+  .visa { max-width: 720px; margin: 0 auto; padding: 0 var(--gutter) 40px; }
+  .visa__bar { height: 2px; background: var(--line); margin-bottom: 48px; }
+  .visa__bar span { display: block; height: 100%; width: 0; background: var(--accent); transition: width .3s ease; }
+  .screen { display: flex; flex-direction: column; gap: 22px; }
+  .screen h1 { font-size: clamp(40px, 6vw, 64px); }
+  .screen h2 { font-size: clamp(32px, 4.5vw, 44px); }
+  .screen h1:focus, .screen h2:focus { outline: none; }
+  .lead { font-family: var(--serif); font-size: 22px; line-height: 1.45; }
+  .small { font-size: 13px; }
+  .intro .btn { align-self: flex-start; }
+  .options { display: flex; flex-direction: column; border-top: 1px solid var(--line); }
+  .option { display: flex; align-items: center; gap: 18px; text-align: left; min-height: 80px; padding: 14px 6px; border: 0; border-bottom: 1px solid var(--line); background: #fff; font: inherit; color: var(--ink); cursor: pointer; }
+  .option:hover { background: var(--sand); }
+  .option__dot { width: 22px; height: 22px; flex-shrink: 0; border-radius: 50%; border: 1px solid var(--ink); }
+  .option:hover .option__dot { background: var(--accent); border-color: var(--accent); }
+  .option__text { display: flex; flex-direction: column; }
+  .option__label { font-size: 18px; font-weight: 600; }
+  .option__hint { font-size: 14px; color: var(--muted); }
+  .back { align-self: flex-start; border: 0; background: none; font: inherit; font-size: 14px; color: var(--muted); text-decoration: underline; cursor: pointer; min-height: 44px; }
+  .pass { background: #fff; box-shadow: 0 18px 50px rgba(20,24,22,.12); transform: rotate(-1deg); }
+  .pass__top { display: flex; justify-content: space-between; gap: 12px; padding: 14px 22px; border-bottom: 1px solid var(--line); font-size: 11px; font-weight: 600; letter-spacing: .22em; color: var(--muted); }
+  .pass__body { padding: 26px 22px; display: flex; flex-direction: column; gap: 8px; }
+  .pass__name { font-size: clamp(40px, 6vw, 56px) !important; line-height: 1; }
+  .pass__line { font-family: var(--serif); font-style: italic; font-size: 19px; color: var(--muted); }
+  .gauges { display: flex; flex-direction: column; gap: 18px; }
+  .gauge__labels { display: flex; justify-content: space-between; font-size: 14px; color: var(--ink-soft); margin-bottom: 10px; }
+  .gauge__track { position: relative; height: 1px; background: var(--line-strong); }
+  .gauge__dot { position: absolute; top: -7px; left: 50%; width: 15px; height: 15px; margin-left: -7px; border-radius: 50%; background: var(--accent); transition: left .6s ease; }
+  .tips ul { margin: 10px 0 0; padding-left: 1.2em; color: var(--ink-soft); }
+  .tips li + li { margin-top: 6px; }
+  .share { display: flex; gap: 12px; flex-wrap: wrap; }
+  .dests__list { display: flex; flex-direction: column; border-top: 1px solid var(--line); margin-top: 10px; }
+  .dests__list :global(.dest) { display: flex; gap: 16px; align-items: center; padding: 12px 0; border-bottom: 1px solid var(--line); text-decoration: none; }
+  .dests__list :global(img) { width: 72px; height: 72px; object-fit: cover; }
+  .dests__list :global(strong) { font-family: var(--serif); font-weight: 400; font-size: 22px; }
+  .dests__list :global(small) { color: var(--muted); font-size: 14px; }
+  .app { background: var(--night); color: #fff; padding: 28px 24px; display: flex; flex-direction: column; gap: 12px; align-items: flex-start; }
+  .app__title { font-size: 28px; line-height: 1.2; }
+  .app p:not(.app__title) { opacity: .9; }
+</style>

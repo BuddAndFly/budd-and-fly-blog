@@ -1,0 +1,85 @@
+---
+import Base from '@/layouts/Base.astro';
+import GuideCard from '@/components/GuideCard.astro';
+import { getDestinations } from '@/lib/content';
+import { MONTHS } from '@/data/site';
+
+const destinations = await getDestinations();
+const order = ['Europe', 'Asie', 'Moyen-Orient', 'Afrique', 'Amérique du Nord', 'Amérique centrale et Caraïbes', 'Amérique du Sud', 'Océanie', 'Antarctique'];
+const groups = order
+  .map((c) => ({ name: c, items: destinations.filter((d) => d.data.continent === c).sort((a, b) => a.data.name.localeCompare(b.data.name, 'fr')) }))
+  .filter((g) => g.items.length > 0);
+const norm = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+---
+<Base title="Guides de voyage par destination : tous les pays" description={`${destinations.length} guides de voyage gratuits : formalités vérifiées, meilleure saison, budget, villes et itinéraires. À lire en ligne ou à télécharger en PDF A4.`}>
+  <section class="hero hero--plain head">
+    <div class="hero__inner">
+      <span class="kicker">Destinations</span>
+      <h1>Tous nos guides de voyage</h1>
+      <p class="muted">{destinations.length} destinations, chacune avec son guide PDF gratuit.</p>
+      <form class="filter" role="search" data-filter>
+        <label class="field field--line">Pays ou ville
+          <input type="search" name="q" placeholder="Japon, Kyoto, Maroc…" autocomplete="off" />
+        </label>
+        <label class="field field--line">Partir en
+          <select name="mois"><option value="">N'importe quand</option>{MONTHS.map((m, i) => <option value={m.slug} data-i={i}>{m.name[0]!.toUpperCase() + m.name.slice(1)}</option>)}</select>
+        </label>
+      </form>
+      <p class="count" data-count aria-live="polite"></p>
+    </div>
+  </section>
+
+  <div class="wrap">
+    {groups.map((g) => (
+      <section class="section group" id={g.name} data-group>
+        <div class="rule-title"><h2>{g.name}</h2></div>
+        <div class="cards">
+          {g.items.map((d) => (
+            <div data-item data-search={norm([d.data.name, ...d.data.cities.map((c) => c.name)].join(' '))} data-months={d.data.months.map((m) => m.rating).join('')}>
+              <GuideCard d={d} />
+            </div>
+          ))}
+        </div>
+      </section>
+    ))}
+  </div>
+</Base>
+
+<script>
+  const form = document.querySelector<HTMLFormElement>('[data-filter]');
+  const items = [...document.querySelectorAll<HTMLElement>('[data-item]')];
+  const groups = [...document.querySelectorAll<HTMLElement>('[data-group]')];
+  const count = document.querySelector('[data-count]');
+  const months = ['janvier','fevrier','mars','avril','mai','juin','juillet','aout','septembre','octobre','novembre','decembre'];
+  const norm = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim();
+  if (form) {
+    const params = new URLSearchParams(location.search);
+    (form.elements.namedItem('q') as HTMLInputElement).value = params.get('q') ?? '';
+    (form.elements.namedItem('mois') as HTMLSelectElement).value = params.get('mois') ?? '';
+    const apply = () => {
+      const q = norm((form.elements.namedItem('q') as HTMLInputElement).value);
+      const m = months.indexOf((form.elements.namedItem('mois') as HTMLSelectElement).value);
+      let n = 0;
+      for (const el of items) {
+        const okQ = !q || (el.dataset.search ?? '').includes(q);
+        const okM = m < 0 || (el.dataset.months ?? '')[m] === '2';
+        el.hidden = !(okQ && okM);
+        if (!el.hidden) n++;
+      }
+      groups.forEach((g) => (g.hidden = !g.querySelector('[data-item]:not([hidden])')));
+      if (count) count.textContent = q || m >= 0 ? (n ? `${n} destination${n > 1 ? 's' : ''}` : 'Aucune destination ne correspond. Essaie un autre mois ou un autre nom.') : '';
+    };
+    form.addEventListener('input', apply);
+    form.addEventListener('submit', (e) => e.preventDefault());
+    apply();
+  }
+</script>
+
+<style>
+  .head { min-height: 0; }
+  .filter { display: flex; flex-wrap: wrap; gap: 16px; width: 100%; max-width: 640px; margin-top: 8px; text-align: left; }
+  .filter .field { flex: 1 1 220px; }
+  .filter input, .filter select { background: transparent; }
+  .count { font-size: 14px; color: var(--muted); min-height: 1.5em; }
+  .group { scroll-margin-top: 80px; }
+</style>

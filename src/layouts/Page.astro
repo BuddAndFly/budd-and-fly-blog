@@ -1,0 +1,20 @@
+---
+import Base from '@/layouts/Base.astro';
+interface Props { title: string; description: string; kicker?: string; heading?: string; noindex?: boolean; }
+const { title, description, kicker, heading, noindex = false } = Astro.props;
+---
+<Base title={title} description={description} noindex={noindex}>
+  <section class="hero hero--plain head">
+    <div class="hero__inner">
+      {kicker && <span class="kicker">{kicker}</span>}
+      <h1>{heading ?? title}</h1>
+      <slot name="intro" />
+    </div>
+  </section>
+  <div class="narrow prose page-body"><slot /></div>
+</Base>
+<style>
+  .head { min-height: 0; }
+  .page-body { padding-top: 56px; }
+  .page-body :global(h2) { scroll-margin-top: 90px; }
+</style>
