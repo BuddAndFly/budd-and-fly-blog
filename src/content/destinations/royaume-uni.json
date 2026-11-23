@@ -1,0 +1,249 @@
+{
+  "name": "Royaume-Uni",
+  "prep": "au Royaume-Uni",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 13,
+  "status": "brouillon",
+  "updatedAt": "2026-11-24",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Royaume-Uni : ETA, passeport, budget, Londres, Écosse",
+    "description": "Préparer un voyage au Royaume-Uni : passeport et ETA obligatoires, meilleure saison, budget, Londres, Édimbourg, les Highlands, Bath, York. PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Pour aller au Royaume-Uni, il faut désormais un passeport (la carte d'identité ne suffit plus pour les touristes) et une autorisation électronique de voyage, l'ETA, à demander en ligne. La meilleure période va de mai à septembre. Londres se visite toute l'année ; l'Écosse est plus belle en été.",
+  "essentials": {
+    "bestPeriod": "Mai à septembre",
+    "languages": "Anglais",
+    "currency": "Livre sterling (GBP)",
+    "timeDiff": "−1 h",
+    "plugs": "Type G (trois broches), 230 V : adaptateur nécessaire",
+    "emergency": "999 (le 112 fonctionne aussi)",
+    "flight": "Environ 2 h 15 de Paris à Londres en train (Eurostar), 1 h 15 en avion"
+  },
+  "months": [
+    { "rating": 1, "note": "Froid, gris et des journées courtes, mais Londres se visite très bien : musées, théâtres, soldes." },
+    { "rating": 1, "note": "Comme en janvier. Les Highlands sont enneigées et souvent difficiles d'accès." },
+    { "rating": 1, "note": "Le printemps arrive à Londres, encore frais et pluvieux en Écosse." },
+    { "rating": 1, "note": "Jonquilles et parcs en fleurs. Météo très changeante." },
+    { "rating": 2, "note": "Souvent le mois le plus ensoleillé, longues journées, peu de moucherons en Écosse." },
+    { "rating": 2, "note": "Les journées les plus longues de l'année, idéal pour l'Écosse et la campagne." },
+    { "rating": 2, "note": "Le plus chaud, mais aussi le plus fréquenté. Moucherons (midges) dans les Highlands." },
+    { "rating": 2, "note": "Le festival d'Édimbourg occupe tout le mois : magique, mais réserve des mois à l'avance." },
+    { "rating": 2, "note": "Encore doux, moins de monde, couleurs de fin d'été dans les Highlands." },
+    { "rating": 1, "note": "Couleurs d'automne, pluies plus fréquentes. Bon mois pour les villes." },
+    { "rating": 1, "note": "Gris et humide. Le 5 novembre, feux d'artifice de la Guy Fawkes Night." },
+    { "rating": 1, "note": "Illuminations et marchés de Noël à Londres et Édimbourg. Nouvel An (Hogmanay) très festif à Édimbourg." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en livres sterling, par jour et par personne, hors trajet depuis la France.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou B&B)", "solo": "90 à 200 £", "duo": "60 à 120 £" },
+      { "label": "Repas", "solo": "35 à 60 £", "duo": "35 à 60 £" },
+      { "label": "Transports locaux", "solo": "8 à 20 £", "duo": "8 à 20 £" },
+      { "label": "Visites et entrées", "solo": "0 à 40 £", "duo": "0 à 40 £" }
+    ],
+    "totalSolo": "135 à 320 £",
+    "totalDuo": "105 à 240 £",
+    "note": "Londres est l'une des villes les plus chères d'Europe ; le reste du pays est plus abordable. Bonne nouvelle : les grands musées nationaux (British Museum, National Gallery, Tate…) sont gratuits. Les trains réservés à l'avance coûtent beaucoup moins cher. Ajoute le prix de l'ETA.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Passeport obligatoire, et autorisation électronique de voyage (ETA) à demander en ligne avant le départ. Pas de visa pour un séjour touristique de 6 mois maximum.",
+    "points": [
+      "La carte d'identité n'est plus acceptée pour les touristes : seuls les résidents européens au Royaume-Uni (settled ou pre-settled status) peuvent encore l'utiliser.",
+      "L'ETA coûte 20 £. Elle est valable deux ans, ou jusqu'à l'expiration du passeport, pour plusieurs séjours de 6 mois maximum. Demande-la sur le site ou l'application officiels du gouvernement britannique.",
+      "Un passeport déclaré perdu ou volé est systématiquement confisqué par la police aux frontières.",
+      "Pour travailler, étudier ou t'installer, il faut un visa de long séjour."
+    ],
+    "source": { "label": "France Diplomatie, Royaume-Uni, Entrée / séjour (mise à jour du 28 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/royaume-uni/" },
+    "checkedAt": "2026-11-24"
+  },
+  "health": {
+    "text": "Aucun vaccin obligatoire. Garde ta carte européenne d'assurance maladie et vérifie ton assurance : les soins hors urgence peuvent coûter cher.",
+    "points": [
+      "La carte européenne d'assurance maladie (CEAM) reste utile pour les soins médicalement nécessaires ; complète avec une assurance voyage.",
+      "Encéphalite à tiques : à discuter selon tes randonnées en zone rurale ou boisée.",
+      "Pour un médecin généraliste à Londres, le consulat publie une liste de praticiens."
+    ],
+    "source": { "label": "France Diplomatie, Royaume-Uni, Santé (mise à jour du 28 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/royaume-uni/" },
+    "checkedAt": "2026-11-24"
+  },
+  "safety": {
+    "text": "Le pays est en vigilance normale. La menace terroriste est élevée (niveau 4 sur 5), et le port de tout couteau est interdit.",
+    "points": [
+      "Menace terroriste « severe » (4 sur 5) en Grande-Bretagne, « substantial » (3 sur 5) en Irlande du Nord : vigilance dans les transports, les lieux touristiques et les grands événements.",
+      "Interdit de porter un couteau, même un canif à lame bloquante, un cutter ou une bombe lacrymogène.",
+      "Vols de téléphone à l'arraché, notamment par des voleurs en deux-roues : marche du côté du trottoir opposé à la circulation et garde ton téléphone en main loin de la chaussée.",
+      "En cas d'urgence, compose le 999."
+    ],
+    "source": { "label": "France Diplomatie, Royaume-Uni, Sécurité (mise à jour du 28 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/royaume-uni/" },
+    "checkedAt": "2026-11-24"
+  },
+  "cities": [
+    {
+      "slug": "londres",
+      "name": "Londres",
+      "nights": "3 à 5 nuits",
+      "for": ["energique", "stratege", "tous"],
+      "summary": "Musées gratuits immenses, quartiers aux ambiances très différentes, parcs, marchés et théâtres : une ville qu'on ne finit jamais.",
+      "sleep": "South Bank ou Bloomsbury pour être central, Shoreditch ou Camden pour l'ambiance, Notting Hill pour le charme.",
+      "see": [
+        { "name": "Le British Museum et la National Gallery", "note": "Deux musées majeurs, gratuits." },
+        { "name": "Westminster et la Tamise", "note": "Big Ben, l'abbaye, puis la promenade de la South Bank jusqu'à la Tate Modern." },
+        { "name": "La Tour de Londres", "note": "Les joyaux de la Couronne. Réserve en ligne et viens à l'ouverture." },
+        { "name": "Les marchés", "note": "Borough Market pour manger, Camden et Portobello pour chiner." }
+      ],
+      "hidden": [
+        { "name": "Hampstead Heath", "note": "Une immense lande avec vue sur la ville et des étangs de baignade." },
+        { "name": "Le Sky Garden", "note": "Un jardin au sommet d'une tour, gratuit sur réservation." }
+      ],
+      "eat": "Le fish and chips, un « Sunday roast » au pub le dimanche, et les cuisines du monde de Brick Lane.",
+      "getAround": "Métro (Tube), bus à impériale et marche. Paie avec ta carte bancaire sans contact : le tarif est plafonné par jour.",
+      "tip": "Beaucoup de spectacles du West End vendent des billets à prix réduits le jour même."
+    },
+    {
+      "slug": "edimbourg",
+      "name": "Édimbourg",
+      "nights": "2 à 3 nuits",
+      "for": ["lent", "tous"],
+      "summary": "La capitale écossaise, entre château perché, vieille ville gothique et ville neuve géorgienne.",
+      "sleep": "Dans la vieille ville ou la ville neuve, tout se fait à pied.",
+      "see": [
+        { "name": "Le château", "note": "Sur son rocher volcanique, au-dessus de la ville. Réservation conseillée." },
+        { "name": "Le Royal Mile", "note": "La grande rue de la vieille ville, ses ruelles (closes) et ses pubs." },
+        { "name": "Arthur's Seat", "note": "Une colline au cœur de la ville, 45 minutes de montée pour une vue à 360°." }
+      ],
+      "hidden": [
+        { "name": "Dean Village", "note": "Un ancien village de meuniers au bord de la rivière, en plein centre." },
+        { "name": "Calton Hill", "note": "La vue la plus facile sur la ville, au coucher du soleil." }
+      ],
+      "eat": "Le haggis (au moins une fois), le saumon fumé écossais et une dégustation de whisky.",
+      "getAround": "À pied et en tram depuis l'aéroport. Train direct depuis Londres en 4 h 30 environ.",
+      "tip": "En août, le festival triple la population : réserve l'hébergement très tôt ou choisis une autre période."
+    },
+    {
+      "slug": "highlands",
+      "name": "Les Highlands et l'île de Skye",
+      "nights": "3 à 5 nuits",
+      "for": ["explorateur", "lent"],
+      "summary": "Montagnes, lochs, châteaux en ruines et routes à une voie : les grands paysages de l'Écosse.",
+      "sleep": "Dans les B&B de Fort William, Portree (Skye) ou des villages autour des lochs, à réserver tôt.",
+      "see": [
+        { "name": "Glencoe", "note": "La vallée la plus spectaculaire des Highlands, avec des randonnées pour tous niveaux." },
+        { "name": "L'île de Skye", "note": "Old Man of Storr, Quiraing, Fairy Pools : paysages irréels." },
+        { "name": "Le château d'Eilean Donan", "note": "Sur son îlot, au bord du loch, l'image de carte postale." }
+      ],
+      "hidden": [
+        { "name": "La péninsule d'Applecross", "note": "Une route de montagne vertigineuse jusqu'à un village au bout du monde." }
+      ],
+      "eat": "Les fruits de mer de Skye et les pubs de village.",
+      "getAround": "Une voiture est le plus pratique ; on roule à gauche, souvent sur des routes à une voie avec aires de croisement.",
+      "tip": "Emporte un répulsif efficace contre les moucherons (midges), très présents de juin à septembre."
+    },
+    {
+      "slug": "bath",
+      "name": "Bath et les Cotswolds",
+      "nights": "2 nuits",
+      "for": ["lent"],
+      "summary": "Une ville thermale romaine et géorgienne, et une campagne de villages en pierre dorée.",
+      "sleep": "À Bath pour la ville, dans un village des Cotswolds pour le calme.",
+      "see": [
+        { "name": "Les thermes romains", "note": "Parmi les mieux conservés d'Europe." },
+        { "name": "Le Royal Crescent", "note": "Un arc de maisons géorgiennes, symbole de la ville." },
+        { "name": "Les villages des Cotswolds", "note": "Bibury, Castle Combe, Bourton-on-the-Water." }
+      ],
+      "hidden": [
+        { "name": "Les bains thermaux modernes", "note": "Une piscine sur le toit alimentée par la source chaude." }
+      ],
+      "eat": "Le cream tea : scones, crème et confiture.",
+      "getAround": "Train depuis Londres en 1 h 30 ; voiture ou excursion pour les villages.",
+      "tip": "Les Cotswolds se visitent mieux en semaine, quand les villages sont moins fréquentés."
+    },
+    {
+      "slug": "york",
+      "name": "York",
+      "nights": "1 à 2 nuits",
+      "for": ["stratege", "lent"],
+      "summary": "Une ville médiévale entourée de remparts, avec l'une des plus belles cathédrales gothiques d'Europe.",
+      "sleep": "Dans l'enceinte des remparts.",
+      "see": [
+        { "name": "York Minster", "note": "La cathédrale et ses vitraux, et la vue depuis la tour." },
+        { "name": "Les Shambles", "note": "Une ruelle médiévale aux maisons à colombages penchées." },
+        { "name": "Les remparts", "note": "Une promenade de plus de 3 km autour de la vieille ville." }
+      ],
+      "hidden": [
+        { "name": "Le musée national du chemin de fer", "note": "Gratuit, avec des locomotives légendaires." }
+      ],
+      "eat": "Le Yorkshire pudding et un thé dans un salon historique.",
+      "getAround": "À pied. Train depuis Londres en 2 h environ, sur la ligne vers Édimbourg.",
+      "tip": "York fait une étape idéale entre Londres et Édimbourg en train."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Londres et sa région",
+      "for": ["tous", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Londres", "note": "Musées, quartiers, marchés." },
+        { "days": "Jours 5 et 6", "place": "Bath et les Cotswolds", "note": "En train, puis voiture ou excursion." },
+        { "days": "Jour 7", "place": "Retour à Londres", "note": "Eurostar." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Londres à Édimbourg en train",
+      "for": ["stratege", "lent"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Londres", "note": "À ton rythme." },
+        { "days": "Jours 5 et 6", "place": "York", "note": "En 2 h de train." },
+        { "days": "Jours 7 à 10", "place": "Édimbourg", "note": "En 2 h 30. Retour en avion." }
+      ]
+    },
+    {
+      "days": 14,
+      "title": "Londres et l'Écosse",
+      "for": ["explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Londres", "note": "Les essentiels." },
+        { "days": "Jours 4 à 6", "place": "Édimbourg", "note": "En train." },
+        { "days": "Jours 7 à 13", "place": "Highlands et Skye", "note": "En voiture : Glencoe, Fort William, Skye, Inverness." },
+        { "days": "Jour 14", "place": "Retour", "note": "Depuis Inverness ou Édimbourg." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "L'Eurostar", "text": "Paris-Londres en 2 h 15 environ, de centre-ville à centre-ville. Contrôle des passeports avant l'embarquement : arrive en avance." },
+    { "title": "Le train", "text": "Réseau dense et rapide, mais cher si on achète au dernier moment. Réserve tôt les billets « Advance »." },
+    { "title": "Le car", "text": "Les cars longue distance sont l'option la moins chère entre les villes." },
+    { "title": "En voiture", "text": "On roule à gauche. Inutile à Londres (péage urbain et zone à faibles émissions), indispensable dans les Highlands." }
+  ],
+  "culture": [
+    "On fait la queue partout, dans l'ordre : la doubler est très mal vu.",
+    "Dans les escalators du métro londonien, on se tient à droite pour laisser passer à gauche.",
+    "Au pub, on commande et on paie au comptoir ; pas de service à table.",
+    "Le pourboire au restaurant est souvent inclus (« service charge ») : vérifie l'addition avant d'en laisser un.",
+    "« Sorry » s'utilise en permanence, même quand ce n'est pas ta faute."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport en cours de validité (la carte d'identité ne suffit plus)",
+    "ETA demandée sur le site ou l'application officiels (20 £)",
+    "Carte européenne d'assurance maladie et assurance voyage",
+    "Adaptateur de prise type G",
+    "Carte bancaire sans contact pour les transports",
+    "Billets de train réservés à l'avance",
+    "Répulsif anti-moucherons pour l'Écosse en été",
+    "Aucun couteau, même un canif, dans les bagages à main ou sur soi"
+  ],
+  "faq": [
+    { "q": "Faut-il un passeport pour aller à Londres ?", "a": "Oui. Depuis le Brexit, la carte d'identité n'est plus acceptée pour les touristes. Il faut un passeport valide et une autorisation électronique de voyage (ETA)." },
+    { "q": "Qu'est-ce que l'ETA pour le Royaume-Uni ?", "a": "Une autorisation électronique de voyage obligatoire pour les Français, à demander en ligne avant le départ. Elle coûte 20 £ et est valable deux ans (ou jusqu'à l'expiration du passeport) pour des séjours de 6 mois maximum." },
+    { "q": "Quel budget pour une semaine à Londres ?", "a": "Compte environ 135 à 320 £ par jour seul et 105 à 240 £ par personne à deux, hors trajet. Les grands musées nationaux sont gratuits, ce qui aide beaucoup. Ces montants sont des estimations à vérifier." },
+    { "q": "Quand partir en Écosse ?", "a": "De mai à septembre, quand les journées sont longues et les routes des Highlands ouvertes. Mai et septembre ont souvent le meilleur temps avec moins de moucherons qu'en plein été." }
+  ]
+}

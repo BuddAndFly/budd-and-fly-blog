@@ -1,0 +1,253 @@
+{
+  "name": "Croatie",
+  "prep": "en Croatie",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 12,
+  "status": "brouillon",
+  "updatedAt": "2026-11-24",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Croatie : quand partir, budget, villes et îles",
+    "description": "Préparer un voyage en Croatie : meilleure saison, budget seul ou à deux, Dubrovnik, Split, Plitvice, l'Istrie, Zagreb et itinéraires. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Croatie est idéale en mai-juin et en septembre : mer chaude, villes de la côte moins bondées qu'en juillet-août. Elle utilise l'euro et fait partie de l'espace Schengen ; une carte d'identité suffit, mais les contrôles aux frontières restent systématiques. Une semaine permet de relier Split, Plitvice et Dubrovnik.",
+  "essentials": {
+    "bestPeriod": "Mai-juin, septembre",
+    "languages": "Croate (anglais et allemand très parlés)",
+    "currency": "Euro (EUR)",
+    "timeDiff": "Aucun",
+    "plugs": "Types C et F, 230 V : comme en France",
+    "emergency": "112 (numéro d'urgence européen)",
+    "flight": "Environ 2 h depuis Paris pour Split ou Dubrovnik"
+  },
+  "months": [
+    { "rating": 0, "note": "La côte est en sommeil : beaucoup d'hôtels, de restaurants et de liaisons en bateau sont fermés." },
+    { "rating": 0, "note": "Hiver calme. Carnaval de Rijeka selon les années." },
+    { "rating": 1, "note": "La côte se réveille doucement, idéal pour les villes sans la foule. Trop frais pour se baigner." },
+    { "rating": 1, "note": "Printemps doux, cascades de Plitvice au plus fort de leur débit." },
+    { "rating": 2, "note": "Chaud, lumineux, encore peu de monde : excellent pour la côte et les parcs." },
+    { "rating": 2, "note": "La mer se réchauffe, toutes les liaisons en bateau fonctionnent. L'un des meilleurs mois." },
+    { "rating": 1, "note": "Très chaud et très fréquenté, surtout à Dubrovnik et Hvar. Risque de feux de forêt sur le littoral." },
+    { "rating": 1, "note": "Pic de fréquentation et de prix. Attentes aux frontières le week-end." },
+    { "rating": 2, "note": "La mer est encore chaude, la foule repart : le mois préféré de beaucoup de voyageurs." },
+    { "rating": 1, "note": "Doux en début de mois, puis la saison se termine sur les îles." },
+    { "rating": 0, "note": "Saison terminée sur la côte, temps plus pluvieux." },
+    { "rating": 1, "note": "Le marché de l'Avent de Zagreb, l'un des plus réputés d'Europe. La côte reste calme." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors trajet depuis la France.",
+    "rows": [
+      { "label": "Hébergement (chambre ou appartement simple)", "solo": "60 à 120 €", "duo": "40 à 75 €" },
+      { "label": "Repas", "solo": "25 à 45 €", "duo": "25 à 45 €" },
+      { "label": "Transports locaux et ferries", "solo": "5 à 20 €", "duo": "5 à 20 €" },
+      { "label": "Visites et entrées", "solo": "10 à 35 €", "duo": "10 à 35 €" }
+    ],
+    "totalSolo": "100 à 220 €",
+    "totalDuo": "80 à 175 €",
+    "note": "Dubrovnik et Hvar en été sont parmi les destinations les plus chères de la Méditerranée. Les entrées de Plitvice et des remparts de Dubrovnik sont plus chères en haute saison. La location d'appartements (« sobe ») reste avantageuse à deux.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "La Croatie est dans l'Union européenne et l'espace Schengen : une carte d'identité ou un passeport en cours de validité suffit. Les contrôles aux frontières restent systématiques, y compris pour les Européens.",
+    "points": [
+      "Les contrôles d'identité sont systématiques à l'entrée comme à la sortie, avec consultation des fichiers d'Interpol.",
+      "Un document (carte d'identité, passeport ou carte grise) déclaré perdu ou volé est confisqué, et la voiture immobilisée dans le cas de la carte grise.",
+      "Prévois de longues attentes aux postes-frontières le week-end, pendant les vacances scolaires et en été.",
+      "Aider, même indirectement, quelqu'un à entrer illégalement dans le pays est puni jusqu'à 5 ans de prison."
+    ],
+    "source": { "label": "France Diplomatie, Croatie, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/croatie/" },
+    "checkedAt": "2026-11-24"
+  },
+  "health": {
+    "text": "Aucun vaccin obligatoire. Prends ta carte européenne d'assurance maladie. L'encéphalite à tiques est présente dans les zones forestières.",
+    "points": [
+      "Carte européenne d'assurance maladie (CEAM) à demander sur Ameli.",
+      "Encéphalite à tiques : vaccin à discuter si tu randonnes en forêt au printemps ou en été ; protège-toi des tiques.",
+      "Rage : recommandé pour les enfants et les séjours en zone rurale.",
+      "En été, protège-toi de la chaleur et du soleil."
+    ],
+    "source": { "label": "France Diplomatie, Croatie, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/croatie/" },
+    "checkedAt": "2026-11-24"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance normale. Les principaux risques sont les feux de forêt en été et, plus rarement, les séismes.",
+    "points": [
+      "D'importants feux de forêt touchent le littoral en été : respecte les interdictions de feu et ne jette jamais de mégot.",
+      "Le pays est en zone sismique, de Dubrovnik à Zadar et jusqu'à Zagreb : suis les consignes des autorités en cas de séisme.",
+      "Le déminage des anciennes zones de guerre est officiellement terminé depuis 2026.",
+      "Évite les grands rassemblements nationalistes ou sportifs, qui peuvent dégénérer."
+    ],
+    "source": { "label": "France Diplomatie, Croatie, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/croatie/" },
+    "checkedAt": "2026-11-24"
+  },
+  "cities": [
+    {
+      "slug": "dubrovnik",
+      "name": "Dubrovnik",
+      "nights": "2 à 3 nuits",
+      "for": ["stratege", "tous"],
+      "summary": "La perle de l'Adriatique : une ville fortifiée en pierre blanche au-dessus d'une mer turquoise. Superbe, mais à visiter aux bonnes heures.",
+      "sleep": "Dans la vieille ville pour le charme, à Lapad ou Ploče pour des prix plus doux et la plage.",
+      "see": [
+        { "name": "Le tour des remparts", "note": "2 km de murailles avec vue sur les toits et la mer. Commence à l'ouverture." },
+        { "name": "Le Stradun", "note": "La grande rue pavée de la vieille ville, magnifique tôt le matin." },
+        { "name": "Le téléphérique du mont Srđ", "note": "La vue d'ensemble sur la ville et les îles, au coucher du soleil." }
+      ],
+      "hidden": [
+        { "name": "L'île de Lokrum", "note": "Une île boisée à 15 minutes de bateau, pour se baigner au calme." },
+        { "name": "Cavtat", "note": "Une petite ville au sud, plus paisible, reliée par bateau." }
+      ],
+      "eat": "Le risotto noir à l'encre de seiche et les fruits de mer de la baie de Ston.",
+      "getAround": "À pied dans la vieille ville, bus urbains pour le reste.",
+      "tip": "Les jours d'escale des paquebots, la vieille ville est saturée de 10 h à 16 h : visite tôt le matin et en soirée."
+    },
+    {
+      "slug": "split",
+      "name": "Split",
+      "nights": "2 à 3 nuits",
+      "for": ["energique", "explorateur"],
+      "summary": "Une ville vivante construite dans le palais d'un empereur romain, et le port d'où partent les ferries vers les îles.",
+      "sleep": "Dans le palais de Dioclétien ou juste autour, pour tout faire à pied.",
+      "see": [
+        { "name": "Le palais de Dioclétien", "note": "Une ville dans un palais romain du IVe siècle, toujours habitée." },
+        { "name": "La colline de Marjan", "note": "Un parc boisé avec belvédères et criques, au bout de la ville." },
+        { "name": "Les îles de Hvar et Brač", "note": "En ferry ou catamaran pour la journée ou plusieurs nuits." }
+      ],
+      "hidden": [
+        { "name": "Trogir", "note": "Une petite ville médiévale sur une île, à 30 minutes." },
+        { "name": "La forteresse de Klis", "note": "Sur un piton au-dessus de Split, vue spectaculaire." }
+      ],
+      "eat": "La pašticada (bœuf mijoté) et les poissons grillés des konobas, petites tavernes.",
+      "getAround": "À pied ; bus vers Trogir ; ferries et catamarans vers les îles depuis le port.",
+      "tip": "En été, réserve les catamarans pour les îles à l'avance : ils sont vite complets."
+    },
+    {
+      "slug": "plitvice",
+      "name": "Les lacs de Plitvice",
+      "nights": "1 nuit",
+      "for": ["lent", "tous"],
+      "summary": "Seize lacs turquoise reliés par des cascades, sur des passerelles en bois. Le parc national le plus célèbre du pays.",
+      "sleep": "Dans les villages autour du parc, pour entrer à l'ouverture.",
+      "see": [
+        { "name": "Les lacs inférieurs", "note": "La grande cascade (Veliki slap) et les passerelles les plus photographiées." },
+        { "name": "Les lacs supérieurs", "note": "Plus calmes, en forêt, après la traversée en bateau électrique." },
+        { "name": "Le point de vue sur les lacs inférieurs", "note": "Depuis l'entrée 1, la vue sur les cascades en contrebas." }
+      ],
+      "hidden": [
+        { "name": "Rastoke", "note": "Un village de moulins sur des cascades, à 30 minutes au nord." }
+      ],
+      "eat": "La truite grillée et les plats de montagne des restaurants autour du parc.",
+      "getAround": "En voiture ou en bus depuis Zagreb, Split ou Zadar. Billets d'entrée à réserver en ligne en été.",
+      "tip": "La baignade est interdite dans le parc. Arrive à l'ouverture : à partir de 10 h, les passerelles sont saturées en été."
+    },
+    {
+      "slug": "rovinj",
+      "name": "Rovinj et l'Istrie",
+      "nights": "2 à 3 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "Une péninsule à l'influence italienne : ports de pêche colorés, villages perchés, huile d'olive et truffes.",
+      "sleep": "Dans la vieille ville de Rovinj, ou dans une maison de campagne à l'intérieur des terres.",
+      "see": [
+        { "name": "La vieille ville de Rovinj", "note": "Ruelles en pente jusqu'à l'église Sainte-Euphémie." },
+        { "name": "Pula", "note": "Un amphithéâtre romain parmi les mieux conservés au monde." },
+        { "name": "Motovun et Grožnjan", "note": "Villages perchés au-dessus des vallées de l'intérieur." }
+      ],
+      "hidden": [
+        { "name": "Le cap Kamenjak", "note": "Une réserve naturelle aux criques sauvages, au sud de Pula." }
+      ],
+      "eat": "Les pâtes aux truffes, l'huile d'olive et le vin malvazija.",
+      "getAround": "Une voiture est le plus pratique pour l'intérieur ; bus entre les villes.",
+      "tip": "L'Istrie est accessible en voiture depuis l'Italie : une bonne option pour un road trip."
+    },
+    {
+      "slug": "zagreb",
+      "name": "Zagreb",
+      "nights": "1 à 2 nuits",
+      "for": ["stratege", "lent"],
+      "summary": "Une capitale à taille humaine, entre ville haute médiévale et ville basse austro-hongroise, souvent oubliée et pourtant charmante.",
+      "sleep": "Dans le centre, entre la place Ban-Jelačić et la ville haute.",
+      "see": [
+        { "name": "La ville haute (Gornji Grad)", "note": "L'église Saint-Marc et son toit coloré." },
+        { "name": "Le marché Dolac", "note": "Le grand marché aux parasols rouges, le matin." },
+        { "name": "Le musée des Relations brisées", "note": "Des objets laissés après des ruptures, original et touchant." }
+      ],
+      "hidden": [
+        { "name": "Le cimetière Mirogoj", "note": "Des arcades et des jardins, l'un des plus beaux cimetières d'Europe." }
+      ],
+      "eat": "Les štrukli, pâte fourrée au fromage, cuite au four.",
+      "getAround": "Tramways et marche. Aéroport à 30 minutes en bus.",
+      "tip": "En décembre, le marché de l'Avent justifie à lui seul un week-end."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "La Dalmatie",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Split", "note": "Palais, Marjan, une journée à Hvar." },
+        { "days": "Jour 4", "place": "Plitvice", "note": "En voiture ou bus, nuit sur place." },
+        { "days": "Jours 5 à 7", "place": "Dubrovnik", "note": "Remparts et Lokrum. Retour en avion." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Du nord au sud",
+      "for": ["lent", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "L'Istrie", "note": "Rovinj, Pula, villages perchés." },
+        { "days": "Jour 4", "place": "Plitvice", "note": "Les lacs à l'ouverture." },
+        { "days": "Jours 5 à 7", "place": "Split et Hvar", "note": "Îles et palais." },
+        { "days": "Jours 8 à 10", "place": "Dubrovnik", "note": "Retour depuis Dubrovnik." }
+      ]
+    },
+    {
+      "days": 14,
+      "title": "Villes, parcs et îles",
+      "for": ["energique", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Zagreb", "note": "Et Rastoke." },
+        { "days": "Jour 3", "place": "Plitvice", "note": "Nuit sur place." },
+        { "days": "Jours 4 à 6", "place": "Zadar et le parc de Krka", "note": "Cascades où la baignade est encadrée." },
+        { "days": "Jours 7 à 11", "place": "Split, Hvar et Brač", "note": "En ferry d'île en île." },
+        { "days": "Jours 12 à 14", "place": "Dubrovnik", "note": "Retour en avion." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "En voiture", "text": "Les autoroutes sont modernes (péage) et la route côtière magnifique. Attention aux attentes aux frontières, notamment vers la Bosnie près de Dubrovnik." },
+    { "title": "Le bus", "text": "Le meilleur transport en commun entre les villes : fréquent et bon marché." },
+    { "title": "Les ferries et catamarans", "text": "Indispensables pour les îles. Réservation conseillée en été." },
+    { "title": "Les vols", "text": "Vols directs depuis la France vers Split, Dubrovnik et Zagreb, surtout en saison." }
+  ],
+  "culture": [
+    "Tenue correcte hors de la plage : se promener torse nu ou en maillot dans la vieille ville de Split, Dubrovnik ou Hvar peut être verbalisé.",
+    "Le pourboire n'est pas obligatoire ; on arrondit ou on laisse environ 10 % si le service a plu.",
+    "Les Croates sont sensibles à l'histoire récente du pays : évite les comparaisons avec la Serbie ou l'ex-Yougoslavie."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Dobar dan", "say": "dobar dan" },
+    { "fr": "Merci", "local": "Hvala", "say": "hvala" },
+    { "fr": "S'il vous plaît", "local": "Molim", "say": "molim" },
+    { "fr": "L'addition, s'il vous plaît", "local": "Račun, molim", "say": "ratchoun, molim" },
+    { "fr": "Santé !", "local": "Živjeli!", "say": "jivièli" }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport en cours de validité, jamais déclaré perdu ou volé",
+    "Carte européenne d'assurance maladie",
+    "Billets en ligne pour Plitvice en été",
+    "Ferries et catamarans réservés en haute saison",
+    "Chaussures pour les plages de galets",
+    "Prévoir de l'attente aux frontières si tu passes en voiture"
+  ],
+  "faq": [
+    { "q": "Faut-il un passeport pour la Croatie ?", "a": "Non, une carte d'identité en cours de validité suffit : la Croatie est dans l'Union européenne et l'espace Schengen. Les contrôles d'identité aux frontières restent cependant systématiques." },
+    { "q": "Quelle monnaie en Croatie ?", "a": "L'euro, depuis le 1er janvier 2023." },
+    { "q": "Quand partir en Croatie ?", "a": "En mai-juin et en septembre : mer agréable, météo stable, et beaucoup moins de monde et de prix élevés qu'en juillet-août." },
+    { "q": "Quel budget pour une semaine en Croatie ?", "a": "Compte environ 100 à 220 € par jour seul et 80 à 175 € par personne à deux, hors trajet. Dubrovnik et Hvar sont les plus chères en été. Ces montants sont des estimations à vérifier." }
+  ]
+}
