@@ -1,0 +1,239 @@
+{
+  "name": "Malte",
+  "prep": "à Malte",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 21,
+  "status": "brouillon",
+  "updatedAt": "2026-11-24",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Malte : quand partir, budget, La Valette, Gozo",
+    "description": "Préparer un voyage à Malte : meilleure saison, budget seul ou à deux, La Valette, Mdina, les Trois Cités, Gozo et le lagon bleu de Comino. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Malte se visite presque toute l'année : le printemps (avril-juin) et l'automne (septembre-octobre) sont idéaux pour combiner visites et baignade. Une carte d'identité suffit. L'archipel est petit : une semaine permet de voir La Valette, Mdina, les Trois Cités et l'île de Gozo.",
+  "essentials": {
+    "bestPeriod": "Avril à juin, septembre-octobre",
+    "languages": "Maltais et anglais (l'italien est souvent compris)",
+    "currency": "Euro (EUR)",
+    "timeDiff": "Aucun",
+    "plugs": "Type G (trois broches), 230 V : adaptateur nécessaire",
+    "emergency": "112",
+    "flight": "Environ 2 h 40 depuis Paris"
+  },
+  "months": [
+    { "rating": 1, "note": "Doux mais venteux, mer trop fraîche pour la plupart. Idéal pour les visites, sans foule." },
+    { "rating": 1, "note": "Le carnaval de La Valette, selon les années." },
+    { "rating": 1, "note": "Le printemps arrive, paysages verts à Gozo." },
+    { "rating": 2, "note": "Doux et fleuri, parfait pour la randonnée et les visites." },
+    { "rating": 2, "note": "Chaud, la mer commence à être agréable. L'un des meilleurs mois." },
+    { "rating": 2, "note": "Mer chaude, longues journées, fêtes de village (festa) le week-end." },
+    { "rating": 1, "note": "Très chaud et fréquenté, plages bondées." },
+    { "rating": 1, "note": "Pic de chaleur et de fréquentation." },
+    { "rating": 2, "note": "La mer est la plus chaude, la foule diminue." },
+    { "rating": 2, "note": "Encore doux et baignable, très agréable." },
+    { "rating": 1, "note": "Plus pluvieux, mais calme et bon marché." },
+    { "rating": 1, "note": "Doux pour la saison, crèches et illuminations de Noël." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou appartement)", "solo": "60 à 120 €", "duo": "40 à 75 €" },
+      { "label": "Repas", "solo": "25 à 40 €", "duo": "25 à 40 €" },
+      { "label": "Transports (bus, ferries)", "solo": "3 à 10 €", "duo": "3 à 10 €" },
+      { "label": "Visites et entrées", "solo": "10 à 25 €", "duo": "10 à 25 €" }
+    ],
+    "totalSolo": "98 à 195 €",
+    "totalDuo": "78 à 150 €",
+    "note": "Une écotaxe par nuit s'ajoute à l'hébergement. Les bus couvrent toute l'île pour peu cher, et le ferry public entre Malte et Gozo est bon marché. Le site de l'hypogée se réserve très longtemps à l'avance.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Malte est dans l'Union européenne : une carte d'identité ou un passeport en cours de validité suffit.",
+    "points": [
+      "Les cartes d'identité délivrées à des majeurs entre 2004 et 2013 sont prolongées de 5 ans ; Malte l'accepte, mais télécharge la fiche d'information traduite au cas où.",
+      "Si tu as un titre de séjour français sans être citoyen européen, voyage aussi avec ton passeport, sinon l'embarquement retour peut être refusé."
+    ],
+    "source": { "label": "France Diplomatie, Malte, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/malte/" },
+    "checkedAt": "2026-11-24"
+  },
+  "health": {
+    "text": "Aucun vaccin particulier. Prends ta carte européenne d'assurance maladie.",
+    "points": [
+      "Carte européenne d'assurance maladie (CEAM) à demander sur Ameli.",
+      "En été, protège-toi de la chaleur et du soleil, très fort sur les rochers."
+    ],
+    "source": { "label": "France Diplomatie, Malte, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/malte/" },
+    "checkedAt": "2026-11-24"
+  },
+  "safety": {
+    "text": "Tout l'archipel est en vigilance normale. Prudence dans le quartier de fête de Paceville et face aux arnaques à la location.",
+    "points": [
+      "Vigilance particulière à Paceville (St. Julian's), quartier de la vie nocturne, et dans les bus des lignes 13 à 16 qui le desservent.",
+      "Pickpockets dans les transports et les lieux touristiques ; cambriolages signalés dans des hôtels et locations.",
+      "Arnaques fréquentes aux logements réservés en ligne : ne paie pas la totalité avant d'avoir vérifié le logement et reçu les clés, et méfie-toi des annonces sur les réseaux sociaux.",
+      "Par tempête, éloigne-toi du rivage et des routes bordées d'arbres, et vérifie les ferries vers Gozo."
+    ],
+    "source": { "label": "France Diplomatie, Malte, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/malte/" },
+    "checkedAt": "2026-11-24"
+  },
+  "cities": [
+    {
+      "slug": "la-valette",
+      "name": "La Valette",
+      "nights": "3 nuits",
+      "for": ["stratege", "tous"],
+      "summary": "La plus petite capitale de l'Union européenne, entièrement baroque, bâtie par les chevaliers de l'ordre de Malte.",
+      "sleep": "Dans la ville elle-même pour le charme, à Sliema pour la mer et les ferries.",
+      "see": [
+        { "name": "La cocathédrale Saint-Jean", "note": "Un intérieur doré et deux tableaux du Caravage." },
+        { "name": "Les jardins de la Haute-Barrakka", "note": "La vue sur le Grand Port et le tir du canon à midi." },
+        { "name": "Le palais des Grands Maîtres", "note": "Et son armurerie." }
+      ],
+      "hidden": [
+        { "name": "L'hypogée de Ħal Saflieni", "note": "Une nécropole souterraine néolithique, visites très limitées : réserve des mois à l'avance." }
+      ],
+      "eat": "Les pastizzi (feuilletés à la ricotta ou aux pois) et le lapin mijoté, plat national.",
+      "getAround": "À pied ; ferries vers Sliema et les Trois Cités ; bus pour toute l'île.",
+      "tip": "Les rues sont en pente et en escaliers : prends de bonnes chaussures."
+    },
+    {
+      "slug": "trois-cites",
+      "name": "Les Trois Cités",
+      "nights": "Une demi-journée ou 1 nuit",
+      "for": ["lent"],
+      "summary": "Birgu, Senglea et Cospicua, en face de La Valette : plus anciennes, plus calmes, très authentiques.",
+      "sleep": "Dans une maison d'hôtes de Birgu pour une ambiance de village.",
+      "see": [
+        { "name": "Le fort Saint-Ange", "note": "La forteresse des chevaliers, à la pointe de Birgu." },
+        { "name": "Les ruelles de Birgu", "note": "Balcons colorés et petites places." },
+        { "name": "Le jardin de Senglea", "note": "La vue sur La Valette depuis la vigie." }
+      ],
+      "hidden": [],
+      "eat": "Les restaurants du port de plaisance de Birgu.",
+      "getAround": "En dghajsa (barque traditionnelle) ou en ferry depuis La Valette.",
+      "tip": "La traversée en barque traditionnelle est courte et fait partie du plaisir."
+    },
+    {
+      "slug": "mdina",
+      "name": "Mdina et Rabat",
+      "nights": "Une journée",
+      "for": ["lent", "stratege"],
+      "summary": "La « cité du silence », ancienne capitale fortifiée au centre de l'île.",
+      "sleep": "On y vient en journée depuis La Valette ou Sliema.",
+      "see": [
+        { "name": "Les ruelles de Mdina", "note": "Le soir, quand la ville est presque vide." },
+        { "name": "La cathédrale Saint-Paul", "note": "Au cœur de la vieille ville." },
+        { "name": "Les catacombes de Rabat", "note": "Juste à côté de Mdina." }
+      ],
+      "hidden": [
+        { "name": "Les falaises de Dingli", "note": "À quelques kilomètres, au coucher du soleil." }
+      ],
+      "eat": "Les salons de thé dans les remparts.",
+      "getAround": "Bus depuis La Valette.",
+      "tip": "Combine avec les falaises de Dingli pour le coucher du soleil."
+    },
+    {
+      "slug": "gozo",
+      "name": "Gozo",
+      "nights": "2 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "La petite sœur rurale de Malte : falaises, villages, salines et sites de plongée parmi les meilleurs de Méditerranée.",
+      "sleep": "À Victoria (Rabat) au centre, ou à Marsalforn près de la mer.",
+      "see": [
+        { "name": "La citadelle de Victoria", "note": "Vue sur toute l'île." },
+        { "name": "Les temples de Ġgantija", "note": "Parmi les plus anciennes constructions en pierre du monde." },
+        { "name": "Dwejra", "note": "Falaises et la mer intérieure ; l'arche de la fenêtre d'Azur s'est effondrée en 2017." }
+      ],
+      "hidden": [
+        { "name": "Les salines de Xwejni", "note": "Des bassins de sel taillés dans la roche, en bord de mer." }
+      ],
+      "eat": "Le ftira de Gozo, pain garni, et le fromage de chèvre local.",
+      "getAround": "Ferry public depuis Ċirkewwa (25 minutes), puis bus ou voiture.",
+      "tip": "Gozo mérite au moins une nuit : en excursion d'une journée, on n'en voit qu'une petite partie."
+    },
+    {
+      "slug": "comino",
+      "name": "Comino et le lagon bleu",
+      "nights": "Une journée",
+      "for": ["energique", "tous"],
+      "summary": "Une petite île presque inhabitée entre Malte et Gozo, et son lagon à l'eau turquoise.",
+      "sleep": "On y vient en journée.",
+      "see": [
+        { "name": "Le lagon bleu", "note": "Eau cristalline, mais bondé en été : viens tôt ou tard." },
+        { "name": "La tour Sainte-Marie", "note": "Une tour de guet des chevaliers." },
+        { "name": "Le lagon de cristal", "note": "Accessible en bateau, plus calme." }
+      ],
+      "hidden": [],
+      "eat": "Emporte ton pique-nique et de l'eau.",
+      "getAround": "Bateaux depuis Malte ou Gozo. Le nombre de visiteurs du lagon bleu est limité en saison : réserve.",
+      "tip": "Il n'y a quasiment pas d'ombre : chapeau et parasol indispensables."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "L'archipel",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "La Valette", "note": "Avec les Trois Cités." },
+        { "days": "Jour 4", "place": "Mdina et Dingli", "note": "En bus." },
+        { "days": "Jours 5 et 6", "place": "Gozo", "note": "Ferry et nuit sur place." },
+        { "days": "Jour 7", "place": "Comino", "note": "En route vers l'aéroport." }
+      ]
+    },
+    {
+      "days": 4,
+      "title": "Un long week-end",
+      "for": ["energique", "lent"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "La Valette", "note": "Ville et Trois Cités." },
+        { "days": "Jour 3", "place": "Mdina", "note": "Et les falaises." },
+        { "days": "Jour 4", "place": "Gozo", "note": "Excursion d'une journée." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "À son rythme",
+      "for": ["lent", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "La Valette et Sliema", "note": "Visites et baignade." },
+        { "days": "Jours 5 à 9", "place": "Gozo", "note": "Randonnées, plongée, Comino." },
+        { "days": "Jour 10", "place": "Retour", "note": "Ferry et bus vers l'aéroport." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Le bus", "text": "Il dessert toute l'île à petit prix, avec une carte rechargeable. Lent aux heures de pointe." },
+    { "title": "Les ferries", "text": "Ferry public Malte-Gozo, et petits ferries entre La Valette, Sliema et les Trois Cités." },
+    { "title": "En voiture", "text": "On roule à gauche. Circulation dense et stationnement difficile : rarement indispensable, sauf à Gozo." },
+    { "title": "Les VTC", "text": "Plusieurs applications fonctionnent à Malte." }
+  ],
+  "culture": [
+    "Malte est très catholique : tenue couvrante dans les églises.",
+    "Les fêtes de village (festa) en été : processions, fanfares et feux d'artifice.",
+    "Le pourboire est apprécié, environ 10 % si le service n'est pas inclus."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Bonġu", "say": "bondjou" },
+    { "fr": "Merci", "local": "Grazzi", "say": "gratsi" },
+    { "fr": "Santé !", "local": "Saħħa!", "say": "sahha" }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport en cours de validité",
+    "Carte européenne d'assurance maladie",
+    "Adaptateur de prise type G",
+    "Hypogée réservée des mois à l'avance si tu veux la voir",
+    "Réservation pour le lagon bleu en saison",
+    "Logement réservé sur une plateforme fiable, sans paiement intégral à l'avance"
+  ],
+  "faq": [
+    { "q": "Faut-il un passeport pour Malte ?", "a": "Non, une carte d'identité en cours de validité suffit : Malte est dans l'Union européenne." },
+    { "q": "Quand partir à Malte ?", "a": "D'avril à juin et en septembre-octobre : il fait chaud sans excès et la mer est agréable. L'hiver est doux et parfait pour les visites, mais trop frais pour se baigner." },
+    { "q": "Quel budget pour une semaine à Malte ?", "a": "Compte environ 98 à 195 € par jour seul et 78 à 150 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier." },
+    { "q": "Faut-il louer une voiture à Malte ?", "a": "Pas forcément : les bus couvrent toute l'île et les ferries relient Gozo. Une voiture peut être utile à Gozo. On roule à gauche." }
+  ]
+}
