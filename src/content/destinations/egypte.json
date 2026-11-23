@@ -1,0 +1,255 @@
+{
+  "name": "Égypte",
+  "prep": "en Égypte",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 15,
+  "status": "brouillon",
+  "updatedAt": "2026-11-24",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Égypte : visa, quand partir, budget, Nil, pyramides",
+    "description": "Préparer un voyage en Égypte : visa et carte d'identité, meilleure saison, budget, Le Caire, Louxor, Assouan, la mer Rouge, zones à éviter. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "L'Égypte se visite d'octobre à avril : en été, la chaleur dépasse souvent 40 °C à Louxor et Assouan. Un visa est obligatoire, payable à l'aéroport en espèces. Les Français peuvent entrer avec un passeport ou une carte d'identité, valables au moins 6 mois après le retour. Pour un premier voyage : Le Caire, puis la vallée du Nil de Louxor à Assouan.",
+  "essentials": {
+    "bestPeriod": "Octobre à avril",
+    "languages": "Arabe (anglais dans les lieux touristiques)",
+    "currency": "Livre égyptienne (EGP)",
+    "timeDiff": "+1 h",
+    "plugs": "Types C et F, 220 V : comme en France",
+    "emergency": "Police 122 · Ambulance 123 · Police touristique 126",
+    "flight": "Environ 4 h 30 depuis Paris pour Le Caire"
+  },
+  "months": [
+    { "rating": 2, "note": "Doux en journée, frais la nuit : idéal pour les temples. Haute saison, réserve à l'avance." },
+    { "rating": 2, "note": "Toujours idéal. Le 22 février, le soleil illumine le sanctuaire d'Abou Simbel." },
+    { "rating": 2, "note": "Agréable, la chaleur commence à monter dans le sud." },
+    { "rating": 1, "note": "Chaud, avec parfois le khamsin, un vent de sable venu du désert." },
+    { "rating": 1, "note": "Déjà très chaud à Louxor et Assouan. La mer Rouge est agréable." },
+    { "rating": 0, "note": "Chaleur écrasante dans la vallée du Nil. Préfère la mer Rouge." },
+    { "rating": 0, "note": "Plus de 40 °C à Louxor et Assouan. Visites seulement à l'aube." },
+    { "rating": 0, "note": "Comme en juillet." },
+    { "rating": 1, "note": "La chaleur commence à baisser en fin de mois." },
+    { "rating": 2, "note": "Le retour des températures agréables, avant la foule de l'hiver. Le 22 octobre, Abou Simbel s'illumine." },
+    { "rating": 2, "note": "Excellent mois pour la croisière sur le Nil." },
+    { "rating": 2, "note": "Doux et ensoleillé, mais très fréquenté pendant les fêtes." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors vols. La livre égyptienne varie beaucoup : les prix touristiques sont souvent fixés en euros ou en dollars.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple)", "solo": "30 à 70 €", "duo": "20 à 45 €" },
+      { "label": "Repas", "solo": "10 à 25 €", "duo": "10 à 25 €" },
+      { "label": "Transports locaux", "solo": "5 à 15 €", "duo": "5 à 10 €" },
+      { "label": "Visites et entrées", "solo": "15 à 40 €", "duo": "15 à 40 €" }
+    ],
+    "totalSolo": "60 à 150 €",
+    "totalDuo": "50 à 120 €",
+    "note": "Les entrées des grands sites (pyramides, Vallée des Rois, Abou Simbel, Grand Musée égyptien) sont élevées pour les étrangers. Une croisière sur le Nil s'ajoute et varie beaucoup selon le bateau. Prévois aussi le visa et des petites coupures pour les pourboires.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Visa obligatoire. Les Français peuvent entrer avec un passeport ou une carte d'identité, valable au moins 6 mois après la date de retour en France.",
+    "points": [
+      "Le visa touristique s'achète à l'aéroport, à des guichets ouverts 24 h/24 : 30 USD pour une entrée, 60 USD pour plusieurs entrées, payables uniquement en espèces (dollars ou euros).",
+      "Avec une carte d'identité, apporte deux photos d'identité. On te remet un document cartonné : vérifie que ton nom et le numéro de ta carte sont bien recopiés, sinon tu auras de gros problèmes pour repartir.",
+      "Seuls les détenteurs de passeport peuvent prolonger leur visa de 30 jours sur place.",
+      "Arrivée directe à Charm el-Cheikh pour rester dans le sud du Sinaï : un visa spécial Sinaï existe, mais il ne permet pas d'aller ailleurs en Égypte.",
+      "Veille sur tes papiers en permanence : en cas de perte ou de vol, les démarches pour repartir sont très compliquées."
+    ],
+    "source": { "label": "France Diplomatie, Égypte, Entrée / séjour (mise à jour du 21 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/egypte/" },
+    "checkedAt": "2026-11-24"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé pour un voyageur arrivant directement de France. Selon ta provenance, des vaccins peuvent être obligatoires.",
+    "points": [
+      "Le vaccin diphtérie-tétanos-polio peut être exigé selon le pays de provenance, et la fièvre jaune si tu arrives d'une zone où elle circule. Vérifie avec ton médecin si tu viens d'un autre pays.",
+      "Rage : recommandé pour les enfants et les séjours en zone rurale.",
+      "Dengue et Zika : protège-toi des moustiques.",
+      "Bois de l'eau en bouteille et protège-toi de la chaleur et du soleil.",
+      "Assurance santé et rapatriement indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Égypte, Santé (mise à jour du 21 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/egypte/" },
+    "checkedAt": "2026-11-24"
+  },
+  "safety": {
+    "text": "Les sites touristiques classiques (Le Caire, la vallée du Nil, la mer Rouge) sont accessibles avec vigilance. Plusieurs zones désertiques et frontalières sont formellement déconseillées.",
+    "points": [
+      "Formellement déconseillés : le nord de la péninsule du Sinaï (au nord d'une ligne Suez-Taba), la zone frontalière avec le Soudan (y compris la route au sud d'Abou Simbel) et le désert occidental vers la Libye.",
+      "Le désert blanc (triangle Le Caire-Farafra-El Kharga) et l'oasis de Siwa sont accessibles en vigilance renforcée, uniquement par les routes sécurisées.",
+      "Au sud de Siwa, une zone est interdite aux civils par l'armée : n'y entre jamais.",
+      "Garde ton passeport ou ton document de visa sur toi : les contrôles de police sont fréquents.",
+      "Avant tout déplacement hors des circuits classiques, vérifie la carte de France Diplomatie."
+    ],
+    "source": { "label": "France Diplomatie, Égypte, Sécurité (mise à jour du 21 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/egypte/" },
+    "checkedAt": "2026-11-24"
+  },
+  "cities": [
+    {
+      "slug": "le-caire",
+      "name": "Le Caire et Gizeh",
+      "nights": "3 nuits",
+      "for": ["energique", "stratege", "tous"],
+      "summary": "Une mégapole bouillonnante, avec les pyramides à ses portes, le Caire islamique et le nouveau Grand Musée égyptien.",
+      "sleep": "Zamalek pour le calme au bord du Nil, ou près des pyramides à Gizeh pour la vue.",
+      "see": [
+        { "name": "Les pyramides de Gizeh et le Sphinx", "note": "Viens à l'ouverture, avant la chaleur et les groupes." },
+        { "name": "Le Grand Musée égyptien", "note": "Le trésor de Toutankhamon réuni près des pyramides. Réserve en ligne." },
+        { "name": "Le Caire islamique", "note": "La rue Al-Muizz, ses mosquées et le souk de Khan el-Khalili." }
+      ],
+      "hidden": [
+        { "name": "Saqqarah et Dahchour", "note": "La pyramide à degrés et la pyramide rhomboïdale, beaucoup moins fréquentées." },
+        { "name": "Le Caire copte", "note": "L'église suspendue et le vieux quartier chrétien." }
+      ],
+      "eat": "Le koshari (riz, lentilles, pâtes, sauce tomate) et le ful medames au petit déjeuner.",
+      "getAround": "VTC par application, plus simple et plus sûr que de négocier un taxi. Le métro est pratique et très bon marché.",
+      "tip": "Autour des pyramides, de nombreux vendeurs et loueurs de chameaux sont insistants : fixe le prix avant toute prestation."
+    },
+    {
+      "slug": "louxor",
+      "name": "Louxor",
+      "nights": "3 nuits",
+      "for": ["stratege", "lent", "tous"],
+      "summary": "L'ancienne Thèbes : les temples de Karnak et de Louxor sur une rive, la Vallée des Rois sur l'autre.",
+      "sleep": "Sur la rive est pour la ville, ou sur la rive ouest pour le calme et les campagnes.",
+      "see": [
+        { "name": "Le temple de Karnak", "note": "La salle hypostyle et ses 134 colonnes géantes." },
+        { "name": "La Vallée des Rois", "note": "Les tombeaux des pharaons ; le billet donne accès à plusieurs tombes." },
+        { "name": "Le temple de Louxor", "note": "Magnifique illuminé le soir." }
+      ],
+      "hidden": [
+        { "name": "Médinet Habou", "note": "Le temple de Ramsès III, aux couleurs remarquablement conservées." },
+        { "name": "La vallée des Nobles", "note": "Des tombes plus petites mais très vivantes." }
+      ],
+      "eat": "Les restaurants sur les toits avec vue sur le Nil.",
+      "getAround": "Bac public entre les deux rives, taxi ou vélo sur la rive ouest.",
+      "tip": "Le survol de la rive ouest en montgolfière au lever du soleil est un moment fort ; choisis un opérateur reconnu."
+    },
+    {
+      "slug": "assouan",
+      "name": "Assouan et Abou Simbel",
+      "nights": "2 à 3 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "La plus belle partie du Nil, entre îles granitiques, villages nubiens et felouques, et le temple géant d'Abou Simbel.",
+      "sleep": "Sur la corniche ou dans une maison d'hôtes nubienne de l'île Éléphantine.",
+      "see": [
+        { "name": "Abou Simbel", "note": "Les temples de Ramsès II et de Néfertari, à 3 h de route ou en vol." },
+        { "name": "Le temple de Philae", "note": "Sur son île, accessible en bateau." },
+        { "name": "Une balade en felouque", "note": "Au coucher du soleil, autour de l'île Kitchener." }
+      ],
+      "hidden": [
+        { "name": "Les villages nubiens", "note": "Maisons colorées sur la rive ouest." }
+      ],
+      "eat": "Les plats nubiens dans les maisons d'hôtes.",
+      "getAround": "Bateaux, taxis et felouques. Train de nuit ou croisière depuis Louxor.",
+      "tip": "Ne prends pas la route au-delà d'Abou Simbel vers le sud : la frontière soudanaise est formellement déconseillée."
+    },
+    {
+      "slug": "croisiere-nil",
+      "name": "La croisière sur le Nil",
+      "nights": "3 à 4 nuits",
+      "for": ["lent", "tous"],
+      "summary": "Entre Louxor et Assouan, la façon la plus classique et la plus reposante de découvrir les temples de la vallée.",
+      "sleep": "À bord : grand bateau de croisière ou dahabieh, un voilier traditionnel plus intime.",
+      "see": [
+        { "name": "Le temple d'Edfou", "note": "Le mieux conservé d'Égypte, dédié à Horus." },
+        { "name": "Le temple de Kom Ombo", "note": "Au bord du fleuve, dédié à deux dieux." },
+        { "name": "Les rives du Nil", "note": "Palmiers, villages et felouques, depuis le pont." }
+      ],
+      "hidden": [],
+      "eat": "Pension complète à bord.",
+      "getAround": "Le bateau fait le trajet ; les visites sont généralement incluses.",
+      "tip": "Les dahabiehs, plus petites, s'arrêtent dans des endroits où les grands bateaux ne vont pas."
+    },
+    {
+      "slug": "mer-rouge",
+      "name": "La mer Rouge (Hurghada, Marsa Alam)",
+      "nights": "3 à 5 nuits",
+      "for": ["lent", "energique"],
+      "summary": "Des récifs coralliens parmi les plus beaux du monde, pour le snorkeling et la plongée.",
+      "sleep": "Marsa Alam pour les récifs et le calme, Hurghada pour les services et les excursions.",
+      "see": [
+        { "name": "Le snorkeling sur les récifs", "note": "Tortues, dauphins et parfois dugongs à Marsa Alam." },
+        { "name": "La plongée", "note": "Épaves et tombants, pour tous niveaux." },
+        { "name": "Les îles Giftun", "note": "Plages de sable blanc au large de Hurghada." }
+      ],
+      "hidden": [
+        { "name": "Le désert oriental", "note": "Excursions vers les montagnes et les villages bédouins, encadrées." }
+      ],
+      "eat": "Poissons grillés au bord de l'eau.",
+      "getAround": "Vols directs depuis la France selon la saison ; route depuis Louxor.",
+      "tip": "Ne touche pas les coraux et utilise une crème solaire sans danger pour les récifs."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Pyramides et vallée du Nil",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Le Caire et Gizeh", "note": "Pyramides, Grand Musée, vieux Caire." },
+        { "days": "Jours 4 à 7", "place": "Louxor", "note": "Vol intérieur. Karnak, Vallée des Rois, rive ouest." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Le Caire et la croisière",
+      "for": ["lent", "tous"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Le Caire", "note": "Les incontournables." },
+        { "days": "Jours 4 à 7", "place": "Croisière Louxor-Assouan", "note": "Edfou, Kom Ombo." },
+        { "days": "Jours 8 à 10", "place": "Assouan et Abou Simbel", "note": "Retour par Le Caire." }
+      ]
+    },
+    {
+      "days": 14,
+      "title": "Temples et récifs",
+      "for": ["explorateur", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Le Caire", "note": "Avec Saqqarah." },
+        { "days": "Jours 4 à 6", "place": "Assouan", "note": "Abou Simbel, Philae, felouque." },
+        { "days": "Jours 7 à 9", "place": "Croisière jusqu'à Louxor", "note": "Ou train." },
+        { "days": "Jours 10 à 14", "place": "Mer Rouge", "note": "Route depuis Louxor, retour depuis Hurghada." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les vols intérieurs", "text": "Le Caire, Louxor, Assouan, Abou Simbel et Hurghada sont reliés par avion." },
+    { "title": "Le train", "text": "Trains de jour et de nuit entre Le Caire, Louxor et Assouan." },
+    { "title": "Le bateau", "text": "Croisières et felouques sur le Nil, entre Louxor et Assouan." },
+    { "title": "Les VTC", "text": "Les applications de VTC fonctionnent au Caire et évitent les négociations." }
+  ],
+  "culture": [
+    "Tenue couvrant épaules et genoux, surtout hors des stations balnéaires ; foulard pour les femmes dans les mosquées.",
+    "Le « bakchich » (pourboire) est attendu pour de nombreux petits services : garde des petites coupures.",
+    "Demande avant de photographier les gens, et ne photographie jamais les militaires ni les bâtiments officiels.",
+    "Pendant le ramadan, évite de manger ou boire en public pendant la journée."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "السلام عليكم", "say": "salam aleikoum" },
+    { "fr": "Merci", "local": "شكرا", "say": "choukran" },
+    { "fr": "Non merci", "local": "لا شكرا", "say": "la, choukran" },
+    { "fr": "Combien ?", "local": "بكام", "say": "bi kam" },
+    { "fr": "Ça suffit / c'est bon", "local": "خلاص", "say": "khalass" }
+  ],
+  "checklist": [
+    "Passeport ou carte d'identité valable 6 mois après le retour",
+    "Deux photos d'identité si tu voyages avec ta carte d'identité",
+    "Dollars ou euros en espèces pour le visa à l'aéroport",
+    "Assurance santé et rapatriement",
+    "Petites coupures pour les pourboires",
+    "Tenue couvrante, chapeau, crème solaire",
+    "Billets en ligne pour le Grand Musée égyptien",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour l'Égypte ?", "a": "Oui. Il s'achète à l'aéroport : 30 USD pour une entrée, 60 USD pour plusieurs entrées, en espèces (dollars ou euros)." },
+    { "q": "Peut-on aller en Égypte avec une carte d'identité ?", "a": "Oui, si elle est valable au moins 6 mois après la date de retour. Apporte deux photos d'identité et vérifie l'orthographe sur le document cartonné remis à l'arrivée. Le visa ne pourra pas être prolongé sur place." },
+    { "q": "Quand partir en Égypte ?", "a": "D'octobre à avril. De juin à août, il fait souvent plus de 40 °C dans la vallée du Nil : seule la mer Rouge reste agréable." },
+    { "q": "L'Égypte est-elle sûre ?", "a": "Les circuits classiques (Le Caire, Louxor, Assouan, mer Rouge) sont accessibles avec vigilance. Le nord du Sinaï, la frontière soudanaise et le désert vers la Libye sont formellement déconseillés." },
+    { "q": "Quel budget pour une semaine en Égypte ?", "a": "Compte environ 60 à 150 € par jour seul et 50 à 120 € par personne à deux, hors vols, visa et croisière. Ces montants sont des estimations à vérifier." }
+  ]
+}
