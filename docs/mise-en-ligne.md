@@ -1,41 +1,44 @@
-# Mettre le site en ligne (Netlify + domaine OVH)
+# Mettre le site en ligne avec GitHub Pages (domaine OVH)
 
-Tout le réglage technique est dans `netlify.toml` : il n'y a rien à configurer à la main dans Netlify.
-L'ancien site Lovable reste en ligne jusqu'à la bascule de l'étape 3.
+Le site est compilé et publié automatiquement par GitHub (fichier `.github/workflows/deploy.yml`) à chaque envoi sur la branche `main`.
+L'ancien site Lovable reste en ligne sur buddandfly.com jusqu'à la bascule de l'étape 3.
 
-## Étape 1 — Mettre le site en ligne (5 minutes)
+## Étape 1 — Activer GitHub Pages (2 minutes)
 
-1. Aller sur https://app.netlify.com/signup et choisir **Sign up with GitHub**.
-2. **Add new project** → **Import an existing project** → **GitHub**.
-3. Autoriser Netlify sur l'organisation **BuddAndFly**, puis choisir le dépôt `budd-and-fly-blog`.
-4. Netlify détecte tout seul les réglages (grâce à `netlify.toml`). Cliquer sur **Deploy**.
+1. Sur GitHub, ouvrir le dépôt `BuddAndFly/budd-and-fly-blog` → **Settings** → **Pages** (menu de gauche).
+2. **Build and deployment** → **Source** : choisir **GitHub Actions**.
+3. Onglet **Actions** du dépôt → **Publier le site** → **Run workflow** (ou attendre le prochain envoi).
 
-Le site est en ligne sur une adresse du type `https://nom-du-projet.netlify.app`.
-Cette version publique n'affiche que les guides **validés**.
+> GitHub Pages est gratuit pour un dépôt **public**. Pour un dépôt **privé**, il faut l'offre GitHub Team de l'organisation (payante). Sinon, rendre le dépôt public : **Settings** → **General** → **Danger Zone** → **Change visibility**.
 
-## Étape 2 — Adresse de relecture avec les brouillons
+## Étape 2 — Adresse de relecture : nouveau.buddandfly.com
 
-1. Dans le projet Netlify : **Project configuration** → **Build & deploy** → **Branches and deploy contexts** → **Configure**.
-2. **Branch deploys** → **Let me add individual branches** → ajouter `refonte-blog` → **Save**.
+Pendant la relecture, le site est publié sur un sous-domaine, sans toucher au site actuel.
 
-La version de relecture est alors sur `https://refonte-blog--nom-du-projet.netlify.app` : tous les brouillons y sont visibles, et Google ne l'indexe pas.
-Chaque envoi sur GitHub met les deux adresses à jour en 1 à 2 minutes.
+1. Chez **OVH** : **Web Cloud** → **Noms de domaine** → `buddandfly.com` → onglet **Zone DNS** → **Ajouter une entrée** → **CNAME** :
+   - sous-domaine : `nouveau`
+   - cible : `buddandfly.github.io.` (avec le point final)
+2. Sur GitHub : **Settings** → **Pages** → **Custom domain** : `nouveau.buddandfly.com` → **Save**, puis cocher **Enforce HTTPS** dès que c'est possible (quelques minutes à quelques heures).
+
+Pendant cette phase, les brouillons sont visibles et toutes les pages sont en « noindex » : Google ne les indexe pas.
 
 ## Étape 3 — Bascule de buddandfly.com (plus tard)
 
-À faire quand au moins une vingtaine de guides sont validés et que les anciens articles du blog sont migrés, sinon des pages déjà indexées tomberaient en erreur.
+À faire quand au moins une vingtaine de guides sont validés et que les anciens articles du blog sont migrés.
 
-1. Fusionner `refonte-blog` dans `main`.
+1. Dans `.github/workflows/deploy.yml`, passer `SHOW_DRAFTS` et `NOINDEX` à `"false"`.
 2. Dans **Lovable**, retirer le domaine personnalisé buddandfly.com du projet.
-3. Dans Netlify : **Domain management** → **Add a domain** → `buddandfly.com`. Netlify affiche les deux enregistrements DNS à créer (une adresse IP pour `buddandfly.com`, et un CNAME pour `www`).
-4. Dans l'espace client OVH : **Web Cloud** → **Noms de domaine** → `buddandfly.com` → onglet **Zone DNS** :
-   - supprimer les anciennes lignes **A** et **CNAME** qui pointaient vers Lovable (pour `buddandfly.com` et `www`) ;
-   - ajouter les deux lignes données par Netlify ;
+3. Chez **OVH**, onglet **Zone DNS** :
+   - supprimer les anciennes lignes **A** et **CNAME** de `buddandfly.com` et `www` qui pointent vers Lovable ;
+   - ajouter 4 lignes **A** pour `buddandfly.com` (sous-domaine vide) : `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153` ;
+   - ajouter une ligne **CNAME** `www` → `buddandfly.github.io.` ;
    - **ne pas toucher aux lignes MX, SPF ou DKIM** (e-mails).
-5. Attendre la propagation (quelques minutes à quelques heures). Netlify active le HTTPS tout seul.
-6. Dans **Google Search Console**, soumettre `https://buddandfly.com/sitemap-index.xml`.
+4. Sur GitHub : **Settings** → **Pages** → **Custom domain** : `buddandfly.com` → **Save**, puis **Enforce HTTPS**.
+5. Dans **Google Search Console**, soumettre `https://buddandfly.com/sitemap-index.xml`.
+
+Vérifier les adresses IP de GitHub Pages dans la documentation officielle au moment de la bascule : https://docs.github.com/fr/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
 
 ## Redirections
 
-Les anciennes adresses (guides pays, quiz, conseils…) sont redirigées en 301 par `public/_redirects`.
-Le lien `/app` mène à l'application : le jour où elle est sur les stores, modifier sa ligne dans ce fichier.
+Les anciennes adresses (guides pays, quiz, conseils…) sont redirigées vers les nouvelles pages par `src/data/redirects.mjs`.
+Le lien `/app` mène à l'application : le jour où elle est sur les stores, modifier `APP_URL` dans `astro.config.mjs`.
