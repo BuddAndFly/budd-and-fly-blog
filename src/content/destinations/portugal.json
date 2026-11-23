@@ -1,0 +1,253 @@
+{
+  "name": "Portugal",
+  "prep": "au Portugal",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 5,
+  "status": "brouillon",
+  "updatedAt": "2026-11-23",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Portugal : quand partir, budget, villes, itinéraires",
+    "description": "Préparer un voyage au Portugal : meilleure saison, budget seul ou à deux, Lisbonne, Porto, Sintra, l'Algarve, Madère et itinéraires. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Portugal est agréable d'avril à octobre, avec un pic de chaleur et de monde en juillet-août. Une carte d'identité suffit. En une semaine, Lisbonne, Sintra et Porto forment un très beau premier voyage ; ajoute l'Algarve pour la mer.",
+  "essentials": {
+    "bestPeriod": "Avril à juin, septembre-octobre",
+    "languages": "Portugais (l'anglais est courant dans les villes)",
+    "currency": "Euro (EUR)",
+    "timeDiff": "−1 h (−2 h aux Açores)",
+    "plugs": "Types C et F, 230 V : comme en France",
+    "emergency": "112 (numéro d'urgence européen)",
+    "flight": "Environ 2 h 15 depuis Paris pour Lisbonne"
+  },
+  "months": [
+    { "rating": 1, "note": "Doux mais pluvieux, surtout à Porto. Villes calmes et prix bas. Madère est agréable toute l'année." },
+    { "rating": 1, "note": "Amandiers en fleur en Algarve. Encore des pluies." },
+    { "rating": 1, "note": "Le printemps arrive, journées plus longues. Encore frais pour la baignade." },
+    { "rating": 2, "note": "Doux et fleuri, parfait pour les villes et la randonnée." },
+    { "rating": 2, "note": "L'un des meilleurs mois : soleil, campagne verte, pas encore la foule." },
+    { "rating": 2, "note": "Fêtes de quartier à Lisbonne (Saint-Antoine) et Porto (Saint-Jean) : sardines grillées et nuit blanche." },
+    { "rating": 1, "note": "Chaud et très fréquenté, l'eau de l'Atlantique reste fraîche. Risque d'incendies dans les campagnes." },
+    { "rating": 1, "note": "Pic de fréquentation en Algarve, prix au plus haut. Les villes sont chaudes." },
+    { "rating": 2, "note": "La mer est la plus chaude de l'année, la foule repart. Vendanges dans la vallée du Douro." },
+    { "rating": 2, "note": "Encore doux et ensoleillé, moins de monde. Idéal pour Porto et le Douro." },
+    { "rating": 1, "note": "Plus pluvieux, mais lumineux entre deux averses. Grosses vagues à Nazaré, spectacle pour les surfeurs." },
+    { "rating": 1, "note": "Illuminations de Noël, villes calmes. Madère est réputée pour son feu d'artifice du Nouvel An." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors trajet depuis la France.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou guesthouse)", "solo": "55 à 110 €", "duo": "35 à 70 €" },
+      { "label": "Repas", "solo": "25 à 40 €", "duo": "25 à 40 €" },
+      { "label": "Transports locaux", "solo": "5 à 10 €", "duo": "5 à 10 €" },
+      { "label": "Visites et entrées", "solo": "10 à 25 €", "duo": "10 à 25 €" }
+    ],
+    "totalSolo": "95 à 185 €",
+    "totalDuo": "75 à 145 €",
+    "note": "Lisbonne et l'Algarve en été sont les plus chères. Le « prato do dia » (plat du jour) du midi est très avantageux. Taxe touristique par nuit à Lisbonne et Porto.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Le Portugal est dans l'Union européenne : une carte d'identité ou un passeport en cours de validité suffit, mineurs compris.",
+    "points": [
+      "Chaque mineur doit avoir sa propre carte d'identité ou son passeport, même en voiture. Le livret de famille n'est pas un document de voyage.",
+      "En correspondance à Lisbonne vers un pays hors Schengen (Cap-Vert, Brésil, Sénégal…), vérifie la validité minimale de passeport exigée par ta destination finale."
+    ],
+    "source": { "label": "France Diplomatie, Portugal, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/portugal/" },
+    "checkedAt": "2026-11-23"
+  },
+  "health": {
+    "text": "Aucun vaccin particulier. Prends ta carte européenne d'assurance maladie.",
+    "points": [
+      "Carte européenne d'assurance maladie (CEAM) à demander sur Ameli.",
+      "En été, protège-toi de la chaleur et du soleil.",
+      "L'océan est froid et les courants sont forts : baigne-toi sur les plages surveillées."
+    ],
+    "source": { "label": "France Diplomatie, Portugal, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/portugal/" },
+    "checkedAt": "2026-11-23"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance normale. Le principal risque, en été, ce sont les incendies de forêt.",
+    "points": [
+      "Du 1er juin au 30 septembre, il est interdit d'allumer un feu dans les zones forestières (barbecue, réchaud, pétards) et de fumer sur les routes qui les traversent. Amende jusqu'à 300 €, prison en cas d'incendie.",
+      "Évite de camper ou de t'aventurer dans les zones boisées isolées pendant l'été, et suis la carte des incendies en cours (fogos.pt).",
+      "Le pays est en zone sismique, surtout Lisbonne, le sud et les Açores.",
+      "Vols à la tire possibles dans les trams et les quartiers touristiques de Lisbonne et Porto."
+    ],
+    "source": { "label": "France Diplomatie, Portugal, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/portugal/" },
+    "checkedAt": "2026-11-23"
+  },
+  "cities": [
+    {
+      "slug": "lisbonne",
+      "name": "Lisbonne",
+      "nights": "3 nuits",
+      "for": ["tous", "energique", "explorateur"],
+      "summary": "Une capitale en pente au bord du Tage, ses tramways jaunes, ses belvédères et ses azulejos.",
+      "sleep": "Baixa et Chiado pour le centre, Alfama pour le charme, Príncipe Real pour le calme.",
+      "see": [
+        { "name": "L'Alfama", "note": "Le plus vieux quartier, ruelles et belvédères, ambiance fado le soir." },
+        { "name": "Belém", "note": "Le monastère des Hiéronymites, la tour et les célèbres pastéis de Belém." },
+        { "name": "Le tram 28", "note": "Il traverse les quartiers historiques. Monte au terminus pour avoir une place." },
+        { "name": "Les belvédères", "note": "Santa Luzia, Graça et Senhora do Monte, au coucher du soleil." }
+      ],
+      "hidden": [
+        { "name": "Le musée des Azulejos", "note": "Dans un ancien couvent, l'histoire des carreaux de faïence." },
+        { "name": "LX Factory", "note": "Une ancienne usine reconvertie en lieu de création et de restaurants." }
+      ],
+      "eat": "Les pastéis de nata, la morue sous toutes ses formes et les sardines grillées en juin.",
+      "getAround": "Métro, trams et funiculaires. Prends une carte rechargeable pour les transports.",
+      "tip": "Les pavés sont glissants et les rues très pentues : de bonnes chaussures changent tout."
+    },
+    {
+      "slug": "sintra",
+      "name": "Sintra",
+      "nights": "1 nuit ou une journée",
+      "for": ["lent", "stratege"],
+      "summary": "Des palais romantiques dans une forêt de collines, à 40 minutes de train de Lisbonne.",
+      "sleep": "Une nuit sur place permet de visiter à l'ouverture, avant les excursions de la journée.",
+      "see": [
+        { "name": "Le palais de Pena", "note": "Coloré, perché, très fréquenté : réserve un créneau tôt." },
+        { "name": "La Quinta da Regaleira", "note": "Jardins mystérieux et puits initiatique." },
+        { "name": "Le château des Maures", "note": "Remparts avec vue sur toute la région." }
+      ],
+      "hidden": [
+        { "name": "Le cap da Roca", "note": "Le point le plus à l'ouest de l'Europe continentale, à 30 minutes en bus." }
+      ],
+      "eat": "Les travesseiros, feuilletés à la crème d'amande, spécialité locale.",
+      "getAround": "Train depuis Lisbonne, puis bus locaux ou marche entre les palais.",
+      "tip": "Évite d'y aller en voiture : les routes sont étroites et le stationnement presque impossible."
+    },
+    {
+      "slug": "porto",
+      "name": "Porto",
+      "nights": "2 à 3 nuits",
+      "for": ["lent", "tous"],
+      "summary": "Une ville de granit et d'azulejos au bord du Douro, plus intime que Lisbonne, avec ses caves de porto.",
+      "sleep": "Dans la Ribeira ou autour de la rue des Flores pour le centre historique.",
+      "see": [
+        { "name": "La Ribeira", "note": "Les quais colorés au bord du fleuve." },
+        { "name": "Le pont Dom-Luís I", "note": "À traverser par le haut pour la vue, puis descendre vers les caves." },
+        { "name": "Les caves de Vila Nova de Gaia", "note": "Visite et dégustation de porto." },
+        { "name": "La gare de São Bento", "note": "Son hall entièrement couvert d'azulejos." }
+      ],
+      "hidden": [
+        { "name": "Foz do Douro", "note": "L'embouchure du fleuve et le front de mer, en vieux tram." },
+        { "name": "La vallée du Douro", "note": "Vignobles en terrasses, en train ou en bateau pour une journée." }
+      ],
+      "eat": "La francesinha, sandwich très copieux, et les tripes à la mode de Porto pour les curieux.",
+      "getAround": "À pied (ça monte), métro et trams historiques.",
+      "tip": "Le train qui longe le Douro jusqu'à Pinhão offre l'une des plus belles lignes d'Europe, pour quelques euros."
+    },
+    {
+      "slug": "algarve",
+      "name": "L'Algarve",
+      "nights": "3 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "La côte sud : falaises dorées, criques et grottes marines. Le soleil est presque garanti d'avril à octobre.",
+      "sleep": "Lagos pour l'ambiance et les plages, Tavira pour une ville plus calme à l'est.",
+      "see": [
+        { "name": "La grotte de Benagil", "note": "Accessible par bateau ; l'accès à la nage est réglementé, renseigne-toi sur place." },
+        { "name": "La Ponta da Piedade", "note": "Les falaises sculptées près de Lagos, en kayak." },
+        { "name": "Le sentier des Sept Vallées suspendues", "note": "Une randonnée sur les falaises, parmi les plus belles d'Europe." }
+      ],
+      "hidden": [
+        { "name": "La côte ouest (Costa Vicentina)", "note": "Sauvage, venteuse, très appréciée des surfeurs." },
+        { "name": "Tavira et la ria Formosa", "note": "Une jolie ville et une lagune protégée, avec ses îles-plages." }
+      ],
+      "eat": "La cataplana, ragoût de poisson et fruits de mer cuit dans une marmite en cuivre.",
+      "getAround": "Une voiture est le plus simple ; trains et bus relient les principales villes.",
+      "tip": "En juillet et août, réserve longtemps à l'avance : c'est la destination balnéaire préférée des Européens."
+    },
+    {
+      "slug": "madere",
+      "name": "Madère",
+      "nights": "4 nuits",
+      "for": ["explorateur", "lent"],
+      "summary": "Une île volcanique au climat doux toute l'année, faite de montagnes, de forêts et de sentiers le long des canaux d'irrigation.",
+      "sleep": "Funchal pour les services, ou un village du nord pour la nature.",
+      "see": [
+        { "name": "Les levadas", "note": "Des sentiers qui suivent les canaux d'irrigation à travers la forêt." },
+        { "name": "Le pic Ruivo depuis le pic do Arieiro", "note": "La randonnée la plus spectaculaire de l'île, au-dessus des nuages." },
+        { "name": "Funchal", "note": "Sa vieille ville, son marché et son téléphérique." }
+      ],
+      "hidden": [
+        { "name": "Porto Moniz", "note": "Des piscines naturelles dans la roche volcanique." }
+      ],
+      "eat": "L'espada (sabre noir) à la banane et le poncha, cocktail local.",
+      "getAround": "Une voiture est indispensable pour explorer l'île : routes sinueuses, prudence.",
+      "tip": "Le temps change vite en montagne : vérifie l'état des sentiers sur le site officiel avant chaque randonnée."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Lisbonne et Porto",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Lisbonne", "note": "Alfama, Belém, belvédères." },
+        { "days": "Jour 4", "place": "Sintra", "note": "Palais et cap da Roca." },
+        { "days": "Jours 5 à 7", "place": "Porto", "note": "En 3 h de train. Caves et vallée du Douro." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Villes et mer",
+      "for": ["lent", "tous"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Porto", "note": "Et une journée dans le Douro." },
+        { "days": "Jours 4 à 6", "place": "Lisbonne", "note": "Avec Sintra." },
+        { "days": "Jours 7 à 10", "place": "L'Algarve", "note": "Lagos et les falaises. Retour depuis Faro." }
+      ]
+    },
+    {
+      "days": 14,
+      "title": "Continent et île",
+      "for": ["explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Porto", "note": "Et le Douro." },
+        { "days": "Jours 4 à 7", "place": "Lisbonne et Sintra", "note": "À ton rythme." },
+        { "days": "Jours 8 à 10", "place": "L'Algarve", "note": "Randonnée des Sept Vallées." },
+        { "days": "Jours 11 à 14", "place": "Madère", "note": "Vol depuis Faro ou Lisbonne. Levadas et sommets." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Le train", "text": "Lisbonne-Porto en environ 3 h, trains régionaux vers Sintra, Cascais et le long du Douro." },
+    { "title": "Le bus", "text": "Les bus longue distance relient bien les villes et l'Algarve, souvent moins chers que le train." },
+    { "title": "En voiture", "text": "Utile pour l'Algarve, l'Alentejo et Madère. Certaines autoroutes ont un péage électronique : demande le boîtier ou l'option au loueur." },
+    { "title": "Vers Madère et les Açores", "text": "Vols depuis Lisbonne et Porto, et vols directs depuis la France selon la saison." }
+  ],
+  "culture": [
+    "Le Portugal n'est pas l'Espagne : les Portugais apprécient qu'on ne confonde pas les deux.",
+    "Les petites assiettes posées sur la table en entrée (pain, olives, fromage) sont payantes si tu les entames.",
+    "Le café se commande « um café » (un expresso) ; le galão est un café au lait en verre.",
+    "Le pourboire n'est pas obligatoire ; on arrondit si le service a plu."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Bom dia", "say": "bon dia" },
+    { "fr": "Merci", "local": "Obrigado (homme) / Obrigada (femme)", "say": "obrigadou / obrigada" },
+    { "fr": "S'il vous plaît", "local": "Por favor", "say": "pour favor" },
+    { "fr": "L'addition, s'il vous plaît", "local": "A conta, por favor", "say": "a conta, pour favor" },
+    { "fr": "Combien ça coûte ?", "local": "Quanto custa?", "say": "couantou couchta" }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport en cours de validité, y compris pour les enfants",
+    "Carte européenne d'assurance maladie",
+    "Créneau réservé pour le palais de Pena",
+    "Chaussures confortables qui accrochent sur les pavés",
+    "Option péage électronique si tu loues une voiture",
+    "Ne jamais allumer de feu en forêt de juin à septembre"
+  ],
+  "faq": [
+    { "q": "Faut-il un passeport pour le Portugal ?", "a": "Non, une carte d'identité en cours de validité suffit, y compris pour les mineurs, qui doivent avoir leur propre document." },
+    { "q": "Quelle est la meilleure période pour le Portugal ?", "a": "D'avril à juin et en septembre-octobre : temps doux, moins de monde et prix plus bas qu'en été. Madère est agréable toute l'année." },
+    { "q": "Quel budget pour une semaine au Portugal ?", "a": "Compte environ 95 à 185 € par jour seul et 75 à 145 € par personne à deux, hors trajet. Ces montants sont des estimations à vérifier." },
+    { "q": "Lisbonne ou Porto ?", "a": "Lisbonne est plus grande, plus animée, avec Sintra et Belém à côté ; Porto est plus intime, avec le Douro et ses vignobles. Les deux villes sont à 3 h de train : l'idéal est de faire les deux." },
+    { "q": "Peut-on se baigner au Portugal ?", "a": "Oui, mais l'Atlantique reste frais, autour de 18 à 21 °C en été sur la côte ouest, un peu plus en Algarve. Baigne-toi sur les plages surveillées : les courants peuvent être forts." }
+  ]
+}

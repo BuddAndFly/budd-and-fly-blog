@@ -1,0 +1,255 @@
+{
+  "name": "Espagne",
+  "prep": "en Espagne",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 4,
+  "status": "brouillon",
+  "updatedAt": "2026-11-23",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Espagne : quand partir, budget, villes, itinéraires",
+    "description": "Préparer un voyage en Espagne : meilleure saison, budget seul ou à deux, Madrid, Barcelone, Séville, Grenade, Valence et itinéraires. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "L'Espagne se visite toute l'année, mais le printemps (avril-juin) et l'automne (septembre-octobre) sont idéaux : il fait chaud sans la fournaise de l'été andalou. Une carte d'identité suffit. En une semaine, choisis entre Barcelone et Madrid, ou l'Andalousie de Séville à Grenade ; avec dix jours, tu peux combiner.",
+  "essentials": {
+    "bestPeriod": "Avril à juin, septembre-octobre",
+    "languages": "Espagnol (aussi catalan, basque et galicien selon les régions)",
+    "currency": "Euro (EUR)",
+    "timeDiff": "Aucun (−1 h aux Canaries)",
+    "plugs": "Types C et F, 230 V : comme en France",
+    "emergency": "112 (numéro d'urgence européen)",
+    "flight": "Environ 2 h depuis Paris pour Madrid ; train direct Paris-Barcelone"
+  },
+  "months": [
+    { "rating": 1, "note": "Frais dans le centre, doux en Andalousie. Les Canaries sont au soleil : idéal pour fuir l'hiver." },
+    { "rating": 1, "note": "Amandiers en fleur dans le sud, villes calmes. Carnaval de Cadix et de Tenerife selon les années." },
+    { "rating": 1, "note": "Le printemps arrive. Mi-mars, les Fallas de Valence : feux et défilés, ville comble." },
+    { "rating": 2, "note": "Idéal en Andalousie. Semaine sainte puis Feria de Séville selon le calendrier : spectaculaire, mais prix au plus haut." },
+    { "rating": 2, "note": "Chaud et lumineux partout, cours fleuries à Cordoue. L'un des meilleurs mois." },
+    { "rating": 2, "note": "Début de l'été, mer agréable, longues soirées. Il commence à faire très chaud en Andalousie." },
+    { "rating": 1, "note": "Fournaise dans l'intérieur (Séville, Madrid, Cordoue). Préfère la côte, le nord (Pays basque, Asturies) et les îles." },
+    { "rating": 1, "note": "Très chaud, plages pleines, beaucoup de commerces des grandes villes ferment. Le nord reste agréable." },
+    { "rating": 2, "note": "La chaleur retombe, la mer est chaude, les foules diminuent." },
+    { "rating": 2, "note": "Doux et ensoleillé dans le sud. Parfait pour les villes et la randonnée." },
+    { "rating": 1, "note": "Plus frais et parfois pluvieux, mais calme et bon marché. Les Canaries restent douces." },
+    { "rating": 1, "note": "Marchés de Noël, illuminations. Le sud et les Canaries restent agréables." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors trajet depuis la France.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple)", "solo": "60 à 120 €", "duo": "40 à 75 €" },
+      { "label": "Repas (tapas, menu du jour à midi)", "solo": "25 à 45 €", "duo": "25 à 45 €" },
+      { "label": "Transports locaux", "solo": "5 à 10 €", "duo": "5 à 10 €" },
+      { "label": "Visites et entrées", "solo": "10 à 25 €", "duo": "10 à 25 €" }
+    ],
+    "totalSolo": "100 à 200 €",
+    "totalDuo": "80 à 155 €",
+    "note": "Le « menu del día » du midi (entrée, plat, dessert, boisson) est la meilleure affaire du pays. Barcelone, Madrid et les Baléares sont les plus chères. Taxe de séjour par nuit en Catalogne et aux Baléares.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "L'Espagne est dans l'Union européenne : une carte d'identité ou un passeport en cours de validité suffit.",
+    "points": [
+      "Cartes d'identité délivrées entre 2004 et 2013 à des majeurs : valables 5 ans de plus que la date inscrite, mais un passeport valide est recommandé.",
+      "Si tu perds tes papiers, certaines compagnies aériennes (dont Ryanair) refusent la déclaration de perte de la police espagnole : il faut un laissez-passer du consulat de France (50 €).",
+      "Si tu continues vers le Maroc par Ceuta ou Melilla, un passeport valide est obligatoire."
+    ],
+    "source": { "label": "France Diplomatie, Espagne, Entrée / séjour (mise à jour du 20 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/espagne/" },
+    "checkedAt": "2026-11-23"
+  },
+  "health": {
+    "text": "Aucun vaccin particulier. Prends ta carte européenne d'assurance maladie et protège-toi de la chaleur en été.",
+    "points": [
+      "Carte européenne d'assurance maladie (CEAM) à demander sur Ameli.",
+      "En été, protège-toi de la chaleur : hydratation, pas d'effort aux heures chaudes, attention aux enfants et aux personnes âgées.",
+      "Protection solaire, en particulier aux Canaries et en altitude."
+    ],
+    "source": { "label": "France Diplomatie, Espagne, Santé (mise à jour du 20 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/espagne/" },
+    "checkedAt": "2026-11-23"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance normale. Les vols sont fréquents dans les zones touristiques, en hausse à Barcelone et aux Baléares.",
+    "points": [
+      "Vols fréquents dans les quartiers touristiques et les transports, parfois avec violence à Barcelone et aux Baléares.",
+      "À Séville, la place d'Espagne et le parc María Luisa sont connus pour les vols.",
+      "Menace terroriste évaluée à 4 sur 5 par les autorités espagnoles : ne laisse pas de bagage sans surveillance, sois vigilant dans les transports et les sites très fréquentés.",
+      "Intempéries, inondations et feux de forêt possibles : suis les alertes de l'agence météo espagnole (AEMET)."
+    ],
+    "source": { "label": "France Diplomatie, Espagne, Sécurité (mise à jour du 20 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/espagne/" },
+    "checkedAt": "2026-11-23"
+  },
+  "cities": [
+    {
+      "slug": "barcelone",
+      "name": "Barcelone",
+      "nights": "3 nuits",
+      "for": ["energique", "explorateur", "tous"],
+      "summary": "Gaudí, la mer et la vie nocturne. Une grande ville où l'on se déplace à pied et en métro, plage comprise.",
+      "sleep": "L'Eixample pour le calme et les façades modernistes, le Born ou Gràcia pour l'ambiance de quartier.",
+      "see": [
+        { "name": "La Sagrada Família", "note": "La basilique inachevée de Gaudí. Réservation en ligne obligatoire de fait." },
+        { "name": "Le parc Güell", "note": "La zone monumentale est payante, sur réservation, avec un créneau horaire." },
+        { "name": "Le quartier gothique et le Born", "note": "Ruelles médiévales, cathédrale et église Santa Maria del Mar." },
+        { "name": "La Casa Batlló et la Pedrera", "note": "Deux maisons de Gaudí sur le Passeig de Gràcia." }
+      ],
+      "hidden": [
+        { "name": "Le bunker du Carmel", "note": "Une ancienne batterie antiaérienne, la plus belle vue sur la ville au coucher du soleil." },
+        { "name": "Le quartier de Poblenou", "note": "Ancien quartier industriel, rambla tranquille et plages moins bondées." }
+      ],
+      "eat": "Le marché de la Boqueria tôt le matin, puis les bars à tapas du Born et de Gràcia.",
+      "getAround": "Métro, bus et marche. La carte multi-trajets est plus économique que les tickets à l'unité.",
+      "tip": "Sur la Rambla et dans le métro, garde ton téléphone et ton portefeuille en poche avant : c'est le terrain de jeu des pickpockets."
+    },
+    {
+      "slug": "madrid",
+      "name": "Madrid",
+      "nights": "3 nuits",
+      "for": ["stratege", "energique"],
+      "summary": "Trois des plus grands musées d'Europe, des parcs immenses et des nuits qui commencent tard.",
+      "sleep": "Autour de la Puerta del Sol ou de Las Letras pour tout faire à pied, Malasaña pour l'ambiance.",
+      "see": [
+        { "name": "Le musée du Prado", "note": "Velázquez, Goya, Bosch. Gratuit en soirée selon les créneaux." },
+        { "name": "Le Reina Sofía et le Thyssen", "note": "Guernica de Picasso au Reina Sofía, peinture européenne au Thyssen." },
+        { "name": "Le parc du Retiro", "note": "Le palais de cristal et une barque sur l'étang." },
+        { "name": "Le Palais royal et la place Mayor", "note": "Le cœur historique de la ville." }
+      ],
+      "hidden": [
+        { "name": "Le temple de Debod", "note": "Un vrai temple égyptien, offert à l'Espagne, beau au coucher du soleil." },
+        { "name": "Tolède ou Ségovie", "note": "À environ 30 minutes de train rapide, pour une journée." }
+      ],
+      "eat": "Le bocadillo de calamars près de la place Mayor, et les tapas de La Latina le dimanche.",
+      "getAround": "Métro très complet. Trains rapides vers Tolède, Ségovie, Séville et Barcelone.",
+      "tip": "On dîne vers 21 h 30 ou 22 h : avant, les restaurants sont vides."
+    },
+    {
+      "slug": "seville",
+      "name": "Séville",
+      "nights": "2 à 3 nuits",
+      "for": ["lent", "energique"],
+      "summary": "L'Andalousie dans toute sa splendeur : palais mauresques, orangers, flamenco.",
+      "sleep": "Dans le quartier de Santa Cruz ou à Triana, de l'autre côté du fleuve.",
+      "see": [
+        { "name": "L'Alcazar", "note": "Palais et jardins somptueux. Réservation conseillée." },
+        { "name": "La cathédrale et la Giralda", "note": "La plus grande cathédrale gothique du monde, et son minaret devenu clocher." },
+        { "name": "La place d'Espagne", "note": "Grandiose, mais surveille bien tes affaires." }
+      ],
+      "hidden": [
+        { "name": "Les Setas", "note": "Une immense structure en bois avec une passerelle sur les toits." },
+        { "name": "Un spectacle de flamenco dans une petite salle", "note": "Plus intense que les grands spectacles pour touristes." }
+      ],
+      "eat": "Les bars à tapas de Triana et le salmorejo, soupe froide de tomate.",
+      "getAround": "À pied dans le centre, tram et vélo en libre-service.",
+      "tip": "De juin à septembre, la chaleur peut dépasser 40 °C : visites tôt le matin, sieste l'après-midi."
+    },
+    {
+      "slug": "grenade",
+      "name": "Grenade",
+      "nights": "2 nuits",
+      "for": ["lent", "stratege"],
+      "summary": "L'Alhambra, le plus beau palais du monde arabe, face à la Sierra Nevada.",
+      "sleep": "Dans l'Albaicín pour la vue sur l'Alhambra, ou au centre pour le pratique.",
+      "see": [
+        { "name": "L'Alhambra", "note": "Billets nominatifs avec un créneau pour les palais nasrides : réserve plusieurs semaines à l'avance." },
+        { "name": "Le mirador San Nicolás", "note": "La vue sur l'Alhambra au coucher du soleil." },
+        { "name": "L'Albaicín", "note": "L'ancien quartier arabe, ruelles blanches et jardins." }
+      ],
+      "hidden": [
+        { "name": "Le Sacromonte", "note": "Les maisons troglodytes et l'histoire du flamenco gitan." }
+      ],
+      "eat": "Dans beaucoup de bars, une tapa est offerte avec chaque boisson.",
+      "getAround": "À pied et en minibus pour les quartiers en pente.",
+      "tip": "Sans billet réservé à l'avance pour l'Alhambra, tu risques de ne pas pouvoir entrer dans les palais."
+    },
+    {
+      "slug": "valence",
+      "name": "Valence",
+      "nights": "2 nuits",
+      "for": ["explorateur", "lent"],
+      "summary": "Une ville à taille humaine, entre architecture futuriste, vieille ville et plages, berceau de la paella.",
+      "sleep": "Dans la vieille ville (Ciutat Vella) ou à Ruzafa pour les bars et restaurants.",
+      "see": [
+        { "name": "La Cité des arts et des sciences", "note": "L'architecture de Calatrava et l'aquarium." },
+        { "name": "Les jardins du Turia", "note": "Un ancien lit de rivière transformé en parc de 9 km, à vélo." },
+        { "name": "Le marché central", "note": "L'un des plus beaux marchés couverts d'Europe." }
+      ],
+      "hidden": [
+        { "name": "L'Albufera", "note": "Le lac et les rizières au sud de la ville, au coucher du soleil." }
+      ],
+      "eat": "La vraie paella valencienne (poulet, lapin, haricots), plutôt le midi.",
+      "getAround": "Vélo, métro et tram jusqu'à la plage.",
+      "tip": "La paella se mange le midi : le soir, c'est souvent un plat pour touristes."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "L'Andalousie",
+      "for": ["lent", "tous"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Séville", "note": "Alcazar, cathédrale, Triana." },
+        { "days": "Jour 4", "place": "Cordoue", "note": "La mosquée-cathédrale, en train rapide." },
+        { "days": "Jours 5 à 7", "place": "Grenade", "note": "Alhambra et Albaicín." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Les grandes villes",
+      "for": ["stratege", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Barcelone", "note": "Gaudí, quartier gothique, plage." },
+        { "days": "Jours 4 à 6", "place": "Madrid", "note": "En 2 h 30 de train rapide. Musées et Retiro." },
+        { "days": "Jours 7 à 10", "place": "Séville", "note": "En 2 h 30 de train. Excursion à Cordoue." }
+      ]
+    },
+    {
+      "days": 14,
+      "title": "Le grand tour",
+      "for": ["explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Barcelone", "note": "Et la côte." },
+        { "days": "Jours 4 et 5", "place": "Valence", "note": "Paella et Albufera." },
+        { "days": "Jours 6 à 8", "place": "Madrid", "note": "Avec Tolède." },
+        { "days": "Jours 9 à 11", "place": "Séville", "note": "Et Cordoue." },
+        { "days": "Jours 12 à 14", "place": "Grenade", "note": "Retour depuis Malaga." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Le train rapide", "text": "Les trains à grande vitesse relient Madrid à Barcelone, Séville, Valence et Malaga en 2 à 3 h. Plusieurs compagnies se font concurrence : compare et réserve tôt." },
+    { "title": "Le bus", "text": "Moins cher que le train et très complet pour les villages andalous." },
+    { "title": "En voiture", "text": "Idéale pour les villages blancs d'Andalousie et le nord. Inutile dans les grandes villes." },
+    { "title": "Depuis la France", "text": "Trains directs Paris-Barcelone, vols vers toutes les grandes villes." }
+  ],
+  "culture": [
+    "Horaires décalés : déjeuner vers 14 h, dîner vers 21 h 30.",
+    "Les tapas se partagent ; à Grenade et dans une partie de l'Andalousie, une tapa est souvent offerte avec la boisson.",
+    "Le pourboire n'est pas obligatoire : on laisse quelques pièces si le service a été bon.",
+    "En Catalogne, on parle catalan : quelques mots font toujours plaisir."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Hola / Buenos días", "say": "ola / bouénoss dias" },
+    { "fr": "Merci", "local": "Gracias", "say": "grassiass" },
+    { "fr": "L'addition, s'il vous plaît", "local": "La cuenta, por favor", "say": "la couenta, por favor" },
+    { "fr": "Combien ça coûte ?", "local": "¿Cuánto cuesta?", "say": "couanto couesta" },
+    { "fr": "Une table pour deux", "local": "Una mesa para dos", "say": "ouna messa para doss" }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport en cours de validité (passeport si tu vas au Maroc)",
+    "Carte européenne d'assurance maladie",
+    "Billets réservés pour l'Alhambra, la Sagrada Família, le parc Güell et l'Alcazar",
+    "Trains rapides réservés à l'avance",
+    "Protection solaire et chapeau en été",
+    "Sac qui ferme bien pour Barcelone et Madrid"
+  ],
+  "faq": [
+    { "q": "Faut-il un passeport pour l'Espagne ?", "a": "Non, une carte d'identité en cours de validité suffit, l'Espagne étant dans l'Union européenne. Un passeport est recommandé si ta carte a dépassé sa date de validité (cartes 2004-2013 prolongées), et obligatoire si tu continues vers le Maroc." },
+    { "q": "Quelle est la meilleure période pour l'Espagne ?", "a": "Avril à juin et septembre-octobre. En juillet et août, l'intérieur et l'Andalousie sont brûlants : préfère alors le nord (Pays basque, Galice, Asturies), les côtes et les îles. L'hiver, les Canaries restent douces." },
+    { "q": "Quel budget pour une semaine en Espagne ?", "a": "Compte environ 100 à 200 € par jour seul et 80 à 155 € par personne à deux, hors trajet. Le menu du jour à midi permet de bien manger pour peu cher. Ces montants sont des estimations à vérifier." },
+    { "q": "Faut-il réserver l'Alhambra à l'avance ?", "a": "Oui, plusieurs semaines à l'avance en saison. Les billets sont nominatifs et donnent un créneau précis pour les palais nasrides. C'est aussi recommandé pour la Sagrada Família, le parc Güell et l'Alcazar de Séville." },
+    { "q": "Barcelone ou Madrid ?", "a": "Barcelone pour Gaudí, la mer et l'ambiance méditerranéenne ; Madrid pour les grands musées, les parcs et les excursions à Tolède et Ségovie. Les deux villes sont à 2 h 30 de train rapide l'une de l'autre." }
+  ]
+}
