@@ -1,0 +1,104 @@
+---
+import Base from '@/layouts/Base.astro';
+import Credit from '@/components/Credit.astro';
+import { getDestinations, isDraft, profileLabel, frDate, type Destination } from '@/lib/content';
+import { SITE } from '@/data/site';
+
+export async function getStaticPaths() {
+  const all = await getDestinations();
+  return all.flatMap((d) => d.data.cities.map((c) => ({ params: { slug: d.id, ville: c.slug }, props: { d, c } })));
+}
+
+type City = Destination['data']['cities'][number];
+const { d, c } = Astro.props as { d: Destination; c: City };
+const g = d.data;
+const others = g.cities.filter((x) => x.slug !== c.slug);
+const title = `Que faire à ${c.name} : quartiers, visites, où dormir`;
+const description = `${c.name} (${g.name}) : où dormir, que voir, nos lieux moins connus, où manger et comment se déplacer. ${c.nights} conseillées.`.slice(0, 158);
+const url = new URL(`/destinations/${d.id}/${c.slug}/`, SITE.url).href;
+const jsonLd = [
+  {
+    '@context': 'https://schema.org', '@type': 'Article', headline: title, description, inLanguage: 'fr', dateModified: g.updatedAt, mainEntityOfPage: url,
+    image: c.photo ? new URL(c.photo.src, SITE.url).href : undefined,
+    author: g.author ? { '@type': 'Person', name: g.author.name } : { '@type': 'Organization', name: SITE.name },
+    about: { '@type': 'City', name: c.name, containedInPlace: { '@type': 'Country', name: g.name } },
+  },
+  {
+    '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Destinations', item: new URL('/destinations/', SITE.url).href },
+      { '@type': 'ListItem', position: 2, name: g.name, item: new URL(`/destinations/${d.id}/`, SITE.url).href },
+      { '@type': 'ListItem', position: 3, name: c.name, item: url },
+    ],
+  },
+];
+---
+<Base title={title} description={description} image={c.photo?.src} draft={isDraft(d)} jsonLd={jsonLd} type="article">
+  <section class:list={['hero', { 'hero--plain': !c.photo }]}>
+    {c.photo && <img src={c.photo.src} alt={c.photo.alt} width="1600" height="1067" fetchpriority="high" />}
+    <div class="hero__inner">
+      <nav aria-label="Fil d'Ariane" class="crumbs"><a href="/destinations/">Destinations</a> / <a href={`/destinations/${d.id}/`}>{g.name}</a> / {c.name}</nav>
+      <h1>Que faire à {c.name}</h1>
+      <p class="hero__date">{c.nights} · mis à jour le {frDate(g.updatedAt)}</p>
+    </div>
+    {c.photo && <Credit credit={c.photo.credit} />}
+  </section>
+
+  <div class="narrow body">
+    <p class="lead">{c.summary}</p>
+    <p class="for"><span class="kicker">Idéal pour</span> {c.for.map(profileLabel).join(' · ')}</p>
+
+    <section>
+      <h2>À voir</h2>
+      <div class="rows">{c.see.map((s) => <div class="item"><h3>{s.name}</h3><p>{s.note}</p></div>)}</div>
+    </section>
+
+    {c.hidden.length > 0 && (
+      <section>
+        <h2>Moins connu, tout aussi beau</h2>
+        <div class="rows">{c.hidden.map((s) => <div class="item"><h3>{s.name}</h3><p>{s.note}</p></div>)}</div>
+      </section>
+    )}
+
+    <section class="grid2">
+      <div><h2>Où dormir</h2><p>{c.sleep}</p></div>
+      <div><h2>Où manger</h2><p>{c.eat}</p></div>
+    </section>
+
+    <section>
+      <h2>Se déplacer</h2>
+      <p>{c.getAround}</p>
+    </section>
+
+    {c.tip && <blockquote class="tip"><span class="kicker">Notre conseil</span><p>{c.tip}</p></blockquote>}
+
+    <div class="box back">
+      <p class="serif">Préparer tout le voyage {g.prep}</p>
+      <p class="muted">Formalités vérifiées, meilleure saison, budget et itinéraires : tout est dans le guide {g.name}, aussi en PDF.</p>
+      <a class="btn btn--accent" href={`/destinations/${d.id}/`}>Voir le guide {g.name}</a>
+    </div>
+
+    {others.length > 0 && (
+      <section>
+        <h2>Autres étapes {g.prep}</h2>
+        <div class="rows">{others.map((o) => <a class="row" href={`/destinations/${d.id}/${o.slug}/`}><span><span class="row__title">{o.name}</span><br /><span class="row__meta">{o.summary}</span></span><span class="tag">{o.nights}</span></a>)}</div>
+      </section>
+    )}
+  </div>
+</Base>
+
+<style>
+  .crumbs { font-size: 13px; font-weight: 600; letter-spacing: .22em; text-transform: uppercase; }
+  .crumbs a { color: inherit; text-decoration: none; }
+  .body { display: flex; flex-direction: column; gap: 48px; padding-top: 56px; }
+  .lead { font-family: var(--serif); font-size: 24px; line-height: 1.45; }
+  .for { margin-top: -28px; display: flex; gap: 12px; align-items: baseline; flex-wrap: wrap; color: var(--ink-soft); }
+  h2 { font-size: clamp(28px, 3.2vw, 36px); margin-bottom: 16px; }
+  .item { padding: 16px 0; border-bottom: 1px solid var(--line); }
+  .item h3 { font-size: 22px; margin-bottom: 4px; }
+  .item p, section > p { color: var(--ink-soft); }
+  .grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 40px; }
+  .tip { margin: 0; padding: 24px 26px; border: 1px solid var(--line); display: flex; flex-direction: column; gap: 8px; }
+  .tip p { font-family: var(--serif); font-style: italic; font-size: 21px; line-height: 1.4; }
+  .back { display: flex; flex-direction: column; gap: 12px; align-items: flex-start; }
+  .back .serif { font-size: 28px; line-height: 1.2; }
+</style>

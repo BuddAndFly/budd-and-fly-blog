@@ -1,0 +1,13 @@
+---
+interface Props {
+  credit: { author: string; license: string; url?: string | undefined } | null | undefined;
+  place?: string;
+}
+const { credit, place } = Astro.props;
+---
+{credit && (
+  <span class="credit">
+    {place && <>{place} · </>}
+    {credit.url ? <a href={credit.url} rel="noopener nofollow">{credit.author}</a> : credit.author}, {credit.license}
+  </span>
+)}

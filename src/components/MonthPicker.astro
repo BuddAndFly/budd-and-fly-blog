@@ -1,0 +1,63 @@
+---
+import { MONTHS, RATING_LABEL } from '@/data/site';
+
+interface Props {
+  months: { rating: 0 | 1 | 2; note: string }[];
+  name: string;
+  prep: string;
+}
+const { months, prep } = Astro.props;
+const start = Math.max(0, months.findIndex((m) => m.rating === 2));
+---
+<div class="mp" data-month-picker>
+  <div class="mp__grid" role="group" aria-label={`Choisir un mois pour voyager ${prep}`}>
+    {months.map((m, i) => (
+      <button type="button" class="mp__cell" data-i={i} aria-pressed={i === start ? 'true' : 'false'}>
+        <span>{MONTHS[i]!.short}</span>
+        <span class={`mp__dot mp__dot--${m.rating}`} aria-hidden="true"></span>
+        <span class="visually-hidden">{RATING_LABEL[m.rating]}</span>
+      </button>
+    ))}
+  </div>
+  {months.map((m, i) => (
+    <div class="mp__panel" data-panel={i} hidden={i !== start}>
+      <div class="mp__head"><span class="mp__name">{MONTHS[i]!.name[0]!.toUpperCase() + MONTHS[i]!.name.slice(1)}</span><span class="kicker">{RATING_LABEL[m.rating]}</span></div>
+      <p>{m.note}</p>
+    </div>
+  ))}
+  <p class="mp__legend">Point plein : période idéale · point clair : bonne période · vide : à éviter si possible.</p>
+  <noscript>
+    <ul class="mp__list">{months.map((m, i) => <li><strong>{MONTHS[i]!.name}</strong> ({RATING_LABEL[m.rating]}) : {m.note}</li>)}</ul>
+  </noscript>
+</div>
+
+<script>
+  for (const root of document.querySelectorAll<HTMLElement>('[data-month-picker]')) {
+    const cells = root.querySelectorAll<HTMLButtonElement>('.mp__cell');
+    const panels = root.querySelectorAll<HTMLElement>('.mp__panel');
+    cells.forEach((cell) =>
+      cell.addEventListener('click', () => {
+        const i = cell.dataset.i;
+        cells.forEach((c) => c.setAttribute('aria-pressed', String(c === cell)));
+        panels.forEach((p) => (p.hidden = p.dataset.panel !== i));
+      }),
+    );
+  }
+</script>
+
+<style>
+  .mp { display: flex; flex-direction: column; gap: 18px; }
+  .mp__grid { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); border-top: 1px solid var(--line); border-left: 1px solid var(--line); }
+  .mp__cell { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px; min-height: 72px; border: 0; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); background: #fff; font: inherit; font-size: 14px; font-weight: 600; color: var(--ink); cursor: pointer; }
+  .mp__cell[aria-pressed='true'] { background: var(--ink); color: #fff; }
+  .mp__dot { width: 10px; height: 10px; border-radius: 50%; border: 1px solid var(--accent); }
+  .mp__dot--2 { background: var(--accent); }
+  .mp__dot--1 { background: var(--accent-soft); }
+  .mp__cell[aria-pressed='true'] .mp__dot { border-color: #fff; }
+  .mp__panel { background: var(--sand); padding: 22px 24px; }
+  .mp__head { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; margin-bottom: 6px; }
+  .mp__name { font-family: var(--serif); font-size: 28px; }
+  .mp__legend { font-size: 13px; color: var(--muted); }
+  .mp__list { padding-left: 1.2em; }
+  @media (max-width: 640px) { .mp__grid { grid-template-columns: repeat(6, minmax(0, 1fr)); } }
+</style>

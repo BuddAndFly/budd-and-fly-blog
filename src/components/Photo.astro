@@ -1,0 +1,14 @@
+---
+/** Image avec crédit visible (obligatoire pour les licences CC BY / BY-SA). */
+interface Props {
+  photo: { src: string; alt: string; credit: { author: string; license: string; url?: string | undefined } | null } | null | undefined;
+  class?: string;
+  eager?: boolean;
+  width?: number;
+  height?: number;
+}
+const { photo, class: cls, eager = false, width = 1280, height = 853 } = Astro.props;
+---
+{photo ? (
+  <img src={photo.src} alt={photo.alt} class={cls} loading={eager ? 'eager' : 'lazy'} decoding="async" width={width} height={height} fetchpriority={eager ? 'high' : 'auto'} />
+) : null}

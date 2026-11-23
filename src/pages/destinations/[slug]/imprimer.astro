@@ -1,0 +1,296 @@
+---
+/**
+ * Version A4 du guide, à enregistrer en PDF depuis le navigateur.
+ * Personnalisée côté navigateur avec ?duree=10&mois=3&profil=lent (aucune donnée envoyée).
+ * Non indexée : c'est la page guide qui doit apparaître dans Google.
+ */
+import QRCode from 'qrcode';
+import Base from '@/layouts/Base.astro';
+import { getDestinations, profileLabel, frDate, type Destination } from '@/lib/content';
+import { MONTHS, RATING_LABEL, SITE } from '@/data/site';
+
+export async function getStaticPaths() {
+  const all = await getDestinations();
+  return all.map((d) => ({ params: { slug: d.id }, props: { d } }));
+}
+
+const { d } = Astro.props as { d: Destination };
+const g = d.data;
+const guideUrl = new URL(`/destinations/${d.id}/`, SITE.url).href;
+const appUrl = new URL('/app', SITE.url).href;
+const qrGuide = await QRCode.toString(guideUrl, { type: 'svg', margin: 0, color: { dark: '#1e2421', light: '#ffffff' } });
+const qrApp = await QRCode.toString(appUrl, { type: 'svg', margin: 0, color: { dark: '#1e2421', light: '#ffffff' } });
+const updated = frDate(g.updatedAt);
+const chk = (s: string | null) => (s ? `vérifié le ${frDate(s)}` : 'à vérifier');
+---
+<Base title={`Guide ${g.name} à imprimer`} description={g.seo.description} noindex bare>
+  <div class="toolbar">
+    <div>
+      <strong>Ton guide {g.name} est prêt.</strong>
+      <span>Clique sur « Enregistrer en PDF », puis choisis « Enregistrer au format PDF » comme imprimante.</span>
+    </div>
+    <div class="toolbar__actions">
+      <a href={`/destinations/${d.id}/`} class="btn btn--outline">Retour au guide</a>
+      <button type="button" class="btn btn--accent" data-print>Enregistrer en PDF</button>
+    </div>
+  </div>
+
+  <div class="doc" data-guide data-profile="" data-month="">
+    <!-- Couverture -->
+    <section class="page cover">
+      {g.hero && <img src={g.hero.src} alt={g.hero.alt} class="cover__img" />}
+      <div class="cover__shade"></div>
+      <div class="cover__top"><span class="cover__brand"><img src="/logo-buddfly.png" alt="" width="34" height="34" />Budd&amp;Fly</span><span>Guide gratuit · mis à jour le {updated}</span></div>
+      <div class="cover__title">
+        <span class="kicker">{g.continent}</span>
+        <h1>{g.name}</h1>
+        <p class="cover__for" data-for-line>Le guide pour préparer ton voyage</p>
+      </div>
+      {g.hero?.credit && <span class="cover__credit">Photo : {g.hero.credit.author}, {g.hero.credit.license}</span>}
+    </section>
+
+    <!-- L'essentiel + formalités -->
+    <section class="page">
+      <header class="ph"><span>{g.name}</span><span>L'essentiel</span></header>
+      <p class="lead">{g.summary}</p>
+      <div class="two">
+        <dl class="kvs">
+          <div><dt>Meilleure période</dt><dd>{g.essentials.bestPeriod}</dd></div>
+          <div><dt>Budget / jour</dt><dd>{g.budget.totalSolo} seul<br />{g.budget.totalDuo} à deux</dd></div>
+          <div><dt>Langue</dt><dd>{g.essentials.languages}</dd></div>
+          <div><dt>Monnaie</dt><dd>{g.essentials.currency}</dd></div>
+          <div><dt>Décalage</dt><dd>{g.essentials.timeDiff}</dd></div>
+          <div><dt>Prises</dt><dd>{g.essentials.plugs}</dd></div>
+          <div><dt>Urgences</dt><dd>{g.essentials.emergency}</dd></div>
+        </dl>
+        <div class="stack">
+          {[['Entrée et formalités', g.entry], ['Santé', g.health]].map(([t, b]) => {
+            const block = b as typeof g.entry;
+            return (
+              <div class="sbox">
+                <h3>{t as string}</h3>
+                <p>{block.text}</p>
+                <ul>{block.points.slice(0, 4).map((p) => <li>{p}</li>)}</ul>
+                <p class="srcline">Source : {block.source.label} · {chk(block.checkedAt)}</p>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+
+    <!-- Sécurité + quand partir -->
+    <section class="page">
+      <header class="ph"><span>{g.name}</span><span>Sécurité · Quand partir</span></header>
+      <div class="sbox">
+        <h3>Sécurité</h3>
+        <p>{g.safety.text}</p>
+        <ul>{g.safety.points.map((p) => <li>{p}</li>)}</ul>
+        <p class="srcline">Source : {g.safety.source.label} · {chk(g.safety.checkedAt)}</p>
+      </div>
+      <h2>Quand partir {g.prep}</h2>
+      <table class="months">
+        <tbody>
+          {g.months.map((m, i) => (
+            <tr data-month-row={i}><th>{MONTHS[i]!.name}</th><td class={`r r${m.rating}`}>{RATING_LABEL[m.rating]}</td><td>{m.note}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Budget + transports -->
+    <section class="page">
+      <header class="ph"><span>{g.name}</span><span>Budget · Se déplacer</span></header>
+      <h2>Budget, seul ou à deux</h2>
+      <p class="small">{g.budget.currencyNote}</p>
+      <table class="budget">
+        <thead><tr><th>Par jour et par personne</th><th>Seul</th><th>À deux</th></tr></thead>
+        <tbody>
+          {g.budget.rows.map((r) => <tr><td>{r.label}</td><td>{r.solo}</td><td>{r.duo}</td></tr>)}
+          <tr class="total"><td>Total</td><td>{g.budget.totalSolo}</td><td>{g.budget.totalDuo}</td></tr>
+        </tbody>
+      </table>
+      <p class="small">{g.budget.note} ({g.budget.checkedAt ? `prix relevés le ${frDate(g.budget.checkedAt)}` : 'estimation à vérifier'})</p>
+      <h2>Se déplacer</h2>
+      {g.transport.map((t) => <div class="titem"><h3>{t.title}</h3><p>{t.text}</p></div>)}
+    </section>
+
+    <!-- Villes -->
+    {g.cities.map((c) => (
+      <section class="page city" data-city-for={c.for.join(' ')}>
+        <header class="ph"><span>{g.name}</span><span>{c.name}</span></header>
+        {c.photo && <img src={c.photo.src} alt={c.photo.alt} class="city__img" />}
+        <div class="city__head"><h2>{c.name}</h2><span class="badge" data-match>Pour toi</span></div>
+        <p class="small">{c.nights} · idéal pour : {c.for.map(profileLabel).join(', ')}{c.photo?.credit && <> · photo {c.photo.credit.author}, {c.photo.credit.license}</>}</p>
+        <p class="lead lead--sm">{c.summary}</p>
+        <div class="two">
+          <div>
+            <h3>À voir</h3>
+            <ul>{c.see.map((s) => <li><strong>{s.name}</strong> : {s.note}</li>)}</ul>
+            {c.hidden.length > 0 && <><h3>Moins connu</h3><ul>{c.hidden.map((s) => <li><strong>{s.name}</strong> : {s.note}</li>)}</ul></>}
+          </div>
+          <div>
+            <h3>Où dormir</h3><p>{c.sleep}</p>
+            <h3>Où manger</h3><p>{c.eat}</p>
+            <h3>Se déplacer</h3><p>{c.getAround}</p>
+            {c.tip && <p class="tipline">{c.tip}</p>}
+          </div>
+        </div>
+      </section>
+    ))}
+
+    <!-- Itinéraire -->
+    {g.itineraries.length > 0 && (
+      <section class="page">
+        <header class="ph"><span>{g.name}</span><span>Itinéraire</span></header>
+        {g.itineraries.map((it) => (
+          <div class="itin" data-itin={it.days}>
+            <h2>{it.days} jours · {it.title}</h2>
+            <ol>{it.steps.map((s) => <li><span>{s.days}</span><strong>{s.place}</strong><em>{s.note}</em></li>)}</ol>
+          </div>
+        ))}
+      </section>
+    )}
+
+    <!-- Savoir-vivre, phrases, check-list -->
+    <section class="page">
+      <header class="ph"><span>{g.name}</span><span>Sur place · Check-list</span></header>
+      <div class="two">
+        <div>
+          {g.culture.length > 0 && <><h2>Savoir-vivre</h2><ul>{g.culture.map((c) => <li>{c}</li>)}</ul></>}
+          {g.phrases.length > 0 && <><h2>Mots utiles</h2><table class="phr"><tbody>{g.phrases.map((p) => <tr><td>{p.fr}</td><td>{p.local}{p.say && <><br /><em>{p.say}</em></>}</td></tr>)}</tbody></table></>}
+        </div>
+        <div>
+          <h2>Check-list</h2>
+          <ul class="boxes">{g.checklist.map((c) => <li>{c}</li>)}</ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Dos -->
+    <section class="page back">
+      <header class="ph"><span>{g.name}</span><span>Garder le contact</span></header>
+      <div class="qrs">
+        <div class="qr"><Fragment set:html={qrGuide} /><p><strong>Le guide en ligne</strong><br />Toujours à jour, avec les liens vers les sources.</p></div>
+        <div class="qr"><Fragment set:html={qrApp} /><p><strong>Envie de partir à deux ?</strong><br />Trouve un voyageur compatible dans l'application Budd&amp;Fly.</p></div>
+      </div>
+      <p class="small legal">Informations vérifiées aux dates indiquées. Les conditions d'entrée et de sécurité peuvent changer : vérifie toujours la page France Diplomatie avant de partir. Guide gratuit, ne peut être vendu. © Budd&amp;Fly, buddandfly.com</p>
+    </section>
+  </div>
+</Base>
+
+<script>
+  import { PROFILES } from '@/data/visa';
+  const MONTH_NAMES = ['janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'août', 'septembre', 'octobre', 'novembre', 'décembre'];
+  const q = new URLSearchParams(location.search);
+  const profile = q.get('profil') ?? '';
+  const month = q.get('mois');
+  const days = q.get('duree') ?? '10';
+  const parts: string[] = [];
+  if (profile && profile in PROFILES) parts.push(`Pour un ${PROFILES[profile as keyof typeof PROFILES].name.toLowerCase()}`);
+  parts.push(`${days} jours`);
+  if (month !== null && MONTH_NAMES[Number(month)]) parts.push(`en ${MONTH_NAMES[Number(month)]}`);
+  const line = document.querySelector('[data-for-line]');
+  if (line && (profile || month !== null)) line.textContent = parts.join(' · ');
+  if (month !== null) document.querySelector(`[data-month-row="${Number(month)}"]`)?.classList.add('picked');
+  // Itinéraire : on garde la durée choisie (ou la plus proche).
+  const itins = [...document.querySelectorAll<HTMLElement>('[data-itin]')];
+  if (itins.length) {
+    const want = Number(days);
+    const best = itins.reduce((a, b) => (Math.abs(Number(b.dataset.itin) - want) < Math.abs(Number(a.dataset.itin) - want) ? b : a));
+    itins.forEach((el) => (el.hidden = el !== best));
+  }
+  // Villes : on signale celles qui correspondent au profil.
+  document.querySelectorAll<HTMLElement>('[data-city-for]').forEach((el) => {
+    const f = (el.dataset.cityFor ?? '').split(' ');
+    el.classList.toggle('match', !!profile && (f.includes(profile) || f.includes('tous')));
+  });
+  document.querySelector('[data-print]')?.addEventListener('click', () => window.print());
+</script>
+
+<style>
+  :global(body) { background: #eceae5; }
+  .toolbar { position: sticky; top: 0; z-index: 5; display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: center; justify-content: space-between; padding: 14px 24px; background: #fff; border-bottom: 1px solid var(--line); font-size: 15px; }
+  .toolbar div:first-child { display: flex; flex-direction: column; }
+  .toolbar span { color: var(--muted); }
+  .toolbar__actions { display: flex; gap: 10px; flex-wrap: wrap; }
+  .doc { display: flex; flex-direction: column; align-items: center; gap: 24px; padding: 24px 12px 64px; }
+  .page { width: 210mm; min-height: 297mm; background: #fff; padding: 16mm 16mm 14mm; box-shadow: 0 6px 24px rgba(0,0,0,.08); font-size: 10.5pt; line-height: 1.5; color: var(--ink); position: relative; overflow: hidden; }
+  .page h2 { font-size: 20pt; margin: 14px 0 8px; }
+  .page h3 { font-family: var(--sans); font-size: 9pt; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; margin: 12px 0 4px; }
+  .page ul { margin: 4px 0; padding-left: 1.1em; }
+  .page li + li { margin-top: 3px; }
+  .ph { display: flex; justify-content: space-between; font-size: 8pt; letter-spacing: .2em; text-transform: uppercase; color: var(--muted); border-bottom: 1px solid var(--line); padding-bottom: 6px; margin-bottom: 14px; }
+  .lead { font-family: var(--serif); font-size: 15pt; line-height: 1.4; margin-bottom: 14px; }
+  .lead--sm { font-size: 13pt; }
+  .small { font-size: 8.5pt; color: var(--muted); }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 10mm; }
+  .stack { display: flex; flex-direction: column; gap: 10px; }
+  .kvs { margin: 0; }
+  .kvs div { display: flex; justify-content: space-between; gap: 10px; border-top: 1px solid var(--line); padding: 6px 0; }
+  .kvs dt { color: var(--muted); }
+  .kvs dd { margin: 0; font-weight: 600; text-align: right; }
+  .sbox { background: var(--sand); padding: 10px 12px; }
+  .sbox h3 { margin-top: 0; color: var(--accent); }
+  .srcline { font-size: 7.5pt; color: var(--muted); margin-top: 6px; }
+  .months { width: 100%; border-collapse: collapse; font-size: 9pt; }
+  .months th { text-align: left; text-transform: capitalize; padding: 5px 8px 5px 0; width: 22mm; vertical-align: top; }
+  .months td { padding: 5px 8px 5px 0; border-top: 1px solid var(--line); vertical-align: top; }
+  .months th { border-top: 1px solid var(--line); }
+  .months .r { width: 32mm; font-weight: 600; }
+  .months .r2 { color: var(--accent); }
+  .months .r0 { color: var(--muted); }
+  .months tr.picked th, .months tr.picked td { background: var(--sand); }
+  .budget { width: 100%; border-collapse: collapse; margin: 6px 0; }
+  .budget th, .budget td { text-align: right; padding: 6px 0 6px 8px; border-bottom: 1px solid var(--line); }
+  .budget th:first-child, .budget td:first-child { text-align: left; padding-left: 0; }
+  .budget th { border-bottom-color: var(--ink); }
+  .budget .total td { font-weight: 700; }
+  .titem { border-top: 1px solid var(--line); padding: 4px 0; }
+  .titem h3 { margin-top: 4px; }
+  .city__img { width: 100%; height: 70mm; object-fit: cover; margin-bottom: 8px; }
+  .city__head { display: flex; align-items: center; gap: 12px; }
+  .city__head h2 { margin: 6px 0; }
+  .badge { display: none; font-size: 8pt; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; background: var(--accent); color: #fff; padding: 2px 8px; }
+  .city.match .badge { display: inline-block; }
+  .tipline { margin-top: 10px; padding: 8px 10px; border-left: 2px solid var(--accent); font-style: italic; }
+  .itin ol { list-style: none; padding: 0; margin: 0; }
+  .itin li { display: grid; grid-template-columns: 30mm 1fr; gap: 0 10px; padding: 8px 0; border-top: 1px solid var(--line); }
+  .itin li span { color: var(--muted); grid-row: span 2; }
+  .itin li em { color: var(--ink-soft); font-style: normal; }
+  .phr { width: 100%; border-collapse: collapse; font-size: 9pt; }
+  .phr td { border-top: 1px solid var(--line); padding: 4px 6px 4px 0; vertical-align: top; }
+  .boxes { list-style: none; padding: 0 !important; }
+  .boxes li { padding-left: 18px; position: relative; }
+  .boxes li::before { content: ''; position: absolute; left: 0; top: 3px; width: 10px; height: 10px; border: 1px solid var(--ink); }
+  .cover { padding: 0; color: #fff; display: flex; flex-direction: column; justify-content: space-between; }
+  .cover__img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .cover__shade { position: absolute; inset: 0; background: linear-gradient(rgba(20,24,22,.25), rgba(20,24,22,.15) 40%, rgba(20,24,22,.7)); }
+  .cover__top { position: relative; display: flex; justify-content: space-between; align-items: center; padding: 14mm 16mm 0; font-size: 8.5pt; letter-spacing: .18em; text-transform: uppercase; }
+  .cover__brand { display: flex; align-items: center; gap: 8px; font-family: var(--serif); font-size: 16pt; letter-spacing: 0; text-transform: none; }
+  .cover__brand img { border-radius: 9px; }
+  .cover__title { position: relative; padding: 0 16mm 26mm; text-align: center; display: flex; flex-direction: column; gap: 6px; }
+  .cover__title .kicker { color: #fff; }
+  .cover__title h1 { font-size: 64pt; line-height: 1; }
+  .cover__for { font-family: var(--serif); font-style: italic; font-size: 15pt; }
+  .cover__credit { position: absolute; right: 10mm; bottom: 6mm; font-size: 7pt; }
+  .qrs { display: grid; grid-template-columns: 1fr 1fr; gap: 12mm; margin-top: 20mm; }
+  .qr { display: flex; flex-direction: column; gap: 10px; align-items: center; text-align: center; }
+  .qr :global(svg) { width: 40mm; height: 40mm; }
+  .legal { position: absolute; left: 16mm; right: 16mm; bottom: 14mm; }
+
+  @page { size: A4; margin: 0; }
+  @media print {
+    :global(body) { background: #fff; }
+    .toolbar { display: none; }
+    .doc { padding: 0; gap: 0; display: block; }
+    .page { box-shadow: none; width: 210mm; height: 297mm; min-height: 0; page-break-after: always; break-after: page; }
+    .page:last-child { page-break-after: auto; break-after: auto; }
+    * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+  @media screen and (max-width: 840px) {
+    .page { width: 100%; min-height: 0; padding: 20px; }
+    .two, .qrs { grid-template-columns: 1fr; }
+    .cover { min-height: 140vw; }
+  }
+</style>

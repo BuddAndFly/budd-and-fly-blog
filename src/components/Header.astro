@@ -1,0 +1,44 @@
+---
+import { NAV } from '@/data/site';
+const path = Astro.url.pathname;
+---
+<a class="visually-hidden" href="#contenu">Aller au contenu</a>
+<header class="site-header">
+  <div class="wrap site-header__inner">
+    <a href="/" class="brand" aria-label="Budd&Fly, accueil">
+      <img src="/logo-buddfly.png" alt="" width="40" height="40" />
+      <span>Budd&amp;Fly</span>
+    </a>
+    <nav aria-label="Navigation principale" class="site-nav">
+      {NAV.map((item) => (
+        <a href={item.href} aria-current={path.startsWith(item.href) ? 'page' : undefined}>{item.label}</a>
+      ))}
+    </nav>
+    <div class="site-header__actions">
+      <a href="/destinations/" class="icon-link" aria-label="Rechercher une destination">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg>
+      </a>
+      <a href="/visa-voyageur/" class="visa-link">Mon Visa voyageur</a>
+    </div>
+  </div>
+</header>
+
+<style>
+  .site-header { border-bottom: 1px solid var(--line); background: #fff; position: sticky; top: 0; z-index: 20; }
+  .site-header__inner { display: flex; align-items: center; justify-content: space-between; gap: 24px; padding-top: 12px; padding-bottom: 12px; }
+  .brand { display: flex; align-items: center; gap: 10px; text-decoration: none; flex-shrink: 0; }
+  .brand img { border-radius: 11px; }
+  .brand span { font-family: var(--serif); font-size: 26px; line-height: 1; }
+  .site-nav { display: flex; gap: 28px; overflow-x: auto; white-space: nowrap; font-size: 15px; font-weight: 500; scrollbar-width: none; }
+  .site-nav a { text-decoration: none; padding: 10px 0; border-bottom: 1px solid transparent; }
+  .site-nav a:hover, .site-nav a[aria-current='page'] { border-bottom-color: var(--accent); }
+  .site-header__actions { display: flex; align-items: center; gap: 6px; flex-shrink: 0; }
+  .icon-link { width: 44px; height: 44px; display: inline-flex; align-items: center; justify-content: center; }
+  .visa-link { display: inline-flex; align-items: center; min-height: 44px; padding: 0 18px; border: 1px solid var(--accent); color: var(--accent); text-decoration: none; font-size: 14px; font-weight: 600; }
+  .visa-link:hover { background: var(--accent); color: #fff; }
+  @media (max-width: 900px) {
+    .site-header__inner { flex-wrap: wrap; gap: 8px 16px; }
+    .site-nav { order: 3; width: 100%; gap: 22px; }
+    .visa-link { padding: 0 12px; font-size: 13px; }
+  }
+</style>

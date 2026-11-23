@@ -1,0 +1,30 @@
+---
+import { frDate } from '@/lib/content';
+
+interface Props {
+  id: string;
+  title: string;
+  block: { text: string; points: string[]; source: { label: string; url: string }; checkedAt: string | null };
+}
+const { id, title, block } = Astro.props;
+const checked = frDate(block.checkedAt);
+---
+<section id={id} class="sourced">
+  <h2>{title}</h2>
+  <p class="sourced__lead">{block.text}</p>
+  {block.points.length > 0 && <ul>{block.points.map((p) => <li>{p}</li>)}</ul>}
+  <p class="sourced__src">
+    {checked ? <span>Vérifié le {checked}</span> : <span class="verify">À vérifier</span>}
+    {' · '}Source : <a href={block.source.url} rel="noopener">{block.source.label}</a>
+  </p>
+</section>
+
+<style>
+  .sourced { display: flex; flex-direction: column; gap: 14px; scroll-margin-top: 90px; }
+  .sourced h2 { font-size: clamp(30px, 3.4vw, 38px); }
+  .sourced__lead { font-size: 17px; }
+  .sourced ul { margin: 0; padding-left: 1.2em; color: var(--ink-soft); }
+  .sourced li + li { margin-top: 6px; }
+  .sourced__src { font-size: 13px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 10px; }
+  .sourced__src a { color: var(--accent); }
+</style>

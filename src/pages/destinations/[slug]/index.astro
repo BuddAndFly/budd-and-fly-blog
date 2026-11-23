@@ -1,0 +1,293 @@
+---
+import Base from '@/layouts/Base.astro';
+import Credit from '@/components/Credit.astro';
+import MonthPicker from '@/components/MonthPicker.astro';
+import Sourced from '@/components/Sourced.astro';
+import { getDestinations, isDraft, profileLabel, frDate, missingChecks, type Destination } from '@/lib/content';
+import { SITE } from '@/data/site';
+import { PROFILES } from '@/data/visa';
+
+export async function getStaticPaths() {
+  const all = await getDestinations();
+  return all.map((d) => ({ params: { slug: d.id }, props: { d } }));
+}
+
+const { d } = Astro.props as { d: Destination };
+const g = d.data;
+const draft = isDraft(d);
+const url = new URL(`/destinations/${d.id}/`, SITE.url).href;
+const updated = frDate(g.updatedAt);
+const budgetChecked = frDate(g.budget.checkedAt);
+const missing = missingChecks(d);
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: g.seo.title,
+    description: g.seo.description,
+    inLanguage: 'fr',
+    dateModified: g.updatedAt,
+    mainEntityOfPage: url,
+    image: g.hero ? new URL(g.hero.src, SITE.url).href : undefined,
+    author: g.author ? { '@type': 'Person', name: g.author.name } : { '@type': 'Organization', name: SITE.name },
+    publisher: { '@type': 'Organization', name: SITE.name, logo: { '@type': 'ImageObject', url: new URL('/logo-buddfly.png', SITE.url).href } },
+    about: { '@type': g.kind === 'pays' ? 'Country' : 'Place', name: g.name },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Destinations', item: new URL('/destinations/', SITE.url).href },
+      { '@type': 'ListItem', position: 2, name: g.continent, item: new URL(`/destinations/#${g.continent}`, SITE.url).href },
+      { '@type': 'ListItem', position: 3, name: g.name, item: url },
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: g.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  },
+];
+
+const essentials = [
+  ['Meilleure période', g.essentials.bestPeriod],
+  ['Budget par jour', `${g.budget.totalSolo} seul · ${g.budget.totalDuo} à deux`],
+  ['Entrée (Français)', g.entry.text.split('.')[0]],
+  ['Langue', g.essentials.languages],
+  ['Monnaie', g.essentials.currency],
+  ['Décalage avec Paris', g.essentials.timeDiff],
+  ['Prises', g.essentials.plugs],
+  ...(g.essentials.flight ? [['Vol', g.essentials.flight]] : []),
+  ['Urgences', g.essentials.emergency],
+] as [string, string][];
+---
+<Base title={g.seo.title} description={g.seo.description} image={g.hero?.src} draft={draft} jsonLd={jsonLd} type="article">
+  <section class:list={['hero', { 'hero--plain': !g.hero }]}>
+    {g.hero && <img src={g.hero.src} alt={g.hero.alt} width="1600" height="1067" fetchpriority="high" />}
+    <div class="hero__inner">
+      <nav aria-label="Fil d'Ariane" class="crumbs"><a href="/destinations/">Destinations</a> / <a href={`/destinations/#${g.continent}`}>{g.continent}</a> / {g.name}</nav>
+      <h1>Guide {g.name} : tout pour préparer ton voyage</h1>
+      <p class="hero__date">Mis à jour le {updated}</p>
+    </div>
+    {g.hero && <Credit credit={g.hero.credit} />}
+  </section>
+
+  {draft && (
+    <div class="wrap">
+      <div class="box review">
+        <strong>Relecture</strong> · Reste à valider : {missing.join(', ') || 'rien'}.
+      </div>
+    </div>
+  )}
+
+  <div class="wrap layout">
+    <article class="main">
+      <div class="intro">
+        <p class="byline">
+          {g.author ? <>Par <strong>{g.author.name}</strong>, {g.author.role}</> : <span class="verify">Auteur à renseigner</span>}
+          {g.reviewer && <> · Relu par {g.reviewer.name} le {frDate(g.reviewer.date)}</>}
+        </p>
+        <p class="lead">{g.summary}</p>
+      </div>
+
+      <section id="essentiel">
+        <h2 class="kicker kicker--ink">L'essentiel</h2>
+        <dl class="ess">
+          {essentials.map(([k, v]) => <div class="kv"><dt>{k}</dt><dd>{v}</dd></div>)}
+        </dl>
+      </section>
+
+      <section id="quand-partir" class="block">
+        <h2>Quand partir {g.prep} ?</h2>
+        <MonthPicker months={g.months} name={g.name} prep={g.prep} />
+      </section>
+
+      <section id="villes" class="block">
+        <h2>Les villes à ne pas manquer</h2>
+        <div class="cities">
+          {g.cities.map((c) => (
+            <a class="city" href={`/destinations/${d.id}/${c.slug}/`}>
+              {c.photo ? <img src={c.photo.src} alt={c.photo.alt} loading="lazy" width="1600" height="1067" /> : <span class="city__empty">{c.name}</span>}
+              <span class="city__body">
+                <span class="city__name">{c.name}</span>
+                <span class="row__meta">{c.summary}</span>
+                <span class="city__meta"><span class="tag">{c.for.map(profileLabel).join(' · ')}</span><span class="row__meta">{c.nights}</span></span>
+              </span>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      {g.itineraries.length > 0 && (
+        <section id="itineraires" class="block">
+          <h2>Itinéraires</h2>
+          {g.itineraries.map((it) => (
+            <details class="itin" open={it.days === 10}>
+              <summary><span class="serif">{it.days} jours</span> · {it.title} <span class="tag">{it.for.map(profileLabel).join(' · ')}</span></summary>
+              <ol>{it.steps.map((s) => <li><span class="itin__days">{s.days}</span><strong>{s.place}</strong><span>{s.note}</span></li>)}</ol>
+            </details>
+          ))}
+        </section>
+      )}
+
+      <section id="budget" class="block">
+        <h2>Budget : seul ou à deux</h2>
+        <p class="muted">{g.budget.currencyNote}</p>
+        <div class="table-wrap">
+          <table class="budget">
+            <thead><tr><th>Par jour et par personne</th><th>Seul</th><th>À deux</th></tr></thead>
+            <tbody>
+              {g.budget.rows.map((r) => <tr><td>{r.label}</td><td>{r.solo}</td><td>{r.duo}</td></tr>)}
+              <tr class="total"><td>Total</td><td>{g.budget.totalSolo}</td><td>{g.budget.totalDuo}</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>{g.budget.note}</p>
+        <p class="src">
+          {budgetChecked ? <>Prix relevés le {budgetChecked}</> : <span class="verify">Estimation à vérifier</span>}
+          {g.budget.sources.length > 0 && <> · Sources : {g.budget.sources.map((s, i) => <>{i > 0 && ', '}<a href={s.url} rel="noopener">{s.label}</a></>)}</>}
+        </p>
+      </section>
+
+      <div class="block"><Sourced id="formalites" title="Entrée et formalités" block={g.entry} /></div>
+      <div class="block"><Sourced id="sante" title="Santé" block={g.health} /></div>
+      <div class="block"><Sourced id="securite" title="Sécurité" block={g.safety} /></div>
+
+      <section id="transports" class="block">
+        <h2>Se déplacer</h2>
+        <div class="rows">
+          {g.transport.map((t) => <div class="trow"><h3>{t.title}</h3><p>{t.text}</p></div>)}
+        </div>
+      </section>
+
+      {g.culture.length > 0 && (
+        <section id="savoir-vivre" class="block">
+          <h2>Savoir-vivre</h2>
+          <ul class="bullets">{g.culture.map((c) => <li>{c}</li>)}</ul>
+        </section>
+      )}
+
+      {g.phrases.length > 0 && (
+        <section id="phrases" class="block">
+          <h2>Quelques mots utiles</h2>
+          <dl class="phrases">{g.phrases.map((p) => <div class="kv"><dt>{p.fr}</dt><dd><span lang="und">{p.local}</span>{p.say && <span class="say">{p.say}</span>}</dd></div>)}</dl>
+        </section>
+      )}
+
+      {g.checklist.length > 0 && (
+        <section id="check-list" class="block">
+          <h2>La check-list avant de partir</h2>
+          <ul class="checks">{g.checklist.map((c) => <li><label><input type="checkbox" /> {c}</label></li>)}</ul>
+        </section>
+      )}
+
+      <section id="faq" class="block">
+        <h2>Questions fréquentes</h2>
+        <div>{g.faq.map((f) => <details class="faq"><summary>{f.q}</summary><p>{f.a}</p></details>)}</div>
+      </section>
+    </article>
+
+    <aside class="side">
+      <form id="pdf" class="box pdf" action={`/destinations/${d.id}/imprimer/`} method="get">
+        <span class="kicker">Gratuit · sans inscription</span>
+        <h2 class="serif">Ton guide {g.name} en PDF</h2>
+        <p>Format A4, à imprimer ou garder hors connexion, adapté à ton voyage.</p>
+        <label class="field">Durée
+          <select name="duree">{[7, 10, 14].map((n) => <option value={n} selected={n === 10}>{n} jours</option>)}</select>
+        </label>
+        <label class="field">Mois de départ
+          <select name="mois">{g.months.map((_, i) => <option value={i}>{['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'][i]}</option>)}</select>
+        </label>
+        <label class="field">Ton style
+          <select name="profil">{Object.entries(PROFILES).map(([id, p]) => <option value={id}>{p.name}</option>)}</select>
+        </label>
+        <a href="/visa-voyageur/" class="small-link">Je ne sais pas : passer le Visa (2 min)</a>
+        <button class="btn btn--accent btn--block" type="submit">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"></path></svg>
+          Télécharger le guide
+        </button>
+      </form>
+
+      <nav class="toc" aria-label="Sommaire">
+        <span class="kicker kicker--ink">Sommaire</span>
+        <a href="#essentiel">L'essentiel</a><a href="#quand-partir">Quand partir</a><a href="#villes">Les villes</a>
+        {g.itineraries.length > 0 && <a href="#itineraires">Itinéraires</a>}
+        <a href="#budget">Budget</a><a href="#formalites">Entrée et formalités</a><a href="#sante">Santé</a><a href="#securite">Sécurité</a><a href="#transports">Se déplacer</a><a href="#faq">Questions fréquentes</a>
+      </nav>
+
+      <div class="app">
+        <img src="/logo-buddfly.png" alt="" width="44" height="44" />
+        <p class="serif app__title">Envie de partir {g.prep} à deux ?</p>
+        <p>Dans l'application Budd&amp;Fly, trouve des voyageurs qui partent aux mêmes dates et qui te ressemblent.</p>
+        <a href="/app" class="btn btn--light btn--block">Voir dans l'application</a>
+      </div>
+    </aside>
+  </div>
+</Base>
+
+<style>
+  .crumbs { font-size: 13px; font-weight: 600; letter-spacing: .22em; text-transform: uppercase; }
+  .crumbs a { color: inherit; text-decoration: none; }
+  .review { margin-top: 24px; font-size: 14px; background: #fbefe2; color: #6b3a0e; }
+  .layout { display: flex; flex-wrap: wrap; gap: 64px; align-items: flex-start; padding-top: 64px; }
+  .main { flex: 999 1 560px; min-width: 0; display: flex; flex-direction: column; gap: 56px; }
+  .side { flex: 1 1 300px; display: flex; flex-direction: column; gap: 32px; position: sticky; top: 90px; }
+  .intro { display: flex; flex-direction: column; gap: 16px; }
+  .byline { font-size: 14px; color: var(--muted); }
+  .byline strong { color: var(--ink); font-weight: 600; }
+  .lead { font-family: var(--serif); font-size: 24px; line-height: 1.45; }
+  .block h2, section > h2:not(.kicker) { font-size: clamp(30px, 3.4vw, 38px); margin-bottom: 20px; }
+  .block { scroll-margin-top: 90px; }
+  #essentiel h2 { margin-bottom: 12px; }
+  .ess { margin: 0; }
+  .cities { display: flex; flex-direction: column; border-top: 1px solid var(--line); }
+  .city { display: flex; gap: 20px; padding: 18px 0; border-bottom: 1px solid var(--line); text-decoration: none; color: var(--ink); align-items: center; }
+  .city img, .city__empty { width: 150px; height: 110px; object-fit: cover; flex-shrink: 0; background: var(--sand); display: flex; align-items: center; justify-content: center; font-family: var(--serif); color: var(--accent); }
+  .city__body { display: flex; flex-direction: column; gap: 6px; }
+  .city__name { font-family: var(--serif); font-size: 26px; line-height: 1.1; }
+  .city:hover .city__name { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 5px; }
+  .city__meta { display: flex; gap: 14px; flex-wrap: wrap; align-items: baseline; }
+  .itin { border-top: 1px solid var(--line); padding: 16px 0; }
+  .itin:last-of-type { border-bottom: 1px solid var(--line); }
+  .itin summary { cursor: pointer; font-weight: 600; display: flex; gap: 12px; flex-wrap: wrap; align-items: baseline; }
+  .itin summary .serif { font-size: 24px; font-weight: 400; }
+  .itin ol { list-style: none; padding: 0; margin: 16px 0 0; display: flex; flex-direction: column; gap: 12px; }
+  .itin li { display: grid; grid-template-columns: 120px 1fr; gap: 4px 16px; }
+  .itin li span:last-child { grid-column: 2; color: var(--ink-soft); }
+  .itin__days { color: var(--muted); font-size: 14px; grid-row: span 2; }
+  .table-wrap { overflow-x: auto; margin: 14px 0; }
+  .budget { width: 100%; min-width: 420px; border-collapse: collapse; font-size: 15px; }
+  .budget th, .budget td { text-align: right; padding: 12px 0 12px 12px; border-bottom: 1px solid var(--line); }
+  .budget th:first-child, .budget td:first-child { text-align: left; padding-left: 0; }
+  .budget th { border-bottom-color: var(--ink); font-weight: 600; }
+  .budget .total td { font-weight: 600; border-bottom: 0; }
+  .budget .total td:last-child { color: var(--accent); }
+  .src { font-size: 13px; color: var(--muted); margin-top: 10px; }
+  .src a { color: var(--accent); }
+  .trow { padding: 16px 0; border-bottom: 1px solid var(--line); }
+  .trow h3 { font-size: 22px; margin-bottom: 4px; }
+  .trow p { color: var(--ink-soft); }
+  .bullets { padding-left: 1.2em; color: var(--ink-soft); }
+  .bullets li + li { margin-top: 8px; }
+  .phrases { margin: 0; }
+  .phrases dd { display: flex; flex-direction: column; align-items: flex-end; }
+  .say { font-weight: 400; font-style: italic; color: var(--muted); font-size: 14px; }
+  .checks { list-style: none; padding: 0; columns: 2 280px; column-gap: 32px; }
+  .checks li { break-inside: avoid; padding: 6px 0; }
+  .checks label { display: flex; gap: 10px; align-items: flex-start; cursor: pointer; }
+  .checks input { width: 18px; height: 18px; margin-top: 4px; accent-color: var(--accent); flex-shrink: 0; }
+  .pdf { display: flex; flex-direction: column; gap: 14px; }
+  .pdf h2 { font-size: 30px; line-height: 1.15; }
+  .pdf p { font-size: 15px; color: var(--ink-soft); }
+  .small-link { font-size: 14px; color: var(--accent); }
+  .toc { display: flex; flex-direction: column; gap: 8px; font-size: 15px; }
+  .toc a { text-decoration: none; }
+  .toc a:hover { text-decoration: underline; }
+  .app { background: var(--night); color: #fff; padding: 28px 26px; display: flex; flex-direction: column; gap: 12px; }
+  .app img { border-radius: 12px; }
+  .app__title { font-size: 26px; line-height: 1.2; }
+  .app p:not(.app__title) { font-size: 15px; opacity: .9; }
+  @media (max-width: 960px) { .side { position: static; } }
+  @media (max-width: 560px) { .city { flex-direction: column; align-items: stretch; } .city img, .city__empty { width: 100%; height: 190px; } .itin li { grid-template-columns: 1fr; } .itin li span:last-child { grid-column: 1; } }
+</style>
