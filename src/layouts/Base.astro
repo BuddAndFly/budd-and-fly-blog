@@ -19,7 +19,9 @@ const { title, description, image, noindex = false, draft = false, jsonLd = [], 
 const canonical = new URL(Astro.url.pathname, SITE.url).href;
 const ogImage = new URL(image ?? '/images/og-default.jpg', SITE.url).href;
 const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
-const robots = noindex || draft ? 'noindex, nofollow' : 'index, follow, max-image-preview:large';
+// NOINDEX=true sur les aperçus (adresses de test) : seul buddandfly.com doit être indexé.
+const previewSite = import.meta.env.NOINDEX === 'true';
+const robots = noindex || draft || previewSite ? 'noindex, nofollow' : 'index, follow, max-image-preview:large';
 
 const org = {
   '@context': 'https://schema.org',

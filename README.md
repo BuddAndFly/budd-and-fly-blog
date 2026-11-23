@@ -22,7 +22,7 @@ SHOW_DRAFTS=true npm run build   # aperçu de relecture avec les brouillons
 | `src/content.config.ts` | Le schéma des guides : tout champ manquant bloque la compilation |
 | `src/data/visa.ts` | Le Visa Budd&Fly : 10 questions, 6 jauges, 4 profils (même modèle que l'application) |
 | `public/_redirects` | Redirections 301 des anciennes adresses du site |
-| `docs/mise-en-ligne.md` | Mise en ligne sur Cloudflare Pages et bascule du domaine |
+| `docs/mise-en-ligne.md` | Mise en ligne sur Netlify et bascule du domaine OVH |
 | `public/images/` | Photos, toutes sous licence libre et créditées |
 
 ## Règles de fiabilité
