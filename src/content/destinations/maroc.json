@@ -1,0 +1,261 @@
+{
+  "name": "Maroc",
+  "prep": "au Maroc",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 7,
+  "status": "brouillon",
+  "updatedAt": "2026-11-23",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Maroc : quand partir, budget, villes, itinéraires",
+    "description": "Préparer un voyage au Maroc : passeport obligatoire, meilleure saison, budget seul ou à deux, Marrakech, Fès, le désert, Essaouira et itinéraires. PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Maroc se visite idéalement au printemps (mars à mai) et à l'automne (octobre-novembre). Attention : la carte d'identité ne suffit plus, il faut un passeport valide pendant tout le séjour. En dix jours, Marrakech, le désert et Fès forment le grand classique ; Essaouira ajoute une touche de bord de mer.",
+  "essentials": {
+    "bestPeriod": "Mars à mai, octobre-novembre",
+    "languages": "Arabe et amazigh (berbère) ; le français est très parlé",
+    "currency": "Dirham (MAD), à changer sur place",
+    "timeDiff": "Aucun en hiver, −1 h en été (horaires différents pendant le ramadan)",
+    "plugs": "Types C et E, 220 V : comme en France",
+    "emergency": "Police 19 · Gendarmerie 177 · Pompiers et ambulance 15",
+    "flight": "Environ 3 h depuis Paris pour Marrakech"
+  },
+  "months": [
+    { "rating": 1, "note": "Doux et ensoleillé le jour, très froid la nuit dans le désert et en montagne. Neige possible sur l'Atlas." },
+    { "rating": 1, "note": "Comme en janvier, avec les amandiers en fleur dans la vallée de l'Ourika." },
+    { "rating": 2, "note": "Le printemps : températures idéales partout, désert agréable." },
+    { "rating": 2, "note": "Campagne verte, roses dans la vallée du Dadès. Excellent mois." },
+    { "rating": 2, "note": "Chaud mais supportable, bon pour tout le pays. Fête des roses à Kelaat M'Gouna selon les années." },
+    { "rating": 1, "note": "La chaleur monte fortement à Marrakech et dans le sud. La côte atlantique reste fraîche." },
+    { "rating": 0, "note": "Fournaise à l'intérieur et dans le désert. Préfère la côte (Essaouira) ou le Haut Atlas." },
+    { "rating": 0, "note": "Comme en juillet. Beaucoup de Marocains de l'étranger rentrent pour les vacances : routes et ferries chargés." },
+    { "rating": 1, "note": "Il fait encore très chaud dans le sud, plus agréable en fin de mois." },
+    { "rating": 2, "note": "Retour de températures douces : idéal pour le désert et les villes impériales." },
+    { "rating": 2, "note": "Doux et lumineux, peu de monde. Nuits fraîches dans le désert." },
+    { "rating": 1, "note": "Doux en journée, froid la nuit. Fêtes de fin d'année très fréquentées à Marrakech." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en dirhams, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (riad ou petit hôtel)", "solo": "400 à 900 DH", "duo": "250 à 550 DH" },
+      { "label": "Repas", "solo": "150 à 350 DH", "duo": "150 à 350 DH" },
+      { "label": "Transports locaux", "solo": "50 à 150 DH", "duo": "40 à 120 DH" },
+      { "label": "Visites et entrées", "solo": "50 à 150 DH", "duo": "50 à 150 DH" }
+    ],
+    "totalSolo": "650 à 1 550 DH",
+    "totalDuo": "490 à 1 170 DH",
+    "note": "Les excursions dans le désert (transport, nuit en bivouac, dîner) s'ajoutent et varient beaucoup selon le confort. Négocier fait partie de la culture dans les souks, pas dans les restaurants à prix affichés.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Passeport obligatoire, valide pendant toute la durée du séjour : la carte d'identité seule n'est plus acceptée. Pas de visa pour un séjour touristique de moins de 90 jours.",
+    "points": [
+      "Le passeport est obligatoire pour tous, y compris les mineurs et les voyages organisés.",
+      "À l'arrivée, vérifie que ton passeport a bien été tamponné par la police des frontières, sinon tu risques d'être en séjour irrégulier sans le savoir.",
+      "Garde sur toi ton billet de retour et de quoi justifier tes moyens de subsistance.",
+      "Si tu entres sans passeport valable, le consulat ne pourra pas te délivrer de laissez-passer pour rentrer : il faudra refaire un passeport, environ 4 semaines.",
+      "La frontière terrestre avec l'Algérie est fermée."
+    ],
+    "source": { "label": "France Diplomatie, Maroc, Entrée / séjour (mise à jour du 18 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/maroc/" },
+    "checkedAt": "2026-11-23"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France. Le vaccin contre la rage est recommandé selon le séjour, à cause des nombreux chiens et chats errants.",
+    "points": [
+      "Mets à jour les vaccins du calendrier français.",
+      "Rage : vaccin recommandé pour les enfants et les séjours en zone rurale. Ne caresse pas les animaux errants ; en cas de morsure, consulte immédiatement.",
+      "Vérifie que ton assurance couvre le Maroc, l'hospitalisation et le rapatriement.",
+      "Protège-toi de la chaleur et du soleil, surtout dans le désert."
+    ],
+    "source": { "label": "France Diplomatie, Maroc, Santé (mise à jour du 18 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/maroc/" },
+    "checkedAt": "2026-11-23"
+  },
+  "safety": {
+    "text": "Le Maroc est un pays sûr pour voyager, mais exposé à la menace terroriste et aux vols. La frontière avec la Mauritanie est formellement déconseillée.",
+    "points": [
+      "Formellement déconseillé : la zone le long de la frontière mauritanienne (seule la route côtière vers Nouadhibou permet de passer).",
+      "Vigilance renforcée au sud de la frontière algérienne et au Sahara occidental, où tout itinéraire hors de la route côtière demande un accord préalable des autorités.",
+      "Vols à l'arraché fréquents à Marrakech et Casablanca, parfois par des voleurs à moto sur les trottoirs. Garde le minimum sur toi.",
+      "Évite les lieux déserts la nuit (plages, parcs), et ne te déplace pas seul dans des zones isolées.",
+      "Les femmes seules font souvent l'objet d'une attention insistante, parfois de harcèlement.",
+      "Dans le Rif, ne t'arrête pas sur les routes secondaires et ne t'y engage pas la nuit.",
+      "Vols signalés dans les locations de type Airbnb : ne laisse pas ton passeport sans coffre."
+    ],
+    "source": { "label": "France Diplomatie, Maroc, Sécurité (mise à jour du 18 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/maroc/" },
+    "checkedAt": "2026-11-23"
+  },
+  "cities": [
+    {
+      "slug": "marrakech",
+      "name": "Marrakech",
+      "nights": "3 nuits",
+      "for": ["energique", "tous"],
+      "summary": "La ville rouge : souks, palais, jardins et l'effervescence de la place Jemaa el-Fna. Intense et envoûtante.",
+      "sleep": "Dans un riad de la médina pour l'expérience, ou à Guéliz pour le calme et la ville moderne.",
+      "see": [
+        { "name": "La place Jemaa el-Fna", "note": "Conteurs, musiciens et gargotes à la tombée de la nuit." },
+        { "name": "Les souks de la médina", "note": "On s'y perd forcément : c'est une partie du plaisir." },
+        { "name": "Le jardin Majorelle", "note": "Le jardin bleu et le musée Yves Saint Laurent. Réservation conseillée." },
+        { "name": "Le palais de la Bahia et les tombeaux saadiens", "note": "Les plus beaux décors de la ville." }
+      ],
+      "hidden": [
+        { "name": "La médersa Ben Youssef", "note": "Une ancienne école coranique aux décors exceptionnels." },
+        { "name": "Le jardin secret", "note": "Un jardin restauré en pleine médina, avec vue sur les toits." }
+      ],
+      "eat": "Le tajine et le couscous du vendredi, la tanjia (viande mijotée) et un jus d'orange frais sur la place.",
+      "getAround": "À pied dans la médina, petits taxis au compteur pour le reste.",
+      "tip": "Un « guide » improvisé qui propose de te montrer le chemin attend toujours un paiement : décline poliment."
+    },
+    {
+      "slug": "desert",
+      "name": "Le désert (Merzouga)",
+      "nights": "1 à 2 nuits",
+      "for": ["explorateur", "lent"],
+      "summary": "Les grandes dunes de l'erg Chebbi, une nuit en bivouac sous les étoiles. Le moment fort de beaucoup de voyages.",
+      "sleep": "Dans un bivouac au pied des dunes ; choisis selon le confort souhaité.",
+      "see": [
+        { "name": "Le coucher de soleil sur les dunes", "note": "À dos de dromadaire ou à pied." },
+        { "name": "La vallée du Dadès et les gorges du Todra", "note": "Sur la route depuis Marrakech." },
+        { "name": "Aït-Ben-Haddou", "note": "Un ksar de terre classé à l'Unesco, sur la route de Ouarzazate." }
+      ],
+      "hidden": [
+        { "name": "L'erg Chigaga", "note": "Plus isolé et plus sauvage que Merzouga, accessible en 4x4 depuis Mhamid." }
+      ],
+      "eat": "La « pizza berbère » (medfouna), pain farci cuit dans le sable.",
+      "getAround": "Excursion organisée depuis Marrakech ou Fès (2 à 3 jours), ou voiture de location.",
+      "tip": "Les nuits sont très froides de novembre à février : prends une vraie veste chaude."
+    },
+    {
+      "slug": "fes",
+      "name": "Fès",
+      "nights": "2 à 3 nuits",
+      "for": ["stratege", "lent"],
+      "summary": "La plus ancienne des villes impériales et sa médina médiévale, l'une des plus grandes zones piétonnes du monde.",
+      "sleep": "Dans un riad de Fès el-Bali, la vieille médina.",
+      "see": [
+        { "name": "La médina de Fès el-Bali", "note": "Un labyrinthe de 9 000 ruelles : un guide officiel est utile la première fois." },
+        { "name": "Les tanneries Chouara", "note": "Les cuves de teinture vues depuis les terrasses des boutiques de cuir." },
+        { "name": "La médersa Bou Inania", "note": "Bois sculpté, zellige et stuc d'une finesse incroyable." }
+      ],
+      "hidden": [
+        { "name": "Meknès et Volubilis", "note": "Une autre ville impériale et des ruines romaines, en une journée." }
+      ],
+      "eat": "La pastilla, feuilleté sucré-salé, spécialité de la ville.",
+      "getAround": "À pied dans la médina, taxis pour les autres quartiers. Train vers Rabat, Casablanca et Marrakech.",
+      "tip": "Prends un guide officiel (badge) à l'office de tourisme ou par ton riad plutôt qu'un rabatteur dans la rue."
+    },
+    {
+      "slug": "chefchaouen",
+      "name": "Chefchaouen",
+      "nights": "1 à 2 nuits",
+      "for": ["lent", "tous"],
+      "summary": "Le village bleu du Rif, calme et photogénique, au pied des montagnes.",
+      "sleep": "Dans la médina pour profiter du calme le soir.",
+      "see": [
+        { "name": "La médina bleue", "note": "Ruelles peintes en bleu, à parcourir sans but." },
+        { "name": "La mosquée espagnole", "note": "Une courte montée pour la vue au coucher du soleil." },
+        { "name": "Le parc national de Talassemtane", "note": "Randonnées, dont celle du pont de Dieu près d'Akchour." }
+      ],
+      "hidden": [],
+      "eat": "Le fromage de chèvre local et les tajines de montagne.",
+      "getAround": "À pied. Bus depuis Fès et Tanger.",
+      "tip": "On te proposera du haschich : refuse, la loi marocaine le punit sévèrement."
+    },
+    {
+      "slug": "essaouira",
+      "name": "Essaouira",
+      "nights": "2 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "Une médina blanche et bleue fortifiée au bord de l'Atlantique, ventée, détendue et plus fraîche que l'intérieur.",
+      "sleep": "Dans la médina, au plus près des remparts.",
+      "see": [
+        { "name": "Les remparts et la Skala", "note": "Canons et vue sur l'océan." },
+        { "name": "Le port de pêche", "note": "Les barques bleues et le poisson grillé sur place." },
+        { "name": "La plage", "note": "Plus pour le kitesurf et la balade que pour la baignade, à cause du vent." }
+      ],
+      "hidden": [
+        { "name": "Sidi Kaouki", "note": "Un village de surfeurs au sud, au calme." }
+      ],
+      "eat": "Les poissons et fruits de mer grillés sur le port.",
+      "getAround": "À pied ; bus réguliers depuis Marrakech (environ 3 h).",
+      "tip": "En été, quand Marrakech étouffe, Essaouira reste fraîche grâce au vent."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Marrakech et le désert",
+      "for": ["tous", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Marrakech", "note": "Médina, jardins, palais." },
+        { "days": "Jours 4 à 6", "place": "Le désert", "note": "Aït-Ben-Haddou, Dadès, nuit à Merzouga." },
+        { "days": "Jour 7", "place": "Retour à Marrakech", "note": "Vol de retour." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Villes impériales et dunes",
+      "for": ["stratege", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Marrakech", "note": "Les essentiels." },
+        { "days": "Jours 4 à 6", "place": "Le désert", "note": "Traversée de l'Atlas jusqu'à Merzouga." },
+        { "days": "Jours 7 à 9", "place": "Fès", "note": "Par la route du Moyen Atlas." },
+        { "days": "Jour 10", "place": "Retour", "note": "Vol depuis Fès." }
+      ]
+    },
+    {
+      "days": 14,
+      "title": "Le grand tour",
+      "for": ["lent", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Marrakech", "note": "Avec la vallée de l'Ourika." },
+        { "days": "Jours 4 et 5", "place": "Essaouira", "note": "Océan et médina." },
+        { "days": "Jours 6 à 8", "place": "Le désert", "note": "Via Ouarzazate et le Dadès." },
+        { "days": "Jours 9 à 11", "place": "Fès", "note": "Et Meknès." },
+        { "days": "Jours 12 à 14", "place": "Chefchaouen", "note": "Retour depuis Tanger ou Fès." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Le train", "text": "Confortable entre Marrakech, Casablanca, Rabat, Fès et Tanger, avec un train à grande vitesse entre Tanger et Casablanca." },
+    { "title": "Le bus", "text": "Les compagnies nationales desservent tout le pays, y compris Essaouira, Chefchaouen et Merzouga." },
+    { "title": "En voiture", "text": "Idéale pour le sud et l'Atlas. Prudence la nuit et sur les routes de montagne. Ne stationne pas dans des endroits isolés." },
+    { "title": "Les taxis", "text": "Petits taxis en ville (exige le compteur), grands taxis partagés entre les villes." }
+  ],
+  "culture": [
+    "Tenue couvrant épaules et genoux, surtout hors des grandes villes. Les femmes seront plus tranquilles avec des vêtements amples.",
+    "Pendant le ramadan, ne mange pas, ne bois pas et ne fume pas en public pendant la journée.",
+    "Les mosquées ne se visitent pas, sauf exception (la mosquée Hassan II à Casablanca).",
+    "Demande toujours avant de photographier quelqu'un.",
+    "Le marchandage est normal dans les souks : propose un prix, reste souriant, et n'entame pas la discussion si tu n'as pas l'intention d'acheter.",
+    "On mange avec la main droite."
+  ],
+  "phrases": [
+    { "fr": "Bonjour (paix sur vous)", "local": "السلام عليكم", "say": "salam alikoum" },
+    { "fr": "Merci", "local": "شكرا", "say": "choukrane" },
+    { "fr": "Non merci", "local": "لا شكرا", "say": "la, choukrane" },
+    { "fr": "Combien ?", "local": "بشحال", "say": "bchhal" },
+    { "fr": "Si Dieu le veut", "local": "إن شاء الله", "say": "inch'Allah" }
+  ],
+  "checklist": [
+    "Passeport valide pendant tout le séjour (la carte d'identité ne suffit plus)",
+    "Tampon d'entrée vérifié à l'arrivée",
+    "Billet de retour à présenter",
+    "Assurance valable au Maroc, avec rapatriement",
+    "Vaccins à jour, rage à discuter avec un médecin",
+    "Tenue couvrante",
+    "Vêtements chauds pour les nuits dans le désert et l'Atlas",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Peut-on aller au Maroc avec une carte d'identité ?", "a": "Non. Depuis plusieurs années, le passeport est obligatoire, y compris pour les mineurs et les voyages organisés. Il doit être valide pendant toute la durée du séjour." },
+    { "q": "Faut-il un visa pour le Maroc ?", "a": "Non pour un séjour touristique de moins de 90 jours si tu es français. Au-delà, il faut demander une prolongation aux services marocains de l'immigration." },
+    { "q": "Quelle est la meilleure période pour aller au Maroc ?", "a": "Le printemps (mars à mai) et l'automne (octobre-novembre). En juillet-août, l'intérieur et le désert sont brûlants : préfère alors la côte atlantique, comme Essaouira." },
+    { "q": "Le Maroc est-il sûr pour une femme seule ?", "a": "Les femmes y voyagent seules, mais doivent s'attendre à une attention insistante, parfois à du harcèlement. Une tenue ample et couvrante, un hébergement bien noté et des déplacements en journée limitent les désagréments. Évite les lieux isolés la nuit." },
+    { "q": "Quel budget pour une semaine au Maroc ?", "a": "Compte environ 650 à 1 550 DH par jour seul et 490 à 1 170 DH par personne à deux, hors vols et excursion dans le désert. Ces montants sont des estimations à vérifier." }
+  ]
+}

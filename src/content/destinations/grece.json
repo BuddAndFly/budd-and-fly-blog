@@ -1,0 +1,251 @@
+{
+  "name": "Grèce",
+  "prep": "en Grèce",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 6,
+  "status": "brouillon",
+  "updatedAt": "2026-11-23",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Grèce : quand partir, budget, îles, itinéraires",
+    "description": "Préparer un voyage en Grèce : meilleure saison, budget seul ou à deux, Athènes, Santorin, Naxos, la Crète, les Météores et itinéraires. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Grèce est idéale en mai-juin et en septembre-début octobre : mer chaude, soleil, et beaucoup moins de monde qu'en juillet-août. Une carte d'identité suffit. Pour un premier voyage, Athènes et deux îles des Cyclades ; la Crète à elle seule vaut une semaine.",
+  "essentials": {
+    "bestPeriod": "Mai-juin, septembre à mi-octobre",
+    "languages": "Grec (anglais courant dans les lieux touristiques)",
+    "currency": "Euro (EUR)",
+    "timeDiff": "+1 h",
+    "plugs": "Types C et F, 230 V : comme en France",
+    "emergency": "112 (numéro d'urgence européen)",
+    "flight": "Environ 3 h 15 depuis Paris pour Athènes"
+  },
+  "months": [
+    { "rating": 0, "note": "Athènes se visite, mais la plupart des îles sont en sommeil : hôtels et restaurants fermés, peu de ferries." },
+    { "rating": 0, "note": "Comme en janvier : bon pour Athènes et la Crète à petit prix, pas pour les Cyclades." },
+    { "rating": 1, "note": "Le printemps arrive. Idéal pour Athènes, les Météores et le Péloponnèse, encore trop frais pour la mer." },
+    { "rating": 1, "note": "Campagne en fleurs, sites antiques agréables. La Pâque orthodoxe, souvent en avril, est un grand moment de fête." },
+    { "rating": 2, "note": "Les îles se réveillent, la mer commence à se réchauffer, les foules ne sont pas encore là." },
+    { "rating": 2, "note": "Chaud, lumineux, mer agréable : l'un des meilleurs mois." },
+    { "rating": 1, "note": "Très chaud et très fréquenté, prix au plus haut. Le vent du nord (meltemi) peut secouer les ferries dans les Cyclades." },
+    { "rating": 1, "note": "Pic de fréquentation, surtout autour du 15 août. Réserve tout très tôt." },
+    { "rating": 2, "note": "La mer est la plus chaude, la foule diminue : le mois préféré des connaisseurs." },
+    { "rating": 2, "note": "Encore beau en début de mois, puis les îles ferment progressivement." },
+    { "rating": 0, "note": "Saison terminée dans les îles. Athènes et la Crète restent possibles." },
+    { "rating": 0, "note": "Hiver doux à Athènes, îles fermées. Ambiance de Noël dans la capitale." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors trajet depuis la France.",
+    "rows": [
+      { "label": "Hébergement (chambre simple ou studio)", "solo": "50 à 110 €", "duo": "35 à 70 €" },
+      { "label": "Repas (tavernes)", "solo": "25 à 45 €", "duo": "25 à 45 €" },
+      { "label": "Transports locaux", "solo": "5 à 15 €", "duo": "5 à 15 €" },
+      { "label": "Visites et entrées", "solo": "10 à 25 €", "duo": "10 à 25 €" }
+    ],
+    "totalSolo": "90 à 195 €",
+    "totalDuo": "75 à 155 €",
+    "note": "Santorin et Mykonos coûtent beaucoup plus cher que les autres îles. Les ferries entre îles s'ajoutent : de quelques dizaines d'euros (bateau lent) à beaucoup plus (bateau rapide). Les prix montent fortement en juillet-août.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "La Grèce est dans l'Union européenne : une carte d'identité ou un passeport en cours de validité suffit, sans visa, pour un séjour de moins de trois mois.",
+    "points": [
+      "Les cartes d'identité délivrées entre 2004 et 2013 à des majeurs restent valables 5 ans après la date inscrite : la Grèce l'accepte officiellement.",
+      "Les mineurs ont besoin de leur propre carte d'identité ou passeport."
+    ],
+    "source": { "label": "France Diplomatie, Grèce, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/grece/conseils-aux-voyageurs-entree-sejour" },
+    "checkedAt": "2026-11-23"
+  },
+  "health": {
+    "text": "Aucun vaccin particulier. Prends ta carte européenne d'assurance maladie et protège-toi du soleil.",
+    "points": [
+      "Carte européenne d'assurance maladie (CEAM) à demander sur Ameli. Sur les petites îles, les soins sont limités : l'assurance rapatriement reste utile.",
+      "L'eau du robinet est généralement potable, sauf dans les régions reculées et sur certaines îles : renseigne-toi sur place.",
+      "En été, protège-toi de la chaleur et du soleil, très fort sur les îles."
+    ],
+    "source": { "label": "France Diplomatie, Grèce, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/grece/conseils-aux-voyageurs-sante" },
+    "checkedAt": "2026-11-23"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance normale. Les vols à la tire et les vols dans les voitures sont fréquents en été, et le risque sismique est élevé.",
+    "points": [
+      "À Athènes, vigilance près de l'Acropole, à Monastiraki, Filopappou et Omonia, et dans le métro vers l'aéroport.",
+      "Ne laisse rien dans ta voiture de location et préfère les parkings surveillés.",
+      "Les séismes sont fréquents dans tout le pays. Garde la géolocalisation de ton téléphone active pour recevoir les alertes GR-Alert, et suis les consignes en cas d'alerte tsunami sur la côte.",
+      "Risque volcanique limité à Santorin, Nisyros et leurs environs immédiats.",
+      "En été, respecte strictement les interdictions de feu : les incendies de forêt sont fréquents."
+    ],
+    "source": { "label": "France Diplomatie, Grèce, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/grece/conseils-aux-voyageurs-securite" },
+    "checkedAt": "2026-11-23"
+  },
+  "cities": [
+    {
+      "slug": "athenes",
+      "name": "Athènes",
+      "nights": "2 à 3 nuits",
+      "for": ["stratege", "energique", "tous"],
+      "summary": "L'Acropole au-dessus d'une ville vivante et bruyante, avec des quartiers où il fait bon flâner le soir.",
+      "sleep": "Plaka ou Koukaki, au pied de l'Acropole, pour tout faire à pied.",
+      "see": [
+        { "name": "L'Acropole et le Parthénon", "note": "Viens à l'ouverture ou en fin de journée : chaleur et foule sont écrasantes à midi." },
+        { "name": "Le musée de l'Acropole", "note": "Moderne, lumineux, avec vue sur le Parthénon." },
+        { "name": "L'Agora antique", "note": "Le temple d'Héphaïstos, l'un des mieux conservés de Grèce." },
+        { "name": "Plaka et Anafiotika", "note": "Ruelles blanches au pied de l'Acropole, comme une île en pleine ville." }
+      ],
+      "hidden": [
+        { "name": "La colline de Filopappou", "note": "La plus belle vue sur l'Acropole au coucher du soleil. Garde un œil sur tes affaires." },
+        { "name": "Le cap Sounion", "note": "Le temple de Poséidon au-dessus de la mer, à 1 h 30 de bus." }
+      ],
+      "eat": "Souvlaki et pita gyros, et les tavernes de Psyrri le soir.",
+      "getAround": "Métro moderne, y compris depuis l'aéroport. Le centre se fait à pied.",
+      "tip": "Le billet combiné couvre plusieurs sites antiques sur plusieurs jours : rentable si tu en vois au moins trois."
+    },
+    {
+      "slug": "santorin",
+      "name": "Santorin",
+      "nights": "2 nuits",
+      "for": ["lent"],
+      "summary": "La caldeira, ses villages blancs accrochés à la falaise et ses couchers de soleil célèbres. Magnifique, mais très fréquentée et chère.",
+      "sleep": "Imerovigli ou Firostefani pour la vue avec moins de foule qu'Oia.",
+      "see": [
+        { "name": "La randonnée de Fira à Oia", "note": "Environ 10 km le long de la caldeira, à faire tôt le matin." },
+        { "name": "Akrotiri", "note": "Une cité de l'âge du bronze ensevelie par une éruption, comme une Pompéi grecque." },
+        { "name": "Le coucher de soleil", "note": "Oia est bondée : Imerovigli ou le phare d'Akrotiri sont plus calmes." }
+      ],
+      "hidden": [
+        { "name": "Pyrgos", "note": "Un village perché à l'intérieur des terres, loin des foules." }
+      ],
+      "eat": "Les tomates séchées, la fava (purée de pois) et le vin blanc local, l'assyrtiko.",
+      "getAround": "Bus entre les villages, ou quad et voiture de location.",
+      "tip": "Les paquebots déversent des milliers de visiteurs en journée : visite Oia et Fira le matin tôt ou le soir."
+    },
+    {
+      "slug": "naxos",
+      "name": "Naxos",
+      "nights": "3 nuits",
+      "for": ["lent", "explorateur", "tous"],
+      "summary": "La plus grande des Cyclades : de longues plages de sable, des villages de montagne et une vraie vie locale.",
+      "sleep": "Chora (la ville principale) pour l'animation, ou près des plages de Plaka et Agios Prokopios.",
+      "see": [
+        { "name": "La Portara", "note": "La porte de marbre d'un temple inachevé, au coucher du soleil." },
+        { "name": "Les plages de la côte ouest", "note": "Agios Prokopios, Agia Anna, Plaka : longues et sablonneuses." },
+        { "name": "Les villages de l'intérieur", "note": "Halki, Apiranthos et Filoti, entre montagnes et oliviers." }
+      ],
+      "hidden": [
+        { "name": "Le mont Zas", "note": "Le plus haut sommet des Cyclades, une randonnée avec vue sur les îles." }
+      ],
+      "eat": "Le fromage graviera de Naxos, les pommes de terre locales et le kitron, liqueur d'agrume.",
+      "getAround": "Bus vers les plages et les villages ; voiture pour plus de liberté.",
+      "tip": "Naxos est bien reliée par ferry à Paros, Santorin et Athènes : une base idéale pour les Cyclades."
+    },
+    {
+      "slug": "crete",
+      "name": "La Crète",
+      "nights": "5 nuits",
+      "for": ["explorateur", "energique", "tous"],
+      "summary": "Une île-continent : gorges, plages de sable rose, villes vénitiennes et le palais de Cnossos.",
+      "sleep": "La Canée (Chania) à l'ouest pour le charme, Héraklion pour Cnossos, Réthymnon entre les deux.",
+      "see": [
+        { "name": "La vieille ville de La Canée", "note": "Le port vénitien, ses ruelles et son phare." },
+        { "name": "Les gorges de Samaria", "note": "16 km de descente, une journée entière, ouvertes de mai à octobre selon la météo." },
+        { "name": "Le palais de Cnossos", "note": "Le centre de la civilisation minoenne, près d'Héraklion." },
+        { "name": "Balos et Elafonissi", "note": "Lagons turquoise et sable rosé, très fréquentés en été." }
+      ],
+      "hidden": [
+        { "name": "Le plateau de Lassithi", "note": "Moulins, villages et la grotte de Zeus selon la légende." }
+      ],
+      "eat": "Le dakos (pain d'orge, tomate, fromage), l'huile d'olive crétoise et le raki offert en fin de repas.",
+      "getAround": "Une voiture est quasiment indispensable pour profiter de l'île.",
+      "tip": "La Crète est grande : choisis l'ouest ou l'est plutôt que de tout vouloir voir en une semaine."
+    },
+    {
+      "slug": "meteores",
+      "name": "Les Météores",
+      "nights": "1 à 2 nuits",
+      "for": ["lent", "stratege"],
+      "summary": "Des monastères perchés au sommet de pitons rocheux, dans le centre du pays. Un site unique au monde.",
+      "sleep": "Kalambaka ou le village de Kastraki, au pied des rochers.",
+      "see": [
+        { "name": "Les six monastères ouverts", "note": "Chacun a son jour de fermeture : vérifie avant de planifier." },
+        { "name": "Le coucher de soleil sur les rochers", "note": "Depuis les points de vue le long de la route des monastères." },
+        { "name": "Les sentiers anciens", "note": "Des chemins de moines relient les monastères à pied." }
+      ],
+      "hidden": [],
+      "eat": "Les tavernes de Kastraki, viandes grillées et tourtes aux légumes.",
+      "getAround": "Train depuis Athènes jusqu'à Kalambaka, puis bus, taxi ou marche.",
+      "tip": "Tenue correcte exigée dans les monastères : jambes et épaules couvertes, jupe pour les femmes (souvent prêtée à l'entrée)."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Athènes et les Cyclades",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Athènes", "note": "Acropole et Plaka." },
+        { "days": "Jours 3 à 5", "place": "Naxos", "note": "Ferry depuis le Pirée. Plages et villages." },
+        { "days": "Jours 6 et 7", "place": "Santorin", "note": "Caldeira et Akrotiri. Retour en avion." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Antiquité et îles",
+      "for": ["stratege", "tous"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Athènes", "note": "Avec le cap Sounion." },
+        { "days": "Jours 4 et 5", "place": "Les Météores", "note": "En train depuis Athènes." },
+        { "days": "Jours 6 à 10", "place": "Naxos et Paros", "note": "Retour à Athènes en ferry." }
+      ]
+    },
+    {
+      "days": 14,
+      "title": "La Crète et les Cyclades",
+      "for": ["explorateur", "energique"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Athènes", "note": "Les essentiels." },
+        { "days": "Jours 3 à 5", "place": "Naxos", "note": "Randonnée au mont Zas." },
+        { "days": "Jours 6 et 7", "place": "Santorin", "note": "Ferry vers la Crète ensuite." },
+        { "days": "Jours 8 à 14", "place": "La Crète", "note": "Héraklion, Réthymnon, La Canée, Samaria." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les ferries", "text": "Ils relient le Pirée et Rafina aux îles. Bateaux lents moins chers, rapides plus coûteux et sensibles au vent. Réserve à l'avance en été." },
+    { "title": "Les vols intérieurs", "text": "Utiles pour gagner du temps vers Santorin, la Crète ou Rhodes." },
+    { "title": "Le train", "text": "Réseau limité, mais pratique entre Athènes, Kalambaka (Météores) et Thessalonique." },
+    { "title": "En voiture", "text": "Indispensable en Crète et dans le Péloponnèse. Routes de montagne sinueuses." }
+  ],
+  "culture": [
+    "Hochement de tête vers le haut : ça veut dire non. Le « oui » se dit « né ».",
+    "Le pain, l'eau et parfois un dessert ou un raki sont servis en fin de repas, souvent offerts.",
+    "Tenue couvrante dans les monastères et les églises.",
+    "On dîne tard, vers 21 h ou 22 h en été."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Γειά σας", "say": "yassas" },
+    { "fr": "Merci", "local": "Ευχαριστώ", "say": "efkharisto" },
+    { "fr": "Oui / non", "local": "Ναι / Όχι", "say": "né / okhi" },
+    { "fr": "L'addition, s'il vous plaît", "local": "Τον λογαριασμό, παρακαλώ", "say": "ton logariasmo, parakalo" },
+    { "fr": "Santé !", "local": "Γειά μας", "say": "yamass" }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport en cours de validité",
+    "Carte européenne d'assurance maladie et assurance rapatriement",
+    "Ferries réservés à l'avance en été",
+    "Billets en ligne pour l'Acropole",
+    "Géolocalisation active pour les alertes GR-Alert",
+    "Tenue couvrante pour les monastères",
+    "Protection solaire forte et chapeau"
+  ],
+  "faq": [
+    { "q": "Faut-il un passeport pour la Grèce ?", "a": "Non, une carte d'identité en cours de validité suffit pour un séjour de moins de trois mois. Les cartes délivrées entre 2004 et 2013 bénéficient de la prolongation de 5 ans, acceptée officiellement par la Grèce." },
+    { "q": "Quand partir en Grèce ?", "a": "En mai-juin et en septembre-début octobre : mer agréable, soleil, beaucoup moins de monde et des prix plus bas qu'en juillet-août. De novembre à mars, la plupart des îles sont fermées." },
+    { "q": "Quel budget pour une semaine en Grèce ?", "a": "Compte environ 90 à 195 € par jour seul et 75 à 155 € par personne à deux, hors vols et ferries. Santorin et Mykonos sont beaucoup plus chères. Ces montants sont des estimations à vérifier." },
+    { "q": "Quelles îles choisir pour un premier voyage ?", "a": "Naxos et Paros pour un bon équilibre entre plages, villages et prix ; Santorin pour le décor, en sachant qu'elle est chère et bondée ; la Crète si tu veux une seule île très variée." },
+    { "q": "Comment se déplacer entre les îles ?", "a": "En ferry depuis les ports du Pirée et de Rafina, près d'Athènes, ou d'île en île. Réserve à l'avance en été et garde une marge : le vent peut annuler ou retarder les bateaux." }
+  ]
+}
