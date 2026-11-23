@@ -1,0 +1,6 @@
+# Tous les moteurs de recherche et assistants IA sont les bienvenus.
+User-agent: *
+Allow: /
+Disallow: /destinations/*/imprimer/
+
+Sitemap: https://buddandfly.com/sitemap-index.xml
