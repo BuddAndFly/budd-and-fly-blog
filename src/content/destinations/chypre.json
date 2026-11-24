@@ -1,0 +1,221 @@
+{
+  "name": "Chypre",
+  "prep": "à Chypre",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 26,
+  "status": "brouillon",
+  "updatedAt": "2026-11-24",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Chypre : quand partir, budget, Paphos, Nicosie, nord",
+    "description": "Préparer un voyage à Chypre : meilleure saison, budget seul ou à deux, Paphos, Nicosie, Larnaca, le Troodos, et ce qu'il faut savoir sur la partie nord."
+  },
+  "hero": null,
+  "summary": "Chypre est ensoleillée de mars à novembre ; avril-juin et septembre-octobre sont idéaux, l'été étant très chaud. Une carte d'identité suffit. L'île est divisée depuis 1974 : arrive par les aéroports de Larnaca ou Paphos, au sud, et sache que la protection consulaire n'est pas garantie dans la partie nord.",
+  "essentials": {
+    "bestPeriod": "Avril à juin, septembre-octobre",
+    "languages": "Grec et turc (anglais parlé partout)",
+    "currency": "Euro (EUR) au sud ; livre turque utilisée au nord",
+    "timeDiff": "+1 h",
+    "plugs": "Type G (trois broches), 240 V : adaptateur nécessaire",
+    "emergency": "112",
+    "flight": "Environ 4 h 15 depuis Paris pour Larnaca ou Paphos"
+  },
+  "months": [
+    { "rating": 1, "note": "Doux sur la côte, neige possible dans le Troodos. Idéal pour les visites." },
+    { "rating": 1, "note": "Amandiers en fleur, encore frais pour la mer." },
+    { "rating": 1, "note": "Le printemps arrive, fleurs sauvages partout." },
+    { "rating": 2, "note": "Chaud et vert, parfait pour la randonnée et les sites antiques." },
+    { "rating": 2, "note": "La mer devient agréable, peu de monde." },
+    { "rating": 2, "note": "Chaud et ensoleillé, mer chaude." },
+    { "rating": 1, "note": "Très chaud, souvent plus de 35 °C à Nicosie. Préfère la côte et le Troodos." },
+    { "rating": 1, "note": "Le mois le plus chaud et le plus fréquenté." },
+    { "rating": 2, "note": "Mer très chaude, chaleur en baisse." },
+    { "rating": 2, "note": "Encore baignable, idéal pour tout faire." },
+    { "rating": 1, "note": "Doux, premières pluies, calme." },
+    { "rating": 1, "note": "Hiver doux sur la côte." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors vols et location de voiture.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou appartement)", "solo": "60 à 120 €", "duo": "40 à 75 €" },
+      { "label": "Repas", "solo": "25 à 40 €", "duo": "25 à 40 €" },
+      { "label": "Transports locaux", "solo": "5 à 20 €", "duo": "5 à 15 €" },
+      { "label": "Visites et entrées", "solo": "5 à 20 €", "duo": "5 à 20 €" }
+    ],
+    "totalSolo": "95 à 200 €",
+    "totalDuo": "75 à 150 €",
+    "note": "Une voiture de location est souvent indispensable et se partage. Le meze, repas de petits plats partagés, est plus avantageux à plusieurs.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Chypre est dans l'Union européenne : une carte d'identité ou un passeport en cours de validité suffit. Les mêmes documents permettent de séjourner jusqu'à 90 jours dans la partie nord.",
+    "points": [
+      "Arrive par les aéroports de Larnaca ou Paphos, dans la République de Chypre. Arriver par l'aéroport d'Ercan, au nord, peut poser des difficultés aux points de passage vers le sud.",
+      "Les cartes d'identité 2004-2013 prolongées sont acceptées, mais un passeport valide évite tout souci.",
+      "On passe entre le nord et le sud par des points de passage officiels, en montrant son document d'identité."
+    ],
+    "source": { "label": "France Diplomatie, Chypre, Entrée / séjour (mise à jour du 17 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/chypre/" },
+    "checkedAt": "2026-11-24"
+  },
+  "health": {
+    "text": "Aucun vaccin obligatoire. La carte européenne d'assurance maladie est nécessaire pour être pris en charge, à demander au moins 15 jours avant le départ.",
+    "points": [
+      "Carte européenne d'assurance maladie (CEAM) à demander sur Ameli, au moins 15 jours avant.",
+      "Encéphalite à tiques : à discuter selon tes randonnées.",
+      "Protège-toi des moustiques et de la chaleur en été."
+    ],
+    "source": { "label": "France Diplomatie, Chypre, Santé (mise à jour du 17 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/chypre/" },
+    "checkedAt": "2026-11-24"
+  },
+  "safety": {
+    "text": "L'île est divisée depuis 1974. La partie nord, sous contrôle turc, n'est reconnue que par la Turquie : l'ambassade de France ne peut pas y garantir son aide.",
+    "points": [
+      "La « ligne verte », zone tampon surveillée par l'ONU, sépare le sud et le nord.",
+      "Au nord, ne photographie jamais les abords des zones militaires signalées « zone interdite » : risque d'arrestation.",
+      "Dans la partie nord, la protection consulaire française n'est pas garantie.",
+      "Vigilance habituelle sur tes affaires dans les stations balnéaires animées."
+    ],
+    "source": { "label": "France Diplomatie, Chypre, Sécurité (mise à jour du 17 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/chypre/" },
+    "checkedAt": "2026-11-24"
+  },
+  "cities": [
+    {
+      "slug": "paphos",
+      "name": "Paphos",
+      "nights": "3 nuits",
+      "for": ["tous", "lent"],
+      "summary": "Une ville classée à l'Unesco pour ses mosaïques romaines, et la porte d'entrée vers la péninsule sauvage d'Akamas.",
+      "sleep": "Près du port de Kato Paphos.",
+      "see": [
+        { "name": "Le parc archéologique de Paphos", "note": "Des mosaïques romaines parmi les plus belles de Méditerranée." },
+        { "name": "Les tombeaux des Rois", "note": "Des tombes creusées dans la roche, au bord de la mer." },
+        { "name": "Le rocher d'Aphrodite", "note": "Le lieu de naissance mythique de la déesse, au coucher du soleil." }
+      ],
+      "hidden": [
+        { "name": "La péninsule d'Akamas et le lagon bleu", "note": "Criques sauvages et sentiers, en bateau ou en 4x4." }
+      ],
+      "eat": "Le halloumi grillé et un meze de poisson.",
+      "getAround": "Bus locaux et voiture pour Akamas.",
+      "tip": "Akamas est protégée : reste sur les pistes autorisées et emporte de l'eau."
+    },
+    {
+      "slug": "nicosie",
+      "name": "Nicosie",
+      "nights": "2 nuits",
+      "for": ["stratege", "explorateur"],
+      "summary": "La dernière capitale divisée d'Europe, entourée de remparts vénitiens, qu'on traverse à pied entre sud et nord.",
+      "sleep": "Dans la vieille ville, côté sud.",
+      "see": [
+        { "name": "La rue Ledra et le point de passage", "note": "On passe à pied du sud au nord avec sa pièce d'identité." },
+        { "name": "Le musée de Chypre", "note": "Le plus important musée archéologique de l'île." },
+        { "name": "Le Büyük Han, au nord", "note": "Un caravansérail ottoman restauré." }
+      ],
+      "hidden": [
+        { "name": "La cathédrale Sainte-Sophie devenue mosquée Selimiye", "note": "Une cathédrale gothique française du XIIIe siècle, côté nord." }
+      ],
+      "eat": "Le souvlaki et les pâtisseries chypriotes.",
+      "getAround": "À pied dans la vieille ville.",
+      "tip": "En été, la ville est la plus chaude de l'île : visite tôt le matin."
+    },
+    {
+      "slug": "troodos",
+      "name": "Les montagnes du Troodos",
+      "nights": "2 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "Des forêts de pins, des villages de pierre et des églises peintes classées à l'Unesco, au frais même en été.",
+      "sleep": "Dans un village comme Kakopetria ou Omodos.",
+      "see": [
+        { "name": "Les églises peintes", "note": "Dix églises byzantines aux fresques exceptionnelles." },
+        { "name": "Le monastère de Kykkos", "note": "Le plus riche de l'île." },
+        { "name": "Les sentiers du mont Olympe", "note": "Le point culminant de l'île." }
+      ],
+      "hidden": [],
+      "eat": "Les vins de la région et la truite des montagnes.",
+      "getAround": "Voiture indispensable.",
+      "tip": "Il peut neiger en hiver : vérifie l'état des routes."
+    },
+    {
+      "slug": "larnaca",
+      "name": "Larnaca et le cap Greco",
+      "nights": "2 nuits",
+      "for": ["energique", "lent"],
+      "summary": "Une ville de bord de mer décontractée, et à l'est, les falaises et grottes marines du cap Greco.",
+      "sleep": "Sur le front de mer de Larnaca, ou près d'Ayia Napa pour la fête.",
+      "see": [
+        { "name": "L'église Saint-Lazare", "note": "Une église byzantine au cœur de la ville." },
+        { "name": "Le lac salé et la mosquée Hala Sultan Tekke", "note": "Des flamants roses en hiver." },
+        { "name": "Le cap Greco", "note": "Falaises, grottes marines et eaux claires." }
+      ],
+      "hidden": [
+        { "name": "L'épave du Zenobia", "note": "L'une des plus belles plongées sur épave de Méditerranée." }
+      ],
+      "eat": "Les tavernes de poisson du front de mer.",
+      "getAround": "Bus vers Ayia Napa et Nicosie ; voiture pour le cap Greco.",
+      "tip": "Ayia Napa est très festive l'été : choisis Larnaca ou Protaras pour plus de calme."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Le sud de l'île",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Paphos", "note": "Mosaïques et Akamas." },
+        { "days": "Jours 4 et 5", "place": "Troodos", "note": "Églises peintes et villages." },
+        { "days": "Jours 6 et 7", "place": "Larnaca", "note": "Cap Greco, retour depuis Larnaca." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Toute l'île",
+      "for": ["stratege", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Paphos", "note": "Et Akamas." },
+        { "days": "Jours 4 et 5", "place": "Troodos", "note": "En voiture." },
+        { "days": "Jours 6 et 7", "place": "Nicosie", "note": "Sud et nord à pied." },
+        { "days": "Jours 8 à 10", "place": "Larnaca et le cap Greco", "note": "Plongée au Zenobia." }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Soleil et plongée",
+      "for": ["energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Larnaca", "note": "Lac salé, plongée au Zenobia." },
+        { "days": "Jours 4 et 5", "place": "Ayia Napa et le cap Greco", "note": "Plages, grottes marines et soirées." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "En voiture", "text": "On roule à gauche. Vérifie que ton assurance de location couvre la partie nord si tu veux y aller en voiture." },
+    { "title": "Le bus", "text": "Il relie les villes principales, moins pratique pour les montagnes." },
+    { "title": "Points de passage", "text": "Plusieurs points de passage permettent d'aller du sud au nord, à pied ou en voiture." }
+  ],
+  "culture": [
+    "Le sujet de la division de l'île est sensible : reste neutre.",
+    "Tenue couvrante dans les églises et les mosquées.",
+    "Le meze se compose de nombreux petits plats : prévois de l'appétit."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Γειά σας", "say": "yassas" },
+    { "fr": "Merci", "local": "Ευχαριστώ", "say": "efkharisto" },
+    { "fr": "Merci (en turc, au nord)", "local": "Teşekkür ederim", "say": "téchékur édérim" }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport en cours de validité",
+    "Carte européenne d'assurance maladie, demandée 15 jours avant",
+    "Vol vers Larnaca ou Paphos plutôt qu'Ercan",
+    "Adaptateur de prise type G",
+    "Assurance de location valable au nord si tu y vas en voiture"
+  ],
+  "faq": [
+    { "q": "Faut-il un passeport pour Chypre ?", "a": "Non, une carte d'identité en cours de validité suffit, au sud comme au nord (jusqu'à 90 jours)." },
+    { "q": "Peut-on visiter le nord de Chypre ?", "a": "Oui, par les points de passage officiels avec ta pièce d'identité. Mais la partie nord n'est reconnue que par la Turquie : la protection consulaire française n'y est pas garantie, et il faut respecter strictement les interdictions de photo près des zones militaires." },
+    { "q": "Quand partir à Chypre ?", "a": "D'avril à juin et en septembre-octobre : il fait chaud sans excès et la mer est agréable. Juillet et août sont très chauds." },
+    { "q": "Quel budget pour une semaine à Chypre ?", "a": "Compte environ 95 à 200 € par jour seul et 75 à 150 € par personne à deux, hors vols et voiture. Ces montants sont des estimations à vérifier." }
+  ]
+}

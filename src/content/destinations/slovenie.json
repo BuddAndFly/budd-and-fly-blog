@@ -1,0 +1,241 @@
+{
+  "name": "Slovénie",
+  "prep": "en Slovénie",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 27,
+  "status": "brouillon",
+  "updatedAt": "2026-11-24",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Slovénie : quand partir, budget, Ljubljana, Bled",
+    "description": "Préparer un voyage en Slovénie : meilleure saison, budget seul ou à deux, Ljubljana, le lac de Bled, Bohinj, la vallée de la Soča, Piran. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Slovénie est idéale de mai à septembre : lacs alpins, rivières émeraude et une capitale à taille humaine. Une carte d'identité suffit, mais voyager avec un document périmé ou sans papiers est lourdement sanctionné. En une semaine : Ljubljana, Bled et Bohinj, la vallée de la Soča et un bout de côte à Piran.",
+  "essentials": {
+    "bestPeriod": "Mai à septembre",
+    "languages": "Slovène (anglais très bien parlé)",
+    "currency": "Euro (EUR)",
+    "timeDiff": "Aucun",
+    "plugs": "Types C et F, 230 V : comme en France",
+    "emergency": "112",
+    "flight": "Environ 1 h 50 depuis Paris pour Ljubljana"
+  },
+  "months": [
+    { "rating": 1, "note": "Hiver alpin : ski, lacs gelés, Ljubljana sous la neige." },
+    { "rating": 1, "note": "Comme en janvier." },
+    { "rating": 1, "note": "Fin de l'hiver, encore froid en montagne." },
+    { "rating": 1, "note": "Printemps, cascades en crue." },
+    { "rating": 2, "note": "Vert et fleuri, peu de monde, idéal pour randonner." },
+    { "rating": 2, "note": "Longues journées, rivières praticables pour le rafting." },
+    { "rating": 2, "note": "Chaud, baignade dans les lacs, mais Bled est bondé." },
+    { "rating": 2, "note": "Comme en juillet." },
+    { "rating": 2, "note": "Doux, moins de monde, couleurs d'automne en montagne en fin de mois." },
+    { "rating": 1, "note": "Belles couleurs, mais pluies plus fréquentes." },
+    { "rating": 0, "note": "Pluies fortes fréquentes, risques d'inondations." },
+    { "rating": 1, "note": "Ljubljana illuminée et marchés de Noël." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou guesthouse)", "solo": "60 à 120 €", "duo": "40 à 75 €" },
+      { "label": "Repas", "solo": "25 à 40 €", "duo": "25 à 40 €" },
+      { "label": "Transports locaux", "solo": "5 à 15 €", "duo": "5 à 15 €" },
+      { "label": "Visites et activités", "solo": "10 à 35 €", "duo": "10 à 35 €" }
+    ],
+    "totalSolo": "100 à 210 €",
+    "totalDuo": "80 à 165 €",
+    "note": "Bled en été est la zone la plus chère. Les grottes (Postojna, Škocjan) et les activités (rafting, canyoning) pèsent sur le budget. Vignette d'autoroute obligatoire si tu conduis.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa, quelle que soit la durée du séjour. Une carte d'identité ou un passeport en cours de validité est obligatoire, y compris pour les enfants.",
+    "points": [
+      "Voyager avec un document périmé est puni de lourdes amendes ; sans aucun document d'identité, l'amende va de 200 à 500 €. Ces sanctions sont systématiques.",
+      "Le livret de famille ou l'acte de naissance ne suffisent pas pour les mineurs.",
+      "Les cartes d'identité 2004-2013 prolongées sont acceptées, mais un passeport valide évite tout risque."
+    ],
+    "source": { "label": "France Diplomatie, Slovénie, Entrée / séjour (mise à jour du 19 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/slovenie/" },
+    "checkedAt": "2026-11-24"
+  },
+  "health": {
+    "text": "Aucun vaccin obligatoire. Prends ta carte européenne d'assurance maladie. L'encéphalite à tiques est présente.",
+    "points": [
+      "Carte européenne d'assurance maladie (CEAM) à demander sur Ameli.",
+      "Encéphalite à tiques : à discuter avec ton médecin si tu randonnes en forêt au printemps ou en été.",
+      "Rage : recommandé pour les enfants et les séjours en zone rurale.",
+      "Pour les randonnées en montagne, une assurance couvrant les secours est utile."
+    ],
+    "source": { "label": "France Diplomatie, Slovénie, Santé (mise à jour du 19 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/slovenie/" },
+    "checkedAt": "2026-11-24"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance normale. Les risques sont surtout naturels : inondations à l'automne et en hiver, et séismes dans certaines régions.",
+    "points": [
+      "Fortes pluies fréquentes à l'automne et en hiver, avec risques d'inondations et de glissements de terrain : suis les alertes de l'agence de l'environnement slovène.",
+      "Zones sismiques : la vallée de la Soča (la plus sensible), la région de Ljubljana et celle de Krško-Brežice.",
+      "Ferme ta voiture et ne laisse rien de visible à l'intérieur."
+    ],
+    "source": { "label": "France Diplomatie, Slovénie, Sécurité (mise à jour du 19 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/slovenie/" },
+    "checkedAt": "2026-11-24"
+  },
+  "cities": [
+    {
+      "slug": "ljubljana",
+      "name": "Ljubljana",
+      "nights": "2 nuits",
+      "for": ["tous", "lent"],
+      "summary": "Une petite capitale verte et piétonne, au bord d'une rivière bordée de terrasses.",
+      "sleep": "Dans la vieille ville, autour de la place Prešeren.",
+      "see": [
+        { "name": "Le Triple Pont et la place Prešeren", "note": "Le cœur de la ville, œuvre de l'architecte Plečnik." },
+        { "name": "Le château", "note": "En funiculaire, pour la vue sur les Alpes." },
+        { "name": "Le marché central", "note": "Et le marché ouvert le vendredi au printemps et en été." }
+      ],
+      "hidden": [
+        { "name": "Metelkova", "note": "Une ancienne caserne devenue centre culturel alternatif." }
+      ],
+      "eat": "Les štruklji (roulés farcis) et les vins slovènes en terrasse.",
+      "getAround": "À pied et à vélo ; le centre est piéton.",
+      "tip": "Les grottes de Postojna et de Škocjan sont à moins d'une heure : réserve les visites guidées."
+    },
+    {
+      "slug": "bled",
+      "name": "Le lac de Bled",
+      "nights": "2 nuits",
+      "for": ["tous"],
+      "summary": "Un lac alpin, son île et son église, et un château perché sur la falaise : la carte postale du pays.",
+      "sleep": "Autour du lac, ou dans les villages voisins pour des prix plus doux.",
+      "see": [
+        { "name": "L'île de Bled", "note": "En pletna, la barque traditionnelle." },
+        { "name": "Le château de Bled", "note": "La vue sur le lac et les Alpes." },
+        { "name": "Les gorges de Vintgar", "note": "Une passerelle en bois au-dessus d'une rivière émeraude. Billets en ligne." }
+      ],
+      "hidden": [
+        { "name": "Le point de vue d'Ojstrica", "note": "Une courte montée pour la plus belle vue sur le lac." }
+      ],
+      "eat": "La kremšnita, le gâteau à la crème de Bled.",
+      "getAround": "Bus depuis Ljubljana (1 h 15), puis à pied autour du lac.",
+      "tip": "En été, viens tôt : le lac et Vintgar sont pris d'assaut à partir de 10 h."
+    },
+    {
+      "slug": "bohinj",
+      "name": "Bohinj et le Triglav",
+      "nights": "2 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "Le plus grand lac du pays, plus sauvage que Bled, au pied du parc national du Triglav.",
+      "sleep": "Dans les villages de Ribčev Laz ou Stara Fužina.",
+      "see": [
+        { "name": "Le lac de Bohinj", "note": "Baignade, kayak et tour du lac à pied." },
+        { "name": "La cascade de Savica", "note": "Une chute de 78 m en forme de A." },
+        { "name": "Le téléphérique du Vogel", "note": "La vue sur le lac et les sommets." }
+      ],
+      "hidden": [
+        { "name": "La vallée des Sept Lacs", "note": "Une randonnée de montagne sur deux jours, avec nuit en refuge." }
+      ],
+      "eat": "Les fromages d'alpage et la truite.",
+      "getAround": "Bus depuis Bled ; voiture pour plus de liberté.",
+      "tip": "Les refuges de montagne se réservent à l'avance en été."
+    },
+    {
+      "slug": "soca",
+      "name": "La vallée de la Soča",
+      "nights": "2 nuits",
+      "for": ["energique", "explorateur"],
+      "summary": "Une rivière turquoise entre les montagnes, paradis du rafting, du canyoning et de la randonnée.",
+      "sleep": "À Bovec ou Kobarid.",
+      "see": [
+        { "name": "La rivière Soča", "note": "En rafting ou kayak avec un guide." },
+        { "name": "La route du col de Vršič", "note": "Cinquante virages entre Kranjska Gora et la vallée." },
+        { "name": "Le musée de Kobarid", "note": "Sur le front de la Première Guerre mondiale." }
+      ],
+      "hidden": [
+        { "name": "La cascade de Kozjak", "note": "Une chute cachée dans une grotte, près de Kobarid." }
+      ],
+      "eat": "Les plats montagnards de la vallée.",
+      "getAround": "Voiture conseillée ; le col de Vršič est fermé en hiver.",
+      "tip": "L'eau reste très froide même en été : prévois une combinaison pour les activités."
+    },
+    {
+      "slug": "piran",
+      "name": "Piran",
+      "nights": "1 à 2 nuits",
+      "for": ["lent"],
+      "summary": "Une petite ville vénitienne sur une presqu'île, sur les 47 km de côte slovène.",
+      "sleep": "Dans la vieille ville.",
+      "see": [
+        { "name": "La place Tartini", "note": "Le cœur de la ville, ouvert sur la mer." },
+        { "name": "Le clocher de l'église Saint-Georges", "note": "Vue sur la ville et l'Adriatique." },
+        { "name": "Les salines de Sečovlje", "note": "On y produit encore le sel à la main." }
+      ],
+      "hidden": [],
+      "eat": "Les poissons grillés et la fleur de sel locale.",
+      "getAround": "La vieille ville est interdite aux voitures : parking à l'entrée et navette.",
+      "tip": "La côte croate et l'Istrie sont toutes proches : voir notre guide Croatie."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Lacs, rivières et côte",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Ljubljana", "note": "Et les grottes de Škocjan." },
+        { "days": "Jours 3 et 4", "place": "Bled et Bohinj", "note": "Lacs et cascades." },
+        { "days": "Jours 5 et 6", "place": "Vallée de la Soča", "note": "Par le col de Vršič." },
+        { "days": "Jour 7", "place": "Piran", "note": "Retour par Ljubljana." }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Aventure alpine",
+      "for": ["energique", "explorateur"],
+      "steps": [
+        { "days": "Jour 1", "place": "Ljubljana", "note": "Arrivée." },
+        { "days": "Jours 2 et 3", "place": "Bohinj", "note": "Randonnée dans le Triglav." },
+        { "days": "Jours 4 et 5", "place": "Bovec", "note": "Rafting et canyoning." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Slovénie et Istrie",
+      "for": ["stratege"],
+      "steps": [
+        { "days": "Jours 1 à 6", "place": "Ljubljana, Bled, Bohinj, Soča", "note": "Le circuit alpin." },
+        { "days": "Jours 7 et 8", "place": "Piran", "note": "La côte slovène." },
+        { "days": "Jours 9 et 10", "place": "Rovinj (Croatie)", "note": "En voiture." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "En voiture", "text": "Idéale pour les Alpes. Vignette électronique obligatoire sur autoroutes et voies rapides, à acheter en ligne avant de les emprunter." },
+    { "title": "Le bus", "text": "Le meilleur transport en commun entre Ljubljana, Bled, Bohinj et la côte." },
+    { "title": "Le train", "text": "Pittoresque mais lent ; utile entre Ljubljana et quelques villes." }
+  ],
+  "culture": [
+    "Les Slovènes sont très attachés à la nature : reste sur les sentiers et ne fais pas de feu.",
+    "Le pourboire est apprécié, environ 10 % au restaurant.",
+    "Les Slovènes ne se considèrent pas comme des Balkaniques : évite la comparaison."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Dober dan", "say": "dober dan" },
+    { "fr": "Merci", "local": "Hvala", "say": "hvala" },
+    { "fr": "Santé !", "local": "Na zdravje!", "say": "na zdravié" }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport en cours de validité, pour chaque voyageur",
+    "Carte européenne d'assurance maladie",
+    "Vignette d'autoroute électronique si tu conduis",
+    "Billets en ligne pour Vintgar et les grottes",
+    "Équipement de randonnée et veste chaude"
+  ],
+  "faq": [
+    { "q": "Faut-il un passeport pour la Slovénie ?", "a": "Non, une carte d'identité en cours de validité suffit. Mais voyager avec un document périmé, ou sans document, est sanctionné par de lourdes amendes, appliquées systématiquement." },
+    { "q": "Quand partir en Slovénie ?", "a": "De mai à septembre pour les lacs, les rivières et la randonnée. Mai, juin et septembre offrent le meilleur équilibre entre météo et fréquentation." },
+    { "q": "Bled ou Bohinj ?", "a": "Bled pour l'image de carte postale avec son île et son château, Bohinj pour un lac plus grand, plus sauvage et plus calme. Ils sont à 30 minutes l'un de l'autre : fais les deux." },
+    { "q": "Quel budget pour une semaine en Slovénie ?", "a": "Compte environ 100 à 210 € par jour seul et 80 à 165 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

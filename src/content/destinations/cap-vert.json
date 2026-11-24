@@ -1,0 +1,240 @@
+{
+  "name": "Cap-Vert",
+  "prep": "au Cap-Vert",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 25,
+  "status": "brouillon",
+  "updatedAt": "2026-11-24",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Cap-Vert : formalités, quand partir, budget, îles",
+    "description": "Préparer un voyage au Cap-Vert : pré-enregistrement et taxe d'aéroport, meilleure saison, budget, Santo Antão, Mindelo, Sal, Boa Vista, Fogo. PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Cap-Vert est ensoleillé presque toute l'année, à 6 h de vol de Paris. Les Français doivent avoir un passeport valide 3 mois après le séjour, et se pré-enregistrer en ligne au moins 5 jours avant l'arrivée en payant une taxe de sécurité aéroportuaire. Chaque île est différente : plages à Sal et Boa Vista, randonnées à Santo Antão, volcan à Fogo, musique à Mindelo.",
+  "essentials": {
+    "bestPeriod": "Novembre à juin",
+    "languages": "Portugais et créole capverdien (le français est assez compris)",
+    "currency": "Escudo capverdien (CVE), à parité fixe avec l'euro ; l'euro est souvent accepté",
+    "timeDiff": "−2 h en hiver, −3 h en été",
+    "plugs": "Types C et F, 220 V : comme en France",
+    "emergency": "Police 132 · Pompiers et ambulance 130",
+    "flight": "Environ 6 h en vol direct depuis Paris pour Sal ou Boa Vista"
+  },
+  "months": [
+    { "rating": 2, "note": "Chaud et sec, avec du vent : idéal pour le kitesurf à Sal." },
+    { "rating": 2, "note": "Carnaval de Mindelo selon les années, le plus réputé de l'archipel." },
+    { "rating": 2, "note": "Sec et agréable, bon pour la randonnée." },
+    { "rating": 2, "note": "Le vent faiblit, la mer se calme." },
+    { "rating": 2, "note": "Chaud et sec, peu de monde." },
+    { "rating": 2, "note": "Bonne période, la mer se réchauffe." },
+    { "rating": 1, "note": "Plus chaud et humide. Les tortues commencent à pondre à Boa Vista et Sal." },
+    { "rating": 1, "note": "Début de la courte saison des pluies, qui reste faible. Ponte des tortues." },
+    { "rating": 1, "note": "Le mois le plus humide, avec quelques averses fortes. Mer chaude." },
+    { "rating": 1, "note": "Fin des pluies, les îles montagneuses sont vertes." },
+    { "rating": 2, "note": "Retour du temps sec, paysages encore verts." },
+    { "rating": 2, "note": "Sec et ensoleillé, le vent revient. Fêtes de fin d'année très prisées." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors vols. L'escudo est à parité fixe avec l'euro.",
+    "rows": [
+      { "label": "Hébergement (pension ou petit hôtel)", "solo": "45 à 100 €", "duo": "30 à 65 €" },
+      { "label": "Repas", "solo": "20 à 35 €", "duo": "20 à 35 €" },
+      { "label": "Transports locaux (aluguer, taxi)", "solo": "5 à 20 €", "duo": "5 à 15 €" },
+      { "label": "Visites et activités", "solo": "5 à 20 €", "duo": "5 à 20 €" }
+    ],
+    "totalSolo": "75 à 175 €",
+    "totalDuo": "60 à 135 €",
+    "note": "Les vols et ferries entre les îles s'ajoutent et peuvent peser lourd ; les ferries sont parfois annulés. Sal et Boa Vista, très tournées vers les clubs, coûtent plus cher que Santo Antão ou Santiago. Ajoute la taxe de sécurité aéroportuaire.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Passeport obligatoire, valable au moins 3 mois après la fin du séjour. Un pré-enregistrement en ligne, avec une taxe de sécurité aéroportuaire, est obligatoire au moins 5 jours avant l'arrivée.",
+    "points": [
+      "Pré-enregistre-toi sur la plateforme officielle du gouvernement (EASE) au moins 5 jours avant l'arrivée : données du passeport, dates, vol et hébergement. Une agence de voyage peut le faire pour toi.",
+      "La taxe de sécurité aéroportuaire est de 3 400 escudos, environ 31 €. Garde le justificatif de paiement.",
+      "Si tu t'y prends moins de 5 jours avant, ton paiement peut ne pas être enregistré et il faudra repayer à l'arrivée.",
+      "Les binationaux franco-capverdiens doivent entrer avec leur passeport français, sinon ils risquent de ne pas pouvoir repartir vers la France.",
+      "On entre et sort uniquement par les aéroports de Praia, Sal, Mindelo et Boa Vista, ou les ports de Praia, Mindelo et Palmeira."
+    ],
+    "source": { "label": "France Diplomatie, Cap-Vert, Entrée / séjour (mise à jour du 13 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cap-vert/" },
+    "checkedAt": "2026-11-24"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France. Protège-toi des moustiques et prévois une bonne assurance : l'aide consulaire est limitée.",
+    "points": [
+      "Fièvre jaune : vaccin obligatoire seulement si tu arrives d'une zone où elle circule.",
+      "Rage : recommandé pour les enfants et les séjours en zone rurale.",
+      "Dengue et paludisme : protège-toi des piqûres et demande conseil à un médecin avant le départ.",
+      "Assurance couvrant hospitalisation et évacuation : les soins sur les petites îles sont limités."
+    ],
+    "source": { "label": "France Diplomatie, Cap-Vert, Santé (mise à jour du 13 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cap-vert/" },
+    "checkedAt": "2026-11-24"
+  },
+  "safety": {
+    "text": "Les agressions à main armée sont en hausse, notamment à Praia. L'ambassade de France a des moyens limités pour aider en cas de problème.",
+    "points": [
+      "Agressions violentes, de jour comme de nuit, dans les centres urbains (Praia notamment), mais aussi sur des sentiers de randonnée de l'île de Santiago et hors des villes à Boa Vista et Fogo : reste très vigilant.",
+      "Vols à l'arraché, parfois avec agression, dans les lieux touristiques. Garde le minimum sur toi.",
+      "L'archipel est exposé aux séismes, éruptions et fortes pluies (glissements de terrain sur les routes), surtout d'août à octobre.",
+      "L'ambassade ne délivre pas de passeport ; en cas de perte, seulement un laissez-passer pour rentrer en France, avec un délai."
+    ],
+    "source": { "label": "France Diplomatie, Cap-Vert, Sécurité (mise à jour du 13 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cap-vert/" },
+    "checkedAt": "2026-11-24"
+  },
+  "cities": [
+    {
+      "slug": "santo-antao",
+      "name": "Santo Antão",
+      "nights": "3 à 4 nuits",
+      "for": ["explorateur", "lent"],
+      "summary": "L'île des randonneurs : vallées vertes, crêtes vertigineuses et villages perchés au-dessus de l'océan.",
+      "sleep": "Dans une pension de Ponta do Sol, Paul ou Ribeira Grande.",
+      "see": [
+        { "name": "La vallée de Paul", "note": "Cultures en terrasses, cannes à sucre et cascades." },
+        { "name": "Le sentier de Ponta do Sol à Fontainhas", "note": "Un village accroché à la falaise." },
+        { "name": "Le cratère de Cova", "note": "Un ancien volcan cultivé, point de départ de belles descentes." }
+      ],
+      "hidden": [],
+      "eat": "Le grogue, eau-de-vie de canne, et les fromages de chèvre.",
+      "getAround": "Ferry depuis Mindelo (São Vicente), puis aluguers (minibus partagés).",
+      "tip": "Les sentiers sont raides et glissants : bonnes chaussures et départ tôt le matin."
+    },
+    {
+      "slug": "mindelo",
+      "name": "Mindelo (São Vicente)",
+      "nights": "2 nuits",
+      "for": ["energique", "tous"],
+      "summary": "La capitale culturelle de l'archipel, ville de Cesária Évora, de la morna et du carnaval.",
+      "sleep": "Dans le centre, près du port et de la rue de Lisbonne.",
+      "see": [
+        { "name": "Le centre colonial", "note": "Maisons colorées et marché municipal." },
+        { "name": "La musique live", "note": "Morna et coladeira dans les bars le soir." },
+        { "name": "Le Monte Verde", "note": "Le point culminant de l'île, vue sur la baie." }
+      ],
+      "hidden": [
+        { "name": "La plage de São Pedro", "note": "Spot de windsurf près de l'aéroport." }
+      ],
+      "eat": "La cachupa, ragoût de maïs et haricots, plat national.",
+      "getAround": "À pied et en taxi.",
+      "tip": "Mindelo est la base pour rejoindre Santo Antão en ferry."
+    },
+    {
+      "slug": "sal",
+      "name": "Sal",
+      "nights": "3 à 4 nuits",
+      "for": ["lent", "energique"],
+      "summary": "Une île plate et désertique, mais des plages immenses et un spot de kitesurf réputé.",
+      "sleep": "À Santa Maria, au sud de l'île.",
+      "see": [
+        { "name": "La plage de Santa Maria", "note": "Sable blanc et eau turquoise." },
+        { "name": "Les salines de Pedra de Lume", "note": "On flotte dans un ancien cratère rempli de sel." },
+        { "name": "Le kitesurf", "note": "À Kite Beach, de novembre à mai." }
+      ],
+      "hidden": [
+        { "name": "Buracona et l'œil bleu", "note": "Une piscine naturelle et une grotte qui s'illumine vers midi." }
+      ],
+      "eat": "Le poisson grillé et le thon frais.",
+      "getAround": "Taxis et aluguers.",
+      "tip": "Sal est idéale pour se reposer, moins pour découvrir le Cap-Vert : combine-la avec une autre île."
+    },
+    {
+      "slug": "boa-vista",
+      "name": "Boa Vista",
+      "nights": "3 nuits",
+      "for": ["lent"],
+      "summary": "Des dunes de sable, des plages sauvages et des tortues qui viennent pondre l'été.",
+      "sleep": "À Sal Rei, la petite capitale, ou dans les clubs de la côte.",
+      "see": [
+        { "name": "La plage de Santa Monica", "note": "Des kilomètres de sable désert." },
+        { "name": "Le désert de Viana", "note": "Des dunes au cœur de l'île." },
+        { "name": "La ponte des tortues", "note": "De juillet à octobre, uniquement avec un guide agréé." }
+      ],
+      "hidden": [],
+      "eat": "Les petits restaurants de Sal Rei.",
+      "getAround": "4x4 avec guide pour l'intérieur de l'île.",
+      "tip": "France Diplomatie signale des agressions hors des zones urbaines : explore l'île avec un guide."
+    },
+    {
+      "slug": "fogo",
+      "name": "Fogo",
+      "nights": "2 nuits",
+      "for": ["explorateur"],
+      "summary": "Une île-volcan : on dort dans la caldeira, au pied du Pico do Fogo, et on boit le vin cultivé sur la lave.",
+      "sleep": "À Chã das Caldeiras, dans le cratère, ou à São Filipe.",
+      "see": [
+        { "name": "L'ascension du Pico do Fogo", "note": "Environ 2 830 m, avec un guide, au lever du jour." },
+        { "name": "Chã das Caldeiras", "note": "Un village rebâti dans la caldeira après l'éruption de 2014." },
+        { "name": "São Filipe", "note": "Une ville coloniale aux maisons colorées." }
+      ],
+      "hidden": [],
+      "eat": "Le vin et le café de Fogo, cultivés dans la cendre volcanique.",
+      "getAround": "Vol ou ferry depuis Praia, puis aluguers.",
+      "tip": "Ne randonne pas seul : France Diplomatie signale des agressions hors des villes."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Randonnée et musique",
+      "for": ["explorateur", "tous"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Mindelo", "note": "Arrivée, musique live." },
+        { "days": "Jours 3 à 6", "place": "Santo Antão", "note": "Ferry, vallées et sentiers." },
+        { "days": "Jours 7 à 10", "place": "Sal", "note": "Vol intérieur, plages avant le retour." }
+      ]
+    },
+    {
+      "days": 7,
+      "title": "Plages et détente",
+      "for": ["lent"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Boa Vista", "note": "Dunes et plages." },
+        { "days": "Jours 5 à 7", "place": "Sal", "note": "Salines et Santa Maria." }
+      ]
+    },
+    {
+      "days": 14,
+      "title": "Trois îles, trois mondes",
+      "for": ["explorateur", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Fogo", "note": "Via Praia. Ascension du volcan." },
+        { "days": "Jours 4 et 5", "place": "Mindelo", "note": "Vol intérieur." },
+        { "days": "Jours 6 à 10", "place": "Santo Antão", "note": "Randonnées." },
+        { "days": "Jours 11 à 14", "place": "Sal", "note": "Repos avant le retour." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les vols intérieurs", "text": "Ils relient les principales îles, mais les horaires changent souvent : garde de la marge." },
+    { "title": "Les ferries", "text": "Mindelo-Santo Antão est fiable ; les autres liaisons sont moins régulières et sensibles à la mer." },
+    { "title": "Les aluguers", "text": "Minibus partagés qui partent quand ils sont pleins, très bon marché." }
+  ],
+  "culture": [
+    "La morna, musique de l'archipel, est inscrite au patrimoine de l'Unesco.",
+    "« No stress » est la devise locale : le rythme est lent, prévois de la souplesse.",
+    "Le pourboire n'est pas obligatoire, mais apprécié."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Bon dia", "say": "bon dia" },
+    { "fr": "Merci", "local": "Obrigadu", "say": "obrigadou" },
+    { "fr": "Ça va ?", "local": "Modi ki bu sta?", "say": "modi ki bou sta" }
+  ],
+  "checklist": [
+    "Passeport valable au moins 3 mois après le séjour",
+    "Pré-enregistrement EASE et taxe d'aéroport payée au moins 5 jours avant",
+    "Justificatif de paiement de la taxe",
+    "Assurance santé avec évacuation",
+    "Chaussures de randonnée pour Santo Antão et Fogo",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour le Cap-Vert ?", "a": "Non, mais il faut se pré-enregistrer en ligne au moins 5 jours avant l'arrivée et payer une taxe de sécurité aéroportuaire de 3 400 escudos (environ 31 €). Le passeport doit être valable au moins 3 mois après le séjour." },
+    { "q": "Quelle île choisir au Cap-Vert ?", "a": "Sal ou Boa Vista pour la plage, Santo Antão pour la randonnée, Fogo pour le volcan, São Vicente pour la musique et Mindelo. L'idéal est d'en combiner deux ou trois." },
+    { "q": "Le Cap-Vert est-il sûr ?", "a": "Les agressions à main armée progressent, surtout à Praia et sur certains sentiers. Reste vigilant, garde le minimum sur toi et randonne accompagné hors des zones fréquentées." },
+    { "q": "Quel budget pour une semaine au Cap-Vert ?", "a": "Compte environ 75 à 175 € par jour seul et 60 à 135 € par personne à deux, hors vols et trajets entre îles. Ces montants sont des estimations à vérifier." }
+  ]
+}
