@@ -1,0 +1,216 @@
+{
+  "name": "Canada",
+  "prep": "au Canada",
+  "kind": "pays",
+  "continent": "Amérique du Nord",
+  "priority": 63,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Canada : AVE, Québec, Rocheuses, budget",
+    "description": "Préparer un voyage au Canada : AVE obligatoire, meilleure saison, budget seul ou à deux, Montréal, Québec, les Rocheuses, Vancouver. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Canada se visite de juin à septembre pour les grands espaces, en octobre pour l'été indien et l'hiver pour la neige. Pas de visa, mais l'autorisation de voyage électronique (AVE) est obligatoire en avion ; le passeport doit être valide pendant tout le séjour. Le Québec francophone et les Rocheuses de l'Ouest sont deux voyages à part entière.",
+  "essentials": {
+    "bestPeriod": "Juin à octobre",
+    "languages": "Anglais et français (Québec, Nouveau-Brunswick)",
+    "currency": "Dollar canadien (CAD)",
+    "timeDiff": "-6 h à Montréal, -9 h à Vancouver",
+    "plugs": "Types A et B, 120 V : adaptateur nécessaire",
+    "emergency": "911",
+    "flight": "Environ 7 h 30 depuis Paris pour Montréal, 10 h 30 pour Vancouver"
+  },
+  "months": [
+    { "rating": 1, "note": "Grand froid ; ski, chiens de traîneau." },
+    { "rating": 1, "note": "Carnaval de Québec, activités d'hiver." },
+    { "rating": 1, "note": "Fin de l'hiver ; temps des sucres (érable)." },
+    { "rating": 0, "note": "Dégel, boue, entre-saison." },
+    { "rating": 1, "note": "Printemps tardif, moustiques en forêt." },
+    { "rating": 2, "note": "Longues journées, baleines dans le Saint-Laurent." },
+    { "rating": 2, "note": "Haute saison, Rocheuses accessibles." },
+    { "rating": 2, "note": "Comme en juillet." },
+    { "rating": 2, "note": "Moins de monde, premières couleurs." },
+    { "rating": 2, "note": "Été indien au Québec et en Ontario." },
+    { "rating": 0, "note": "Gris, saison morte." },
+    { "rating": 1, "note": "Neige, marchés de Noël." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en dollars canadiens, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple, motel, auberge)", "solo": "120 à 250 $CA", "duo": "75 à 150 $CA" },
+      { "label": "Repas", "solo": "50 à 100 $CA", "duo": "50 à 100 $CA" },
+      { "label": "Transports (voiture, essence)", "solo": "40 à 100 $CA", "duo": "20 à 55 $CA" },
+      { "label": "Visites et parcs", "solo": "10 à 40 $CA", "duo": "10 à 40 $CA" }
+    ],
+    "totalSolo": "220 à 490 $CA",
+    "totalDuo": "155 à 345 $CA",
+    "note": "Les taxes et le pourboire (15 à 20 %) s'ajoutent aux prix affichés. Le pass annuel des parcs nationaux est rentable dans les Rocheuses.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour un séjour touristique, mais une autorisation de voyage électronique (AVE) est obligatoire pour arriver en avion. Le passeport doit être valide pendant tout le séjour.",
+    "points": [
+      "L'AVE est valable 5 ans, liée au passeport. Demande-la suffisamment à l'avance, uniquement sur le site officiel du gouvernement canadien : des sites frauduleux existent.",
+      "Les agents d'immigration sont très vigilants et refusent l'entrée en cas de doute sur le motif du séjour (recherche d'emploi notamment). Les autorités françaises ne peuvent pas intervenir."
+    ],
+    "source": { "label": "France Diplomatie, Canada, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/canada/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé. Les frais médicaux sont très élevés : une assurance est indispensable.",
+    "points": [
+      "Assurance santé et rapatriement indispensable.",
+      "Protège-toi des moustiques en été : la fièvre du Nil occidental circule.",
+      "En forêt, protège-toi aussi des tiques."
+    ],
+    "source": { "label": "France Diplomatie, Canada, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/canada/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Tout le Canada est en vigilance normale. Les risques viennent surtout des distances, du climat et de la nature.",
+    "points": [
+      "Anticipe chaque trajet routier : les stations-service peuvent être très éloignées. Renseigne-toi sur la météo.",
+      "En hiver, prévois de quoi te protéger du froid en cas de panne ; pneus neige obligatoires dans certaines régions.",
+      "Animaux sauvages au bord des routes : modère ta vitesse.",
+      "Nombreux accidents de motoneige chaque année : encadrement et prudence."
+    ],
+    "source": { "label": "France Diplomatie, Canada, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/canada/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "montreal-quebec",
+      "name": "Montréal et Québec",
+      "nights": "5 nuits",
+      "for": ["tous", "energique"],
+      "summary": "Montréal la festive et multiculturelle, Québec la ville fortifiée, en français.",
+      "sleep": "Au Plateau ou dans le Vieux-Montréal ; dans le Vieux-Québec.",
+      "see": [
+        { "name": "Le Vieux-Québec", "note": "Seule ville fortifiée au nord du Mexique, classée à l'Unesco." },
+        { "name": "Le mont Royal", "note": "Vue sur Montréal." },
+        { "name": "Les chutes Montmorency", "note": "Plus hautes que celles du Niagara, près de Québec." }
+      ],
+      "hidden": [
+        { "name": "Le marché Jean-Talon", "note": "Le marché gourmand de Montréal." },
+        { "name": "L'île d'Orléans", "note": "Fermes et produits du terroir près de Québec." }
+      ],
+      "eat": "La poutine, le smoked meat et les bagels de Montréal.",
+      "getAround": "Métro à Montréal, train ou bus vers Québec (environ 3 h).",
+      "tip": "En été, Montréal enchaîne les festivals (jazz, rire, feux d'artifice)."
+    },
+    {
+      "slug": "charlevoix-tadoussac",
+      "name": "Charlevoix et Tadoussac",
+      "nights": "3 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "Le Saint-Laurent sauvage : villages de bord de mer, fjord du Saguenay et baleines.",
+      "sleep": "À Baie-Saint-Paul et Tadoussac.",
+      "see": [
+        { "name": "L'observation des baleines à Tadoussac", "note": "De juin à octobre, rorquals et bélugas." },
+        { "name": "Le fjord du Saguenay", "note": "En kayak ou depuis les sentiers." },
+        { "name": "Baie-Saint-Paul", "note": "Un village d'artistes." }
+      ],
+      "hidden": [
+        { "name": "Le parc des Hautes-Gorges", "note": "Des falaises vertigineuses." }
+      ],
+      "eat": "La tourtière et les produits de la Route des saveurs.",
+      "getAround": "Voiture indispensable.",
+      "tip": "Les excursions en zodiac rapprochent des baleines, mais habille-toi chaudement."
+    },
+    {
+      "slug": "rocheuses",
+      "name": "Les Rocheuses (Banff, Jasper)",
+      "nights": "5 à 6 nuits",
+      "for": ["explorateur", "tous"],
+      "summary": "Lacs turquoise, glaciers et sommets, sur l'une des plus belles routes du monde.",
+      "sleep": "À Banff, Lake Louise et Jasper ; réserve très tôt pour l'été.",
+      "see": [
+        { "name": "Le lac Moraine et le lac Louise", "note": "Accès réglementé : navette à réserver." },
+        { "name": "La promenade des Glaciers", "note": "230 km entre Lake Louise et Jasper." },
+        { "name": "Le canyon Maligne", "note": "Près de Jasper." }
+      ],
+      "hidden": [
+        { "name": "Le parc de Yoho", "note": "Le lac Emerald et les chutes Takakkaw." }
+      ],
+      "eat": "Le bœuf de l'Alberta.",
+      "getAround": "Voiture depuis Calgary.",
+      "tip": "Pense au bear spray (spray anti-ours) pour les randonnées et renseigne-toi sur son usage."
+    },
+    {
+      "slug": "vancouver",
+      "name": "Vancouver et l'île de Vancouver",
+      "nights": "4 nuits",
+      "for": ["energique", "lent"],
+      "summary": "Une ville entre océan et montagnes, et une île de forêts pluviales et de baleines.",
+      "sleep": "À Gastown ou Kitsilano ; à Victoria et Tofino sur l'île.",
+      "see": [
+        { "name": "Stanley Park", "note": "À vélo autour de la digue." },
+        { "name": "Granville Island", "note": "Marché et ateliers d'artisans." },
+        { "name": "Tofino", "note": "Plages sauvages et observation des ours et des baleines." }
+      ],
+      "hidden": [
+        { "name": "Le pont suspendu de Lynn Canyon", "note": "Gratuit, contrairement à Capilano." }
+      ],
+      "eat": "Le saumon sauvage et les sushis, très réputés à Vancouver.",
+      "getAround": "SkyTrain et bus ; ferry vers l'île.",
+      "tip": "Le ferry pour l'île se réserve en été."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 12,
+      "title": "Le Québec",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Montréal", "note": "Arrivée." },
+        { "days": "Jours 4 à 6", "place": "Québec", "note": "Et l'île d'Orléans." },
+        { "days": "Jours 7 à 9", "place": "Charlevoix et Tadoussac", "note": "Baleines." },
+        { "days": "Jours 10 à 12", "place": "Mauricie", "note": "Lacs et forêts, retour à Montréal." }
+      ]
+    },
+    {
+      "days": 14,
+      "title": "L'Ouest canadien",
+      "for": ["explorateur", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Vancouver", "note": "Arrivée." },
+        { "days": "Jours 4 à 6", "place": "Île de Vancouver", "note": "Victoria et Tofino." },
+        { "days": "Jours 7 à 13", "place": "Rocheuses", "note": "Jasper, Lake Louise, Banff." },
+        { "days": "Jour 14", "place": "Calgary", "note": "Retour." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "En voiture", "text": "Indispensable hors des villes ; distances immenses." },
+    { "title": "Le train", "text": "Montréal-Québec-Toronto ; les grands trains transcontinentaux sont une expérience à part." },
+    { "title": "Les vols intérieurs", "text": "Pour relier l'Est et l'Ouest." }
+  ],
+  "culture": [
+    "Le pourboire de 15 à 20 % est attendu au restaurant.",
+    "Les taxes s'ajoutent au prix affiché en caisse.",
+    "Au Québec, le français a ses expressions : « magasiner », « char », « bienvenue » pour « de rien »."
+  ],
+  "phrases": [
+    { "fr": "De rien (Québec)", "local": "Bienvenue", "say": "bienvenue" },
+    { "fr": "Bonjour (Canada anglais)", "local": "Hi", "say": "haï" },
+    { "fr": "Merci (Canada anglais)", "local": "Thanks", "say": "thanks" }
+  ],
+  "checklist": [
+    "Passeport valide pendant tout le séjour",
+    "AVE demandée sur le site officiel",
+    "Assurance santé et rapatriement",
+    "Permis de conduire",
+    "Adaptateur de prise",
+    "Répulsif anti-moustiques en été"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour le Canada ?", "a": "Non, mais l'autorisation de voyage électronique (AVE) est obligatoire en avion. Demande-la uniquement sur le site officiel du gouvernement canadien." },
+    { "q": "Le Canada est-il sûr ?", "a": "Oui, tout le pays est en vigilance normale. Les risques viennent surtout du climat, des distances et des animaux sauvages." },
+    { "q": "Quand partir au Canada ?", "a": "De juin à septembre pour les grands espaces, fin septembre-octobre pour l'été indien, et l'hiver pour la neige." },
+    { "q": "Quel budget pour deux semaines au Canada ?", "a": "Compte environ 220 à 490 $CA par jour seul et 155 à 345 $CA par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}
