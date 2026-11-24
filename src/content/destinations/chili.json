@@ -1,0 +1,209 @@
+{
+  "name": "Chili",
+  "prep": "au Chili",
+  "kind": "pays",
+  "continent": "Amérique du Sud",
+  "priority": 70,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Chili : Atacama, Patagonie, île de Pâques",
+    "description": "Préparer un voyage au Chili : formalités, sécurité, meilleure saison, budget, Santiago, Valparaíso, l'Atacama, Torres del Paine, l'île de Pâques. PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Chili s'étire sur 4 300 km : le désert d'Atacama se visite toute l'année, la Patagonie de novembre à mars. Pas de visa pour moins de 3 mois, avec un passeport valable pendant tout le séjour. Le pays est globalement sûr, mais la petite délinquance progresse : Santiago, Valparaíso, l'Atacama et Torres del Paine composent un grand voyage.",
+  "essentials": {
+    "bestPeriod": "Novembre à mars (Patagonie), toute l'année (Atacama)",
+    "languages": "Espagnol",
+    "currency": "Peso chilien (CLP)",
+    "timeDiff": "-4 h en hiver, -5 h à -6 h en été selon la saison",
+    "plugs": "Types C et L, 220 V : comme en France pour les fiches fines",
+    "emergency": "Police 133 · Ambulance 131 · Pompiers 132",
+    "flight": "Environ 14 h en vol direct depuis Paris pour Santiago"
+  },
+  "months": [
+    { "rating": 2, "note": "Été : Patagonie idéale, mais l'altiplano peut connaître des orages." },
+    { "rating": 2, "note": "Patagonie ; île de Pâques en fête (Tapati)." },
+    { "rating": 2, "note": "Vendanges dans les vallées du vin." },
+    { "rating": 1, "note": "Automne, couleurs en Patagonie." },
+    { "rating": 1, "note": "Atacama et Santiago agréables." },
+    { "rating": 1, "note": "Hiver : ski près de Santiago." },
+    { "rating": 1, "note": "Ski, Atacama froid la nuit." },
+    { "rating": 1, "note": "Comme en juillet." },
+    { "rating": 1, "note": "Printemps ; fête nationale le 18 septembre." },
+    { "rating": 2, "note": "Désert fleuri certaines années, Atacama idéal." },
+    { "rating": 2, "note": "La Patagonie ouvre." },
+    { "rating": 2, "note": "Excellent partout." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en pesos chiliens, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou auberge)", "solo": "50 000 à 110 000 CLP", "duo": "30 000 à 70 000 CLP" },
+      { "label": "Repas", "solo": "25 000 à 50 000 CLP", "duo": "25 000 à 50 000 CLP" },
+      { "label": "Transports", "solo": "10 000 à 40 000 CLP", "duo": "8 000 à 30 000 CLP" },
+      { "label": "Excursions et parcs", "solo": "15 000 à 60 000 CLP", "duo": "15 000 à 60 000 CLP" }
+    ],
+    "totalSolo": "100 000 à 260 000 CLP",
+    "totalDuo": "78 000 à 210 000 CLP",
+    "note": "Le Chili est l'un des pays les plus chers d'Amérique du Sud. Torres del Paine (refuges à réserver) et l'île de Pâques font grimper le budget.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour un séjour de moins de 3 mois : il faut un passeport valable pendant tout le séjour.",
+    "points": [
+      "Un justificatif de sortie du territoire et des justificatifs de ressources peuvent être demandés."
+    ],
+    "source": { "label": "France Diplomatie, Chili, Entrée / séjour (mise à jour du 18 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/chili/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France. Attention au mal des montagnes dans l'Atacama et sur l'altiplano.",
+    "points": [
+      "Mal des montagnes : il peut toucher tout le monde, quelle que soit la condition physique. Monte progressivement.",
+      "Dengue : protection contre les moustiques selon les zones.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale."
+    ],
+    "source": { "label": "France Diplomatie, Chili, Santé (mise à jour du 18 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/chili/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Certaines régions du sud et l'île de Pâques sont en vigilance renforcée. La petite délinquance augmente dans tout le pays.",
+    "points": [
+      "Araucanie, Biobío et Los Lagos : tensions latentes entre forces de l'ordre et communautés indigènes. Ne prends pas part aux manifestations.",
+      "Île de Pâques : un mouvement local, pacifique, contrôle parfois l'accès aux sites. Renseigne-toi sur place et suis les consignes.",
+      "Hausse de la petite délinquance : garde tes affaires près de toi, notamment à Santiago et Valparaíso."
+    ],
+    "source": { "label": "France Diplomatie, Chili, Sécurité (mise à jour du 18 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/chili/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "santiago-valparaiso",
+      "name": "Santiago et Valparaíso",
+      "nights": "4 nuits",
+      "for": ["tous", "energique"],
+      "summary": "Une capitale au pied des Andes, et un port bohème aux collines couvertes de fresques.",
+      "sleep": "À Lastarria ou Providencia ; dans le Cerro Alegre à Valparaíso.",
+      "see": [
+        { "name": "Le cerro San Cristóbal", "note": "Vue sur Santiago et les Andes." },
+        { "name": "Les cerros de Valparaíso", "note": "Street art et funiculaires." },
+        { "name": "La Chascona", "note": "La maison de Pablo Neruda à Santiago." }
+      ],
+      "hidden": [
+        { "name": "La vallée de Casablanca", "note": "Les vins blancs entre Santiago et Valparaíso." }
+      ],
+      "eat": "Les empanadas de pino, le pastel de choclo et un pisco sour.",
+      "getAround": "Métro à Santiago, bus vers Valparaíso (1 h 30).",
+      "tip": "À Valparaíso, reste dans les quartiers touristiques des cerros Alegre et Concepción."
+    },
+    {
+      "slug": "atacama",
+      "name": "San Pedro de Atacama",
+      "nights": "4 nuits",
+      "for": ["explorateur", "tous"],
+      "summary": "Le désert le plus aride du monde : vallée de la Lune, geysers, lagunes d'altitude et ciels étoilés.",
+      "sleep": "À San Pedro.",
+      "see": [
+        { "name": "La vallée de la Lune", "note": "Au coucher du soleil." },
+        { "name": "Les geysers d'El Tatio", "note": "À l'aube, à plus de 4 000 m." },
+        { "name": "Les lagunes altiplaniques", "note": "Flamants roses et volcans." }
+      ],
+      "hidden": [
+        { "name": "Une observation astronomique", "note": "L'un des meilleurs ciels du monde." }
+      ],
+      "eat": "Les plats andins au quinoa et à la viande de lama.",
+      "getAround": "Vol vers Calama, puis navette ; excursions en agence.",
+      "tip": "Commence par les sorties de basse altitude pour t'acclimater."
+    },
+    {
+      "slug": "torres-del-paine",
+      "name": "Torres del Paine",
+      "nights": "4 nuits",
+      "for": ["explorateur", "energique"],
+      "summary": "Des tours de granit, des glaciers et des lacs turquoise : l'un des plus beaux parcs du monde.",
+      "sleep": "En refuge ou camping dans le parc, à réserver longtemps à l'avance ; ou à Puerto Natales.",
+      "see": [
+        { "name": "Le mirador Base Las Torres", "note": "Une randonnée exigeante d'une journée." },
+        { "name": "Le trek du W", "note": "4 à 5 jours." },
+        { "name": "Le glacier Grey", "note": "En bateau ou à pied." }
+      ],
+      "hidden": [],
+      "eat": "L'agneau patagon.",
+      "getAround": "Vol vers Punta Arenas ou Puerto Natales, puis bus.",
+      "tip": "Réserve refuges et campings plusieurs mois à l'avance : c'est obligatoire."
+    },
+    {
+      "slug": "ile-de-paques",
+      "name": "L'île de Pâques (Rapa Nui)",
+      "nights": "4 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "Une île isolée au milieu du Pacifique et ses moaï, statues de pierre géantes.",
+      "sleep": "À Hanga Roa.",
+      "see": [
+        { "name": "Ahu Tongariki", "note": "Quinze moaï au lever du soleil." },
+        { "name": "La carrière de Rano Raraku", "note": "Où étaient sculptés les moaï." },
+        { "name": "La plage d'Anakena", "note": "Sable blanc et moaï." }
+      ],
+      "hidden": [
+        { "name": "Le volcan Rano Kau et Orongo", "note": "Un cratère lac et un village cérémoniel." }
+      ],
+      "eat": "Le thon frais et le curanto (cuisson sous terre).",
+      "getAround": "Vol depuis Santiago (5 h 30), puis voiture ou vélo. Le billet du parc national est obligatoire.",
+      "tip": "Certains sites ne se visitent qu'avec un guide local."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 15,
+      "title": "Du désert aux glaciers",
+      "for": ["tous", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Santiago et Valparaíso", "note": "Arrivée." },
+        { "days": "Jours 5 à 8", "place": "Atacama", "note": "En avion." },
+        { "days": "Jours 9 à 14", "place": "Torres del Paine", "note": "En avion via Santiago." },
+        { "days": "Jour 15", "place": "Retour", "note": "Vol depuis Punta Arenas." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Santiago et l'île de Pâques",
+      "for": ["lent"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Santiago et Valparaíso", "note": "Arrivée." },
+        { "days": "Jours 5 à 9", "place": "Île de Pâques", "note": "Moaï et plages." },
+        { "days": "Jour 10", "place": "Retour", "note": "Par Santiago." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les vols intérieurs", "text": "Indispensables vu la longueur du pays." },
+    { "title": "Les bus", "text": "Confortables sur les longues distances." },
+    { "title": "En voiture", "text": "Pratique dans l'Atacama et en Patagonie." }
+  ],
+  "culture": [
+    "Les Chiliens parlent vite avec beaucoup d'expressions locales (« po », « cachai »).",
+    "La « once » est un goûter-dîner traditionnel en fin d'après-midi.",
+    "Sur l'île de Pâques, ne touche jamais les moaï et ne monte pas sur les ahu."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Buenos días", "say": "bouénos dias" },
+    { "fr": "Merci", "local": "Gracias", "say": "grassias" },
+    { "fr": "Tu comprends ?", "local": "¿Cachai?", "say": "katchaï" }
+  ],
+  "checklist": [
+    "Passeport valide pendant tout le séjour",
+    "Refuges de Torres del Paine réservés",
+    "Crème solaire et lunettes pour l'altitude",
+    "Coupe-vent pour la Patagonie",
+    "Billet du parc national de Rapa Nui"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour le Chili ?", "a": "Non pour moins de 3 mois, avec un passeport valable pendant tout le séjour." },
+    { "q": "Le Chili est-il sûr ?", "a": "Le pays est globalement sûr, mais la petite délinquance progresse. Évite les manifestations, notamment dans le sud." },
+    { "q": "Quand partir au Chili ?", "a": "De novembre à mars pour la Patagonie ; l'Atacama se visite toute l'année." },
+    { "q": "Quel budget pour deux semaines au Chili ?", "a": "Compte environ 100 000 à 260 000 CLP par jour seul et 78 000 à 210 000 CLP par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

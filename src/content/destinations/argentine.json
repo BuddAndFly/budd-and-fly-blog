@@ -1,0 +1,211 @@
+{
+  "name": "Argentine",
+  "prep": "en Argentine",
+  "kind": "pays",
+  "continent": "Amérique du Sud",
+  "priority": 69,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Argentine : Patagonie, Buenos Aires, budget",
+    "description": "Préparer un voyage en Argentine : formalités, sécurité, meilleure saison, budget, Buenos Aires, Iguazú, Salta, la Patagonie, El Calafate. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "L'Argentine se visite d'octobre à avril : c'est l'été austral, la seule saison pour la Patagonie. Pas de visa pour moins de 3 mois, avec un passeport valable pendant le séjour ; les règles se sont durcies en 2026 pour les séjours plus longs. Buenos Aires, Iguazú, les canyons de Salta et les glaciers de Patagonie demandent des vols intérieurs : le pays est immense.",
+  "essentials": {
+    "bestPeriod": "Octobre à avril",
+    "languages": "Espagnol",
+    "currency": "Peso argentin (ARS)",
+    "timeDiff": "-4 h en hiver, -5 h en été",
+    "plugs": "Types C et I, 220 V : adaptateur conseillé",
+    "emergency": "Police 911 · Ambulance 107",
+    "flight": "Environ 13 h 30 en vol direct depuis Paris pour Buenos Aires"
+  },
+  "months": [
+    { "rating": 2, "note": "Été : Patagonie idéale, chaud à Buenos Aires." },
+    { "rating": 2, "note": "Patagonie et lacs ; vendanges à Mendoza en fin de mois." },
+    { "rating": 2, "note": "Automne, fête des vendanges à Mendoza." },
+    { "rating": 1, "note": "Couleurs d'automne en Patagonie, fin de saison." },
+    { "rating": 1, "note": "Buenos Aires et le nord agréables, Patagonie fermée en partie." },
+    { "rating": 1, "note": "Hiver ; ski à Bariloche." },
+    { "rating": 1, "note": "Ski, nord sec et ensoleillé." },
+    { "rating": 1, "note": "Comme en juillet." },
+    { "rating": 1, "note": "Printemps ; baleines à la péninsule Valdés." },
+    { "rating": 2, "note": "Baleines, Patagonie qui rouvre." },
+    { "rating": 2, "note": "Excellent partout." },
+    { "rating": 2, "note": "Haute saison en Patagonie." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors vols : l'inflation argentine rend les montants en pesos très vite obsolètes.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou auberge)", "solo": "45 à 110 €", "duo": "28 à 70 €" },
+      { "label": "Repas", "solo": "25 à 50 €", "duo": "25 à 50 €" },
+      { "label": "Transports", "solo": "10 à 40 €", "duo": "8 à 30 €" },
+      { "label": "Visites et excursions", "solo": "15 à 60 €", "duo": "15 à 60 €" }
+    ],
+    "totalSolo": "95 à 260 €",
+    "totalDuo": "76 à 210 €",
+    "note": "La Patagonie (El Calafate, Ushuaia) est nettement plus chère que le nord. Les vols intérieurs sont à réserver tôt. Renseigne-toi sur le meilleur moyen de payer au moment du départ (taux de change).",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour moins de 3 mois. Le passeport doit être valable pendant tout le séjour.",
+    "points": [
+      "Les conditions d'entrée et de séjour se sont durcies en 2026 : pour rester plus de 3 mois, il faut un visa correspondant au motif réel du séjour, sous peine de refus d'admission."
+    ],
+    "source": { "label": "France Diplomatie, Argentine, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/argentine/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France.",
+    "points": [
+      "Dengue, surtout dans le nord : protection contre les moustiques.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Assurance santé et rapatriement indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Argentine, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/argentine/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "À Buenos Aires, la vigilance s'impose dans tous les quartiers, surtout les plus touristiques.",
+    "points": [
+      "À La Boca, ne t'éloigne pas du Caminito, surtout les jours de match.",
+      "Rue Florida et San Telmo : nombreux pickpockets et quelques agressions violentes signalées.",
+      "La nuit, évite les abords des gares de Constitución et de Retiro ; ne va pas dans les bidonvilles.",
+      "Hausse des agressions par drogue versée dans les boissons après des rencontres dans les bars."
+    ],
+    "source": { "label": "France Diplomatie, Argentine, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/argentine/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "buenos-aires",
+      "name": "Buenos Aires",
+      "nights": "4 nuits",
+      "for": ["tous", "energique"],
+      "summary": "Une capitale aux allures européennes, ses cafés, son tango et ses quartiers très différents.",
+      "sleep": "À Palermo ou Recoleta.",
+      "see": [
+        { "name": "Le cimetière de Recoleta", "note": "Des mausolées spectaculaires, dont celui d'Evita." },
+        { "name": "San Telmo", "note": "Le marché du dimanche et le tango de rue." },
+        { "name": "Le Caminito à La Boca", "note": "Les maisons colorées, sans s'éloigner." }
+      ],
+      "hidden": [
+        { "name": "La librairie El Ateneo", "note": "Dans un ancien théâtre." },
+        { "name": "Le delta du Tigre", "note": "Des canaux en bateau, à 1 h." }
+      ],
+      "eat": "L'asado (grillades), les empanadas et le dulce de leche.",
+      "getAround": "Métro (Subte) et VTC.",
+      "tip": "On dîne tard : les restaurants se remplissent vers 21 h 30."
+    },
+    {
+      "slug": "iguazu",
+      "name": "Iguazú (côté argentin)",
+      "nights": "2 nuits",
+      "for": ["tous", "explorateur"],
+      "summary": "Les chutes au plus près, par des passerelles jusqu'à la Gorge du Diable.",
+      "sleep": "À Puerto Iguazú.",
+      "see": [
+        { "name": "La Gorge du Diable", "note": "La chute la plus impressionnante." },
+        { "name": "Le circuit supérieur", "note": "Des passerelles au-dessus des chutes." },
+        { "name": "Le circuit inférieur", "note": "Au pied des cascades." }
+      ],
+      "hidden": [],
+      "eat": "Le chipa (pain au fromage).",
+      "getAround": "Vol depuis Buenos Aires, puis bus jusqu'au parc.",
+      "tip": "Prévois une journée de chaque côté de la frontière."
+    },
+    {
+      "slug": "salta",
+      "name": "Salta et le nord-ouest",
+      "nights": "4 nuits",
+      "for": ["explorateur", "lent"],
+      "summary": "Montagnes aux sept couleurs, salines, canyons et vignobles d'altitude.",
+      "sleep": "À Salta, Purmamarca et Cafayate.",
+      "see": [
+        { "name": "La colline aux sept couleurs", "note": "À Purmamarca." },
+        { "name": "Les Salinas Grandes", "note": "À plus de 3 400 m." },
+        { "name": "La Quebrada de las Conchas", "note": "Canyons rouges vers Cafayate." }
+      ],
+      "hidden": [
+        { "name": "Le Hornocal", "note": "La montagne aux quatorze couleurs, près d'Humahuaca." }
+      ],
+      "eat": "Les empanadas salteñas et le vin blanc torrontés.",
+      "getAround": "Voiture de location.",
+      "tip": "Monte progressivement : certains cols dépassent 4 000 m."
+    },
+    {
+      "slug": "patagonie",
+      "name": "La Patagonie (El Calafate, El Chaltén)",
+      "nights": "5 nuits",
+      "for": ["explorateur", "energique"],
+      "summary": "Le glacier Perito Moreno et les randonnées au pied du Fitz Roy.",
+      "sleep": "À El Calafate et El Chaltén.",
+      "see": [
+        { "name": "Le glacier Perito Moreno", "note": "Des passerelles face au front de glace." },
+        { "name": "La laguna de los Tres", "note": "Randonnée au pied du Fitz Roy." },
+        { "name": "La laguna Torre", "note": "Face au Cerro Torre." }
+      ],
+      "hidden": [
+        { "name": "Ushuaia et le canal Beagle", "note": "La ville du bout du monde, en avion." }
+      ],
+      "eat": "L'agneau de Patagonie grillé.",
+      "getAround": "Vol vers El Calafate, puis bus pour El Chaltén.",
+      "tip": "Le vent est violent : coupe-vent indispensable, même en été."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 15,
+      "title": "L'Argentine essentielle",
+      "for": ["tous", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Buenos Aires", "note": "Arrivée." },
+        { "days": "Jours 5 et 6", "place": "Iguazú", "note": "En avion." },
+        { "days": "Jours 7 à 10", "place": "Salta et le nord-ouest", "note": "En avion." },
+        { "days": "Jours 11 à 15", "place": "Patagonie", "note": "Retour par Buenos Aires." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Buenos Aires et Patagonie",
+      "for": ["energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Buenos Aires", "note": "Arrivée." },
+        { "days": "Jours 4 à 9", "place": "El Calafate et El Chaltén", "note": "Glaciers et randonnées." },
+        { "days": "Jour 10", "place": "Retour", "note": "Vol vers Buenos Aires." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les vols intérieurs", "text": "Indispensables entre les régions." },
+    { "title": "Les bus longue distance", "text": "Confortables, avec sièges-couchettes." },
+    { "title": "En voiture", "text": "Idéale dans le nord-ouest ; routes de gravier en Patagonie." }
+  ],
+  "culture": [
+    "Le maté se partage en cercle : refuser n'est pas impoli, mais dire « merci » signifie qu'on n'en veut plus.",
+    "On se salue d'une bise, même entre hommes.",
+    "Le dîner commence rarement avant 21 h."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Buen día", "say": "bouén dia" },
+    { "fr": "Merci", "local": "Gracias", "say": "grassias" },
+    { "fr": "Super !", "local": "¡Bárbaro!", "say": "barbaro" }
+  ],
+  "checklist": [
+    "Passeport valide pendant tout le séjour",
+    "Vols intérieurs réservés tôt",
+    "Coupe-vent et couches chaudes pour la Patagonie",
+    "Moyens de paiement adaptés au contexte monétaire",
+    "Assurance santé et rapatriement"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour l'Argentine ?", "a": "Non pour moins de 3 mois, avec un passeport valable pendant tout le séjour. Pour un séjour plus long, il faut un visa adapté au motif." },
+    { "q": "L'Argentine est-elle sûre ?", "a": "Oui avec de la vigilance, surtout à Buenos Aires : pickpockets dans les quartiers touristiques, quartiers des gares à éviter la nuit." },
+    { "q": "Quand partir en Argentine ?", "a": "D'octobre à avril pour la Patagonie ; le nord se visite toute l'année." },
+    { "q": "Quel budget pour deux semaines en Argentine ?", "a": "Compte environ 95 à 260 € par jour seul et 76 à 210 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

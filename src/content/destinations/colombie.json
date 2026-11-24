@@ -1,0 +1,215 @@
+{
+  "name": "Colombie",
+  "prep": "en Colombie",
+  "kind": "pays",
+  "continent": "Amérique du Sud",
+  "priority": 71,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Colombie : sécurité, Carthagène, Medellín",
+    "description": "Préparer un voyage en Colombie : Check-Mig, zones déconseillées, meilleure saison, budget, Bogotá, Medellín, la zone du café, Carthagène. PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Colombie se visite de décembre à mars et en juillet-août, les périodes les plus sèches. Pas de visa pour 90 jours, mais le formulaire Check-Mig est obligatoire. Attention : la criminalité augmente fortement dans les grandes villes, et les zones frontalières sont formellement déconseillées. Bogotá, Medellín, la zone du café et Carthagène se relient en avion.",
+  "essentials": {
+    "bestPeriod": "Décembre à mars, juillet-août",
+    "languages": "Espagnol",
+    "currency": "Peso colombien (COP)",
+    "timeDiff": "-6 h en hiver, -7 h en été",
+    "plugs": "Types A et B, 110 V : adaptateur nécessaire",
+    "emergency": "123",
+    "flight": "Environ 11 h en vol direct depuis Paris pour Bogotá"
+  },
+  "months": [
+    { "rating": 2, "note": "Saison sèche, haute saison." },
+    { "rating": 2, "note": "Sec ; carnaval de Barranquilla (selon les années)." },
+    { "rating": 2, "note": "Encore sec." },
+    { "rating": 1, "note": "Début des pluies dans les Andes." },
+    { "rating": 1, "note": "Pluies." },
+    { "rating": 1, "note": "Plus sec en fin de mois." },
+    { "rating": 2, "note": "Petite saison sèche." },
+    { "rating": 2, "note": "Fête des fleurs à Medellín." },
+    { "rating": 1, "note": "Retour des pluies." },
+    { "rating": 0, "note": "Le mois le plus pluvieux." },
+    { "rating": 1, "note": "Pluies, accalmie en fin de mois." },
+    { "rating": 2, "note": "Retour du sec ; illuminations de Noël." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en pesos colombiens, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou guesthouse)", "solo": "120 000 à 300 000 COP", "duo": "75 000 à 180 000 COP" },
+      { "label": "Repas", "solo": "60 000 à 140 000 COP", "duo": "60 000 à 140 000 COP" },
+      { "label": "Transports (VTC, vols)", "solo": "30 000 à 150 000 COP", "duo": "25 000 à 110 000 COP" },
+      { "label": "Visites et excursions", "solo": "20 000 à 120 000 COP", "duo": "20 000 à 120 000 COP" }
+    ],
+    "totalSolo": "230 000 à 710 000 COP",
+    "totalDuo": "180 000 à 550 000 COP",
+    "note": "Les vols intérieurs sont souvent plus sûrs et rapides que la route. Le « menú del día » permet de déjeuner pour peu.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour un séjour de 90 jours maximum, avec un billet aller-retour.",
+    "points": [
+      "En arrivant par avion ou par bateau, remplis le formulaire migratoire Check-Mig avant l'entrée et avant la sortie.",
+      "Les séjours irréguliers sont sanctionnés par de lourdes amendes.",
+      "La vaccination contre la fièvre jaune est obligatoire pour entrer dans les parcs nationaux colombiens."
+    ],
+    "source": { "label": "France Diplomatie, Colombie, Entrée / séjour et Santé (mise à jour du 21 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/colombie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "La vaccination contre la fièvre jaune est obligatoire pour entrer dans les parcs nationaux colombiens, et pour les voyageurs venant de certains pays (dont le Brésil).",
+    "points": [
+      "Dengue : protection contre les moustiques.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Altitude à Bogotá (2 600 m) : prends le temps de t'acclimater.",
+      "Assurance santé et rapatriement indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Colombie, Santé (mise à jour du 21 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/colombie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "La criminalité augmente fortement, notamment à Bogotá, Cali, Medellín, Bucaramanga, Santa Marta, Barranquilla et Carthagène. La situation est volatile : tiens-toi informé.",
+    "points": [
+      "Formellement déconseillées : les zones frontalières avec le Venezuela, le Panama, l'Équateur, le Pérou et le Brésil. Il est aussi formellement déconseillé d'entrer en Colombie par voie terrestre.",
+      "Déconseillés sauf raison impérative : l'est (Vichada, Guainía, Guaviare, Vaupés), le sud (Amazonas, Caquetá, Putumayo), tout le Nariño et l'est du Valle del Cauca. D'autres zones sont indiquées sur la carte officielle.",
+      "Sois vigilant dès la sortie des villes : la plupart des zones rurales isolées sont propices à la présence de groupes armés.",
+      "Consulte la carte de France Diplomatie avant chaque étape."
+    ],
+    "source": { "label": "France Diplomatie, Colombie, Sécurité (mise à jour du 21 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/colombie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "carthagene",
+      "name": "Carthagène des Indes",
+      "nights": "3 nuits",
+      "for": ["tous", "lent"],
+      "summary": "Une ville coloniale fortifiée au bord des Caraïbes, ses balcons fleuris et ses places colorées.",
+      "sleep": "Dans la ville fortifiée ou Getsemaní.",
+      "see": [
+        { "name": "La ville fortifiée", "note": "Classée à l'Unesco, au coucher du soleil sur les remparts." },
+        { "name": "Getsemaní", "note": "Street art et places animées." },
+        { "name": "Le château San Felipe", "note": "La plus grande forteresse espagnole des Amériques." }
+      ],
+      "hidden": [
+        { "name": "Les îles du Rosaire", "note": "Plages et snorkeling en bateau." }
+      ],
+      "eat": "Le poisson frit, les arepas de huevo et les jus de fruits tropicaux.",
+      "getAround": "À pied ; VTC le soir.",
+      "tip": "Refuse les propositions insistantes de rue et garde ton téléphone rangé."
+    },
+    {
+      "slug": "medellin",
+      "name": "Medellín et Guatapé",
+      "nights": "3 nuits",
+      "for": ["energique", "tous"],
+      "summary": "Une ville transformée, ses téléphériques, ses fresques et un rocher géant au-dessus d'un lac.",
+      "sleep": "À El Poblado ou Laureles.",
+      "see": [
+        { "name": "La Comuna 13", "note": "Escalators et graffitis, avec un guide local." },
+        { "name": "Le Metrocable", "note": "Les téléphériques au-dessus des quartiers." },
+        { "name": "Le rocher de Guatapé", "note": "740 marches, vue sur le lac." }
+      ],
+      "hidden": [
+        { "name": "Le parc Arví", "note": "Une forêt au bout du téléphérique." }
+      ],
+      "eat": "La bandeja paisa (assiette copieuse locale).",
+      "getAround": "Métro et téléphériques ; VTC.",
+      "tip": "Ne laisse jamais ton verre sans surveillance dans les bars."
+    },
+    {
+      "slug": "zone-cafe",
+      "name": "La zone du café (Salento)",
+      "nights": "3 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "Des collines de caféiers et la vallée de Cocora, ses palmiers à cire géants.",
+      "sleep": "À Salento ou dans une finca de café.",
+      "see": [
+        { "name": "La vallée de Cocora", "note": "Les plus hauts palmiers du monde." },
+        { "name": "Une finca de café", "note": "De la cerise à la tasse." },
+        { "name": "Le village de Salento", "note": "Maisons colorées." }
+      ],
+      "hidden": [
+        { "name": "Filandia", "note": "Un village plus calme, avec un belvédère." }
+      ],
+      "eat": "La truite de Salento et le café local.",
+      "getAround": "Vol vers Pereira ou Armenia, puis jeeps (Willys).",
+      "tip": "Fais Cocora tôt le matin, avant les nuages."
+    },
+    {
+      "slug": "bogota",
+      "name": "Bogotá",
+      "nights": "2 nuits",
+      "for": ["stratege", "tous"],
+      "summary": "Une capitale d'altitude, son centre colonial de la Candelaria et son musée de l'Or.",
+      "sleep": "À Chapinero ou Usaquén ; la Candelaria en journée.",
+      "see": [
+        { "name": "Le musée de l'Or", "note": "Plus de 30 000 pièces précolombiennes." },
+        { "name": "Le mont Monserrate", "note": "En téléphérique, vue sur la ville." },
+        { "name": "Le musée Botero", "note": "Gratuit." }
+      ],
+      "hidden": [
+        { "name": "La cathédrale de sel de Zipaquirá", "note": "Dans une mine de sel, à 1 h." }
+      ],
+      "eat": "L'ajiaco (soupe de poulet aux trois pommes de terre).",
+      "getAround": "VTC ; évite les bus bondés.",
+      "tip": "La Candelaria se visite de jour : le soir, rentre en VTC."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 14,
+      "title": "La Colombie classique",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Bogotá", "note": "Arrivée." },
+        { "days": "Jours 3 à 5", "place": "Zone du café", "note": "En avion." },
+        { "days": "Jours 6 à 8", "place": "Medellín", "note": "Et Guatapé." },
+        { "days": "Jours 9 à 14", "place": "Carthagène", "note": "Et les îles du Rosaire." }
+      ]
+    },
+    {
+      "days": 8,
+      "title": "Medellín et Carthagène",
+      "for": ["energique"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Medellín", "note": "Arrivée." },
+        { "days": "Jours 5 à 8", "place": "Carthagène", "note": "En avion." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les vols intérieurs", "text": "Nombreux et bon marché, plus sûrs que la route pour les longues distances." },
+    { "title": "Les VTC", "text": "À privilégier en ville plutôt que les taxis hélés dans la rue." },
+    { "title": "Les bus", "text": "Uniquement de jour et sur les grands axes." }
+  ],
+  "culture": [
+    "Les Colombiens sont réputés pour leur accueil et leur goût de la danse (salsa, cumbia).",
+    "« No dar papaya » : ne tente pas les voleurs en exposant tes objets de valeur.",
+    "Évite les sujets liés au narcotrafic."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Buenos días", "say": "bouénos dias" },
+    { "fr": "Merci", "local": "Gracias", "say": "grassias" },
+    { "fr": "Avec plaisir", "local": "Con mucho gusto", "say": "konn moutcho gousto" }
+  ],
+  "checklist": [
+    "Passeport valide et billet aller-retour",
+    "Formulaire Check-Mig rempli",
+    "Vaccin contre la fièvre jaune pour les parcs nationaux",
+    "Application de VTC",
+    "Carte de France Diplomatie consultée avant chaque étape",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour la Colombie ?", "a": "Non pour 90 jours maximum, avec un billet aller-retour. Le formulaire Check-Mig est obligatoire." },
+    { "q": "La Colombie est-elle sûre ?", "a": "La criminalité augmente fortement dans les grandes villes et les zones frontalières sont formellement déconseillées. Avec des précautions (VTC, vols intérieurs, discrétion), le circuit classique se fait." },
+    { "q": "Le vaccin contre la fièvre jaune est-il obligatoire en Colombie ?", "a": "Il est obligatoire pour entrer dans les parcs nationaux, comme Tayrona, et si tu viens de certains pays comme le Brésil." },
+    { "q": "Quel budget pour deux semaines en Colombie ?", "a": "Compte environ 230 000 à 710 000 COP par jour seul et 180 000 à 550 000 COP par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}
