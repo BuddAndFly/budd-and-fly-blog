@@ -1,0 +1,220 @@
+{
+  "name": "Monténégro",
+  "prep": "au Monténégro",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 22,
+  "status": "brouillon",
+  "updatedAt": "2026-11-24",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Monténégro : quand partir, budget, Kotor, Durmitor",
+    "description": "Préparer un voyage au Monténégro : carte d'identité ou passeport, meilleure saison, budget, les bouches de Kotor, Budva, le Durmitor, le lac de Skadar."
+  },
+  "hero": null,
+  "summary": "Le Monténégro est idéal en mai-juin et en septembre : mer chaude sur la côte, montagnes accessibles au nord. Une carte d'identité suffit pour moins de 30 jours ; au-delà, il faut un passeport. Le pays est petit : en une semaine, on combine les bouches de Kotor, la côte et le parc du Durmitor.",
+  "essentials": {
+    "bestPeriod": "Mai-juin, septembre",
+    "languages": "Monténégrin (anglais assez parlé dans les lieux touristiques)",
+    "currency": "Euro (EUR)",
+    "timeDiff": "Aucun",
+    "plugs": "Types C et F, 230 V : comme en France",
+    "emergency": "112 · Police 122 · Ambulance 124",
+    "flight": "Environ 2 h 30 depuis Paris pour Tivat ou Podgorica (vols surtout en saison)"
+  },
+  "months": [
+    { "rating": 0, "note": "Hiver : côte calme et pluvieuse, ski dans le Durmitor." },
+    { "rating": 0, "note": "Comme en janvier. Alertes crues et inondations possibles." },
+    { "rating": 1, "note": "Le printemps arrive sur la côte, neige en montagne." },
+    { "rating": 1, "note": "Doux, peu de monde, idéal pour Kotor et le lac de Skadar." },
+    { "rating": 2, "note": "Chaud sans excès, mer qui se réchauffe, montagnes qui s'ouvrent." },
+    { "rating": 2, "note": "Excellent mois pour la côte comme pour la randonnée." },
+    { "rating": 1, "note": "Très chaud et fréquenté sur la côte, risque d'incendies." },
+    { "rating": 1, "note": "Pic de fréquentation à Budva et Kotor. Le Durmitor reste frais." },
+    { "rating": 2, "note": "Mer chaude, foule en baisse : le meilleur compromis." },
+    { "rating": 1, "note": "Doux en début de mois, premières pluies ensuite." },
+    { "rating": 0, "note": "Pluies et saison terminée." },
+    { "rating": 0, "note": "Hiver, illuminations à Kotor et Budva." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
+    "rows": [
+      { "label": "Hébergement (chambre ou appartement simple)", "solo": "45 à 90 €", "duo": "30 à 60 €" },
+      { "label": "Repas", "solo": "20 à 35 €", "duo": "20 à 35 €" },
+      { "label": "Transports locaux", "solo": "3 à 10 €", "duo": "3 à 10 €" },
+      { "label": "Visites et entrées", "solo": "5 à 15 €", "duo": "5 à 15 €" }
+    ],
+    "totalSolo": "73 à 150 €",
+    "totalDuo": "58 à 120 €",
+    "note": "Kotor et Budva sont nettement plus chères en juillet-août que le reste du pays. Une taxe de séjour s'ajoute par nuit. Les bus sont bon marché, mais une voiture facilite la découverte du nord.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour moins de 90 jours. Une carte d'identité valide suffit pour un séjour de moins de 30 jours ; au-delà, il faut un passeport.",
+    "points": [
+      "Les cartes d'identité 2004-2013 prolongées de 5 ans sont officiellement acceptées, mais un passeport valide évite tout souci.",
+      "L'ambassade de France a des moyens limités : elle ne délivre pas de passeport, seulement un laissez-passer pour rentrer en France en cas de perte ou de vol.",
+      "Garde une copie de ton document d'identité, indispensable pour quitter le pays."
+    ],
+    "source": { "label": "France Diplomatie, Monténégro, Entrée / séjour (mise à jour du 13 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/montenegro/" },
+    "checkedAt": "2026-11-24"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France. Le Monténégro n'est pas dans l'Union européenne : prends une assurance voyage avec rapatriement.",
+    "points": [
+      "France Diplomatie recommande de disposer des moyens de couvrir hospitalisation, rapatriement ou évacuation : vérifie ton assurance.",
+      "Rage : recommandé pour les enfants et les séjours en zone rurale.",
+      "Mets à jour les vaccins du calendrier français."
+    ],
+    "source": { "label": "France Diplomatie, Monténégro, Santé (mise à jour du 13 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/montenegro/" },
+    "checkedAt": "2026-11-24"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance normale. Les principaux risques sont naturels : incendies l'été, crues l'hiver et séismes.",
+    "points": [
+      "Nombreux départs d'incendies l'été : pas de bivouac sauvage, et vigilance maximale en cas d'alerte canicule.",
+      "D'octobre à mars, alertes aux inondations et crues soudaines : ne t'aventure pas dans le lit des rivières ni dans les grottes voisines, même si l'eau est basse.",
+      "Le pays est en zone sismique, notamment la côte (Kotor, Budva, Bar).",
+      "Inscris-toi sur Ariane : l'aide consulaire sur place est limitée."
+    ],
+    "source": { "label": "France Diplomatie, Monténégro, Sécurité (mise à jour du 13 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/montenegro/" },
+    "checkedAt": "2026-11-24"
+  },
+  "cities": [
+    {
+      "slug": "kotor",
+      "name": "Kotor et ses bouches",
+      "nights": "3 nuits",
+      "for": ["tous", "lent", "stratege"],
+      "summary": "Une ville médiévale fortifiée au fond d'un fjord méditerranéen, entourée de montagnes abruptes.",
+      "sleep": "Dans la vieille ville, ou à Perast et Dobrota pour le calme au bord de l'eau.",
+      "see": [
+        { "name": "La vieille ville de Kotor", "note": "Ruelles, places et églises, à visiter tôt le matin." },
+        { "name": "La forteresse Saint-Jean", "note": "Environ 1 350 marches au-dessus de la ville, pour une vue spectaculaire." },
+        { "name": "Perast et Notre-Dame-du-Rocher", "note": "Un village baroque et un îlot-église, en bateau." }
+      ],
+      "hidden": [
+        { "name": "La route de Lovćen en lacets", "note": "Vingt-cinq virages au-dessus de la baie, jusqu'au mausolée de Njegoš." }
+      ],
+      "eat": "Les moules de la baie et le jambon de Njeguši.",
+      "getAround": "Bus le long de la baie, bateaux-taxis vers Perast.",
+      "tip": "Les jours d'escale des paquebots, la vieille ville est bondée : visite-la avant 9 h ou après 17 h."
+    },
+    {
+      "slug": "budva",
+      "name": "Budva et la côte",
+      "nights": "2 nuits",
+      "for": ["energique"],
+      "summary": "La station balnéaire la plus animée, avec une jolie vieille ville et des plages tout le long de la côte.",
+      "sleep": "Dans la vieille ville ou à Bečići ; à Petrovac pour plus de calme.",
+      "see": [
+        { "name": "La vieille ville de Budva", "note": "Remparts et ruelles au bord de la mer." },
+        { "name": "Sveti Stefan", "note": "L'îlot-village le plus photographié du pays, vu depuis la plage voisine." },
+        { "name": "Les plages de Petrovac", "note": "Plus familiales et moins bondées." }
+      ],
+      "hidden": [],
+      "eat": "Poissons grillés et risotto noir.",
+      "getAround": "Bus côtiers fréquents.",
+      "tip": "En août, Budva est très festive et très bruyante : choisis Petrovac si tu cherches le repos."
+    },
+    {
+      "slug": "durmitor",
+      "name": "Le parc national du Durmitor",
+      "nights": "2 nuits",
+      "for": ["explorateur"],
+      "summary": "Montagnes, lacs glaciaires et le canyon de la Tara, l'un des plus profonds d'Europe.",
+      "sleep": "À Žabljak, en chalet ou guesthouse.",
+      "see": [
+        { "name": "Le Lac noir", "note": "Une boucle facile autour du lac, au pied des sommets." },
+        { "name": "Le pont de Đurđevića Tara", "note": "Au-dessus du canyon, avec tyrolienne." },
+        { "name": "Le rafting sur la Tara", "note": "Au printemps et en été, avec un opérateur agréé." }
+      ],
+      "hidden": [
+        { "name": "Le Bobotov Kuk", "note": "Le plus haut sommet du parc, en randonnée à la journée." }
+      ],
+      "eat": "Les plats de montagne : agneau, fromage, kačamak (bouillie de maïs).",
+      "getAround": "Voiture conseillée ; routes de montagne étroites.",
+      "tip": "Le temps change vite en altitude, même en été : prévois une veste chaude."
+    },
+    {
+      "slug": "lac-de-skadar",
+      "name": "Le lac de Skadar",
+      "nights": "1 à 2 nuits",
+      "for": ["lent"],
+      "summary": "Le plus grand lac des Balkans, couvert de nénuphars, avec monastères sur des îlots et villages de pêcheurs.",
+      "sleep": "À Virpazar ou dans une maison d'hôtes au bord du lac.",
+      "see": [
+        { "name": "Une sortie en bateau", "note": "Au lever ou au coucher du soleil, parmi les oiseaux." },
+        { "name": "Le point de vue de Pavlova Strana", "note": "La boucle de la rivière Crnojević, vue d'en haut." },
+        { "name": "Les vignobles autour de Virpazar", "note": "Dégustation de vranac, le vin rouge local." }
+      ],
+      "hidden": [],
+      "eat": "La carpe et l'ablette du lac.",
+      "getAround": "Voiture ou excursion depuis la côte.",
+      "tip": "Combine le lac avec une nuit à Cetinje, l'ancienne capitale royale."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Côte et montagnes",
+      "for": ["tous", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Kotor et ses bouches", "note": "Perast, forteresse, Lovćen." },
+        { "days": "Jour 4", "place": "Lac de Skadar", "note": "Bateau et vignobles." },
+        { "days": "Jours 5 et 6", "place": "Durmitor", "note": "Lac noir et canyon de la Tara." },
+        { "days": "Jour 7", "place": "Retour", "note": "Depuis Podgorica." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Monténégro et Albanie",
+      "for": ["explorateur", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Kotor", "note": "Et la côte jusqu'à Budva." },
+        { "days": "Jours 4 et 5", "place": "Durmitor", "note": "Randonnée et rafting." },
+        { "days": "Jour 6", "place": "Lac de Skadar", "note": "Puis frontière albanaise." },
+        { "days": "Jours 7 à 10", "place": "Shkodër et les Alpes albanaises", "note": "Voir notre guide Albanie." }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Les bouches de Kotor",
+      "for": ["lent"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Kotor, Perast, Dobrota", "note": "À ton rythme, en bateau." },
+        { "days": "Jour 5", "place": "Retour", "note": "Depuis Tivat." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Le bus", "text": "Bon marché et fréquent sur la côte, plus rare vers les montagnes." },
+    { "title": "En voiture", "text": "Idéale pour le Durmitor et le lac de Skadar. Routes de montagne étroites, prudence." },
+    { "title": "Les vols", "text": "Aéroports de Tivat (près de Kotor) et Podgorica. Dubrovnik, en Croatie, est aussi proche." }
+  ],
+  "culture": [
+    "Le Monténégro utilise l'euro, sans faire partie de l'Union européenne.",
+    "Tenue correcte dans les monastères orthodoxes : épaules et genoux couverts.",
+    "Le pourboire est apprécié, environ 10 %."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Dobar dan", "say": "dobar dan" },
+    { "fr": "Merci", "local": "Hvala", "say": "hvala" },
+    { "fr": "Santé !", "local": "Živjeli!", "say": "jivièli" }
+  ],
+  "checklist": [
+    "Carte d'identité (moins de 30 jours) ou passeport",
+    "Copie de ton document d'identité",
+    "Assurance voyage avec rapatriement",
+    "Chaussures de marche pour la forteresse de Kotor et le Durmitor",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Peut-on aller au Monténégro avec une carte d'identité ?", "a": "Oui pour un séjour de moins de 30 jours. Au-delà, un passeport est nécessaire. Pas de visa pour moins de 90 jours." },
+    { "q": "Quelle monnaie au Monténégro ?", "a": "L'euro, même si le pays ne fait pas partie de l'Union européenne." },
+    { "q": "Quand partir au Monténégro ?", "a": "En mai-juin et en septembre : mer agréable, montagnes ouvertes et beaucoup moins de monde qu'en juillet-août." },
+    { "q": "Quel budget pour une semaine au Monténégro ?", "a": "Compte environ 73 à 150 € par jour seul et 58 à 120 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}
