@@ -1,0 +1,194 @@
+{
+  "name": "Philippines",
+  "prep": "aux Philippines",
+  "kind": "pays",
+  "continent": "Asie",
+  "priority": 59,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Philippines : Palawan, Bohol, Siargao",
+    "description": "Préparer un voyage aux Philippines : eTravel, zones déconseillées, typhons, meilleure saison, budget, El Nido, Coron, Bohol, Siargao. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Les Philippines se visitent de décembre à mai, en saison sèche ; de juin à novembre, les typhons sont fréquents. Pas de visa pour 30 jours, mais l'« eTravel Card » est obligatoire avant l'arrivée. La majeure partie du pays est en vigilance renforcée, et l'ouest de Mindanao et le sud de Palawan sont formellement déconseillés : les îles des Visayas et le nord de Palawan concentrent les plus beaux paysages.",
+  "essentials": {
+    "bestPeriod": "Décembre à mai",
+    "languages": "Filipino et anglais (très répandu)",
+    "currency": "Peso philippin (PHP)",
+    "timeDiff": "+7 h en hiver, +6 h en été",
+    "plugs": "Types A, B et C, 220 V : adaptateur conseillé",
+    "emergency": "911",
+    "flight": "Environ 15 h depuis Paris pour Manille, avec une escale"
+  },
+  "months": [
+    { "rating": 2, "note": "Saison sèche, temps idéal." },
+    { "rating": 2, "note": "Le meilleur mois." },
+    { "rating": 2, "note": "Sec et chaud." },
+    { "rating": 2, "note": "Très chaud, mer calme ; semaine sainte très suivie." },
+    { "rating": 1, "note": "Chaleur forte, premières pluies en fin de mois." },
+    { "rating": 0, "note": "Début de la saison des pluies et des typhons." },
+    { "rating": 0, "note": "Typhons fréquents." },
+    { "rating": 0, "note": "Comme en juillet." },
+    { "rating": 0, "note": "Typhons ; Siargao en saison de surf." },
+    { "rating": 1, "note": "Pluies en baisse, typhons encore possibles." },
+    { "rating": 1, "note": "Fin de la saison des pluies." },
+    { "rating": 2, "note": "Retour du sec, Noël très fêté." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en pesos, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (guesthouse ou bungalow)", "solo": "1 800 à 4 500 ₱", "duo": "1 100 à 2 800 ₱" },
+      { "label": "Repas", "solo": "700 à 1 500 ₱", "duo": "700 à 1 500 ₱" },
+      { "label": "Transports (ferries, vans)", "solo": "300 à 1 500 ₱", "duo": "300 à 1 500 ₱" },
+      { "label": "Excursions en bateau", "solo": "1 200 à 3 000 ₱", "duo": "1 200 à 3 000 ₱" }
+    ],
+    "totalSolo": "4 000 à 10 500 ₱",
+    "totalDuo": "3 300 à 8 800 ₱",
+    "note": "Les vols intérieurs et les excursions en bateau (island hopping) sont les gros postes. Prévois des espèces : les distributeurs sont rares sur les petites îles.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour un séjour touristique : le tampon d'entrée autorise 30 jours, avec un billet retour ou de continuation. L'« eTravel Card » est obligatoire.",
+    "points": [
+      "Remplis l'eTravel Card sur la plateforme officielle, idéalement 72 heures avant le départ.",
+      "Le séjour peut être prolongé jusqu'à 59 jours au total auprès du bureau de l'immigration, contre une taxe ; un retard expose à une amende."
+    ],
+    "source": { "label": "France Diplomatie, Philippines, Entrée / séjour (mise à jour du 20 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/philippines/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France. La dengue circule : protège-toi des moustiques.",
+    "points": [
+      "Dengue : protection contre les piqûres indispensable.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Assurance santé et rapatriement indispensable, avec évacuation depuis les îles."
+    ],
+    "source": { "label": "France Diplomatie, Philippines, Santé (mise à jour du 20 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/philippines/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "La majeure partie du pays est en vigilance renforcée. Plusieurs zones du sud sont formellement déconseillées en raison du risque d'enlèvement.",
+    "points": [
+      "Formellement déconseillés : l'ouest, le centre-ouest et le sud-ouest de Mindanao (dont la péninsule de Zamboanga) et la zone maritime du sud de Palawan jusqu'à l'archipel de Sulu.",
+      "Déconseillés sauf raison impérative : une grande partie du reste de Mindanao et l'île de Samal ; Davao City, Cagayan de Oro et General Santos restent en vigilance renforcée.",
+      "Des groupes armés pratiquent des enlèvements d'étrangers, sur terre comme en mer.",
+      "Saison des typhons de mai à décembre : inondations et glissements de terrain chaque année. Suis la météo avant chaque traversée."
+    ],
+    "source": { "label": "France Diplomatie, Philippines, Sécurité (mise à jour du 20 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/philippines/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "el-nido-coron",
+      "name": "El Nido et Coron (nord de Palawan)",
+      "nights": "5 à 6 nuits",
+      "for": ["tous", "explorateur"],
+      "summary": "Lagons turquoise, falaises calcaires et épaves de la Seconde Guerre mondiale.",
+      "sleep": "À El Nido ou dans les plages voisines ; à Coron, sur l'île de Busuanga.",
+      "see": [
+        { "name": "Les tours en bateau d'El Nido", "note": "Big Lagoon, Small Lagoon (en kayak, sur réservation)." },
+        { "name": "Le lac Kayangan à Coron", "note": "Un lac d'eau claire entre les falaises." },
+        { "name": "La plongée sur les épaves de Coron", "note": "Des navires japonais coulés en 1944." }
+      ],
+      "hidden": [
+        { "name": "Port Barton", "note": "Un village calme entre Puerto Princesa et El Nido." }
+      ],
+      "eat": "Le poisson grillé et le kinilaw (ceviche philippin).",
+      "getAround": "Vans depuis Puerto Princesa, ferry entre El Nido et Coron.",
+      "tip": "Reste au nord de Palawan : la zone maritime du sud de l'île est formellement déconseillée."
+    },
+    {
+      "slug": "bohol",
+      "name": "Bohol et Panglao",
+      "nights": "3 nuits",
+      "for": ["tous", "lent"],
+      "summary": "Les collines de Chocolat, les minuscules tarsiers et les plages de Panglao.",
+      "sleep": "À Panglao, près des plages.",
+      "see": [
+        { "name": "Les collines de Chocolat", "note": "Plus de 1 200 collines coniques." },
+        { "name": "Le sanctuaire des tarsiers", "note": "De minuscules primates, à observer en silence." },
+        { "name": "L'île de Balicasag", "note": "Snorkeling avec les tortues." }
+      ],
+      "hidden": [
+        { "name": "La rivière Loboc", "note": "En kayak ou en paddle." }
+      ],
+      "eat": "Le calamay (confiserie de Bohol).",
+      "getAround": "Scooter ou chauffeur à la journée.",
+      "tip": "Choisis un sanctuaire de tarsiers qui respecte les animaux (sans flash, sans contact)."
+    },
+    {
+      "slug": "siargao",
+      "name": "Siargao",
+      "nights": "4 nuits",
+      "for": ["energique", "lent"],
+      "summary": "L'île du surf, des cocotiers et des lagons, à l'ambiance décontractée.",
+      "sleep": "À General Luna.",
+      "see": [
+        { "name": "Cloud 9", "note": "Le spot de surf mythique et sa jetée." },
+        { "name": "Les piscines naturelles de Magpupungko", "note": "À marée basse." },
+        { "name": "L'island hopping", "note": "Naked Island, Daku et Guyam." }
+      ],
+      "hidden": [
+        { "name": "Sugba Lagoon", "note": "Un lagon émeraude entouré de mangroves." }
+      ],
+      "eat": "Les smoothie bowls et les grillades des bars de plage.",
+      "getAround": "Vol depuis Manille ou Cebu, puis scooter.",
+      "tip": "Siargao est rattachée à Mindanao mais n'est pas dans les zones déconseillées : vérifie toutefois la carte de France Diplomatie avant le départ."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 14,
+      "title": "Palawan et Bohol",
+      "for": ["tous", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Puerto Princesa et Port Barton", "note": "Arrivée par Manille." },
+        { "days": "Jours 4 à 7", "place": "El Nido", "note": "Tours en bateau." },
+        { "days": "Jours 8 à 10", "place": "Coron", "note": "En ferry." },
+        { "days": "Jours 11 à 14", "place": "Bohol", "note": "En avion via Cebu ou Manille." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Îles et surf",
+      "for": ["energique", "lent"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Bohol", "note": "Arrivée via Cebu." },
+        { "days": "Jours 5 à 10", "place": "Siargao", "note": "Surf et lagons." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les vols intérieurs", "text": "Indispensables entre les îles ; prévois de la marge, les retards sont fréquents." },
+    { "title": "Les ferries", "text": "Vérifie la météo et préfère les compagnies reconnues." },
+    { "title": "Les tricycles et jeepneys", "text": "Transports locaux bon marché." }
+  ],
+  "culture": [
+    "L'anglais est largement parlé, ce qui facilite les échanges.",
+    "Pays très majoritairement catholique : Noël et la semaine sainte sont des moments forts.",
+    "Les Philippins sont réputés pour leur accueil chaleureux."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Magandang umaga", "say": "magandang oumaga" },
+    { "fr": "Merci", "local": "Salamat", "say": "salamat" },
+    { "fr": "Combien ?", "local": "Magkano?", "say": "magkano" }
+  ],
+  "checklist": [
+    "Passeport valide et billet retour (30 jours sans visa)",
+    "eTravel Card remplie avant le départ",
+    "Espèces pour les petites îles",
+    "Répulsif anti-moustiques",
+    "Pochette étanche pour les bateaux",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour les Philippines ?", "a": "Non pour 30 jours, avec un billet retour. L'eTravel Card est obligatoire, à remplir en ligne avant l'arrivée." },
+    { "q": "Les Philippines sont-elles sûres ?", "a": "La majeure partie du pays est en vigilance renforcée. L'ouest de Mindanao et le sud de Palawan jusqu'à Sulu sont formellement déconseillés. Le nord de Palawan et les Visayas sont les régions touristiques." },
+    { "q": "Quand partir aux Philippines ?", "a": "De décembre à mai. De juin à novembre, les typhons sont fréquents." },
+    { "q": "Quel budget pour deux semaines aux Philippines ?", "a": "Compte environ 4 000 à 10 500 ₱ par jour seul et 3 300 à 8 800 ₱ par personne à deux, hors vols internationaux. Ces montants sont des estimations à vérifier." }
+  ]
+}

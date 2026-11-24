@@ -1,0 +1,213 @@
+{
+  "name": "Malaisie",
+  "prep": "en Malaisie",
+  "kind": "pays",
+  "continent": "Asie",
+  "priority": 58,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Malaisie : Kuala Lumpur, Penang, Bornéo",
+    "description": "Préparer un voyage en Malaisie : formulaire MDAC, zones déconseillées, meilleure saison, budget, Kuala Lumpur, Penang, Cameron Highlands, Bornéo. PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Malaisie se visite toute l'année, en choisissant sa côte selon la mousson : la côte ouest de décembre à avril, la côte est de mars à octobre. Pas de visa pour 90 jours, mais le formulaire en ligne MDAC est obligatoire dans les 3 jours avant l'arrivée. Attention : l'est du Sabah et ses îles sont formellement déconseillés.",
+  "essentials": {
+    "bestPeriod": "Toute l'année selon la côte",
+    "languages": "Malais (anglais très répandu)",
+    "currency": "Ringgit (MYR)",
+    "timeDiff": "+7 h en hiver, +6 h en été",
+    "plugs": "Type G (trois broches), 240 V : adaptateur nécessaire",
+    "emergency": "999",
+    "flight": "Environ 13 h depuis Paris pour Kuala Lumpur (vol direct ou une escale)"
+  },
+  "months": [
+    { "rating": 2, "note": "Côte ouest et Penang idéales ; mousson sur la côte est." },
+    { "rating": 2, "note": "Comme en janvier ; Nouvel An chinois à Penang." },
+    { "rating": 2, "note": "Bon partout, la côte est rouvre." },
+    { "rating": 2, "note": "Les îles Perhentian et Tioman sont en saison." },
+    { "rating": 2, "note": "Côte est idéale, orages en fin de journée à l'ouest." },
+    { "rating": 1, "note": "Chaud et humide ; Bornéo en saison." },
+    { "rating": 1, "note": "Côte est et Bornéo ; parfois de la brume." },
+    { "rating": 1, "note": "Comme en juillet." },
+    { "rating": 1, "note": "Fin de saison sur la côte est." },
+    { "rating": 1, "note": "Pluies sur la côte ouest." },
+    { "rating": 0, "note": "Mousson sur la côte est, îles fermées." },
+    { "rating": 1, "note": "Mousson à l'est ; Langkawi et Penang agréables." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en ringgits, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (guesthouse ou hôtel simple)", "solo": "100 à 250 RM", "duo": "60 à 150 RM" },
+      { "label": "Repas", "solo": "40 à 100 RM", "duo": "40 à 100 RM" },
+      { "label": "Transports", "solo": "15 à 60 RM", "duo": "15 à 50 RM" },
+      { "label": "Visites et entrées", "solo": "10 à 60 RM", "duo": "10 à 60 RM" }
+    ],
+    "totalSolo": "165 à 470 RM",
+    "totalDuo": "125 à 360 RM",
+    "note": "La street-food des hawker centres est délicieuse et bon marché. Bornéo (excursions, parcs) fait monter le budget.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour moins de 90 jours en Malaisie péninsulaire et au Sabah. Le formulaire en ligne « Malaysian Digital Arrival Card » (MDAC) est obligatoire dans les 3 jours avant l'arrivée.",
+    "points": [
+      "Remplis le MDAC uniquement sur le site officiel des services d'immigration malaisiens.",
+      "Au Sarawak (Bornéo), un permis de séjour de 30 jours est délivré à l'arrivée."
+    ],
+    "source": { "label": "France Diplomatie, Malaisie, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/malaisie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est obligatoire en arrivant de France ; la fièvre jaune l'est si tu viens d'une zone d'endémie.",
+    "points": [
+      "Dengue : protection contre les moustiques indispensable.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Assurance santé et rapatriement indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Malaisie, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/malaisie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "La plus grande partie du pays ne pose pas de difficulté particulière. Deux régions présentent un risque spécifique.",
+    "points": [
+      "Formellement déconseillés : les îles et espaces maritimes au large des côtes nord et est du Sabah (risque d'enlèvement par des groupes terroristes), ainsi que les villes de Tawau, Sandakan et Semporna. L'intérieur des terres de cette côte est déconseillé.",
+      "Déconseillée sauf raison impérative : la zone frontalière avec la Thaïlande ; Kangar et Kota Bharu restent en vigilance renforcée.",
+      "La législation sur les drogues est extrêmement sévère."
+    ],
+    "source": { "label": "France Diplomatie, Malaisie, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/malaisie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "kuala-lumpur",
+      "name": "Kuala Lumpur",
+      "nights": "3 nuits",
+      "for": ["tous", "energique"],
+      "summary": "Une capitale de tours vertigineuses, de temples, de marchés de nuit et de street-food.",
+      "sleep": "À Bukit Bintang ou près de Chinatown.",
+      "see": [
+        { "name": "Les tours Petronas", "note": "Passerelle et observatoire sur réservation." },
+        { "name": "Les grottes de Batu", "note": "Un temple hindou au sommet de 272 marches colorées." },
+        { "name": "Jalan Alor", "note": "La rue de la street-food le soir." }
+      ],
+      "hidden": [
+        { "name": "Le parc des oiseaux de KL", "note": "Une immense volière au cœur de la ville." },
+        { "name": "Kampung Baru", "note": "Un village malais traditionnel au pied des tours." }
+      ],
+      "eat": "Le nasi lemak (riz au lait de coco) et le satay.",
+      "getAround": "Métro, monorail et VTC par application.",
+      "tip": "Tenue couvrante pour les grottes de Batu (des sarongs sont prêtés)."
+    },
+    {
+      "slug": "penang-malacca",
+      "name": "Penang et Malacca",
+      "nights": "4 nuits",
+      "for": ["tous", "lent"],
+      "summary": "Deux villes coloniales classées à l'Unesco, capitales de la street-food et du street art.",
+      "sleep": "À George Town (Penang) et dans le centre de Malacca.",
+      "see": [
+        { "name": "Le street art de George Town", "note": "Les fresques à chercher dans les ruelles." },
+        { "name": "Le temple Kek Lok Si", "note": "Le plus grand temple bouddhiste du pays, à Penang." },
+        { "name": "Le centre historique de Malacca", "note": "La place rouge hollandaise et la rue Jonker." }
+      ],
+      "hidden": [
+        { "name": "Les jetées des clans de Penang", "note": "Des villages chinois sur pilotis." }
+      ],
+      "eat": "Le char kway teow, l'assam laksa de Penang et la cuisine peranakan (nyonya).",
+      "getAround": "À pied, vélo ; bus et train depuis Kuala Lumpur.",
+      "tip": "George Town est la capitale gastronomique du pays : prévois large."
+    },
+    {
+      "slug": "cameron-highlands",
+      "name": "Les Cameron Highlands",
+      "nights": "2 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "La fraîcheur des montagnes, les plantations de thé et la forêt moussue.",
+      "sleep": "À Tanah Rata.",
+      "see": [
+        { "name": "Les plantations de thé BOH", "note": "Collines verdoyantes et salon de thé." },
+        { "name": "La forêt moussue", "note": "Une passerelle dans la brume." },
+        { "name": "Les marchés aux fraises", "note": "Un incontournable local." }
+      ],
+      "hidden": [],
+      "eat": "Les scones et le thé local.",
+      "getAround": "Bus depuis Kuala Lumpur ou Penang, puis excursions.",
+      "tip": "Prévois un pull : il fait frais le soir."
+    },
+    {
+      "slug": "borneo",
+      "name": "Bornéo (Sabah ouest, Sarawak)",
+      "nights": "4 à 5 nuits",
+      "for": ["explorateur", "energique"],
+      "summary": "Forêt primaire, orangs-outans, mont Kinabalu et longues maisons du Sarawak.",
+      "sleep": "À Kota Kinabalu ou Kuching.",
+      "see": [
+        { "name": "Le mont Kinabalu", "note": "Ascension en 2 jours, permis et guide obligatoires." },
+        { "name": "Le centre de Semenggoh", "note": "Orangs-outans semi-sauvages près de Kuching." },
+        { "name": "Le parc national de Bako", "note": "Nasiques et plages sauvages." }
+      ],
+      "hidden": [
+        { "name": "Le parc de Gunung Mulu", "note": "Des grottes géantes, accessibles en avion." }
+      ],
+      "eat": "Le laksa de Sarawak.",
+      "getAround": "Vols intérieurs depuis Kuala Lumpur.",
+      "tip": "Reste sur l'ouest du Sabah et le Sarawak : l'est du Sabah est formellement déconseillé."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 12,
+      "title": "La péninsule",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Kuala Lumpur", "note": "Arrivée." },
+        { "days": "Jours 4 et 5", "place": "Malacca", "note": "En bus." },
+        { "days": "Jours 6 et 7", "place": "Cameron Highlands", "note": "Thé et fraîcheur." },
+        { "days": "Jours 8 à 12", "place": "Penang", "note": "Ou Langkawi, retour en avion." }
+      ]
+    },
+    {
+      "days": 15,
+      "title": "Villes et jungle",
+      "for": ["explorateur", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Kuala Lumpur", "note": "Arrivée." },
+        { "days": "Jours 4 à 7", "place": "Penang", "note": "Street-food et street art." },
+        { "days": "Jours 8 à 11", "place": "Kuching (Sarawak)", "note": "Orangs-outans et Bako." },
+        { "days": "Jours 12 à 15", "place": "Kota Kinabalu", "note": "Mont Kinabalu." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les bus", "text": "Confortables et bon marché entre les villes de la péninsule." },
+    { "title": "Le train ETS", "text": "Rapide sur la côte ouest, de Kuala Lumpur vers Ipoh et Penang." },
+    { "title": "Les vols intérieurs", "text": "Indispensables pour Bornéo et Langkawi." }
+  ],
+  "culture": [
+    "Pays à majorité musulmane : tenue couvrante dans les mosquées et hors des plages.",
+    "On salue en posant la main droite sur le cœur.",
+    "Pendant le ramadan, discrétion pour manger en public."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Selamat pagi", "say": "slamat pagui" },
+    { "fr": "Merci", "local": "Terima kasih", "say": "trima kassi" },
+    { "fr": "Délicieux", "local": "Sedap", "say": "sédap" }
+  ],
+  "checklist": [
+    "Passeport valide et MDAC rempli dans les 3 jours avant l'arrivée",
+    "Adaptateur type G",
+    "Répulsif anti-moustiques",
+    "Tenue couvrante pour les mosquées",
+    "Éviter l'est du Sabah et ses îles",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour la Malaisie ?", "a": "Non pour moins de 90 jours, mais le formulaire en ligne MDAC est obligatoire dans les 3 jours avant l'arrivée." },
+    { "q": "La Malaisie est-elle sûre ?", "a": "Oui pour la majorité du pays. Les îles et la côte est du Sabah (Tawau, Sandakan, Semporna) sont formellement déconseillées, et la frontière thaïlandaise déconseillée sauf raison impérative." },
+    { "q": "Quand partir en Malaisie ?", "a": "Toute l'année : la côte ouest de décembre à avril, la côte est et ses îles de mars à octobre." },
+    { "q": "Quel budget pour deux semaines en Malaisie ?", "a": "Compte environ 165 à 470 RM par jour seul et 125 à 360 RM par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}
