@@ -1,0 +1,226 @@
+{
+  "name": "Roumanie",
+  "prep": "en Roumanie",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 38,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Roumanie : Transylvanie, budget, quand partir",
+    "description": "Préparer un voyage en Roumanie : formalités, meilleure saison, budget, Bucarest, Brasov, Sibiu, Maramures, Bucovine. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Roumanie se visite de mai à octobre, quand les Carpates sont accessibles et les villages fleuris. Pays de l'Union européenne : la carte d'identité suffit, mais un passeport est conseillé si ta carte a été prolongée de 5 ans. Les villes saxonnes de Transylvanie, les églises en bois du Maramureș et les monastères peints de Bucovine composent un voyage authentique et abordable.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Roumain (langue latine ; anglais et parfois français compris)",
+    "currency": "Leu roumain (RON)",
+    "timeDiff": "+1 h toute l'année",
+    "plugs": "Types C et F, 230 V : comme en France",
+    "emergency": "112",
+    "flight": "Environ 3 h depuis Paris pour Bucarest ; vols aussi vers Cluj, Sibiu et Iasi"
+  },
+  "months": [
+    { "rating": 0, "note": "Hiver froid et enneigé ; ski dans les Carpates." },
+    { "rating": 0, "note": "Comme en janvier." },
+    { "rating": 1, "note": "Fin de l'hiver, villes calmes." },
+    { "rating": 1, "note": "Printemps, Pâques orthodoxe très suivie dans les villages." },
+    { "rating": 2, "note": "Vert et fleuri, idéal pour la Transylvanie." },
+    { "rating": 2, "note": "Très agréable, randonnée dans les Carpates." },
+    { "rating": 2, "note": "Chaud en plaine, parfait en montagne et sur la Transfăgărășan (route ouverte l'été)." },
+    { "rating": 2, "note": "Haute saison, festivals." },
+    { "rating": 2, "note": "Le meilleur compromis : doux, moins de monde, vendanges." },
+    { "rating": 2, "note": "Forêts d'automne flamboyantes." },
+    { "rating": 1, "note": "Gris et frais." },
+    { "rating": 1, "note": "Marchés de Noël à Sibiu et Brasov." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en lei, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (pension ou petit hôtel)", "solo": "180 à 350 lei", "duo": "110 à 220 lei" },
+      { "label": "Repas", "solo": "80 à 160 lei", "duo": "80 à 160 lei" },
+      { "label": "Transports locaux", "solo": "20 à 80 lei", "duo": "15 à 60 lei" },
+      { "label": "Visites et entrées", "solo": "20 à 70 lei", "duo": "20 à 70 lei" }
+    ],
+    "totalSolo": "300 à 660 lei",
+    "totalDuo": "225 à 510 lei",
+    "note": "Un des pays les plus abordables de l'Union européenne. Les pensions de village (pensiune) incluent souvent un copieux petit-déjeuner maison.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "La Roumanie est dans l'Union européenne : un passeport ou une carte d'identité en cours de validité suffit.",
+    "points": [
+      "La Roumanie ne reconnaît pas officiellement la prolongation de 5 ans des cartes d'identité délivrées entre 2004 et 2013 : préfère un passeport valide.",
+      "À défaut, imprime la notice multilingue du ministère de l'Intérieur qui explique cette prolongation."
+    ],
+    "source": { "label": "France Diplomatie, Roumanie, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/roumanie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé. Pense à la carte européenne d'assurance maladie.",
+    "points": [
+      "Carte européenne d'assurance maladie, à demander avant le départ.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Encéphalite à tiques : selon les conditions de séjour (randonnée, forêt).",
+      "Protège-toi des moustiques l'été : la fièvre du Nil occidental circule."
+    ],
+    "source": { "label": "France Diplomatie, Roumanie, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/roumanie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance normale.",
+    "points": [
+      "La Roumanie est en zone sismique. À Bucarest, certains immeubles à fort risque d'effondrement portent une « pastille rouge » sur leur façade.",
+      "Le système d'alerte RO-ALERT envoie des messages sur les téléphones présents dans le pays en cas d'urgence.",
+      "Délinquance de droit commun : vigilance habituelle face aux vols."
+    ],
+    "source": { "label": "France Diplomatie, Roumanie, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/roumanie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "brasov",
+      "name": "Brasov et le château de Bran",
+      "nights": "3 nuits",
+      "for": ["tous", "explorateur"],
+      "summary": "Une ville saxonne au pied des Carpates, base idéale pour les châteaux et les citadelles de Transylvanie.",
+      "sleep": "Dans le centre historique, autour de la place du Conseil.",
+      "see": [
+        { "name": "L'Église noire", "note": "La plus grande église gothique de la région." },
+        { "name": "Le mont Tâmpa", "note": "En téléphérique ou à pied, vue sur les toits." },
+        { "name": "Le château de Bran", "note": "Associé à la légende de Dracula, à 30 minutes." }
+      ],
+      "hidden": [
+        { "name": "La citadelle paysanne de Prejmer", "note": "Une église fortifiée classée à l'Unesco, souvent plus calme que Bran." },
+        { "name": "Le château de Peleș", "note": "À Sinaia, un château royal richement décoré." }
+      ],
+      "eat": "Les sarmale (chou farci) et les papanași (beignets à la crème et à la confiture).",
+      "getAround": "À pied, et en bus ou voiture pour Bran et Sinaia.",
+      "tip": "Les ours sont présents dans les Carpates, parfois jusqu'aux abords des villes : ne les nourris jamais et respecte les consignes locales."
+    },
+    {
+      "slug": "sibiu",
+      "name": "Sibiu et Sighișoara",
+      "nights": "2 à 3 nuits",
+      "for": ["lent", "tous"],
+      "summary": "Deux joyaux saxons : Sibiu et ses toits « à yeux », Sighișoara et sa citadelle médiévale habitée.",
+      "sleep": "Dans la vieille ville de Sibiu, ou dans la citadelle de Sighișoara.",
+      "see": [
+        { "name": "La Grande Place de Sibiu", "note": "Et le pont des Menteurs." },
+        { "name": "La citadelle de Sighișoara", "note": "Classée à l'Unesco, avec sa tour de l'Horloge." },
+        { "name": "Les églises fortifiées saxonnes", "note": "Biertan et Viscri, entre les deux villes." }
+      ],
+      "hidden": [
+        { "name": "Le musée en plein air ASTRA", "note": "Des maisons traditionnelles dans une forêt, près de Sibiu." }
+      ],
+      "eat": "La ciorbă (soupe aigre) et le fromage de montagne.",
+      "getAround": "Train ou bus entre les villes, voiture pour les villages saxons.",
+      "tip": "Dors une nuit à Viscri ou Biertan pour voir les villages saxons au calme."
+    },
+    {
+      "slug": "bucarest",
+      "name": "Bucarest",
+      "nights": "2 nuits",
+      "for": ["energique", "stratege"],
+      "summary": "Une capitale de contrastes, entre églises orthodoxes, architecture Belle Époque et démesure de l'ère Ceaușescu.",
+      "sleep": "Dans la vieille ville (Lipscani) ou près de la place de la Révolution.",
+      "see": [
+        { "name": "Le palais du Parlement", "note": "L'un des plus grands bâtiments du monde, visite guidée sur réservation avec pièce d'identité." },
+        { "name": "La librairie Cărturești Carusel", "note": "Une librairie dans un bâtiment restauré tout blanc." },
+        { "name": "Le musée du Village", "note": "Des maisons traditionnelles de tout le pays." }
+      ],
+      "hidden": [
+        { "name": "Le passage Macca-Vilacrosse", "note": "Une galerie couverte Belle Époque." }
+      ],
+      "eat": "Les mici (petites saucisses grillées) avec une bière locale.",
+      "getAround": "Métro, VTC par application.",
+      "tip": "Un ou deux jours suffisent : la Transylvanie est le cœur du voyage."
+    },
+    {
+      "slug": "maramures-bucovine",
+      "name": "Maramureș et Bucovine",
+      "nights": "3 à 4 nuits",
+      "for": ["explorateur", "lent"],
+      "summary": "Le nord rural : églises en bois au clocher effilé, monastères aux fresques extérieures et traditions encore vivantes.",
+      "sleep": "Dans une pension familiale de village.",
+      "see": [
+        { "name": "Les églises en bois du Maramureș", "note": "Classées à l'Unesco, comme Bârsana ou Surdești." },
+        { "name": "Le cimetière joyeux de Săpânța", "note": "Des croix peintes de couleurs vives et d'épitaphes humoristiques." },
+        { "name": "Les monastères peints de Bucovine", "note": "Voroneț et son bleu, Sucevița, Moldovița." }
+      ],
+      "hidden": [
+        { "name": "Le train à vapeur de la Vaser", "note": "Une ligne forestière à Vișeu de Sus." }
+      ],
+      "eat": "La cuisine des pensions : soupes, mămăligă (polenta), țuică (eau-de-vie de prune).",
+      "getAround": "Voiture indispensable.",
+      "tip": "Dans les monastères, épaules et jambes couvertes ; des jupes sont souvent prêtées à l'entrée."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "La Transylvanie essentielle",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jour 1", "place": "Bucarest", "note": "Arrivée." },
+        { "days": "Jours 2 à 4", "place": "Brasov", "note": "Bran, Peleș, Prejmer." },
+        { "days": "Jour 5", "place": "Sighișoara", "note": "Et Viscri." },
+        { "days": "Jours 6 et 7", "place": "Sibiu", "note": "Retour depuis Sibiu." }
+      ]
+    },
+    {
+      "days": 12,
+      "title": "Le grand tour roumain",
+      "for": ["explorateur", "lent"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Bucarest", "note": "Arrivée." },
+        { "days": "Jours 3 à 5", "place": "Brasov", "note": "Châteaux et citadelles." },
+        { "days": "Jours 6 et 7", "place": "Sighișoara et Sibiu", "note": "Villages saxons." },
+        { "days": "Jours 8 à 10", "place": "Maramureș", "note": "Églises en bois." },
+        { "days": "Jours 11 et 12", "place": "Bucovine", "note": "Monastères peints, retour depuis Suceava ou Iasi." }
+      ]
+    },
+    {
+      "days": 4,
+      "title": "Un long week-end saxon",
+      "for": ["energique"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Sibiu", "note": "Vol direct." },
+        { "days": "Jours 3 et 4", "place": "Sighișoara et Brasov", "note": "Retour depuis Brasov ou Sibiu." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "En voiture", "text": "Le plus libre pour les villages. Routes parfois lentes, charrettes et animaux sur la chaussée. Vignette (rovinietă) obligatoire." },
+    { "title": "Le train", "text": "Bon marché mais lent ; pratique entre Bucarest, Brasov et Sibiu." },
+    { "title": "Les bus et minibus", "text": "Ils complètent le train entre les villes." }
+  ],
+  "culture": [
+    "Le roumain est une langue latine : beaucoup de mots te sembleront familiers.",
+    "Pays très majoritairement orthodoxe : tenue correcte dans les églises.",
+    "On offre souvent un verre de țuică aux invités, souvent fait maison."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Bună ziua", "say": "bouneu zioua" },
+    { "fr": "Merci", "local": "Mulțumesc", "say": "moultsoumesk" },
+    { "fr": "Santé !", "local": "Noroc!", "say": "norok" }
+  ],
+  "checklist": [
+    "Passeport valide (conseillé si ta carte d'identité a été prolongée)",
+    "Carte européenne d'assurance maladie",
+    "Vignette routière si tu loues une voiture",
+    "Chaussures de randonnée pour les Carpates",
+    "Répulsif contre les tiques et les moustiques",
+    "Tenue couvrante pour les monastères"
+  ],
+  "faq": [
+    { "q": "La carte d'identité suffit-elle pour la Roumanie ?", "a": "Oui, si elle est en cours de validité. Mais la Roumanie ne reconnaît pas la prolongation de 5 ans des cartes délivrées entre 2004 et 2013 : dans ce cas, prends un passeport." },
+    { "q": "La Roumanie est-elle sûre ?", "a": "Oui, tout le pays est en vigilance normale. Le principal risque naturel est sismique." },
+    { "q": "Quand partir en Roumanie ?", "a": "De mai à octobre. Septembre est idéal : doux et moins fréquenté. La route Transfăgărășan n'est ouverte qu'en été." },
+    { "q": "Quel budget pour une semaine en Roumanie ?", "a": "Compte environ 300 à 660 lei par jour seul et 225 à 510 lei par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}
