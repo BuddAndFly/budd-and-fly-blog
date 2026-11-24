@@ -1,0 +1,250 @@
+{
+  "name": "Cambodge",
+  "prep": "au Cambodge",
+  "kind": "pays",
+  "continent": "Asie",
+  "priority": 30,
+  "status": "brouillon",
+  "updatedAt": "2026-11-24",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Cambodge : visa, Angkor, quand partir, budget",
+    "description": "Préparer un voyage au Cambodge : visa, temples d'Angkor, meilleure saison, budget seul ou à deux, Phnom Penh, Kampot, les îles, zones à éviter. PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Cambodge se visite idéalement de novembre à février, pendant la saison sèche et fraîche. Un visa est obligatoire, en ligne ou à l'arrivée, et une assurance hospitalisation et rapatriement est exigée. Les temples d'Angkor méritent au moins trois jours ; la zone frontalière avec la Thaïlande est formellement déconseillée.",
+  "essentials": {
+    "bestPeriod": "Novembre à février",
+    "languages": "Khmer (anglais dans les lieux touristiques, un peu de français chez les plus âgés)",
+    "currency": "Riel (KHR) ; le dollar américain est utilisé partout",
+    "timeDiff": "+6 h en hiver, +5 h en été",
+    "plugs": "Types A, C et G, 230 V : adaptateur conseillé",
+    "emergency": "Police 117 · Pompiers 118 · Ambulance 119",
+    "flight": "Pas de vol direct : compte 14 à 16 h avec une escale"
+  },
+  "months": [
+    { "rating": 2, "note": "Sec et relativement frais : la meilleure période, et la plus fréquentée à Angkor." },
+    { "rating": 2, "note": "Toujours sec, la chaleur monte doucement." },
+    { "rating": 1, "note": "Chaud et sec, Angkor écrasé de chaleur l'après-midi." },
+    { "rating": 0, "note": "Le mois le plus chaud. Mi-avril, Nouvel An khmer : beaucoup de commerces ferment." },
+    { "rating": 0, "note": "Chaleur lourde, premières pluies." },
+    { "rating": 1, "note": "Saison des pluies : averses courtes, Angkor vert et beaucoup moins fréquenté." },
+    { "rating": 1, "note": "Comme en juin. Les douves et bassins d'Angkor se remplissent." },
+    { "rating": 1, "note": "Pluies régulières, paysages luxuriants." },
+    { "rating": 0, "note": "Pic des pluies, routes parfois inondées." },
+    { "rating": 0, "note": "Inondations possibles. Fin des pluies en fin de mois." },
+    { "rating": 2, "note": "Retour du sec, campagnes encore vertes. Fête des eaux à Phnom Penh selon le calendrier." },
+    { "rating": 2, "note": "Sec et agréable, haute saison." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols et visa. Le dollar est utilisé partout, la monnaie est rendue en riels.",
+    "rows": [
+      { "label": "Hébergement (guesthouse ou petit hôtel)", "solo": "20 à 50 $", "duo": "13 à 30 $" },
+      { "label": "Repas", "solo": "10 à 20 $", "duo": "10 à 20 $" },
+      { "label": "Transports (tuk-tuk, bus)", "solo": "5 à 15 $", "duo": "4 à 10 $" },
+      { "label": "Visites et entrées", "solo": "5 à 25 $", "duo": "5 à 25 $" }
+    ],
+    "totalSolo": "40 à 110 $",
+    "totalDuo": "32 à 85 $",
+    "note": "Le pass pour les temples d'Angkor (1, 3 ou 7 jours) est le poste le plus important. Un tuk-tuk avec chauffeur à la journée pour Angkor se partage : à deux, c'est nettement plus avantageux.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Un visa est obligatoire. Le passeport doit être valable au moins 6 mois après la fin du visa, et une assurance hospitalisation et rapatriement est indispensable.",
+    "points": [
+      "Visa touristique en ligne uniquement sur le site officiel du gouvernement cambodgien, ou à l'arrivée aux aéroports de Phnom Penh et Siem Reap.",
+      "À l'arrivée, remplis d'abord le formulaire de l'application Cambodia e-arrival pour obtenir un QR code.",
+      "Le visa à l'arrivée se paie en espèces, en dollars (environ 40 USD) : la carte bancaire n'est pas toujours acceptée.",
+      "Le visa touristique peut être prolongé une seule fois d'un mois.",
+      "Les postes-frontières terrestres avec la Thaïlande sont actuellement fermés."
+    ],
+    "source": { "label": "France Diplomatie, Cambodge, Entrée / séjour (mise à jour du 21 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cambodge/" },
+    "checkedAt": "2026-11-24"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France. La dengue est présente dans tout le pays, y compris à Phnom Penh.",
+    "points": [
+      "Assurance hospitalisation et rapatriement indispensable : l'ambassade ne peut prendre aucun frais en charge.",
+      "Rage : recommandé pour les enfants et les séjours en zone rurale.",
+      "Dengue partout, avec un pic pendant la saison des pluies : répulsif, vêtements couvrants, moustiquaire.",
+      "Paludisme : demande conseil à un médecin, surtout si tu vas dans les zones forestières.",
+      "Mets à jour les vaccins du calendrier français."
+    ],
+    "source": { "label": "France Diplomatie, Cambodge, Santé (mise à jour du 21 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cambodge/" },
+    "checkedAt": "2026-11-24"
+  },
+  "safety": {
+    "text": "Les zones touristiques sont accessibles, mais la bande de 30 km le long de la frontière thaïlandaise est formellement déconseillée malgré le cessez-le-feu de décembre 2025.",
+    "points": [
+      "Formellement déconseillée : la zone jusqu'à 30 km de la frontière thaïlandaise. Toute visite touristique y est à proscrire, y compris des temples frontaliers comme Preah Vihear.",
+      "À Phnom Penh, Siem Reap et Sihanoukville, prudence la nuit, surtout à pied, en tuk-tuk ou en moto-taxi : vols à l'arraché fréquents.",
+      "Accidents de deux-roues très fréquents : casque obligatoire, et assurance couvrant aussi les dommages causés aux autres.",
+      "Suis régulièrement les consignes des autorités, la situation frontalière reste fragile."
+    ],
+    "source": { "label": "France Diplomatie, Cambodge, Sécurité (mise à jour du 21 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cambodge/" },
+    "checkedAt": "2026-11-24"
+  },
+  "cities": [
+    {
+      "slug": "siem-reap",
+      "name": "Siem Reap et Angkor",
+      "nights": "3 à 4 nuits",
+      "for": ["tous", "stratege", "lent"],
+      "summary": "La porte d'Angkor, le plus grand ensemble religieux du monde, avec des centaines de temples dans la jungle.",
+      "sleep": "Dans le centre de Siem Reap, près du marché, ou au calme le long de la rivière.",
+      "see": [
+        { "name": "Angkor Vat", "note": "Au lever du soleil, puis visite quand la foule repart déjeuner." },
+        { "name": "Le Bayon et Angkor Thom", "note": "Les 216 visages sculptés du Bayon." },
+        { "name": "Ta Prohm", "note": "Le temple envahi par les racines des fromagers." }
+      ],
+      "hidden": [
+        { "name": "Banteay Srei", "note": "Un petit temple de grès rose finement sculpté, à 40 minutes." },
+        { "name": "Beng Mealea", "note": "Un temple en ruines presque sauvage, à 1 h 30." }
+      ],
+      "eat": "L'amok (curry de poisson cuit dans une feuille de bananier) et le lok lak.",
+      "getAround": "Tuk-tuk avec chauffeur à la journée, ou vélo électrique pour le petit circuit.",
+      "tip": "Le pass Angkor s'achète uniquement au guichet officiel ou en ligne : garde-le sur toi, il est contrôlé à chaque temple."
+    },
+    {
+      "slug": "phnom-penh",
+      "name": "Phnom Penh",
+      "nights": "2 nuits",
+      "for": ["stratege", "energique"],
+      "summary": "La capitale au confluent du Mékong et du Tonlé Sap : palais royal, marchés et mémoire de la période khmère rouge.",
+      "sleep": "Près du quai Sisowath ou du quartier BKK1.",
+      "see": [
+        { "name": "Le palais royal et la pagode d'Argent", "note": "Tenue couvrante obligatoire." },
+        { "name": "Le musée du génocide de Tuol Sleng (S-21)", "note": "Dur mais essentiel, avec un audioguide." },
+        { "name": "Le Marché central", "note": "Un bâtiment Art déco en forme de dôme." }
+      ],
+      "hidden": [
+        { "name": "L'île de la Soie (Koh Dach)", "note": "Des villages de tisserands, à vélo, en face de la ville." }
+      ],
+      "eat": "Le petit déjeuner khmer : bai sach chrouk (porc grillé et riz).",
+      "getAround": "Tuk-tuk par application, au prix affiché.",
+      "tip": "Garde ton téléphone loin de la chaussée : les vols depuis un scooter sont fréquents."
+    },
+    {
+      "slug": "kampot",
+      "name": "Kampot et Kep",
+      "nights": "2 à 3 nuits",
+      "for": ["lent", "tous"],
+      "summary": "Une petite ville coloniale au bord d'une rivière, ses plantations de poivre, et Kep, réputée pour son marché au crabe.",
+      "sleep": "Au bord de la rivière à Kampot.",
+      "see": [
+        { "name": "Les plantations de poivre de Kampot", "note": "Visite et dégustation d'un poivre réputé." },
+        { "name": "Le parc national de Bokor", "note": "Une ancienne station coloniale dans la brume, sur la montagne." },
+        { "name": "Le marché au crabe de Kep", "note": "Crabe au poivre vert les pieds dans l'eau." }
+      ],
+      "hidden": [
+        { "name": "Le coucher de soleil sur la rivière", "note": "En kayak ou en petit bateau." }
+      ],
+      "eat": "Le crabe au poivre vert de Kep.",
+      "getAround": "Tuk-tuk, scooter avec casque, minibus depuis Phnom Penh (3 h).",
+      "tip": "Kampot est idéale pour ralentir quelques jours après Angkor."
+    },
+    {
+      "slug": "koh-rong",
+      "name": "Les îles (Koh Rong)",
+      "nights": "3 nuits",
+      "for": ["lent", "energique"],
+      "summary": "Des îles aux plages de sable blanc et à l'eau claire, encore peu construites.",
+      "sleep": "À Koh Rong Samloem pour le calme, à Koh Rong pour l'ambiance.",
+      "see": [
+        { "name": "La plage de Saracen Bay", "note": "Sur Koh Rong Samloem." },
+        { "name": "Le plancton bioluminescent", "note": "La nuit, l'eau scintille quand on y nage." },
+        { "name": "Le snorkeling", "note": "Autour des petites îles." }
+      ],
+      "hidden": [],
+      "eat": "Poissons grillés sur la plage.",
+      "getAround": "Bateaux rapides depuis Sihanoukville.",
+      "tip": "Ne t'attarde pas à Sihanoukville, en chantier permanent : prends directement le bateau."
+    },
+    {
+      "slug": "battambang",
+      "name": "Battambang",
+      "nights": "2 nuits",
+      "for": ["explorateur", "lent"],
+      "summary": "La deuxième ville du pays, coloniale et paisible, entourée de campagnes et de temples sur les collines.",
+      "sleep": "Dans le centre, près de la rivière.",
+      "see": [
+        { "name": "Le bambou train", "note": "Une plateforme sur rails à travers les rizières." },
+        { "name": "Phnom Sampeau", "note": "Grottes, temples et la sortie de millions de chauves-souris au coucher du soleil." },
+        { "name": "Le cirque Phare Ponleu Selpak", "note": "Un cirque social réputé, le soir." }
+      ],
+      "hidden": [],
+      "eat": "Les petits restaurants du marché.",
+      "getAround": "Tuk-tuk avec chauffeur à la journée.",
+      "tip": "La frontière thaïlandaise n'est pas loin : ne t'en approche pas à moins de 30 km."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Angkor, Phnom Penh et la côte",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Siem Reap et Angkor", "note": "Pass de 3 jours." },
+        { "days": "Jours 5 et 6", "place": "Phnom Penh", "note": "En bus ou vol intérieur." },
+        { "days": "Jours 7 à 10", "place": "Kampot et Kep", "note": "Retour par Phnom Penh." }
+      ]
+    },
+    {
+      "days": 14,
+      "title": "Le grand tour",
+      "for": ["explorateur", "lent"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Siem Reap", "note": "Angkor, Banteay Srei, Beng Mealea." },
+        { "days": "Jours 5 et 6", "place": "Battambang", "note": "Bateau sur le Tonlé Sap selon la saison." },
+        { "days": "Jours 7 et 8", "place": "Phnom Penh", "note": "Histoire et marchés." },
+        { "days": "Jours 9 à 11", "place": "Kampot et Kep", "note": "Poivre et crabe." },
+        { "days": "Jours 12 à 14", "place": "Koh Rong Samloem", "note": "Plages avant le retour." }
+      ]
+    },
+    {
+      "days": 7,
+      "title": "Cambodge express",
+      "for": ["energique"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Siem Reap", "note": "Les temples principaux." },
+        { "days": "Jours 5 à 7", "place": "Phnom Penh", "note": "Retour depuis la capitale." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les bus", "text": "Bus et minibus relient les grandes villes. Choisis des compagnies reconnues et voyage de jour." },
+    { "title": "Les vols intérieurs", "text": "Entre Siem Reap et Phnom Penh, pour gagner du temps." },
+    { "title": "Le tuk-tuk", "text": "Le moyen de transport roi. Utilise les applications pour connaître le prix à l'avance." },
+    { "title": "Le deux-roues", "text": "Casque obligatoire, accidents fréquents : évite-le sans expérience." }
+  ],
+  "culture": [
+    "Dans les temples et le palais royal, épaules et genoux couverts.",
+    "Ne touche pas la tête des gens et ne montre pas les objets avec les pieds.",
+    "Le salut traditionnel, mains jointes (« sampeah »), est très apprécié.",
+    "Demande avant de photographier les moines et les habitants.",
+    "Garde toujours des petits billets de dollars propres et non déchirés : les billets abîmés sont refusés."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "ជម្រាបសួរ", "say": "tchom riep sour" },
+    { "fr": "Merci", "local": "អរគុណ", "say": "ar kounn" },
+    { "fr": "Combien ?", "local": "ថ្លៃប៉ុន្មាន", "say": "tlaï pon man" }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois après la fin du visa",
+    "Visa en ligne sur le site officiel, ou dollars en espèces pour le visa à l'arrivée",
+    "Formulaire Cambodia e-arrival rempli avant l'arrivée",
+    "Assurance hospitalisation et rapatriement",
+    "Répulsif anti-moustiques",
+    "Petits billets de dollars en bon état",
+    "Tenue couvrante pour les temples",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour le Cambodge ?", "a": "Oui. Il s'obtient en ligne sur le site officiel du gouvernement cambodgien, ou à l'arrivée aux aéroports de Phnom Penh et Siem Reap (environ 40 USD en espèces), après avoir rempli le formulaire Cambodia e-arrival." },
+    { "q": "Combien de jours pour Angkor ?", "a": "Au moins trois jours pour voir les grands temples sans courir, avec le pass de 3 jours. Cinq jours permettent d'ajouter Banteay Srei et Beng Mealea." },
+    { "q": "Le Cambodge est-il sûr ?", "a": "Les zones touristiques sont accessibles, avec une prudence particulière la nuit dans les villes. La bande de 30 km le long de la frontière thaïlandaise est formellement déconseillée." },
+    { "q": "Quel budget pour deux semaines au Cambodge ?", "a": "Compte environ 40 à 110 $ par jour seul et 32 à 85 $ par personne à deux, hors vols, visa et pass d'Angkor. Ces montants sont des estimations à vérifier." }
+  ]
+}
