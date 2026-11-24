@@ -1,0 +1,225 @@
+{
+  "name": "Géorgie",
+  "prep": "en Géorgie",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 35,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Géorgie : quand partir, budget, Tbilissi, Caucase",
+    "description": "Préparer un voyage en Géorgie : sans visa, meilleure saison, budget seul ou à deux, Tbilissi, Kazbegi, la Kakhétie, la Svanétie, zones à éviter. PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Géorgie se visite de mai à octobre, quand les routes de montagne du Caucase sont ouvertes ; septembre-octobre ajoute les vendanges. Pas de visa pour moins d'un an, avec un passeport ou une carte d'identité valable pendant tout le séjour. Tbilissi, les montagnes de Kazbegi et les vignobles de Kakhétie forment un premier voyage très complet.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Géorgien (russe et anglais compris)",
+    "currency": "Lari (GEL)",
+    "timeDiff": "+3 h en hiver, +2 h en été",
+    "plugs": "Types C et F, 220 V : comme en France",
+    "emergency": "112",
+    "flight": "Environ 5 h depuis Paris pour Tbilissi ou Koutaïssi (vols directs selon la saison)"
+  },
+  "months": [
+    { "rating": 1, "note": "Hiver : Tbilissi se visite, ski à Goudaouri, routes de montagne parfois fermées." },
+    { "rating": 1, "note": "Comme en janvier." },
+    { "rating": 1, "note": "Le printemps arrive en plaine, neige en altitude." },
+    { "rating": 1, "note": "Doux en ville, vergers en fleurs, montagnes encore enneigées." },
+    { "rating": 2, "note": "Vert, fleuri, idéal pour Tbilissi et la Kakhétie." },
+    { "rating": 2, "note": "Les routes de montagne ouvrent, excellent mois." },
+    { "rating": 2, "note": "Le meilleur moment pour la Svanétie et la randonnée. Chaud à Tbilissi." },
+    { "rating": 2, "note": "Haute montagne accessible, beaucoup de randonneurs." },
+    { "rating": 2, "note": "Vendanges en Kakhétie (rtveli), températures idéales." },
+    { "rating": 2, "note": "Couleurs d'automne, encore doux en plaine." },
+    { "rating": 1, "note": "Plus frais, premières neiges en montagne." },
+    { "rating": 1, "note": "Hiver, ambiance de fêtes à Tbilissi." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en laris, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (guesthouse ou petit hôtel)", "solo": "100 à 200 ₾", "duo": "60 à 120 ₾" },
+      { "label": "Repas", "solo": "40 à 80 ₾", "duo": "40 à 80 ₾" },
+      { "label": "Transports locaux (marchroutka, taxi)", "solo": "10 à 40 ₾", "duo": "10 à 30 ₾" },
+      { "label": "Visites et entrées", "solo": "5 à 30 ₾", "duo": "5 à 30 ₾" }
+    ],
+    "totalSolo": "155 à 350 ₾",
+    "totalDuo": "115 à 260 ₾",
+    "note": "La Géorgie reste très abordable. Les maisons d'hôtes familiales des montagnes incluent souvent le dîner. Un chauffeur pour la journée se partage facilement.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour un séjour d'un an maximum. Il faut un passeport ou une carte d'identité sécurisée, valable pendant tout le séjour.",
+    "points": [
+      "Les cartes d'identité 2004-2013 prolongées de 5 ans posent problème : préfère un passeport valide.",
+      "L'entrée peut être refusée, même à des résidents, notamment pour participation à des manifestations en Géorgie ou en raison d'une activité sur les réseaux sociaux. De lourdes amendes peuvent être exigées.",
+      "Entrer en Abkhazie ou en Ossétie du Sud depuis la Russie expose à des poursuites pénales en Géorgie."
+    ],
+    "source": { "label": "France Diplomatie, Géorgie, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/georgie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France. La Géorgie n'est pas dans l'Union européenne : prends une assurance voyage.",
+    "points": [
+      "Assurance couvrant frais médicaux et rapatriement, et les secours en montagne si tu randonnes.",
+      "Rage : recommandé pour les enfants et les séjours en zone rurale. Les chiens errants sont nombreux.",
+      "Protège-toi des moustiques en été."
+    ],
+    "source": { "label": "France Diplomatie, Géorgie, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/georgie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Le pays, Tbilissi compris, ne pose pas de problème de sécurité majeur. Mais l'Abkhazie et l'Ossétie du Sud, contrôlées par des troupes russes, sont formellement déconseillées.",
+    "points": [
+      "Formellement déconseillées : l'Abkhazie, l'Ossétie du Sud et les zones proches, aux limites pas toujours visibles sur le terrain. Risque d'arrestation, et aucune aide possible de l'ambassade.",
+      "Formellement déconseillé : se rendre en Russie, y compris par le poste-frontière de Lars près de Kazbegi.",
+      "Vols et cambriolages existent comme partout : vigilance habituelle.",
+      "Dans la vallée de Pankissi, respecte les usages vestimentaires (vêtements longs, épaules couvertes).",
+      "Reste à l'écart des manifestations politiques."
+    ],
+    "source": { "label": "France Diplomatie, Géorgie, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/georgie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "tbilissi",
+      "name": "Tbilissi",
+      "nights": "3 nuits",
+      "for": ["tous", "energique", "explorateur"],
+      "summary": "Une capitale aux balcons de bois sculpté, aux bains de soufre et aux églises anciennes, avec une scène nocturne réputée.",
+      "sleep": "Dans la vieille ville (Abanotubani, Sololaki).",
+      "see": [
+        { "name": "La forteresse de Narikala", "note": "En téléphérique, vue sur la ville." },
+        { "name": "Les bains de soufre d'Abanotubani", "note": "Sous les coupoles de briques, en cabine privée." },
+        { "name": "La vieille ville", "note": "Balcons de bois, cours intérieures et églises." }
+      ],
+      "hidden": [
+        { "name": "Fabrika", "note": "Une ancienne usine devenue lieu de vie, cafés et ateliers." },
+        { "name": "Mtskheta", "note": "L'ancienne capitale religieuse, à 30 minutes, classée à l'Unesco." }
+      ],
+      "eat": "Le khatchapouri (pain au fromage), les khinkali (raviolis) et le vin en jarre (qvevri).",
+      "getAround": "Métro, VTC par application et marche.",
+      "tip": "Les khinkali se mangent à la main, en les tenant par le nœud, qu'on laisse dans l'assiette."
+    },
+    {
+      "slug": "kazbegi",
+      "name": "Kazbegi (Stepantsminda)",
+      "nights": "2 nuits",
+      "for": ["explorateur", "tous"],
+      "summary": "Une église perchée face au mont Kazbek (5 054 m), par la spectaculaire route militaire géorgienne.",
+      "sleep": "Dans une maison d'hôtes du village, avec vue sur le Kazbek.",
+      "see": [
+        { "name": "L'église de la Trinité de Guergueti", "note": "À 2 170 m, à pied ou en 4x4." },
+        { "name": "La route militaire géorgienne", "note": "La forteresse d'Ananouri et le monument de l'Amitié sur la route." },
+        { "name": "La vallée de Juta", "note": "Une randonnée vers des sommets et un lac glaciaire." }
+      ],
+      "hidden": [
+        { "name": "La vallée de Truso", "note": "Sources minérales et villages abandonnés." }
+      ],
+      "eat": "Les plats de montagne des maisons d'hôtes.",
+      "getAround": "Marchroutka ou taxi partagé depuis Tbilissi (3 h environ).",
+      "tip": "Ne t'approche pas du poste-frontière russe de Lars, tout proche : la Russie est formellement déconseillée."
+    },
+    {
+      "slug": "kakhetie",
+      "name": "La Kakhétie (Sighnaghi)",
+      "nights": "2 nuits",
+      "for": ["lent"],
+      "summary": "La région du vin, berceau de 8 000 ans de viticulture, avec ses monastères et le village perché de Sighnaghi.",
+      "sleep": "À Sighnaghi ou dans une maison de vigneron.",
+      "see": [
+        { "name": "Sighnaghi", "note": "Remparts et vue sur la vallée de l'Alazani et le Caucase." },
+        { "name": "Le monastère de Bodbe", "note": "Tout près de Sighnaghi." },
+        { "name": "Une dégustation de vin en qvevri", "note": "Vin vinifié dans de grandes jarres enterrées." }
+      ],
+      "hidden": [
+        { "name": "Le monastère de David Gareja", "note": "Des grottes monastiques dans un paysage semi-désertique, près de la frontière azerbaïdjanaise." }
+      ],
+      "eat": "Le mtsvadi (brochettes) et le churchkhela (noix enrobées de jus de raisin).",
+      "getAround": "Marchroutka ou chauffeur depuis Tbilissi.",
+      "tip": "Le « supra », banquet géorgien, est rythmé par les toasts du tamada : prends ton temps."
+    },
+    {
+      "slug": "svanetie",
+      "name": "La Svanétie (Mestia)",
+      "nights": "3 à 4 nuits",
+      "for": ["explorateur"],
+      "summary": "Une haute vallée du Caucase aux villages de tours de défense médiévales, parmi les plus belles randonnées d'Europe.",
+      "sleep": "Dans les maisons d'hôtes de Mestia ou d'Ushguli.",
+      "see": [
+        { "name": "Ushguli", "note": "L'un des villages habités les plus hauts d'Europe, au pied du Shkhara." },
+        { "name": "Le trek Mestia-Ushguli", "note": "4 jours de village en village, de juin à septembre." },
+        { "name": "Le glacier de Chalaadi", "note": "Une randonnée facile depuis Mestia." }
+      ],
+      "hidden": [],
+      "eat": "Le kubdari, pain fourré à la viande épicée.",
+      "getAround": "Marchroutka depuis Zougdidi ou vol depuis Tbilissi selon la météo.",
+      "tip": "La route est longue et sinueuse : prévois au moins quatre nuits pour en profiter."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Tbilissi, montagne et vin",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Tbilissi", "note": "Et Mtskheta." },
+        { "days": "Jours 4 et 5", "place": "Kazbegi", "note": "Par la route militaire." },
+        { "days": "Jours 6 et 7", "place": "Kakhétie", "note": "Retour par Tbilissi." }
+      ]
+    },
+    {
+      "days": 12,
+      "title": "Le Caucase en grand",
+      "for": ["explorateur", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Tbilissi", "note": "Arrivée." },
+        { "days": "Jours 4 et 5", "place": "Kazbegi", "note": "Randonnées." },
+        { "days": "Jours 6 à 10", "place": "Svanétie", "note": "Trek Mestia-Ushguli." },
+        { "days": "Jours 11 et 12", "place": "Koutaïssi", "note": "Monastère de Guélati, retour depuis Koutaïssi." }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Tbilissi et les vignes",
+      "for": ["lent", "stratege"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Tbilissi", "note": "Bains, vieille ville, Mtskheta." },
+        { "days": "Jours 4 et 5", "place": "Sighnaghi", "note": "Dégustations." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les marchroutkas", "text": "Minibus bon marché qui relient tout le pays, sans grand confort." },
+    { "title": "Chauffeur ou taxi partagé", "text": "Courant et abordable, surtout à plusieurs, pour les routes de montagne." },
+    { "title": "Le train", "text": "Tbilissi-Batoumi et Tbilissi-Koutaïssi, train de nuit vers Zougdidi pour la Svanétie." },
+    { "title": "En voiture", "text": "Conduite parfois agressive et routes de montagne exigeantes." }
+  ],
+  "culture": [
+    "L'hospitalité est sacrée : un invité est « un cadeau de Dieu ».",
+    "Dans les églises, femmes avec foulard et jupe (souvent prêtés), hommes en pantalon.",
+    "Les toasts au vin sont nombreux et codifiés lors des repas."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "გამარჯობა", "say": "gamardjoba" },
+    { "fr": "Merci", "local": "მადლობა", "say": "madloba" },
+    { "fr": "Santé !", "local": "გაუმარჯოს", "say": "gaoumardjos" }
+  ],
+  "checklist": [
+    "Passeport ou carte d'identité sécurisée valable pendant tout le séjour",
+    "Assurance voyage avec rapatriement et secours en montagne",
+    "Chaussures de randonnée",
+    "Foulard et tenue couvrante pour les églises",
+    "Ne pas approcher de l'Abkhazie, de l'Ossétie du Sud ni de la frontière russe",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour la Géorgie ?", "a": "Non, pour un séjour d'un an maximum. Il faut un passeport ou une carte d'identité sécurisée valable pendant tout le séjour." },
+    { "q": "La Géorgie est-elle sûre ?", "a": "Oui, le pays ne pose pas de problème majeur de sécurité. L'Abkhazie, l'Ossétie du Sud et la Russie voisine sont en revanche formellement déconseillées." },
+    { "q": "Quand partir en Géorgie ?", "a": "De mai à octobre. Juillet et août pour la haute montagne (Svanétie), septembre-octobre pour les vendanges en Kakhétie." },
+    { "q": "Quel budget pour une semaine en Géorgie ?", "a": "Compte environ 155 à 350 ₾ par jour seul et 115 à 260 ₾ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

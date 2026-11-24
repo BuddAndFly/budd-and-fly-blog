@@ -1,0 +1,224 @@
+{
+  "name": "Ouzbékistan",
+  "prep": "en Ouzbékistan",
+  "kind": "pays",
+  "continent": "Asie",
+  "priority": 36,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Ouzbékistan : Route de la soie, visa, budget",
+    "description": "Préparer un voyage en Ouzbékistan : 30 jours sans visa, enregistrement, meilleure saison, budget, Tachkent, Samarcande, Boukhara, Khiva. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "L'Ouzbékistan, au cœur de la Route de la soie, se visite au printemps (avril-mai) et à l'automne (septembre-octobre) : l'été est brûlant, l'hiver glacial. Pas de visa pour 30 jours, avec un passeport valable 6 mois après le retour. Les trains rapides relient Tachkent, Samarcande et Boukhara en quelques heures.",
+  "essentials": {
+    "bestPeriod": "Avril-mai, septembre-octobre",
+    "languages": "Ouzbek (russe très parlé, anglais limité)",
+    "currency": "Soum (UZS)",
+    "timeDiff": "+4 h en hiver, +3 h en été",
+    "plugs": "Types C et F, 220 V : comme en France",
+    "emergency": "Pompiers 101 · Police 102 · Ambulance 103",
+    "flight": "Environ 6 h 30 en vol direct depuis Paris pour Tachkent"
+  },
+  "months": [
+    { "rating": 0, "note": "Hiver très froid, monuments sous la neige, beaucoup de sites calmes mais peu agréables." },
+    { "rating": 0, "note": "Comme en janvier." },
+    { "rating": 1, "note": "Le printemps arrive, Navrouz (Nouvel An perse) le 21 mars." },
+    { "rating": 2, "note": "Le meilleur mois : doux, vergers en fleurs." },
+    { "rating": 2, "note": "Chaud mais agréable." },
+    { "rating": 1, "note": "La chaleur s'installe, visites tôt le matin." },
+    { "rating": 0, "note": "Souvent plus de 40 °C à Boukhara et Khiva." },
+    { "rating": 0, "note": "Comme en juillet." },
+    { "rating": 2, "note": "La chaleur retombe, marchés pleins de fruits." },
+    { "rating": 2, "note": "Températures idéales, lumière dorée." },
+    { "rating": 1, "note": "Frais, peu de monde." },
+    { "rating": 0, "note": "Froid." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en soums, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (maison d'hôtes ou petit hôtel)", "solo": "400 000 à 900 000 soums", "duo": "250 000 à 550 000 soums" },
+      { "label": "Repas", "solo": "150 000 à 350 000 soums", "duo": "150 000 à 350 000 soums" },
+      { "label": "Transports locaux", "solo": "30 000 à 150 000 soums", "duo": "30 000 à 120 000 soums" },
+      { "label": "Visites et entrées", "solo": "50 000 à 200 000 soums", "duo": "50 000 à 200 000 soums" }
+    ],
+    "totalSolo": "630 000 à 1 600 000 soums",
+    "totalDuo": "480 000 à 1 220 000 soums",
+    "note": "Les trains rapides entre les villes sont abordables mais se réservent tôt. Les maisons d'hôtes familiales dans les vieilles villes sont la meilleure option.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour un séjour de 30 jours maximum. Le passeport doit être valable au moins 6 mois après la date de retour.",
+    "points": [
+      "Les passeports d'urgence et laissez-passer français ne permettent pas d'entrer en Ouzbékistan, seulement d'en sortir.",
+      "Au-delà de 72 heures, le séjour doit être enregistré auprès des services de l'immigration. À l'hôtel ou en maison d'hôtes, l'établissement s'en charge : garde les justificatifs remis.",
+      "Au-delà de 30 jours, un visa est obligatoire."
+    ],
+    "source": { "label": "France Diplomatie, Ouzbékistan, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/ouzbekistan/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France. Protège-toi de la chaleur en été.",
+    "points": [
+      "Rage : recommandé pour les enfants et les séjours en zone rurale.",
+      "Chaleur intense en été : hydratation, visites aux heures fraîches.",
+      "Assurance santé et rapatriement indispensable.",
+      "Bois de l'eau en bouteille."
+    ],
+    "source": { "label": "France Diplomatie, Ouzbékistan, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/ouzbekistan/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "En dehors des zones frontalières, tout le pays est en vigilance renforcée. Les villes de la Route de la soie ne sont pas concernées par les zones déconseillées.",
+    "points": [
+      "Formellement déconseillées : la zone frontalière avec l'Afghanistan, fermée aux étrangers. La ville de Termez est déconseillée sauf raison impérative.",
+      "Frontières tadjike et kirghize : ne t'en approche pas en dehors des postes-frontières officiels, des mines peuvent subsister.",
+      "Garde sur toi les justificatifs d'enregistrement remis par les hôtels."
+    ],
+    "source": { "label": "France Diplomatie, Ouzbékistan, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/ouzbekistan/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "samarcande",
+      "name": "Samarcande",
+      "nights": "3 nuits",
+      "for": ["tous", "stratege"],
+      "summary": "La ville de Tamerlan et ses mosaïques bleues, avec le Registan, l'un des plus beaux ensembles architecturaux du monde islamique.",
+      "sleep": "Près du Registan ou dans la vieille ville.",
+      "see": [
+        { "name": "Le Registan", "note": "Trois médersas face à face, magnifiques au coucher du soleil et illuminées le soir." },
+        { "name": "La nécropole de Shah-i-Zinda", "note": "Une allée de mausolées aux céramiques éblouissantes." },
+        { "name": "Le Gour-Emir", "note": "Le mausolée de Tamerlan." }
+      ],
+      "hidden": [
+        { "name": "Le moulin à papier de Konigil", "note": "Fabrication traditionnelle de papier de soie." }
+      ],
+      "eat": "Le plov (riz aux carottes et à la viande) et le pain rond de Samarcande.",
+      "getAround": "À pied et en taxi par application. Train rapide depuis Tachkent (environ 2 h).",
+      "tip": "Le Registan est encore plus beau tôt le matin, quand les cars ne sont pas arrivés."
+    },
+    {
+      "slug": "boukhara",
+      "name": "Boukhara",
+      "nights": "3 nuits",
+      "for": ["lent", "tous"],
+      "summary": "Une ville-musée de 2 500 ans, ses coupoles commerçantes, ses médersas et son bassin ombragé.",
+      "sleep": "Dans une maison d'hôtes de la vieille ville, près du Lyabi Khaouz.",
+      "see": [
+        { "name": "Le minaret Kalon", "note": "Et l'ensemble Poi-Kalon." },
+        { "name": "La citadelle de l'Ark", "note": "La forteresse des émirs." },
+        { "name": "Le Lyabi Khaouz", "note": "Un bassin entouré de médersas et de salons de thé." }
+      ],
+      "hidden": [
+        { "name": "Le Tchor-Minor", "note": "Une petite porte à quatre minarets, cachée dans un quartier résidentiel." }
+      ],
+      "eat": "Le thé vert dans les maisons de thé au bord du bassin.",
+      "getAround": "À pied : la vieille ville est compacte.",
+      "tip": "Les marchands des coupoles proposent tapis et suzanis : prends le temps de comparer."
+    },
+    {
+      "slug": "khiva",
+      "name": "Khiva",
+      "nights": "2 nuits",
+      "for": ["explorateur", "lent"],
+      "summary": "Une ville entièrement fortifiée en briques ocre, comme figée dans le temps, aux portes du désert.",
+      "sleep": "À l'intérieur des remparts d'Itchan Kala.",
+      "see": [
+        { "name": "Itchan Kala", "note": "La ville intérieure classée à l'Unesco." },
+        { "name": "Le minaret Kalta Minor", "note": "Un minaret inachevé couvert de céramiques turquoise." },
+        { "name": "Les remparts au coucher du soleil", "note": "La vue sur les toits et les minarets." }
+      ],
+      "hidden": [
+        { "name": "Les forteresses du Khorezm", "note": "Les « qala » en ruines dans le désert, en excursion." }
+      ],
+      "eat": "Le shivit oshi, nouilles vertes à l'aneth.",
+      "getAround": "Train ou vol vers Ourguentch, puis taxi (30 minutes).",
+      "tip": "Khiva est loin des autres villes : le train de nuit ou l'avion font gagner du temps."
+    },
+    {
+      "slug": "tachkent",
+      "name": "Tachkent",
+      "nights": "1 à 2 nuits",
+      "for": ["stratege", "energique"],
+      "summary": "La capitale moderne, avec ses stations de métro somptueuses et son grand bazar.",
+      "sleep": "Dans le centre, près de la place Amir Timour.",
+      "see": [
+        { "name": "Le métro", "note": "Des stations décorées comme des palais." },
+        { "name": "Le bazar Tchorsou", "note": "Sous une immense coupole verte." },
+        { "name": "L'ensemble Khast Imam", "note": "Et l'un des plus anciens Corans du monde." }
+      ],
+      "hidden": [],
+      "eat": "Le plov du centre du plov, cuisiné dans d'immenses chaudrons.",
+      "getAround": "Métro et taxis par application.",
+      "tip": "Réserve tes billets de train rapide dès l'arrivée, ils partent vite."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "La Route de la soie",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jour 1", "place": "Tachkent", "note": "Arrivée, métro et bazar." },
+        { "days": "Jours 2 à 4", "place": "Samarcande", "note": "En train rapide." },
+        { "days": "Jours 5 à 7", "place": "Boukhara", "note": "En train rapide." },
+        { "days": "Jour 8", "place": "Retour", "note": "Train vers Tachkent." }
+      ]
+    },
+    {
+      "days": 12,
+      "title": "Les quatre cités",
+      "for": ["explorateur", "lent"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Tachkent", "note": "La capitale." },
+        { "days": "Jours 3 à 5", "place": "Samarcande", "note": "Registan et Shah-i-Zinda." },
+        { "days": "Jours 6 à 8", "place": "Boukhara", "note": "La vieille ville." },
+        { "days": "Jours 9 à 11", "place": "Khiva", "note": "Et les forteresses du désert." },
+        { "days": "Jour 12", "place": "Retour", "note": "Vol d'Ourguentch vers Tachkent." }
+      ]
+    },
+    {
+      "days": 6,
+      "title": "Samarcande et Boukhara",
+      "for": ["energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Samarcande", "note": "Depuis Tachkent." },
+        { "days": "Jours 4 à 6", "place": "Boukhara", "note": "Retour en train." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Le train rapide", "text": "Il relie Tachkent, Samarcande et Boukhara en quelques heures. Réserve à l'avance." },
+    { "title": "Les vols intérieurs", "text": "Utiles pour Khiva (aéroport d'Ourguentch)." },
+    { "title": "Les taxis", "text": "Applications de VTC dans les grandes villes ; taxis partagés entre les villes." }
+  ],
+  "culture": [
+    "Pays majoritairement musulman et laïque : tenue correcte dans les mosquées et médersas.",
+    "Le pain se respecte : on ne le pose jamais à l'envers et on ne le jette pas.",
+    "Le thé est offert partout, accepte-le volontiers."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Assalomu alaykum", "say": "assalomou alaïkoum" },
+    { "fr": "Merci", "local": "Rahmat", "say": "rakhmat" },
+    { "fr": "Combien ?", "local": "Qancha?", "say": "kantcha" }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois après le retour (pas de passeport d'urgence)",
+    "Séjour de 30 jours maximum sans visa",
+    "Justificatifs d'enregistrement remis par les hôtels",
+    "Billets de train rapide réservés tôt",
+    "Assurance santé et rapatriement",
+    "Tenue couvrante pour les mosquées"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour l'Ouzbékistan ?", "a": "Non pour 30 jours maximum. Le passeport doit être valable au moins 6 mois après le retour. Au-delà de 30 jours, un visa est obligatoire." },
+    { "q": "Qu'est-ce que l'enregistrement en Ouzbékistan ?", "a": "Tout séjour de plus de 72 heures doit être enregistré. Les hôtels et maisons d'hôtes s'en chargent : garde bien les justificatifs qu'ils te remettent." },
+    { "q": "Quand partir en Ouzbékistan ?", "a": "En avril-mai et en septembre-octobre. L'été dépasse souvent 40 °C et l'hiver est très froid." },
+    { "q": "Quel budget pour une semaine en Ouzbékistan ?", "a": "Compte environ 630 000 à 1 600 000 soums par jour seul et 480 000 à 1 220 000 soums par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "name": "Oman",
+  "prep": "à Oman",
+  "kind": "pays",
+  "continent": "Moyen-Orient",
+  "priority": 37,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Oman : sécurité, visa, quand partir, road trip",
+    "description": "Préparer un voyage à Oman : visa gratuit 14 jours, zones déconseillées, meilleure saison, budget, Mascate, Nizwa, le désert, les wadis. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Oman se visite d'octobre à mars : le reste de l'année, la chaleur est extrême. Les Français obtiennent un visa gratuit de 14 jours à l'arrivée. Depuis juillet 2026, le contexte régional a fait classer Salalah, Douqm et la péninsule de Moussandam en zones déconseillées sauf raison impérative : le circuit classique Mascate, Nizwa, désert et wadis reste en vigilance renforcée.",
+  "essentials": {
+    "bestPeriod": "Octobre à mars",
+    "languages": "Arabe (anglais très répandu)",
+    "currency": "Rial omanais (OMR)",
+    "timeDiff": "+3 h en hiver, +2 h en été",
+    "plugs": "Type G (trois broches), 240 V : adaptateur nécessaire",
+    "emergency": "9999",
+    "flight": "Environ 7 h depuis Paris pour Mascate, souvent avec une escale"
+  },
+  "months": [
+    { "rating": 2, "note": "Doux et ensoleillé, idéal pour le désert et la randonnée." },
+    { "rating": 2, "note": "Le meilleur moment pour tout le pays." },
+    { "rating": 2, "note": "Encore agréable, la chaleur monte en fin de mois." },
+    { "rating": 1, "note": "Chaud, visites tôt le matin." },
+    { "rating": 0, "note": "Chaleur extrême." },
+    { "rating": 0, "note": "Plus de 40 °C dans la plupart du pays." },
+    { "rating": 0, "note": "Chaleur extrême ; mousson (khareef) dans le Dhofar." },
+    { "rating": 0, "note": "Comme en juillet." },
+    { "rating": 0, "note": "Encore très chaud." },
+    { "rating": 1, "note": "La chaleur retombe en fin de mois." },
+    { "rating": 2, "note": "Températures idéales, début de la saison." },
+    { "rating": 2, "note": "Doux et ensoleillé, haute saison." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en rials omanais, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou camp)", "solo": "30 à 60 OMR", "duo": "20 à 40 OMR" },
+      { "label": "Repas", "solo": "8 à 20 OMR", "duo": "8 à 20 OMR" },
+      { "label": "Transports (voiture, carburant)", "solo": "10 à 25 OMR", "duo": "5 à 15 OMR" },
+      { "label": "Visites et entrées", "solo": "2 à 10 OMR", "duo": "2 à 10 OMR" }
+    ],
+    "totalSolo": "50 à 115 OMR",
+    "totalDuo": "35 à 85 OMR",
+    "note": "Une voiture, souvent un 4x4 pour le désert et la montagne, est indispensable et se partage : à deux, la différence est importante. Le carburant est bon marché.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Un visa gratuit de 14 jours est accordé à l'arrivée, par un simple tampon. Le passeport doit être valable 6 mois après la date de sortie.",
+    "points": [
+      "Pour plus de 14 jours, demande un visa électronique avant de partir (tourisme 30 jours, ou visite d'un an à entrées multiples).",
+      "L'ambassade d'Oman à Paris ne délivre plus de visas.",
+      "Tout dépassement coûte 10 rials par jour, à payer avant de quitter le pays (possible à l'aéroport)."
+    ],
+    "source": { "label": "France Diplomatie, Oman, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/oman/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France. La chaleur est le principal risque.",
+    "points": [
+      "Protège-toi de la chaleur et du soleil : hydratation, chapeau, pas d'effort aux heures chaudes.",
+      "Protège-toi des moustiques.",
+      "Assurance santé et rapatriement indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Oman, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/oman/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée. Depuis juillet 2026, trois régions sont déconseillées sauf raison impérative.",
+    "points": [
+      "Déconseillées sauf raison impérative : les régions de Salalah, de Douqm et de Moussandam.",
+      "Déconseillée sauf raison impérative : la zone frontalière avec le Yémen. Prends contact avec l'ambassade avant tout déplacement dans cette zone.",
+      "Dans le Dhofar, hors de la côte, vigilance renforcée en permanence et itinéraire communiqué à tes proches : risque d'infiltration de groupes armés depuis le Yémen.",
+      "Navigation de plaisance dangereuse dans l'océan Indien (piraterie).",
+      "Consulte régulièrement les messages de sécurité de l'ambassade de France à Mascate."
+    ],
+    "source": { "label": "France Diplomatie, Oman, Sécurité (mise à jour du 15 septembre 2026, zones actualisées le 17 juillet 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/oman/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "mascate",
+      "name": "Mascate",
+      "nights": "2 nuits",
+      "for": ["stratege", "tous"],
+      "summary": "Une capitale blanche entre mer et montagnes, avec une grande mosquée majestueuse et un souk animé.",
+      "sleep": "À Mutrah pour le souk et la corniche, ou près des plages de Qurum.",
+      "see": [
+        { "name": "La grande mosquée du sultan Qabous", "note": "Ouverte aux visiteurs le matin, tenue couvrante, foulard pour les femmes." },
+        { "name": "Le souk de Mutrah", "note": "Encens, argent et épices." },
+        { "name": "La corniche de Mutrah", "note": "Au coucher du soleil." }
+      ],
+      "hidden": [
+        { "name": "Le vieux Mascate", "note": "Le palais Al Alam et les forts portugais." }
+      ],
+      "eat": "Le shuwa (agneau cuit sous terre) et le halwa omanais avec le café à la cardamome.",
+      "getAround": "Voiture ou taxi : la ville est très étendue.",
+      "tip": "Vérifie les horaires de visite de la grande mosquée : elle ferme aux visiteurs à la mi-journée et le vendredi."
+    },
+    {
+      "slug": "nizwa",
+      "name": "Nizwa et les montagnes du Hajar",
+      "nights": "2 à 3 nuits",
+      "for": ["tous", "explorateur"],
+      "summary": "L'ancienne capitale, son fort et son marché aux bestiaux, au pied du Djebel Akhdar et du Djebel Shams.",
+      "sleep": "À Nizwa, ou en altitude au Djebel Akhdar pour la fraîcheur.",
+      "see": [
+        { "name": "Le fort de Nizwa", "note": "Sa grande tour ronde et la vue sur la palmeraie." },
+        { "name": "Le marché aux bestiaux du vendredi", "note": "Tôt le matin, une ambiance unique." },
+        { "name": "Le Djebel Shams", "note": "Le « Grand Canyon d'Arabie » et son sentier du balcon." }
+      ],
+      "hidden": [
+        { "name": "Le fort de Jabrin", "note": "Un château aux plafonds peints, à 45 minutes." },
+        { "name": "Les villages de Misfat al Abriyeen", "note": "Maisons de pierre et canaux d'irrigation (falaj)." }
+      ],
+      "eat": "Les dattes et le café omanais offerts partout.",
+      "getAround": "4x4 obligatoire pour monter au Djebel Akhdar (contrôle à l'entrée de la route).",
+      "tip": "Il fait nettement plus frais en altitude : prévois une veste en hiver."
+    },
+    {
+      "slug": "wahiba",
+      "name": "Le désert de Wahiba (Sharqiya Sands)",
+      "nights": "1 nuit",
+      "for": ["explorateur", "lent"],
+      "summary": "Des dunes orange à perte de vue, et une nuit dans un camp sous un ciel étoilé.",
+      "sleep": "Dans un camp du désert, accessible en 4x4.",
+      "see": [
+        { "name": "Le coucher du soleil sur les dunes", "note": "Depuis une crête de sable." },
+        { "name": "Une famille bédouine", "note": "Café et dattes, avec un guide local." },
+        { "name": "La nuit étoilée", "note": "Loin de toute lumière." }
+      ],
+      "hidden": [],
+      "eat": "Le dîner servi au camp.",
+      "getAround": "4x4 ; dégonfle les pneus pour le sable, ou fais-toi conduire par le camp.",
+      "tip": "Ne t'aventure pas seul dans les dunes : l'ensablement est fréquent."
+    },
+    {
+      "slug": "wadi-shab-sour",
+      "name": "Wadi Shab et Sour",
+      "nights": "2 nuits",
+      "for": ["energique", "tous"],
+      "summary": "Des gorges où l'on nage jusqu'à une cascade cachée dans une grotte, et la plage de ponte des tortues vertes.",
+      "sleep": "À Sour ou près de la réserve de Ras al Jinz.",
+      "see": [
+        { "name": "Wadi Shab", "note": "Randonnée puis baignade dans des vasques turquoise jusqu'à la grotte." },
+        { "name": "Wadi Bani Khalid", "note": "Des piscines naturelles dans une oasis." },
+        { "name": "La réserve de Ras al Jinz", "note": "Observation encadrée de la ponte des tortues, la nuit." }
+      ],
+      "hidden": [
+        { "name": "Le Bimmah Sinkhole", "note": "Un gouffre d'eau turquoise près de la côte." }
+      ],
+      "eat": "Les poissons grillés de Sour.",
+      "getAround": "Voiture depuis Mascate par la route côtière.",
+      "tip": "Dans les wadis, maillot couvrant et short par-dessus : on est dans des villages."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "La boucle classique",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Mascate", "note": "Mosquée, souk, corniche." },
+        { "days": "Jours 3 et 4", "place": "Wadi Shab et Sour", "note": "Par la route côtière, tortues la nuit." },
+        { "days": "Jour 5", "place": "Désert de Wahiba", "note": "Nuit en camp." },
+        { "days": "Jours 6 et 7", "place": "Nizwa", "note": "Fort et montagnes, retour vers Mascate." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Montagnes, désert et wadis",
+      "for": ["explorateur", "lent"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Mascate", "note": "Arrivée." },
+        { "days": "Jours 3 à 5", "place": "Nizwa et le Djebel Akhdar", "note": "Jabrin, Misfat, Djebel Shams." },
+        { "days": "Jours 6 et 7", "place": "Désert de Wahiba", "note": "Deux nuits en camp." },
+        { "days": "Jours 8 à 10", "place": "Sour et les wadis", "note": "Retour par la côte." }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Oman en bref",
+      "for": ["energique"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Mascate", "note": "L'essentiel." },
+        { "days": "Jours 3 à 5", "place": "Wadi Shab et Wahiba", "note": "Baignade et désert." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "En voiture", "text": "Indispensable. Routes excellentes ; 4x4 pour le désert et les routes de montagne. Attention aux chameaux et aux radars." },
+    { "title": "Les taxis", "text": "Pratiques à Mascate, rares ailleurs." },
+    { "title": "Les bus", "text": "Un réseau existe entre les villes, mais il ne dessert pas les sites naturels." }
+  ],
+  "culture": [
+    "Tenue couvrant épaules et genoux en public, y compris pour les hommes ; maillot de bain seulement sur les plages d'hôtel.",
+    "Le café à la cardamome (kahwa) et les dattes sont offerts en signe d'accueil.",
+    "Pendant le ramadan, ne mange pas et ne bois pas en public dans la journée.",
+    "Demande toujours avant de photographier quelqu'un, en particulier les femmes."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "السلام عليكم", "say": "salam aleikoum" },
+    { "fr": "Merci", "local": "شكرا", "say": "choukran" },
+    { "fr": "Si Dieu le veut", "local": "إن شاء الله", "say": "inch'Allah" }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois après la sortie",
+    "Visa électronique si tu restes plus de 14 jours",
+    "Permis de conduire, et 4x4 réservé pour la montagne et le désert",
+    "Tenue couvrante, foulard pour les mosquées",
+    "Adaptateur de prise type G",
+    "Carte de France Diplomatie vérifiée avant le départ",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour Oman ?", "a": "Un visa gratuit de 14 jours est accordé à l'arrivée. Au-delà, il faut un visa électronique demandé avant de partir. Le passeport doit être valable 6 mois après la sortie." },
+    { "q": "Oman est-il sûr ?", "a": "Le pays est en vigilance renforcée. Depuis juillet 2026, Salalah, Douqm et Moussandam sont déconseillés sauf raison impérative, ainsi que la frontière yéménite. Le circuit Mascate, Nizwa, désert et wadis reste accessible : vérifie la carte de France Diplomatie avant le départ." },
+    { "q": "Quand partir à Oman ?", "a": "D'octobre à mars. De mai à septembre, la chaleur est extrême dans la plupart du pays." },
+    { "q": "Quel budget pour une semaine à Oman ?", "a": "Compte environ 50 à 115 OMR par jour seul et 35 à 85 OMR par personne à deux, hors vols. La voiture représente une grosse part du budget et se partage. Ces montants sont des estimations à vérifier." }
+  ]
+}
