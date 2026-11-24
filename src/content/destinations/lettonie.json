@@ -1,0 +1,190 @@
+{
+  "name": "Lettonie",
+  "prep": "en Lettonie",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 47,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Lettonie : Riga, Gauja, Jurmala, budget",
+    "description": "Préparer un voyage en Lettonie : papiers, alertes aux drones, meilleure saison, budget, Riga, le parc de la Gauja, Jurmala, Kuldiga. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Lettonie se visite de mai à septembre, quand Riga vit en terrasse et que les plages de la Baltique s'animent. Une carte d'identité suffit. Le pays est en vigilance normale, mais un système d'alerte aux drones fonctionne dans l'est du pays. Riga, sa vieille ville et son Art nouveau, se combine avec les forêts de la Gauja et la côte.",
+  "essentials": {
+    "bestPeriod": "Mai à septembre",
+    "languages": "Letton (anglais compris chez les jeunes, russe très parlé)",
+    "currency": "Euro (€)",
+    "timeDiff": "+1 h toute l'année",
+    "plugs": "Types C et F, 230 V : comme en France",
+    "emergency": "112",
+    "flight": "Environ 2 h 45 depuis Paris pour Riga"
+  },
+  "months": [
+    { "rating": 0, "note": "Froid et nuits longues." },
+    { "rating": 0, "note": "Comme en janvier." },
+    { "rating": 0, "note": "Encore l'hiver." },
+    { "rating": 1, "note": "Dégel, printemps tardif." },
+    { "rating": 2, "note": "Les terrasses de Riga ouvrent." },
+    { "rating": 2, "note": "Fête du solstice (Jāņi), la plus importante de l'année." },
+    { "rating": 2, "note": "Plages de Jurmala, longues journées." },
+    { "rating": 2, "note": "Comme en juillet." },
+    { "rating": 2, "note": "Couleurs d'automne dans la Gauja." },
+    { "rating": 1, "note": "Frais et calme." },
+    { "rating": 0, "note": "Sombre et humide." },
+    { "rating": 1, "note": "Marché de Noël de Riga, qui revendique le premier sapin de Noël décoré." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou guesthouse)", "solo": "45 à 95 €", "duo": "30 à 60 €" },
+      { "label": "Repas", "solo": "22 à 45 €", "duo": "22 à 45 €" },
+      { "label": "Transports locaux", "solo": "5 à 15 €", "duo": "4 à 12 €" },
+      { "label": "Visites et entrées", "solo": "8 à 20 €", "duo": "8 à 20 €" }
+    ],
+    "totalSolo": "80 à 175 €",
+    "totalDuo": "64 à 137 €",
+    "note": "Riga reste abordable pour une capitale européenne, surtout hors week-ends.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pays de l'Union européenne : une carte d'identité ou un passeport valable pendant tout le séjour suffit pour moins de 3 mois.",
+    "points": [
+      "Si ta carte d'identité a été prolongée de 5 ans, un passeport valide évite tout désagrément.",
+      "L'entrée en Lettonie depuis la Russie est restreinte : vérifie les conditions avant tout trajet terrestre."
+    ],
+    "source": { "label": "France Diplomatie, Lettonie, Entrée / séjour (mise à jour du 26 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/lettonie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé. Pense à la carte européenne d'assurance maladie.",
+    "points": [
+      "Carte européenne d'assurance maladie, à demander avant le départ.",
+      "Encéphalite à tiques : selon les conditions de séjour (forêts, randonnée).",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale."
+    ],
+    "source": { "label": "France Diplomatie, Lettonie, Santé (mise à jour du 26 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/lettonie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance normale. Après des intrusions de drones dans l'est du pays, un système d'alerte envoie des messages sur les téléphones.",
+    "points": [
+      "En cas d'alerte reçue sur ton téléphone, suis les instructions des autorités lettones. Les alertes sont classées en deux niveaux selon le risque.",
+      "À Riga, prudence la nuit près de la gare et du marché central ; évite les parcs et les endroits mal éclairés."
+    ],
+    "source": { "label": "France Diplomatie, Lettonie, Sécurité (mise à jour du 26 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/lettonie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "riga",
+      "name": "Riga",
+      "nights": "3 nuits",
+      "for": ["tous", "energique"],
+      "summary": "Une vieille ville hanséatique et l'un des plus beaux ensembles Art nouveau d'Europe.",
+      "sleep": "Dans la vieille ville ou le quartier Art nouveau.",
+      "see": [
+        { "name": "Le quartier Art nouveau", "note": "Les façades de la rue Alberta." },
+        { "name": "La maison des Têtes noires", "note": "Sur la place de l'Hôtel-de-Ville." },
+        { "name": "Le marché central", "note": "Installé dans d'anciens hangars à zeppelins, à visiter en journée." }
+      ],
+      "hidden": [
+        { "name": "Le quartier de Spīķeri", "note": "D'anciens entrepôts devenus lieux culturels." },
+        { "name": "L'Académie des sciences", "note": "Un gratte-ciel soviétique avec terrasse panoramique." }
+      ],
+      "eat": "Le pain de seigle noir, le baume noir de Riga et les cafés de la vieille ville.",
+      "getAround": "À pied, tram et bus.",
+      "tip": "Le soir, rentre par les rues principales plutôt que par les parcs."
+    },
+    {
+      "slug": "gauja",
+      "name": "Le parc national de la Gauja (Sigulda, Cēsis)",
+      "nights": "2 nuits",
+      "for": ["explorateur", "lent"],
+      "summary": "La « Suisse lettone » : une vallée boisée, des grottes de grès et des châteaux médiévaux.",
+      "sleep": "À Sigulda ou Cēsis.",
+      "see": [
+        { "name": "Le château de Turaida", "note": "Une tour de briques rouges au-dessus de la vallée." },
+        { "name": "Le château de Cēsis", "note": "Visite à la lanterne des ruines médiévales." },
+        { "name": "La vallée de la Gauja", "note": "En canoë ou en téléphérique au-dessus de la rivière." }
+      ],
+      "hidden": [
+        { "name": "La grotte de Gutmanis", "note": "La plus grande grotte des pays baltes." }
+      ],
+      "eat": "Les auberges de campagne et les crêpes aux baies.",
+      "getAround": "Train depuis Riga (environ 1 h), puis à pied ou à vélo.",
+      "tip": "En automne, le téléphérique de Sigulda offre une vue spectaculaire sur les forêts colorées."
+    },
+    {
+      "slug": "jurmala-kuldiga",
+      "name": "Jurmala et Kuldīga",
+      "nights": "2 nuits",
+      "for": ["lent", "tous"],
+      "summary": "Une station balnéaire aux villas en bois, et une petite ville de briques avec la cascade la plus large d'Europe.",
+      "sleep": "À Jurmala en été, ou à Kuldīga.",
+      "see": [
+        { "name": "La plage de Jurmala", "note": "33 km de sable fin, en train depuis Riga." },
+        { "name": "Les villas en bois de Jurmala", "note": "Le long de la rue Jomas." },
+        { "name": "La cascade de Ventas Rumba", "note": "À Kuldīga, la plus large d'Europe." }
+      ],
+      "hidden": [
+        { "name": "Le palais de Rundāle", "note": "Un petit « Versailles » baroque au sud de Riga." }
+      ],
+      "eat": "Le poisson fumé de la côte.",
+      "getAround": "Train pour Jurmala, bus ou voiture pour Kuldīga.",
+      "tip": "Kuldīga a été classée à l'Unesco en 2023."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 5,
+      "title": "Riga et la Gauja",
+      "for": ["tous", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Riga", "note": "Et Jurmala." },
+        { "days": "Jours 4 et 5", "place": "Gauja", "note": "Sigulda et Cēsis, retour à Riga." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Les trois pays baltes",
+      "for": ["stratege", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Tallinn (Estonie)", "note": "Arrivée." },
+        { "days": "Jours 4 à 7", "place": "Riga et la Gauja", "note": "En bus depuis Tallinn." },
+        { "days": "Jours 8 à 10", "place": "Vilnius (Lituanie)", "note": "Retour depuis Vilnius." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les bus", "text": "Le moyen principal entre les villes et vers Tallinn et Vilnius." },
+    { "title": "Le train", "text": "Pratique vers Jurmala et Sigulda." },
+    { "title": "En voiture", "text": "Routes correctes, feux allumés obligatoires de jour." }
+  ],
+  "culture": [
+    "Le solstice d'été (Jāņi) se fête toute la nuit avec feux, couronnes de fleurs et fromage au cumin.",
+    "Les chants traditionnels (dainas) sont au cœur de l'identité lettone.",
+    "Offre un nombre impair de fleurs : les nombres pairs sont réservés aux enterrements."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Labdien", "say": "labdienne" },
+    { "fr": "Merci", "local": "Paldies", "say": "paldiess" },
+    { "fr": "Santé !", "local": "Priekā!", "say": "priékaa" }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport valide",
+    "Carte européenne d'assurance maladie",
+    "Téléphone avec alertes d'urgence activées",
+    "Répulsif contre les tiques et les moustiques"
+  ],
+  "faq": [
+    { "q": "Quels papiers pour la Lettonie ?", "a": "Une carte d'identité ou un passeport valable pendant tout le séjour." },
+    { "q": "La Lettonie est-elle sûre ?", "a": "Oui, le pays est en vigilance normale. Un système d'alerte aux drones fonctionne : suis les consignes reçues sur ton téléphone. À Riga, prudence la nuit autour de la gare et du marché central." },
+    { "q": "Quand partir en Lettonie ?", "a": "De mai à septembre. La fête du solstice, fin juin, est un grand moment." },
+    { "q": "Quel budget pour une semaine en Lettonie ?", "a": "Compte environ 80 à 175 € par jour seul et 64 à 137 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "name": "Lituanie",
+  "prep": "en Lituanie",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 48,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Lituanie : Vilnius, Trakai, isthme de Courlande",
+    "description": "Préparer un voyage en Lituanie : papiers, sécurité, meilleure saison, budget, Vilnius, Trakai, Kaunas, l'isthme de Courlande. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Lituanie se visite de mai à septembre. Une carte d'identité suffit. Vilnius et sa vieille ville baroque, le château sur l'eau de Trakai et les dunes de l'isthme de Courlande forment un voyage varié. Attention : la moitié sud de l'isthme appartient à la Russie (Kaliningrad), en zone formellement déconseillée.",
+  "essentials": {
+    "bestPeriod": "Mai à septembre",
+    "languages": "Lituanien (anglais compris chez les jeunes, russe et polonais parlés)",
+    "currency": "Euro (€)",
+    "timeDiff": "+1 h toute l'année",
+    "plugs": "Types C et F, 230 V : comme en France",
+    "emergency": "112",
+    "flight": "Environ 2 h 45 depuis Paris pour Vilnius"
+  },
+  "months": [
+    { "rating": 0, "note": "Froid et sombre." },
+    { "rating": 0, "note": "Comme en janvier." },
+    { "rating": 0, "note": "Foire de Kaziukas à Vilnius début mars, sinon l'hiver." },
+    { "rating": 1, "note": "Printemps tardif." },
+    { "rating": 2, "note": "Vilnius verdoyante, montgolfières au-dessus de la ville." },
+    { "rating": 2, "note": "Solstice (Joninės), longues journées." },
+    { "rating": 2, "note": "Plages de la Baltique et dunes de Nida." },
+    { "rating": 2, "note": "Comme en juillet." },
+    { "rating": 2, "note": "Doux, couleurs d'automne en fin de mois." },
+    { "rating": 1, "note": "Frais et calme." },
+    { "rating": 0, "note": "Sombre et humide." },
+    { "rating": 1, "note": "Sapin et marché de Noël de la cathédrale de Vilnius." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou guesthouse)", "solo": "45 à 90 €", "duo": "28 à 58 €" },
+      { "label": "Repas", "solo": "20 à 40 €", "duo": "20 à 40 €" },
+      { "label": "Transports locaux", "solo": "5 à 15 €", "duo": "4 à 12 €" },
+      { "label": "Visites et entrées", "solo": "8 à 20 €", "duo": "8 à 20 €" }
+    ],
+    "totalSolo": "78 à 165 €",
+    "totalDuo": "60 à 130 €",
+    "note": "Un des pays les plus abordables du nord de l'Europe. Nida est plus chère en juillet-août.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pays de l'Union européenne : un passeport ou une carte d'identité en cours de validité suffit pour moins de 3 mois.",
+    "points": [
+      "Au-delà de 3 mois, les citoyens de l'Union européenne reçoivent un certificat de séjour."
+    ],
+    "source": { "label": "France Diplomatie, Lituanie, Entrée / séjour (mise à jour du 13 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/lituanie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé. Pense à la carte européenne d'assurance maladie.",
+    "points": [
+      "Carte européenne d'assurance maladie, à demander avant le départ.",
+      "Encéphalite à tiques : selon les conditions de séjour (forêts, randonnée).",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale."
+    ],
+    "source": { "label": "France Diplomatie, Lituanie, Santé (mise à jour du 13 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/lituanie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance normale. Deux points d'attention : la frontière russe sur l'isthme de Courlande et les zones marécageuses.",
+    "points": [
+      "L'isthme de Courlande est partagé : la moitié sud appartient à l'enclave russe de Kaliningrad, en zone formellement déconseillée. Le chemin de randonnée côté lituanien rejoint le territoire russe : fais demi-tour avant la frontière.",
+      "Ne quitte pas les itinéraires balisés dans les zones marécageuses, à pied, à vélo ou en voiture : risque de noyade.",
+      "Après des intrusions de drones, suis les consignes des autorités en cas d'alerte."
+    ],
+    "source": { "label": "France Diplomatie, Lituanie, Sécurité (mise à jour du 13 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/lituanie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "vilnius",
+      "name": "Vilnius",
+      "nights": "3 nuits",
+      "for": ["tous", "energique"],
+      "summary": "L'une des plus grandes vieilles villes baroques d'Europe, et la « république » bohème d'Užupis.",
+      "sleep": "Dans la vieille ville.",
+      "see": [
+        { "name": "La vieille ville", "note": "Classée à l'Unesco, ses églises baroques et ses cours." },
+        { "name": "La tour de Gediminas", "note": "Vue sur les toits et les clochers." },
+        { "name": "Užupis", "note": "Un quartier d'artistes qui s'est déclaré « république », avec sa constitution sur un mur." }
+      ],
+      "hidden": [
+        { "name": "La porte de l'Aurore", "note": "Une chapelle avec une icône vénérée." },
+        { "name": "Le musée des Victimes du génocide", "note": "Dans l'ancien siège du KGB." }
+      ],
+      "eat": "Les cepelinai (grosses quenelles de pomme de terre farcies) et la soupe froide de betterave rose (šaltibarščiai).",
+      "getAround": "À pied ; bus et trolleybus.",
+      "tip": "Monte à la colline des Trois-Croix au coucher du soleil."
+    },
+    {
+      "slug": "trakai-kaunas",
+      "name": "Trakai et Kaunas",
+      "nights": "1 à 2 nuits",
+      "for": ["tous", "stratege"],
+      "summary": "Un château de briques sur un lac, puis Kaunas, l'ancienne capitale de l'entre-deux-guerres et son architecture moderniste.",
+      "sleep": "À Kaunas, ou excursion à la journée depuis Vilnius.",
+      "see": [
+        { "name": "Le château de Trakai", "note": "Sur une île, accessible par une passerelle." },
+        { "name": "L'architecture moderniste de Kaunas", "note": "Classée à l'Unesco en 2023." },
+        { "name": "La colline des Croix", "note": "Des dizaines de milliers de croix, près de Šiauliai." }
+      ],
+      "hidden": [
+        { "name": "Le musée du Diable", "note": "Une collection étonnante de diables à Kaunas." }
+      ],
+      "eat": "Les kibinai, chaussons de la minorité karaïme de Trakai.",
+      "getAround": "Train ou bus depuis Vilnius (30 minutes pour Trakai, 1 h pour Kaunas).",
+      "tip": "Loue un pédalo ou un kayak sur le lac de Trakai."
+    },
+    {
+      "slug": "nida",
+      "name": "Nida et l'isthme de Courlande",
+      "nights": "2 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "Une étroite bande de sable entre lagune et Baltique, avec les plus hautes dunes mobiles d'Europe.",
+      "sleep": "À Nida ou Juodkrantė.",
+      "see": [
+        { "name": "La dune de Parnidis", "note": "Un cadran solaire géant et une vue sur les dunes." },
+        { "name": "La Colline des sorcières", "note": "Des sculptures en bois dans la forêt de Juodkrantė." },
+        { "name": "Les plages de la Baltique", "note": "Sable blanc et pinèdes." }
+      ],
+      "hidden": [
+        { "name": "La maison de Thomas Mann", "note": "Sa maison d'été au-dessus de la lagune." }
+      ],
+      "eat": "Le poisson fumé de la lagune.",
+      "getAround": "Ferry depuis Klaipėda, puis vélo sur la piste qui longe l'isthme.",
+      "tip": "Reste au nord de la frontière russe : la piste cyclable y mène directement."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 5,
+      "title": "Vilnius et Trakai",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Vilnius", "note": "Vieille ville et Užupis." },
+        { "days": "Jours 4 et 5", "place": "Trakai et Kaunas", "note": "Retour à Vilnius." }
+      ]
+    },
+    {
+      "days": 8,
+      "title": "De Vilnius à la Baltique",
+      "for": ["explorateur", "stratege"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Vilnius", "note": "Et Trakai." },
+        { "days": "Jours 4 et 5", "place": "Kaunas", "note": "Et la colline des Croix." },
+        { "days": "Jours 6 à 8", "place": "Nida", "note": "Par Klaipėda, retour depuis Palanga ou Vilnius." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Le train et les bus", "text": "Fiables entre Vilnius, Kaunas et Klaipėda." },
+    { "title": "Le vélo", "text": "Idéal sur l'isthme de Courlande." },
+    { "title": "En voiture", "text": "Taxe d'entrée pour accéder à l'isthme ; feux allumés obligatoires de jour." }
+  ],
+  "culture": [
+    "Le basket-ball est une passion nationale.",
+    "Le lituanien est l'une des langues indo-européennes les plus anciennes encore parlées.",
+    "Pays catholique : tenue correcte dans les églises."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Laba diena", "say": "laba dièna" },
+    { "fr": "Merci", "local": "Ačiū", "say": "atchiou" },
+    { "fr": "Santé !", "local": "Į sveikatą!", "say": "i sveïkata" }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport valide",
+    "Carte européenne d'assurance maladie",
+    "Ne pas franchir la frontière russe sur l'isthme de Courlande",
+    "Répulsif contre les tiques et les moustiques"
+  ],
+  "faq": [
+    { "q": "Quels papiers pour la Lituanie ?", "a": "Une carte d'identité ou un passeport en cours de validité." },
+    { "q": "La Lituanie est-elle sûre ?", "a": "Oui, le pays est en vigilance normale. Ne franchis pas la frontière russe au sud de l'isthme de Courlande et reste sur les itinéraires balisés dans les zones marécageuses." },
+    { "q": "Quand partir en Lituanie ?", "a": "De mai à septembre, juillet-août pour la côte et les dunes." },
+    { "q": "Quel budget pour une semaine en Lituanie ?", "a": "Compte environ 78 à 165 € par jour seul et 60 à 130 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

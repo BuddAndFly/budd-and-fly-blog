@@ -1,0 +1,206 @@
+{
+  "name": "République tchèque",
+  "prep": "en République tchèque",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 44,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide République tchèque : Prague, Český Krumlov",
+    "description": "Préparer un voyage en République tchèque : papiers, meilleure saison, budget seul ou à deux, Prague, Český Krumlov, Kutná Hora, la Moravie. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La République tchèque se visite d'avril à octobre, et en décembre pour les marchés de Noël de Prague. Une carte d'identité ou un passeport en cours de validité suffit. Prague concentre la foule : Český Krumlov, Kutná Hora et la Moravie viticole montrent un pays plus calme et toujours abordable.",
+  "essentials": {
+    "bestPeriod": "Avril à octobre, et décembre",
+    "languages": "Tchèque (anglais compris à Prague)",
+    "currency": "Couronne tchèque (CZK)",
+    "timeDiff": "Aucun décalage avec la France",
+    "plugs": "Type E, 230 V : comme en France",
+    "emergency": "112",
+    "flight": "Environ 1 h 45 depuis Paris pour Prague"
+  },
+  "months": [
+    { "rating": 0, "note": "Froid, Prague sous la neige et sans foule." },
+    { "rating": 0, "note": "Comme en janvier." },
+    { "rating": 1, "note": "Fin de l'hiver." },
+    { "rating": 2, "note": "Printemps, marchés de Pâques." },
+    { "rating": 2, "note": "Fleuri, festival Printemps de Prague." },
+    { "rating": 2, "note": "Longues journées, terrasses au bord de la Vltava." },
+    { "rating": 1, "note": "Chaud et très fréquenté à Prague." },
+    { "rating": 1, "note": "Comme en juillet." },
+    { "rating": 2, "note": "Vendanges en Moravie, températures idéales." },
+    { "rating": 2, "note": "Couleurs d'automne." },
+    { "rating": 1, "note": "Gris ; début des marchés de Noël en fin de mois." },
+    { "rating": 2, "note": "Marchés de Noël de la place de la Vieille-Ville." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en couronnes, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou pension)", "solo": "1 600 à 3 200 Kč", "duo": "1 000 à 2 000 Kč" },
+      { "label": "Repas", "solo": "600 à 1 200 Kč", "duo": "600 à 1 200 Kč" },
+      { "label": "Transports locaux", "solo": "120 à 300 Kč", "duo": "120 à 300 Kč" },
+      { "label": "Visites et entrées", "solo": "200 à 600 Kč", "duo": "200 à 600 Kč" }
+    ],
+    "totalSolo": "2 520 à 5 300 Kč",
+    "totalDuo": "1 920 à 4 100 Kč",
+    "note": "Prague est nettement plus chère que le reste du pays. Évite les bureaux de change de rue : retire en couronnes à un distributeur de banque et refuse la conversion en euros.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pays de l'Union européenne et de l'espace Schengen : une carte d'identité ou un passeport en cours de validité suffit pour moins de 3 mois.",
+    "points": [
+      "Si ta carte d'identité semble périmée mais bénéficie de la prolongation de 5 ans, un passeport valide évite tout désagrément."
+    ],
+    "source": { "label": "France Diplomatie, République tchèque, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-tcheque/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé. Pense à la carte européenne d'assurance maladie.",
+    "points": [
+      "Carte européenne d'assurance maladie, à demander avant le départ.",
+      "Encéphalite à tiques : selon les conditions de séjour (forêts, randonnée), surtout au printemps et en été."
+    ],
+    "source": { "label": "France Diplomatie, République tchèque, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-tcheque/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance normale : c'est une destination sûre, où la délinquance est faible.",
+    "points": [
+      "Vols à la tire fréquents dans le centre de Prague (1er et 2e arrondissements), près de la Vieille Ville, du Château et dans les transports.",
+      "Arnaques à la location : ne paie rien en ligne sans contact direct avec une agence ou un propriétaire vérifié."
+    ],
+    "source": { "label": "France Diplomatie, République tchèque, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-tcheque/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "prague",
+      "name": "Prague",
+      "nights": "3 à 4 nuits",
+      "for": ["tous", "energique"],
+      "summary": "La « ville aux cent clochers », un ensemble gothique et baroque presque intact au bord de la Vltava.",
+      "sleep": "Dans Malá Strana ou Vinohrady, plus calme que la Vieille Ville.",
+      "see": [
+        { "name": "Le château de Prague", "note": "Et la cathédrale Saint-Guy." },
+        { "name": "Le pont Charles", "note": "À l'aube pour l'avoir presque pour toi." },
+        { "name": "La place de la Vieille-Ville", "note": "Et l'horloge astronomique." }
+      ],
+      "hidden": [
+        { "name": "Vyšehrad", "note": "Une forteresse et un cimetière d'artistes au-dessus du fleuve." },
+        { "name": "Le parc Letná", "note": "Un biergarten avec vue sur les ponts." }
+      ],
+      "eat": "Le svíčková (bœuf sauce crème) et une bière pression locale.",
+      "getAround": "Tram et métro, et beaucoup de marche.",
+      "tip": "Valide ton ticket de tram avant de monter : les contrôleurs en civil sont fréquents."
+    },
+    {
+      "slug": "cesky-krumlov",
+      "name": "Český Krumlov",
+      "nights": "1 à 2 nuits",
+      "for": ["lent", "tous"],
+      "summary": "Une petite ville Renaissance lovée dans un méandre de la Vltava, sous un immense château.",
+      "sleep": "Dans la vieille ville, pour la voir le soir sans les excursions.",
+      "see": [
+        { "name": "Le château et sa tour peinte", "note": "Et son théâtre baroque." },
+        { "name": "Le jardin du château", "note": "Vue sur les toits." },
+        { "name": "La descente de la Vltava", "note": "En canoë ou en raft, l'été." }
+      ],
+      "hidden": [
+        { "name": "Le monastère de Zlatá Koruna", "note": "À quelques kilomètres, accessible en canoë." }
+      ],
+      "eat": "La truite grillée des restaurants au bord de l'eau.",
+      "getAround": "Bus ou train depuis Prague (environ 3 h), puis à pied.",
+      "tip": "Dors sur place : le soir, la ville retrouve son calme."
+    },
+    {
+      "slug": "kutna-hora",
+      "name": "Kutná Hora",
+      "nights": "Excursion à la journée",
+      "for": ["stratege", "explorateur"],
+      "summary": "Une ancienne ville d'argent, sa cathédrale gothique et son étonnant ossuaire.",
+      "sleep": "En excursion depuis Prague.",
+      "see": [
+        { "name": "L'ossuaire de Sedlec", "note": "Décoré avec les ossements de dizaines de milliers de personnes." },
+        { "name": "La cathédrale Sainte-Barbe", "note": "Classée à l'Unesco." },
+        { "name": "La Cour italienne", "note": "L'ancien hôtel des monnaies." }
+      ],
+      "hidden": [],
+      "eat": "Une pause dans un café du centre historique.",
+      "getAround": "Train depuis Prague (environ 1 h).",
+      "tip": "Achète un billet combiné pour l'ossuaire et la cathédrale."
+    },
+    {
+      "slug": "moravie",
+      "name": "La Moravie (Brno, Lednice)",
+      "nights": "2 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "La région du vin, des châteaux et de Brno, une ville étudiante animée et peu touristique.",
+      "sleep": "À Brno ou dans une cave-pension de Mikulov.",
+      "see": [
+        { "name": "La villa Tugendhat", "note": "Un chef-d'œuvre moderniste à Brno, réservation indispensable." },
+        { "name": "Lednice-Valtice", "note": "Châteaux et parcs classés à l'Unesco." },
+        { "name": "Mikulov", "note": "Une petite ville au milieu des vignes." }
+      ],
+      "hidden": [
+        { "name": "Les caves de Moravie du Sud", "note": "Dégustations chez les vignerons." }
+      ],
+      "eat": "Les vins blancs moraves et les kolache (brioches fourrées).",
+      "getAround": "Train jusqu'à Brno, voiture ou vélo dans les vignes.",
+      "tip": "La Moravie se parcourt très bien à vélo, sur les pistes cyclables viticoles."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 5,
+      "title": "Prague et Kutná Hora",
+      "for": ["tous", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Prague", "note": "Château, Vieille Ville, Vyšehrad." },
+        { "days": "Jour 5", "place": "Kutná Hora", "note": "Excursion à la journée." }
+      ]
+    },
+    {
+      "days": 9,
+      "title": "Bohême et Moravie",
+      "for": ["lent", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Prague", "note": "Et Kutná Hora." },
+        { "days": "Jours 5 et 6", "place": "Český Krumlov", "note": "Canoë sur la Vltava." },
+        { "days": "Jours 7 à 9", "place": "Moravie", "note": "Brno et les vignes, retour par Prague ou Vienne." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Le train", "text": "Bon marché et pratique entre Prague, Brno et les grandes villes." },
+    { "title": "Les bus", "text": "Souvent plus directs pour Český Krumlov." },
+    { "title": "En voiture", "text": "Vignette électronique obligatoire sur les autoroutes, alcool interdit au volant (tolérance zéro)." }
+  ],
+  "culture": [
+    "Les Tchèques sont parmi les plus grands buveurs de bière du monde : la pression est une institution.",
+    "On salue en entrant dans un petit commerce.",
+    "Pourboire d'environ 10 % au restaurant."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Dobrý den", "say": "dobri dén" },
+    { "fr": "Merci", "local": "Děkuji", "say": "diékouyi" },
+    { "fr": "Santé !", "local": "Na zdraví!", "say": "na zdravi" }
+  ],
+  "checklist": [
+    "Passeport ou carte d'identité valide",
+    "Carte européenne d'assurance maladie",
+    "Carte bancaire et retraits en couronnes (refuse la conversion en euros)",
+    "Répulsif contre les tiques pour la campagne",
+    "Réservation de la villa Tugendhat si tu passes à Brno"
+  ],
+  "faq": [
+    { "q": "Quels papiers pour la République tchèque ?", "a": "Une carte d'identité ou un passeport en cours de validité." },
+    { "q": "Prague est-elle sûre ?", "a": "Oui, le pays est en vigilance normale. Attention aux pickpockets dans le centre et aux arnaques à la location en ligne." },
+    { "q": "Quand partir en République tchèque ?", "a": "Au printemps (avril-juin) et à l'automne (septembre-octobre). Décembre pour les marchés de Noël." },
+    { "q": "Quel budget pour une semaine en République tchèque ?", "a": "Compte environ 2 520 à 5 300 Kč par jour seul et 1 920 à 4 100 Kč par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

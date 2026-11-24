@@ -1,0 +1,188 @@
+{
+  "name": "Macédoine du Nord",
+  "prep": "en Macédoine du Nord",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 51,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Macédoine du Nord : Ohrid, Skopje, budget",
+    "description": "Préparer un voyage en Macédoine du Nord : papiers, meilleure saison, budget seul ou à deux, Ohrid, Skopje, le canyon de Matka, Mavrovo. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Macédoine du Nord se visite de mai à octobre, avec le lac d'Ohrid comme point fort de l'été. Pas de visa pour moins de 3 mois : passeport valable 6 mois ou carte d'identité en cours de validité. Monastères byzantins, lacs et montagnes, à des prix parmi les plus bas d'Europe.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Macédonien et albanais (anglais compris chez les jeunes)",
+    "currency": "Denar macédonien (MKD)",
+    "timeDiff": "Aucun décalage avec la France",
+    "plugs": "Types C et F, 230 V : comme en France",
+    "emergency": "112 (police : 192, ambulance : 194)",
+    "flight": "Environ 2 h 45 depuis Paris pour Skopje ou Ohrid (souvent avec escale)"
+  },
+  "months": [
+    { "rating": 0, "note": "Froid ; ski à Mavrovo." },
+    { "rating": 0, "note": "Comme en janvier." },
+    { "rating": 1, "note": "Fin de l'hiver." },
+    { "rating": 1, "note": "Printemps, Pâques orthodoxe." },
+    { "rating": 2, "note": "Doux, idéal pour Skopje et Matka." },
+    { "rating": 2, "note": "Le lac d'Ohrid se réchauffe." },
+    { "rating": 2, "note": "Baignade dans le lac, festival d'été d'Ohrid." },
+    { "rating": 2, "note": "Haute saison au lac, chaud à Skopje." },
+    { "rating": 2, "note": "Le meilleur compromis." },
+    { "rating": 1, "note": "Couleurs d'automne, calme." },
+    { "rating": 0, "note": "Gris et frais." },
+    { "rating": 0, "note": "Froid." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en denars, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (guesthouse ou petit hôtel)", "solo": "1 800 à 3 800 MKD", "duo": "1 100 à 2 300 MKD" },
+      { "label": "Repas", "solo": "900 à 1 800 MKD", "duo": "900 à 1 800 MKD" },
+      { "label": "Transports locaux", "solo": "200 à 700 MKD", "duo": "150 à 500 MKD" },
+      { "label": "Visites et entrées", "solo": "200 à 600 MKD", "duo": "200 à 600 MKD" }
+    ],
+    "totalSolo": "3 100 à 6 900 MKD",
+    "totalDuo": "2 350 à 5 200 MKD",
+    "note": "L'un des pays les moins chers d'Europe. Les chambres chez l'habitant d'Ohrid sont une bonne option.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour un séjour touristique de moins de 3 mois : passeport valable au moins 6 mois ou carte d'identité en cours de validité.",
+    "points": [
+      "Pour éviter un refoulement à la frontière, prends un passeport plutôt qu'une carte d'identité dont la date imprimée est dépassée, même si elle est prolongée côté français."
+    ],
+    "source": { "label": "France Diplomatie, Macédoine du Nord, Entrée / séjour (mise à jour du 20 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/macedoine-du-nord/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé. Le pays n'est pas dans l'Union européenne : prends une assurance voyage.",
+    "points": [
+      "Assurance couvrant frais médicaux et rapatriement.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Protège-toi des moustiques l'été : la fièvre du Nil occidental circule."
+    ],
+    "source": { "label": "France Diplomatie, Macédoine du Nord, Santé (mise à jour du 20 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/macedoine-du-nord/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance normale et la délinquance visible est faible.",
+    "points": [
+      "Zone sismique : secousses régulières, d'intensité faible à moyenne.",
+      "Vols à la tire dans les centres-villes, les gares, les sites touristiques et pendant les festivals."
+    ],
+    "source": { "label": "France Diplomatie, Macédoine du Nord, Sécurité (mise à jour du 20 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/macedoine-du-nord/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "ohrid",
+      "name": "Ohrid",
+      "nights": "3 nuits",
+      "for": ["tous", "lent"],
+      "summary": "Une ville d'églises byzantines au bord de l'un des plus anciens lacs du monde, classée à l'Unesco.",
+      "sleep": "Dans la vieille ville, sur les pentes au-dessus du lac.",
+      "see": [
+        { "name": "L'église Saint-Jean de Kaneo", "note": "Perchée sur une falaise au-dessus du lac." },
+        { "name": "Plaošnik", "note": "Le monastère de Saint-Clément et ses mosaïques." },
+        { "name": "La forteresse de Samuel", "note": "Vue sur la ville et le lac." }
+      ],
+      "hidden": [
+        { "name": "Le monastère de Saint-Naum", "note": "À l'extrémité sud du lac, près des sources du Drim noir." },
+        { "name": "La baie des Os", "note": "Une reconstitution de village sur pilotis." }
+      ],
+      "eat": "La truite d'Ohrid et le tavče gravče (haricots au four).",
+      "getAround": "À pied ; bateaux vers Saint-Naum.",
+      "tip": "Va à Saint-Jean de Kaneo au coucher du soleil."
+    },
+    {
+      "slug": "skopje",
+      "name": "Skopje et le canyon de Matka",
+      "nights": "2 nuits",
+      "for": ["energique", "stratege"],
+      "summary": "Une capitale étonnante, entre vieux bazar ottoman et statues monumentales, avec un canyon à 30 minutes.",
+      "sleep": "Près de la place de Macédoine ou du vieux bazar.",
+      "see": [
+        { "name": "Le vieux bazar", "note": "L'un des plus grands des Balkans." },
+        { "name": "La maison commémorative de Mère Teresa", "note": "Née à Skopje." },
+        { "name": "Le canyon de Matka", "note": "En kayak ou en bateau jusqu'à la grotte de Vrelo." }
+      ],
+      "hidden": [
+        { "name": "Le mont Vodno", "note": "En téléphérique jusqu'à la croix du Millénaire." }
+      ],
+      "eat": "La burek et l'ajvar (purée de poivrons rouges).",
+      "getAround": "À pied ; bus ou taxi pour Matka.",
+      "tip": "Les taxis sont bon marché : vérifie que le compteur tourne."
+    },
+    {
+      "slug": "mavrovo",
+      "name": "Mavrovo et l'ouest",
+      "nights": "1 à 2 nuits",
+      "for": ["explorateur"],
+      "summary": "Le plus grand parc national du pays, son église engloutie et le monastère de Saint-Jean-Bigorski.",
+      "sleep": "Au bord du lac de Mavrovo.",
+      "see": [
+        { "name": "L'église engloutie de Saint-Nicolas", "note": "À moitié dans le lac selon le niveau de l'eau." },
+        { "name": "Le monastère de Saint-Jean-Bigorski", "note": "Une iconostase en bois sculpté remarquable." },
+        { "name": "Le village de Galičnik", "note": "Un village de montagne et ses mariages traditionnels en juillet." }
+      ],
+      "hidden": [],
+      "eat": "Le fromage de brebis des alpages.",
+      "getAround": "Voiture recommandée.",
+      "tip": "Mavrovo se place bien sur la route entre Skopje et Ohrid."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 6,
+      "title": "Skopje et Ohrid",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Skopje", "note": "Et le canyon de Matka." },
+        { "days": "Jour 3", "place": "Mavrovo", "note": "Sur la route." },
+        { "days": "Jours 4 à 6", "place": "Ohrid", "note": "Retour depuis Ohrid." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Balkans du sud",
+      "for": ["explorateur", "stratege"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Skopje", "note": "Arrivée." },
+        { "days": "Jours 3 à 6", "place": "Ohrid", "note": "Lac et monastères." },
+        { "days": "Jours 7 à 10", "place": "Albanie (Berat, Tirana)", "note": "Suite par la frontière du lac." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les bus", "text": "Fréquents entre Skopje et Ohrid (3 h environ)." },
+    { "title": "En voiture", "text": "Carte verte d'assurance, péages sur les autoroutes." },
+    { "title": "Les taxis", "text": "Bon marché en ville." }
+  ],
+  "culture": [
+    "Pays à majorité orthodoxe avec une importante minorité musulmane albanaise.",
+    "Le café turc et le thé se partagent volontiers.",
+    "Tenue correcte dans les églises et mosquées."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Здраво", "say": "zdravo" },
+    { "fr": "Merci", "local": "Благодарам", "say": "blagodaram" },
+    { "fr": "Santé !", "local": "На здравје", "say": "na zdravié" }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois (conseillé plutôt qu'une carte d'identité prolongée)",
+    "Assurance santé et rapatriement",
+    "Carte verte si tu viens en voiture",
+    "Maillot de bain pour le lac d'Ohrid"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour la Macédoine du Nord ?", "a": "Non pour un séjour touristique de moins de 3 mois. Il faut un passeport valable au moins 6 mois ou une carte d'identité en cours de validité." },
+    { "q": "La Macédoine du Nord est-elle sûre ?", "a": "Oui, le pays est en vigilance normale et la délinquance visible est faible." },
+    { "q": "Quand partir en Macédoine du Nord ?", "a": "De mai à octobre ; juillet-août pour la baignade dans le lac d'Ohrid." },
+    { "q": "Quel budget pour une semaine en Macédoine du Nord ?", "a": "Compte environ 3 100 à 6 900 MKD par jour seul et 2 350 à 5 200 MKD par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

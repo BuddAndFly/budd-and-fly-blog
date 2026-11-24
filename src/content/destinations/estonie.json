@@ -1,0 +1,208 @@
+{
+  "name": "Estonie",
+  "prep": "en Estonie",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 46,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Estonie : Tallinn, îles, forêts, budget",
+    "description": "Préparer un voyage en Estonie : papiers, alertes de sécurité, meilleure saison, budget, Tallinn, Tartu, Lahemaa, l'île de Saaremaa. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "L'Estonie se visite de mai à septembre, sous les longues journées du Nord, et en décembre pour le marché de Noël de Tallinn. Une carte d'identité suffit. Le pays est sûr, mais les autorités ont mis en place des alertes aux drones : installe l'application officielle. Tallinn médiévale, les forêts de Lahemaa et les îles se combinent en une semaine.",
+  "essentials": {
+    "bestPeriod": "Mai à septembre",
+    "languages": "Estonien (anglais très répandu, russe parlé)",
+    "currency": "Euro (€)",
+    "timeDiff": "+1 h toute l'année",
+    "plugs": "Types C et F, 230 V : comme en France",
+    "emergency": "112",
+    "flight": "Environ 3 h depuis Paris pour Tallinn"
+  },
+  "months": [
+    { "rating": 0, "note": "Froid et nuits très longues." },
+    { "rating": 0, "note": "Froid ; parfois des routes de glace vers les îles." },
+    { "rating": 0, "note": "Encore l'hiver." },
+    { "rating": 1, "note": "Dégel, nature qui s'éveille." },
+    { "rating": 2, "note": "Longues journées, forêts vertes." },
+    { "rating": 2, "note": "Nuits blanches et fête de la Saint-Jean (Jaanipäev)." },
+    { "rating": 2, "note": "Le plus chaud, plages et îles." },
+    { "rating": 2, "note": "Comme en juillet, cueillette de baies." },
+    { "rating": 1, "note": "Fraîcheur, couleurs d'automne." },
+    { "rating": 1, "note": "Automne, peu de monde." },
+    { "rating": 0, "note": "Sombre et humide." },
+    { "rating": 1, "note": "Marché de Noël de la place de l'Hôtel-de-Ville." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou guesthouse)", "solo": "55 à 110 €", "duo": "35 à 70 €" },
+      { "label": "Repas", "solo": "25 à 50 €", "duo": "25 à 50 €" },
+      { "label": "Transports locaux", "solo": "5 à 20 €", "duo": "5 à 15 €" },
+      { "label": "Visites et entrées", "solo": "10 à 25 €", "duo": "10 à 25 €" }
+    ],
+    "totalSolo": "95 à 205 €",
+    "totalDuo": "75 à 160 €",
+    "note": "Tallinn est plus chère que le reste du pays. Les transports publics de Tallinn sont bon marché, et les bus interurbains confortables.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pays de l'Union européenne : une carte d'identité ou un passeport valable pendant tout le séjour suffit pour moins de 3 mois.",
+    "points": [
+      "L'Estonie accepte officiellement la prolongation de 5 ans des cartes d'identité délivrées à des majeurs entre 2004 et 2013 ; un passeport valide évite tout désagrément."
+    ],
+    "source": { "label": "France Diplomatie, Estonie, Entrée / séjour (mise à jour du 19 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/estonie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé et la qualité des soins est bonne. Pense à la carte européenne d'assurance maladie.",
+    "points": [
+      "Carte européenne d'assurance maladie, à demander avant le départ.",
+      "Encéphalite à tiques : selon les conditions de séjour (forêts, randonnée).",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale."
+    ],
+    "source": { "label": "France Diplomatie, Estonie, Santé (mise à jour du 19 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/estonie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "L'Estonie est en règle générale un pays sûr. Un dispositif d'alerte aux drones existe : télécharge l'application de la protection civile.",
+    "points": [
+      "Installe l'application « Ole Valmis ! » : elle diffuse les consignes des autorités en cas d'alerte et indique les abris publics. Respecte impérativement ces consignes.",
+      "Repère un lieu sûr où t'abriter si nécessaire.",
+      "Les touristes sont une cible des pickpockets, notamment dans la vieille ville de Tallinn."
+    ],
+    "source": { "label": "France Diplomatie, Estonie, Sécurité (mise à jour du 19 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/estonie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "tallinn",
+      "name": "Tallinn",
+      "nights": "3 nuits",
+      "for": ["tous", "stratege"],
+      "summary": "Une vieille ville hanséatique fortifiée, parmi les mieux conservées d'Europe, au cœur d'une capitale très numérique.",
+      "sleep": "Dans la vieille ville ou à Kalamaja, quartier de maisons en bois.",
+      "see": [
+        { "name": "La vieille ville", "note": "Classée à l'Unesco, remparts et tours." },
+        { "name": "La colline de Toompea", "note": "Les belvédères sur les toits rouges." },
+        { "name": "Telliskivi", "note": "Un quartier créatif dans d'anciennes usines." }
+      ],
+      "hidden": [
+        { "name": "Le musée maritime de Lennusadam", "note": "Dans des hangars d'hydravions, avec un sous-marin." },
+        { "name": "Le parc de Kadriorg", "note": "Un palais baroque et le musée d'art KUMU." }
+      ],
+      "eat": "Le pain noir, le hareng et les plats de la nouvelle cuisine nordique.",
+      "getAround": "À pied, tram et bus.",
+      "tip": "Helsinki est à 2 h de ferry : facile à combiner."
+    },
+    {
+      "slug": "lahemaa",
+      "name": "Le parc national de Lahemaa",
+      "nights": "1 à 2 nuits",
+      "for": ["explorateur", "lent"],
+      "summary": "Forêts, tourbières, blocs erratiques et manoirs baltes, à une heure de Tallinn.",
+      "sleep": "Dans une guesthouse d'un village côtier ou d'un manoir restauré.",
+      "see": [
+        { "name": "Le sentier de la tourbière de Viru", "note": "Sur des planches de bois, avec une tour d'observation." },
+        { "name": "Le manoir de Palmse", "note": "Un domaine baltique-allemand restauré." },
+        { "name": "Les villages de pêcheurs d'Altja et Käsmu", "note": "Maisons en bois au bord de la mer." }
+      ],
+      "hidden": [],
+      "eat": "Les poissons fumés des villages côtiers.",
+      "getAround": "Voiture recommandée ; bus limités.",
+      "tip": "Le sentier de Viru est magnifique au lever du soleil, dans la brume."
+    },
+    {
+      "slug": "saaremaa",
+      "name": "Saaremaa",
+      "nights": "2 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "La plus grande île du pays : moulins à vent, genévriers, falaises et une ambiance hors du temps.",
+      "sleep": "À Kuressaare ou dans une ferme de l'île.",
+      "see": [
+        { "name": "Le château de Kuressaare", "note": "Une forteresse épiscopale intacte." },
+        { "name": "Les moulins d'Angla", "note": "Une rangée de moulins à vent." },
+        { "name": "Le cratère de Kaali", "note": "Un lac formé par une météorite." }
+      ],
+      "hidden": [
+        { "name": "Les falaises de Panga", "note": "Les plus hautes de l'île, au coucher du soleil." }
+      ],
+      "eat": "La bière artisanale de l'île et le pain local.",
+      "getAround": "Ferry depuis Virtsu puis voiture.",
+      "tip": "Réserve le ferry en été, les créneaux partent vite."
+    },
+    {
+      "slug": "tartu",
+      "name": "Tartu",
+      "nights": "1 à 2 nuits",
+      "for": ["energique", "stratege"],
+      "summary": "La ville universitaire, jeune et intellectuelle, avec d'excellents musées.",
+      "sleep": "Dans le centre, près de l'hôtel de ville.",
+      "see": [
+        { "name": "Le musée national estonien", "note": "Un bâtiment spectaculaire sur une ancienne piste militaire." },
+        { "name": "La colline de Toome", "note": "Ruines de cathédrale et parcs." },
+        { "name": "Le quartier de Supilinn", "note": "Maisons en bois du quartier « de la soupe »." }
+      ],
+      "hidden": [],
+      "eat": "Les cafés étudiants du centre.",
+      "getAround": "À pied ; train ou bus depuis Tallinn (environ 2 h).",
+      "tip": "Le marché couvert et les terrasses du bord de l'Emajõgi sont animés en été."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 5,
+      "title": "Tallinn et la nature",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Tallinn", "note": "Vieille ville et quartiers créatifs." },
+        { "days": "Jours 4 et 5", "place": "Lahemaa", "note": "Forêts et tourbières, retour à Tallinn." }
+      ]
+    },
+    {
+      "days": 8,
+      "title": "L'Estonie complète",
+      "for": ["explorateur", "stratege"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Tallinn", "note": "Arrivée." },
+        { "days": "Jour 4", "place": "Lahemaa", "note": "Excursion." },
+        { "days": "Jours 5 et 6", "place": "Saaremaa", "note": "Par le ferry de Virtsu." },
+        { "days": "Jours 7 et 8", "place": "Tartu", "note": "Ou suite vers la Lettonie." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les bus", "text": "Confortables et fréquents entre les villes." },
+    { "title": "Le train", "text": "Tallinn-Tartu et quelques lignes régionales." },
+    { "title": "En voiture", "text": "Indispensable pour les îles et les parcs ; feux de croisement obligatoires de jour." },
+    { "title": "Les ferries", "text": "Vers les îles et vers Helsinki." }
+  ],
+  "culture": [
+    "Les Estoniens sont réservés mais chaleureux une fois le contact établi.",
+    "Le sauna est une tradition importante.",
+    "Le paiement par carte et par téléphone est accepté partout."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Tere", "say": "téré" },
+    { "fr": "Merci", "local": "Aitäh", "say": "aïtah" },
+    { "fr": "Santé !", "local": "Terviseks!", "say": "tervisseks" }
+  ],
+  "checklist": [
+    "Passeport ou carte d'identité valide",
+    "Carte européenne d'assurance maladie",
+    "Application « Ole Valmis ! » installée",
+    "Répulsif contre les tiques et les moustiques",
+    "Ferry réservé pour Saaremaa en été"
+  ],
+  "faq": [
+    { "q": "Quels papiers pour l'Estonie ?", "a": "Une carte d'identité ou un passeport valable pendant tout le séjour." },
+    { "q": "L'Estonie est-elle sûre ?", "a": "Oui, c'est un pays sûr. Les autorités ont mis en place des alertes aux drones : installe l'application « Ole Valmis ! » et suis ses consignes." },
+    { "q": "Quand partir en Estonie ?", "a": "De mai à septembre, avec des journées très longues en juin. Décembre pour le marché de Noël de Tallinn." },
+    { "q": "Quel budget pour une semaine en Estonie ?", "a": "Compte environ 95 à 205 € par jour seul et 75 à 160 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}
