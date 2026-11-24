@@ -1,0 +1,214 @@
+{
+  "name": "Équateur",
+  "prep": "en Équateur",
+  "kind": "pays",
+  "continent": "Amérique du Sud",
+  "priority": 73,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Équateur : Galápagos, Quito, sécurité",
+    "description": "Préparer un voyage en Équateur : formalités, zones déconseillées, meilleure saison, budget, Quito, le Cotopaxi, Cuenca, les Galápagos. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "L'Équateur se visite toute l'année ; juin à septembre est la saison la plus sèche dans les Andes. Pas de visa pour 90 jours, mais le passeport doit être valable plus de 6 mois après la sortie. Attention : la violence a fortement augmenté sur la côte, déconseillée sauf raison impérative (Guayaquil compris). Les Andes et les Galápagos, en vigilance normale, restent le cœur du voyage.",
+  "essentials": {
+    "bestPeriod": "Juin à septembre (Andes), toute l'année (Galápagos)",
+    "languages": "Espagnol, quechua",
+    "currency": "Dollar américain (USD)",
+    "timeDiff": "-6 h en hiver, -7 h en été",
+    "plugs": "Types A et B, 120 V : adaptateur nécessaire",
+    "emergency": "911",
+    "flight": "Environ 12 h depuis Paris pour Quito, avec une escale"
+  },
+  "months": [
+    { "rating": 1, "note": "Pluies dans les Andes, mer chaude aux Galápagos." },
+    { "rating": 1, "note": "Comme en janvier ; carnaval." },
+    { "rating": 1, "note": "Pluies." },
+    { "rating": 1, "note": "Pluies, fin de saison chaude aux Galápagos." },
+    { "rating": 2, "note": "Transition, paysages verts." },
+    { "rating": 2, "note": "Saison sèche dans les Andes." },
+    { "rating": 2, "note": "Sec ; Galápagos plus fraîches et riches en faune marine." },
+    { "rating": 2, "note": "Sec et venteux." },
+    { "rating": 2, "note": "Encore sec." },
+    { "rating": 1, "note": "Retour des averses." },
+    { "rating": 1, "note": "Averses." },
+    { "rating": 1, "note": "Pluies." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols.",
+    "rows": [
+      { "label": "Hébergement (hostal ou petit hôtel)", "solo": "35 à 90 $", "duo": "22 à 55 $" },
+      { "label": "Repas", "solo": "15 à 35 $", "duo": "15 à 35 $" },
+      { "label": "Transports", "solo": "5 à 25 $", "duo": "5 à 20 $" },
+      { "label": "Excursions", "solo": "15 à 60 $", "duo": "15 à 60 $" }
+    ],
+    "totalSolo": "70 à 210 $",
+    "totalDuo": "57 à 170 $",
+    "note": "Le continent est abordable, mais les Galápagos coûtent beaucoup plus cher (vol, droits d'entrée, excursions ou croisière).",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour un séjour touristique de 90 jours maximum sur 12 mois, avec un billet retour. Le passeport doit être en parfait état et valable plus de 6 mois après la sortie.",
+    "points": [
+      "Sinon, l'entrée est refusée.",
+      "Dépasser les 90 jours expose à une très lourde amende et à une rétention administrative.",
+      "Les Galápagos ont des règles spécifiques : carte migratoire à acheter à l'aéroport de Quito ou Guayaquil, et droits d'entrée importants à l'arrivée dans le parc."
+    ],
+    "source": { "label": "France Diplomatie, Équateur, Entrée / séjour (mise à jour du 29 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/equateur/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "La vaccination contre la fièvre jaune est fortement recommandée. Elle est obligatoire si tu as passé au moins 10 jours au Pérou, en Colombie, en Bolivie ou au Brésil (vaccin fait au moins 10 jours avant), ou si tu viens d'un pays d'endémie.",
+    "points": [
+      "Assurance santé et rapatriement indispensable : les hospitalisations privées coûtent très cher.",
+      "Dengue en zone tropicale : protection contre les moustiques.",
+      "Altitude à Quito (2 850 m) et autour du Cotopaxi : acclimatation progressive.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale."
+    ],
+    "source": { "label": "France Diplomatie, Équateur, Santé et Entrée / séjour (mise à jour du 29 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/equateur/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "La violence a fortement augmenté, surtout sur la côte. Le reste du pays est en vigilance renforcée, les Galápagos en vigilance normale.",
+    "points": [
+      "Formellement déconseillée : toute la zone frontalière avec la Colombie, jusqu'à Esmeraldas (le couloir de Tulcán est déconseillé sauf raison impérative).",
+      "Déconseillées sauf raison impérative : les provinces côtières (Esmeraldas, Manabí, Santa Elena, Guayas, El Oro), Los Ríos et Santo Domingo. Guayaquil concentre près de 40 % des homicides du pays.",
+      "À Quito, choisis bien ton taxi (agressions signalées, parfois avec la complicité du chauffeur) et ne traverse pas les parcs la nuit."
+    ],
+    "source": { "label": "France Diplomatie, Équateur, Sécurité (mise à jour du 29 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/equateur/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "quito",
+      "name": "Quito",
+      "nights": "3 nuits",
+      "for": ["tous", "stratege"],
+      "summary": "Un centre colonial parmi les mieux conservés d'Amérique, à 2 850 m, sur la ligne de l'équateur.",
+      "sleep": "Dans le centre historique ou à La Floresta.",
+      "see": [
+        { "name": "Le centre historique", "note": "Le premier classé à l'Unesco, avec l'église de la Compañía." },
+        { "name": "Le TelefériQo", "note": "Jusqu'à 3 950 m sur les flancs du Pichincha." },
+        { "name": "La Mitad del Mundo", "note": "Le monument de la ligne de l'équateur." }
+      ],
+      "hidden": [
+        { "name": "Le marché d'Otavalo", "note": "Le grand marché artisanal, à 2 h au nord." }
+      ],
+      "eat": "Le locro de papa (soupe de pommes de terre au fromage).",
+      "getAround": "VTC ou taxis appelés par application.",
+      "tip": "Évite de héler un taxi dans la rue : commande-le par application."
+    },
+    {
+      "slug": "cotopaxi-quilotoa",
+      "name": "Le Cotopaxi et le Quilotoa",
+      "nights": "3 nuits",
+      "for": ["explorateur", "energique"],
+      "summary": "L'avenue des volcans : le Cotopaxi enneigé et le lac turquoise du cratère de Quilotoa.",
+      "sleep": "Dans une hacienda près du Cotopaxi et dans les villages de la boucle du Quilotoa.",
+      "see": [
+        { "name": "Le parc national du Cotopaxi", "note": "La lagune de Limpiopungo et le refuge." },
+        { "name": "La lagune de Quilotoa", "note": "Descente dans le cratère." },
+        { "name": "La boucle du Quilotoa", "note": "3 jours de randonnée de village en village." }
+      ],
+      "hidden": [],
+      "eat": "Les plats des haciendas.",
+      "getAround": "Bus ou chauffeur depuis Quito ou Latacunga.",
+      "tip": "Les nuits sont froides : prévois des couches chaudes."
+    },
+    {
+      "slug": "banos-cuenca",
+      "name": "Baños et Cuenca",
+      "nights": "4 nuits",
+      "for": ["energique", "lent"],
+      "summary": "La porte de l'Amazonie et ses cascades, puis la plus belle ville coloniale du sud des Andes.",
+      "sleep": "Dans le centre de Baños et de Cuenca.",
+      "see": [
+        { "name": "La route des cascades de Baños", "note": "À vélo, jusqu'au Pailón del Diablo." },
+        { "name": "La Casa del Árbol", "note": "La balançoire face au Tungurahua." },
+        { "name": "Le centre historique de Cuenca", "note": "Classé à l'Unesco." }
+      ],
+      "hidden": [
+        { "name": "Le parc national El Cajas", "note": "Lagunes et páramo près de Cuenca." }
+      ],
+      "eat": "Le cuy (cochon d'Inde) pour les curieux, et les tablettes de chocolat équatorien.",
+      "getAround": "Bus entre les villes des Andes.",
+      "tip": "Cuenca est l'endroit idéal pour acheter un vrai « panama », fabriqué en Équateur."
+    },
+    {
+      "slug": "galapagos",
+      "name": "Les Galápagos",
+      "nights": "5 à 7 nuits",
+      "for": ["explorateur", "tous"],
+      "summary": "Un archipel volcanique où la faune n'a pas peur de l'homme : tortues géantes, otaries, iguanes marins.",
+      "sleep": "Sur Santa Cruz, San Cristóbal ou Isabela, ou en croisière.",
+      "see": [
+        { "name": "Les tortues géantes de Santa Cruz", "note": "Dans les hautes terres." },
+        { "name": "Le snorkeling à Kicker Rock", "note": "Requins, raies, tortues marines." },
+        { "name": "Isabela", "note": "Volcans, manchots et flamants." }
+      ],
+      "hidden": [
+        { "name": "Las Grietas", "note": "Une crevasse d'eau claire sur Santa Cruz." }
+      ],
+      "eat": "Le ceviche de poisson frais.",
+      "getAround": "Vol depuis Quito (via Guayaquil sans sortir de l'aéroport), puis bateaux entre les îles.",
+      "tip": "Respecte les 2 mètres de distance avec les animaux, c'est une règle du parc."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 14,
+      "title": "Andes et Galápagos",
+      "for": ["tous", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Quito", "note": "Et Otavalo." },
+        { "days": "Jours 4 à 6", "place": "Cotopaxi et Quilotoa", "note": "Volcans." },
+        { "days": "Jours 7 et 8", "place": "Baños", "note": "Cascades." },
+        { "days": "Jours 9 à 14", "place": "Galápagos", "note": "Vol depuis Quito, retour par Quito." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "L'avenue des volcans",
+      "for": ["lent", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Quito", "note": "Arrivée." },
+        { "days": "Jours 4 à 6", "place": "Quilotoa", "note": "Randonnée." },
+        { "days": "Jours 7 à 10", "place": "Cuenca", "note": "Par Baños, vol retour vers Quito." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les bus", "text": "Dans les Andes, de jour uniquement ; évite les trajets terrestres sur la côte." },
+    { "title": "Les vols intérieurs", "text": "Pour Cuenca et les Galápagos." },
+    { "title": "Les VTC", "text": "À privilégier en ville." }
+  ],
+  "culture": [
+    "Le dollar américain est la monnaie officielle.",
+    "Les marchés indigènes sont des lieux de vie : demande avant de photographier.",
+    "Aux Galápagos, les règles du parc sont strictes : ne nourris et ne touche aucun animal."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Buenos días", "say": "bouénos dias" },
+    { "fr": "Merci", "local": "Gracias", "say": "grassias" },
+    { "fr": "Merci (quechua)", "local": "Yupaychani", "say": "youpaïtchani" }
+  ],
+  "checklist": [
+    "Passeport en parfait état, valable plus de 6 mois après la sortie",
+    "Billet retour",
+    "Vaccin contre la fièvre jaune (obligatoire après 10 jours au Pérou, en Colombie, en Bolivie ou au Brésil)",
+    "Assurance santé et rapatriement",
+    "Budget pour les droits d'entrée aux Galápagos",
+    "Couches chaudes pour les Andes",
+    "Éviter la côte et Guayaquil"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour l'Équateur ?", "a": "Non pour 90 jours maximum sur 12 mois. Le passeport doit être valable plus de 6 mois après la sortie, avec un billet retour." },
+    { "q": "L'Équateur est-il sûr ?", "a": "La côte, Guayaquil et la frontière colombienne sont à éviter. Les Andes sont en vigilance renforcée et les Galápagos en vigilance normale." },
+    { "q": "Comment aller aux Galápagos ?", "a": "En avion depuis Quito ou Guayaquil, avec une carte migratoire achetée à l'aéroport et des droits d'entrée payés à l'arrivée dans le parc." },
+    { "q": "Quel budget pour deux semaines en Équateur ?", "a": "Compte environ 70 à 210 $ par jour seul et 57 à 170 $ par personne à deux sur le continent, hors vols ; les Galápagos coûtent nettement plus. Ces montants sont des estimations à vérifier." }
+  ]
+}

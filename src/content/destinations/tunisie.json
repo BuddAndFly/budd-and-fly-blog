@@ -1,0 +1,216 @@
+{
+  "name": "Tunisie",
+  "prep": "en Tunisie",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 74,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Tunisie : Tunis, Djerba, désert, sécurité",
+    "description": "Préparer un voyage en Tunisie : passeport, zones déconseillées, meilleure saison, budget, Tunis, Sidi Bou Saïd, Kairouan, Djerba, Tozeur. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Tunisie se visite d'avril à juin et de septembre à novembre ; l'été est idéal pour la plage mais très chaud dans le sud. Pas de visa pour 3 mois, avec un passeport valable au moins 3 mois à l'entrée. L'état d'urgence est en vigueur et les zones frontalières sahariennes et montagneuses de l'ouest sont formellement déconseillées ; le reste du pays est en vigilance renforcée.",
+  "essentials": {
+    "bestPeriod": "Avril à juin, septembre à novembre",
+    "languages": "Arabe tunisien (français très répandu)",
+    "currency": "Dinar tunisien (TND), non convertible : pas d'export",
+    "timeDiff": "Aucun décalage en hiver, -1 h en été",
+    "plugs": "Types C et E, 230 V : comme en France",
+    "emergency": "Police 197 · SAMU 190 · Garde nationale 193",
+    "flight": "Environ 2 h 15 depuis Paris pour Tunis, 2 h 40 pour Djerba"
+  },
+  "months": [
+    { "rating": 1, "note": "Doux et parfois pluvieux au nord ; le sud est agréable." },
+    { "rating": 1, "note": "Comme en janvier, désert idéal." },
+    { "rating": 2, "note": "Printemps, idéal pour les sites et le désert." },
+    { "rating": 2, "note": "Le meilleur mois." },
+    { "rating": 2, "note": "Chaud et ensoleillé." },
+    { "rating": 2, "note": "Début de la saison balnéaire." },
+    { "rating": 1, "note": "Très chaud, plages bondées ; festival de Carthage." },
+    { "rating": 1, "note": "Comme en juillet." },
+    { "rating": 2, "note": "Mer chaude, chaleur en baisse." },
+    { "rating": 2, "note": "Doux, idéal partout." },
+    { "rating": 2, "note": "Festival du Sahara à Douz (selon les années)." },
+    { "rating": 1, "note": "Frais au nord, désert agréable." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en dinars, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (maison d'hôtes ou hôtel)", "solo": "120 à 300 DT", "duo": "70 à 180 DT" },
+      { "label": "Repas", "solo": "40 à 100 DT", "duo": "40 à 100 DT" },
+      { "label": "Transports (louage, train)", "solo": "15 à 60 DT", "duo": "12 à 45 DT" },
+      { "label": "Visites et entrées", "solo": "10 à 40 DT", "duo": "10 à 40 DT" }
+    ],
+    "totalSolo": "185 à 500 DT",
+    "totalDuo": "132 à 365 DT",
+    "note": "Le dinar ne peut pas être exporté : change sur place et garde les reçus. Les maisons d'hôtes des médinas offrent un excellent rapport qualité-prix.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour un séjour de 3 mois maximum. Depuis le 1er janvier 2025, le passeport doit être valable au moins 3 mois à l'entrée.",
+    "points": [
+      "Au-delà de 3 mois, il faut un visa et une carte de séjour.",
+      "En cas de séjour irrégulier, la sortie est soumise à autorisation et, en général, au paiement d'une amende."
+    ],
+    "source": { "label": "France Diplomatie, Tunisie, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tunisie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France.",
+    "points": [
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale. Évite les chiens errants.",
+      "Protège-toi des moustiques l'été : la fièvre du Nil occidental circule.",
+      "Chaleur intense l'été dans le sud.",
+      "Assurance santé et rapatriement indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Tunisie, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tunisie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "L'état d'urgence est en vigueur depuis 2015 sur tout le territoire. Le pays est en vigilance renforcée, avec des zones déconseillées au sud et à l'ouest.",
+    "points": [
+      "Formellement déconseillées : la région saharienne proche des frontières libyenne et algérienne (zone militaire, accès soumis à autorisation) et les massifs montagneux de l'ouest (monts Orbata, Selloum, Semmama, Chaambi, Mghila).",
+      "Déconseillée sauf raison impérative : la zone désertique au sud et à l'est de la ligne Bir Rijm Maatoug, Borj Bourguiba et Ben Guerdane (Ben Guerdane étant formellement déconseillée).",
+      "Au Kef, visite la Table de Jugurtha uniquement en circuit organisé.",
+      "Évite les manifestations et mouvements sociaux."
+    ],
+    "source": { "label": "France Diplomatie, Tunisie, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tunisie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "tunis",
+      "name": "Tunis, Carthage et Sidi Bou Saïd",
+      "nights": "3 nuits",
+      "for": ["tous", "stratege"],
+      "summary": "Une médina classée, les ruines de Carthage et le village blanc et bleu de Sidi Bou Saïd.",
+      "sleep": "Dans une maison d'hôtes de la médina, ou à Sidi Bou Saïd.",
+      "see": [
+        { "name": "La médina de Tunis", "note": "Classée à l'Unesco, ses souks et la mosquée Zitouna." },
+        { "name": "Le musée du Bardo", "note": "L'une des plus grandes collections de mosaïques romaines." },
+        { "name": "Carthage et Sidi Bou Saïd", "note": "En train TGM depuis Tunis." }
+      ],
+      "hidden": [
+        { "name": "Le café des Nattes", "note": "Un thé aux pignons à Sidi Bou Saïd." }
+      ],
+      "eat": "Le couscous au poisson, le brik à l'œuf et le thé aux pignons.",
+      "getAround": "Train TGM, taxis jaunes au compteur.",
+      "tip": "Vérifie les horaires du Bardo avant d'y aller."
+    },
+    {
+      "slug": "kairouan-el-jem",
+      "name": "Kairouan et El Jem",
+      "nights": "2 nuits",
+      "for": ["stratege", "explorateur"],
+      "summary": "La ville sainte et sa grande mosquée, puis un amphithéâtre romain colossal.",
+      "sleep": "À Kairouan ou Sousse.",
+      "see": [
+        { "name": "La grande mosquée de Kairouan", "note": "L'une des plus anciennes d'Afrique du Nord." },
+        { "name": "Les bassins des Aghlabides", "note": "D'immenses réservoirs du IXe siècle." },
+        { "name": "L'amphithéâtre d'El Jem", "note": "Parmi les mieux conservés du monde romain." }
+      ],
+      "hidden": [
+        { "name": "La médina de Sousse", "note": "Et son ribat fortifié." }
+      ],
+      "eat": "Les makrouds de Kairouan (gâteaux de semoule aux dattes).",
+      "getAround": "Louages (taxis collectifs) et train.",
+      "tip": "Tenue couvrante pour les mosquées ; l'accès des non-musulmans peut être limité à la cour."
+    },
+    {
+      "slug": "djerba",
+      "name": "Djerba",
+      "nights": "3 nuits",
+      "for": ["lent", "tous"],
+      "summary": "Une île de plages, de menzels blancs et de street art, avec la plus ancienne synagogue d'Afrique.",
+      "sleep": "À Houmt Souk ou dans un menzel.",
+      "see": [
+        { "name": "Djerbahood", "note": "Un village couvert de fresques d'artistes du monde entier." },
+        { "name": "La synagogue de la Ghriba", "note": "Lieu de pèlerinage." },
+        { "name": "Houmt Souk", "note": "Le marché et le port." }
+      ],
+      "hidden": [
+        { "name": "Les potiers de Guellala", "note": "Un village d'artisans." }
+      ],
+      "eat": "Le riz djerbien à la vapeur.",
+      "getAround": "Vélo, scooter ou taxi.",
+      "tip": "Djerba est en vigilance renforcée, mais la ville de Ben Guerdane, sur le continent au sud-est, est formellement déconseillée."
+    },
+    {
+      "slug": "tozeur-douz",
+      "name": "Tozeur, Douz et le Sahara",
+      "nights": "3 nuits",
+      "for": ["explorateur", "energique"],
+      "summary": "Les oasis de palmiers, le chott el-Jérid et les premières dunes du Grand Erg oriental.",
+      "sleep": "À Tozeur et Douz.",
+      "see": [
+        { "name": "Le chott el-Jérid", "note": "Un lac salé aux mirages, au lever du soleil." },
+        { "name": "Les oasis de montagne", "note": "Chebika, Tamerza, Mides." },
+        { "name": "Les dunes de Douz", "note": "En méhari ou en 4x4, avec guide." }
+      ],
+      "hidden": [
+        { "name": "Matmata", "note": "Des habitations troglodytes." }
+      ],
+      "eat": "Les dattes deglet nour et la galette cuite dans le sable.",
+      "getAround": "Voiture avec chauffeur ou circuit organisé.",
+      "tip": "Vérifie sur la carte de France Diplomatie que ton circuit reste au nord de la zone désertique déconseillée."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Tunis et le Sahel",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Tunis", "note": "Médina, Bardo, Carthage, Sidi Bou Saïd." },
+        { "days": "Jours 4 et 5", "place": "Kairouan et El Jem", "note": "En louage." },
+        { "days": "Jours 6 à 8", "place": "Djerba", "note": "Retour depuis Djerba." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Du nord au désert",
+      "for": ["explorateur", "lent"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Tunis", "note": "Arrivée." },
+        { "days": "Jours 4 et 5", "place": "Kairouan", "note": "Et El Jem." },
+        { "days": "Jours 6 à 8", "place": "Tozeur et Douz", "note": "Oasis et dunes." },
+        { "days": "Jours 9 et 10", "place": "Djerba", "note": "Retour depuis Djerba." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les louages", "text": "Taxis collectifs entre les villes, rapides et bon marché." },
+    { "title": "Le train", "text": "Tunis-Sousse-Sfax, pratique et peu cher." },
+    { "title": "En voiture", "text": "Contrôles fréquents ; évite les routes du sud non autorisées." }
+  ],
+  "culture": [
+    "Le français est très parlé.",
+    "Tenue correcte hors des plages et dans les médinas.",
+    "Le marchandage est de mise dans les souks.",
+    "Pendant le ramadan, discrétion pour manger et boire en public."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "عسلامة", "say": "aslema" },
+    { "fr": "Merci", "local": "يعيشك", "say": "y'aychek" },
+    { "fr": "Combien ?", "local": "قداش؟", "say": "gaddech" }
+  ],
+  "checklist": [
+    "Passeport valable au moins 3 mois à l'entrée",
+    "Assurance santé et rapatriement",
+    "Tenue couvrante pour les médinas et mosquées",
+    "Change sur place, reçus conservés",
+    "Vérifier la carte des zones déconseillées",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour la Tunisie ?", "a": "Non pour 3 mois maximum. Depuis 2025, le passeport doit être valable au moins 3 mois à l'entrée ; la carte d'identité ne suffit plus." },
+    { "q": "La Tunisie est-elle sûre ?", "a": "Le pays est en vigilance renforcée, avec l'état d'urgence en vigueur. Les frontières sahariennes et les montagnes de l'ouest sont formellement déconseillées." },
+    { "q": "Quand partir en Tunisie ?", "a": "Au printemps et à l'automne ; l'été pour la plage, l'hiver pour le désert." },
+    { "q": "Quel budget pour une semaine en Tunisie ?", "a": "Compte environ 185 à 500 DT par jour seul et 132 à 365 DT par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

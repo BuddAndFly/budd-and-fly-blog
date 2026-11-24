@@ -1,0 +1,213 @@
+{
+  "name": "Kenya",
+  "prep": "au Kenya",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 76,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Kenya : safari, Masai Mara, eTA, sécurité",
+    "description": "Préparer un voyage au Kenya : eTA obligatoire, zones déconseillées, fièvre jaune, meilleure saison, budget, Masai Mara, Amboseli, Diani. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Kenya se visite de juillet à octobre, saison sèche et période de la grande migration au Masai Mara, et de janvier à mars. Une autorisation électronique de voyage (eTA) est obligatoire avant l'embarquement. Les zones frontalières avec la Somalie, l'Éthiopie et le Soudan du Sud sont formellement déconseillées ; les grands parcs et la côte sud forment le voyage classique.",
+  "essentials": {
+    "bestPeriod": "Juillet à octobre, janvier à mars",
+    "languages": "Swahili et anglais",
+    "currency": "Shilling kényan (KES)",
+    "timeDiff": "+2 h en hiver, +1 h en été",
+    "plugs": "Type G (trois broches), 240 V : adaptateur nécessaire",
+    "emergency": "999 ou 112",
+    "flight": "Environ 8 h 30 en vol direct depuis Paris pour Nairobi"
+  },
+  "months": [
+    { "rating": 2, "note": "Sec et chaud, bon pour les safaris." },
+    { "rating": 2, "note": "Comme en janvier." },
+    { "rating": 1, "note": "Fin du sec." },
+    { "rating": 0, "note": "Grandes pluies." },
+    { "rating": 0, "note": "Grandes pluies, certains lodges fermés." },
+    { "rating": 1, "note": "Fin des pluies, paysages verts." },
+    { "rating": 2, "note": "Grande migration au Masai Mara." },
+    { "rating": 2, "note": "Traversées de la rivière Mara." },
+    { "rating": 2, "note": "Migration, saison sèche." },
+    { "rating": 2, "note": "Fin de la migration." },
+    { "rating": 1, "note": "Petites pluies." },
+    { "rating": 1, "note": "Petites pluies puis retour du sec." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols : les safaris sont généralement facturés en dollars.",
+    "rows": [
+      { "label": "Hébergement (camp de toile ou lodge)", "solo": "80 à 300 $", "duo": "50 à 200 $" },
+      { "label": "Repas", "solo": "20 à 50 $", "duo": "20 à 50 $" },
+      { "label": "Safari (véhicule, chauffeur-guide)", "solo": "100 à 250 $", "duo": "60 à 150 $" },
+      { "label": "Droits d'entrée des parcs", "solo": "60 à 200 $", "duo": "60 à 200 $" }
+    ],
+    "totalSolo": "260 à 800 $",
+    "totalDuo": "190 à 600 $",
+    "note": "Les droits d'entrée des réserves (surtout le Masai Mara) sont élevés et changent souvent. Le véhicule de safari se partage : à deux ou plus, le coût baisse nettement.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Une autorisation électronique de voyage (eTA) est obligatoire, à obtenir sur le site officiel et à présenter avant l'embarquement.",
+    "points": [
+      "Le séjour touristique est de 3 mois maximum, prolongeable de 3 mois auprès des services d'immigration (50 USD).",
+      "Fais ta demande uniquement sur le site officiel de l'eTA kényane."
+    ],
+    "source": { "label": "France Diplomatie, Kenya, Entrée / séjour (mise à jour du 25 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kenya/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "La fièvre jaune est endémique au centre et à l'ouest du pays : la vaccination est fortement recommandée, et obligatoire si tu as séjourné avant dans certains pays d'Afrique ou d'Amérique du Sud.",
+    "points": [
+      "Paludisme : traitement préventif selon avis médical et protection contre les moustiques.",
+      "Dengue : protection contre les moustiques.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Assurance avec évacuation sanitaire indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Kenya, Santé (mise à jour du 25 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kenya/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Plusieurs zones frontalières sont formellement déconseillées. Ailleurs, le risque terroriste impose une vigilance renforcée dans les lieux fréquentés.",
+    "points": [
+      "Formellement déconseillés : la bande de 100 km le long de la frontière somalienne (dont Mandera, Garissa, Dadaab), la partie continentale du comté de Lamu, et les frontières avec l'Éthiopie et le Soudan du Sud.",
+      "Déconseillées sauf raison impérative : les régions excentrées de West Pokot, Turkana, Marsabit et Isiolo.",
+      "À Nairobi, les quartiers d'Eastleigh, Pangani, Kibera et Mathare sont déconseillés ; vigilance dans les centres commerciaux, bars et hôtels de Nairobi, Mombasa et Kisumu."
+    ],
+    "source": { "label": "France Diplomatie, Kenya, Sécurité (mise à jour du 25 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kenya/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "masai-mara",
+      "name": "La réserve du Masai Mara",
+      "nights": "3 nuits",
+      "for": ["tous", "explorateur"],
+      "summary": "La savane mythique, ses lions et, de juillet à octobre, la migration des gnous.",
+      "sleep": "En camp de toile dans la réserve ou dans une conservancy voisine.",
+      "see": [
+        { "name": "Le safari à l'aube", "note": "La meilleure lumière et les prédateurs en chasse." },
+        { "name": "Les traversées de la rivière Mara", "note": "D'août à septembre, avec de la patience." },
+        { "name": "Un village massaï", "note": "Avec un guide qui reverse les bénéfices à la communauté." }
+      ],
+      "hidden": [
+        { "name": "Les conservancies", "note": "Des zones privées voisines, moins de véhicules." }
+      ],
+      "eat": "Les repas du camp.",
+      "getAround": "Vol depuis Nairobi ou véhicule de safari (5 à 6 h de route).",
+      "tip": "Un vol intérieur évite une route longue et cahoteuse."
+    },
+    {
+      "slug": "amboseli",
+      "name": "Le parc d'Amboseli",
+      "nights": "2 nuits",
+      "for": ["tous", "lent"],
+      "summary": "Des troupeaux d'éléphants avec le Kilimandjaro enneigé en toile de fond.",
+      "sleep": "En lodge près du parc.",
+      "see": [
+        { "name": "Les éléphants d'Amboseli", "note": "Parmi les plus étudiés d'Afrique." },
+        { "name": "Le Kilimandjaro au lever du soleil", "note": "Avant que les nuages ne le cachent." },
+        { "name": "Les marais d'Enkongo Narok", "note": "Hippopotames et oiseaux." }
+      ],
+      "hidden": [],
+      "eat": "Les repas du lodge.",
+      "getAround": "Route depuis Nairobi (4 h environ) ou vol.",
+      "tip": "Le sommet du Kilimandjaro est surtout visible tôt le matin."
+    },
+    {
+      "slug": "nairobi",
+      "name": "Nairobi",
+      "nights": "1 à 2 nuits",
+      "for": ["stratege"],
+      "summary": "Une capitale avec un parc national à ses portes, et des éléphanteaux orphelins à adopter.",
+      "sleep": "À Karen ou Westlands.",
+      "see": [
+        { "name": "Le parc national de Nairobi", "note": "Des rhinocéros avec les gratte-ciel au loin." },
+        { "name": "Le Sheldrick Wildlife Trust", "note": "L'orphelinat des éléphants, sur réservation." },
+        { "name": "Le Giraffe Centre", "note": "Des girafes de Rothschild." }
+      ],
+      "hidden": [
+        { "name": "Le musée Karen Blixen", "note": "La maison de l'auteure de « La Ferme africaine »." }
+      ],
+      "eat": "La nyama choma (viande grillée) et l'ugali.",
+      "getAround": "VTC ; évite de marcher la nuit.",
+      "tip": "Organise tes transferts avec ton hébergement ou ton agence."
+    },
+    {
+      "slug": "diani-watamu",
+      "name": "La côte (Diani, Watamu)",
+      "nights": "4 nuits",
+      "for": ["lent", "tous"],
+      "summary": "Des plages de sable blanc bordées de palmiers sur l'océan Indien, et la culture swahilie.",
+      "sleep": "À Diani Beach ou Watamu.",
+      "see": [
+        { "name": "La plage de Diani", "note": "L'une des plus belles d'Afrique de l'Est." },
+        { "name": "Le parc marin de Watamu", "note": "Snorkeling et tortues." },
+        { "name": "Fort Jesus à Mombasa", "note": "Un fort portugais classé à l'Unesco." }
+      ],
+      "hidden": [
+        { "name": "Wasini et Kisite", "note": "Dauphins et snorkeling en boutre." }
+      ],
+      "eat": "Le biryani swahili et le poisson au coco.",
+      "getAround": "Train Madaraka Express Nairobi-Mombasa, ou vol.",
+      "tip": "Reste vigilant dans les lieux très fréquentés de Mombasa."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Safari et plage",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jour 1", "place": "Nairobi", "note": "Arrivée." },
+        { "days": "Jours 2 à 4", "place": "Masai Mara", "note": "En vol ou en véhicule." },
+        { "days": "Jours 5 et 6", "place": "Amboseli", "note": "Éléphants et Kilimandjaro." },
+        { "days": "Jours 7 à 10", "place": "Diani", "note": "Vol, retour depuis Mombasa." }
+      ]
+    },
+    {
+      "days": 7,
+      "title": "Le grand safari",
+      "for": ["explorateur"],
+      "steps": [
+        { "days": "Jour 1", "place": "Nairobi", "note": "Parc national et éléphanteaux." },
+        { "days": "Jours 2 à 4", "place": "Masai Mara", "note": "Migration (juillet à octobre)." },
+        { "days": "Jours 5 à 7", "place": "Lac Naivasha et Amboseli", "note": "Retour à Nairobi." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Le safari organisé", "text": "Véhicule 4x4 avec chauffeur-guide : la norme pour les parcs." },
+    { "title": "Les vols intérieurs", "text": "Petits avions vers les réserves et la côte." },
+    { "title": "Le train", "text": "Madaraka Express entre Nairobi et Mombasa." }
+  ],
+  "culture": [
+    "« Jambo » (bonjour) et « hakuna matata » (pas de souci) s'entendent partout.",
+    "Les sacs plastiques sont interdits : ne les emporte pas dans ta valise.",
+    "Demande toujours avant de photographier quelqu'un, en particulier les Massaï."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Jambo", "say": "djambo" },
+    { "fr": "Merci", "local": "Asante", "say": "assanté" },
+    { "fr": "Doucement", "local": "Pole pole", "say": "polé polé" }
+  ],
+  "checklist": [
+    "eTA obtenue sur le site officiel",
+    "Vaccin contre la fièvre jaune (fortement recommandé)",
+    "Avis médical pour le paludisme",
+    "Assurance avec évacuation sanitaire",
+    "Adaptateur type G",
+    "Pas de sacs plastiques dans les bagages",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour le Kenya ?", "a": "Il faut une autorisation électronique de voyage (eTA), obtenue en ligne sur le site officiel avant l'embarquement." },
+    { "q": "Le vaccin contre la fièvre jaune est-il obligatoire au Kenya ?", "a": "Il est fortement recommandé, et obligatoire si tu as séjourné avant dans certains pays d'Afrique ou d'Amérique du Sud." },
+    { "q": "Le Kenya est-il sûr ?", "a": "Les frontières somalienne, éthiopienne et sud-soudanaise sont formellement déconseillées. Les grands parcs et la côte sud se visitent avec une vigilance renforcée." },
+    { "q": "Quel budget pour un safari au Kenya ?", "a": "Compte environ 260 à 800 $ par jour seul et 190 à 600 $ par personne à deux, safari et parcs compris, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}
