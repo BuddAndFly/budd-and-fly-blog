@@ -1,0 +1,190 @@
+{
+  "name": "Seychelles",
+  "prep": "aux Seychelles",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 86,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Seychelles : Mahé, Praslin, La Digue",
+    "description": "Préparer un voyage aux Seychelles : autorisation de voyage, sécurité, meilleure saison, budget, Mahé, Praslin, La Digue, l'Anse Source d'Argent. PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Les Seychelles se visitent toute l'année ; avril-mai et octobre-novembre, entre les deux alizés, offrent la mer la plus calme. Une autorisation de voyage payante doit être demandée en ligne avant l'embarquement. Mahé, Praslin et La Digue, avec leurs rochers de granit et leurs plages, se relient en ferry. L'ambassade a des capacités d'aide limitées : vérifie ton assurance.",
+  "essentials": {
+    "bestPeriod": "Avril-mai, octobre-novembre",
+    "languages": "Créole seychellois, anglais et français",
+    "currency": "Roupie seychelloise (SCR) ; euros acceptés",
+    "timeDiff": "+3 h en hiver, +2 h en été",
+    "plugs": "Type G (trois broches), 240 V : adaptateur nécessaire",
+    "emergency": "999",
+    "flight": "Environ 10 à 12 h depuis Paris pour Mahé, avec une escale"
+  },
+  "months": [
+    { "rating": 1, "note": "Chaud et humide, averses (alizé du nord-ouest)." },
+    { "rating": 1, "note": "Comme en janvier." },
+    { "rating": 2, "note": "Plus calme, mer chaude." },
+    { "rating": 2, "note": "Intersaison : mer très calme, idéal pour le snorkeling." },
+    { "rating": 2, "note": "Comme en avril." },
+    { "rating": 1, "note": "Alizé du sud-est, mer agitée sur certaines côtes." },
+    { "rating": 1, "note": "Frais et venté, sec." },
+    { "rating": 1, "note": "Comme en juillet." },
+    { "rating": 1, "note": "Le vent faiblit." },
+    { "rating": 2, "note": "Intersaison, excellente visibilité." },
+    { "rating": 2, "note": "Mer calme, chaud." },
+    { "rating": 1, "note": "Retour des averses." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
+    "rows": [
+      { "label": "Hébergement (guesthouse ou self-catering)", "solo": "90 à 220 €", "duo": "55 à 130 €" },
+      { "label": "Repas", "solo": "30 à 70 €", "duo": "30 à 70 €" },
+      { "label": "Transports (bus, ferry, vélo)", "solo": "10 à 60 €", "duo": "10 à 60 €" },
+      { "label": "Excursions et entrées", "solo": "10 à 60 €", "duo": "10 à 60 €" }
+    ],
+    "totalSolo": "140 à 410 €",
+    "totalDuo": "105 à 320 €",
+    "note": "Les Seychelles sont chères : les logements avec cuisine et les « take-away » créoles réduisent le budget. Les ferries entre îles et certaines entrées (Vallée de Mai, Anse Source d'Argent) sont payants.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Avant l'embarquement, demande en ligne une autorisation de voyage (formalité payante). Elle permet d'obtenir à l'arrivée un visa de court séjour, prolongeable jusqu'à 3 mois.",
+    "points": [
+      "Pour l'obtenir : passeport valide, réservation d'hôtel ou attestation d'hébergement pour tout le séjour, billet retour ou de continuation et moyens suffisants."
+    ],
+    "source": { "label": "France Diplomatie, Seychelles, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/seychelles/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "La vaccination contre la fièvre jaune et la poliomyélite est obligatoire si tu viens d'une zone d'endémie ; aucun vaccin n'est exigé en arrivant de France.",
+    "points": [
+      "Dengue : protection contre les moustiques.",
+      "Soleil tropical : protection solaire.",
+      "Assurance couvrant hospitalisation et évacuation indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Seychelles, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/seychelles/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "L'ambassade de France aux Seychelles a des capacités limitées pour aider en cas de crise : tu es responsable de ta propre sécurité.",
+    "points": [
+      "Vérifie les termes de ton assurance et assure-toi de pouvoir couvrir une hospitalisation ou une évacuation.",
+      "L'ambassade ne délivre pas de passeport ; en cas de perte, les services d'immigration seychellois peuvent émettre un titre de voyage temporaire.",
+      "Les autres démarches relèvent de l'ambassade de France à Port-Louis (Maurice)."
+    ],
+    "source": { "label": "France Diplomatie, Seychelles, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/seychelles/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "mahe",
+      "name": "Mahé",
+      "nights": "3 nuits",
+      "for": ["tous", "explorateur"],
+      "summary": "L'île principale : la petite capitale Victoria, des montagnes couvertes de forêt et plus de 60 plages.",
+      "sleep": "Sur la côte ouest (Beau Vallon, Anse Boileau) ou au sud.",
+      "see": [
+        { "name": "Le Morne Seychellois", "note": "Randonnées dans le parc national (Copolia, Morne Blanc)." },
+        { "name": "L'Anse Intendance et l'Anse Takamaka", "note": "Les plages sauvages du sud." },
+        { "name": "Le marché de Victoria", "note": "Poissons, épices et fruits." }
+      ],
+      "hidden": [
+        { "name": "L'Anse Major", "note": "Une plage accessible uniquement à pied." }
+      ],
+      "eat": "Le cari coco de poisson et le poisson grillé créole.",
+      "getAround": "Bus bon marché ou voiture (conduite à gauche).",
+      "tip": "Les plages du sud-est sont plus abritées pendant la mousson du sud-est."
+    },
+    {
+      "slug": "praslin",
+      "name": "Praslin",
+      "nights": "3 nuits",
+      "for": ["lent", "tous"],
+      "summary": "La forêt du coco de mer et deux des plus belles plages de l'océan Indien.",
+      "sleep": "Près de l'Anse Volbert ou de Grand Anse.",
+      "see": [
+        { "name": "La Vallée de Mai", "note": "Forêt de cocos de mer classée à l'Unesco." },
+        { "name": "L'Anse Lazio", "note": "Sable blanc et rochers de granit." },
+        { "name": "L'île Curieuse", "note": "Tortues géantes et mangrove." }
+      ],
+      "hidden": [
+        { "name": "L'Anse Georgette", "note": "Une crique superbe, accès à demander." }
+      ],
+      "eat": "Les fruits à pain et les caris de la cuisine créole.",
+      "getAround": "Ferry depuis Mahé, puis bus ou voiture.",
+      "tip": "Visite la Vallée de Mai tôt le matin pour entendre le perroquet noir, espèce endémique."
+    },
+    {
+      "slug": "la-digue",
+      "name": "La Digue",
+      "nights": "2 nuits",
+      "for": ["lent", "energique"],
+      "summary": "Une petite île sans presque aucune voiture, qu'on parcourt à vélo jusqu'à l'Anse Source d'Argent.",
+      "sleep": "À La Passe, près du port.",
+      "see": [
+        { "name": "L'Anse Source d'Argent", "note": "Les rochers de granit roses, entrée payante par le domaine de l'Union." },
+        { "name": "Grand Anse et Petite Anse", "note": "Spectaculaires, mais baignade dangereuse en saison de vent." },
+        { "name": "Le Nid d'Aigle", "note": "Le point culminant de l'île, à pied." }
+      ],
+      "hidden": [
+        { "name": "L'île Coco", "note": "Snorkeling en excursion." }
+      ],
+      "eat": "Les jus de fruits frais et le poisson grillé des petites gargotes.",
+      "getAround": "Vélo.",
+      "tip": "Va à l'Anse Source d'Argent à marée basse pour profiter des bassins."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Les trois îles",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Mahé", "note": "Arrivée." },
+        { "days": "Jours 4 à 7", "place": "Praslin", "note": "En ferry." },
+        { "days": "Jours 8 à 10", "place": "La Digue", "note": "Retour par Mahé." }
+      ]
+    },
+    {
+      "days": 7,
+      "title": "Praslin et La Digue",
+      "for": ["lent", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Praslin", "note": "Ferry depuis Mahé à l'arrivée." },
+        { "days": "Jours 5 à 7", "place": "La Digue", "note": "Retour à Mahé pour le vol." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les ferries", "text": "Relient Mahé, Praslin et La Digue plusieurs fois par jour." },
+    { "title": "Les bus", "text": "Très bon marché sur Mahé et Praslin." },
+    { "title": "Le vélo", "text": "Le moyen de transport de La Digue." }
+  ],
+  "culture": [
+    "Le créole seychellois est proche du créole mauricien ; le français est souvent compris.",
+    "Le coco de mer est protégé : son export demande un certificat officiel.",
+    "Le rythme est lent : « lentement, lentement »."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Bonzour", "say": "bonzour" },
+    { "fr": "Merci", "local": "Mersi", "say": "mersi" },
+    { "fr": "Ça va ?", "local": "Ki manyer ?", "say": "ki manié" }
+  ],
+  "checklist": [
+    "Autorisation de voyage demandée en ligne avant le départ",
+    "Passeport valide, billet retour, réservation d'hébergement",
+    "Assurance hospitalisation et évacuation",
+    "Adaptateur type G",
+    "Crème solaire respectueuse des récifs"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour les Seychelles ?", "a": "Il faut demander en ligne une autorisation de voyage payante avant l'embarquement ; elle donne droit à un visa à l'arrivée." },
+    { "q": "Quand partir aux Seychelles ?", "a": "Toute l'année ; avril-mai et octobre-novembre offrent la mer la plus calme." },
+    { "q": "Les Seychelles sont-elles sûres ?", "a": "L'archipel est paisible, mais l'ambassade a des capacités limitées : vérifie ton assurance avant de partir." },
+    { "q": "Quel budget pour 10 jours aux Seychelles ?", "a": "Compte environ 140 à 410 € par jour seul et 105 à 320 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

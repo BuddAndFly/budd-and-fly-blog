@@ -1,0 +1,211 @@
+{
+  "name": "Australie",
+  "prep": "en Australie",
+  "kind": "pays",
+  "continent": "Océanie",
+  "priority": 82,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Australie : eVisitor, Sydney, Uluru, budget",
+    "description": "Préparer un voyage en Australie : eVisitor, meilleure saison, budget, Sydney, Melbourne, la Great Ocean Road, Uluru, la Grande Barrière. PDF gratuit."
+  },
+  "hero": null,
+  "summary": "L'Australie se visite toute l'année selon les régions : le sud de septembre à avril, le nord tropical de mai à octobre. Il faut une autorisation électronique (eVisitor) ou un visa avant le départ. Le pays est en vigilance normale ; les risques sont surtout naturels (feux, inondations, cyclones au nord). Sydney, la côte est, Uluru et la Grande Barrière se relient en avion.",
+  "essentials": {
+    "bestPeriod": "Septembre à avril (sud), mai à octobre (nord)",
+    "languages": "Anglais",
+    "currency": "Dollar australien (AUD)",
+    "timeDiff": "+10 h en hiver, +8 h en été (Sydney)",
+    "plugs": "Type I, 230 V : adaptateur nécessaire",
+    "emergency": "000",
+    "flight": "Environ 22 h depuis Paris pour Sydney, avec une escale"
+  },
+  "months": [
+    { "rating": 2, "note": "Été austral : plages du sud, saison des pluies au nord." },
+    { "rating": 1, "note": "Chaud au sud, cyclones possibles au nord." },
+    { "rating": 2, "note": "Automne doux au sud." },
+    { "rating": 2, "note": "Agréable partout." },
+    { "rating": 2, "note": "Le nord tropical devient sec." },
+    { "rating": 1, "note": "Hiver au sud ; idéal au nord et au centre." },
+    { "rating": 1, "note": "Comme en juin ; baleines sur la côte est." },
+    { "rating": 1, "note": "Nord et Uluru idéaux." },
+    { "rating": 2, "note": "Printemps, fleurs sauvages à l'ouest." },
+    { "rating": 2, "note": "Excellent presque partout." },
+    { "rating": 2, "note": "Chaud, début de l'été." },
+    { "rating": 2, "note": "Été, feux d'artifice de Sydney au Nouvel An." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en dollars australiens, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (motel, auberge, hôtel simple)", "solo": "120 à 250 A$", "duo": "75 à 150 A$" },
+      { "label": "Repas", "solo": "50 à 100 A$", "duo": "50 à 100 A$" },
+      { "label": "Transports (van, voiture, essence)", "solo": "40 à 120 A$", "duo": "25 à 70 A$" },
+      { "label": "Activités et parcs", "solo": "20 à 120 A$", "duo": "20 à 120 A$" }
+    ],
+    "totalSolo": "230 à 590 A$",
+    "totalDuo": "170 à 440 A$",
+    "note": "Le van aménagé réduit le budget hébergement. Les vols intérieurs sont indispensables vu les distances. Les excursions (Grande Barrière, Uluru) coûtent cher.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Il faut une autorisation électronique de voyage (eVisitor) ou un visa, obtenus avant le départ. Aucune vignette n'est collée dans le passeport : la délivrance est confirmée par courriel.",
+    "points": [
+      "Consulte le site du ministère australien de l'Immigration pour les conditions à jour.",
+      "Transit : moins de 8 h en zone internationale sans formalité ; de 8 à 72 h, il faut un visa de transit."
+    ],
+    "source": { "label": "France Diplomatie, Australie, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/australie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est obligatoire en arrivant de France ; la fièvre jaune l'est si tu viens d'une zone d'endémie.",
+    "points": [
+      "Dengue dans le nord tropical : protection contre les moustiques.",
+      "Soleil très intense : crème, chapeau, lunettes.",
+      "Les soins sont chers : assurance santé et rapatriement indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Australie, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/australie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Tout le territoire est en vigilance normale. Les risques sont surtout naturels.",
+    "points": [
+      "Incendies, inondations et cyclones (nord du pays, de novembre à avril) : suis les consignes des autorités (interdictions de feu, fermetures de parcs et de routes, évacuations).",
+      "Inscris-toi sur Ariane avant le départ pour être contacté en cas de crise."
+    ],
+    "source": { "label": "France Diplomatie, Australie, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/australie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "sydney",
+      "name": "Sydney",
+      "nights": "4 nuits",
+      "for": ["tous", "energique"],
+      "summary": "Une ville au bord d'une baie spectaculaire, avec son opéra, ses plages et ses balades côtières.",
+      "sleep": "À The Rocks, Surry Hills ou près de Bondi.",
+      "see": [
+        { "name": "L'Opéra et le Harbour Bridge", "note": "En ferry depuis Circular Quay." },
+        { "name": "La balade côtière Bondi-Coogee", "note": "Falaises et piscines d'eau de mer." },
+        { "name": "Les Blue Mountains", "note": "Forêts d'eucalyptus et falaises, à 2 h de train." }
+      ],
+      "hidden": [
+        { "name": "Le ferry pour Manly", "note": "La plus belle croisière au prix d'un ticket." }
+      ],
+      "eat": "Le flat white, le barramundi et les brunchs.",
+      "getAround": "Ferries, trains et bus avec la carte Opal ou la carte bancaire.",
+      "tip": "Baigne-toi toujours entre les drapeaux rouges et jaunes des sauveteurs."
+    },
+    {
+      "slug": "melbourne-great-ocean-road",
+      "name": "Melbourne et la Great Ocean Road",
+      "nights": "5 nuits",
+      "for": ["energique", "lent"],
+      "summary": "La capitale culturelle, ses ruelles et ses cafés, puis l'une des plus belles routes côtières du monde.",
+      "sleep": "À Fitzroy ou dans le CBD ; à Apollo Bay et Port Campbell.",
+      "see": [
+        { "name": "Les ruelles de Melbourne", "note": "Street art et cafés." },
+        { "name": "Les Douze Apôtres", "note": "Des piliers calcaires dans l'océan." },
+        { "name": "Les koalas de Kennett River", "note": "Dans les eucalyptus, au bord de la route." }
+      ],
+      "hidden": [
+        { "name": "Phillip Island", "note": "La parade des petits manchots au coucher du soleil." }
+      ],
+      "eat": "Le café de spécialité et les marchés (Queen Victoria Market).",
+      "getAround": "Tram gratuit dans le centre de Melbourne ; voiture pour la côte.",
+      "tip": "Prévois 3 jours pour la Great Ocean Road, ne la fais pas dans la journée."
+    },
+    {
+      "slug": "uluru",
+      "name": "Uluru et le Centre rouge",
+      "nights": "3 nuits",
+      "for": ["explorateur", "tous"],
+      "summary": "Le monolithe sacré des Anangu, les dômes de Kata Tjuta et le canyon de Kings Canyon.",
+      "sleep": "À Yulara (Ayers Rock Resort), seul hébergement près du parc.",
+      "see": [
+        { "name": "Uluru au coucher du soleil", "note": "L'ascension est interdite depuis 2019." },
+        { "name": "La vallée des Vents à Kata Tjuta", "note": "Randonnée tôt le matin." },
+        { "name": "Le Kings Canyon Rim Walk", "note": "Le tour du canyon." }
+      ],
+      "hidden": [],
+      "eat": "Les dîners sous les étoiles proposés à Yulara.",
+      "getAround": "Vol vers Ayers Rock ou Alice Springs, puis voiture.",
+      "tip": "Pars très tôt en randonnée : la chaleur ferme certains sentiers l'après-midi."
+    },
+    {
+      "slug": "queensland",
+      "name": "Le Queensland (Cairns, Whitsundays)",
+      "nights": "5 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "La Grande Barrière de corail, la forêt tropicale de Daintree et les plages blanches des Whitsundays.",
+      "sleep": "À Cairns, Port Douglas et Airlie Beach.",
+      "see": [
+        { "name": "La Grande Barrière de corail", "note": "Snorkeling ou plongée au départ de Cairns." },
+        { "name": "La forêt de Daintree", "note": "La plus ancienne forêt tropicale du monde." },
+        { "name": "Whitehaven Beach", "note": "Un sable de silice éclatant." }
+      ],
+      "hidden": [
+        { "name": "Cape Tribulation", "note": "Là où la forêt rencontre le récif." }
+      ],
+      "eat": "Les fruits tropicaux et les crevettes du Queensland.",
+      "getAround": "Vols intérieurs, voiture ou bus.",
+      "tip": "D'octobre à mai, les méduses imposent une combinaison de protection pour se baigner."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 21,
+      "title": "La côte est et le Centre rouge",
+      "for": ["tous", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Sydney", "note": "Arrivée et Blue Mountains." },
+        { "days": "Jours 5 à 9", "place": "Melbourne et Great Ocean Road", "note": "En avion." },
+        { "days": "Jours 10 à 12", "place": "Uluru", "note": "En avion." },
+        { "days": "Jours 13 à 21", "place": "Queensland", "note": "Cairns, Daintree, Whitsundays." }
+      ]
+    },
+    {
+      "days": 14,
+      "title": "Sydney et la Grande Barrière",
+      "for": ["lent", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 5", "place": "Sydney", "note": "Ville et plages." },
+        { "days": "Jours 6 à 10", "place": "Cairns et Daintree", "note": "Récif et forêt." },
+        { "days": "Jours 11 à 14", "place": "Whitsundays", "note": "Voile et plages." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les vols intérieurs", "text": "Indispensables : le pays est grand comme 14 fois la France." },
+    { "title": "Le van aménagé", "text": "Très populaire ; campe uniquement sur les aires autorisées." },
+    { "title": "En voiture", "text": "Conduite à gauche ; attention aux kangourous à l'aube et au crépuscule." }
+  ],
+  "culture": [
+    "Le tutoiement et la décontraction sont la norme.",
+    "Respecte les sites sacrés aborigènes et les consignes des parcs.",
+    "Le pourboire n'est pas obligatoire.",
+    "Les règles de biosécurité à l'arrivée sont strictes : déclare toute nourriture."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "G'day", "say": "gueudaï" },
+    { "fr": "Merci", "local": "Cheers", "say": "tchiers" },
+    { "fr": "Pas de souci", "local": "No worries", "say": "no ouoriz" }
+  ],
+  "checklist": [
+    "Passeport et eVisitor (ou visa) obtenus avant le départ",
+    "Permis de conduire international",
+    "Adaptateur type I",
+    "Protection solaire forte",
+    "Assurance santé et rapatriement",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour l'Australie ?", "a": "Il faut une autorisation électronique eVisitor ou un visa, obtenus en ligne avant le départ sur le site officiel du ministère australien de l'Immigration." },
+    { "q": "L'Australie est-elle sûre ?", "a": "Oui, le pays est en vigilance normale. Les risques sont naturels : feux de brousse, inondations, cyclones au nord, courants et animaux marins." },
+    { "q": "Quand partir en Australie ?", "a": "De septembre à avril pour le sud, de mai à octobre pour le nord tropical et Uluru." },
+    { "q": "Quel budget pour trois semaines en Australie ?", "a": "Compte environ 230 à 590 A$ par jour seul et 170 à 440 A$ par personne à deux, hors vols internationaux. Ces montants sont des estimations à vérifier." }
+  ]
+}
