@@ -1,0 +1,218 @@
+{
+  "name": "Chine",
+  "prep": "en Chine",
+  "kind": "pays",
+  "continent": "Asie",
+  "priority": 55,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Chine : sans visa 30 jours, Pékin, Xi'an",
+    "description": "Préparer un voyage en Chine : exemption de visa 30 jours, applications utiles, meilleure saison, budget, Pékin, Xi'an, Shanghai, Guilin. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Chine se visite au printemps (avril-mai) et à l'automne (septembre-octobre). Jusqu'au 31 décembre 2026, les Français peuvent y séjourner 30 jours sans visa pour le tourisme. Le train à grande vitesse relie Pékin, Xi'an, Shanghai et Guilin. Prépare ton téléphone : paiement mobile, cartes et messageries chinoises sont indispensables.",
+  "essentials": {
+    "bestPeriod": "Avril-mai, septembre-octobre",
+    "languages": "Mandarin (anglais peu parlé hors des grandes villes)",
+    "currency": "Yuan renminbi (CNY)",
+    "timeDiff": "+7 h en hiver, +6 h en été",
+    "plugs": "Types A, C et I, 220 V : adaptateur conseillé",
+    "emergency": "Police 110 · Ambulance 120 · Pompiers 119",
+    "flight": "Environ 11 h en vol direct depuis Paris pour Pékin ou Shanghai"
+  },
+  "months": [
+    { "rating": 0, "note": "Hiver très froid au nord ; Harbin et ses sculptures de glace." },
+    { "rating": 0, "note": "Nouvel An chinois : transports saturés, beaucoup de lieux fermés." },
+    { "rating": 1, "note": "Fin de l'hiver, printemps au sud." },
+    { "rating": 2, "note": "Printemps, idéal partout." },
+    { "rating": 2, "note": "Excellent, sauf la semaine du 1er mai, très chargée." },
+    { "rating": 1, "note": "Chaleur et pluies au sud." },
+    { "rating": 1, "note": "Chaud et humide ; Yunnan et montagnes agréables." },
+    { "rating": 1, "note": "Comme en juillet." },
+    { "rating": 2, "note": "Températures idéales." },
+    { "rating": 2, "note": "Automne doré ; évite la semaine nationale (1er au 7 octobre)." },
+    { "rating": 1, "note": "Frais au nord, agréable au sud." },
+    { "rating": 0, "note": "Froid au nord." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en yuans, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou boutique-hôtel)", "solo": "300 à 700 ¥", "duo": "180 à 420 ¥" },
+      { "label": "Repas", "solo": "100 à 250 ¥", "duo": "100 à 250 ¥" },
+      { "label": "Transports (train, métro)", "solo": "50 à 250 ¥", "duo": "50 à 250 ¥" },
+      { "label": "Visites et entrées", "solo": "50 à 200 ¥", "duo": "50 à 200 ¥" }
+    ],
+    "totalSolo": "500 à 1 400 ¥",
+    "totalDuo": "380 à 1 120 ¥",
+    "note": "Les trains à grande vitesse sont bon marché mais se réservent avec le passeport. Les grands sites (Cité interdite, guerriers de Xi'an) exigent souvent une réservation nominative.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Jusqu'au 31 décembre 2026, pas de visa pour un séjour de 30 jours maximum avec un passeport ordinaire français, pour le tourisme, les affaires, une visite familiale ou un transit.",
+    "points": [
+      "Le passeport doit être valable au moins 6 mois après la sortie de Chine.",
+      "Tout autre motif de visite expose à un refus d'entrée. Les passeports d'urgence ne bénéficient pas de l'exemption.",
+      "L'accès au Tibet demande, en plus, une autorisation spéciale obtenue par une agence agréée, avec guide obligatoire.",
+      "Hong Kong : passeport valable 1 mois après le séjour ; Macao : 3 mois.",
+      "L'entrée en Chine relève des seules autorités chinoises : vérifie les règles auprès de l'ambassade de Chine avant le départ."
+    ],
+    "source": { "label": "France Diplomatie, Chine, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/chine/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est obligatoire en arrivant de France ; la fièvre jaune l'est si tu viens d'une zone d'endémie, y compris après un transit de plus de 12 h dans un aéroport d'un pays concerné.",
+    "points": [
+      "Dengue présente dans le sud : protection contre les moustiques.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Pollution de l'air parfois forte dans les grandes villes du nord en hiver.",
+      "Assurance santé et rapatriement indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Chine, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/chine/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "La Chine continentale est en vigilance normale, sauf la région autonome ouïghoure du Xinjiang, en vigilance renforcée.",
+    "points": [
+      "Xinjiang : contrôles et check-points très fréquents, étrangers systématiquement contrôlés.",
+      "L'entrée, même involontaire, dans une zone d'accès restreint expose à des amendes, voire à une interpellation.",
+      "Les conditions d'accès à certaines régions peuvent changer rapidement : vérifie-les auprès des autorités ou de ton agence."
+    ],
+    "source": { "label": "France Diplomatie, Chine, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/chine/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "pekin",
+      "name": "Pékin",
+      "nights": "4 nuits",
+      "for": ["tous", "stratege"],
+      "summary": "La capitale impériale : Cité interdite, temple du Ciel, hutongs et la Grande Muraille à une heure.",
+      "sleep": "Près des hutongs du centre (Dongcheng).",
+      "see": [
+        { "name": "La Cité interdite", "note": "Réservation nominative en ligne avec le passeport, fermée le lundi." },
+        { "name": "La Grande Muraille à Mutianyu", "note": "Moins bondée que Badaling, avec téléphérique." },
+        { "name": "Le temple du Ciel", "note": "Le matin, quand les habitants font du tai-chi." }
+      ],
+      "hidden": [
+        { "name": "Les hutongs autour de Shichahai", "note": "Ruelles anciennes et lacs, à vélo." },
+        { "name": "Le palais d'Été", "note": "Jardins impériaux au bord d'un lac." }
+      ],
+      "eat": "Le canard laqué et les raviolis jiaozi.",
+      "getAround": "Métro très pratique.",
+      "tip": "Installe avant le départ une application de paiement mobile chinoise acceptant les cartes étrangères."
+    },
+    {
+      "slug": "xian",
+      "name": "Xi'an",
+      "nights": "2 nuits",
+      "for": ["tous", "explorateur"],
+      "summary": "L'ancienne capitale, départ de la Route de la soie, et l'armée de terre cuite.",
+      "sleep": "À l'intérieur des remparts.",
+      "see": [
+        { "name": "L'armée de terre cuite", "note": "Des milliers de guerriers, à 1 h du centre." },
+        { "name": "Les remparts", "note": "À vélo sur 14 km." },
+        { "name": "Le quartier musulman", "note": "Ruelles de street-food et grande mosquée." }
+      ],
+      "hidden": [
+        { "name": "Le mont Huashan", "note": "Des sentiers vertigineux sur une montagne sacrée." }
+      ],
+      "eat": "Les nouilles biang biang et le roujiamo (« hamburger » chinois).",
+      "getAround": "Métro et bus ; train rapide depuis Pékin (environ 4 h 30).",
+      "tip": "Arrive à l'ouverture chez les guerriers de terre cuite."
+    },
+    {
+      "slug": "shanghai",
+      "name": "Shanghai",
+      "nights": "3 nuits",
+      "for": ["energique", "stratege"],
+      "summary": "La métropole futuriste face au Bund colonial, et les villes d'eau tout autour.",
+      "sleep": "Dans l'ancienne Concession française ou près du Bund.",
+      "see": [
+        { "name": "Le Bund", "note": "Face aux gratte-ciel de Pudong illuminés le soir." },
+        { "name": "Le jardin Yu", "note": "Un jardin classique au cœur de la vieille ville." },
+        { "name": "L'ancienne Concession française", "note": "Rues bordées de platanes." }
+      ],
+      "hidden": [
+        { "name": "Suzhou", "note": "Jardins classiques et canaux, à 30 minutes de train rapide." }
+      ],
+      "eat": "Les xiaolongbao (raviolis vapeur au bouillon).",
+      "getAround": "Métro immense et efficace.",
+      "tip": "Hangzhou et son lac de l'Ouest sont à 1 h de train."
+    },
+    {
+      "slug": "guilin-yangshuo",
+      "name": "Guilin et Yangshuo",
+      "nights": "3 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "Les pains de sucre karstiques le long de la rivière Li, et les rizières en terrasses de Longji.",
+      "sleep": "À Yangshuo, dans la campagne.",
+      "see": [
+        { "name": "La croisière sur la rivière Li", "note": "De Guilin à Yangshuo." },
+        { "name": "La vallée de la rivière Yulong", "note": "En radeau de bambou ou à vélo." },
+        { "name": "Les rizières de Longji", "note": "Des terrasses vertigineuses." }
+      ],
+      "hidden": [
+        { "name": "Xingping", "note": "Le paysage du billet de 20 yuans." }
+      ],
+      "eat": "Le poisson à la bière de Yangshuo.",
+      "getAround": "Train rapide jusqu'à Guilin ou Yangshuo, puis vélo ou scooter électrique.",
+      "tip": "Monte au belvédère de Xianggong au lever du soleil."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 14,
+      "title": "Les grands classiques",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Pékin", "note": "Cité interdite et Grande Muraille." },
+        { "days": "Jours 5 et 6", "place": "Xi'an", "note": "En train rapide." },
+        { "days": "Jours 7 à 9", "place": "Guilin et Yangshuo", "note": "En train rapide ou en vol." },
+        { "days": "Jours 10 à 14", "place": "Shanghai", "note": "Et Suzhou, retour depuis Shanghai." }
+      ]
+    },
+    {
+      "days": 8,
+      "title": "Pékin et Shanghai",
+      "for": ["energique"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Pékin", "note": "Arrivée." },
+        { "days": "Jours 5 à 8", "place": "Shanghai", "note": "En train rapide (environ 4 h 30)." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Le train à grande vitesse", "text": "Le plus grand réseau du monde. Réservation avec le passeport, présent à l'embarquement." },
+    { "title": "Le métro", "text": "Excellent dans toutes les grandes villes." },
+    { "title": "Les vols intérieurs", "text": "Pour les très longues distances." }
+  ],
+  "culture": [
+    "Les applications occidentales (Google, WhatsApp, Instagram) sont bloquées : prévois des alternatives avant de partir.",
+    "Le paiement mobile est roi ; garde tout de même un peu d'espèces.",
+    "Ne plante pas tes baguettes verticalement dans le riz.",
+    "Évite les sujets politiques sensibles."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "你好", "say": "ni hao" },
+    { "fr": "Merci", "local": "谢谢", "say": "xiè xie" },
+    { "fr": "Combien ?", "local": "多少钱？", "say": "duo shao qian" }
+  ],
+  "checklist": [
+    "Passeport ordinaire valable 6 mois après la sortie",
+    "Séjour de 30 jours maximum sans visa (jusqu'au 31/12/2026)",
+    "Application de paiement mobile chinoise configurée",
+    "Cartes hors ligne et application de traduction",
+    "Billets de train et réservations des sites faits avec le passeport",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour la Chine ?", "a": "Non pour 30 jours maximum et pour le tourisme, jusqu'au 31 décembre 2026, avec un passeport ordinaire valable 6 mois après la sortie. Vérifie la prolongation de cette mesure après cette date." },
+    { "q": "La Chine est-elle sûre ?", "a": "Oui, le pays est en vigilance normale, sauf le Xinjiang en vigilance renforcée. Respecte les zones d'accès restreint." },
+    { "q": "Quand partir en Chine ?", "a": "Au printemps et à l'automne. Évite le Nouvel An chinois et la semaine nationale début octobre." },
+    { "q": "Quel budget pour deux semaines en Chine ?", "a": "Compte environ 500 à 1 400 ¥ par jour seul et 380 à 1 120 ¥ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

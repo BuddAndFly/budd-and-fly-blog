@@ -1,0 +1,217 @@
+{
+  "name": "Inde",
+  "prep": "en Inde",
+  "kind": "pays",
+  "continent": "Asie",
+  "priority": 54,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Inde : visa, Rajasthan, Kerala, budget",
+    "description": "Préparer un voyage en Inde : visa, e-Arrival Card, zones déconseillées, meilleure saison, budget, Rajasthan, Agra, Varanasi, Kerala, Goa. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "L'Inde se visite surtout d'octobre à mars, saison sèche et plus fraîche. Un visa est obligatoire, et depuis octobre 2025 il faut aussi remplir en ligne l'« e-Arrival Card » dans les 72 heures avant le vol. Le pays est globalement sûr, à condition d'éviter le Cachemire et la frontière pakistanaise. Le Rajasthan, Agra, Varanasi et le Kerala composent des voyages très différents.",
+  "essentials": {
+    "bestPeriod": "Octobre à mars",
+    "languages": "Hindi, anglais et une vingtaine de langues officielles",
+    "currency": "Roupie indienne (INR)",
+    "timeDiff": "+4 h 30 en hiver, +3 h 30 en été",
+    "plugs": "Types C, D et M, 230 V : adaptateur conseillé",
+    "emergency": "112",
+    "flight": "Environ 9 h en vol direct depuis Paris pour Delhi ou Bombay"
+  },
+  "months": [
+    { "rating": 2, "note": "Sec et agréable ; frais le matin dans le nord." },
+    { "rating": 2, "note": "Excellent partout." },
+    { "rating": 1, "note": "La chaleur monte ; fête de Holi." },
+    { "rating": 0, "note": "Très chaud dans les plaines ; montagnes de l'Himalaya." },
+    { "rating": 0, "note": "Chaleur extrême, plus de 40 °C." },
+    { "rating": 0, "note": "Arrivée de la mousson." },
+    { "rating": 0, "note": "Mousson ; seul le Ladakh est en saison." },
+    { "rating": 0, "note": "Mousson." },
+    { "rating": 1, "note": "Fin de la mousson, paysages verts." },
+    { "rating": 2, "note": "Début de la belle saison ; fêtes de Navratri et Dussehra." },
+    { "rating": 2, "note": "Diwali, fête des lumières ; foire de Pushkar." },
+    { "rating": 2, "note": "Idéal ; haute saison à Goa." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en roupies, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (guesthouse ou hôtel de charme)", "solo": "2 000 à 6 000 ₹", "duo": "1 200 à 3 500 ₹" },
+      { "label": "Repas", "solo": "600 à 1 800 ₹", "duo": "600 à 1 800 ₹" },
+      { "label": "Transports (train, chauffeur)", "solo": "500 à 3 000 ₹", "duo": "300 à 1 800 ₹" },
+      { "label": "Visites et entrées", "solo": "300 à 1 500 ₹", "duo": "300 à 1 500 ₹" }
+    ],
+    "totalSolo": "3 400 à 12 300 ₹",
+    "totalDuo": "2 400 à 8 600 ₹",
+    "note": "Les tarifs d'entrée des monuments sont plus élevés pour les étrangers. Une voiture avec chauffeur au Rajasthan se partage et reste abordable.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Un visa est obligatoire, à obtenir avant le départ. Pour l'obtenir, le passeport doit être valable au moins 6 mois après la fin du visa et avoir deux pages vierges.",
+    "points": [
+      "Depuis le 1er octobre 2025, remplis en ligne l'« e-Arrival Card » (site officiel ou application « Indian Visa Su-Swagatam ») dans les 72 heures avant ton vol.",
+      "Certains États du nord-est demandent une autorisation spéciale en plus du visa (Arunachal Pradesh, Sikkim), ou un enregistrement à l'arrivée (Manipur, Mizoram, Nagaland)."
+    ],
+    "source": { "label": "France Diplomatie, Inde, Entrée / séjour (mise à jour du 23 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/inde/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est obligatoire en arrivant de France ; la fièvre jaune l'est si tu viens d'une zone d'endémie. Consulte un médecin avant le départ.",
+    "points": [
+      "Paludisme et dengue présents dans plusieurs régions : protection contre les moustiques indispensable, traitement préventif selon l'itinéraire, sur avis médical.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Bois uniquement de l'eau en bouteille capsulée ou traitée.",
+      "Assurance santé et rapatriement indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Inde, Santé (mise à jour du 23 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/inde/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "L'Inde est dans l'ensemble un pays relativement sûr, à condition de respecter quelques règles et de tenir compte du risque terroriste.",
+    "points": [
+      "Formellement déconseillés : la vallée du Cachemire (Srinagar comprise), les abords de la ligne de contrôle et de la frontière pakistanaise, y compris le poste de Wagah-Attari au Pendjab.",
+      "Les États du nord-est connaissent une situation parfois instable, notamment le Manipur depuis 2023 : renseigne-toi précisément avant d'y aller.",
+      "Des mouvements maoïstes (naxalites) opèrent dans les zones reculées du Bihar, du Jharkhand, du Chhattisgarh, de l'Odisha et de l'est du Maharashtra.",
+      "Garde ton passeport sur toi, envoie des copies de tes papiers à un proche, n'accepte aucun colis d'inconnus et inscris-toi sur Ariane."
+    ],
+    "source": { "label": "France Diplomatie, Inde, Sécurité (mise à jour du 23 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/inde/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "rajasthan",
+      "name": "Le Rajasthan (Jaipur, Jodhpur, Udaipur)",
+      "nights": "6 à 8 nuits",
+      "for": ["tous", "explorateur"],
+      "summary": "La terre des maharajas : forts, palais, villes rose, bleue et blanche, et le désert du Thar.",
+      "sleep": "Dans des havelis (demeures traditionnelles) transformées en hôtels.",
+      "see": [
+        { "name": "Le fort d'Amber à Jaipur", "note": "Et le palais des Vents." },
+        { "name": "Le fort de Mehrangarh à Jodhpur", "note": "Au-dessus de la ville bleue." },
+        { "name": "Le lac Pichola à Udaipur", "note": "Et le City Palace au coucher du soleil." }
+      ],
+      "hidden": [
+        { "name": "Bundi", "note": "Une petite ville de puits à degrés et de fresques, loin des foules." },
+        { "name": "Le fort de Kumbhalgarh", "note": "Une muraille de 36 km dans les collines." }
+      ],
+      "eat": "Le dal baati churma et le laal maas (curry d'agneau épicé).",
+      "getAround": "Voiture avec chauffeur ou trains de nuit entre les villes.",
+      "tip": "Négocie le prix des rickshaws avant de monter, ou utilise une application de VTC."
+    },
+    {
+      "slug": "agra-delhi",
+      "name": "Delhi et Agra",
+      "nights": "3 nuits",
+      "for": ["stratege", "energique"],
+      "summary": "La capitale foisonnante et le Taj Mahal, le plus célèbre monument de l'Inde.",
+      "sleep": "À Delhi dans le sud (Hauz Khas), une nuit à Agra.",
+      "see": [
+        { "name": "Le Taj Mahal", "note": "Au lever du soleil, fermé le vendredi." },
+        { "name": "Le fort Rouge d'Agra", "note": "Vue sur le Taj Mahal." },
+        { "name": "La vieille Delhi", "note": "La Jama Masjid et le bazar de Chandni Chowk." }
+      ],
+      "hidden": [
+        { "name": "Le tombeau d'Humayun", "note": "Le modèle du Taj Mahal, à Delhi, bien plus calme." }
+      ],
+      "eat": "Les parathas de Chandni Chowk et le butter chicken de Delhi.",
+      "getAround": "Métro à Delhi ; train express Delhi-Agra (environ 2 h).",
+      "tip": "Achète les billets du Taj Mahal en ligne pour éviter la file."
+    },
+    {
+      "slug": "varanasi",
+      "name": "Varanasi",
+      "nights": "2 nuits",
+      "for": ["explorateur", "lent"],
+      "summary": "La ville sacrée du Gange, ses ghâts, ses crémations et ses cérémonies du soir.",
+      "sleep": "Près des ghâts.",
+      "see": [
+        { "name": "Le Gange en barque à l'aube", "note": "Le long des ghâts." },
+        { "name": "L'aarti du soir", "note": "La cérémonie de feu au Dashashwamedh Ghat." },
+        { "name": "Sarnath", "note": "Le lieu du premier sermon de Bouddha, à 10 km." }
+      ],
+      "hidden": [],
+      "eat": "Le lassi dans un pot en terre.",
+      "getAround": "À pied dans les ruelles, barque sur le fleuve.",
+      "tip": "Ne photographie pas les crémations du Manikarnika Ghat."
+    },
+    {
+      "slug": "kerala",
+      "name": "Le Kerala",
+      "nights": "5 nuits",
+      "for": ["lent", "tous"],
+      "summary": "Le sud tropical : backwaters en house-boat, plantations de thé et plages de cocotiers.",
+      "sleep": "Une nuit en house-boat, puis Munnar et Fort Kochi.",
+      "see": [
+        { "name": "Les backwaters d'Alleppey", "note": "En house-boat ou en canoë." },
+        { "name": "Les plantations de thé de Munnar", "note": "Dans les montagnes." },
+        { "name": "Fort Kochi", "note": "Filets de pêche chinois et quartier colonial." }
+      ],
+      "hidden": [
+        { "name": "Varkala", "note": "Une plage au pied de falaises rouges." }
+      ],
+      "eat": "Le poisson au lait de coco et les repas sur feuille de bananier.",
+      "getAround": "Chauffeur ou trains ; bateaux sur les backwaters.",
+      "tip": "Une danse kathakali à Fort Kochi est un spectacle saisissant."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 14,
+      "title": "Le Triangle d'or et le Rajasthan",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Delhi", "note": "Arrivée." },
+        { "days": "Jours 3 et 4", "place": "Agra", "note": "Taj Mahal et Fatehpur Sikri." },
+        { "days": "Jours 5 à 12", "place": "Rajasthan", "note": "Jaipur, Jodhpur, Udaipur." },
+        { "days": "Jours 13 et 14", "place": "Retour", "note": "Vol d'Udaipur vers Delhi." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Le Kerala tropical",
+      "for": ["lent", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Fort Kochi", "note": "Arrivée." },
+        { "days": "Jours 4 et 5", "place": "Munnar", "note": "Thé et montagnes." },
+        { "days": "Jours 6 et 7", "place": "Backwaters", "note": "Nuit en house-boat." },
+        { "days": "Jours 8 à 10", "place": "Varkala", "note": "Plage, retour par Trivandrum." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Le train", "text": "Immense réseau, réservation indispensable (classes climatisées conseillées)." },
+    { "title": "Voiture avec chauffeur", "text": "La solution la plus confortable au Rajasthan. Ne conduis pas toi-même." },
+    { "title": "Les vols intérieurs", "text": "Pour les longues distances, nombreux et bon marché." },
+    { "title": "En ville", "text": "Métro à Delhi, rickshaws et applications de VTC." }
+  ],
+  "culture": [
+    "On mange et on donne avec la main droite.",
+    "Enlève tes chaussures dans les temples et les maisons ; épaules et jambes couvertes.",
+    "Le bœuf est sacré pour les hindous et le porc évité par les musulmans.",
+    "Les voyageuses gagnent à adopter une tenue couvrante et à rester prudentes le soir."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "नमस्ते", "say": "namasté" },
+    { "fr": "Merci", "local": "धन्यवाद", "say": "dhanyavad" },
+    { "fr": "Combien ?", "local": "कितना?", "say": "kitna" }
+  ],
+  "checklist": [
+    "Visa obtenu avant le départ (passeport valable 6 mois après la fin du visa, 2 pages vierges)",
+    "e-Arrival Card remplie dans les 72 h avant le vol",
+    "Consultation médicale (paludisme, vaccins)",
+    "Répulsif anti-moustiques",
+    "Copie des papiers envoyée à un proche",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour l'Inde ?", "a": "Oui, obtenu avant le départ. Depuis octobre 2025, il faut aussi remplir en ligne l'e-Arrival Card dans les 72 heures avant le vol." },
+    { "q": "L'Inde est-elle sûre ?", "a": "Le pays est dans l'ensemble relativement sûr. Le Cachemire et la frontière pakistanaise sont formellement déconseillés ; renseigne-toi avant d'aller dans le nord-est." },
+    { "q": "Quand partir en Inde ?", "a": "D'octobre à mars pour la plupart des régions. De juin à septembre, la mousson ; seul le Ladakh est alors idéal." },
+    { "q": "Quel budget pour deux semaines en Inde ?", "a": "Compte environ 3 400 à 12 300 ₹ par jour seul et 2 400 à 8 600 ₹ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

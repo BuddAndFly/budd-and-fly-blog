@@ -1,0 +1,216 @@
+{
+  "name": "Corée du Sud",
+  "prep": "en Corée du Sud",
+  "kind": "pays",
+  "continent": "Asie",
+  "priority": 56,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Corée du Sud : Séoul, Busan, Jeju, K-ETA",
+    "description": "Préparer un voyage en Corée du Sud : visa et K-ETA, sécurité, meilleure saison, budget, Séoul, Busan, Gyeongju, l'île de Jeju. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Corée du Sud se visite au printemps (cerisiers en avril) et à l'automne (feuillages rouges en octobre-novembre). Pas de visa pour moins de 90 jours, et l'exemption de K-ETA est prolongée jusqu'au 31 décembre 2026. Séoul, Gyeongju, Busan et Jeju se relient vite en train rapide ou en avion.",
+  "essentials": {
+    "bestPeriod": "Avril-mai, septembre-novembre",
+    "languages": "Coréen (anglais sur les panneaux et dans les transports)",
+    "currency": "Won sud-coréen (KRW)",
+    "timeDiff": "+8 h en hiver, +7 h en été",
+    "plugs": "Types C et F, 220 V : comme en France",
+    "emergency": "Police 112 · Pompiers et ambulance 119",
+    "flight": "Environ 13 h en vol direct depuis Paris pour Séoul"
+  },
+  "months": [
+    { "rating": 0, "note": "Hiver très froid et sec ; ski." },
+    { "rating": 0, "note": "Froid ; Nouvel An lunaire (Seollal)." },
+    { "rating": 1, "note": "Le printemps arrive au sud." },
+    { "rating": 2, "note": "Cerisiers en fleurs." },
+    { "rating": 2, "note": "Doux et ensoleillé." },
+    { "rating": 1, "note": "Chaleur, début de la saison des pluies en fin de mois." },
+    { "rating": 0, "note": "Mousson (jangma), chaud et humide." },
+    { "rating": 0, "note": "Très chaud et humide, typhons possibles." },
+    { "rating": 1, "note": "Fête de Chuseok, typhons possibles en début de mois." },
+    { "rating": 2, "note": "Automne parfait, feuillages rouges." },
+    { "rating": 2, "note": "Fin des couleurs d'automne, frais." },
+    { "rating": 1, "note": "Froid, illuminations à Séoul." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en wons, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou guesthouse)", "solo": "70 000 à 150 000 ₩", "duo": "45 000 à 95 000 ₩" },
+      { "label": "Repas", "solo": "35 000 à 70 000 ₩", "duo": "35 000 à 70 000 ₩" },
+      { "label": "Transports", "solo": "8 000 à 40 000 ₩", "duo": "8 000 à 40 000 ₩" },
+      { "label": "Visites et entrées", "solo": "5 000 à 25 000 ₩", "duo": "5 000 à 25 000 ₩" }
+    ],
+    "totalSolo": "118 000 à 285 000 ₩",
+    "totalDuo": "93 000 à 230 000 ₩",
+    "note": "Les transports publics sont bon marché et excellents. Les barbecues coréens se partagent : à deux, c'est plus économique.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour un séjour touristique de moins de 90 jours. L'exemption temporaire de K-ETA (autorisation de voyage électronique) est prolongée jusqu'au 31 décembre 2026.",
+    "points": [
+      "Les voyageurs incapables de justifier leur motif touristique, ou au passé de « visa run », s'exposent à des contrôles renforcés ou à un refus d'entrée.",
+      "Si tu dois demander un K-ETA après 2026, utilise uniquement le site officiel : des sites non officiels le vendent plus cher ou délivrent de faux documents.",
+      "Un K-ETA déjà délivré reste valide jusqu'à sa date d'expiration."
+    ],
+    "source": { "label": "France Diplomatie, Corée du Sud, Entrée / séjour (mise à jour du 16 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/coree-du-sud/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France. Les soins sont de très bon niveau mais coûteux.",
+    "points": [
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Encéphalite à tiques : selon les conditions de séjour.",
+      "Protège-toi des moustiques en été.",
+      "Assurance santé et rapatriement indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Corée du Sud, Santé (mise à jour du 16 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/coree-du-sud/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Le pays est en vigilance normale, sauf la zone démilitarisée (DMZ) avec la Corée du Nord, déconseillée sauf raison impérative.",
+    "points": [
+      "DMZ : déconseillée sauf raison impérative.",
+      "Les étrangers ont interdiction de participer aux manifestations politiques, sous peine de sanction. Reste aussi à l'écart des grandes foules.",
+      "Violences sexuelles et usage de GHB signalés dans les quartiers de sortie (Hongdae, Itaewon, Gangnam à Séoul, et Busan) : ne quitte jamais ton verre des yeux."
+    ],
+    "source": { "label": "France Diplomatie, Corée du Sud, Sécurité (mise à jour du 16 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/coree-du-sud/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "seoul",
+      "name": "Séoul",
+      "nights": "4 à 5 nuits",
+      "for": ["energique", "tous"],
+      "summary": "Une mégapole ultra-moderne, ses palais royaux, ses marchés de nuit et sa culture K-pop.",
+      "sleep": "Autour de Myeongdong ou d'Insadong pour le centre, Hongdae pour l'ambiance.",
+      "see": [
+        { "name": "Le palais Gyeongbokgung", "note": "Entrée gratuite en hanbok, l'habit traditionnel." },
+        { "name": "Le village de Bukchon", "note": "Maisons traditionnelles hanok (respecte le silence des habitants)." },
+        { "name": "Le marché de Gwangjang", "note": "Street-food coréenne." }
+      ],
+      "hidden": [
+        { "name": "Le jardin secret de Changdeokgung", "note": "Visite guidée sur réservation." },
+        { "name": "La muraille de Séoul", "note": "Une randonnée urbaine, vue sur la ville le soir." }
+      ],
+      "eat": "Le barbecue coréen, le bibimbap et le poulet frit coréen.",
+      "getAround": "Métro avec carte T-money.",
+      "tip": "Les applications de cartes locales fonctionnent bien mieux que Google Maps en Corée."
+    },
+    {
+      "slug": "gyeongju",
+      "name": "Gyeongju",
+      "nights": "2 nuits",
+      "for": ["lent", "stratege"],
+      "summary": "L'ancienne capitale du royaume de Silla, « musée sans murs » de tumulus, temples et pagodes.",
+      "sleep": "Dans un hanok près du centre historique.",
+      "see": [
+        { "name": "Le temple Bulguksa", "note": "Classé à l'Unesco." },
+        { "name": "La grotte de Seokguram", "note": "Un bouddha de granit au sommet d'une colline." },
+        { "name": "Le parc des tumulus", "note": "Les tombes royales, et l'étang Donggung illuminé." }
+      ],
+      "hidden": [
+        { "name": "Le village de Yangdong", "note": "Un village traditionnel classé." }
+      ],
+      "eat": "Le pain de Gyeongju (hwangnam-ppang).",
+      "getAround": "Vélo et bus ; train rapide depuis Séoul (environ 2 h).",
+      "tip": "Loue un vélo pour relier les sites."
+    },
+    {
+      "slug": "busan",
+      "name": "Busan",
+      "nights": "2 à 3 nuits",
+      "for": ["energique", "tous"],
+      "summary": "Le grand port du sud, ses plages, son marché aux poissons et son village coloré à flanc de colline.",
+      "sleep": "À Haeundae ou Seomyeon.",
+      "see": [
+        { "name": "Le village culturel de Gamcheon", "note": "Maisons colorées en escaliers." },
+        { "name": "Le marché aux poissons de Jagalchi", "note": "Choisis ton poisson, cuisiné à l'étage." },
+        { "name": "Le temple Haedong Yonggungsa", "note": "Un temple au bord de la mer." }
+      ],
+      "hidden": [
+        { "name": "Le Blueline Park", "note": "Un petit train côtier panoramique." }
+      ],
+      "eat": "Le dwaeji gukbap (soupe de porc) et les fruits de mer.",
+      "getAround": "Métro ; train rapide KTX depuis Séoul (environ 2 h 30).",
+      "tip": "Dans les quartiers de sortie, garde toujours ton verre à l'œil."
+    },
+    {
+      "slug": "jeju",
+      "name": "Jeju",
+      "nights": "3 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "Une île volcanique : cratères, tunnels de lave, plages et plongeuses traditionnelles haenyeo.",
+      "sleep": "Sur la côte est ou sud, voiture nécessaire.",
+      "see": [
+        { "name": "Seongsan Ilchulbong", "note": "Un cratère au lever du soleil." },
+        { "name": "Le mont Hallasan", "note": "Le plus haut sommet du pays, réservation pour certains sentiers." },
+        { "name": "Le tunnel de lave de Manjanggul", "note": "Classé à l'Unesco." }
+      ],
+      "hidden": [
+        { "name": "Les sentiers Olle", "note": "Une randonnée côtière découpée en étapes." }
+      ],
+      "eat": "Le porc noir de Jeju et les mandarines de l'île.",
+      "getAround": "Vol depuis Séoul ou Busan, puis voiture (permis international) ou bus.",
+      "tip": "Prends un permis de conduire international pour louer une voiture."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Séoul, Gyeongju et Busan",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jours 1 à 5", "place": "Séoul", "note": "Palais, marchés et quartiers." },
+        { "days": "Jours 6 et 7", "place": "Gyeongju", "note": "En train rapide." },
+        { "days": "Jours 8 à 10", "place": "Busan", "note": "Retour par Séoul." }
+      ]
+    },
+    {
+      "days": 14,
+      "title": "La Corée complète",
+      "for": ["explorateur", "lent"],
+      "steps": [
+        { "days": "Jours 1 à 5", "place": "Séoul", "note": "Arrivée." },
+        { "days": "Jours 6 et 7", "place": "Gyeongju", "note": "Temples." },
+        { "days": "Jours 8 à 10", "place": "Busan", "note": "Mer et marchés." },
+        { "days": "Jours 11 à 14", "place": "Jeju", "note": "En avion, retour par Séoul." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Le train rapide KTX", "text": "Séoul-Busan en 2 h 30 environ. Réservation conseillée le week-end." },
+    { "title": "Le métro et les bus", "text": "Excellents, avec la carte rechargeable T-money." },
+    { "title": "Les vols intérieurs", "text": "Pour Jeju, très fréquents." }
+  ],
+  "culture": [
+    "On se déchausse dans les maisons, certains restaurants et les temples.",
+    "Respecte la hiérarchie de l'âge : on sert les aînés d'abord.",
+    "Pas de pourboire en Corée.",
+    "Les sièges réservés du métro le sont strictement aux personnes âgées et femmes enceintes."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "안녕하세요", "say": "annyeong-haseyo" },
+    { "fr": "Merci", "local": "감사합니다", "say": "kamsa-hamnida" },
+    { "fr": "Santé !", "local": "건배", "say": "geonbae" }
+  ],
+  "checklist": [
+    "Passeport valide",
+    "Vérifier l'exemption de K-ETA (prolongée jusqu'au 31/12/2026)",
+    "Permis de conduire international pour Jeju",
+    "Carte T-money et application de cartes locale",
+    "Assurance santé et rapatriement"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa ou un K-ETA pour la Corée du Sud ?", "a": "Pas de visa pour moins de 90 jours de tourisme. L'exemption de K-ETA est prolongée jusqu'au 31 décembre 2026 ; vérifie la règle pour les voyages après cette date." },
+    { "q": "La Corée du Sud est-elle sûre ?", "a": "Oui, le pays est en vigilance normale ; seule la DMZ est déconseillée sauf raison impérative. Vigilance dans les quartiers de sortie (GHB)." },
+    { "q": "Quand partir en Corée du Sud ?", "a": "En avril-mai pour les cerisiers et d'octobre à mi-novembre pour les couleurs d'automne. L'été est chaud, humide et pluvieux." },
+    { "q": "Quel budget pour 10 jours en Corée du Sud ?", "a": "Compte environ 118 000 à 285 000 ₩ par jour seul et 93 000 à 230 000 ₩ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}
