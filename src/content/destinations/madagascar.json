@@ -1,0 +1,213 @@
+{
+  "name": "Madagascar",
+  "prep": "à Madagascar",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 80,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Madagascar : RN7, baobabs, lémuriens",
+    "description": "Préparer un voyage à Madagascar : visa à l'arrivée, sécurité, meilleure saison, budget, la RN7, l'allée des Baobabs, Nosy Be, Andasibe. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Madagascar se visite d'avril à novembre, en saison sèche ; de janvier à mars, les cyclones et les pluies coupent des routes. Le visa s'obtient à l'arrivée, avec un passeport valable 6 mois. Tout le pays est en vigilance renforcée : évite de voyager seul dans les zones isolées et passe par un opérateur reconnu. Lémuriens, baobabs et plages de Nosy Be justifient le voyage.",
+  "essentials": {
+    "bestPeriod": "Avril à novembre",
+    "languages": "Malgache et français",
+    "currency": "Ariary (MGA)",
+    "timeDiff": "+2 h en hiver, +1 h en été",
+    "plugs": "Types C et E, 220 V : comme en France",
+    "emergency": "Police 117 · Pompiers 118",
+    "flight": "Environ 11 h en vol direct depuis Paris pour Antananarivo"
+  },
+  "months": [
+    { "rating": 0, "note": "Saison des pluies et des cyclones." },
+    { "rating": 0, "note": "Cyclones, routes difficiles." },
+    { "rating": 0, "note": "Pluies." },
+    { "rating": 1, "note": "Fin des pluies, paysages verts." },
+    { "rating": 2, "note": "Début de la saison sèche." },
+    { "rating": 2, "note": "Sec et frais sur les hauts plateaux." },
+    { "rating": 2, "note": "Baleines à Sainte-Marie." },
+    { "rating": 2, "note": "Baleines, haute saison." },
+    { "rating": 2, "note": "Excellent partout." },
+    { "rating": 2, "note": "Floraison des jacarandas, bébés lémuriens." },
+    { "rating": 2, "note": "Chaud, fin de la saison sèche." },
+    { "rating": 1, "note": "Début des pluies." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en ariarys, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou bungalow)", "solo": "100 000 à 250 000 Ar", "duo": "60 000 à 150 000 Ar" },
+      { "label": "Repas", "solo": "40 000 à 90 000 Ar", "duo": "40 000 à 90 000 Ar" },
+      { "label": "Voiture avec chauffeur", "solo": "200 000 à 350 000 Ar", "duo": "100 000 à 175 000 Ar" },
+      { "label": "Parcs et guides", "solo": "50 000 à 200 000 Ar", "duo": "50 000 à 200 000 Ar" }
+    ],
+    "totalSolo": "390 000 à 890 000 Ar",
+    "totalDuo": "250 000 à 615 000 Ar",
+    "note": "La voiture avec chauffeur est la façon la plus sûre de voyager et se partage. Les guides locaux sont obligatoires dans les parcs nationaux.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Un visa est nécessaire. Il s'obtient à l'ambassade ou à l'arrivée à l'aéroport, sur un passeport valable au moins 6 mois après l'arrivée.",
+    "points": [
+      "Moins de 15 jours : visa gratuit, mais 10 € de frais administratifs.",
+      "De 15 à 60 jours : visa payant (35 € pour 30 jours, 40 € pour 60 jours).",
+      "Ce visa ne peut être ni prolongé ni transformé en visa de long séjour."
+    ],
+    "source": { "label": "France Diplomatie, Madagascar, Entrée / séjour (mise à jour du 13 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/madagascar/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est obligatoire en arrivant de France ; la fièvre jaune l'est si tu viens d'une zone d'endémie.",
+    "points": [
+      "Paludisme : traitement préventif selon avis médical et protection contre les moustiques.",
+      "Dengue : protection contre les moustiques.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Assurance avec évacuation sanitaire indispensable : les structures de santé ne répondent pas aux normes européennes, et un transfert vers La Réunion ou la France est la seule option en cas de problème grave."
+    ],
+    "source": { "label": "France Diplomatie, Madagascar, Santé (mise à jour du 13 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/madagascar/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée.",
+    "points": [
+      "Ne t'aventure pas seul dans les régions isolées sans agence de voyage ; évite le camping sauvage non organisé.",
+      "Pénuries d'eau et d'électricité fréquentes : vérifie que ton hébergement est équipé.",
+      "Manifestations et barrages, surtout le soir dans certains quartiers de la capitale : tiens-toi à l'écart des rassemblements.",
+      "Prudence particulière dans la zone d'Anjozorobe après plusieurs enlèvements."
+    ],
+    "source": { "label": "France Diplomatie, Madagascar, Sécurité (mise à jour du 13 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/madagascar/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "rn7",
+      "name": "La RN7 (des hauts plateaux à Tuléar)",
+      "nights": "8 à 10 nuits",
+      "for": ["tous", "explorateur"],
+      "summary": "La route mythique : rizières, villes d'artisans, parcs de lémuriens et canyons jusqu'à la mer.",
+      "sleep": "À Antsirabe, Ranomafana, Isalo puis Ifaty.",
+      "see": [
+        { "name": "Le parc de Ranomafana", "note": "Forêt humide et lémuriens bambous." },
+        { "name": "Le parc de l'Isalo", "note": "Canyons de grès et piscines naturelles." },
+        { "name": "La réserve d'Anja", "note": "Des lémuriens catta, gérée par la communauté." }
+      ],
+      "hidden": [
+        { "name": "Ambalavao", "note": "Le papier antaimoro et le marché aux zébus." }
+      ],
+      "eat": "Le romazava (bouillon de zébu aux brèdes) et le riz à chaque repas.",
+      "getAround": "Voiture avec chauffeur.",
+      "tip": "Les guides locaux sont obligatoires dans les parcs : c'est aussi un revenu pour les villages."
+    },
+    {
+      "slug": "andasibe",
+      "name": "Andasibe",
+      "nights": "2 nuits",
+      "for": ["lent", "tous"],
+      "summary": "La forêt humide où résonne le chant de l'indri, le plus grand lémurien.",
+      "sleep": "En lodge près du parc.",
+      "see": [
+        { "name": "Le parc national d'Andasibe-Mantadia", "note": "Les indris le matin." },
+        { "name": "Une visite nocturne", "note": "Caméléons et micro-cèbes." },
+        { "name": "La réserve de Vakona", "note": "Lémuriens habitués à l'homme." }
+      ],
+      "hidden": [],
+      "eat": "Les repas du lodge.",
+      "getAround": "Voiture depuis Antananarivo (environ 4 h).",
+      "tip": "Les indris chantent surtout tôt le matin."
+    },
+    {
+      "slug": "morondava",
+      "name": "Morondava et les Tsingy",
+      "nights": "3 nuits",
+      "for": ["explorateur", "energique"],
+      "summary": "L'allée des Baobabs au coucher du soleil et les forêts de pierre des Tsingy de Bemaraha.",
+      "sleep": "À Morondava et Bekopaka.",
+      "see": [
+        { "name": "L'allée des Baobabs", "note": "Au coucher et au lever du soleil." },
+        { "name": "Les Tsingy de Bemaraha", "note": "Classés à l'Unesco, passerelles et via ferrata." },
+        { "name": "Le baobab amoureux", "note": "Deux arbres entrelacés." }
+      ],
+      "hidden": [
+        { "name": "La forêt de Kirindy", "note": "Pour voir le fossa, prédateur endémique." }
+      ],
+      "eat": "Les fruits de mer de Morondava.",
+      "getAround": "Vol vers Morondava, puis 4x4 (piste ouverte en saison sèche seulement).",
+      "tip": "La piste vers les Tsingy n'est praticable que d'environ mai à novembre."
+    },
+    {
+      "slug": "nosy-be",
+      "name": "Nosy Be",
+      "nights": "4 nuits",
+      "for": ["lent", "tous"],
+      "summary": "L'île aux parfums, ses plages, ses îlots et ses fonds marins.",
+      "sleep": "À Ambatoloaka ou sur les îlots voisins.",
+      "see": [
+        { "name": "Nosy Iranja", "note": "Deux îles reliées par un banc de sable." },
+        { "name": "La réserve de Lokobe", "note": "Lémuriens et caméléons." },
+        { "name": "Le mont Passot", "note": "Coucher du soleil sur les lacs." }
+      ],
+      "hidden": [
+        { "name": "Nosy Tanikely", "note": "Snorkeling avec les tortues." }
+      ],
+      "eat": "Le poisson coco et l'ylang-ylang… à respirer.",
+      "getAround": "Vol depuis Antananarivo, puis bateaux.",
+      "tip": "Choisis des opérateurs qui respectent la faune marine (pas de contact avec les tortues)."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 15,
+      "title": "La RN7 et la plage",
+      "for": ["tous", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Antananarivo et Andasibe", "note": "Arrivée." },
+        { "days": "Jours 3 à 11", "place": "RN7", "note": "Antsirabe, Ranomafana, Isalo, Ifaty." },
+        { "days": "Jours 12 à 15", "place": "Nosy Be", "note": "Vol depuis Tuléar via Antananarivo." }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Baobabs et lémuriens",
+      "for": ["explorateur", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Andasibe", "note": "Indris." },
+        { "days": "Jours 4 à 7", "place": "Morondava et Tsingy", "note": "En vol puis 4x4." },
+        { "days": "Jours 8 à 10", "place": "Antananarivo", "note": "Retour." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Voiture avec chauffeur", "text": "La solution la plus sûre et confortable ; routes en mauvais état." },
+    { "title": "Les vols intérieurs", "text": "Pour gagner du temps vers Nosy Be, Morondava ou Fort-Dauphin." },
+    { "title": "Les taxis-brousse", "text": "Bon marché mais lents et peu sûrs." }
+  ],
+  "culture": [
+    "Respecte les « fady », interdits locaux qui varient d'une région à l'autre : demande à ton guide.",
+    "Le français est largement compris.",
+    "Les cérémonies de retournement des morts (famadihana) se déroulent en saison sèche sur les hauts plateaux."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Manao ahoana", "say": "manaou aoun" },
+    { "fr": "Merci", "local": "Misaotra", "say": "missaoutch" },
+    { "fr": "Au revoir", "local": "Veloma", "say": "véloum" }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois après l'arrivée",
+    "Euros pour le visa à l'arrivée",
+    "Avis médical (paludisme)",
+    "Assurance avec évacuation sanitaire",
+    "Voiture avec chauffeur réservée via un opérateur reconnu",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour Madagascar ?", "a": "Oui, à l'arrivée ou à l'ambassade : gratuit pour moins de 15 jours (10 € de frais), 35 € pour 30 jours, 40 € pour 60 jours. Le passeport doit être valable 6 mois." },
+    { "q": "Madagascar est-elle sûre ?", "a": "Le pays est en vigilance renforcée. Voyage avec un opérateur reconnu, évite les zones isolées seul et les rassemblements." },
+    { "q": "Quand partir à Madagascar ?", "a": "D'avril à novembre. De janvier à mars, cyclones et pluies coupent souvent les routes." },
+    { "q": "Quel budget pour deux semaines à Madagascar ?", "a": "Compte environ 390 000 à 890 000 Ar par jour seul et 250 000 à 615 000 Ar par personne à deux, chauffeur compris, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

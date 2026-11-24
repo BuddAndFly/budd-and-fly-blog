@@ -1,0 +1,189 @@
+{
+  "name": "Île Maurice",
+  "prep": "à l'île Maurice",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 79,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide île Maurice : lagons, Le Morne, budget",
+    "description": "Préparer un voyage à l'île Maurice : formalités, cyclones, meilleure saison, budget, Grand Baie, Le Morne, Chamarel, les gorges de Rivière Noire. PDF gratuit."
+  },
+  "hero": null,
+  "summary": "L'île Maurice se visite d'avril à décembre ; de novembre à avril, c'est la saison chaude et cyclonique. Pas de visa pour moins de 3 mois, avec un passeport valable pendant le séjour et un billet retour. Le pays est en vigilance normale : lagons, montagnes du sud-ouest et culture créole, indienne et chinoise se découvrent en voiture.",
+  "essentials": {
+    "bestPeriod": "Avril à décembre",
+    "languages": "Créole mauricien, français et anglais",
+    "currency": "Roupie mauricienne (MUR)",
+    "timeDiff": "+3 h en hiver, +2 h en été",
+    "plugs": "Types C et G, 230 V : adaptateur conseillé",
+    "emergency": "Police 999 · SAMU 114",
+    "flight": "Environ 11 h 30 en vol direct depuis Paris"
+  },
+  "months": [
+    { "rating": 1, "note": "Chaud et humide, risque de cyclone." },
+    { "rating": 0, "note": "Pic de la saison cyclonique." },
+    { "rating": 1, "note": "Chaud, cyclones encore possibles." },
+    { "rating": 1, "note": "Fin de la saison chaude." },
+    { "rating": 2, "note": "Doux et sec." },
+    { "rating": 2, "note": "Hiver austral : frais le soir, idéal pour la randonnée." },
+    { "rating": 2, "note": "Côte ouest abritée, vent à l'est (kitesurf)." },
+    { "rating": 2, "note": "Comme en juillet." },
+    { "rating": 2, "note": "Sec et ensoleillé." },
+    { "rating": 2, "note": "Excellent." },
+    { "rating": 2, "note": "Chaud, début des fortes chaleurs." },
+    { "rating": 1, "note": "Chaud, début de la saison cyclonique." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en roupies mauriciennes, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (guesthouse ou appartement)", "solo": "3 500 à 8 000 Rs", "duo": "2 000 à 5 000 Rs" },
+      { "label": "Repas", "solo": "1 200 à 3 000 Rs", "duo": "1 200 à 3 000 Rs" },
+      { "label": "Voiture et essence", "solo": "1 500 à 2 500 Rs", "duo": "750 à 1 250 Rs" },
+      { "label": "Excursions", "solo": "500 à 3 000 Rs", "duo": "500 à 3 000 Rs" }
+    ],
+    "totalSolo": "6 700 à 16 500 Rs",
+    "totalDuo": "4 450 à 12 250 Rs",
+    "note": "Les grands hôtels sont chers, mais les guesthouses et la street-food (dholl puri, mines frites) permettent un voyage abordable.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour moins de 3 mois : un tampon est apposé à l'arrivée. Il faut un passeport valide pour tout le séjour et un billet retour.",
+    "points": [
+      "Des justificatifs d'hébergement et de ressources (100 USD par jour) peuvent être demandés.",
+      "La durée accordée est à la discrétion des autorités et peut être réduite, notamment pour un séjour chez l'habitant.",
+      "Ce tampon ne permet aucune activité professionnelle."
+    ],
+    "source": { "label": "France Diplomatie, Maurice, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/maurice/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France. La dengue peut circuler : protège-toi des moustiques.",
+    "points": [
+      "Dengue : protection contre les piqûres, surtout en cas d'épidémie.",
+      "Soleil tropical intense : protection solaire.",
+      "Assurance santé et rapatriement conseillée."
+    ],
+    "source": { "label": "France Diplomatie, Maurice, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/maurice/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance normale. Le principal risque est cyclonique, de novembre à avril.",
+    "points": [
+      "En saison cyclonique, suis la météo (Mauritius Meteorological Services) et respecte strictement le système d'alerte.",
+      "En cas d'alerte, prévois eau, bougies, piles, radio, lampes et conserves : un confinement de 2 à 3 jours peut être décrété."
+    ],
+    "source": { "label": "France Diplomatie, Maurice, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/maurice/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "sud-ouest",
+      "name": "Le sud-ouest (Le Morne, Chamarel)",
+      "nights": "4 nuits",
+      "for": ["tous", "explorateur"],
+      "summary": "La montagne du Morne, les terres des sept couleurs et les gorges de Rivière Noire.",
+      "sleep": "À La Gaulette ou Flic en Flac.",
+      "see": [
+        { "name": "Le Morne Brabant", "note": "Randonnée et mémoire du marronnage, classé à l'Unesco." },
+        { "name": "La terre des sept couleurs de Chamarel", "note": "Et la cascade." },
+        { "name": "Le parc national des gorges de Rivière Noire", "note": "Forêt endémique et belvédères." }
+      ],
+      "hidden": [
+        { "name": "L'île aux Bénitiers", "note": "En bateau depuis La Gaulette." }
+      ],
+      "eat": "Le rougaille et le rhum arrangé de Chamarel.",
+      "getAround": "Voiture (conduite à gauche).",
+      "tip": "La côte ouest offre les plus beaux couchers de soleil."
+    },
+    {
+      "slug": "nord",
+      "name": "Le nord (Grand Baie, Pamplemousses)",
+      "nights": "3 nuits",
+      "for": ["energique", "tous"],
+      "summary": "La côte la plus animée, son jardin botanique et les îlots du nord.",
+      "sleep": "À Grand Baie ou Trou aux Biches.",
+      "see": [
+        { "name": "Le jardin de Pamplemousses", "note": "Nénuphars géants et palmiers." },
+        { "name": "Le Cap Malheureux", "note": "L'église au toit rouge face aux îlots." },
+        { "name": "Les îlots du nord", "note": "En catamaran (Gabriel, Plate)." }
+      ],
+      "hidden": [
+        { "name": "Port-Louis", "note": "Le marché central et le quartier chinois." }
+      ],
+      "eat": "Le dholl puri (galette aux pois cassés) dans la rue.",
+      "getAround": "Bus et voiture.",
+      "tip": "Grand Baie s'anime le soir : plus calme à Trou aux Biches."
+    },
+    {
+      "slug": "est",
+      "name": "L'est (Belle Mare, île aux Cerfs)",
+      "nights": "3 nuits",
+      "for": ["lent", "tous"],
+      "summary": "De longues plages de sable blanc et un lagon turquoise abrité par le récif.",
+      "sleep": "À Belle Mare ou Trou d'Eau Douce.",
+      "see": [
+        { "name": "L'île aux Cerfs", "note": "En bateau depuis Trou d'Eau Douce." },
+        { "name": "La plage de Belle Mare", "note": "L'une des plus longues de l'île." },
+        { "name": "La cascade de GRSE", "note": "En bateau sur la rivière." }
+      ],
+      "hidden": [],
+      "eat": "Les fruits de mer grillés sur la plage.",
+      "getAround": "Voiture.",
+      "tip": "En hiver austral, l'est est plus venté : idéal pour le kitesurf."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Le tour de l'île",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Sud-ouest", "note": "Le Morne, Chamarel, gorges." },
+        { "days": "Jours 5 à 7", "place": "Nord", "note": "Pamplemousses et îlots." },
+        { "days": "Jours 8 à 10", "place": "Est", "note": "Île aux Cerfs, retour à l'aéroport." }
+      ]
+    },
+    {
+      "days": 7,
+      "title": "Nature et lagon",
+      "for": ["explorateur", "energique"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Sud-ouest", "note": "Randonnées." },
+        { "days": "Jours 5 à 7", "place": "Est", "note": "Lagon et plages." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "En voiture", "text": "La plus pratique ; conduite à gauche, routes étroites." },
+    { "title": "Les bus", "text": "Bon marché, mais lents." },
+    { "title": "Le Metro Express", "text": "Un tram reliant Port-Louis à Curepipe." }
+  ],
+  "culture": [
+    "Une île multiculturelle : hindous, musulmans, chrétiens et bouddhistes se côtoient.",
+    "Le français est compris partout, le créole est la langue du quotidien.",
+    "Tenue couvrante dans les temples."
+  ],
+  "phrases": [
+    { "fr": "Bonjour, ça va ?", "local": "Bonzour, ki manyer ?", "say": "bonzour ki manié" },
+    { "fr": "Merci", "local": "Mersi", "say": "mersi" },
+    { "fr": "C'est bon !", "local": "Li bon !", "say": "li bon" }
+  ],
+  "checklist": [
+    "Passeport valide pendant tout le séjour, billet retour",
+    "Justificatif d'hébergement",
+    "Permis de conduire",
+    "Crème solaire respectueuse des récifs",
+    "Suivi météo en saison cyclonique"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour l'île Maurice ?", "a": "Non pour moins de 3 mois, avec un passeport valide pendant tout le séjour et un billet retour." },
+    { "q": "Quand partir à l'île Maurice ?", "a": "D'avril à décembre. De novembre à avril, c'est la saison chaude, avec un risque de cyclones." },
+    { "q": "L'île Maurice est-elle sûre ?", "a": "Oui, tout le pays est en vigilance normale. Le principal risque est cyclonique." },
+    { "q": "Quel budget pour 10 jours à l'île Maurice ?", "a": "Compte environ 6 700 à 16 500 Rs par jour seul et 4 450 à 12 250 Rs par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

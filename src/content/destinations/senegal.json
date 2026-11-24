@@ -1,0 +1,193 @@
+{
+  "name": "Sénégal",
+  "prep": "au Sénégal",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 78,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Sénégal : Dakar, Saint-Louis, Sine Saloum",
+    "description": "Préparer un voyage au Sénégal : passeport 6 mois, zones déconseillées, meilleure saison, budget, Dakar, Gorée, Saint-Louis, le Sine Saloum. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Sénégal se visite de novembre à mai, en saison sèche. Pas de visa pour moins de 3 mois, avec un passeport valable plus de 6 mois. Le pays est accueillant et proche de la France ; seules certaines zones frontalières (Mali, sud de la Mauritanie, une partie de la Casamance) sont déconseillées sauf raison impérative.",
+  "essentials": {
+    "bestPeriod": "Novembre à mai",
+    "languages": "Français (officiel) et wolof",
+    "currency": "Franc CFA (XOF), à parité fixe avec l'euro",
+    "timeDiff": "-1 h en hiver, -2 h en été",
+    "plugs": "Types C, D et E, 230 V : comme en France pour la plupart",
+    "emergency": "Police 17 · Pompiers 18",
+    "flight": "Environ 5 h 30 en vol direct depuis Paris pour Dakar"
+  },
+  "months": [
+    { "rating": 2, "note": "Sec, doux et ensoleillé." },
+    { "rating": 2, "note": "Idéal." },
+    { "rating": 2, "note": "Sec, un peu de vent d'harmattan." },
+    { "rating": 2, "note": "Chaud et sec." },
+    { "rating": 2, "note": "Chaud, fin de la saison sèche." },
+    { "rating": 1, "note": "Début de l'hivernage (saison des pluies)." },
+    { "rating": 1, "note": "Pluies, chaleur humide." },
+    { "rating": 0, "note": "Le cœur de l'hivernage." },
+    { "rating": 0, "note": "Pluies et chaleur." },
+    { "rating": 1, "note": "Fin des pluies, paysages verts." },
+    { "rating": 2, "note": "Retour du sec." },
+    { "rating": 2, "note": "Sec et agréable." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en francs CFA, par jour et par personne, hors vols (1 € = 655,957 F CFA).",
+    "rows": [
+      { "label": "Hébergement (campement ou petit hôtel)", "solo": "25 000 à 65 000 F CFA", "duo": "15 000 à 40 000 F CFA" },
+      { "label": "Repas", "solo": "8 000 à 20 000 F CFA", "duo": "8 000 à 20 000 F CFA" },
+      { "label": "Transports (sept-places, taxi)", "solo": "3 000 à 15 000 F CFA", "duo": "2 500 à 12 000 F CFA" },
+      { "label": "Excursions", "solo": "3 000 à 20 000 F CFA", "duo": "3 000 à 20 000 F CFA" }
+    ],
+    "totalSolo": "39 000 à 120 000 F CFA",
+    "totalDuo": "28 500 à 92 000 F CFA",
+    "note": "Le franc CFA est arrimé à l'euro, ce qui facilite le budget. Les campements villageois sont une option économique et authentique.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour moins de 3 mois. Le passeport est obligatoire et doit être valable plus de 6 mois.",
+    "points": [
+      "Au-delà de 3 mois, une carte de résident est obligatoire.",
+      "Avant un passage terrestre vers le Mali, consulte le site de l'ambassade de France à Dakar."
+    ],
+    "source": { "label": "France Diplomatie, Sénégal, Entrée / séjour (mise à jour du 29 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/senegal/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "En arrivant de France, la fièvre jaune et les autres vaccins (DTP, rougeole, hépatites) sont recommandés, pas obligatoires.",
+    "points": [
+      "Paludisme : traitement préventif selon avis médical et protection contre les moustiques.",
+      "Dengue : protection contre les moustiques.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Assurance santé et rapatriement indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Sénégal, Santé (mise à jour du 29 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/senegal/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "La plus grande partie du pays ne présente pas de difficulté particulière. Quelques zones frontalières sont déconseillées sauf raison impérative.",
+    "points": [
+      "Déconseillées sauf raison impérative : les zones frontalières avec le Mali et une partie de la frontière mauritanienne (département de Matam). Si tu dois longer les frontières est, ne roule pas de nuit.",
+      "Casamance : les frontières avec la Gambie (hors axes routiers principaux vers Ziguinchor par Bignona) et la Guinée-Bissau (hors axe Ziguinchor-frontière) sont déconseillées sauf raison impérative.",
+      "Des zones forestières frontalières restent à déminer : ne t'écarte pas des routes et pistes fréquentées."
+    ],
+    "source": { "label": "France Diplomatie, Sénégal, Sécurité (mise à jour du 29 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/senegal/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "dakar-goree",
+      "name": "Dakar et l'île de Gorée",
+      "nights": "3 nuits",
+      "for": ["tous", "energique"],
+      "summary": "Une capitale vibrante sur une presqu'île, sa scène musicale et l'île mémorielle de Gorée.",
+      "sleep": "Aux Almadies, au Plateau ou à Ngor.",
+      "see": [
+        { "name": "L'île de Gorée", "note": "La maison des Esclaves, classée à l'Unesco." },
+        { "name": "Le monument de la Renaissance africaine", "note": "Vue sur la ville." },
+        { "name": "Le lac Rose", "note": "Sa couleur varie selon la saison et la lumière." }
+      ],
+      "hidden": [
+        { "name": "L'île de Ngor", "note": "Petites plages et surf." },
+        { "name": "Le marché Kermel", "note": "Un marché couvert de style colonial." }
+      ],
+      "eat": "Le thiéboudiène (riz au poisson), le yassa et le jus de bissap.",
+      "getAround": "Taxis (prix à négocier) et VTC.",
+      "tip": "Les concerts de mbalax le week-end sont une expérience à vivre."
+    },
+    {
+      "slug": "saint-louis",
+      "name": "Saint-Louis",
+      "nights": "2 nuits",
+      "for": ["lent", "stratege"],
+      "summary": "L'ancienne capitale coloniale sur une île du fleuve Sénégal, et ses parcs à oiseaux.",
+      "sleep": "Sur l'île, dans une maison coloniale restaurée.",
+      "see": [
+        { "name": "L'île de Saint-Louis", "note": "Classée à l'Unesco, son pont Faidherbe." },
+        { "name": "Le quartier des pêcheurs de Guet Ndar", "note": "Les pirogues colorées." },
+        { "name": "Le parc du Djoudj", "note": "Un des plus grands sanctuaires d'oiseaux au monde, de novembre à avril." }
+      ],
+      "hidden": [
+        { "name": "Le désert de Lompoul", "note": "Des dunes orange et une nuit sous tente." }
+      ],
+      "eat": "Le poisson grillé et le thé à la menthe en trois services (attaya).",
+      "getAround": "Calèches et à pied sur l'île.",
+      "tip": "Le festival de jazz de Saint-Louis a lieu au printemps."
+    },
+    {
+      "slug": "sine-saloum",
+      "name": "Le delta du Sine Saloum",
+      "nights": "3 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "Un labyrinthe de bolongs (bras de mer), de mangroves et d'îles de coquillages.",
+      "sleep": "En écolodge ou campement dans le delta.",
+      "see": [
+        { "name": "Une sortie en pirogue", "note": "Dans les mangroves et bolongs." },
+        { "name": "Joal-Fadiouth", "note": "Une île de coquillages et son cimetière mixte." },
+        { "name": "Les oiseaux du delta", "note": "Au coucher du soleil." }
+      ],
+      "hidden": [],
+      "eat": "Les huîtres de mangrove grillées.",
+      "getAround": "Route depuis Dakar (3 h environ), puis pirogue.",
+      "tip": "Combine le delta avec la Petite Côte (Saly, Mbour)."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Le Sénégal essentiel",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Dakar et Gorée", "note": "Arrivée." },
+        { "days": "Jours 4 et 5", "place": "Saint-Louis", "note": "Par Lompoul." },
+        { "days": "Jours 6 à 9", "place": "Sine Saloum", "note": "Pirogue et mangroves." },
+        { "days": "Jour 10", "place": "Retour", "note": "Par la Petite Côte vers Dakar." }
+      ]
+    },
+    {
+      "days": 6,
+      "title": "Dakar et le delta",
+      "for": ["energique"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Dakar", "note": "Gorée et lac Rose." },
+        { "days": "Jours 4 à 6", "place": "Sine Saloum", "note": "Retour à Dakar." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les sept-places et minibus", "text": "Le transport collectif entre les villes." },
+    { "title": "Voiture avec chauffeur", "text": "Plus confortable et plus sûre ; évite de rouler de nuit." },
+    { "title": "Le TER", "text": "Le train express régional de Dakar vers l'aéroport." }
+  ],
+  "culture": [
+    "La « teranga », l'hospitalité sénégalaise, est une fierté nationale.",
+    "Pays majoritairement musulman : tenue correcte, surtout hors des plages.",
+    "On salue longuement avant d'entrer dans le vif du sujet.",
+    "Les confréries religieuses (mourides, tidjanes) jouent un rôle important."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Salamaleikoum", "say": "salamalékoum" },
+    { "fr": "Merci", "local": "Jërëjëf", "say": "djeuredieuf" },
+    { "fr": "Comment ça va ?", "local": "Na nga def?", "say": "nanga def" }
+  ],
+  "checklist": [
+    "Passeport valable plus de 6 mois",
+    "Avis médical (paludisme, fièvre jaune recommandée)",
+    "Répulsif anti-moustiques et moustiquaire",
+    "Tenue correcte",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour le Sénégal ?", "a": "Non pour moins de 3 mois. Le passeport doit être valable plus de 6 mois ; la carte d'identité ne suffit pas." },
+    { "q": "Le vaccin contre la fièvre jaune est-il obligatoire au Sénégal ?", "a": "Non en arrivant de France : il est recommandé, comme le DTP, la rougeole et les hépatites." },
+    { "q": "Le Sénégal est-il sûr ?", "a": "La majeure partie du pays est sans difficulté particulière. Les frontières avec le Mali, le sud de la Mauritanie et une partie de la Casamance sont déconseillées sauf raison impérative." },
+    { "q": "Quel budget pour 10 jours au Sénégal ?", "a": "Compte environ 39 000 à 120 000 F CFA par jour seul et 28 500 à 92 000 F CFA par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}
