@@ -12,7 +12,15 @@
     "title": "Guide Jordanie : sécurité, visa, Petra, quand partir",
     "description": "Préparer un voyage en Jordanie : situation sécuritaire, visa et Jordan Pass, meilleure saison, budget, Amman, Petra, Wadi Rum, la mer Morte. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/jordanie/hero.jpg",
+    "alt": "Le Khazneh à Pétra",
+    "credit": {
+      "author": "Vyacheslav Argenberg",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Al-Khazneh_(The_Treasury)_2,_Petra,_Jordan.jpg"
+    }
+  },
   "summary": "La Jordanie se visite au printemps (mars à mai) et à l'automne (octobre-novembre). Le contexte régional est tendu : depuis juillet 2026, Aqaba, ses environs et le nord-est du pays sont déconseillés sauf raison impérative à cause des tirs de missiles et de drones dans la région. Vérifie la carte de France Diplomatie juste avant de réserver. Le Jordan Pass inclut le visa et l'entrée de Petra.",
   "essentials": {
     "bestPeriod": "Mars à mai, octobre-novembre",
@@ -24,26 +32,78 @@
     "flight": "Environ 4 h 30 depuis Paris pour Amman"
   },
   "months": [
-    { "rating": 1, "note": "Froid, pluie et parfois neige à Amman et Petra. La mer Morte reste douce." },
-    { "rating": 1, "note": "Encore frais, peu de monde." },
-    { "rating": 2, "note": "Le printemps, fleurs dans le désert, températures idéales." },
-    { "rating": 2, "note": "L'un des meilleurs mois pour Petra et le Wadi Rum." },
-    { "rating": 2, "note": "Chaud mais encore agréable." },
-    { "rating": 1, "note": "La chaleur s'installe, visites tôt le matin." },
-    { "rating": 0, "note": "Très chaud, souvent plus de 35 °C à Petra." },
-    { "rating": 0, "note": "Comme en juillet." },
-    { "rating": 1, "note": "La chaleur retombe en fin de mois." },
-    { "rating": 2, "note": "Températures idéales, lumière dorée sur Petra." },
-    { "rating": 2, "note": "Agréable et calme." },
-    { "rating": 1, "note": "Frais, pluies possibles." }
+    {
+      "rating": 1,
+      "note": "Froid, pluie et parfois neige à Amman et Petra. La mer Morte reste douce."
+    },
+    {
+      "rating": 1,
+      "note": "Encore frais, peu de monde."
+    },
+    {
+      "rating": 2,
+      "note": "Le printemps, fleurs dans le désert, températures idéales."
+    },
+    {
+      "rating": 2,
+      "note": "L'un des meilleurs mois pour Petra et le Wadi Rum."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud mais encore agréable."
+    },
+    {
+      "rating": 1,
+      "note": "La chaleur s'installe, visites tôt le matin."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud, souvent plus de 35 °C à Petra."
+    },
+    {
+      "rating": 0,
+      "note": "Comme en juillet."
+    },
+    {
+      "rating": 1,
+      "note": "La chaleur retombe en fin de mois."
+    },
+    {
+      "rating": 2,
+      "note": "Températures idéales, lumière dorée sur Petra."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable et calme."
+    },
+    {
+      "rating": 1,
+      "note": "Frais, pluies possibles."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en dinars jordaniens, par jour et par personne, hors vols. Convertis au taux du jour.",
     "rows": [
-      { "label": "Hébergement (hôtel simple ou camp)", "solo": "40 à 80 JD", "duo": "25 à 50 JD" },
-      { "label": "Repas", "solo": "15 à 30 JD", "duo": "15 à 30 JD" },
-      { "label": "Transports locaux", "solo": "5 à 20 JD", "duo": "5 à 15 JD" },
-      { "label": "Visites (avec le Jordan Pass)", "solo": "5 à 15 JD", "duo": "5 à 15 JD" }
+      {
+        "label": "Hébergement (hôtel simple ou camp)",
+        "solo": "40 à 80 JD",
+        "duo": "25 à 50 JD"
+      },
+      {
+        "label": "Repas",
+        "solo": "15 à 30 JD",
+        "duo": "15 à 30 JD"
+      },
+      {
+        "label": "Transports locaux",
+        "solo": "5 à 20 JD",
+        "duo": "5 à 15 JD"
+      },
+      {
+        "label": "Visites (avec le Jordan Pass)",
+        "solo": "5 à 15 JD",
+        "duo": "5 à 15 JD"
+      }
     ],
     "totalSolo": "65 à 145 JD",
     "totalDuo": "50 à 110 JD",
@@ -59,7 +119,10 @@
       "Le Jordan Pass, acheté en ligne, rend le visa gratuit à condition de rester au moins 3 nuits, et inclut l'entrée de Petra et de nombreux sites.",
       "Les passages vers Israël et la Palestine peuvent fermer sans préavis ; ces destinations sont formellement déconseillées."
     ],
-    "source": { "label": "France Diplomatie, Jordanie, Entrée / séjour (mise à jour du 30 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/jordanie/" },
+    "source": {
+      "label": "France Diplomatie, Jordanie, Entrée / séjour (mise à jour du 30 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/jordanie/"
+    },
     "checkedAt": "2026-11-24"
   },
   "health": {
@@ -70,7 +133,10 @@
       "Protège-toi de la chaleur et du soleil, surtout dans le désert.",
       "Au-delà de trois mois de séjour, plusieurs tests (dont le VIH) sont obligatoires pour prolonger."
     ],
-    "source": { "label": "France Diplomatie, Jordanie, Santé (mise à jour du 30 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/jordanie/" },
+    "source": {
+      "label": "France Diplomatie, Jordanie, Santé (mise à jour du 30 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/jordanie/"
+    },
     "checkedAt": "2026-11-24"
   },
   "safety": {
@@ -82,7 +148,10 @@
       "Tiens-toi à l'écart de toute manifestation et rassemblement, et suis les consignes des autorités.",
       "Inscris-toi sur Ariane pour recevoir les alertes."
     ],
-    "source": { "label": "France Diplomatie, Jordanie, Sécurité (mise à jour du 30 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/jordanie/" },
+    "source": {
+      "label": "France Diplomatie, Jordanie, Sécurité (mise à jour du 30 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/jordanie/"
+    },
     "checkedAt": "2026-11-24"
   },
   "cities": [
@@ -90,16 +159,31 @@
       "slug": "amman",
       "name": "Amman",
       "nights": "2 nuits",
-      "for": ["stratege", "energique"],
+      "for": [
+        "stratege",
+        "energique"
+      ],
       "summary": "Une capitale étagée sur des collines, entre citadelle antique, théâtre romain et cafés du centre-ville.",
       "sleep": "Dans le centre (Downtown) ou le quartier de Jabal Amman, plus calme.",
       "see": [
-        { "name": "La citadelle", "note": "Le temple d'Hercule et la vue sur la ville." },
-        { "name": "Le théâtre romain", "note": "Au cœur du centre-ville." },
-        { "name": "La rue Rainbow", "note": "Cafés et restaurants à Jabal Amman." }
+        {
+          "name": "La citadelle",
+          "note": "Le temple d'Hercule et la vue sur la ville."
+        },
+        {
+          "name": "Le théâtre romain",
+          "note": "Au cœur du centre-ville."
+        },
+        {
+          "name": "La rue Rainbow",
+          "note": "Cafés et restaurants à Jabal Amman."
+        }
       ],
       "hidden": [
-        { "name": "Jerash", "note": "L'une des cités romaines les mieux conservées au monde, à 1 h au nord." }
+        {
+          "name": "Jerash",
+          "note": "L'une des cités romaines les mieux conservées au monde, à 1 h au nord."
+        }
       ],
       "eat": "Le falafel et le houmous de Hashem, et le mansaf, plat national d'agneau au yaourt.",
       "getAround": "Taxis et VTC par application.",
@@ -109,16 +193,30 @@
       "slug": "petra",
       "name": "Petra",
       "nights": "2 nuits",
-      "for": ["tous"],
+      "for": [
+        "tous"
+      ],
       "summary": "La cité nabatéenne taillée dans la roche rose, l'une des merveilles du monde.",
       "sleep": "À Wadi Musa, le village à l'entrée du site.",
       "see": [
-        { "name": "Le Siq et le Trésor", "note": "Le défilé qui débouche sur la façade du Trésor. Arrive à l'ouverture." },
-        { "name": "Le Monastère (Ad Deir)", "note": "Environ 800 marches, la récompense est immense." },
-        { "name": "Petra by night", "note": "Le Siq et le Trésor éclairés à la bougie, certains soirs." }
+        {
+          "name": "Le Siq et le Trésor",
+          "note": "Le défilé qui débouche sur la façade du Trésor. Arrive à l'ouverture."
+        },
+        {
+          "name": "Le Monastère (Ad Deir)",
+          "note": "Environ 800 marches, la récompense est immense."
+        },
+        {
+          "name": "Petra by night",
+          "note": "Le Siq et le Trésor éclairés à la bougie, certains soirs."
+        }
       ],
       "hidden": [
-        { "name": "La Petite Petra (Siq al-Barid)", "note": "Gratuite et souvent déserte, à 15 minutes." }
+        {
+          "name": "La Petite Petra (Siq al-Barid)",
+          "note": "Gratuite et souvent déserte, à 15 minutes."
+        }
       ],
       "eat": "Le zarb, viande cuite dans le sable, dans les restaurants de Wadi Musa.",
       "getAround": "À pied dans le site, compte 15 à 20 km de marche par jour.",
@@ -128,13 +226,25 @@
       "slug": "wadi-rum",
       "name": "Le Wadi Rum",
       "nights": "1 à 2 nuits",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "Un désert de sable rouge et de montagnes de grès, où l'on dort dans un camp bédouin sous les étoiles.",
       "sleep": "Dans un camp bédouin, du plus simple au plus confortable.",
       "see": [
-        { "name": "Le circuit en 4x4", "note": "Arches naturelles, dunes et gravures rupestres." },
-        { "name": "Le coucher du soleil", "note": "Depuis une dune ou un rocher." },
-        { "name": "La nuit étoilée", "note": "Loin de toute lumière." }
+        {
+          "name": "Le circuit en 4x4",
+          "note": "Arches naturelles, dunes et gravures rupestres."
+        },
+        {
+          "name": "Le coucher du soleil",
+          "note": "Depuis une dune ou un rocher."
+        },
+        {
+          "name": "La nuit étoilée",
+          "note": "Loin de toute lumière."
+        }
       ],
       "hidden": [],
       "eat": "Le repas cuit sous le sable au camp.",
@@ -145,13 +255,25 @@
       "slug": "mer-morte",
       "name": "La mer Morte",
       "nights": "1 nuit",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Le point le plus bas de la Terre, où l'on flotte sans effort dans une eau saturée de sel.",
       "sleep": "Dans un hôtel en bord de mer avec accès à la plage, ou en excursion depuis Amman.",
       "see": [
-        { "name": "La baignade", "note": "Une flottaison étonnante, et la boue noire sur la peau." },
-        { "name": "Le site du baptême de Jésus (Béthanie)", "note": "Au bord du Jourdain, classé à l'Unesco." },
-        { "name": "Le wadi Mujib", "note": "Un canyon où l'on remonte la rivière, en saison." }
+        {
+          "name": "La baignade",
+          "note": "Une flottaison étonnante, et la boue noire sur la peau."
+        },
+        {
+          "name": "Le site du baptême de Jésus (Béthanie)",
+          "note": "Au bord du Jourdain, classé à l'Unesco."
+        },
+        {
+          "name": "Le wadi Mujib",
+          "note": "Un canyon où l'on remonte la rivière, en saison."
+        }
       ],
       "hidden": [],
       "eat": "Les buffets des hôtels.",
@@ -163,39 +285,96 @@
     {
       "days": 7,
       "title": "Les incontournables",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Amman", "note": "Et Jerash." },
-        { "days": "Jour 3", "place": "Mer Morte", "note": "Baignade et Béthanie." },
-        { "days": "Jours 4 et 5", "place": "Petra", "note": "Deux jours sur le site." },
-        { "days": "Jours 6 et 7", "place": "Wadi Rum ou retour", "note": "Selon les recommandations de France Diplomatie à la date du voyage." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Amman",
+          "note": "Et Jerash."
+        },
+        {
+          "days": "Jour 3",
+          "place": "Mer Morte",
+          "note": "Baignade et Béthanie."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Petra",
+          "note": "Deux jours sur le site."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Wadi Rum ou retour",
+          "note": "Selon les recommandations de France Diplomatie à la date du voyage."
+        }
       ]
     },
     {
       "days": 5,
       "title": "Petra et Amman",
-      "for": ["energique"],
+      "for": [
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Amman", "note": "Citadelle et Jerash." },
-        { "days": "Jours 3 à 5", "place": "Petra", "note": "Par la route des Rois." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Amman",
+          "note": "Citadelle et Jerash."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Petra",
+          "note": "Par la route des Rois."
+        }
       ]
     },
     {
       "days": 10,
       "title": "À son rythme",
-      "for": ["lent", "explorateur"],
+      "for": [
+        "lent",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Amman et le nord", "note": "Jerash, Ajloun." },
-        { "days": "Jours 4 et 5", "place": "Mer Morte et Mujib", "note": "Détente et canyon." },
-        { "days": "Jours 6 à 8", "place": "Petra et Dana", "note": "Randonnée dans la réserve de Dana." },
-        { "days": "Jours 9 et 10", "place": "Retour à Amman", "note": "Par la route des Rois." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Amman et le nord",
+          "note": "Jerash, Ajloun."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Mer Morte et Mujib",
+          "note": "Détente et canyon."
+        },
+        {
+          "days": "Jours 6 à 8",
+          "place": "Petra et Dana",
+          "note": "Randonnée dans la réserve de Dana."
+        },
+        {
+          "days": "Jours 9 et 10",
+          "place": "Retour à Amman",
+          "note": "Par la route des Rois."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "En voiture", "text": "La route des Rois et la route du désert relient Amman au sud. Conduite rapide, prudence." },
-    { "title": "Les bus", "text": "Le bus JETT relie Amman à Petra ; le reste du réseau est limité." },
-    { "title": "Chauffeur privé", "text": "Courant et pratique, surtout à plusieurs." }
+    {
+      "title": "En voiture",
+      "text": "La route des Rois et la route du désert relient Amman au sud. Conduite rapide, prudence."
+    },
+    {
+      "title": "Les bus",
+      "text": "Le bus JETT relie Amman à Petra ; le reste du réseau est limité."
+    },
+    {
+      "title": "Chauffeur privé",
+      "text": "Courant et pratique, surtout à plusieurs."
+    }
   ],
   "culture": [
     "Tenue couvrant épaules et genoux hors des hôtels, foulard pour les femmes dans les mosquées.",
@@ -204,10 +383,26 @@
     "Demande avant de photographier quelqu'un."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "مرحبا", "say": "marhaba" },
-    { "fr": "Merci", "local": "شكرا", "say": "choukran" },
-    { "fr": "Non merci", "local": "لا شكرا", "say": "la, choukran" },
-    { "fr": "Combien ?", "local": "بكم", "say": "bikam" }
+    {
+      "fr": "Bonjour",
+      "local": "مرحبا",
+      "say": "marhaba"
+    },
+    {
+      "fr": "Merci",
+      "local": "شكرا",
+      "say": "choukran"
+    },
+    {
+      "fr": "Non merci",
+      "local": "لا شكرا",
+      "say": "la, choukran"
+    },
+    {
+      "fr": "Combien ?",
+      "local": "بكم",
+      "say": "bikam"
+    }
   ],
   "checklist": [
     "Passeport valable au moins 6 mois à l'arrivée",
@@ -219,9 +414,21 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour la Jordanie ?", "a": "Oui : en ligne, à l'arrivée (40 JD) ou inclus dans le Jordan Pass si tu restes au moins 3 nuits. Le passeport doit être valable 6 mois à l'arrivée." },
-    { "q": "Peut-on voyager en Jordanie en ce moment ?", "a": "Le pays reste stable, mais le contexte régional est très tendu. Depuis juillet 2026, Aqaba, ses environs et le nord-est sont déconseillés sauf raison impérative. Vérifie la carte de France Diplomatie juste avant de partir et inscris-toi sur Ariane." },
-    { "q": "Le Jordan Pass est-il rentable ?", "a": "Presque toujours : il inclut le visa (si tu restes au moins 3 nuits) et l'entrée de Petra, qui coûte à elle seule une bonne partie du prix du pass." },
-    { "q": "Quel budget pour une semaine en Jordanie ?", "a": "Compte environ 65 à 145 JD par jour seul et 50 à 110 JD par personne à deux, hors vols et Jordan Pass. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour la Jordanie ?",
+      "a": "Oui : en ligne, à l'arrivée (40 JD) ou inclus dans le Jordan Pass si tu restes au moins 3 nuits. Le passeport doit être valable 6 mois à l'arrivée."
+    },
+    {
+      "q": "Peut-on voyager en Jordanie en ce moment ?",
+      "a": "Le pays reste stable, mais le contexte régional est très tendu. Depuis juillet 2026, Aqaba, ses environs et le nord-est sont déconseillés sauf raison impérative. Vérifie la carte de France Diplomatie juste avant de partir et inscris-toi sur Ariane."
+    },
+    {
+      "q": "Le Jordan Pass est-il rentable ?",
+      "a": "Presque toujours : il inclut le visa (si tu restes au moins 3 nuits) et l'entrée de Petra, qui coûte à elle seule une bonne partie du prix du pass."
+    },
+    {
+      "q": "Quel budget pour une semaine en Jordanie ?",
+      "a": "Compte environ 65 à 145 JD par jour seul et 50 à 110 JD par personne à deux, hors vols et Jordan Pass. Ces montants sont des estimations à vérifier."
+    }
   ]
 }

@@ -12,7 +12,15 @@
     "title": "Guide Pays-Bas : Amsterdam, tulipes, vélo, budget",
     "description": "Préparer un voyage aux Pays-Bas : papiers, meilleure saison, budget seul ou à deux, Amsterdam, Rotterdam, Utrecht, Haarlem, les tulipes. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/pays-bas/hero.jpg",
+    "alt": "Les canaux d'Amsterdam",
+    "credit": {
+      "author": "Basile Morin",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_canal_houses_at_blue_hour_in_Damrak_Amsterdam_the_Netherlands.jpg"
+    }
+  },
   "summary": "Les Pays-Bas se visitent d'avril à septembre : avril-mai pour les champs de tulipes, l'été pour les canaux et les plages. Une carte d'identité suffit. Le pays est petit et le train relie tout en moins de deux heures : Amsterdam se combine facilement avec Rotterdam, Utrecht ou Haarlem, idéalement à vélo.",
   "essentials": {
     "bestPeriod": "Avril à septembre",
@@ -24,26 +32,78 @@
     "flight": "Environ 3 h 20 en train direct de Paris à Amsterdam, 1 h 15 en avion"
   },
   "months": [
-    { "rating": 0, "note": "Froid, humide et venteux ; musées au chaud." },
-    { "rating": 0, "note": "Comme en janvier." },
-    { "rating": 1, "note": "Premières fleurs, ouverture du Keukenhof en fin de mois." },
-    { "rating": 2, "note": "Champs de tulipes en fleurs, Fête du Roi le 27 avril." },
-    { "rating": 2, "note": "Derniers champs fleuris, terrasses sur les canaux." },
-    { "rating": 2, "note": "Longues journées, idéal à vélo." },
-    { "rating": 2, "note": "Haute saison, plages de la mer du Nord." },
-    { "rating": 2, "note": "Chaud et animé, festivals." },
-    { "rating": 2, "note": "Encore doux, moins de monde." },
-    { "rating": 1, "note": "Automne venteux, belles lumières." },
-    { "rating": 0, "note": "Pluvieux et sombre." },
-    { "rating": 1, "note": "Illuminations et Festival des lumières d'Amsterdam." }
+    {
+      "rating": 0,
+      "note": "Froid, humide et venteux ; musées au chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Comme en janvier."
+    },
+    {
+      "rating": 1,
+      "note": "Premières fleurs, ouverture du Keukenhof en fin de mois."
+    },
+    {
+      "rating": 2,
+      "note": "Champs de tulipes en fleurs, Fête du Roi le 27 avril."
+    },
+    {
+      "rating": 2,
+      "note": "Derniers champs fleuris, terrasses sur les canaux."
+    },
+    {
+      "rating": 2,
+      "note": "Longues journées, idéal à vélo."
+    },
+    {
+      "rating": 2,
+      "note": "Haute saison, plages de la mer du Nord."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud et animé, festivals."
+    },
+    {
+      "rating": 2,
+      "note": "Encore doux, moins de monde."
+    },
+    {
+      "rating": 1,
+      "note": "Automne venteux, belles lumières."
+    },
+    {
+      "rating": 0,
+      "note": "Pluvieux et sombre."
+    },
+    {
+      "rating": 1,
+      "note": "Illuminations et Festival des lumières d'Amsterdam."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en euros, par jour et par personne, hors trajet aller-retour.",
     "rows": [
-      { "label": "Hébergement (hôtel simple ou auberge)", "solo": "90 à 180 €", "duo": "60 à 120 €" },
-      { "label": "Repas", "solo": "35 à 65 €", "duo": "35 à 65 €" },
-      { "label": "Transports (train, vélo)", "solo": "10 à 25 €", "duo": "10 à 25 €" },
-      { "label": "Visites et entrées", "solo": "15 à 40 €", "duo": "15 à 40 €" }
+      {
+        "label": "Hébergement (hôtel simple ou auberge)",
+        "solo": "90 à 180 €",
+        "duo": "60 à 120 €"
+      },
+      {
+        "label": "Repas",
+        "solo": "35 à 65 €",
+        "duo": "35 à 65 €"
+      },
+      {
+        "label": "Transports (train, vélo)",
+        "solo": "10 à 25 €",
+        "duo": "10 à 25 €"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "15 à 40 €",
+        "duo": "15 à 40 €"
+      }
     ],
     "totalSolo": "150 à 310 €",
     "totalDuo": "120 à 250 €",
@@ -56,7 +116,10 @@
     "points": [
       "Les cartes d'identité délivrées à des majeurs entre 2004 et 2013 restent valables 5 ans après la date imprimée ; un passeport valide évite toutefois tout désagrément."
     ],
-    "source": { "label": "France Diplomatie, Pays-Bas, Entrée / séjour (mise à jour du 16 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/pays-bas/" },
+    "source": {
+      "label": "France Diplomatie, Pays-Bas, Entrée / séjour (mise à jour du 16 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/pays-bas/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -65,7 +128,10 @@
       "Carte européenne d'assurance maladie, à demander avant le départ.",
       "Encéphalite à tiques : selon les conditions de séjour (dunes, forêts)."
     ],
-    "source": { "label": "France Diplomatie, Pays-Bas, Santé (mise à jour du 16 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/pays-bas/" },
+    "source": {
+      "label": "France Diplomatie, Pays-Bas, Santé (mise à jour du 16 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/pays-bas/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -75,7 +141,10 @@
       "Vols signalés aussi lors des transits à l'aéroport de Schiphol.",
       "Vols dans les véhicules : ne laisse rien de visible dans ta voiture."
     ],
-    "source": { "label": "France Diplomatie, Pays-Bas, Sécurité (mise à jour du 16 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/pays-bas/" },
+    "source": {
+      "label": "France Diplomatie, Pays-Bas, Sécurité (mise à jour du 16 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/pays-bas/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -83,17 +152,35 @@
       "slug": "amsterdam",
       "name": "Amsterdam",
       "nights": "3 nuits",
-      "for": ["tous", "energique"],
+      "for": [
+        "tous",
+        "energique"
+      ],
       "summary": "Une ville de canaux et de maisons étroites, avec quelques-uns des plus grands musées d'Europe.",
       "sleep": "Dans le Jordaan ou De Pijp ; moins cher à Haarlem ou Utrecht.",
       "see": [
-        { "name": "Le Rijksmuseum", "note": "Rembrandt et Vermeer, réservation conseillée." },
-        { "name": "Le musée Van Gogh", "note": "Créneau horaire à réserver en ligne." },
-        { "name": "La maison d'Anne Frank", "note": "Billets mis en vente en ligne, souvent complets." }
+        {
+          "name": "Le Rijksmuseum",
+          "note": "Rembrandt et Vermeer, réservation conseillée."
+        },
+        {
+          "name": "Le musée Van Gogh",
+          "note": "Créneau horaire à réserver en ligne."
+        },
+        {
+          "name": "La maison d'Anne Frank",
+          "note": "Billets mis en vente en ligne, souvent complets."
+        }
       ],
       "hidden": [
-        { "name": "Les Neuf petites rues", "note": "Boutiques et cafés entre les canaux." },
-        { "name": "Le quartier NDSM", "note": "Un ancien chantier naval devenu lieu culturel, en ferry gratuit." }
+        {
+          "name": "Les Neuf petites rues",
+          "note": "Boutiques et cafés entre les canaux."
+        },
+        {
+          "name": "Le quartier NDSM",
+          "note": "Un ancien chantier naval devenu lieu culturel, en ferry gratuit."
+        }
       ],
       "eat": "Le hareng cru, les frites à la mayonnaise et la tarte aux pommes.",
       "getAround": "À pied, en tram ou à vélo.",
@@ -103,16 +190,31 @@
       "slug": "rotterdam",
       "name": "Rotterdam",
       "nights": "2 nuits",
-      "for": ["stratege", "energique"],
+      "for": [
+        "stratege",
+        "energique"
+      ],
       "summary": "La ville de l'architecture contemporaine, reconstruite après la guerre, et le premier port d'Europe.",
       "sleep": "Près de la gare centrale ou du port de Kop van Zuid.",
       "see": [
-        { "name": "Le Markthal", "note": "Un marché couvert sous une arche peinte." },
-        { "name": "Les maisons cubes", "note": "Dont une se visite." },
-        { "name": "Le Depot Boijmans", "note": "Un dépôt d'œuvres d'art ouvert au public, au toit panoramique." }
+        {
+          "name": "Le Markthal",
+          "note": "Un marché couvert sous une arche peinte."
+        },
+        {
+          "name": "Les maisons cubes",
+          "note": "Dont une se visite."
+        },
+        {
+          "name": "Le Depot Boijmans",
+          "note": "Un dépôt d'œuvres d'art ouvert au public, au toit panoramique."
+        }
       ],
       "hidden": [
-        { "name": "Kinderdijk", "note": "Les 19 moulins classés à l'Unesco, en bateau-bus." }
+        {
+          "name": "Kinderdijk",
+          "note": "Les 19 moulins classés à l'Unesco, en bateau-bus."
+        }
       ],
       "eat": "Les street-foods du Markthal.",
       "getAround": "Métro, tram et bateaux-taxis.",
@@ -122,16 +224,31 @@
       "slug": "utrecht-haarlem",
       "name": "Utrecht, Haarlem et Delft",
       "nights": "2 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Des villes à taille humaine, canaux et maisons anciennes, sans la foule d'Amsterdam.",
       "sleep": "À Utrecht ou Haarlem, très bien reliées en train.",
       "see": [
-        { "name": "Les quais d'Utrecht", "note": "Des terrasses au niveau de l'eau, et la tour du Dom." },
-        { "name": "Haarlem", "note": "La Grand-Place et le musée Frans Hals." },
-        { "name": "Delft", "note": "La ville de Vermeer et de la faïence bleue." }
+        {
+          "name": "Les quais d'Utrecht",
+          "note": "Des terrasses au niveau de l'eau, et la tour du Dom."
+        },
+        {
+          "name": "Haarlem",
+          "note": "La Grand-Place et le musée Frans Hals."
+        },
+        {
+          "name": "Delft",
+          "note": "La ville de Vermeer et de la faïence bleue."
+        }
       ],
       "hidden": [
-        { "name": "Le Keukenhof", "note": "Le grand jardin de tulipes, ouvert de mars à mai." }
+        {
+          "name": "Le Keukenhof",
+          "note": "Le grand jardin de tulipes, ouvert de mars à mai."
+        }
       ],
       "eat": "Les stroopwafels (gaufres au caramel) chauds au marché.",
       "getAround": "Train fréquent, vélo sur place.",
@@ -142,27 +259,62 @@
     {
       "days": 5,
       "title": "Amsterdam et ses voisines",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Amsterdam", "note": "Musées et canaux." },
-        { "days": "Jours 4 et 5", "place": "Haarlem et Utrecht", "note": "Retour en train depuis Amsterdam." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Amsterdam",
+          "note": "Musées et canaux."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Haarlem et Utrecht",
+          "note": "Retour en train depuis Amsterdam."
+        }
       ]
     },
     {
       "days": 7,
       "title": "Les Pays-Bas en train",
-      "for": ["stratege", "energique"],
+      "for": [
+        "stratege",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Amsterdam", "note": "Arrivée en train depuis Paris." },
-        { "days": "Jours 4 et 5", "place": "Utrecht et Delft", "note": "Villes historiques." },
-        { "days": "Jours 6 et 7", "place": "Rotterdam", "note": "Architecture et Kinderdijk, retour direct vers Paris." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Amsterdam",
+          "note": "Arrivée en train depuis Paris."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Utrecht et Delft",
+          "note": "Villes historiques."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Rotterdam",
+          "note": "Architecture et Kinderdijk, retour direct vers Paris."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le train", "text": "Rapide et fréquent ; paie directement avec ta carte bancaire sans contact aux portiques." },
-    { "title": "Le vélo", "text": "Le moyen roi : location partout, pistes sur tout le territoire." },
-    { "title": "En voiture", "text": "Inutile en ville : stationnement très cher dans les centres." }
+    {
+      "title": "Le train",
+      "text": "Rapide et fréquent ; paie directement avec ta carte bancaire sans contact aux portiques."
+    },
+    {
+      "title": "Le vélo",
+      "text": "Le moyen roi : location partout, pistes sur tout le territoire."
+    },
+    {
+      "title": "En voiture",
+      "text": "Inutile en ville : stationnement très cher dans les centres."
+    }
   ],
   "culture": [
     "Les Néerlandais sont directs : ce n'est pas de l'impolitesse.",
@@ -170,9 +322,21 @@
     "La carte bancaire est acceptée presque partout, parfois même exigée."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Goedendag", "say": "khouden-dakh" },
-    { "fr": "Merci", "local": "Dank je wel", "say": "dank-ye-vel" },
-    { "fr": "Santé !", "local": "Proost!", "say": "prost" }
+    {
+      "fr": "Bonjour",
+      "local": "Goedendag",
+      "say": "khouden-dakh"
+    },
+    {
+      "fr": "Merci",
+      "local": "Dank je wel",
+      "say": "dank-ye-vel"
+    },
+    {
+      "fr": "Santé !",
+      "local": "Proost!",
+      "say": "prost"
+    }
   ],
   "checklist": [
     "Passeport ou carte d'identité",
@@ -182,9 +346,21 @@
     "Carte bancaire sans contact"
   ],
   "faq": [
-    { "q": "Quels papiers pour les Pays-Bas ?", "a": "Un passeport ou une carte d'identité en cours de validité." },
-    { "q": "Quand voir les tulipes ?", "a": "De fin mars à mi-mai, avec un pic en avril. Le Keukenhof n'ouvre qu'au printemps." },
-    { "q": "Amsterdam est-elle sûre ?", "a": "Oui, le pays est en vigilance normale. Méfie-toi des pickpockets dans le centre, près de la gare et à Schiphol." },
-    { "q": "Quel budget pour une semaine aux Pays-Bas ?", "a": "Compte environ 150 à 310 € par jour seul et 120 à 250 € par personne à deux, hors trajet aller-retour. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Quels papiers pour les Pays-Bas ?",
+      "a": "Un passeport ou une carte d'identité en cours de validité."
+    },
+    {
+      "q": "Quand voir les tulipes ?",
+      "a": "De fin mars à mi-mai, avec un pic en avril. Le Keukenhof n'ouvre qu'au printemps."
+    },
+    {
+      "q": "Amsterdam est-elle sûre ?",
+      "a": "Oui, le pays est en vigilance normale. Méfie-toi des pickpockets dans le centre, près de la gare et à Schiphol."
+    },
+    {
+      "q": "Quel budget pour une semaine aux Pays-Bas ?",
+      "a": "Compte environ 150 à 310 € par jour seul et 120 à 250 € par personne à deux, hors trajet aller-retour. Ces montants sont des estimations à vérifier."
+    }
   ]
 }

@@ -12,7 +12,15 @@
     "title": "Guide Hongrie : quand partir, budget, Budapest, Balaton",
     "description": "Préparer un voyage en Hongrie : meilleure saison, budget seul ou à deux, Budapest et ses bains, le lac Balaton, Eger, Pécs. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/hongrie/hero.jpg",
+    "alt": "Le Parlement de Budapest au bord du Danube",
+    "credit": {
+      "author": "Godot13",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:HUN-2015-Budapest-Hungarian_Parliament_(Budapest)_2015-02.jpg"
+    }
+  },
   "summary": "La Hongrie se visite d'avril à octobre, avec un bonus en décembre pour les marchés de Noël de Budapest. Une carte d'identité suffit. Budapest mérite trois jours à elle seule, et se combine facilement avec le lac Balaton ou la région viticole d'Eger.",
   "essentials": {
     "bestPeriod": "Avril à juin, septembre-octobre",
@@ -24,26 +32,78 @@
     "flight": "Environ 2 h 15 depuis Paris pour Budapest"
   },
   "months": [
-    { "rating": 1, "note": "Froid, mais les bains thermaux en plein air sont magiques sous la vapeur." },
-    { "rating": 1, "note": "Comme en janvier. Prix bas." },
-    { "rating": 1, "note": "Le printemps arrive doucement." },
-    { "rating": 2, "note": "Doux, parcs en fleurs, idéal pour la ville." },
-    { "rating": 2, "note": "Terrasses, longues soirées, peu de chaleur excessive." },
-    { "rating": 2, "note": "Chaud et lumineux, festivals." },
-    { "rating": 1, "note": "Chaleur forte à Budapest. Idéal pour le lac Balaton." },
-    { "rating": 1, "note": "Festival Sziget début août, ville très animée. Grosse chaleur." },
-    { "rating": 2, "note": "Doux, vendanges autour d'Eger et de Tokaj." },
-    { "rating": 2, "note": "Couleurs d'automne au bord du Danube." },
-    { "rating": 1, "note": "Gris et frais, mais calme." },
-    { "rating": 1, "note": "Marchés de Noël à Budapest, parmi les plus réputés d'Europe." }
+    {
+      "rating": 1,
+      "note": "Froid, mais les bains thermaux en plein air sont magiques sous la vapeur."
+    },
+    {
+      "rating": 1,
+      "note": "Comme en janvier. Prix bas."
+    },
+    {
+      "rating": 1,
+      "note": "Le printemps arrive doucement."
+    },
+    {
+      "rating": 2,
+      "note": "Doux, parcs en fleurs, idéal pour la ville."
+    },
+    {
+      "rating": 2,
+      "note": "Terrasses, longues soirées, peu de chaleur excessive."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud et lumineux, festivals."
+    },
+    {
+      "rating": 1,
+      "note": "Chaleur forte à Budapest. Idéal pour le lac Balaton."
+    },
+    {
+      "rating": 1,
+      "note": "Festival Sziget début août, ville très animée. Grosse chaleur."
+    },
+    {
+      "rating": 2,
+      "note": "Doux, vendanges autour d'Eger et de Tokaj."
+    },
+    {
+      "rating": 2,
+      "note": "Couleurs d'automne au bord du Danube."
+    },
+    {
+      "rating": 1,
+      "note": "Gris et frais, mais calme."
+    },
+    {
+      "rating": 1,
+      "note": "Marchés de Noël à Budapest, parmi les plus réputés d'Europe."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en forints, par jour et par personne, hors vols. Convertis au taux du jour.",
     "rows": [
-      { "label": "Hébergement (hôtel simple ou appartement)", "solo": "25 000 à 50 000 Ft", "duo": "16 000 à 32 000 Ft" },
-      { "label": "Repas", "solo": "10 000 à 20 000 Ft", "duo": "10 000 à 20 000 Ft" },
-      { "label": "Transports locaux", "solo": "1 500 à 4 000 Ft", "duo": "1 500 à 4 000 Ft" },
-      { "label": "Visites et bains", "solo": "3 000 à 12 000 Ft", "duo": "3 000 à 12 000 Ft" }
+      {
+        "label": "Hébergement (hôtel simple ou appartement)",
+        "solo": "25 000 à 50 000 Ft",
+        "duo": "16 000 à 32 000 Ft"
+      },
+      {
+        "label": "Repas",
+        "solo": "10 000 à 20 000 Ft",
+        "duo": "10 000 à 20 000 Ft"
+      },
+      {
+        "label": "Transports locaux",
+        "solo": "1 500 à 4 000 Ft",
+        "duo": "1 500 à 4 000 Ft"
+      },
+      {
+        "label": "Visites et bains",
+        "solo": "3 000 à 12 000 Ft",
+        "duo": "3 000 à 12 000 Ft"
+      }
     ],
     "totalSolo": "39 500 à 86 000 Ft",
     "totalDuo": "30 500 à 68 000 Ft",
@@ -56,7 +116,10 @@
     "points": [
       "Les cartes d'identité 2004-2013 prolongées de 5 ans sont valables en Hongrie, mais peuvent poser problème si tu continues vers un pays hors Schengen (Serbie, Ukraine…). Préfère un passeport dans ce cas."
     ],
-    "source": { "label": "France Diplomatie, Hongrie, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/hongrie/" },
+    "source": {
+      "label": "France Diplomatie, Hongrie, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/hongrie/"
+    },
     "checkedAt": "2026-11-24"
   },
   "health": {
@@ -66,7 +129,10 @@
       "Encéphalite à tiques : à discuter pour un séjour en zone rurale ou forestière.",
       "Rage : recommandé pour les enfants et les séjours en zone rurale."
     ],
-    "source": { "label": "France Diplomatie, Hongrie, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/hongrie/" },
+    "source": {
+      "label": "France Diplomatie, Hongrie, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/hongrie/"
+    },
     "checkedAt": "2026-11-24"
   },
   "safety": {
@@ -77,7 +143,10 @@
       "Arnaques dans certains bars du centre de Budapest : additions démesurées, cartes utilisées frauduleusement. Ne suis pas les recommandations de bars données par des chauffeurs de taxi.",
       "Répartis cartes, argent et papiers dans des poches différentes, et sois vigilant dans les trains de nuit."
     ],
-    "source": { "label": "France Diplomatie, Hongrie, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/hongrie/" },
+    "source": {
+      "label": "France Diplomatie, Hongrie, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/hongrie/"
+    },
     "checkedAt": "2026-11-24"
   },
   "cities": [
@@ -85,18 +154,40 @@
       "slug": "budapest",
       "name": "Budapest",
       "nights": "3 à 4 nuits",
-      "for": ["tous", "energique", "lent"],
+      "for": [
+        "tous",
+        "energique",
+        "lent"
+      ],
       "summary": "Deux villes de part et d'autre du Danube : Buda et son château sur la colline, Pest et ses grands boulevards, ses bains thermaux et ses bars en ruine.",
       "sleep": "Dans le 5e ou le 7e arrondissement, côté Pest, pour tout faire à pied.",
       "see": [
-        { "name": "Le Parlement", "note": "L'un des plus beaux d'Europe, visite guidée sur réservation." },
-        { "name": "Le quartier du château de Buda", "note": "Le bastion des Pêcheurs et l'église Matthias, avec vue sur Pest." },
-        { "name": "Les bains Széchenyi ou Gellért", "note": "Bassins chauds en plein air, même en hiver." },
-        { "name": "Une croisière sur le Danube", "note": "Le soir, quand les ponts et le Parlement s'illuminent." }
+        {
+          "name": "Le Parlement",
+          "note": "L'un des plus beaux d'Europe, visite guidée sur réservation."
+        },
+        {
+          "name": "Le quartier du château de Buda",
+          "note": "Le bastion des Pêcheurs et l'église Matthias, avec vue sur Pest."
+        },
+        {
+          "name": "Les bains Széchenyi ou Gellért",
+          "note": "Bassins chauds en plein air, même en hiver."
+        },
+        {
+          "name": "Une croisière sur le Danube",
+          "note": "Le soir, quand les ponts et le Parlement s'illuminent."
+        }
       ],
       "hidden": [
-        { "name": "Les bars en ruine (romkocsma)", "note": "Des bars installés dans des immeubles abandonnés du quartier juif." },
-        { "name": "La colline Gellért", "note": "La citadelle et la plus belle vue au coucher du soleil." }
+        {
+          "name": "Les bars en ruine (romkocsma)",
+          "note": "Des bars installés dans des immeubles abandonnés du quartier juif."
+        },
+        {
+          "name": "La colline Gellért",
+          "note": "La citadelle et la plus belle vue au coucher du soleil."
+        }
       ],
       "eat": "Le goulash, le lángos (beignet salé) et les pâtisseries des grands cafés historiques.",
       "getAround": "Métro, tram (la ligne 2 longe le Danube) et marche.",
@@ -106,13 +197,25 @@
       "slug": "balaton",
       "name": "Le lac Balaton",
       "nights": "2 nuits",
-      "for": ["lent", "energique"],
+      "for": [
+        "lent",
+        "energique"
+      ],
       "summary": "La « mer hongroise », le plus grand lac d'Europe centrale, entre plages animées et collines de vignobles.",
       "sleep": "Tihany ou Balatonfüred sur la rive nord, plus calmes et plus belles ; Siófok au sud pour la fête.",
       "see": [
-        { "name": "La presqu'île de Tihany", "note": "Une abbaye perchée, de la lavande et des vues sur le lac." },
-        { "name": "Les vignobles de la rive nord", "note": "Dégustations autour de Badacsony." },
-        { "name": "Le lac thermal de Hévíz", "note": "On s'y baigne toute l'année, l'eau est chaude." }
+        {
+          "name": "La presqu'île de Tihany",
+          "note": "Une abbaye perchée, de la lavande et des vues sur le lac."
+        },
+        {
+          "name": "Les vignobles de la rive nord",
+          "note": "Dégustations autour de Badacsony."
+        },
+        {
+          "name": "Le lac thermal de Hévíz",
+          "note": "On s'y baigne toute l'année, l'eau est chaude."
+        }
       ],
       "hidden": [],
       "eat": "Le poisson du lac (fogas) et le vin blanc local.",
@@ -123,13 +226,25 @@
       "slug": "eger",
       "name": "Eger",
       "nights": "1 à 2 nuits",
-      "for": ["lent", "stratege"],
+      "for": [
+        "lent",
+        "stratege"
+      ],
       "summary": "Une ville baroque au pied d'une forteresse, réputée pour son vin rouge « Sang de taureau ».",
       "sleep": "Dans le centre historique.",
       "see": [
-        { "name": "La forteresse", "note": "Le symbole de la résistance hongroise face aux Ottomans." },
-        { "name": "La vallée des Belles-Femmes", "note": "Des dizaines de caves creusées dans la roche, pour déguster." },
-        { "name": "Le minaret", "note": "Le plus septentrional d'Europe, vestige ottoman." }
+        {
+          "name": "La forteresse",
+          "note": "Le symbole de la résistance hongroise face aux Ottomans."
+        },
+        {
+          "name": "La vallée des Belles-Femmes",
+          "note": "Des dizaines de caves creusées dans la roche, pour déguster."
+        },
+        {
+          "name": "Le minaret",
+          "note": "Le plus septentrional d'Europe, vestige ottoman."
+        }
       ],
       "hidden": [],
       "eat": "Le Bikavér (Sang de taureau) dans les caves.",
@@ -140,13 +255,25 @@
       "slug": "pecs",
       "name": "Pécs",
       "nights": "1 à 2 nuits",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "Une ville du sud au climat doux, mêlant héritages romain, ottoman et Art nouveau.",
       "sleep": "Autour de la place Széchenyi.",
       "see": [
-        { "name": "La mosquée-église de la place Széchenyi", "note": "Une mosquée ottomane devenue église." },
-        { "name": "La nécropole paléochrétienne", "note": "Classée à l'Unesco." },
-        { "name": "Le quartier Zsolnay", "note": "L'ancienne manufacture de céramique devenue lieu culturel." }
+        {
+          "name": "La mosquée-église de la place Széchenyi",
+          "note": "Une mosquée ottomane devenue église."
+        },
+        {
+          "name": "La nécropole paléochrétienne",
+          "note": "Classée à l'Unesco."
+        },
+        {
+          "name": "Le quartier Zsolnay",
+          "note": "L'ancienne manufacture de céramique devenue lieu culturel."
+        }
       ],
       "hidden": [],
       "eat": "Les vins de Villány, à 30 minutes.",
@@ -158,39 +285,97 @@
     {
       "days": 4,
       "title": "Budapest en week-end prolongé",
-      "for": ["tous", "energique"],
+      "for": [
+        "tous",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jour 1", "place": "Pest", "note": "Parlement, basilique, bars en ruine." },
-        { "days": "Jour 2", "place": "Buda", "note": "Château, bastion, colline Gellért." },
-        { "days": "Jour 3", "place": "Bains et Danube", "note": "Széchenyi et croisière du soir." },
-        { "days": "Jour 4", "place": "Szentendre ou retour", "note": "Village d'artistes au bord du Danube." }
+        {
+          "days": "Jour 1",
+          "place": "Pest",
+          "note": "Parlement, basilique, bars en ruine."
+        },
+        {
+          "days": "Jour 2",
+          "place": "Buda",
+          "note": "Château, bastion, colline Gellért."
+        },
+        {
+          "days": "Jour 3",
+          "place": "Bains et Danube",
+          "note": "Széchenyi et croisière du soir."
+        },
+        {
+          "days": "Jour 4",
+          "place": "Szentendre ou retour",
+          "note": "Village d'artistes au bord du Danube."
+        }
       ]
     },
     {
       "days": 7,
       "title": "Budapest et le Balaton",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Budapest", "note": "À ton rythme." },
-        { "days": "Jours 5 à 7", "place": "Lac Balaton", "note": "Tihany, Hévíz, vignobles." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Budapest",
+          "note": "À ton rythme."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Lac Balaton",
+          "note": "Tihany, Hévíz, vignobles."
+        }
       ]
     },
     {
       "days": 10,
       "title": "Villes et vignobles",
-      "for": ["stratege", "explorateur"],
+      "for": [
+        "stratege",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Budapest", "note": "Les essentiels." },
-        { "days": "Jours 5 et 6", "place": "Eger", "note": "Et Tokaj." },
-        { "days": "Jours 7 et 8", "place": "Lac Balaton", "note": "Rive nord." },
-        { "days": "Jours 9 et 10", "place": "Pécs", "note": "Retour par Budapest." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Budapest",
+          "note": "Les essentiels."
+        },
+        {
+          "days": "Jours 5 et 6",
+          "place": "Eger",
+          "note": "Et Tokaj."
+        },
+        {
+          "days": "Jours 7 et 8",
+          "place": "Lac Balaton",
+          "note": "Rive nord."
+        },
+        {
+          "days": "Jours 9 et 10",
+          "place": "Pécs",
+          "note": "Retour par Budapest."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le train", "text": "Réseau centré sur Budapest, pratique pour Eger, le Balaton et Pécs." },
-    { "title": "En ville", "text": "Métro, trams et bus à Budapest, avec des passes de 24 ou 72 heures." },
-    { "title": "En voiture", "text": "Vignette d'autoroute électronique obligatoire, à acheter en ligne." }
+    {
+      "title": "Le train",
+      "text": "Réseau centré sur Budapest, pratique pour Eger, le Balaton et Pécs."
+    },
+    {
+      "title": "En ville",
+      "text": "Métro, trams et bus à Budapest, avec des passes de 24 ou 72 heures."
+    },
+    {
+      "title": "En voiture",
+      "text": "Vignette d'autoroute électronique obligatoire, à acheter en ligne."
+    }
   ],
   "culture": [
     "Les Hongrois ne trinquent traditionnellement pas avec un verre de bière.",
@@ -198,9 +383,21 @@
     "Dans les bains, maillot obligatoire sauf indication contraire."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Jó napot", "say": "yo napot" },
-    { "fr": "Merci", "local": "Köszönöm", "say": "keu-seu-neum" },
-    { "fr": "Santé !", "local": "Egészségedre!", "say": "égué-ché-gué-dré" }
+    {
+      "fr": "Bonjour",
+      "local": "Jó napot",
+      "say": "yo napot"
+    },
+    {
+      "fr": "Merci",
+      "local": "Köszönöm",
+      "say": "keu-seu-neum"
+    },
+    {
+      "fr": "Santé !",
+      "local": "Egészségedre!",
+      "say": "égué-ché-gué-dré"
+    }
   ],
   "checklist": [
     "Carte d'identité ou passeport en cours de validité (passeport si tu continues hors Schengen)",
@@ -210,9 +407,21 @@
     "Vignette d'autoroute si tu conduis"
   ],
   "faq": [
-    { "q": "Faut-il un passeport pour la Hongrie ?", "a": "Non, une carte d'identité en cours de validité suffit pour moins de trois mois. Un passeport est préférable si tu continues vers un pays hors Schengen avec une carte prolongée." },
-    { "q": "Quand partir à Budapest ?", "a": "D'avril à juin et en septembre-octobre pour la douceur, en décembre pour les marchés de Noël. L'été est chaud mais animé." },
-    { "q": "Quel budget pour un week-end à Budapest ?", "a": "Compte environ 39 500 à 86 000 Ft par jour seul et 30 500 à 68 000 Ft par personne à deux, hors vols. Ces montants sont des estimations à vérifier." },
-    { "q": "Quel bain thermal choisir à Budapest ?", "a": "Széchenyi pour ses grands bassins extérieurs et l'ambiance, Gellért pour son décor Art nouveau, Rudas pour ses bains ottomans et son jacuzzi sur le toit." }
+    {
+      "q": "Faut-il un passeport pour la Hongrie ?",
+      "a": "Non, une carte d'identité en cours de validité suffit pour moins de trois mois. Un passeport est préférable si tu continues vers un pays hors Schengen avec une carte prolongée."
+    },
+    {
+      "q": "Quand partir à Budapest ?",
+      "a": "D'avril à juin et en septembre-octobre pour la douceur, en décembre pour les marchés de Noël. L'été est chaud mais animé."
+    },
+    {
+      "q": "Quel budget pour un week-end à Budapest ?",
+      "a": "Compte environ 39 500 à 86 000 Ft par jour seul et 30 500 à 68 000 Ft par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
+    },
+    {
+      "q": "Quel bain thermal choisir à Budapest ?",
+      "a": "Széchenyi pour ses grands bassins extérieurs et l'ambiance, Gellért pour son décor Art nouveau, Rudas pour ses bains ottomans et son jacuzzi sur le toit."
+    }
   ]
 }

@@ -12,7 +12,15 @@
     "title": "Guide Suède : quand partir, budget, Stockholm, Laponie",
     "description": "Préparer un voyage en Suède : meilleure saison, budget seul ou à deux, Stockholm, Göteborg, Gotland, la Laponie et ses aurores. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/suede/hero.jpg",
+    "alt": "La vieille ville de Stockholm",
+    "credit": {
+      "author": "Ximonic (Simo Räsänen)",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Corner_between_S%C3%B6dra_Benickebrinken_and_%C3%96sterl%C3%A5nggatan_in_Gamla_Stan,_Stockholm,_Sweden,_2022_December.jpg"
+    }
+  },
   "summary": "La Suède se visite de juin à août pour les archipels et le soleil de minuit, ou en hiver en Laponie pour la neige et les aurores boréales. Pas de visa ; France Diplomatie conseille de voyager avec un passeport ou une carte d'identité électronique récente.",
   "essentials": {
     "bestPeriod": "Juin à août (Laponie : décembre à mars)",
@@ -24,26 +32,78 @@
     "flight": "Environ 2 h 20 depuis Paris pour Stockholm"
   },
   "months": [
-    { "rating": 1, "note": "Nuit polaire en Laponie : aurores, chiens de traîneau, hôtel de glace." },
-    { "rating": 1, "note": "Toujours l'hiver, bon pour la Laponie." },
-    { "rating": 1, "note": "Le meilleur mois en Laponie : neige et journées plus longues." },
-    { "rating": 1, "note": "Fin de l'hiver, encore froid." },
-    { "rating": 1, "note": "Le printemps arrive, frais mais lumineux." },
-    { "rating": 2, "note": "Midsommar, la fête du solstice, et les nuits claires." },
-    { "rating": 2, "note": "Le plus doux, idéal pour les archipels et la baignade dans les lacs." },
-    { "rating": 2, "note": "Fête de l'écrevisse, encore beau." },
-    { "rating": 1, "note": "Couleurs d'automne, premières aurores au nord." },
-    { "rating": 1, "note": "Frais et plus sombre." },
-    { "rating": 1, "note": "Sombre, début de l'hiver en Laponie." },
-    { "rating": 1, "note": "Sainte-Lucie (13 décembre) et marchés de Noël." }
+    {
+      "rating": 1,
+      "note": "Nuit polaire en Laponie : aurores, chiens de traîneau, hôtel de glace."
+    },
+    {
+      "rating": 1,
+      "note": "Toujours l'hiver, bon pour la Laponie."
+    },
+    {
+      "rating": 1,
+      "note": "Le meilleur mois en Laponie : neige et journées plus longues."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de l'hiver, encore froid."
+    },
+    {
+      "rating": 1,
+      "note": "Le printemps arrive, frais mais lumineux."
+    },
+    {
+      "rating": 2,
+      "note": "Midsommar, la fête du solstice, et les nuits claires."
+    },
+    {
+      "rating": 2,
+      "note": "Le plus doux, idéal pour les archipels et la baignade dans les lacs."
+    },
+    {
+      "rating": 2,
+      "note": "Fête de l'écrevisse, encore beau."
+    },
+    {
+      "rating": 1,
+      "note": "Couleurs d'automne, premières aurores au nord."
+    },
+    {
+      "rating": 1,
+      "note": "Frais et plus sombre."
+    },
+    {
+      "rating": 1,
+      "note": "Sombre, début de l'hiver en Laponie."
+    },
+    {
+      "rating": 1,
+      "note": "Sainte-Lucie (13 décembre) et marchés de Noël."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en couronnes suédoises, par jour et par personne, hors vols. Convertis au taux du jour.",
     "rows": [
-      { "label": "Hébergement (hôtel simple ou auberge)", "solo": "1 100 à 2 000 kr", "duo": "700 à 1 300 kr" },
-      { "label": "Repas", "solo": "350 à 600 kr", "duo": "350 à 600 kr" },
-      { "label": "Transports locaux", "solo": "50 à 150 kr", "duo": "50 à 150 kr" },
-      { "label": "Visites et entrées", "solo": "100 à 250 kr", "duo": "100 à 250 kr" }
+      {
+        "label": "Hébergement (hôtel simple ou auberge)",
+        "solo": "1 100 à 2 000 kr",
+        "duo": "700 à 1 300 kr"
+      },
+      {
+        "label": "Repas",
+        "solo": "350 à 600 kr",
+        "duo": "350 à 600 kr"
+      },
+      {
+        "label": "Transports locaux",
+        "solo": "50 à 150 kr",
+        "duo": "50 à 150 kr"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "100 à 250 kr",
+        "duo": "100 à 250 kr"
+      }
     ],
     "totalSolo": "1 600 à 3 000 kr",
     "totalDuo": "1 200 à 2 300 kr",
@@ -56,7 +116,10 @@
     "points": [
       "Les anciennes cartes d'identité 2004-2013 prolongées de 5 ans peuvent poser problème : voyage plutôt avec un passeport ou une carte électronique récente."
     ],
-    "source": { "label": "France Diplomatie, Suède, Entrée / séjour (mise à jour du 19 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/suede/" },
+    "source": {
+      "label": "France Diplomatie, Suède, Entrée / séjour (mise à jour du 19 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/suede/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -66,7 +129,10 @@
       "Encéphalite à tiques : à discuter avec ton médecin si tu randonnes ou campes.",
       "En hiver, équipe-toi contre le grand froid."
     ],
-    "source": { "label": "France Diplomatie, Suède, Santé (mise à jour du 19 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/suede/" },
+    "source": {
+      "label": "France Diplomatie, Suède, Santé (mise à jour du 19 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/suede/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -76,7 +142,10 @@
       "Consulte la météo avant chaque départ en voiture.",
       "Niveau d'alerte terroriste à 3 sur 5 : vigilance dans les lieux très fréquentés."
     ],
-    "source": { "label": "France Diplomatie, Suède, Sécurité (mise à jour du 19 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/suede/" },
+    "source": {
+      "label": "France Diplomatie, Suède, Sécurité (mise à jour du 19 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/suede/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -84,17 +153,35 @@
       "slug": "stockholm",
       "name": "Stockholm",
       "nights": "3 nuits",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "summary": "Une capitale bâtie sur quatorze îles, entre vieille ville colorée, musées et archipel de milliers d'îles.",
       "sleep": "Gamla Stan pour le charme, Södermalm pour l'ambiance.",
       "see": [
-        { "name": "Gamla Stan", "note": "La vieille ville, ses ruelles et le palais royal." },
-        { "name": "Le musée Vasa", "note": "Un navire de guerre du XVIIe siècle presque intact." },
-        { "name": "Skansen", "note": "Un musée en plein air de la Suède traditionnelle." }
+        {
+          "name": "Gamla Stan",
+          "note": "La vieille ville, ses ruelles et le palais royal."
+        },
+        {
+          "name": "Le musée Vasa",
+          "note": "Un navire de guerre du XVIIe siècle presque intact."
+        },
+        {
+          "name": "Skansen",
+          "note": "Un musée en plein air de la Suède traditionnelle."
+        }
       ],
       "hidden": [
-        { "name": "L'archipel de Stockholm", "note": "En bateau public jusqu'à Vaxholm ou Sandhamn." },
-        { "name": "Les stations du métro", "note": "Des galeries d'art souterraines (T-Centralen, Kungsträdgården)." }
+        {
+          "name": "L'archipel de Stockholm",
+          "note": "En bateau public jusqu'à Vaxholm ou Sandhamn."
+        },
+        {
+          "name": "Les stations du métro",
+          "note": "Des galeries d'art souterraines (T-Centralen, Kungsträdgården)."
+        }
       ],
       "eat": "Le fika (café et brioche à la cannelle) et les boulettes de viande suédoises.",
       "getAround": "Métro, tram et bateaux, avec la carte de transport.",
@@ -104,13 +191,25 @@
       "slug": "goteborg",
       "name": "Göteborg",
       "nights": "2 nuits",
-      "for": ["lent", "energique"],
+      "for": [
+        "lent",
+        "energique"
+      ],
       "summary": "Une ville portuaire décontractée, porte de l'archipel de la côte ouest et de ses îles de granit.",
       "sleep": "Dans le quartier de Haga ou près de l'avenue Avenyn.",
       "see": [
-        { "name": "Le quartier de Haga", "note": "Maisons de bois et cafés." },
-        { "name": "L'archipel sud", "note": "Des îles sans voitures en ferry public." },
-        { "name": "Le parc Liseberg", "note": "Le grand parc d'attractions de la ville." }
+        {
+          "name": "Le quartier de Haga",
+          "note": "Maisons de bois et cafés."
+        },
+        {
+          "name": "L'archipel sud",
+          "note": "Des îles sans voitures en ferry public."
+        },
+        {
+          "name": "Le parc Liseberg",
+          "note": "Le grand parc d'attractions de la ville."
+        }
       ],
       "hidden": [],
       "eat": "Les fruits de mer de la côte ouest, et les crevettes au marché aux poissons.",
@@ -121,13 +220,24 @@
       "slug": "gotland",
       "name": "Gotland (Visby)",
       "nights": "2 nuits",
-      "for": ["lent"],
+      "for": [
+        "lent"
+      ],
       "summary": "Une île de la Baltique et sa ville médiévale fortifiée, entourée de plages et de champs de coquelicots.",
       "sleep": "À l'intérieur des remparts de Visby.",
       "see": [
-        { "name": "Les remparts de Visby", "note": "3,4 km de murailles médiévales." },
-        { "name": "Les ruines d'églises", "note": "Plus de dix églises en ruines dans la ville." },
-        { "name": "Fårö", "note": "Les rauks, piliers de calcaire, sur l'île voisine." }
+        {
+          "name": "Les remparts de Visby",
+          "note": "3,4 km de murailles médiévales."
+        },
+        {
+          "name": "Les ruines d'églises",
+          "note": "Plus de dix églises en ruines dans la ville."
+        },
+        {
+          "name": "Fårö",
+          "note": "Les rauks, piliers de calcaire, sur l'île voisine."
+        }
       ],
       "hidden": [],
       "eat": "Le safranspannkaka, gâteau de riz au safran.",
@@ -138,16 +248,31 @@
       "slug": "laponie-suedoise",
       "name": "La Laponie (Kiruna, Abisko)",
       "nights": "3 à 4 nuits",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "summary": "Le Grand Nord suédois : aurores boréales, hôtel de glace, culture sami et soleil de minuit l'été.",
       "sleep": "À Kiruna, Jukkasjärvi ou Abisko.",
       "see": [
-        { "name": "Les aurores à Abisko", "note": "Un microclimat souvent dégagé, réputé pour les aurores." },
-        { "name": "L'hôtel de glace de Jukkasjärvi", "note": "Reconstruit chaque hiver." },
-        { "name": "Une sortie en traîneau à chiens", "note": "Avec un musher local." }
+        {
+          "name": "Les aurores à Abisko",
+          "note": "Un microclimat souvent dégagé, réputé pour les aurores."
+        },
+        {
+          "name": "L'hôtel de glace de Jukkasjärvi",
+          "note": "Reconstruit chaque hiver."
+        },
+        {
+          "name": "Une sortie en traîneau à chiens",
+          "note": "Avec un musher local."
+        }
       ],
       "hidden": [
-        { "name": "Le Kungsleden", "note": "La « voie royale », un sentier de randonnée l'été." }
+        {
+          "name": "Le Kungsleden",
+          "note": "La « voie royale », un sentier de randonnée l'été."
+        }
       ],
       "eat": "La viande de renne et les baies arctiques.",
       "getAround": "Train de nuit depuis Stockholm, ou vol vers Kiruna.",
@@ -158,36 +283,82 @@
     {
       "days": 5,
       "title": "Stockholm et son archipel",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Stockholm", "note": "Gamla Stan, Vasa, Södermalm." },
-        { "days": "Jours 4 et 5", "place": "L'archipel", "note": "Une nuit sur une île." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Stockholm",
+          "note": "Gamla Stan, Vasa, Södermalm."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "L'archipel",
+          "note": "Une nuit sur une île."
+        }
       ]
     },
     {
       "days": 6,
       "title": "Laponie en hiver",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jour 1", "place": "Stockholm", "note": "Puis train de nuit." },
-        { "days": "Jours 2 à 6", "place": "Abisko et Kiruna", "note": "Aurores, traîneau, hôtel de glace." }
+        {
+          "days": "Jour 1",
+          "place": "Stockholm",
+          "note": "Puis train de nuit."
+        },
+        {
+          "days": "Jours 2 à 6",
+          "place": "Abisko et Kiruna",
+          "note": "Aurores, traîneau, hôtel de glace."
+        }
       ]
     },
     {
       "days": 10,
       "title": "Villes et côtes en été",
-      "for": ["stratege", "lent"],
+      "for": [
+        "stratege",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Stockholm", "note": "Et l'archipel." },
-        { "days": "Jours 4 et 5", "place": "Gotland", "note": "Ferry et Visby." },
-        { "days": "Jours 6 à 10", "place": "Göteborg et la côte ouest", "note": "En train, puis îles." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Stockholm",
+          "note": "Et l'archipel."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Gotland",
+          "note": "Ferry et Visby."
+        },
+        {
+          "days": "Jours 6 à 10",
+          "place": "Göteborg et la côte ouest",
+          "note": "En train, puis îles."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le train", "text": "Confortable entre Stockholm, Göteborg et Malmö ; trains de nuit vers la Laponie." },
-    { "title": "En voiture", "text": "Pneus hiver obligatoires en saison. Attention aux élans et aux rennes, surtout à l'aube et au crépuscule." },
-    { "title": "Les ferries", "text": "Vers Gotland et dans les archipels." }
+    {
+      "title": "Le train",
+      "text": "Confortable entre Stockholm, Göteborg et Malmö ; trains de nuit vers la Laponie."
+    },
+    {
+      "title": "En voiture",
+      "text": "Pneus hiver obligatoires en saison. Attention aux élans et aux rennes, surtout à l'aube et au crépuscule."
+    },
+    {
+      "title": "Les ferries",
+      "text": "Vers Gotland et dans les archipels."
+    }
   ],
   "culture": [
     "Le fika, pause café-gâteau, est une institution.",
@@ -196,9 +367,21 @@
     "Le pourboire n'est pas attendu."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Hej", "say": "hey" },
-    { "fr": "Merci", "local": "Tack", "say": "tak" },
-    { "fr": "Santé !", "local": "Skål!", "say": "skol" }
+    {
+      "fr": "Bonjour",
+      "local": "Hej",
+      "say": "hey"
+    },
+    {
+      "fr": "Merci",
+      "local": "Tack",
+      "say": "tak"
+    },
+    {
+      "fr": "Santé !",
+      "local": "Skål!",
+      "say": "skol"
+    }
   ],
   "checklist": [
     "Passeport ou carte d'identité électronique en cours de validité",
@@ -208,9 +391,21 @@
     "Train de nuit réservé à l'avance"
   ],
   "faq": [
-    { "q": "Faut-il un passeport pour la Suède ?", "a": "Non, mais France Diplomatie conseille un passeport ou une carte d'identité électronique récente plutôt qu'une ancienne carte prolongée." },
-    { "q": "Quand voir des aurores boréales en Suède ?", "a": "De septembre à mars en Laponie, surtout autour d'Abisko et Kiruna, par nuit noire et ciel dégagé." },
-    { "q": "Peut-on payer en espèces en Suède ?", "a": "De moins en moins : beaucoup de commerces et transports n'acceptent que la carte bancaire." },
-    { "q": "Quel budget pour une semaine en Suède ?", "a": "Compte environ 1 600 à 3 000 kr par jour seul et 1 200 à 2 300 kr par personne à deux, hors vols et activités en Laponie. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un passeport pour la Suède ?",
+      "a": "Non, mais France Diplomatie conseille un passeport ou une carte d'identité électronique récente plutôt qu'une ancienne carte prolongée."
+    },
+    {
+      "q": "Quand voir des aurores boréales en Suède ?",
+      "a": "De septembre à mars en Laponie, surtout autour d'Abisko et Kiruna, par nuit noire et ciel dégagé."
+    },
+    {
+      "q": "Peut-on payer en espèces en Suède ?",
+      "a": "De moins en moins : beaucoup de commerces et transports n'acceptent que la carte bancaire."
+    },
+    {
+      "q": "Quel budget pour une semaine en Suède ?",
+      "a": "Compte environ 1 600 à 3 000 kr par jour seul et 1 200 à 2 300 kr par personne à deux, hors vols et activités en Laponie. Ces montants sont des estimations à vérifier."
+    }
   ]
 }

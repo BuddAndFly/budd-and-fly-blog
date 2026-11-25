@@ -12,7 +12,15 @@
     "title": "Guide Autriche : Vienne, Salzbourg, Tyrol, budget",
     "description": "Préparer un voyage en Autriche : papiers, meilleure saison, budget seul ou à deux, Vienne, Salzbourg, Hallstatt, Innsbruck et le Tyrol. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/autriche/hero.jpg",
+    "alt": "Le village de Hallstatt au bord de son lac",
+    "credit": {
+      "author": "C.Stadler/Bwag",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Hallstatt_-_Zentrum_.JPG"
+    }
+  },
   "summary": "L'Autriche se visite toute l'année : de juin à septembre pour les lacs et la randonnée, de décembre à mars pour le ski et les marchés de Noël. Une carte d'identité suffit, y compris les cartes prolongées de 5 ans. Vienne, Salzbourg, Hallstatt et Innsbruck se relient facilement en train.",
   "essentials": {
     "bestPeriod": "Juin à septembre, et décembre à mars pour la neige",
@@ -24,26 +32,78 @@
     "flight": "Environ 2 h depuis Paris pour Vienne ; train de nuit Paris-Vienne"
   },
   "months": [
-    { "rating": 2, "note": "Saison de ski, bals viennois." },
-    { "rating": 2, "note": "Ski, et la saison des bals à Vienne." },
-    { "rating": 1, "note": "Fin de saison de ski, villes calmes." },
-    { "rating": 1, "note": "Printemps changeant, entre deux saisons." },
-    { "rating": 2, "note": "Vienne et Salzbourg fleuries." },
-    { "rating": 2, "note": "Les lacs et les alpages s'ouvrent." },
-    { "rating": 2, "note": "Festival de Salzbourg, randonnée en altitude." },
-    { "rating": 2, "note": "Haute saison, lacs pour la baignade." },
-    { "rating": 2, "note": "Le meilleur compromis : doux, moins de monde." },
-    { "rating": 1, "note": "Couleurs d'automne et vendanges en Wachau." },
-    { "rating": 1, "note": "Gris ; ouverture des marchés de Noël en fin de mois." },
-    { "rating": 2, "note": "Marchés de Noël et début du ski." }
+    {
+      "rating": 2,
+      "note": "Saison de ski, bals viennois."
+    },
+    {
+      "rating": 2,
+      "note": "Ski, et la saison des bals à Vienne."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de saison de ski, villes calmes."
+    },
+    {
+      "rating": 1,
+      "note": "Printemps changeant, entre deux saisons."
+    },
+    {
+      "rating": 2,
+      "note": "Vienne et Salzbourg fleuries."
+    },
+    {
+      "rating": 2,
+      "note": "Les lacs et les alpages s'ouvrent."
+    },
+    {
+      "rating": 2,
+      "note": "Festival de Salzbourg, randonnée en altitude."
+    },
+    {
+      "rating": 2,
+      "note": "Haute saison, lacs pour la baignade."
+    },
+    {
+      "rating": 2,
+      "note": "Le meilleur compromis : doux, moins de monde."
+    },
+    {
+      "rating": 1,
+      "note": "Couleurs d'automne et vendanges en Wachau."
+    },
+    {
+      "rating": 1,
+      "note": "Gris ; ouverture des marchés de Noël en fin de mois."
+    },
+    {
+      "rating": 2,
+      "note": "Marchés de Noël et début du ski."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en euros, par jour et par personne, hors trajet aller-retour.",
     "rows": [
-      { "label": "Hébergement (hôtel simple ou pension)", "solo": "80 à 150 €", "duo": "50 à 95 €" },
-      { "label": "Repas", "solo": "30 à 60 €", "duo": "30 à 60 €" },
-      { "label": "Transports locaux", "solo": "8 à 25 €", "duo": "8 à 25 €" },
-      { "label": "Visites et entrées", "solo": "15 à 35 €", "duo": "15 à 35 €" }
+      {
+        "label": "Hébergement (hôtel simple ou pension)",
+        "solo": "80 à 150 €",
+        "duo": "50 à 95 €"
+      },
+      {
+        "label": "Repas",
+        "solo": "30 à 60 €",
+        "duo": "30 à 60 €"
+      },
+      {
+        "label": "Transports locaux",
+        "solo": "8 à 25 €",
+        "duo": "8 à 25 €"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "15 à 35 €",
+        "duo": "15 à 35 €"
+      }
     ],
     "totalSolo": "133 à 270 €",
     "totalDuo": "103 à 215 €",
@@ -56,7 +116,10 @@
     "points": [
       "Les cartes d'identité délivrées entre 2004 et 2013 à des majeurs sont valides 15 ans, même si la date imprimée est dépassée : l'Autriche les accepte."
     ],
-    "source": { "label": "France Diplomatie, Autriche, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/autriche/" },
+    "source": {
+      "label": "France Diplomatie, Autriche, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/autriche/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -66,7 +129,10 @@
       "Assurance couvrant les secours en montagne si tu skies ou randonnes : ils sont payants.",
       "Encéphalite à tiques : selon les conditions de séjour (randonnée, forêt)."
     ],
-    "source": { "label": "France Diplomatie, Autriche, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/autriche/" },
+    "source": {
+      "label": "France Diplomatie, Autriche, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/autriche/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -76,7 +142,10 @@
       "En montagne, renseigne-toi sur la météo et les risques d'avalanche, et respecte les consignes locales.",
       "Comme dans les autres capitales européennes, le risque terroriste ne peut être exclu."
     ],
-    "source": { "label": "France Diplomatie, Autriche, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/autriche/" },
+    "source": {
+      "label": "France Diplomatie, Autriche, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/autriche/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -84,17 +153,35 @@
       "slug": "vienne",
       "name": "Vienne",
       "nights": "3 nuits",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "summary": "L'ancienne capitale impériale, ses palais, ses cafés historiques et sa vie musicale.",
       "sleep": "Dans le centre (Innere Stadt) ou à Neubau, plus vivant.",
       "see": [
-        { "name": "Le château de Schönbrunn", "note": "Résidence d'été des Habsbourg et ses jardins." },
-        { "name": "Le Belvédère", "note": "Avec « Le Baiser » de Klimt." },
-        { "name": "La cathédrale Saint-Étienne", "note": "Monte dans la tour sud." }
+        {
+          "name": "Le château de Schönbrunn",
+          "note": "Résidence d'été des Habsbourg et ses jardins."
+        },
+        {
+          "name": "Le Belvédère",
+          "note": "Avec « Le Baiser » de Klimt."
+        },
+        {
+          "name": "La cathédrale Saint-Étienne",
+          "note": "Monte dans la tour sud."
+        }
       ],
       "hidden": [
-        { "name": "Le Naschmarkt", "note": "Le grand marché, idéal pour déjeuner." },
-        { "name": "Les heurigen de Grinzing", "note": "Des tavernes de vignerons aux portes de la ville." }
+        {
+          "name": "Le Naschmarkt",
+          "note": "Le grand marché, idéal pour déjeuner."
+        },
+        {
+          "name": "Les heurigen de Grinzing",
+          "note": "Des tavernes de vignerons aux portes de la ville."
+        }
       ],
       "eat": "La sachertorte dans un café viennois et l'escalope viennoise (wiener schnitzel).",
       "getAround": "Métro, tram et marche.",
@@ -104,16 +191,31 @@
       "slug": "salzbourg",
       "name": "Salzbourg",
       "nights": "2 nuits",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "summary": "La ville de Mozart, ses dômes baroques et sa forteresse, entre rivière et montagnes.",
       "sleep": "Dans la vieille ville ou sur la rive droite.",
       "see": [
-        { "name": "La forteresse de Hohensalzburg", "note": "En funiculaire, vue sur les Alpes." },
-        { "name": "La Getreidegasse", "note": "La rue des enseignes en fer forgé, et la maison natale de Mozart." },
-        { "name": "Les jardins Mirabell", "note": "Et le palais." }
+        {
+          "name": "La forteresse de Hohensalzburg",
+          "note": "En funiculaire, vue sur les Alpes."
+        },
+        {
+          "name": "La Getreidegasse",
+          "note": "La rue des enseignes en fer forgé, et la maison natale de Mozart."
+        },
+        {
+          "name": "Les jardins Mirabell",
+          "note": "Et le palais."
+        }
       ],
       "hidden": [
-        { "name": "Le palais de Hellbrunn", "note": "Et ses jeux d'eau farceurs." }
+        {
+          "name": "Le palais de Hellbrunn",
+          "note": "Et ses jeux d'eau farceurs."
+        }
       ],
       "eat": "Le salzburger nockerl (soufflé) et les mozartkugeln.",
       "getAround": "À pied ; bus pour les environs.",
@@ -123,16 +225,31 @@
       "slug": "hallstatt",
       "name": "Hallstatt et le Salzkammergut",
       "nights": "1 à 2 nuits",
-      "for": ["lent", "explorateur"],
+      "for": [
+        "lent",
+        "explorateur"
+      ],
       "summary": "Un village au bord d'un lac de montagne, au cœur de la région des lacs.",
       "sleep": "À Hallstatt pour le calme du soir, ou à Bad Ischl, plus pratique.",
       "see": [
-        { "name": "Le village de Hallstatt", "note": "Classé à l'Unesco, avec son ossuaire." },
-        { "name": "La mine de sel", "note": "La plus ancienne du monde, et le belvédère Skywalk." },
-        { "name": "Le Dachstein", "note": "Grottes de glace et la plateforme Five Fingers." }
+        {
+          "name": "Le village de Hallstatt",
+          "note": "Classé à l'Unesco, avec son ossuaire."
+        },
+        {
+          "name": "La mine de sel",
+          "note": "La plus ancienne du monde, et le belvédère Skywalk."
+        },
+        {
+          "name": "Le Dachstein",
+          "note": "Grottes de glace et la plateforme Five Fingers."
+        }
       ],
       "hidden": [
-        { "name": "Le lac Gosau", "note": "Avec le glacier du Dachstein en reflet." }
+        {
+          "name": "Le lac Gosau",
+          "note": "Avec le glacier du Dachstein en reflet."
+        }
       ],
       "eat": "Les poissons du lac (omble, truite).",
       "getAround": "Train jusqu'à Hallstatt puis bateau ; bus depuis Salzbourg.",
@@ -142,16 +259,31 @@
       "slug": "innsbruck",
       "name": "Innsbruck et le Tyrol",
       "nights": "2 nuits",
-      "for": ["energique", "explorateur"],
+      "for": [
+        "energique",
+        "explorateur"
+      ],
       "summary": "Une ville alpine où un funiculaire t'emmène en altitude en 20 minutes depuis le centre.",
       "sleep": "Dans la vieille ville.",
       "see": [
-        { "name": "Le Petit toit d'or", "note": "Le symbole de la ville." },
-        { "name": "La Nordkette", "note": "Funiculaire et téléphérique jusqu'à 2 300 m." },
-        { "name": "Le tremplin du Bergisel", "note": "Dessiné par Zaha Hadid, vue sur la ville." }
+        {
+          "name": "Le Petit toit d'or",
+          "note": "Le symbole de la ville."
+        },
+        {
+          "name": "La Nordkette",
+          "note": "Funiculaire et téléphérique jusqu'à 2 300 m."
+        },
+        {
+          "name": "Le tremplin du Bergisel",
+          "note": "Dessiné par Zaha Hadid, vue sur la ville."
+        }
       ],
       "hidden": [
-        { "name": "Le château d'Ambras", "note": "Et sa chambre des merveilles." }
+        {
+          "name": "Le château d'Ambras",
+          "note": "Et sa chambre des merveilles."
+        }
       ],
       "eat": "Les knödel (boulettes de pain) et le strudel aux pommes.",
       "getAround": "Tram, bus ; carte touristique incluant les remontées.",
@@ -162,39 +294,97 @@
     {
       "days": 7,
       "title": "Vienne, lacs et Alpes",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Vienne", "note": "Arrivée." },
-        { "days": "Jours 4 et 5", "place": "Salzbourg", "note": "En train (2 h 30)." },
-        { "days": "Jour 6", "place": "Hallstatt", "note": "Nuit sur place." },
-        { "days": "Jour 7", "place": "Retour", "note": "Par Salzbourg." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Vienne",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Salzbourg",
+          "note": "En train (2 h 30)."
+        },
+        {
+          "days": "Jour 6",
+          "place": "Hallstatt",
+          "note": "Nuit sur place."
+        },
+        {
+          "days": "Jour 7",
+          "place": "Retour",
+          "note": "Par Salzbourg."
+        }
       ]
     },
     {
       "days": 10,
       "title": "De Vienne au Tyrol",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Vienne", "note": "Et la vallée de la Wachau." },
-        { "days": "Jours 4 et 5", "place": "Salzbourg", "note": "Ville de Mozart." },
-        { "days": "Jours 6 et 7", "place": "Salzkammergut", "note": "Hallstatt et les lacs." },
-        { "days": "Jours 8 à 10", "place": "Innsbruck", "note": "Retour depuis Innsbruck." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Vienne",
+          "note": "Et la vallée de la Wachau."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Salzbourg",
+          "note": "Ville de Mozart."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Salzkammergut",
+          "note": "Hallstatt et les lacs."
+        },
+        {
+          "days": "Jours 8 à 10",
+          "place": "Innsbruck",
+          "note": "Retour depuis Innsbruck."
+        }
       ]
     },
     {
       "days": 3,
       "title": "Un week-end à Vienne",
-      "for": ["energique", "lent"],
+      "for": [
+        "energique",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Vienne", "note": "Palais et cafés." },
-        { "days": "Jour 3", "place": "Grinzing", "note": "Heurigen et vignes." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Vienne",
+          "note": "Palais et cafés."
+        },
+        {
+          "days": "Jour 3",
+          "place": "Grinzing",
+          "note": "Heurigen et vignes."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le train", "text": "Rapide et ponctuel entre les grandes villes. Train de nuit direct depuis Paris." },
-    { "title": "En voiture", "text": "Vignette autoroutière obligatoire (numérique ou autocollant), péages en plus sur certains tunnels." },
-    { "title": "En ville", "text": "Les transports publics sont excellents ; Vienne se parcourt en tram et métro." }
+    {
+      "title": "Le train",
+      "text": "Rapide et ponctuel entre les grandes villes. Train de nuit direct depuis Paris."
+    },
+    {
+      "title": "En voiture",
+      "text": "Vignette autoroutière obligatoire (numérique ou autocollant), péages en plus sur certains tunnels."
+    },
+    {
+      "title": "En ville",
+      "text": "Les transports publics sont excellents ; Vienne se parcourt en tram et métro."
+    }
   ],
   "culture": [
     "On salue avec « Grüß Gott » plutôt que « Guten Tag », surtout à l'ouest.",
@@ -202,9 +392,21 @@
     "Le dimanche, presque tous les magasins sont fermés."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Grüß Gott", "say": "grussgott" },
-    { "fr": "Merci", "local": "Danke", "say": "danke" },
-    { "fr": "L'addition, s'il vous plaît", "local": "Zahlen, bitte", "say": "tsalen bitte" }
+    {
+      "fr": "Bonjour",
+      "local": "Grüß Gott",
+      "say": "grussgott"
+    },
+    {
+      "fr": "Merci",
+      "local": "Danke",
+      "say": "danke"
+    },
+    {
+      "fr": "L'addition, s'il vous plaît",
+      "local": "Zahlen, bitte",
+      "say": "tsalen bitte"
+    }
   ],
   "checklist": [
     "Passeport ou carte d'identité",
@@ -214,9 +416,21 @@
     "Réservation à Hallstatt en haute saison"
   ],
   "faq": [
-    { "q": "Quels papiers pour l'Autriche ?", "a": "Un passeport ou une carte d'identité en cours de validité. Les cartes prolongées de 5 ans (délivrées à des majeurs entre 2004 et 2013) sont acceptées." },
-    { "q": "L'Autriche est-elle sûre ?", "a": "Oui, tout le pays est en vigilance normale. Attention aux pickpockets dans le centre de Vienne et dans les transports." },
-    { "q": "Quand partir en Autriche ?", "a": "De juin à septembre pour les lacs et la montagne ; de décembre à mars pour le ski et les marchés de Noël." },
-    { "q": "Quel budget pour une semaine en Autriche ?", "a": "Compte environ 133 à 270 € par jour seul et 103 à 215 € par personne à deux, hors trajet aller-retour. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Quels papiers pour l'Autriche ?",
+      "a": "Un passeport ou une carte d'identité en cours de validité. Les cartes prolongées de 5 ans (délivrées à des majeurs entre 2004 et 2013) sont acceptées."
+    },
+    {
+      "q": "L'Autriche est-elle sûre ?",
+      "a": "Oui, tout le pays est en vigilance normale. Attention aux pickpockets dans le centre de Vienne et dans les transports."
+    },
+    {
+      "q": "Quand partir en Autriche ?",
+      "a": "De juin à septembre pour les lacs et la montagne ; de décembre à mars pour le ski et les marchés de Noël."
+    },
+    {
+      "q": "Quel budget pour une semaine en Autriche ?",
+      "a": "Compte environ 133 à 270 € par jour seul et 103 à 215 € par personne à deux, hors trajet aller-retour. Ces montants sont des estimations à vérifier."
+    }
   ]
 }

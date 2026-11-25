@@ -12,7 +12,15 @@
     "title": "Guide Pologne : quand partir, budget, Cracovie, Varsovie",
     "description": "Préparer un voyage en Pologne : meilleure saison, budget seul ou à deux, Cracovie, Varsovie, Gdańsk, Wrocław, les Tatras. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/pologne/hero.jpg",
+    "alt": "La place du Marché de Cracovie",
+    "credit": {
+      "author": "Igor123121",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Anti-Ukrainian_protest_Krakow,_Main_Market_square,_Old_Town,_Krak%C3%B3w,_Poland.jpg"
+    }
+  },
   "summary": "La Pologne se visite de mai à septembre pour la douceur, et en décembre pour ses marchés de Noël. Une carte d'identité suffit. C'est une destination de villes : Cracovie en premier, puis Varsovie, Gdańsk ou Wrocław, toutes reliées par de bons trains.",
   "essentials": {
     "bestPeriod": "Mai à septembre",
@@ -24,26 +32,78 @@
     "flight": "Environ 2 h 15 depuis Paris pour Varsovie ou Cracovie"
   },
   "months": [
-    { "rating": 1, "note": "Froid et souvent sous la neige : beau dans les vieilles villes et dans les Tatras pour le ski." },
-    { "rating": 1, "note": "Toujours très froid, prix bas, peu de touristes." },
-    { "rating": 1, "note": "Fin de l'hiver, encore frais." },
-    { "rating": 1, "note": "Le printemps arrive, Pâques est un grand moment de traditions." },
-    { "rating": 2, "note": "Doux et vert, terrasses qui s'installent." },
-    { "rating": 2, "note": "Longues journées, festivals en plein air." },
-    { "rating": 2, "note": "Chaud, idéal pour la mer Baltique et les montagnes." },
-    { "rating": 2, "note": "Comme en juillet, avec la foire de Saint-Dominique à Gdańsk." },
-    { "rating": 2, "note": "Doux, moins de monde, couleurs d'automne en fin de mois." },
-    { "rating": 1, "note": "Automne doré mais plus frais." },
-    { "rating": 0, "note": "Gris, humide, journées courtes." },
-    { "rating": 1, "note": "Marchés de Noël à Cracovie, Wrocław et Gdańsk : très atmosphériques." }
+    {
+      "rating": 1,
+      "note": "Froid et souvent sous la neige : beau dans les vieilles villes et dans les Tatras pour le ski."
+    },
+    {
+      "rating": 1,
+      "note": "Toujours très froid, prix bas, peu de touristes."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de l'hiver, encore frais."
+    },
+    {
+      "rating": 1,
+      "note": "Le printemps arrive, Pâques est un grand moment de traditions."
+    },
+    {
+      "rating": 2,
+      "note": "Doux et vert, terrasses qui s'installent."
+    },
+    {
+      "rating": 2,
+      "note": "Longues journées, festivals en plein air."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud, idéal pour la mer Baltique et les montagnes."
+    },
+    {
+      "rating": 2,
+      "note": "Comme en juillet, avec la foire de Saint-Dominique à Gdańsk."
+    },
+    {
+      "rating": 2,
+      "note": "Doux, moins de monde, couleurs d'automne en fin de mois."
+    },
+    {
+      "rating": 1,
+      "note": "Automne doré mais plus frais."
+    },
+    {
+      "rating": 0,
+      "note": "Gris, humide, journées courtes."
+    },
+    {
+      "rating": 1,
+      "note": "Marchés de Noël à Cracovie, Wrocław et Gdańsk : très atmosphériques."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en złotys, par jour et par personne, hors vols. Convertis au taux du jour.",
     "rows": [
-      { "label": "Hébergement (hôtel simple ou appartement)", "solo": "250 à 450 zł", "duo": "160 à 300 zł" },
-      { "label": "Repas", "solo": "100 à 180 zł", "duo": "100 à 180 zł" },
-      { "label": "Transports locaux", "solo": "15 à 40 zł", "duo": "15 à 40 zł" },
-      { "label": "Visites et entrées", "solo": "30 à 100 zł", "duo": "30 à 100 zł" }
+      {
+        "label": "Hébergement (hôtel simple ou appartement)",
+        "solo": "250 à 450 zł",
+        "duo": "160 à 300 zł"
+      },
+      {
+        "label": "Repas",
+        "solo": "100 à 180 zł",
+        "duo": "100 à 180 zł"
+      },
+      {
+        "label": "Transports locaux",
+        "solo": "15 à 40 zł",
+        "duo": "15 à 40 zł"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "30 à 100 zł",
+        "duo": "30 à 100 zł"
+      }
     ],
     "totalSolo": "395 à 770 zł",
     "totalDuo": "305 à 620 zł",
@@ -58,7 +118,10 @@
       "Un justificatif de ressources peut être demandé à l'entrée.",
       "Des contrôles peuvent avoir lieu aux frontières terrestres avec les pays voisins de l'espace Schengen."
     ],
-    "source": { "label": "France Diplomatie, Pologne, Entrée / séjour (mise à jour du 24 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/pologne/" },
+    "source": {
+      "label": "France Diplomatie, Pologne, Entrée / séjour (mise à jour du 24 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/pologne/"
+    },
     "checkedAt": "2026-11-24"
   },
   "health": {
@@ -68,7 +131,10 @@
       "Encéphalite à tiques : vaccin recommandé pour un séjour en zone rurale ou boisée dans les régions concernées ; protège-toi des tiques.",
       "Rage : recommandé pour les enfants et les séjours en zone rurale."
     ],
-    "source": { "label": "France Diplomatie, Pologne, Santé (mise à jour du 24 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/pologne/" },
+    "source": {
+      "label": "France Diplomatie, Pologne, Santé (mise à jour du 24 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/pologne/"
+    },
     "checkedAt": "2026-11-24"
   },
   "safety": {
@@ -79,7 +145,10 @@
       "Pickpockets en hausse sur les sites les plus fréquentés, surtout à Cracovie.",
       "En cas de vol, déclare-le d'abord au commissariat, puis contacte le consulat pour un document de voyage provisoire."
     ],
-    "source": { "label": "France Diplomatie, Pologne, Sécurité (mise à jour du 24 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/pologne/" },
+    "source": {
+      "label": "France Diplomatie, Pologne, Sécurité (mise à jour du 24 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/pologne/"
+    },
     "checkedAt": "2026-11-24"
   },
   "cities": [
@@ -87,17 +156,36 @@
       "slug": "cracovie",
       "name": "Cracovie",
       "nights": "3 nuits",
-      "for": ["tous", "stratege", "energique"],
+      "for": [
+        "tous",
+        "stratege",
+        "energique"
+      ],
       "summary": "L'ancienne capitale royale, sa grand-place médiévale, son château et son quartier juif, avec une histoire bouleversante à proximité.",
       "sleep": "Dans la vieille ville ou à Kazimierz, l'ancien quartier juif, pour l'ambiance.",
       "see": [
-        { "name": "La grand-place (Rynek)", "note": "L'une des plus grandes places médiévales d'Europe, avec la halle aux draps." },
-        { "name": "Le château du Wawel", "note": "La colline royale et sa cathédrale." },
-        { "name": "Kazimierz", "note": "Synagogues, cafés et vie nocturne." }
+        {
+          "name": "La grand-place (Rynek)",
+          "note": "L'une des plus grandes places médiévales d'Europe, avec la halle aux draps."
+        },
+        {
+          "name": "Le château du Wawel",
+          "note": "La colline royale et sa cathédrale."
+        },
+        {
+          "name": "Kazimierz",
+          "note": "Synagogues, cafés et vie nocturne."
+        }
       ],
       "hidden": [
-        { "name": "La mine de sel de Wieliczka", "note": "Des chapelles sculptées dans le sel, à 30 minutes." },
-        { "name": "L'usine d'Oskar Schindler", "note": "Un musée sur l'occupation de Cracovie." }
+        {
+          "name": "La mine de sel de Wieliczka",
+          "note": "Des chapelles sculptées dans le sel, à 30 minutes."
+        },
+        {
+          "name": "L'usine d'Oskar Schindler",
+          "note": "Un musée sur l'occupation de Cracovie."
+        }
       ],
       "eat": "Les pierogi (raviolis) et l'obwarzanek, pain en anneau vendu dans la rue.",
       "getAround": "À pied et en tram.",
@@ -107,16 +195,31 @@
       "slug": "varsovie",
       "name": "Varsovie",
       "nights": "2 nuits",
-      "for": ["stratege", "energique"],
+      "for": [
+        "stratege",
+        "energique"
+      ],
       "summary": "Une capitale moderne, reconstruite après la guerre, avec une vieille ville rebâtie à l'identique et des musées remarquables.",
       "sleep": "Près de la vieille ville ou dans le centre (Śródmieście).",
       "see": [
-        { "name": "La vieille ville", "note": "Reconstruite pierre par pierre, classée à l'Unesco." },
-        { "name": "Le musée de l'Insurrection de Varsovie", "note": "Pour comprendre l'histoire de la ville en 1944." },
-        { "name": "Le musée POLIN", "note": "Mille ans d'histoire des Juifs de Pologne." }
+        {
+          "name": "La vieille ville",
+          "note": "Reconstruite pierre par pierre, classée à l'Unesco."
+        },
+        {
+          "name": "Le musée de l'Insurrection de Varsovie",
+          "note": "Pour comprendre l'histoire de la ville en 1944."
+        },
+        {
+          "name": "Le musée POLIN",
+          "note": "Mille ans d'histoire des Juifs de Pologne."
+        }
       ],
       "hidden": [
-        { "name": "Le parc Łazienki", "note": "Un palais sur l'eau et des concerts Chopin en plein air l'été." }
+        {
+          "name": "Le parc Łazienki",
+          "note": "Un palais sur l'eau et des concerts Chopin en plein air l'été."
+        }
       ],
       "eat": "Les bar mleczny pour la cuisine populaire, et le żurek, soupe aigre.",
       "getAround": "Métro, tram et bus.",
@@ -126,16 +229,31 @@
       "slug": "gdansk",
       "name": "Gdańsk",
       "nights": "2 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Un port hanséatique coloré sur la Baltique, berceau du syndicat Solidarność.",
       "sleep": "Dans la vieille ville, autour de la Voie royale.",
       "see": [
-        { "name": "La Voie royale (Długi Targ)", "note": "Façades colorées et fontaine de Neptune." },
-        { "name": "Le Centre européen de la Solidarité", "note": "L'histoire du mouvement qui a fait tomber le communisme." },
-        { "name": "Le quai de la Motława", "note": "Et sa grue médiévale." }
+        {
+          "name": "La Voie royale (Długi Targ)",
+          "note": "Façades colorées et fontaine de Neptune."
+        },
+        {
+          "name": "Le Centre européen de la Solidarité",
+          "note": "L'histoire du mouvement qui a fait tomber le communisme."
+        },
+        {
+          "name": "Le quai de la Motława",
+          "note": "Et sa grue médiévale."
+        }
       ],
       "hidden": [
-        { "name": "Le château de Malbork", "note": "La plus grande forteresse de brique au monde, à 1 h de train." }
+        {
+          "name": "Le château de Malbork",
+          "note": "La plus grande forteresse de brique au monde, à 1 h de train."
+        }
       ],
       "eat": "Les poissons de la Baltique et le pain d'épices.",
       "getAround": "À pied ; trains vers Sopot et Gdynia.",
@@ -145,13 +263,25 @@
       "slug": "wroclaw",
       "name": "Wrocław",
       "nights": "2 nuits",
-      "for": ["lent", "explorateur"],
+      "for": [
+        "lent",
+        "explorateur"
+      ],
       "summary": "Une ville d'îles et de ponts, pleine de vie étudiante, et ses centaines de petits nains en bronze cachés dans les rues.",
       "sleep": "Autour de la grand-place.",
       "see": [
-        { "name": "La grand-place", "note": "Et l'hôtel de ville gothique." },
-        { "name": "L'île de la cathédrale (Ostrów Tumski)", "note": "Allumage des réverbères à la main le soir." },
-        { "name": "La chasse aux nains", "note": "Plus de 600 statuettes dispersées dans la ville." }
+        {
+          "name": "La grand-place",
+          "note": "Et l'hôtel de ville gothique."
+        },
+        {
+          "name": "L'île de la cathédrale (Ostrów Tumski)",
+          "note": "Allumage des réverbères à la main le soir."
+        },
+        {
+          "name": "La chasse aux nains",
+          "note": "Plus de 600 statuettes dispersées dans la ville."
+        }
       ],
       "hidden": [],
       "eat": "Les bières artisanales et les pierogi.",
@@ -162,13 +292,24 @@
       "slug": "zakopane",
       "name": "Zakopane et les Tatras",
       "nights": "2 nuits",
-      "for": ["explorateur"],
+      "for": [
+        "explorateur"
+      ],
       "summary": "La capitale polonaise de la montagne, ses chalets en bois et les sommets des Tatras.",
       "sleep": "Dans un chalet en bois de style local.",
       "see": [
-        { "name": "Le lac Morskie Oko", "note": "Un lac de montagne au pied des sommets, après une longue marche." },
-        { "name": "Le Kasprowy Wierch", "note": "En téléphérique, pour la vue sur les Tatras." },
-        { "name": "La rue Krupówki", "note": "La rue piétonne animée de la ville." }
+        {
+          "name": "Le lac Morskie Oko",
+          "note": "Un lac de montagne au pied des sommets, après une longue marche."
+        },
+        {
+          "name": "Le Kasprowy Wierch",
+          "note": "En téléphérique, pour la vue sur les Tatras."
+        },
+        {
+          "name": "La rue Krupówki",
+          "note": "La rue piétonne animée de la ville."
+        }
       ],
       "hidden": [],
       "eat": "L'oscypek, fromage fumé grillé, servi avec de la confiture d'airelles.",
@@ -180,37 +321,87 @@
     {
       "days": 7,
       "title": "Cracovie et Varsovie",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Cracovie", "note": "Avec Wieliczka et Auschwitz-Birkenau." },
-        { "days": "Jours 5 à 7", "place": "Varsovie", "note": "En 2 h 30 de train rapide." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Cracovie",
+          "note": "Avec Wieliczka et Auschwitz-Birkenau."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Varsovie",
+          "note": "En 2 h 30 de train rapide."
+        }
       ]
     },
     {
       "days": 10,
       "title": "Les grandes villes",
-      "for": ["lent", "stratege"],
+      "for": [
+        "lent",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Gdańsk", "note": "Et Malbork." },
-        { "days": "Jours 4 et 5", "place": "Varsovie", "note": "En train." },
-        { "days": "Jours 6 à 8", "place": "Cracovie", "note": "À ton rythme." },
-        { "days": "Jours 9 et 10", "place": "Wrocław", "note": "Retour en avion." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Gdańsk",
+          "note": "Et Malbork."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Varsovie",
+          "note": "En train."
+        },
+        {
+          "days": "Jours 6 à 8",
+          "place": "Cracovie",
+          "note": "À ton rythme."
+        },
+        {
+          "days": "Jours 9 et 10",
+          "place": "Wrocław",
+          "note": "Retour en avion."
+        }
       ]
     },
     {
       "days": 7,
       "title": "Ville et montagne",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Cracovie", "note": "Vie nocturne à Kazimierz." },
-        { "days": "Jours 5 à 7", "place": "Zakopane", "note": "Randonnées dans les Tatras." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Cracovie",
+          "note": "Vie nocturne à Kazimierz."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Zakopane",
+          "note": "Randonnées dans les Tatras."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le train", "text": "Rapide et confortable entre les grandes villes. Billets moins chers réservés à l'avance." },
-    { "title": "Le bus", "text": "Pratique pour Zakopane et les petites villes." },
-    { "title": "En ville", "text": "Trams et bus efficaces ; billets par application ou distributeur." }
+    {
+      "title": "Le train",
+      "text": "Rapide et confortable entre les grandes villes. Billets moins chers réservés à l'avance."
+    },
+    {
+      "title": "Le bus",
+      "text": "Pratique pour Zakopane et les petites villes."
+    },
+    {
+      "title": "En ville",
+      "text": "Trams et bus efficaces ; billets par application ou distributeur."
+    }
   ],
   "culture": [
     "On dit bonjour en entrant dans un petit commerce.",
@@ -219,10 +410,26 @@
     "Les sites de mémoire (Auschwitz-Birkenau, ghettos) demandent une attitude respectueuse."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Dzień dobry", "say": "djègne dobré" },
-    { "fr": "Merci", "local": "Dziękuję", "say": "djinkouyè" },
-    { "fr": "S'il vous plaît", "local": "Proszę", "say": "prochè" },
-    { "fr": "Santé !", "local": "Na zdrowie!", "say": "na zdrovié" }
+    {
+      "fr": "Bonjour",
+      "local": "Dzień dobry",
+      "say": "djègne dobré"
+    },
+    {
+      "fr": "Merci",
+      "local": "Dziękuję",
+      "say": "djinkouyè"
+    },
+    {
+      "fr": "S'il vous plaît",
+      "local": "Proszę",
+      "say": "prochè"
+    },
+    {
+      "fr": "Santé !",
+      "local": "Na zdrowie!",
+      "say": "na zdrovié"
+    }
   ],
   "checklist": [
     "Carte d'identité ou passeport en cours de validité",
@@ -232,9 +439,21 @@
     "Vérifier les tarifs avant de commander dans les bars de nuit"
   ],
   "faq": [
-    { "q": "Faut-il un passeport pour la Pologne ?", "a": "Non, une carte d'identité en cours de validité suffit. Attention, la prolongation de 5 ans ne s'applique pas aux cartes délivrées à des mineurs." },
-    { "q": "Quand partir en Pologne ?", "a": "De mai à septembre pour la douceur, et en décembre pour les marchés de Noël, très beaux à Cracovie, Wrocław et Gdańsk." },
-    { "q": "Comment visiter Auschwitz-Birkenau ?", "a": "Le mémorial et musée est à environ 1 h 30 de Cracovie. Réserve gratuitement ou en visite guidée sur le site officiel, plusieurs semaines à l'avance en saison." },
-    { "q": "Quel budget pour une semaine en Pologne ?", "a": "Compte environ 395 à 770 zł par jour seul et 305 à 620 zł par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un passeport pour la Pologne ?",
+      "a": "Non, une carte d'identité en cours de validité suffit. Attention, la prolongation de 5 ans ne s'applique pas aux cartes délivrées à des mineurs."
+    },
+    {
+      "q": "Quand partir en Pologne ?",
+      "a": "De mai à septembre pour la douceur, et en décembre pour les marchés de Noël, très beaux à Cracovie, Wrocław et Gdańsk."
+    },
+    {
+      "q": "Comment visiter Auschwitz-Birkenau ?",
+      "a": "Le mémorial et musée est à environ 1 h 30 de Cracovie. Réserve gratuitement ou en visite guidée sur le site officiel, plusieurs semaines à l'avance en saison."
+    },
+    {
+      "q": "Quel budget pour une semaine en Pologne ?",
+      "a": "Compte environ 395 à 770 zł par jour seul et 305 à 620 zł par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
+    }
   ]
 }

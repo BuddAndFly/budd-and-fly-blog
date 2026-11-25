@@ -12,7 +12,15 @@
     "title": "Guide Danemark : quand partir, budget, Copenhague",
     "description": "Préparer un voyage au Danemark : meilleure saison, budget seul ou à deux, Copenhague, Aarhus, Odense, Skagen et itinéraires. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/danemark/hero.jpg",
+    "alt": "Le port de Nyhavn à Copenhague",
+    "credit": {
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kopenhagen_(DK),_Nyhavn_--_2017_--_1711.jpg"
+    }
+  },
   "summary": "Le Danemark se visite de mai à septembre, quand les journées sont longues et les terrasses ouvertes ; décembre a aussi son charme avec les marchés de Noël. Une carte d'identité suffit. Copenhague mérite trois jours, et le pays se parcourt facilement en train jusqu'à Aarhus et la pointe de Skagen.",
   "essentials": {
     "bestPeriod": "Mai à septembre",
@@ -24,26 +32,78 @@
     "flight": "Environ 1 h 50 depuis Paris pour Copenhague"
   },
   "months": [
-    { "rating": 1, "note": "Froid, gris et des journées courtes, mais l'ambiance « hygge » des cafés et des bougies." },
-    { "rating": 1, "note": "Comme en janvier." },
-    { "rating": 1, "note": "Fin de l'hiver, journées qui rallongent." },
-    { "rating": 1, "note": "Printemps frais, parcs en fleurs à Copenhague." },
-    { "rating": 2, "note": "Les terrasses s'installent, longues journées." },
-    { "rating": 2, "note": "Les plus longues journées, festivals et baignade dans les bassins du port." },
-    { "rating": 2, "note": "Le plus doux, idéal pour la côte et le vélo." },
-    { "rating": 2, "note": "Encore beau, festivals de musique." },
-    { "rating": 2, "note": "Doux et moins fréquenté." },
-    { "rating": 1, "note": "Couleurs d'automne, pluies plus fréquentes." },
-    { "rating": 1, "note": "Gris et venteux." },
-    { "rating": 1, "note": "Marchés de Noël et Tivoli illuminé." }
+    {
+      "rating": 1,
+      "note": "Froid, gris et des journées courtes, mais l'ambiance « hygge » des cafés et des bougies."
+    },
+    {
+      "rating": 1,
+      "note": "Comme en janvier."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de l'hiver, journées qui rallongent."
+    },
+    {
+      "rating": 1,
+      "note": "Printemps frais, parcs en fleurs à Copenhague."
+    },
+    {
+      "rating": 2,
+      "note": "Les terrasses s'installent, longues journées."
+    },
+    {
+      "rating": 2,
+      "note": "Les plus longues journées, festivals et baignade dans les bassins du port."
+    },
+    {
+      "rating": 2,
+      "note": "Le plus doux, idéal pour la côte et le vélo."
+    },
+    {
+      "rating": 2,
+      "note": "Encore beau, festivals de musique."
+    },
+    {
+      "rating": 2,
+      "note": "Doux et moins fréquenté."
+    },
+    {
+      "rating": 1,
+      "note": "Couleurs d'automne, pluies plus fréquentes."
+    },
+    {
+      "rating": 1,
+      "note": "Gris et venteux."
+    },
+    {
+      "rating": 1,
+      "note": "Marchés de Noël et Tivoli illuminé."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en couronnes danoises, par jour et par personne, hors vols. Convertis au taux du jour.",
     "rows": [
-      { "label": "Hébergement (hôtel simple)", "solo": "900 à 1 600 kr", "duo": "600 à 1 000 kr" },
-      { "label": "Repas", "solo": "300 à 550 kr", "duo": "300 à 550 kr" },
-      { "label": "Transports locaux", "solo": "50 à 150 kr", "duo": "50 à 150 kr" },
-      { "label": "Visites et entrées", "solo": "50 à 200 kr", "duo": "50 à 200 kr" }
+      {
+        "label": "Hébergement (hôtel simple)",
+        "solo": "900 à 1 600 kr",
+        "duo": "600 à 1 000 kr"
+      },
+      {
+        "label": "Repas",
+        "solo": "300 à 550 kr",
+        "duo": "300 à 550 kr"
+      },
+      {
+        "label": "Transports locaux",
+        "solo": "50 à 150 kr",
+        "duo": "50 à 150 kr"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "50 à 200 kr",
+        "duo": "50 à 200 kr"
+      }
     ],
     "totalSolo": "1 300 à 2 500 kr",
     "totalDuo": "1 000 à 1 900 kr",
@@ -57,7 +117,10 @@
       "Pour le Groenland, un passeport en cours de validité est obligatoire.",
       "Cartes d'identité 2004-2013 prolongées de 5 ans : préfère un passeport valide pour éviter tout souci."
     ],
-    "source": { "label": "France Diplomatie, Danemark, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/danemark/" },
+    "source": {
+      "label": "France Diplomatie, Danemark, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/danemark/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -66,7 +129,10 @@
       "Carte européenne d'assurance maladie (CEAM) à demander sur Ameli.",
       "Encéphalite à tiques : à discuter pour un séjour en zone rurale ou forestière."
     ],
-    "source": { "label": "France Diplomatie, Danemark, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/danemark/" },
+    "source": {
+      "label": "France Diplomatie, Danemark, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/danemark/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -76,7 +142,10 @@
       "À Christiania, ne cours pas et ne prends pas de photos, surtout dans la rue Pusher Street.",
       "Vigilance la nuit autour de la gare centrale (rue Istedgade) et dans le nord-ouest de Nørrebro, ainsi qu'à Vollsmose (Odense) et Gellerup (Aarhus)."
     ],
-    "source": { "label": "France Diplomatie, Danemark, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/danemark/" },
+    "source": {
+      "label": "France Diplomatie, Danemark, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/danemark/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -84,17 +153,36 @@
       "slug": "copenhague",
       "name": "Copenhague",
       "nights": "3 nuits",
-      "for": ["tous", "energique", "lent"],
+      "for": [
+        "tous",
+        "energique",
+        "lent"
+      ],
       "summary": "Une capitale à vélo, entre canaux, design, nouvelle cuisine nordique et baignade dans le port.",
       "sleep": "Indre By pour le centre, Vesterbro ou Nørrebro pour l'ambiance.",
       "see": [
-        { "name": "Nyhavn", "note": "Le canal aux maisons colorées, à voir tôt le matin." },
-        { "name": "Les jardins de Tivoli", "note": "L'un des plus anciens parcs d'attractions du monde." },
-        { "name": "Le château de Rosenborg", "note": "Les joyaux de la Couronne." }
+        {
+          "name": "Nyhavn",
+          "note": "Le canal aux maisons colorées, à voir tôt le matin."
+        },
+        {
+          "name": "Les jardins de Tivoli",
+          "note": "L'un des plus anciens parcs d'attractions du monde."
+        },
+        {
+          "name": "Le château de Rosenborg",
+          "note": "Les joyaux de la Couronne."
+        }
       ],
       "hidden": [
-        { "name": "CopenHill", "note": "Une usine de traitement des déchets avec une piste de ski et un sentier sur le toit." },
-        { "name": "Le musée Louisiana", "note": "Art moderne face à la mer, à 45 minutes en train." }
+        {
+          "name": "CopenHill",
+          "note": "Une usine de traitement des déchets avec une piste de ski et un sentier sur le toit."
+        },
+        {
+          "name": "Le musée Louisiana",
+          "note": "Art moderne face à la mer, à 45 minutes en train."
+        }
       ],
       "eat": "Les smørrebrød (tartines garnies) et les food courts de Reffen.",
       "getAround": "Vélo en libre-service, métro automatique et bateaux-bus.",
@@ -104,13 +192,25 @@
       "slug": "aarhus",
       "name": "Aarhus",
       "nights": "2 nuits",
-      "for": ["lent", "stratege"],
+      "for": [
+        "lent",
+        "stratege"
+      ],
       "summary": "La deuxième ville du pays, jeune et créative, avec l'un des plus beaux musées d'art de Scandinavie.",
       "sleep": "Dans le Latin Quarter, le vieux centre.",
       "see": [
-        { "name": "Le musée ARoS", "note": "Et sa passerelle circulaire arc-en-ciel sur le toit." },
-        { "name": "Den Gamle By", "note": "Un musée en plein air de maisons anciennes." },
-        { "name": "Le front de mer d'Aarhus Ø", "note": "Architecture contemporaine et bain public dans le port." }
+        {
+          "name": "Le musée ARoS",
+          "note": "Et sa passerelle circulaire arc-en-ciel sur le toit."
+        },
+        {
+          "name": "Den Gamle By",
+          "note": "Un musée en plein air de maisons anciennes."
+        },
+        {
+          "name": "Le front de mer d'Aarhus Ø",
+          "note": "Architecture contemporaine et bain public dans le port."
+        }
       ],
       "hidden": [],
       "eat": "Les halles gourmandes Aarhus Street Food.",
@@ -121,13 +221,24 @@
       "slug": "odense",
       "name": "Odense",
       "nights": "1 nuit",
-      "for": ["lent"],
+      "for": [
+        "lent"
+      ],
       "summary": "La ville natale de Hans Christian Andersen, sur l'île de Fionie.",
       "sleep": "Dans le centre historique.",
       "see": [
-        { "name": "La maison H. C. Andersen", "note": "Un musée moderne et poétique." },
-        { "name": "Le vieux quartier", "note": "Maisons basses et pavés." },
-        { "name": "Le château d'Egeskov", "note": "Un château Renaissance sur l'eau, à 30 minutes." }
+        {
+          "name": "La maison H. C. Andersen",
+          "note": "Un musée moderne et poétique."
+        },
+        {
+          "name": "Le vieux quartier",
+          "note": "Maisons basses et pavés."
+        },
+        {
+          "name": "Le château d'Egeskov",
+          "note": "Un château Renaissance sur l'eau, à 30 minutes."
+        }
       ],
       "hidden": [],
       "eat": "Les pâtisseries danoises (wienerbrød).",
@@ -138,13 +249,25 @@
       "slug": "skagen",
       "name": "Skagen",
       "nights": "2 nuits",
-      "for": ["lent", "explorateur"],
+      "for": [
+        "lent",
+        "explorateur"
+      ],
       "summary": "La pointe nord du Danemark, où se rencontrent deux mers, une lumière qui a attiré des générations de peintres.",
       "sleep": "Dans les maisons jaunes du village.",
       "see": [
-        { "name": "Grenen", "note": "La pointe où les vagues de deux mers se heurtent." },
-        { "name": "La dune mouvante de Råbjerg Mile", "note": "Une dune qui avance de plusieurs mètres par an." },
-        { "name": "Le musée de Skagen", "note": "Les peintres de la lumière du Nord." }
+        {
+          "name": "Grenen",
+          "note": "La pointe où les vagues de deux mers se heurtent."
+        },
+        {
+          "name": "La dune mouvante de Råbjerg Mile",
+          "note": "Une dune qui avance de plusieurs mètres par an."
+        },
+        {
+          "name": "Le musée de Skagen",
+          "note": "Les peintres de la lumière du Nord."
+        }
       ],
       "hidden": [],
       "eat": "Les crevettes fraîches du port.",
@@ -156,37 +279,86 @@
     {
       "days": 4,
       "title": "Copenhague",
-      "for": ["tous", "energique"],
+      "for": [
+        "tous",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Copenhague", "note": "Centre, Nyhavn, Christianshavn, Tivoli." },
-        { "days": "Jour 4", "place": "Louisiana et Helsingør", "note": "Musée et château d'Hamlet." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Copenhague",
+          "note": "Centre, Nyhavn, Christianshavn, Tivoli."
+        },
+        {
+          "days": "Jour 4",
+          "place": "Louisiana et Helsingør",
+          "note": "Musée et château d'Hamlet."
+        }
       ]
     },
     {
       "days": 8,
       "title": "Le Danemark en train",
-      "for": ["lent", "stratege"],
+      "for": [
+        "lent",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Copenhague", "note": "La capitale." },
-        { "days": "Jour 4", "place": "Odense", "note": "Andersen et Egeskov." },
-        { "days": "Jours 5 et 6", "place": "Aarhus", "note": "ARoS et Den Gamle By." },
-        { "days": "Jours 7 et 8", "place": "Skagen", "note": "Retour en train." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Copenhague",
+          "note": "La capitale."
+        },
+        {
+          "days": "Jour 4",
+          "place": "Odense",
+          "note": "Andersen et Egeskov."
+        },
+        {
+          "days": "Jours 5 et 6",
+          "place": "Aarhus",
+          "note": "ARoS et Den Gamle By."
+        },
+        {
+          "days": "Jours 7 et 8",
+          "place": "Skagen",
+          "note": "Retour en train."
+        }
       ]
     },
     {
       "days": 6,
       "title": "Ville et nature",
-      "for": ["explorateur"],
+      "for": [
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Copenhague", "note": "À vélo." },
-        { "days": "Jours 4 à 6", "place": "Bornholm", "note": "Une île de falaises et d'églises rondes, en ferry ou en avion." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Copenhague",
+          "note": "À vélo."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Bornholm",
+          "note": "Une île de falaises et d'églises rondes, en ferry ou en avion."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le train", "text": "Rapide et pratique entre Copenhague, Odense, Aarhus et le nord du Jutland." },
-    { "title": "Le vélo", "text": "Le moyen de transport roi, avec des pistes partout." },
-    { "title": "En voiture", "text": "Ponts payants (Storebælt, Øresund vers la Suède). Inutile à Copenhague." }
+    {
+      "title": "Le train",
+      "text": "Rapide et pratique entre Copenhague, Odense, Aarhus et le nord du Jutland."
+    },
+    {
+      "title": "Le vélo",
+      "text": "Le moyen de transport roi, avec des pistes partout."
+    },
+    {
+      "title": "En voiture",
+      "text": "Ponts payants (Storebælt, Øresund vers la Suède). Inutile à Copenhague."
+    }
   ],
   "culture": [
     "Le « hygge » : l'art du confort et des moments chaleureux, surtout l'hiver.",
@@ -194,9 +366,21 @@
     "Le service est inclus : le pourboire n'est pas attendu."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Hej / Goddag", "say": "haï / godda" },
-    { "fr": "Merci", "local": "Tak", "say": "tak" },
-    { "fr": "Santé !", "local": "Skål!", "say": "skol" }
+    {
+      "fr": "Bonjour",
+      "local": "Hej / Goddag",
+      "say": "haï / godda"
+    },
+    {
+      "fr": "Merci",
+      "local": "Tak",
+      "say": "tak"
+    },
+    {
+      "fr": "Santé !",
+      "local": "Skål!",
+      "say": "skol"
+    }
   ],
   "checklist": [
     "Carte d'identité ou passeport (passeport pour le Groenland)",
@@ -206,9 +390,21 @@
     "Billets Tivoli et Louisiana en ligne"
   ],
   "faq": [
-    { "q": "Faut-il un passeport pour le Danemark ?", "a": "Non, une carte d'identité en cours de validité suffit, y compris pour les îles Féroé. Le passeport est obligatoire pour le Groenland." },
-    { "q": "Quand partir au Danemark ?", "a": "De mai à septembre pour les longues journées, le vélo et les terrasses. Décembre est aussi très agréable pour les marchés de Noël." },
-    { "q": "Quel budget pour un week-end à Copenhague ?", "a": "Compte environ 1 300 à 2 500 kr par jour seul et 1 000 à 1 900 kr par personne à deux, hors vols. Ces montants sont des estimations à vérifier." },
-    { "q": "Peut-on payer en euros au Danemark ?", "a": "Rarement : la monnaie est la couronne danoise. La carte bancaire est acceptée presque partout, y compris pour de petits montants." }
+    {
+      "q": "Faut-il un passeport pour le Danemark ?",
+      "a": "Non, une carte d'identité en cours de validité suffit, y compris pour les îles Féroé. Le passeport est obligatoire pour le Groenland."
+    },
+    {
+      "q": "Quand partir au Danemark ?",
+      "a": "De mai à septembre pour les longues journées, le vélo et les terrasses. Décembre est aussi très agréable pour les marchés de Noël."
+    },
+    {
+      "q": "Quel budget pour un week-end à Copenhague ?",
+      "a": "Compte environ 1 300 à 2 500 kr par jour seul et 1 000 à 1 900 kr par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
+    },
+    {
+      "q": "Peut-on payer en euros au Danemark ?",
+      "a": "Rarement : la monnaie est la couronne danoise. La carte bancaire est acceptée presque partout, y compris pour de petits montants."
+    }
   ]
 }

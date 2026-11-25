@@ -12,7 +12,15 @@
     "title": "Guide Bulgarie : Sofia, Rila, mer Noire, budget",
     "description": "Préparer un voyage en Bulgarie : formalités, meilleure saison, budget seul ou à deux, Sofia, monastère de Rila, Plovdiv, Veliko Tarnovo, mer Noire. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/bulgarie/hero.jpg",
+    "alt": "Le monastère de Rila",
+    "credit": {
+      "author": "Νικόλαος Κυριακάκης",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Religious_fresco_in_Rila_Monastery.jpg"
+    }
+  },
   "summary": "La Bulgarie se visite de mai à octobre : montagnes et monastères au printemps et à l'automne, mer Noire en juillet-août. Pays de l'Union européenne, entré dans la zone euro en 2026 : la carte d'identité suffit, à condition de ne jamais l'avoir déclarée perdue ou volée. Sofia, Rila, Plovdiv et Veliko Tarnovo se combinent en une semaine.",
   "essentials": {
     "bestPeriod": "Mai à octobre",
@@ -24,26 +32,78 @@
     "flight": "Environ 3 h depuis Paris pour Sofia ; vols d'été vers Varna et Bourgas"
   },
   "months": [
-    { "rating": 0, "note": "Hiver froid ; ski à Bansko et Borovets." },
-    { "rating": 0, "note": "Comme en janvier." },
-    { "rating": 1, "note": "Fin de l'hiver ; on s'offre des martenitsi, porte-bonheur rouge et blanc, le 1er mars." },
-    { "rating": 1, "note": "Printemps doux en plaine." },
-    { "rating": 2, "note": "Idéal pour Sofia, Plovdiv et les monastères." },
-    { "rating": 2, "note": "Récolte des roses dans la vallée de Kazanlak, début de la randonnée." },
-    { "rating": 2, "note": "Plages de la mer Noire, montagne fraîche ; chaud en plaine." },
-    { "rating": 2, "note": "Haute saison balnéaire, très fréquentée." },
-    { "rating": 2, "note": "Le meilleur compromis : mer encore chaude, villes agréables." },
-    { "rating": 1, "note": "Couleurs d'automne dans les Rhodopes et à Rila." },
-    { "rating": 1, "note": "Frais et calme." },
-    { "rating": 0, "note": "Froid, début de la saison de ski." }
+    {
+      "rating": 0,
+      "note": "Hiver froid ; ski à Bansko et Borovets."
+    },
+    {
+      "rating": 0,
+      "note": "Comme en janvier."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de l'hiver ; on s'offre des martenitsi, porte-bonheur rouge et blanc, le 1er mars."
+    },
+    {
+      "rating": 1,
+      "note": "Printemps doux en plaine."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal pour Sofia, Plovdiv et les monastères."
+    },
+    {
+      "rating": 2,
+      "note": "Récolte des roses dans la vallée de Kazanlak, début de la randonnée."
+    },
+    {
+      "rating": 2,
+      "note": "Plages de la mer Noire, montagne fraîche ; chaud en plaine."
+    },
+    {
+      "rating": 2,
+      "note": "Haute saison balnéaire, très fréquentée."
+    },
+    {
+      "rating": 2,
+      "note": "Le meilleur compromis : mer encore chaude, villes agréables."
+    },
+    {
+      "rating": 1,
+      "note": "Couleurs d'automne dans les Rhodopes et à Rila."
+    },
+    {
+      "rating": 1,
+      "note": "Frais et calme."
+    },
+    {
+      "rating": 0,
+      "note": "Froid, début de la saison de ski."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
     "rows": [
-      { "label": "Hébergement (guesthouse ou petit hôtel)", "solo": "35 à 70 €", "duo": "22 à 45 €" },
-      { "label": "Repas", "solo": "18 à 35 €", "duo": "18 à 35 €" },
-      { "label": "Transports locaux", "solo": "5 à 15 €", "duo": "4 à 12 €" },
-      { "label": "Visites et entrées", "solo": "5 à 15 €", "duo": "5 à 15 €" }
+      {
+        "label": "Hébergement (guesthouse ou petit hôtel)",
+        "solo": "35 à 70 €",
+        "duo": "22 à 45 €"
+      },
+      {
+        "label": "Repas",
+        "solo": "18 à 35 €",
+        "duo": "18 à 35 €"
+      },
+      {
+        "label": "Transports locaux",
+        "solo": "5 à 15 €",
+        "duo": "4 à 12 €"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "5 à 15 €",
+        "duo": "5 à 15 €"
+      }
     ],
     "totalSolo": "63 à 135 €",
     "totalDuo": "49 à 107 €",
@@ -57,7 +117,10 @@
       "L'entrée est systématiquement refusée avec un document déclaré perdu ou volé, même s'il a été retrouvé ensuite. Chaque année, des touristes français restent bloqués à l'aéroport.",
       "Un document retrouvé après déclaration de perte doit être rendu à la préfecture ou à la police : il est invalidé définitivement."
     ],
-    "source": { "label": "France Diplomatie, Bulgarie, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bulgarie/" },
+    "source": {
+      "label": "France Diplomatie, Bulgarie, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bulgarie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -67,7 +130,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Encéphalite à tiques : selon le séjour (zones rurales et forestières), surtout au printemps et en été."
     ],
-    "source": { "label": "France Diplomatie, Bulgarie, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bulgarie/" },
+    "source": {
+      "label": "France Diplomatie, Bulgarie, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bulgarie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -79,7 +145,10 @@
       "Les sentiers de montagne ne sont pas toujours balisés.",
       "Zone sismique, mais secousses généralement modérées."
     ],
-    "source": { "label": "France Diplomatie, Bulgarie, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bulgarie/" },
+    "source": {
+      "label": "France Diplomatie, Bulgarie, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bulgarie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -87,17 +156,35 @@
       "slug": "sofia",
       "name": "Sofia et le monastère de Rila",
       "nights": "2 à 3 nuits",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "summary": "Une capitale au pied du mont Vitocha, ses coupoles dorées et ses ruines romaines, et le plus célèbre monastère des Balkans à 2 h.",
       "sleep": "Dans le centre, autour du boulevard Vitocha.",
       "see": [
-        { "name": "La cathédrale Alexandre-Nevski", "note": "Ses coupoles dorées dominent la ville." },
-        { "name": "L'église de Boyana", "note": "Des fresques médiévales classées à l'Unesco." },
-        { "name": "Le monastère de Rila", "note": "Classé à l'Unesco, dans les montagnes, en excursion à la journée." }
+        {
+          "name": "La cathédrale Alexandre-Nevski",
+          "note": "Ses coupoles dorées dominent la ville."
+        },
+        {
+          "name": "L'église de Boyana",
+          "note": "Des fresques médiévales classées à l'Unesco."
+        },
+        {
+          "name": "Le monastère de Rila",
+          "note": "Classé à l'Unesco, dans les montagnes, en excursion à la journée."
+        }
       ],
       "hidden": [
-        { "name": "Les Sept lacs de Rila", "note": "Une randonnée en altitude, l'été, accessible par télésiège." },
-        { "name": "Les bains minéraux publics", "note": "Les habitants remplissent leurs bouteilles à des fontaines d'eau chaude." }
+        {
+          "name": "Les Sept lacs de Rila",
+          "note": "Une randonnée en altitude, l'été, accessible par télésiège."
+        },
+        {
+          "name": "Les bains minéraux publics",
+          "note": "Les habitants remplissent leurs bouteilles à des fontaines d'eau chaude."
+        }
       ],
       "eat": "La banitsa (feuilleté au fromage) et la salade chopska.",
       "getAround": "Métro et marche ; bus ou excursion pour Rila.",
@@ -107,16 +194,31 @@
       "slug": "plovdiv",
       "name": "Plovdiv",
       "nights": "2 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "L'une des plus anciennes villes habitées d'Europe, avec son théâtre romain et sa vieille ville aux maisons colorées.",
       "sleep": "Dans la vieille ville ou le quartier artistique de Kapana.",
       "see": [
-        { "name": "Le théâtre antique", "note": "Encore utilisé pour des spectacles l'été." },
-        { "name": "La vieille ville", "note": "Maisons de l'époque du Renouveau bulgare." },
-        { "name": "Kapana", "note": "Ruelles de bars, cafés et ateliers." }
+        {
+          "name": "Le théâtre antique",
+          "note": "Encore utilisé pour des spectacles l'été."
+        },
+        {
+          "name": "La vieille ville",
+          "note": "Maisons de l'époque du Renouveau bulgare."
+        },
+        {
+          "name": "Kapana",
+          "note": "Ruelles de bars, cafés et ateliers."
+        }
       ],
       "hidden": [
-        { "name": "Le monastère de Batchkovo", "note": "Le deuxième plus grand du pays, à 30 minutes." }
+        {
+          "name": "Le monastère de Batchkovo",
+          "note": "Le deuxième plus grand du pays, à 30 minutes."
+        }
       ],
       "eat": "Le kavarma (ragoût en pot de terre) et un verre de vin de Thrace.",
       "getAround": "À pied.",
@@ -126,16 +228,31 @@
       "slug": "veliko-tarnovo",
       "name": "Veliko Tarnovo",
       "nights": "2 nuits",
-      "for": ["explorateur", "tous"],
+      "for": [
+        "explorateur",
+        "tous"
+      ],
       "summary": "L'ancienne capitale médiévale, accrochée aux méandres de la Yantra autour de la forteresse de Tsarevets.",
       "sleep": "Dans la vieille ville, avec vue sur la rivière.",
       "see": [
-        { "name": "La forteresse de Tsarevets", "note": "Et son spectacle son et lumière certains soirs." },
-        { "name": "La rue Samovodska", "note": "Les ateliers d'artisans." },
-        { "name": "Arbanassi", "note": "Un village aux maisons fortifiées et églises peintes, tout proche." }
+        {
+          "name": "La forteresse de Tsarevets",
+          "note": "Et son spectacle son et lumière certains soirs."
+        },
+        {
+          "name": "La rue Samovodska",
+          "note": "Les ateliers d'artisans."
+        },
+        {
+          "name": "Arbanassi",
+          "note": "Un village aux maisons fortifiées et églises peintes, tout proche."
+        }
       ],
       "hidden": [
-        { "name": "Le village d'Etara", "note": "Un musée d'artisanat en plein air, sur la route de Gabrovo." }
+        {
+          "name": "Le village d'Etara",
+          "note": "Un musée d'artisanat en plein air, sur la route de Gabrovo."
+        }
       ],
       "eat": "Les plats mijotés des mehana (tavernes traditionnelles).",
       "getAround": "À pied, et bus ou voiture pour les environs.",
@@ -145,16 +262,31 @@
       "slug": "mer-noire",
       "name": "La mer Noire (Nessebar, Sozopol)",
       "nights": "3 nuits",
-      "for": ["lent", "energique"],
+      "for": [
+        "lent",
+        "energique"
+      ],
       "summary": "Des presqu'îles antiques aux maisons de bois et des plages de sable, du calme de Sozopol à l'animation de Varna.",
       "sleep": "Dans la vieille ville de Sozopol ou de Nessebar.",
       "see": [
-        { "name": "La vieille ville de Nessebar", "note": "Classée à l'Unesco, avec ses églises byzantines." },
-        { "name": "Sozopol", "note": "Ruelles et maisons de bois face à la mer." },
-        { "name": "Le cap Kaliakra", "note": "Des falaises rouges au nord." }
+        {
+          "name": "La vieille ville de Nessebar",
+          "note": "Classée à l'Unesco, avec ses églises byzantines."
+        },
+        {
+          "name": "Sozopol",
+          "note": "Ruelles et maisons de bois face à la mer."
+        },
+        {
+          "name": "Le cap Kaliakra",
+          "note": "Des falaises rouges au nord."
+        }
       ],
       "hidden": [
-        { "name": "La plage d'Irakli", "note": "Une plage plus sauvage entre Nessebar et Obzor." }
+        {
+          "name": "La plage d'Irakli",
+          "note": "Une plage plus sauvage entre Nessebar et Obzor."
+        }
       ],
       "eat": "Les poissons grillés et les moules des tavernes du port.",
       "getAround": "Bus le long de la côte, ou voiture.",
@@ -165,38 +297,92 @@
     {
       "days": 7,
       "title": "Les Balkans historiques",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Sofia", "note": "Avec le monastère de Rila." },
-        { "days": "Jours 4 et 5", "place": "Plovdiv", "note": "Et Batchkovo." },
-        { "days": "Jours 6 et 7", "place": "Veliko Tarnovo", "note": "Retour vers Sofia." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Sofia",
+          "note": "Avec le monastère de Rila."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Plovdiv",
+          "note": "Et Batchkovo."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Veliko Tarnovo",
+          "note": "Retour vers Sofia."
+        }
       ]
     },
     {
       "days": 10,
       "title": "Montagnes et mer Noire",
-      "for": ["lent", "energique"],
+      "for": [
+        "lent",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Sofia", "note": "Et Rila." },
-        { "days": "Jours 4 et 5", "place": "Plovdiv", "note": "Vieille ville et Kapana." },
-        { "days": "Jours 6 et 7", "place": "Veliko Tarnovo", "note": "Par la vallée des Roses." },
-        { "days": "Jours 8 à 10", "place": "Mer Noire", "note": "Retour depuis Varna ou Bourgas." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Sofia",
+          "note": "Et Rila."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Plovdiv",
+          "note": "Vieille ville et Kapana."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Veliko Tarnovo",
+          "note": "Par la vallée des Roses."
+        },
+        {
+          "days": "Jours 8 à 10",
+          "place": "Mer Noire",
+          "note": "Retour depuis Varna ou Bourgas."
+        }
       ]
     },
     {
       "days": 4,
       "title": "Sofia et Plovdiv",
-      "for": ["energique", "stratege"],
+      "for": [
+        "energique",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Sofia", "note": "Et Rila." },
-        { "days": "Jours 3 et 4", "place": "Plovdiv", "note": "Retour en bus ou en train." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Sofia",
+          "note": "Et Rila."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Plovdiv",
+          "note": "Retour en bus ou en train."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les bus", "text": "Le moyen le plus pratique entre les villes, fréquents et bon marché." },
-    { "title": "Le train", "text": "Lent mais pittoresque, notamment la ligne à voie étroite des Rhodopes." },
-    { "title": "En voiture", "text": "Vignette électronique obligatoire. Routes inégales en montagne." }
+    {
+      "title": "Les bus",
+      "text": "Le moyen le plus pratique entre les villes, fréquents et bon marché."
+    },
+    {
+      "title": "Le train",
+      "text": "Lent mais pittoresque, notamment la ligne à voie étroite des Rhodopes."
+    },
+    {
+      "title": "En voiture",
+      "text": "Vignette électronique obligatoire. Routes inégales en montagne."
+    }
   ],
   "culture": [
     "Attention : les Bulgares hochent la tête de haut en bas pour dire non, et de gauche à droite pour dire oui.",
@@ -204,9 +390,21 @@
     "Tenue correcte dans les églises et monastères orthodoxes."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Здравейте", "say": "zdraveïté" },
-    { "fr": "Merci", "local": "Благодаря", "say": "blagodaria" },
-    { "fr": "Santé !", "local": "Наздраве", "say": "nazdravé" }
+    {
+      "fr": "Bonjour",
+      "local": "Здравейте",
+      "say": "zdraveïté"
+    },
+    {
+      "fr": "Merci",
+      "local": "Благодаря",
+      "say": "blagodaria"
+    },
+    {
+      "fr": "Santé !",
+      "local": "Наздраве",
+      "say": "nazdravé"
+    }
   ],
   "checklist": [
     "Passeport ou carte d'identité valide, jamais déclaré perdu ou volé",
@@ -216,9 +414,21 @@
     "Chaussures de marche pour Rila et les Rhodopes"
   ],
   "faq": [
-    { "q": "Quels papiers pour la Bulgarie ?", "a": "Un passeport ou une carte d'identité en cours de validité. Attention : un document déclaré perdu ou volé, même retrouvé, entraîne un refus d'entrée systématique." },
-    { "q": "Quelle monnaie en Bulgarie ?", "a": "L'euro, depuis le 1er janvier 2026." },
-    { "q": "Quand partir en Bulgarie ?", "a": "De mai à octobre. Juillet-août pour la mer Noire, mai-juin et septembre pour les villes, les monastères et la randonnée." },
-    { "q": "Quel budget pour une semaine en Bulgarie ?", "a": "Compte environ 63 à 135 € par jour seul et 49 à 107 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Quels papiers pour la Bulgarie ?",
+      "a": "Un passeport ou une carte d'identité en cours de validité. Attention : un document déclaré perdu ou volé, même retrouvé, entraîne un refus d'entrée systématique."
+    },
+    {
+      "q": "Quelle monnaie en Bulgarie ?",
+      "a": "L'euro, depuis le 1er janvier 2026."
+    },
+    {
+      "q": "Quand partir en Bulgarie ?",
+      "a": "De mai à octobre. Juillet-août pour la mer Noire, mai-juin et septembre pour les villes, les monastères et la randonnée."
+    },
+    {
+      "q": "Quel budget pour une semaine en Bulgarie ?",
+      "a": "Compte environ 63 à 135 € par jour seul et 49 à 107 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
+    }
   ]
 }
