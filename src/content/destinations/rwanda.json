@@ -1,0 +1,195 @@
+{
+  "name": "Rwanda",
+  "prep": "au Rwanda",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 93,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Rwanda : gorilles, Kigali, lac Kivu",
+    "description": "Préparer un voyage au Rwanda : visa gratuit à l'arrivée, sécurité, meilleure saison, budget, Kigali, Volcans, Nyungwe, lac Kivu, Akagera. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Rwanda se visite de juin à septembre et de décembre à février. Les Français obtiennent à l'arrivée un visa touristique gratuit de 30 jours. Tout le pays est en vigilance renforcée, surtout à cause des routes ; la prudence s'impose près des frontières congolaise et burundaise. Gorilles des Volcans, forêt de Nyungwe et lac Kivu tiennent dans un séjour compact.",
+  "essentials": {
+    "bestPeriod": "Juin à septembre, décembre à février",
+    "languages": "Kinyarwanda, anglais, français, swahili",
+    "currency": "Franc rwandais (RWF)",
+    "timeDiff": "+1 h en hiver, aucun décalage en été",
+    "plugs": "Types C et J, 230 V : adaptateur conseillé",
+    "emergency": "Police 112 · Ambulance 912",
+    "flight": "Environ 8 h 30 depuis Paris pour Kigali, en direct ou avec une escale"
+  },
+  "months": [
+    { "rating": 2, "note": "Petite saison sèche." },
+    { "rating": 2, "note": "Sec, bon pour les gorilles." },
+    { "rating": 1, "note": "Début des grandes pluies." },
+    { "rating": 0, "note": "Grandes pluies ; commémoration du génocide (Kwibuka) à partir du 7 avril." },
+    { "rating": 0, "note": "Pluies." },
+    { "rating": 2, "note": "Grande saison sèche." },
+    { "rating": 2, "note": "Idéal." },
+    { "rating": 2, "note": "Haute saison." },
+    { "rating": 2, "note": "Encore sec ; cérémonie Kwita Izina de baptême des bébés gorilles certaines années." },
+    { "rating": 1, "note": "Petites pluies." },
+    { "rating": 1, "note": "Petites pluies." },
+    { "rating": 2, "note": "Retour du sec." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols et hors permis gorilles.",
+    "rows": [
+      { "label": "Hébergement (hôtel ou lodge)", "solo": "60 à 300 $", "duo": "40 à 200 $" },
+      { "label": "Repas", "solo": "15 à 45 $", "duo": "15 à 45 $" },
+      { "label": "Chauffeur et 4x4", "solo": "80 à 150 $", "duo": "40 à 75 $" },
+      { "label": "Parcs et activités", "solo": "30 à 200 $", "duo": "30 à 200 $" }
+    ],
+    "totalSolo": "185 à 695 $",
+    "totalDuo": "125 à 520 $",
+    "note": "Le permis gorilles du parc des Volcans est très cher (plus de 1 000 $) : vérifie le tarif officiel et réserve tôt. Le pays est petit, les trajets courts.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Les Français obtiennent à l'arrivée un visa touristique gratuit, valable 30 jours maximum, pour une entrée simple.",
+    "points": [
+      "Après toute sortie du territoire, il faut redemander un visa pour revenir.",
+      "Une prolongation du séjour touristique peut être demandée sur place."
+    ],
+    "source": { "label": "France Diplomatie, Rwanda, Entrée / séjour (mise à jour du 16 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/rwanda/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "La vaccination contre la fièvre jaune est obligatoire si tu viens d'un pays où elle est endémique ; elle reste conseillée, sur avis médical.",
+    "points": [
+      "Paludisme : traitement préventif selon avis médical et protection contre les moustiques.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Services de santé peu développés hors de Kigali : assurance avec évacuation indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Rwanda, Santé et Sécurité (mise à jour du 16 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/rwanda/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée. Le principal risque est routier : routes non éclairées hors de Kigali et secours lents.",
+    "points": [
+      "Prudence près de la frontière avec la RDC (mouvements de groupes armés) ; les postes de Gisenyi/Goma et Cyangugu/Bukavu n'ouvrent qu'en journée et peuvent fermer sans préavis.",
+      "Des incidents ont été signalés à la frontière avec le Burundi.",
+      "Dans la forêt de Nyungwe, randonne uniquement en tour organisé et respecte les procédures d'enregistrement.",
+      "Dans les Virunga (2 400 à 4 500 m), assure-toi de ta forme physique et de ton équipement."
+    ],
+    "source": { "label": "France Diplomatie, Rwanda, Sécurité (mise à jour du 16 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/rwanda/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "kigali",
+      "name": "Kigali",
+      "nights": "2 nuits",
+      "for": ["tous", "stratege"],
+      "summary": "Une capitale propre et vallonnée, et le mémorial qui raconte le génocide des Tutsi de 1994.",
+      "sleep": "À Kiyovu ou Kimihurura.",
+      "see": [
+        { "name": "Le mémorial du génocide de Gisozi", "note": "Une visite indispensable." },
+        { "name": "Le marché de Kimironko", "note": "Tissus et produits locaux." },
+        { "name": "Le centre culturel Inema", "note": "Art contemporain rwandais." }
+      ],
+      "hidden": [
+        { "name": "Le quartier de Nyamirambo", "note": "Une balade guidée par une association de femmes." }
+      ],
+      "eat": "Les brochettes et l'isombe (feuilles de manioc).",
+      "getAround": "Motos-taxis (casque fourni) et VTC.",
+      "tip": "Le dernier samedi du mois, l'umuganda (travaux communautaires) ralentit la ville le matin."
+    },
+    {
+      "slug": "volcans",
+      "name": "Le parc national des Volcans",
+      "nights": "2 nuits",
+      "for": ["explorateur", "tous"],
+      "summary": "Les gorilles de montagne et les singes dorés, sur les pentes des volcans Virunga.",
+      "sleep": "À Musanze (Ruhengeri) ou en lodge près du parc.",
+      "see": [
+        { "name": "Le pistage des gorilles", "note": "Une heure avec une famille, permis indispensable." },
+        { "name": "Les singes dorés", "note": "Un permis bien moins cher." },
+        { "name": "La tombe de Dian Fossey", "note": "Randonnée exigeante vers Karisoke." }
+      ],
+      "hidden": [
+        { "name": "Les lacs jumeaux Burera et Ruhondo", "note": "Une vue superbe sur les volcans." }
+      ],
+      "eat": "Les pommes de terre de Musanze, les meilleures du pays.",
+      "getAround": "Route depuis Kigali (environ 2 h 30).",
+      "tip": "Indique ta condition physique aux rangers : ils attribuent les familles de gorilles selon la difficulté."
+    },
+    {
+      "slug": "nyungwe-kivu",
+      "name": "Nyungwe et le lac Kivu",
+      "nights": "4 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "Une forêt de montagne aux chimpanzés et à la passerelle suspendue, puis les rives paisibles du lac Kivu.",
+      "sleep": "En lodge près de Nyungwe, puis à Kibuye (Karongi) ou Gisenyi (Rubavu).",
+      "see": [
+        { "name": "La passerelle dans la canopée de Nyungwe", "note": "À 50 m au-dessus de la forêt." },
+        { "name": "Le pistage des chimpanzés", "note": "Tôt le matin." },
+        { "name": "Le lac Kivu en bateau", "note": "Îles et pêcheurs." }
+      ],
+      "hidden": [
+        { "name": "La Congo Nile Trail", "note": "Une piste de randonnée et de vélo le long du lac." }
+      ],
+      "eat": "Le sambaza (petits poissons frits du lac).",
+      "getAround": "Chauffeur ou bus.",
+      "tip": "Les postes-frontières avec la RDC à Gisenyi et Cyangugu sont à éviter : la RDC voisine est très dangereuse."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Gorilles, forêt et lac",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Kigali", "note": "Arrivée et mémorial." },
+        { "days": "Jours 3 et 4", "place": "Volcans", "note": "Gorilles." },
+        { "days": "Jours 5 et 6", "place": "Lac Kivu", "note": "Gisenyi puis Kibuye." },
+        { "days": "Jours 7 et 8", "place": "Nyungwe", "note": "Retour à Kigali." }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Kigali, gorilles et Akagera",
+      "for": ["energique", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Kigali", "note": "Arrivée." },
+        { "days": "Jour 3", "place": "Volcans", "note": "Gorilles." },
+        { "days": "Jours 4 et 5", "place": "Akagera", "note": "Safari « Big Five » à l'est." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Chauffeur avec 4x4", "text": "La formule la plus simple pour les parcs ; évite de rouler de nuit." },
+    { "title": "Les bus", "text": "Fiables entre les villes." },
+    { "title": "Les motos-taxis", "text": "Courants à Kigali, avec casque." }
+  ],
+  "culture": [
+    "Les sacs plastiques sont interdits.",
+    "Le génocide de 1994 est un sujet douloureux : écoute avec respect.",
+    "Le Rwanda est réputé pour sa propreté et son ordre."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Muraho", "say": "mouraho" },
+    { "fr": "Merci", "local": "Murakoze", "say": "mourakozé" },
+    { "fr": "Bienvenue", "local": "Murakaza neza", "say": "mourakaza néza" }
+  ],
+  "checklist": [
+    "Passeport valide (visa gratuit à l'arrivée)",
+    "Permis gorilles réservé tôt",
+    "Avis médical (paludisme, fièvre jaune)",
+    "Assurance avec évacuation sanitaire",
+    "Pas de sacs plastiques",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour le Rwanda ?", "a": "Les Français obtiennent un visa touristique gratuit de 30 jours à l'arrivée, pour une entrée simple." },
+    { "q": "Le Rwanda est-il sûr ?", "a": "Le pays est en vigilance renforcée ; le principal risque est routier. Sois prudent près des frontières congolaise et burundaise." },
+    { "q": "Combien coûte le permis gorilles au Rwanda ?", "a": "Plus de 1 000 $ par personne au parc des Volcans : vérifie le tarif officiel avant de réserver." },
+    { "q": "Quel budget pour une semaine au Rwanda ?", "a": "Compte environ 185 à 695 $ par jour seul et 125 à 520 $ par personne à deux, hors vols et permis gorilles. Ces montants sont des estimations à vérifier." }
+  ]
+}

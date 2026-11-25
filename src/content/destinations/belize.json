@@ -1,0 +1,195 @@
+{
+  "name": "Belize",
+  "prep": "au Belize",
+  "kind": "pays",
+  "continent": "Amérique centrale et Caraïbes",
+  "priority": 95,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Belize : Caye Caulker, Blue Hole, Maya",
+    "description": "Préparer un voyage au Belize : formalités, sécurité, meilleure saison, budget, Caye Caulker, le Grand Trou bleu, San Ignacio, sites mayas. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Belize se visite de décembre à avril, en saison sèche ; la saison cyclonique va de juin à novembre. Pas de visa pour moins de 30 jours, avec un passeport valable 6 mois et un billet retour. Tout le pays est en vigilance renforcée, avec une délinquance marquée à Belize City. Deuxième barrière de corail du monde, îles décontractées et sites mayas dans la jungle.",
+  "essentials": {
+    "bestPeriod": "Décembre à avril",
+    "languages": "Anglais (officiel), espagnol, kriol",
+    "currency": "Dollar bélizien (BZD), à parité fixe avec le dollar américain (accepté)",
+    "timeDiff": "-7 h en hiver, -8 h en été",
+    "plugs": "Types A, B et G, 110 V : adaptateur nécessaire",
+    "emergency": "911",
+    "flight": "Environ 13 h depuis Paris pour Belize City, avec une escale aux États-Unis ou au Mexique"
+  },
+  "months": [
+    { "rating": 2, "note": "Saison sèche, haute saison." },
+    { "rating": 2, "note": "Idéal." },
+    { "rating": 2, "note": "Sec et chaud." },
+    { "rating": 2, "note": "Mer calme, excellente plongée." },
+    { "rating": 1, "note": "Très chaud, fin du sec." },
+    { "rating": 1, "note": "Début des pluies et des cyclones ; requins-baleines à Placencia." },
+    { "rating": 1, "note": "Pluies l'après-midi." },
+    { "rating": 1, "note": "Pluies, cyclones possibles." },
+    { "rating": 0, "note": "Pic de la saison cyclonique." },
+    { "rating": 0, "note": "Cyclones encore possibles." },
+    { "rating": 1, "note": "Fin des pluies." },
+    { "rating": 2, "note": "Retour du sec." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols.",
+    "rows": [
+      { "label": "Hébergement (guesthouse ou cabane)", "solo": "60 à 150 $", "duo": "35 à 90 $" },
+      { "label": "Repas", "solo": "25 à 55 $", "duo": "25 à 55 $" },
+      { "label": "Transports (bus, bateau-taxi)", "solo": "10 à 40 $", "duo": "10 à 40 $" },
+      { "label": "Excursions et plongée", "solo": "40 à 200 $", "duo": "40 à 200 $" }
+    ],
+    "totalSolo": "135 à 445 $",
+    "totalDuo": "110 à 385 $",
+    "note": "Le Belize est plus cher que ses voisins. La plongée au Grand Trou bleu et les excursions sur le récif sont les gros postes.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour moins de 30 jours. Le passeport doit être valable 6 mois après l'arrivée, avec un billet retour ou de continuation.",
+    "points": [
+      "Les autorités demandent de séjourner dans des hôtels homologués « Gold Standard » et d'en présenter la réservation à l'arrivée.",
+      "Une prolongation du séjour peut être demandée sur place auprès de l'immigration.",
+      "Consulte le site du Belize Tourism Board pour les conditions à jour."
+    ],
+    "source": { "label": "France Diplomatie, Belize, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/belize/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est obligatoire en arrivant de France ; la fièvre jaune l'est si tu viens d'une zone d'endémie. Une assurance médicale est vivement recommandée.",
+    "points": [
+      "Dengue : protection contre les moustiques.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Assurance couvrant hospitalisation et évacuation indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Belize, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/belize/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Tout le Belize est en vigilance renforcée. La France n'a qu'un consulat honoraire, qui ne peut pas délivrer de documents de voyage d'urgence.",
+    "points": [
+      "Délinquance élevée à Belize City, à Dangriga, sur certaines îles (notamment San Pedro, sur Ambergris Caye) et près de la frontière guatémaltèque.",
+      "Fais très attention à ton passeport : en cas de perte, il faut passer par l'ambassade de France au Guatemala.",
+      "Saison cyclonique de juin à novembre : suis la météo.",
+      "Inscris-toi sur Ariane."
+    ],
+    "source": { "label": "France Diplomatie, Belize, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/belize/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "caye-caulker",
+      "name": "Caye Caulker et le récif",
+      "nights": "4 nuits",
+      "for": ["lent", "tous"],
+      "summary": "Une petite île sans voitures au rythme « go slow », porte d'entrée de la barrière de corail.",
+      "sleep": "Sur l'île, en guesthouse.",
+      "see": [
+        { "name": "La réserve marine de Hol Chan", "note": "Snorkeling avec raies et requins nourrices." },
+        { "name": "Le Grand Trou bleu", "note": "Plongée pour plongeurs confirmés, ou survol." },
+        { "name": "The Split", "note": "Le canal où l'on se baigne au coucher du soleil." }
+      ],
+      "hidden": [
+        { "name": "L'atoll de Turneffe", "note": "Plongée sur des tombants préservés." }
+      ],
+      "eat": "La langouste grillée (en saison, de juin à février) et le ceviche de conque.",
+      "getAround": "À pied ou à vélo ; bateau-taxi depuis Belize City.",
+      "tip": "Ne t'attarde pas à Belize City : file directement vers l'embarcadère."
+    },
+    {
+      "slug": "san-ignacio",
+      "name": "San Ignacio et le Cayo",
+      "nights": "3 nuits",
+      "for": ["explorateur", "energique"],
+      "summary": "La jungle de l'ouest, ses rivières et ses sites mayas, dont une grotte sacrée spectaculaire.",
+      "sleep": "À San Ignacio ou en lodge dans la jungle.",
+      "see": [
+        { "name": "La grotte d'Actun Tunichil Muknal", "note": "Avec un guide agréé : nage, escalade et squelettes mayas." },
+        { "name": "Le site de Xunantunich", "note": "Pyramide face à la jungle." },
+        { "name": "Caracol", "note": "La plus grande cité maya du Belize." }
+      ],
+      "hidden": [
+        { "name": "La Mountain Pine Ridge", "note": "Cascades et forêts de pins." }
+      ],
+      "eat": "Le rice and beans au lait de coco.",
+      "getAround": "Bus depuis Belize City, puis excursions guidées.",
+      "tip": "Caracol est proche de la frontière guatémaltèque : accès en convoi ou avec agence."
+    },
+    {
+      "slug": "placencia",
+      "name": "Placencia et le sud",
+      "nights": "3 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "Une presqu'île de plages, les cayes du sud et la culture garifuna.",
+      "sleep": "À Placencia ou Hopkins.",
+      "see": [
+        { "name": "La plage de Placencia", "note": "Sable et cocotiers." },
+        { "name": "Le sanctuaire de jaguars de Cockscomb", "note": "Randonnées et cascades." },
+        { "name": "Les cayes de Laughing Bird", "note": "Snorkeling dans un parc marin." }
+      ],
+      "hidden": [
+        { "name": "Hopkins", "note": "Un village garifuna et ses tambours." }
+      ],
+      "eat": "Le hudut garifuna (poisson au coco et banane plantain pilée).",
+      "getAround": "Bus ou petit avion.",
+      "tip": "D'avril à juin, des requins-baleines passent près de Gladden Spit."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Jungle et récif",
+      "for": ["tous", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "San Ignacio", "note": "Arrivée par Belize City." },
+        { "days": "Jours 4 à 7", "place": "Caye Caulker", "note": "Récif et Blue Hole." },
+        { "days": "Jours 8 à 10", "place": "Placencia", "note": "Retour depuis Belize City." }
+      ]
+    },
+    {
+      "days": 14,
+      "title": "Yucatán et Belize",
+      "for": ["energique", "lent"],
+      "steps": [
+        { "days": "Jours 1 à 5", "place": "Yucatán (Mexique)", "note": "Arrivée à Cancún." },
+        { "days": "Jours 6 à 9", "place": "Caye Caulker", "note": "Bateau depuis Chetumal." },
+        { "days": "Jours 10 à 14", "place": "San Ignacio", "note": "Retour depuis Belize City." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les bateaux-taxis", "text": "Vers Caye Caulker et Ambergris Caye." },
+    { "title": "Les bus", "text": "Anciens bus scolaires américains, bon marché." },
+    { "title": "Les petits avions", "text": "Rapides vers le sud et les îles." }
+  ],
+  "culture": [
+    "Le seul pays anglophone d'Amérique centrale.",
+    "Mélange de cultures kriol, maya, mestiza et garifuna.",
+    "« Go slow » est la devise des îles."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Good morning", "say": "goud morning" },
+    { "fr": "Merci", "local": "Thank you", "say": "thank you" },
+    { "fr": "Doucement (kriol)", "local": "Go slow", "say": "go slo" }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois et billet retour",
+    "Réservation d'hôtel homologué à présenter",
+    "Assurance hospitalisation et évacuation",
+    "Copie du passeport (pas de consulat pouvant en délivrer)",
+    "Répulsif anti-moustiques",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour le Belize ?", "a": "Non pour moins de 30 jours, avec un passeport valable 6 mois, un billet retour et une réservation d'hôtel homologué." },
+    { "q": "Le Belize est-il sûr ?", "a": "Le pays est en vigilance renforcée ; la délinquance est élevée à Belize City, Dangriga et San Pedro. Caye Caulker et le Cayo se visitent avec prudence." },
+    { "q": "Quand partir au Belize ?", "a": "De décembre à avril. De juin à novembre, c'est la saison des pluies et des cyclones." },
+    { "q": "Quel budget pour 10 jours au Belize ?", "a": "Compte environ 135 à 445 $ par jour seul et 110 à 385 $ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

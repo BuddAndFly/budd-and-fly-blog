@@ -1,0 +1,192 @@
+{
+  "name": "Ouganda",
+  "prep": "en Ouganda",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 92,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Ouganda : gorilles, Bwindi, visa, sécurité",
+    "description": "Préparer un voyage en Ouganda : e-visa, fièvre jaune obligatoire, sécurité, meilleure saison, budget, Bwindi, Queen Elizabeth, Murchison. PDF gratuit."
+  },
+  "hero": null,
+  "summary": "L'Ouganda se visite de juin à septembre et de décembre à février, en saison sèche. Le visa (électronique) et le certificat de vaccination contre la fièvre jaune sont obligatoires. Les frontières avec la RDC et le Soudan du Sud sont formellement déconseillées ; les parcs de l'ouest et du sud-ouest, avec les gorilles de Bwindi, se visitent en vigilance renforcée avec des opérateurs reconnus.",
+  "essentials": {
+    "bestPeriod": "Juin à septembre, décembre à février",
+    "languages": "Anglais et swahili, luganda",
+    "currency": "Shilling ougandais (UGX) ; dollars pour les permis",
+    "timeDiff": "+2 h en hiver, +1 h en été",
+    "plugs": "Type G (trois broches), 240 V : adaptateur nécessaire",
+    "emergency": "999 ou 112",
+    "flight": "Environ 9 h depuis Paris pour Entebbe, avec une escale"
+  },
+  "months": [
+    { "rating": 2, "note": "Saison sèche, bon pour les gorilles." },
+    { "rating": 2, "note": "Comme en janvier." },
+    { "rating": 1, "note": "Début des pluies." },
+    { "rating": 0, "note": "Grandes pluies, sentiers boueux." },
+    { "rating": 0, "note": "Pluies." },
+    { "rating": 2, "note": "Retour du sec." },
+    { "rating": 2, "note": "Idéal pour les gorilles et les chimpanzés." },
+    { "rating": 2, "note": "Haute saison." },
+    { "rating": 2, "note": "Encore sec." },
+    { "rating": 1, "note": "Petites pluies." },
+    { "rating": 1, "note": "Petites pluies." },
+    { "rating": 2, "note": "Retour du sec." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols et hors permis gorilles.",
+    "rows": [
+      { "label": "Hébergement (lodge ou guesthouse)", "solo": "60 à 300 $", "duo": "40 à 200 $" },
+      { "label": "Repas", "solo": "20 à 50 $", "duo": "20 à 50 $" },
+      { "label": "4x4 avec chauffeur-guide", "solo": "120 à 200 $", "duo": "60 à 100 $" },
+      { "label": "Entrées des parcs et activités", "solo": "40 à 250 $", "duo": "40 à 250 $" }
+    ],
+    "totalSolo": "240 à 800 $",
+    "totalDuo": "160 à 600 $",
+    "note": "Le permis pour approcher les gorilles est très cher (plusieurs centaines de dollars) et se réserve des mois à l'avance auprès de l'autorité ougandaise de la faune. Vérifie le tarif en vigueur.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Un visa est obligatoire (50 USD pour une entrée simple), à demander via le système de visa électronique. Le certificat de vaccination contre la fièvre jaune est obligatoire à l'entrée.",
+    "points": [
+      "Fais ta demande de visa uniquement sur le site officiel.",
+      "De nouvelles mesures sanitaires peuvent être mises en place en cas d'épidémie : consulte le site de l'ambassade de France."
+    ],
+    "source": { "label": "France Diplomatie, Ouganda, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/ouganda/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "La vaccination contre la fièvre jaune est obligatoire, dans un centre agréé.",
+    "points": [
+      "Paludisme : traitement préventif selon avis médical et protection contre les moustiques.",
+      "Rage : recommandé, notamment pour les déplacements en brousse.",
+      "Dengue : protection contre les moustiques.",
+      "Assurance avec évacuation sanitaire indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Ouganda, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/ouganda/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Les frontières avec la RDC et le Soudan du Sud sont formellement déconseillées. Le reste du pays est en vigilance renforcée.",
+    "points": [
+      "Formellement déconseillés : la frontière avec la RDC hors des parcs (où l'on est escorté de rangers ou de militaires), la ville de Bwera et ses alentours, et la zone frontalière avec le Soudan du Sud.",
+      "Déconseillés sauf raison impérative : le parc national de Semuliki et la province de Karamoja (nord-est).",
+      "Évite l'axe Moroto-Kotido-Kabong vers le parc de Kidepo, où des véhicules ont été attaqués, surtout la nuit."
+    ],
+    "source": { "label": "France Diplomatie, Ouganda, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/ouganda/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "bwindi",
+      "name": "La forêt impénétrable de Bwindi",
+      "nights": "3 nuits",
+      "for": ["explorateur", "tous"],
+      "summary": "Une forêt primaire classée à l'Unesco, refuge de près de la moitié des gorilles de montagne du monde.",
+      "sleep": "En lodge à proximité du secteur de pistage réservé.",
+      "see": [
+        { "name": "Le pistage des gorilles", "note": "Une heure avec une famille habituée, encadrée par des rangers." },
+        { "name": "Les villages batwa", "note": "Avec une visite communautaire respectueuse." },
+        { "name": "Le lac Bunyonyi", "note": "Un lac d'îles et de terrasses, au repos." }
+      ],
+      "hidden": [],
+      "eat": "Le rolex (omelette roulée dans un chapati).",
+      "getAround": "4x4 avec chauffeur ou vol léger vers Kihihi ou Kisoro.",
+      "tip": "La marche peut durer de 1 à 6 heures sur des pentes raides : prévois gants, guêtres et un porteur local."
+    },
+    {
+      "slug": "queen-elizabeth-kibale",
+      "name": "Queen Elizabeth et Kibale",
+      "nights": "4 nuits",
+      "for": ["tous", "lent"],
+      "summary": "Des lions qui grimpent aux arbres, un chenal plein d'hippopotames, et la forêt des chimpanzés.",
+      "sleep": "À Fort Portal ou en lodge près des parcs.",
+      "see": [
+        { "name": "Le pistage des chimpanzés à Kibale", "note": "Permis à réserver." },
+        { "name": "La croisière sur le canal de Kazinga", "note": "Hippopotames, éléphants et oiseaux." },
+        { "name": "Le secteur d'Ishasha", "note": "Les lions arboricoles." }
+      ],
+      "hidden": [
+        { "name": "Les lacs de cratère de Fort Portal", "note": "Randonnées et baignade." }
+      ],
+      "eat": "Le matoke (banane plantain écrasée).",
+      "getAround": "4x4 avec chauffeur.",
+      "tip": "Reste dans les zones touristiques : la frontière congolaise toute proche est formellement déconseillée hors encadrement."
+    },
+    {
+      "slug": "murchison",
+      "name": "Murchison Falls",
+      "nights": "2 nuits",
+      "for": ["explorateur", "energique"],
+      "summary": "Le Nil qui s'engouffre dans une gorge de 7 mètres, et un parc de savane plein de girafes.",
+      "sleep": "En lodge dans ou près du parc.",
+      "see": [
+        { "name": "Le sommet des chutes", "note": "La puissance du Nil." },
+        { "name": "La croisière jusqu'au pied des chutes", "note": "Crocodiles et hippopotames." },
+        { "name": "Le safari sur la rive nord", "note": "Girafes, éléphants, lions." }
+      ],
+      "hidden": [
+        { "name": "Ziwa", "note": "Un sanctuaire où l'on observe les rhinocéros à pied." }
+      ],
+      "eat": "Le poisson du Nil (tilapia).",
+      "getAround": "Route depuis Kampala ou Entebbe.",
+      "tip": "Combine Ziwa et Murchison sur la même route."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Primates et savane",
+      "for": ["tous", "explorateur"],
+      "steps": [
+        { "days": "Jour 1", "place": "Entebbe", "note": "Arrivée." },
+        { "days": "Jours 2 à 4", "place": "Kibale", "note": "Chimpanzés." },
+        { "days": "Jours 5 et 6", "place": "Queen Elizabeth", "note": "Safari et croisière." },
+        { "days": "Jours 7 à 10", "place": "Bwindi", "note": "Gorilles, retour en vol léger." }
+      ]
+    },
+    {
+      "days": 6,
+      "title": "Gorilles express",
+      "for": ["energique"],
+      "steps": [
+        { "days": "Jour 1", "place": "Entebbe", "note": "Arrivée." },
+        { "days": "Jours 2 à 5", "place": "Bwindi et Bunyonyi", "note": "Vol léger aller-retour." },
+        { "days": "Jour 6", "place": "Entebbe", "note": "Retour." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "4x4 avec chauffeur-guide", "text": "La formule la plus sûre ; routes longues et difficiles." },
+    { "title": "Les vols légers", "text": "Depuis Entebbe vers les parcs, pour gagner des heures de route." }
+  ],
+  "culture": [
+    "Les Ougandais sont réputés pour leur accueil.",
+    "Les sacs plastiques sont interdits.",
+    "Demande avant de photographier quelqu'un."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Oli otya ? (luganda)", "say": "oli otya" },
+    { "fr": "Merci", "local": "Webale", "say": "wébalé" },
+    { "fr": "Bonjour (swahili)", "local": "Jambo", "say": "djambo" }
+  ],
+  "checklist": [
+    "Visa électronique",
+    "Certificat de vaccination contre la fièvre jaune",
+    "Permis gorilles et chimpanzés réservés tôt",
+    "Avis médical (paludisme)",
+    "Assurance avec évacuation sanitaire",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour l'Ouganda ?", "a": "Oui, un visa électronique (50 USD pour une entrée simple). Le certificat de vaccination contre la fièvre jaune est aussi obligatoire." },
+    { "q": "L'Ouganda est-il sûr ?", "a": "Les frontières avec la RDC et le Soudan du Sud sont formellement déconseillées. Les parcs se visitent en vigilance renforcée avec des opérateurs reconnus." },
+    { "q": "Quand voir les gorilles en Ouganda ?", "a": "Toute l'année, mais les saisons sèches (juin-septembre, décembre-février) rendent la marche plus facile." },
+    { "q": "Quel budget pour un voyage en Ouganda ?", "a": "Compte environ 240 à 800 $ par jour seul et 160 à 600 $ par personne à deux, hors vols et permis gorilles. Ces montants sont des estimations à vérifier." }
+  ]
+}
