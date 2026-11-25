@@ -46,12 +46,17 @@ export const legacyRedirects = {
   '/showcase/matching': '/app',
 };
 
+// Anciennes pages pays dont le guide n'est pas encore rédigé (sources officielles
+// à compléter) : on renvoie vers la liste des destinations plutôt que vers une 404.
+const PENDING_GUIDES = new Set(['france']);
+
 for (const slug of LEGACY_COUNTRY_SLUGS) {
-  legacyRedirects[`/guide-pays/${slug}`] = `/destinations/${slug}/`;
+  const target = PENDING_GUIDES.has(slug) ? '/destinations/' : `/destinations/${slug}/`;
+  legacyRedirects[`/guide-pays/${slug}`] = target;
   for (const lang of OLD_LANGS) {
-    legacyRedirects[`/guide-pays/${slug}/${lang}`] = `/destinations/${slug}/`;
+    legacyRedirects[`/guide-pays/${slug}/${lang}`] = target;
   }
   for (const [oldTopic, anchor] of Object.entries(OLD_TOPICS)) {
-    legacyRedirects[`/pays/${slug}/${oldTopic}`] = `/destinations/${slug}/#${anchor}`;
+    legacyRedirects[`/pays/${slug}/${oldTopic}`] = PENDING_GUIDES.has(slug) ? target : `${target}#${anchor}`;
   }
 }
