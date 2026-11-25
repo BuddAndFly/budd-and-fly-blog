@@ -8,7 +8,7 @@ publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
 hero: null
-destinations: ["japon", "slovenie", "irlande", "islande", "taiwan"]
+destinations: ["portugal", "slovenie", "irlande", "islande", "taiwan"]
 ---
 
 **Voyager seule est une expérience formidable, et la grande majorité des voyages se passent sans problème.** Quelques précautions, choisies sans tomber dans la paranoïa, permettent de profiter pleinement. Voici les conseils les plus utiles, issus de l'expérience de voyageuses et des recommandations officielles.
@@ -19,7 +19,7 @@ Commence par la fiche « Sécurité » de France Diplomatie, résumée dans chac
 
 Pour un premier voyage solo, privilégie :
 
-- les pays où la vigilance est **normale** : le [Japon](/destinations/japon/), la [Slovénie](/destinations/slovenie/), l'[Irlande](/destinations/irlande/), l'[Islande](/destinations/islande/), [Taïwan](/destinations/taiwan/) ;
+- les pays où la vigilance est **normale** : le [Portugal](/destinations/portugal/), la [Slovénie](/destinations/slovenie/), l'[Irlande](/destinations/irlande/), l'[Islande](/destinations/islande/), [Taïwan](/destinations/taiwan/) ;
 - les itinéraires fréquentés par d'autres voyageurs ;
 - les pays dont tu connais un peu la langue ou où l'anglais est répandu.
 

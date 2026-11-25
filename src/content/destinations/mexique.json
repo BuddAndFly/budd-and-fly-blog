@@ -12,7 +12,15 @@
     "title": "Guide Mexique : sécurité, quand partir, budget, itinéraires",
     "description": "Préparer un voyage au Mexique : régions sûres et déconseillées, meilleure saison, budget seul ou à deux, Mexico, Oaxaca, le Yucatán. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/mexique/hero.jpg",
+    "alt": "La pyramide El Castillo à Chichén Itzá",
+    "credit": {
+      "author": "Daniel Schwen",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg"
+    }
+  },
   "summary": "La meilleure période pour le Mexique va de novembre à mars, pendant la saison sèche. Les Français n'ont pas besoin de visa pour du tourisme. Les régions les plus visitées (Mexico, Oaxaca, le Yucatán et la Riviera Maya) sont en vigilance renforcée, mais plusieurs États du pays sont formellement déconseillés : vérifie toujours ton itinéraire avec la carte de France Diplomatie.",
   "essentials": {
     "bestPeriod": "Novembre à mars",
@@ -24,26 +32,78 @@
     "flight": "Environ 11 h 30 en vol direct depuis Paris pour Mexico ou Cancún"
   },
   "months": [
-    { "rating": 2, "note": "Saison sèche, ensoleillée et agréable partout. Nuits fraîches en altitude (Mexico, Oaxaca, San Cristóbal)." },
-    { "rating": 2, "note": "Toujours sec. L'un des meilleurs mois pour le Yucatán et la côte caraïbe." },
-    { "rating": 2, "note": "Chaud et sec. Équinoxe à Chichén Itzá, très fréquenté." },
-    { "rating": 1, "note": "La chaleur monte. La Semaine sainte, selon les années, remplit plages et transports." },
-    { "rating": 1, "note": "Le mois le plus chaud dans beaucoup de régions, avant les pluies. Les algues sargasses peuvent arriver sur la côte caraïbe." },
-    { "rating": 0, "note": "Début de la saison des pluies et de la saison des ouragans. Sargasses fréquentes sur la Riviera Maya." },
-    { "rating": 1, "note": "Pluies en averses l'après-midi, paysages verts. Vacances mexicaines." },
-    { "rating": 1, "note": "Comme en juillet. Surveille les alertes ouragans sur les côtes." },
-    { "rating": 0, "note": "Pic de la saison des ouragans et des pluies." },
-    { "rating": 1, "note": "Fin des pluies. Fin octobre, début des préparatifs du jour des Morts." },
-    { "rating": 2, "note": "Le jour des Morts (1er et 2 novembre), fête magnifique, surtout à Oaxaca. Retour du temps sec." },
-    { "rating": 2, "note": "Sec et ensoleillé, mais haute saison des fêtes : prix et fréquentation au plus haut à Noël." }
+    {
+      "rating": 2,
+      "note": "Saison sèche, ensoleillée et agréable partout. Nuits fraîches en altitude (Mexico, Oaxaca, San Cristóbal)."
+    },
+    {
+      "rating": 2,
+      "note": "Toujours sec. L'un des meilleurs mois pour le Yucatán et la côte caraïbe."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud et sec. Équinoxe à Chichén Itzá, très fréquenté."
+    },
+    {
+      "rating": 1,
+      "note": "La chaleur monte. La Semaine sainte, selon les années, remplit plages et transports."
+    },
+    {
+      "rating": 1,
+      "note": "Le mois le plus chaud dans beaucoup de régions, avant les pluies. Les algues sargasses peuvent arriver sur la côte caraïbe."
+    },
+    {
+      "rating": 0,
+      "note": "Début de la saison des pluies et de la saison des ouragans. Sargasses fréquentes sur la Riviera Maya."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies en averses l'après-midi, paysages verts. Vacances mexicaines."
+    },
+    {
+      "rating": 1,
+      "note": "Comme en juillet. Surveille les alertes ouragans sur les côtes."
+    },
+    {
+      "rating": 0,
+      "note": "Pic de la saison des ouragans et des pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies. Fin octobre, début des préparatifs du jour des Morts."
+    },
+    {
+      "rating": 2,
+      "note": "Le jour des Morts (1er et 2 novembre), fête magnifique, surtout à Oaxaca. Retour du temps sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et ensoleillé, mais haute saison des fêtes : prix et fréquentation au plus haut à Noël."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en pesos, par jour et par personne, hors vols internationaux. Convertis au taux du jour.",
     "rows": [
-      { "label": "Hébergement (petit hôtel, chambre d'hôtes)", "solo": "900 à 1 800 MXN", "duo": "550 à 1 100 MXN" },
-      { "label": "Repas (marchés, taquerias, restaurants)", "solo": "400 à 900 MXN", "duo": "400 à 900 MXN" },
-      { "label": "Transports locaux", "solo": "100 à 300 MXN", "duo": "80 à 250 MXN" },
-      { "label": "Visites et entrées", "solo": "100 à 400 MXN", "duo": "100 à 400 MXN" }
+      {
+        "label": "Hébergement (petit hôtel, chambre d'hôtes)",
+        "solo": "900 à 1 800 MXN",
+        "duo": "550 à 1 100 MXN"
+      },
+      {
+        "label": "Repas (marchés, taquerias, restaurants)",
+        "solo": "400 à 900 MXN",
+        "duo": "400 à 900 MXN"
+      },
+      {
+        "label": "Transports locaux",
+        "solo": "100 à 300 MXN",
+        "duo": "80 à 250 MXN"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "100 à 400 MXN",
+        "duo": "100 à 400 MXN"
+      }
     ],
     "totalSolo": "1 500 à 3 400 MXN",
     "totalDuo": "1 130 à 2 650 MXN",
@@ -61,7 +121,10 @@
       "Quintana Roo (Cancún, Tulum, Playa del Carmen) : taxe de séjour obligatoire pour les touristes étrangers, à payer en ligne, avec un justificatif demandé à la sortie.",
       "Préfère entrer dans le pays par avion plutôt que par voie terrestre."
     ],
-    "source": { "label": "France Diplomatie, Mexique, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mexique/" },
+    "source": {
+      "label": "France Diplomatie, Mexique, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mexique/"
+    },
     "checkedAt": "2026-11-23"
   },
   "health": {
@@ -73,7 +136,10 @@
       "Paludisme : demande conseil à un médecin selon les régions visitées.",
       "Assurance santé et rapatriement indispensable."
     ],
-    "source": { "label": "France Diplomatie, Mexique, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mexique/" },
+    "source": {
+      "label": "France Diplomatie, Mexique, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mexique/"
+    },
     "checkedAt": "2026-11-23"
   },
   "safety": {
@@ -86,7 +152,10 @@
       "La plupart des accidents de Français ont lieu sur les routes des régions touristiques (Yucatán, Chiapas, littoral). En cas d'accident, le conducteur peut être retenu jusqu'à la fin de l'enquête.",
       "Avant de partir, consulte la carte de vigilance à jour de France Diplomatie : la situation évolue souvent."
     ],
-    "source": { "label": "France Diplomatie, Mexique, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mexique/" },
+    "source": {
+      "label": "France Diplomatie, Mexique, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mexique/"
+    },
     "checkedAt": "2026-11-23"
   },
   "cities": [
@@ -94,18 +163,40 @@
       "slug": "mexico",
       "name": "Mexico",
       "nights": "3 à 4 nuits",
-      "for": ["energique", "stratege", "tous"],
+      "for": [
+        "energique",
+        "stratege",
+        "tous"
+      ],
       "summary": "Une mégapole fascinante : centre historique aztèque et colonial, musées parmi les plus beaux du continent, quartiers verts et gastronomie.",
       "sleep": "Roma ou Condesa pour les rues arborées, les cafés et la sécurité relative, le centre historique pour les monuments.",
       "see": [
-        { "name": "Le Zócalo et le Templo Mayor", "note": "La place centrale et les ruines du grand temple aztèque." },
-        { "name": "Le musée national d'anthropologie", "note": "Le plus important musée des civilisations précolombiennes." },
-        { "name": "Teotihuacan", "note": "Les pyramides du Soleil et de la Lune, à 1 h de route. Viens à l'ouverture." },
-        { "name": "La Casa Azul de Frida Kahlo", "note": "À Coyoacán. Billets en ligne, souvent complets plusieurs jours à l'avance." }
+        {
+          "name": "Le Zócalo et le Templo Mayor",
+          "note": "La place centrale et les ruines du grand temple aztèque."
+        },
+        {
+          "name": "Le musée national d'anthropologie",
+          "note": "Le plus important musée des civilisations précolombiennes."
+        },
+        {
+          "name": "Teotihuacan",
+          "note": "Les pyramides du Soleil et de la Lune, à 1 h de route. Viens à l'ouverture."
+        },
+        {
+          "name": "La Casa Azul de Frida Kahlo",
+          "note": "À Coyoacán. Billets en ligne, souvent complets plusieurs jours à l'avance."
+        }
       ],
       "hidden": [
-        { "name": "Xochimilco", "note": "Les canaux et leurs barques colorées, plus calmes en semaine." },
-        { "name": "Le marché de San Juan", "note": "Pour les produits rares et les dégustations." }
+        {
+          "name": "Xochimilco",
+          "note": "Les canaux et leurs barques colorées, plus calmes en semaine."
+        },
+        {
+          "name": "Le marché de San Juan",
+          "note": "Pour les produits rares et les dégustations."
+        }
       ],
       "eat": "Les tacos al pastor, les marchés couverts et les cantinas traditionnelles.",
       "getAround": "Métro très bon marché mais bondé aux heures de pointe ; VTC par application pour le soir.",
@@ -115,16 +206,31 @@
       "slug": "oaxaca",
       "name": "Oaxaca",
       "nights": "3 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Une ville coloniale colorée, capitale de la gastronomie et de l'artisanat, entourée de villages et de sites zapotèques.",
       "sleep": "Dans le centre historique, autour de l'église Santo Domingo.",
       "see": [
-        { "name": "Monte Albán", "note": "L'ancienne capitale zapotèque, sur une montagne qui domine la vallée." },
-        { "name": "L'église Santo Domingo", "note": "Baroque et dorée, avec un jardin botanique et un musée." },
-        { "name": "Hierve el Agua", "note": "Des cascades pétrifiées et des piscines naturelles." }
+        {
+          "name": "Monte Albán",
+          "note": "L'ancienne capitale zapotèque, sur une montagne qui domine la vallée."
+        },
+        {
+          "name": "L'église Santo Domingo",
+          "note": "Baroque et dorée, avec un jardin botanique et un musée."
+        },
+        {
+          "name": "Hierve el Agua",
+          "note": "Des cascades pétrifiées et des piscines naturelles."
+        }
       ],
       "hidden": [
-        { "name": "Les villages d'artisans", "note": "Tissage à Teotitlán del Valle, poterie noire à San Bartolo Coyotepec." }
+        {
+          "name": "Les villages d'artisans",
+          "note": "Tissage à Teotitlán del Valle, poterie noire à San Bartolo Coyotepec."
+        }
       ],
       "eat": "Les sept moles (sauces), la tlayuda, le chocolat chaud et le mezcal.",
       "getAround": "À pied dans le centre, colectivos et taxis pour les environs.",
@@ -134,16 +240,31 @@
       "slug": "merida",
       "name": "Mérida et le Yucatán",
       "nights": "3 nuits",
-      "for": ["stratege", "lent"],
+      "for": [
+        "stratege",
+        "lent"
+      ],
       "summary": "La capitale du Yucatán, élégante et paisible, base idéale pour les sites mayas et les cenotes.",
       "sleep": "Dans le centre historique, près de la place principale ou du Paseo de Montejo.",
       "see": [
-        { "name": "Chichén Itzá", "note": "La pyramide de Kukulcán. Arrive à l'ouverture pour éviter chaleur et foule." },
-        { "name": "Uxmal", "note": "Un site maya plus calme et très bien conservé." },
-        { "name": "Les cenotes", "note": "Puits naturels où l'on se baigne, comme ceux de Homún." }
+        {
+          "name": "Chichén Itzá",
+          "note": "La pyramide de Kukulcán. Arrive à l'ouverture pour éviter chaleur et foule."
+        },
+        {
+          "name": "Uxmal",
+          "note": "Un site maya plus calme et très bien conservé."
+        },
+        {
+          "name": "Les cenotes",
+          "note": "Puits naturels où l'on se baigne, comme ceux de Homún."
+        }
       ],
       "hidden": [
-        { "name": "Izamal", "note": "La ville jaune, avec son couvent et une pyramide en pleine ville." }
+        {
+          "name": "Izamal",
+          "note": "La ville jaune, avec son couvent et une pyramide en pleine ville."
+        }
       ],
       "eat": "La cochinita pibil (porc mariné cuit à l'étouffée) et les panuchos.",
       "getAround": "Voiture de location ou bus de première classe entre les villes. Ne roule pas de nuit.",
@@ -153,16 +274,31 @@
       "slug": "riviera-maya",
       "name": "La Riviera Maya (Tulum, Playa del Carmen)",
       "nights": "3 à 4 nuits",
-      "for": ["energique", "lent"],
+      "for": [
+        "energique",
+        "lent"
+      ],
       "summary": "Mer des Caraïbes turquoise, ruines au bord de l'eau et cenotes dans la jungle. Très touristique et plus chère que le reste du pays.",
       "sleep": "Tulum pour l'ambiance bohème, Playa del Carmen pour l'animation, Bacalar pour le calme au bord d'une lagune.",
       "see": [
-        { "name": "Les ruines de Tulum", "note": "Un site maya sur la falaise au-dessus de la mer." },
-        { "name": "Les cenotes autour de Tulum", "note": "Gran Cenote, Dos Ojos, pour nager ou plonger." },
-        { "name": "La lagune de Bacalar", "note": "La « lagune aux sept couleurs », plus au sud." }
+        {
+          "name": "Les ruines de Tulum",
+          "note": "Un site maya sur la falaise au-dessus de la mer."
+        },
+        {
+          "name": "Les cenotes autour de Tulum",
+          "note": "Gran Cenote, Dos Ojos, pour nager ou plonger."
+        },
+        {
+          "name": "La lagune de Bacalar",
+          "note": "La « lagune aux sept couleurs », plus au sud."
+        }
       ],
       "hidden": [
-        { "name": "La réserve de Sian Ka'an", "note": "Mangroves, dauphins et oiseaux, au sud de Tulum." }
+        {
+          "name": "La réserve de Sian Ka'an",
+          "note": "Mangroves, dauphins et oiseaux, au sud de Tulum."
+        }
       ],
       "eat": "Ceviches et tacos de poisson.",
       "getAround": "Bus ADO entre les villes, le nouveau train maya, ou voiture.",
@@ -172,13 +308,25 @@
       "slug": "san-cristobal",
       "name": "San Cristóbal de las Casas",
       "nights": "2 nuits",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "Une ville coloniale de montagne au Chiapas, au cœur des cultures mayas vivantes. À visiter avec une vigilance particulière.",
       "sleep": "Dans le centre, autour des rues piétonnes.",
       "see": [
-        { "name": "Le centre historique", "note": "Églises colorées et marchés artisanaux." },
-        { "name": "Le canyon du Sumidero", "note": "En bateau, depuis Chiapa de Corzo près de Tuxtla Gutiérrez." },
-        { "name": "Les villages tzotzils", "note": "San Juan Chamula et Zinacantán, avec un guide local." }
+        {
+          "name": "Le centre historique",
+          "note": "Églises colorées et marchés artisanaux."
+        },
+        {
+          "name": "Le canyon du Sumidero",
+          "note": "En bateau, depuis Chiapa de Corzo près de Tuxtla Gutiérrez."
+        },
+        {
+          "name": "Les villages tzotzils",
+          "note": "San Juan Chamula et Zinacantán, avec un guide local."
+        }
       ],
       "hidden": [],
       "eat": "Les tamales et le café du Chiapas.",
@@ -190,39 +338,95 @@
     {
       "days": 14,
       "title": "Mexico, Oaxaca et le Yucatán",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Mexico", "note": "Avec Teotihuacan." },
-        { "days": "Jours 5 à 7", "place": "Oaxaca", "note": "En avion ou en bus de première classe." },
-        { "days": "Jours 8 à 10", "place": "Mérida", "note": "Vol depuis Oaxaca via Mexico. Chichén Itzá, Uxmal, cenotes." },
-        { "days": "Jours 11 à 14", "place": "Tulum ou Bacalar", "note": "Retour depuis Cancún." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Mexico",
+          "note": "Avec Teotihuacan."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Oaxaca",
+          "note": "En avion ou en bus de première classe."
+        },
+        {
+          "days": "Jours 8 à 10",
+          "place": "Mérida",
+          "note": "Vol depuis Oaxaca via Mexico. Chichén Itzá, Uxmal, cenotes."
+        },
+        {
+          "days": "Jours 11 à 14",
+          "place": "Tulum ou Bacalar",
+          "note": "Retour depuis Cancún."
+        }
       ]
     },
     {
       "days": 10,
       "title": "Le Yucatán",
-      "for": ["lent", "explorateur"],
+      "for": [
+        "lent",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Mérida", "note": "Uxmal et Izamal." },
-        { "days": "Jours 4 et 5", "place": "Valladolid", "note": "Chichén Itzá et cenotes." },
-        { "days": "Jours 6 à 10", "place": "Tulum et Bacalar", "note": "Ruines, mer, lagune. Retour depuis Cancún." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Mérida",
+          "note": "Uxmal et Izamal."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Valladolid",
+          "note": "Chichén Itzá et cenotes."
+        },
+        {
+          "days": "Jours 6 à 10",
+          "place": "Tulum et Bacalar",
+          "note": "Ruines, mer, lagune. Retour depuis Cancún."
+        }
       ]
     },
     {
       "days": 7,
       "title": "Mexico intense",
-      "for": ["energique"],
+      "for": [
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Mexico", "note": "Musées, quartiers, Teotihuacan, Xochimilco." },
-        { "days": "Jours 5 à 7", "place": "Oaxaca", "note": "Monte Albán et mezcal." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Mexico",
+          "note": "Musées, quartiers, Teotihuacan, Xochimilco."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Oaxaca",
+          "note": "Monte Albán et mezcal."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les bus de première classe", "text": "Confortables, sûrs et ponctuels entre les grandes villes. Préfère-les aux bus de deuxième classe et voyage de jour." },
-    { "title": "L'avion", "text": "Les vols intérieurs font gagner beaucoup de temps et évitent de traverser des régions déconseillées par la route." },
-    { "title": "Le train maya", "text": "Il relie les principales villes et sites du Yucatán et de la Riviera Maya." },
-    { "title": "En voiture", "text": "Possible dans le Yucatán. Jamais de nuit, attention aux ralentisseurs (topes) non signalés, et souscris une assurance responsabilité civile locale." }
+    {
+      "title": "Les bus de première classe",
+      "text": "Confortables, sûrs et ponctuels entre les grandes villes. Préfère-les aux bus de deuxième classe et voyage de jour."
+    },
+    {
+      "title": "L'avion",
+      "text": "Les vols intérieurs font gagner beaucoup de temps et évitent de traverser des régions déconseillées par la route."
+    },
+    {
+      "title": "Le train maya",
+      "text": "Il relie les principales villes et sites du Yucatán et de la Riviera Maya."
+    },
+    {
+      "title": "En voiture",
+      "text": "Possible dans le Yucatán. Jamais de nuit, attention aux ralentisseurs (topes) non signalés, et souscris une assurance responsabilité civile locale."
+    }
   ],
   "culture": [
     "Le pourboire est attendu : 10 à 15 % au restaurant.",
@@ -231,11 +435,31 @@
     "L'eau du robinet ne se boit pas : eau en bouteille ou filtrée."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Buenos días", "say": "bouénoss dias" },
-    { "fr": "Merci beaucoup", "local": "Muchas gracias", "say": "moutchass grassiass" },
-    { "fr": "L'addition, s'il vous plaît", "local": "La cuenta, por favor", "say": "la couenta, por favor" },
-    { "fr": "Pas trop épicé", "local": "No muy picante", "say": "no mouï picanté" },
-    { "fr": "D'accord", "local": "Sale / Va", "say": "salé / ba" }
+    {
+      "fr": "Bonjour",
+      "local": "Buenos días",
+      "say": "bouénoss dias"
+    },
+    {
+      "fr": "Merci beaucoup",
+      "local": "Muchas gracias",
+      "say": "moutchass grassiass"
+    },
+    {
+      "fr": "L'addition, s'il vous plaît",
+      "local": "La cuenta, por favor",
+      "say": "la couenta, por favor"
+    },
+    {
+      "fr": "Pas trop épicé",
+      "local": "No muy picante",
+      "say": "no mouï picanté"
+    },
+    {
+      "fr": "D'accord",
+      "local": "Sale / Va",
+      "say": "salé / ba"
+    }
   ],
   "checklist": [
     "Passeport valide pendant tout le séjour, à garder sur soi",
@@ -248,9 +472,21 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour le Mexique ?", "a": "Non, les Français n'ont pas besoin de visa pour du tourisme, dans la limite de 180 jours. L'agent fixe la durée à l'arrivée et peut demander billet retour, réservations et moyens de subsistance." },
-    { "q": "Le Mexique est-il dangereux ?", "a": "Les régions les plus visitées (Mexico, Oaxaca, Yucatán, Riviera Maya) sont en vigilance renforcée, comme le reste du pays. Plusieurs États (Tamaulipas, Guerrero, Colima, sud du Michoacán…) sont formellement déconseillés. Vérifie la carte de France Diplomatie avant de partir et évite la route la nuit." },
-    { "q": "Quelle est la meilleure période pour le Mexique ?", "a": "De novembre à mars, pendant la saison sèche. De juin à octobre, c'est la saison des pluies et des ouragans, et les sargasses touchent souvent la côte caraïbe." },
-    { "q": "Quel budget pour deux semaines au Mexique ?", "a": "Compte environ 1 500 à 3 400 MXN par jour seul et 1 130 à 2 650 MXN par personne à deux, hors vols. La Riviera Maya est la région la plus chère. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour le Mexique ?",
+      "a": "Non, les Français n'ont pas besoin de visa pour du tourisme, dans la limite de 180 jours. L'agent fixe la durée à l'arrivée et peut demander billet retour, réservations et moyens de subsistance."
+    },
+    {
+      "q": "Le Mexique est-il dangereux ?",
+      "a": "Les régions les plus visitées (Mexico, Oaxaca, Yucatán, Riviera Maya) sont en vigilance renforcée, comme le reste du pays. Plusieurs États (Tamaulipas, Guerrero, Colima, sud du Michoacán…) sont formellement déconseillés. Vérifie la carte de France Diplomatie avant de partir et évite la route la nuit."
+    },
+    {
+      "q": "Quelle est la meilleure période pour le Mexique ?",
+      "a": "De novembre à mars, pendant la saison sèche. De juin à octobre, c'est la saison des pluies et des ouragans, et les sargasses touchent souvent la côte caraïbe."
+    },
+    {
+      "q": "Quel budget pour deux semaines au Mexique ?",
+      "a": "Compte environ 1 500 à 3 400 MXN par jour seul et 1 130 à 2 650 MXN par personne à deux, hors vols. La Riviera Maya est la région la plus chère. Ces montants sont des estimations à vérifier."
+    }
   ]
 }
