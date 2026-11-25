@@ -12,7 +12,15 @@
     "title": "Guide Islande : quand partir, budget, road trip, aurores",
     "description": "Préparer un voyage en Islande : été ou hiver, aurores boréales, budget seul ou à deux, Reykjavik, côte sud, glaciers, Mývatn. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/islande/hero.jpg",
+    "alt": "Le mont Kirkjufell et sa cascade, en Islande",
+    "credit": {
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kirkjufell,_Iceland,_20240714_1631_0713.jpg"
+    }
+  },
   "summary": "L'Islande se visite de juin à septembre pour les longues journées et les routes ouvertes, ou de septembre à mars pour les aurores boréales. Une carte d'identité suffit. C'est l'une des destinations les plus chères d'Europe : à deux, partager la voiture et l'hébergement change tout.",
   "essentials": {
     "bestPeriod": "Juin à septembre (aurores de septembre à mars)",
@@ -24,26 +32,78 @@
     "flight": "Environ 3 h 15 depuis Paris pour Keflavík"
   },
   "months": [
-    { "rating": 1, "note": "4 à 5 heures de jour, routes souvent enneigées, mais aurores boréales et grottes de glace." },
-    { "rating": 1, "note": "Comme en janvier, avec des journées qui rallongent. Tempêtes fréquentes." },
-    { "rating": 1, "note": "Bon compromis pour les aurores : plus de lumière le jour, nuits encore noires." },
-    { "rating": 1, "note": "Le printemps arrive, routes de montagne encore fermées. Peu de monde." },
-    { "rating": 1, "note": "Longues journées, paysages encore bruns, macareux qui arrivent en fin de mois." },
-    { "rating": 2, "note": "Soleil de minuit, macareux, cascades à plein débit." },
-    { "rating": 2, "note": "Le plus doux et le plus fréquenté. Les pistes des hautes terres (routes F) ouvrent." },
-    { "rating": 2, "note": "Encore de longues journées, toutes les routes ouvertes. Haute saison." },
-    { "rating": 2, "note": "Moins de monde, couleurs d'automne, et le retour des aurores boréales." },
-    { "rating": 1, "note": "Journées plus courtes, météo changeante, aurores fréquentes." },
-    { "rating": 1, "note": "Sombre et venteux, routes parfois fermées. Bon pour les aurores et Reykjavik." },
-    { "rating": 1, "note": "Journées très courtes, ambiance de Noël à Reykjavik. Conduite hivernale exigeante." }
+    {
+      "rating": 1,
+      "note": "4 à 5 heures de jour, routes souvent enneigées, mais aurores boréales et grottes de glace."
+    },
+    {
+      "rating": 1,
+      "note": "Comme en janvier, avec des journées qui rallongent. Tempêtes fréquentes."
+    },
+    {
+      "rating": 1,
+      "note": "Bon compromis pour les aurores : plus de lumière le jour, nuits encore noires."
+    },
+    {
+      "rating": 1,
+      "note": "Le printemps arrive, routes de montagne encore fermées. Peu de monde."
+    },
+    {
+      "rating": 1,
+      "note": "Longues journées, paysages encore bruns, macareux qui arrivent en fin de mois."
+    },
+    {
+      "rating": 2,
+      "note": "Soleil de minuit, macareux, cascades à plein débit."
+    },
+    {
+      "rating": 2,
+      "note": "Le plus doux et le plus fréquenté. Les pistes des hautes terres (routes F) ouvrent."
+    },
+    {
+      "rating": 2,
+      "note": "Encore de longues journées, toutes les routes ouvertes. Haute saison."
+    },
+    {
+      "rating": 2,
+      "note": "Moins de monde, couleurs d'automne, et le retour des aurores boréales."
+    },
+    {
+      "rating": 1,
+      "note": "Journées plus courtes, météo changeante, aurores fréquentes."
+    },
+    {
+      "rating": 1,
+      "note": "Sombre et venteux, routes parfois fermées. Bon pour les aurores et Reykjavik."
+    },
+    {
+      "rating": 1,
+      "note": "Journées très courtes, ambiance de Noël à Reykjavik. Conduite hivernale exigeante."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en couronnes islandaises, par jour et par personne, hors vols et location de voiture. Convertis au taux du jour.",
     "rows": [
-      { "label": "Hébergement (guesthouse ou hôtel simple)", "solo": "25 000 à 45 000 kr", "duo": "16 000 à 28 000 kr" },
-      { "label": "Repas", "solo": "7 000 à 12 000 kr", "duo": "7 000 à 12 000 kr" },
-      { "label": "Carburant et transports", "solo": "2 000 à 5 000 kr", "duo": "1 000 à 3 000 kr" },
-      { "label": "Visites et bains chauds", "solo": "2 000 à 8 000 kr", "duo": "2 000 à 8 000 kr" }
+      {
+        "label": "Hébergement (guesthouse ou hôtel simple)",
+        "solo": "25 000 à 45 000 kr",
+        "duo": "16 000 à 28 000 kr"
+      },
+      {
+        "label": "Repas",
+        "solo": "7 000 à 12 000 kr",
+        "duo": "7 000 à 12 000 kr"
+      },
+      {
+        "label": "Carburant et transports",
+        "solo": "2 000 à 5 000 kr",
+        "duo": "1 000 à 3 000 kr"
+      },
+      {
+        "label": "Visites et bains chauds",
+        "solo": "2 000 à 8 000 kr",
+        "duo": "2 000 à 8 000 kr"
+      }
     ],
     "totalSolo": "36 000 à 70 000 kr",
     "totalDuo": "26 000 à 51 000 kr",
@@ -57,7 +117,10 @@
       "Les cartes d'identité 2004-2013 prolongées de 5 ans posent parfois problème : préfère un passeport valide.",
       "Les importations d'alcool, de tabac et de produits animaux sont réglementées : consulte le site des douanes islandaises avant d'emporter de la nourriture."
     ],
-    "source": { "label": "France Diplomatie, Islande, Entrée / séjour (mise à jour du 14 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/islande/" },
+    "source": {
+      "label": "France Diplomatie, Islande, Entrée / séjour (mise à jour du 14 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/islande/"
+    },
     "checkedAt": "2026-11-24"
   },
   "health": {
@@ -68,7 +131,10 @@
       "Pour un long séjour en hiver, des compléments en vitamine D sont recommandés.",
       "Protège-toi du froid et du vent, même en été."
     ],
-    "source": { "label": "France Diplomatie, Islande, Santé (mise à jour du 14 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/islande/" },
+    "source": {
+      "label": "France Diplomatie, Islande, Santé (mise à jour du 14 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/islande/"
+    },
     "checkedAt": "2026-11-24"
   },
   "safety": {
@@ -80,7 +146,10 @@
       "Pickpockets en hausse sur les sites les plus fréquentés.",
       "Ne t'approche pas des vagues sur les plages de sable noir (Reynisfjara) : des « vagues traîtresses » emportent des visiteurs chaque année."
     ],
-    "source": { "label": "France Diplomatie, Islande, Sécurité (mise à jour du 14 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/islande/" },
+    "source": {
+      "label": "France Diplomatie, Islande, Sécurité (mise à jour du 14 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/islande/"
+    },
     "checkedAt": "2026-11-24"
   },
   "cities": [
@@ -88,16 +157,31 @@
       "slug": "reykjavik",
       "name": "Reykjavik",
       "nights": "2 nuits",
-      "for": ["tous", "energique"],
+      "for": [
+        "tous",
+        "energique"
+      ],
       "summary": "Une petite capitale colorée et créative, point de départ de tous les road trips.",
       "sleep": "Dans le centre, autour de Laugavegur, tout se fait à pied.",
       "see": [
-        { "name": "L'église Hallgrímskirkja", "note": "Et la vue depuis sa tour sur les toits colorés." },
-        { "name": "Harpa", "note": "La salle de concert aux façades de verre sur le port." },
-        { "name": "Les piscines municipales", "note": "Bains chauds en plein air, comme les Islandais, pour quelques euros." }
+        {
+          "name": "L'église Hallgrímskirkja",
+          "note": "Et la vue depuis sa tour sur les toits colorés."
+        },
+        {
+          "name": "Harpa",
+          "note": "La salle de concert aux façades de verre sur le port."
+        },
+        {
+          "name": "Les piscines municipales",
+          "note": "Bains chauds en plein air, comme les Islandais, pour quelques euros."
+        }
       ],
       "hidden": [
-        { "name": "Le phare de Grótta", "note": "Un spot pour les aurores, à deux pas de la ville." }
+        {
+          "name": "Le phare de Grótta",
+          "note": "Un spot pour les aurores, à deux pas de la ville."
+        }
       ],
       "eat": "Le hot-dog islandais, la soupe d'agneau et le skyr.",
       "getAround": "À pied ; bus Flybus depuis l'aéroport de Keflavík (45 minutes).",
@@ -107,17 +191,34 @@
       "slug": "cercle-d-or",
       "name": "Le Cercle d'or",
       "nights": "1 nuit",
-      "for": ["tous"],
+      "for": [
+        "tous"
+      ],
       "summary": "Le circuit le plus célèbre du pays : un parc national entre deux plaques tectoniques, un geyser et une cascade spectaculaire.",
       "sleep": "Dans une guesthouse de la région, pour visiter avant les cars d'excursion.",
       "see": [
-        { "name": "Þingvellir", "note": "La faille entre les plaques américaine et eurasienne, et le site du premier parlement." },
-        { "name": "Geysir et Strokkur", "note": "Strokkur jaillit toutes les 5 à 10 minutes." },
-        { "name": "Gullfoss", "note": "La « chute d'or », en deux paliers." }
+        {
+          "name": "Þingvellir",
+          "note": "La faille entre les plaques américaine et eurasienne, et le site du premier parlement."
+        },
+        {
+          "name": "Geysir et Strokkur",
+          "note": "Strokkur jaillit toutes les 5 à 10 minutes."
+        },
+        {
+          "name": "Gullfoss",
+          "note": "La « chute d'or », en deux paliers."
+        }
       ],
       "hidden": [
-        { "name": "Silfra", "note": "Plongée ou snorkeling dans l'eau glaciale et cristalline de la faille." },
-        { "name": "Le cratère de Kerið", "note": "Un lac bleu dans un cratère rouge." }
+        {
+          "name": "Silfra",
+          "note": "Plongée ou snorkeling dans l'eau glaciale et cristalline de la faille."
+        },
+        {
+          "name": "Le cratère de Kerið",
+          "note": "Un lac bleu dans un cratère rouge."
+        }
       ],
       "eat": "Les fermes-restaurants de la région, avec tomates de serre géothermique.",
       "getAround": "En voiture, depuis Reykjavik. Faisable en une journée.",
@@ -127,16 +228,31 @@
       "slug": "cote-sud",
       "name": "La côte sud (Vík)",
       "nights": "2 nuits",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "summary": "Cascades, plages de sable noir et glaciers le long de la route 1.",
       "sleep": "Autour de Vík ou de Skógar.",
       "see": [
-        { "name": "Seljalandsfoss et Skógafoss", "note": "Deux cascades : on passe derrière la première." },
-        { "name": "La plage de Reynisfjara", "note": "Orgues basaltiques et sable noir. Reste loin des vagues." },
-        { "name": "Le glacier de Sólheimajökull", "note": "Randonnée sur glace avec un guide équipé." }
+        {
+          "name": "Seljalandsfoss et Skógafoss",
+          "note": "Deux cascades : on passe derrière la première."
+        },
+        {
+          "name": "La plage de Reynisfjara",
+          "note": "Orgues basaltiques et sable noir. Reste loin des vagues."
+        },
+        {
+          "name": "Le glacier de Sólheimajökull",
+          "note": "Randonnée sur glace avec un guide équipé."
+        }
       ],
       "hidden": [
-        { "name": "Le canyon de Fjaðrárgljúfur", "note": "Un canyon vert et sinueux, parfois fermé pour protéger la végétation." }
+        {
+          "name": "Le canyon de Fjaðrárgljúfur",
+          "note": "Un canyon vert et sinueux, parfois fermé pour protéger la végétation."
+        }
       ],
       "eat": "Les rares restaurants de Vík ; prévois des courses.",
       "getAround": "En voiture par la route 1, très fréquentée en été.",
@@ -146,16 +262,31 @@
       "slug": "jokulsarlon",
       "name": "Jökulsárlón et le Vatnajökull",
       "nights": "1 à 2 nuits",
-      "for": ["lent", "explorateur"],
+      "for": [
+        "lent",
+        "explorateur"
+      ],
       "summary": "Le lagon glaciaire où flottent des icebergs, et la plage de diamants où ils échouent sur le sable noir.",
       "sleep": "À Höfn ou dans les fermes autour de Skaftafell.",
       "see": [
-        { "name": "Le lagon de Jökulsárlón", "note": "Icebergs et phoques, en bateau en été." },
-        { "name": "La plage de diamants", "note": "Les blocs de glace sur le sable noir, au lever du soleil." },
-        { "name": "Skaftafell", "note": "Randonnées vers le glacier et la cascade de Svartifoss." }
+        {
+          "name": "Le lagon de Jökulsárlón",
+          "note": "Icebergs et phoques, en bateau en été."
+        },
+        {
+          "name": "La plage de diamants",
+          "note": "Les blocs de glace sur le sable noir, au lever du soleil."
+        },
+        {
+          "name": "Skaftafell",
+          "note": "Randonnées vers le glacier et la cascade de Svartifoss."
+        }
       ],
       "hidden": [
-        { "name": "Fjallsárlón", "note": "Un lagon voisin, plus petit et plus calme." }
+        {
+          "name": "Fjallsárlón",
+          "note": "Un lagon voisin, plus petit et plus calme."
+        }
       ],
       "eat": "Le homard de Höfn, spécialité locale.",
       "getAround": "En voiture, à environ 5 h de Reykjavik.",
@@ -165,16 +296,31 @@
       "slug": "myvatn",
       "name": "Mývatn et le nord",
       "nights": "2 nuits",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "Paysages volcaniques, bains naturels, et la plus puissante cascade d'Europe.",
       "sleep": "Autour du lac Mývatn ou à Akureyri.",
       "see": [
-        { "name": "Dettifoss", "note": "La chute la plus puissante d'Europe." },
-        { "name": "Hverir", "note": "Fumerolles et mares de boue bouillonnante." },
-        { "name": "Les bains naturels de Mývatn", "note": "Plus calmes et moins chers que le Blue Lagoon." }
+        {
+          "name": "Dettifoss",
+          "note": "La chute la plus puissante d'Europe."
+        },
+        {
+          "name": "Hverir",
+          "note": "Fumerolles et mares de boue bouillonnante."
+        },
+        {
+          "name": "Les bains naturels de Mývatn",
+          "note": "Plus calmes et moins chers que le Blue Lagoon."
+        }
       ],
       "hidden": [
-        { "name": "Húsavík", "note": "Le port de l'observation des baleines." }
+        {
+          "name": "Húsavík",
+          "note": "Le port de l'observation des baleines."
+        }
       ],
       "eat": "Le pain de seigle cuit dans le sol chaud, et la truite fumée.",
       "getAround": "En voiture par la route 1, ou vol intérieur vers Akureyri.",
@@ -185,43 +331,116 @@
     {
       "days": 7,
       "title": "L'ouest et la côte sud",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Reykjavik", "note": "Ville et piscines." },
-        { "days": "Jour 3", "place": "Le Cercle d'or", "note": "Þingvellir, Geysir, Gullfoss." },
-        { "days": "Jours 4 et 5", "place": "La côte sud", "note": "Cascades et Vík." },
-        { "days": "Jour 6", "place": "Jökulsárlón", "note": "Aller-retour long, ou nuit sur place." },
-        { "days": "Jour 7", "place": "Retour à Reykjavik", "note": "Vol de retour." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Reykjavik",
+          "note": "Ville et piscines."
+        },
+        {
+          "days": "Jour 3",
+          "place": "Le Cercle d'or",
+          "note": "Þingvellir, Geysir, Gullfoss."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "La côte sud",
+          "note": "Cascades et Vík."
+        },
+        {
+          "days": "Jour 6",
+          "place": "Jökulsárlón",
+          "note": "Aller-retour long, ou nuit sur place."
+        },
+        {
+          "days": "Jour 7",
+          "place": "Retour à Reykjavik",
+          "note": "Vol de retour."
+        }
       ]
     },
     {
       "days": 14,
       "title": "Le tour de l'île par la route 1",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Reykjavik et Cercle d'or", "note": "Mise en route." },
-        { "days": "Jours 3 à 5", "place": "Côte sud et Jökulsárlón", "note": "Cascades et glaciers." },
-        { "days": "Jours 6 et 7", "place": "Les fjords de l'est", "note": "Routes côtières, villages." },
-        { "days": "Jours 8 à 10", "place": "Mývatn et Húsavík", "note": "Volcans et baleines." },
-        { "days": "Jours 11 à 14", "place": "Snæfellsnes et retour", "note": "Le volcan Snæfellsjökull." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Reykjavik et Cercle d'or",
+          "note": "Mise en route."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Côte sud et Jökulsárlón",
+          "note": "Cascades et glaciers."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Les fjords de l'est",
+          "note": "Routes côtières, villages."
+        },
+        {
+          "days": "Jours 8 à 10",
+          "place": "Mývatn et Húsavík",
+          "note": "Volcans et baleines."
+        },
+        {
+          "days": "Jours 11 à 14",
+          "place": "Snæfellsnes et retour",
+          "note": "Le volcan Snæfellsjökull."
+        }
       ]
     },
     {
       "days": 5,
       "title": "Aurores en hiver",
-      "for": ["lent", "energique"],
+      "for": [
+        "lent",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Reykjavik", "note": "Sorties aurores organisées le soir." },
-        { "days": "Jours 3 et 4", "place": "Côte sud", "note": "Avec un guide ou une voiture 4x4 et de l'expérience." },
-        { "days": "Jour 5", "place": "Retour", "note": "Garde une marge pour la météo." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Reykjavik",
+          "note": "Sorties aurores organisées le soir."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Côte sud",
+          "note": "Avec un guide ou une voiture 4x4 et de l'expérience."
+        },
+        {
+          "days": "Jour 5",
+          "place": "Retour",
+          "note": "Garde une marge pour la météo."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "En voiture", "text": "Le meilleur moyen de visiter. En hiver, pneus cloutés et expérience de la neige indispensables. Les routes F (hautes terres) demandent un 4x4 et ne sont ouvertes qu'en été." },
-    { "title": "Les excursions", "text": "Depuis Reykjavik, en car ou minibus, pour le Cercle d'or, la côte sud et les aurores." },
-    { "title": "Les bus", "text": "Un réseau existe autour de l'île en été, mais avec peu de passages." },
-    { "title": "Les vols intérieurs", "text": "Reykjavik-Akureyri ou Egilsstaðir pour gagner du temps." }
+    {
+      "title": "En voiture",
+      "text": "Le meilleur moyen de visiter. En hiver, pneus cloutés et expérience de la neige indispensables. Les routes F (hautes terres) demandent un 4x4 et ne sont ouvertes qu'en été."
+    },
+    {
+      "title": "Les excursions",
+      "text": "Depuis Reykjavik, en car ou minibus, pour le Cercle d'or, la côte sud et les aurores."
+    },
+    {
+      "title": "Les bus",
+      "text": "Un réseau existe autour de l'île en été, mais avec peu de passages."
+    },
+    {
+      "title": "Les vols intérieurs",
+      "text": "Reykjavik-Akureyri ou Egilsstaðir pour gagner du temps."
+    }
   ],
   "culture": [
     "Dans les piscines et bains, on se douche entièrement nu avant d'entrer dans l'eau : c'est une règle stricte.",
@@ -231,9 +450,21 @@
     "L'eau du robinet est excellente : inutile d'acheter de l'eau en bouteille."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Halló / Góðan daginn", "say": "hallo / goadann daïnn" },
-    { "fr": "Merci", "local": "Takk", "say": "tak" },
-    { "fr": "Santé !", "local": "Skál!", "say": "skaoul" }
+    {
+      "fr": "Bonjour",
+      "local": "Halló / Góðan daginn",
+      "say": "hallo / goadann daïnn"
+    },
+    {
+      "fr": "Merci",
+      "local": "Takk",
+      "say": "tak"
+    },
+    {
+      "fr": "Santé !",
+      "local": "Skál!",
+      "say": "skaoul"
+    }
   ],
   "checklist": [
     "Carte d'identité ou passeport valable pendant tout le séjour",
@@ -245,9 +476,21 @@
     "Masque de sommeil en été (soleil de minuit)"
   ],
   "faq": [
-    { "q": "Faut-il un passeport pour l'Islande ?", "a": "Non, une carte d'identité valable pendant tout le séjour suffit : l'Islande fait partie de l'espace Schengen." },
-    { "q": "Quand voir des aurores boréales en Islande ?", "a": "De septembre à mars, par nuit noire et ciel dégagé, loin des lumières des villes. Il faut de la patience : elles ne sont jamais garanties." },
-    { "q": "Quel budget pour une semaine en Islande ?", "a": "Compte environ 36 000 à 70 000 kr par jour seul et 26 000 à 51 000 kr par personne à deux, hors vols et voiture. C'est l'une des destinations les plus chères d'Europe. Ces montants sont des estimations à vérifier." },
-    { "q": "Faut-il un 4x4 en Islande ?", "a": "Non pour la route 1 en été. Oui pour les routes F des hautes terres (ouvertes seulement en été) et recommandé en hiver, avec une vraie expérience de la conduite sur neige et glace." }
+    {
+      "q": "Faut-il un passeport pour l'Islande ?",
+      "a": "Non, une carte d'identité valable pendant tout le séjour suffit : l'Islande fait partie de l'espace Schengen."
+    },
+    {
+      "q": "Quand voir des aurores boréales en Islande ?",
+      "a": "De septembre à mars, par nuit noire et ciel dégagé, loin des lumières des villes. Il faut de la patience : elles ne sont jamais garanties."
+    },
+    {
+      "q": "Quel budget pour une semaine en Islande ?",
+      "a": "Compte environ 36 000 à 70 000 kr par jour seul et 26 000 à 51 000 kr par personne à deux, hors vols et voiture. C'est l'une des destinations les plus chères d'Europe. Ces montants sont des estimations à vérifier."
+    },
+    {
+      "q": "Faut-il un 4x4 en Islande ?",
+      "a": "Non pour la route 1 en été. Oui pour les routes F des hautes terres (ouvertes seulement en été) et recommandé en hiver, avec une vraie expérience de la conduite sur neige et glace."
+    }
   ]
 }

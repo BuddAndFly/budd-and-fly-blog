@@ -1,0 +1,38 @@
+---
+title: "Au-delà de l'Europe : 10 pays qui valent le long voyage"
+seoTitle: "Voyage lointain : 10 pays qui valent les heures de vol"
+description: "Japon, Pérou, Namibie, Nouvelle-Zélande, Népal : 10 pays lointains qui justifient le long vol, avec la meilleure saison et le temps conseillé sur place."
+category: "Idées de voyage"
+status: "brouillon"
+publishedAt: "2026-11-25"
+updatedAt: "2026-11-25"
+author: null
+hero: null
+destinations: ["japon", "perou", "namibie", "nouvelle-zelande", "nepal", "sri-lanka", "mexique", "tanzanie", "chili", "vietnam"]
+---
+
+**Un long-courrier se justifie quand la destination offre quelque chose d'impossible à trouver plus près.** Voici dix pays qui valent chaque heure de vol, avec la durée minimale conseillée pour en profiter.
+
+| Pays | Pourquoi y aller | Durée conseillée | Meilleure saison |
+|---|---|---|---|
+| [Japon](/destinations/japon/) | Un autre monde, d'une efficacité absolue | 2 semaines | Printemps, automne |
+| [Pérou](/destinations/perou/) | Le Machu Picchu et les Andes | 2 à 3 semaines | Mai à septembre |
+| [Namibie](/destinations/namibie/) | Les dunes rouges et Etosha en road trip | 2 semaines | Mai à octobre |
+| [Nouvelle-Zélande](/destinations/nouvelle-zelande/) | Fjords, volcans et glaciers | 3 semaines | Novembre à avril |
+| [Népal](/destinations/nepal/) | Les treks de l'Himalaya | 2 à 3 semaines | Octobre-novembre, mars-avril |
+| [Sri Lanka](/destinations/sri-lanka/) | Temples, thé et plages dans un petit pays | 2 semaines | Selon la côte |
+| [Mexique](/destinations/mexique/) | Sites mayas, cenotes et cuisine | 2 semaines | Novembre à avril |
+| [Tanzanie](/destinations/tanzanie/) | Serengeti, Kilimandjaro et Zanzibar | 10 jours à 2 semaines | Juin à octobre |
+| [Chili](/destinations/chili/) | Du désert d'Atacama à la Patagonie | 2 à 3 semaines | Novembre à mars |
+| [Vietnam](/destinations/vietnam/) | Baie d'Ha Long, rizières et street-food | 2 à 3 semaines | Selon la région |
+
+## Rentabiliser un long vol
+
+- **Pars au moins deux semaines** : le décalage horaire et les trajets mangent vite une semaine.
+- **Combine deux pays voisins** quand c'est possible : Pérou et Bolivie, Tanzanie et Kenya, Vietnam et Cambodge.
+- **Choisis la bonne saison** : une saison des pluies peut gâcher un voyage lointain. Le calendrier de chaque guide t'aide.
+- **Prépare les formalités tôt** : visas, autorisations électroniques et vaccins demandent parfois plusieurs semaines.
+
+## Avant de réserver
+
+Lis la rubrique sécurité du guide : plusieurs de ces pays ont des zones déconseillées, souvent frontalières. Et vérifie ton assurance, indispensable loin de chez soi.
