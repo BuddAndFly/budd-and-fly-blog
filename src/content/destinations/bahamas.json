@@ -1,0 +1,188 @@
+{
+  "name": "Bahamas",
+  "prep": "aux Bahamas",
+  "kind": "pays",
+  "continent": "Amérique centrale et Caraïbes",
+  "priority": 99,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Bahamas : Exumas, Eleuthera, Nassau",
+    "description": "Préparer un voyage aux Bahamas : passeport 6 mois, transit par les États-Unis, sécurité, meilleure saison, budget, Nassau, Exumas, Eleuthera. PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Les Bahamas se visitent de décembre à mai, hors saison cyclonique. Le passeport doit être valable 6 mois après le départ, et le transit par les États-Unis impose les formalités américaines. Tout l'archipel est en vigilance renforcée, avec une recrudescence de violences à Nassau et Freeport : les Out Islands, comme les Exumas et Eleuthera, offrent les plus belles eaux des Caraïbes.",
+  "essentials": {
+    "bestPeriod": "Décembre à mai",
+    "languages": "Anglais",
+    "currency": "Dollar bahaméen (BSD), à parité avec le dollar américain (accepté partout)",
+    "timeDiff": "-6 h toute l'année",
+    "plugs": "Types A et B, 120 V : adaptateur nécessaire",
+    "emergency": "919 ou 911",
+    "flight": "Environ 12 h depuis Paris pour Nassau, avec une escale (souvent aux États-Unis)"
+  },
+  "months": [
+    { "rating": 2, "note": "Sec et doux." },
+    { "rating": 2, "note": "Idéal." },
+    { "rating": 2, "note": "Sec." },
+    { "rating": 2, "note": "Excellent, mer calme." },
+    { "rating": 2, "note": "Chaud, fin de la haute saison." },
+    { "rating": 1, "note": "Début de la saison cyclonique." },
+    { "rating": 1, "note": "Chaud et humide." },
+    { "rating": 0, "note": "Cyclones possibles." },
+    { "rating": 0, "note": "Pic de la saison cyclonique." },
+    { "rating": 0, "note": "Cyclones encore possibles." },
+    { "rating": 1, "note": "Fin de la saison cyclonique." },
+    { "rating": 2, "note": "Retour du beau temps ; Junkanoo le 26 décembre." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols.",
+    "rows": [
+      { "label": "Hébergement (guesthouse, location)", "solo": "120 à 300 $", "duo": "75 à 180 $" },
+      { "label": "Repas", "solo": "40 à 90 $", "duo": "40 à 90 $" },
+      { "label": "Transports (vols inter-îles, ferry, voiture)", "solo": "30 à 120 $", "duo": "20 à 80 $" },
+      { "label": "Excursions en bateau", "solo": "30 à 150 $", "duo": "30 à 150 $" }
+    ],
+    "totalSolo": "220 à 660 $",
+    "totalDuo": "165 à 500 $",
+    "note": "L'archipel est cher : presque tout est importé. Les ferries de Bahamas Ferries sont moins chers que les vols entre les îles.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Il faut un passeport valable 6 mois après la date de départ des Bahamas.",
+    "points": [
+      "En transit par les États-Unis, les compagnies refusent l'embarquement si cette règle n'est pas respectée.",
+      "Tout transit par les États-Unis impose les règles d'accès américaines (passeport électronique et autorisation ESTA, ou visa)."
+    ],
+    "source": { "label": "France Diplomatie, Bahamas, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bahamas/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est obligatoire en arrivant de France ; la fièvre jaune l'est si tu viens d'une zone d'endémie.",
+    "points": [
+      "Dengue : protection contre les moustiques.",
+      "Soleil intense : protection solaire.",
+      "Assurance couvrant hospitalisation et évacuation indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Bahamas, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bahamas/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Tout l'archipel est en vigilance renforcée. Il n'y a pas d'ambassade de France sur place : tu es responsable de ta propre sécurité.",
+    "points": [
+      "Recrudescence des violences contre les personnes à Nassau (New Providence) et Freeport (Grand Bahama) : cambriolages, vols à main armée, agressions. Vigilance maximale.",
+      "Le consulat général de France à Miami est compétent ; un consul honoraire peut être joint à Nassau en cas d'urgence.",
+      "Saison cyclonique de juin à novembre."
+    ],
+    "source": { "label": "France Diplomatie, Bahamas, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bahamas/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "exumas",
+      "name": "Les Exumas",
+      "nights": "4 nuits",
+      "for": ["lent", "tous"],
+      "summary": "Une chaîne de cayes aux eaux turquoise, ses bancs de sable et ses célèbres cochons nageurs.",
+      "sleep": "À George Town (Great Exuma) ou Staniel Cay.",
+      "see": [
+        { "name": "Le parc marin de l'Exuma Cays", "note": "Snorkeling dans un parc protégé." },
+        { "name": "La grotte de Thunderball", "note": "Snorkeling dans une grotte marine." },
+        { "name": "Les bancs de sable de l'Exuma", "note": "En bateau à marée basse." }
+      ],
+      "hidden": [],
+      "eat": "La salade de conque et le poisson grillé.",
+      "getAround": "Vol depuis Nassau, puis bateau.",
+      "tip": "Évite de nourrir les cochons et requins : c'est mauvais pour les animaux."
+    },
+    {
+      "slug": "eleuthera",
+      "name": "Eleuthera et Harbour Island",
+      "nights": "4 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "Une île longue et calme, ses plages de sable rose et ses villages coloniaux.",
+      "sleep": "À Governor's Harbour ou Harbour Island.",
+      "see": [
+        { "name": "Pink Sands Beach", "note": "Le sable rosé de Harbour Island." },
+        { "name": "Le Glass Window Bridge", "note": "Un pont entre l'océan bleu foncé et les eaux turquoise." },
+        { "name": "Les Queen's Baths", "note": "Des piscines naturelles dans la roche." }
+      ],
+      "hidden": [
+        { "name": "Lighthouse Beach", "note": "Au bout de l'île, par une piste." }
+      ],
+      "eat": "Les pâtisseries à l'ananas d'Eleuthera.",
+      "getAround": "Voiture et bateau-taxi pour Harbour Island.",
+      "tip": "Une voiture est indispensable sur Eleuthera."
+    },
+    {
+      "slug": "nassau",
+      "name": "Nassau",
+      "nights": "1 à 2 nuits",
+      "for": ["stratege"],
+      "summary": "La capitale coloniale, ses forts et le port de croisière, point d'entrée de l'archipel.",
+      "sleep": "À Cable Beach ou dans le centre, dans un hôtel sûr.",
+      "see": [
+        { "name": "Le Queen's Staircase", "note": "Un escalier taillé par des esclaves." },
+        { "name": "Le fort Fincastle", "note": "Vue sur le port." },
+        { "name": "Arawak Cay", "note": "Le « Fish Fry », cabanes de poisson frit." }
+      ],
+      "hidden": [],
+      "eat": "Le conch fritter (beignet de conque).",
+      "getAround": "Taxis ; ne marche pas seul le soir.",
+      "tip": "Sois très vigilant à Nassau, surtout la nuit."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Exumas et Eleuthera",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jour 1", "place": "Nassau", "note": "Arrivée." },
+        { "days": "Jours 2 à 5", "place": "Exumas", "note": "Vol." },
+        { "days": "Jours 6 à 9", "place": "Eleuthera", "note": "Ferry ou vol via Nassau." },
+        { "days": "Jour 10", "place": "Retour", "note": "Par Nassau." }
+      ]
+    },
+    {
+      "days": 6,
+      "title": "Exumas express",
+      "for": ["energique"],
+      "steps": [
+        { "days": "Jour 1", "place": "Nassau", "note": "Arrivée." },
+        { "days": "Jours 2 à 6", "place": "Exumas", "note": "Retour par Nassau." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les vols inter-îles", "text": "Le moyen principal, souvent via Nassau." },
+    { "title": "Les ferries", "text": "Moins chers, plus lents." },
+    { "title": "En voiture", "text": "Conduite à gauche." }
+  ],
+  "culture": [
+    "La fête du Junkanoo (26 décembre et 1er janvier) est un défilé spectaculaire.",
+    "Le dollar américain circule partout.",
+    "Le rythme des « Out Islands » est très lent : profite-en."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Good morning", "say": "goud morning" },
+    { "fr": "Merci", "local": "Thank you", "say": "thank you" },
+    { "fr": "Ça va ?", "local": "How ya doin'?", "say": "haou ya douinn" }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois après le départ",
+    "ESTA si transit par les États-Unis",
+    "Assurance hospitalisation et évacuation",
+    "Crème solaire respectueuse des récifs",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Quelles formalités pour les Bahamas ?", "a": "Un passeport valable 6 mois après le départ. En transit par les États-Unis, il faut aussi respecter les règles américaines (ESTA ou visa)." },
+    { "q": "Les Bahamas sont-elles sûres ?", "a": "L'archipel est en vigilance renforcée ; les violences augmentent à Nassau et Freeport. Les petites îles sont plus calmes." },
+    { "q": "Quand partir aux Bahamas ?", "a": "De décembre à mai. De juin à novembre, c'est la saison cyclonique." },
+    { "q": "Quel budget pour 10 jours aux Bahamas ?", "a": "Compte environ 220 à 660 $ par jour seul et 165 à 500 $ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}
