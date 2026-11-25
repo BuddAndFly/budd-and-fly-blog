@@ -1,0 +1,195 @@
+{
+  "name": "Mongolie",
+  "prep": "en Mongolie",
+  "kind": "pays",
+  "continent": "Asie",
+  "priority": 88,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Mongolie : Gobi, steppe, Naadam, sans visa",
+    "description": "Préparer un voyage en Mongolie : 30 jours sans visa jusqu'à fin 2026, sécurité, meilleure saison, budget, Oulan-Bator, Gobi, vallée de l'Orkhon. PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Mongolie se visite de juin à septembre ; l'hiver dure près de huit mois et peut descendre à -40 °C. Jusqu'au 31 décembre 2026, les touristes français peuvent y rester 30 jours sans visa. Le pays est en vigilance renforcée à cause des distances, des routes et de la faiblesse des structures médicales : une très bonne assurance est impérative.",
+  "essentials": {
+    "bestPeriod": "Juin à septembre",
+    "languages": "Mongol (alphabet cyrillique ; peu d'anglais)",
+    "currency": "Tugrik (MNT)",
+    "timeDiff": "+7 h en hiver, +6 h en été",
+    "plugs": "Types C et E, 230 V : comme en France",
+    "emergency": "Police 102 · Ambulance 103",
+    "flight": "Environ 10 h depuis Paris pour Oulan-Bator, avec une escale"
+  },
+  "months": [
+    { "rating": 0, "note": "Grand froid, jusqu'à -40 °C." },
+    { "rating": 0, "note": "Comme en janvier ; Nouvel An lunaire (Tsagaan Sar)." },
+    { "rating": 0, "note": "Fin de l'hiver, festival de l'aigle de glace parfois." },
+    { "rating": 1, "note": "Printemps venteux et sec." },
+    { "rating": 1, "note": "La steppe reverdit, vent." },
+    { "rating": 2, "note": "Début de la belle saison." },
+    { "rating": 2, "note": "Fête du Naadam (11-13 juillet) : lutte, archerie, courses de chevaux." },
+    { "rating": 2, "note": "Steppe verte, quelques pluies." },
+    { "rating": 2, "note": "Couleurs d'automne, festival de l'aigle en début d'automne à l'ouest." },
+    { "rating": 1, "note": "Froid qui arrive, festival de l'aigle à Ölgii." },
+    { "rating": 0, "note": "Hiver." },
+    { "rating": 0, "note": "Hiver." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols : les circuits en 4x4 se paient souvent en dollars.",
+    "rows": [
+      { "label": "Hébergement (yourte de famille ou camp)", "solo": "20 à 80 $", "duo": "15 à 60 $" },
+      { "label": "Repas", "solo": "10 à 25 $", "duo": "10 à 25 $" },
+      { "label": "4x4 avec chauffeur et guide", "solo": "80 à 160 $", "duo": "45 à 90 $" },
+      { "label": "Entrées des parcs et activités", "solo": "5 à 30 $", "duo": "5 à 30 $" }
+    ],
+    "totalSolo": "115 à 295 $",
+    "totalDuo": "75 à 205 $",
+    "note": "Le 4x4 avec chauffeur est indispensable et se partage : à 4 ou 5, le coût par personne chute. Les nuits en yourte chez l'habitant sont bon marché.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Jusqu'au 31 décembre 2026, les touristes français peuvent séjourner jusqu'à 30 jours consécutifs sans visa à chaque entrée.",
+    "points": [
+      "Prolongation possible de 30 jours, payante, en ligne ou auprès de l'Agence de l'immigration, au moins 5 jours ouvrés avant l'expiration.",
+      "Pour un voyage non touristique, le visa reste obligatoire.",
+      "Une loi de 2017 oblige les étrangers à porter leur passeport en permanence."
+    ],
+    "source": { "label": "France Diplomatie, Mongolie, Entrée / séjour et Sécurité (mise à jour du 24 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mongolie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France. Les structures médicales sont faibles hors de la capitale.",
+    "points": [
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale. Attention aux chiens de garde des campements.",
+      "Encéphalite à tiques : selon les conditions de séjour.",
+      "Assurance maladie et rapatriement avec correspondants en Mongolie impérative."
+    ],
+    "source": { "label": "France Diplomatie, Mongolie, Santé (mise à jour du 24 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mongolie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Tout le territoire est en vigilance renforcée en raison des distances, de l'infrastructure routière et de la faiblesse des structures médicales.",
+    "points": [
+      "Souscris un excellent contrat d'assurance maladie et rapatriement, avec des correspondants présents en Mongolie, et garde leurs coordonnées sur toi.",
+      "Ne transporte pas tous tes papiers et ton argent dans un même sac.",
+      "Froid extrême en hiver : ne voyage qu'avec un équipement de survie."
+    ],
+    "source": { "label": "France Diplomatie, Mongolie, Sécurité (mise à jour du 24 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mongolie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "oulan-bator",
+      "name": "Oulan-Bator",
+      "nights": "2 nuits",
+      "for": ["stratege", "tous"],
+      "summary": "Une capitale entre monastères bouddhistes, immeubles soviétiques et quartiers de yourtes.",
+      "sleep": "Dans le centre, près de la place Gengis Khan.",
+      "see": [
+        { "name": "Le monastère de Gandan", "note": "Et sa grande statue de bouddha." },
+        { "name": "Le musée national", "note": "L'histoire de l'Empire mongol." },
+        { "name": "La statue équestre de Gengis Khan", "note": "Géante, à 1 h de la ville." }
+      ],
+      "hidden": [
+        { "name": "Le parc de Terelj", "note": "Rochers, rivière et premières yourtes à 1 h 30." }
+      ],
+      "eat": "Les buuz (raviolis vapeur) et le khuushuur (beignets à la viande).",
+      "getAround": "Taxis ; trafic très dense.",
+      "tip": "Organise ton circuit en 4x4 avec une agence reconnue avant d'arriver."
+    },
+    {
+      "slug": "gobi",
+      "name": "Le désert de Gobi",
+      "nights": "4 à 5 nuits",
+      "for": ["explorateur", "tous"],
+      "summary": "Des dunes chantantes, des falaises rouges riches en fossiles et des canyons glacés.",
+      "sleep": "En yourte de camp ou chez des éleveurs nomades.",
+      "see": [
+        { "name": "Les dunes de Khongor", "note": "Hautes de 300 m." },
+        { "name": "Les falaises de Bayanzag", "note": "Où furent découverts des œufs de dinosaures." },
+        { "name": "La vallée de Yolyn Am", "note": "Un canyon où la glace persiste en été." }
+      ],
+      "hidden": [
+        { "name": "Tsagaan Suvarga", "note": "Des falaises érodées aux couleurs pastel." }
+      ],
+      "eat": "Le lait de chamelle fermenté chez les éleveurs.",
+      "getAround": "4x4 avec chauffeur (UAZ ou Land Cruiser).",
+      "tip": "Les journées de piste sont longues : prévois de quoi t'occuper et des médicaments contre le mal des transports."
+    },
+    {
+      "slug": "orkhon-kharkhorin",
+      "name": "La vallée de l'Orkhon et Kharkhorin",
+      "nights": "3 nuits",
+      "for": ["lent", "explorateur"],
+      "summary": "L'ancienne capitale de l'empire, son monastère et une vallée de cascades et d'éleveurs.",
+      "sleep": "En yourte dans la vallée.",
+      "see": [
+        { "name": "Le monastère d'Erdene Zuu", "note": "Le plus ancien du pays, à Kharkhorin." },
+        { "name": "La cascade de l'Orkhon", "note": "Dans une vallée classée à l'Unesco." },
+        { "name": "Les sources chaudes de Tsenkher", "note": "Baignade en pleine nature." }
+      ],
+      "hidden": [
+        { "name": "Le lac Khövsgöl", "note": "La « perle bleue » au nord, accessible en avion." }
+      ],
+      "eat": "Le khorkhog (viande cuite avec des pierres chaudes).",
+      "getAround": "4x4 avec chauffeur.",
+      "tip": "Une balade à cheval avec les éleveurs est le meilleur moment du voyage."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 14,
+      "title": "Gobi et Orkhon",
+      "for": ["tous", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Oulan-Bator", "note": "Arrivée." },
+        { "days": "Jours 3 à 8", "place": "Gobi", "note": "Tsagaan Suvarga, Yolyn Am, Khongor, Bayanzag." },
+        { "days": "Jours 9 à 12", "place": "Orkhon et Kharkhorin", "note": "Cascades et monastère." },
+        { "days": "Jours 13 et 14", "place": "Terelj", "note": "Retour à Oulan-Bator." }
+      ]
+    },
+    {
+      "days": 7,
+      "title": "La steppe autour de la capitale",
+      "for": ["lent"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Oulan-Bator", "note": "Arrivée." },
+        { "days": "Jours 3 à 5", "place": "Terelj", "note": "Yourtes et chevaux." },
+        { "days": "Jours 6 et 7", "place": "Khustai", "note": "Chevaux de Przewalski, retour." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "4x4 avec chauffeur", "text": "Indispensable hors de la capitale : la plupart des routes sont des pistes." },
+    { "title": "Les vols intérieurs", "text": "Vers le Khövsgöl ou l'ouest (Ölgii)." },
+    { "title": "Le Transsibérien", "text": "La ligne transmongole relie Pékin, Oulan-Bator et la Russie (Russie formellement déconseillée)." }
+  ],
+  "culture": [
+    "On reçoit et on donne avec la main droite, la gauche soutenant le coude.",
+    "Dans la yourte, on circule dans le sens des aiguilles d'une montre et on ne marche pas sur le seuil.",
+    "Accepte au moins une gorgée de ce qu'on t'offre."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Сайн байна уу", "say": "saïn baïnouou" },
+    { "fr": "Merci", "local": "Баярлалаа", "say": "bayarlalaa" },
+    { "fr": "Au revoir", "local": "Баяртай", "say": "bayartaï" }
+  ],
+  "checklist": [
+    "Passeport valide, porté sur soi en permanence",
+    "30 jours sans visa jusqu'au 31/12/2026",
+    "Assurance avec correspondants en Mongolie",
+    "Sac de couchage chaud et couches",
+    "Circuit en 4x4 réservé auprès d'une agence reconnue",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour la Mongolie ?", "a": "Non pour 30 jours de tourisme jusqu'au 31 décembre 2026, prolongeable sur place. Vérifie la règle pour les voyages après cette date." },
+    { "q": "La Mongolie est-elle sûre ?", "a": "Le pays est en vigilance renforcée à cause des distances, des pistes et des structures médicales faibles. Une très bonne assurance est impérative." },
+    { "q": "Quand partir en Mongolie ?", "a": "De juin à septembre ; mi-juillet pour la fête du Naadam." },
+    { "q": "Quel budget pour deux semaines en Mongolie ?", "a": "Compte environ 115 à 295 $ par jour seul et 75 à 205 $ par personne à deux, 4x4 compris, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

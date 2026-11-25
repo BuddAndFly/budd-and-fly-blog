@@ -1,0 +1,195 @@
+{
+  "name": "Kirghizistan",
+  "prep": "au Kirghizistan",
+  "kind": "pays",
+  "continent": "Asie",
+  "priority": 87,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Kirghizistan : yourtes, Issyk-Koul, trek",
+    "description": "Préparer un voyage au Kirghizistan : 30 jours sans visa, sécurité, meilleure saison, budget, Bichkek, Issyk-Koul, Karakol, Song-Kul, treks. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Kirghizistan se visite de juin à septembre, quand les alpages et les lacs d'altitude sont accessibles. Pas de visa pour 30 jours (puis 30 jours d'attente avant de revenir). Le pays est en vigilance renforcée mais les risques sont limités ; l'ambassade n'a pas de service consulaire. Nuits en yourte, chevaux et lacs de montagne : la destination nomade par excellence.",
+  "essentials": {
+    "bestPeriod": "Juin à septembre",
+    "languages": "Kirghiz et russe (peu d'anglais hors des villes)",
+    "currency": "Som (KGS)",
+    "timeDiff": "+5 h en hiver, +4 h en été",
+    "plugs": "Types C et F, 220 V : comme en France",
+    "emergency": "Police 102 · Ambulance 103 · Secours 112",
+    "flight": "Environ 8 h depuis Paris pour Bichkek, avec une escale"
+  },
+  "months": [
+    { "rating": 0, "note": "Hiver rude, ski à Karakol." },
+    { "rating": 0, "note": "Comme en janvier." },
+    { "rating": 0, "note": "Fin de l'hiver ; fête de Nooruz le 21 mars." },
+    { "rating": 1, "note": "Printemps en plaine, montagnes enneigées." },
+    { "rating": 1, "note": "Vert en vallée, cols encore fermés." },
+    { "rating": 2, "note": "Les nomades montent aux alpages." },
+    { "rating": 2, "note": "Le meilleur mois : yourtes et randonnées." },
+    { "rating": 2, "note": "Haute saison, jeux nomades certains années." },
+    { "rating": 2, "note": "Couleurs d'automne, premiers froids." },
+    { "rating": 1, "note": "Les camps de yourtes ferment." },
+    { "rating": 0, "note": "Froid." },
+    { "rating": 0, "note": "Hiver." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en soms, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (guesthouse ou yourte)", "solo": "1 500 à 4 000 som", "duo": "1 000 à 2 800 som" },
+      { "label": "Repas", "solo": "800 à 1 800 som", "duo": "800 à 1 800 som" },
+      { "label": "Transports (marchroutka, chauffeur)", "solo": "500 à 3 000 som", "duo": "300 à 1 800 som" },
+      { "label": "Guides, chevaux, entrées", "solo": "500 à 3 000 som", "duo": "500 à 3 000 som" }
+    ],
+    "totalSolo": "3 300 à 11 800 som",
+    "totalDuo": "2 600 à 9 400 som",
+    "note": "Très abordable. Les camps de yourtes incluent souvent les repas. Un chauffeur pour les routes de montagne se partage.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pas de visa pour un séjour touristique de 30 jours maximum. Après 30 jours sur le territoire, il faut attendre 30 jours avant de revenir sans visa.",
+    "points": [
+      "Évite tout dépassement : amende, signalement négatif et visa de sortie obligatoire.",
+      "Par précaution, quitte le pays un jour avant la fin de la période autorisée.",
+      "Il n'existe pas de visa touristique au-delà de 30 jours."
+    ],
+    "source": { "label": "France Diplomatie, Kirghizstan, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kirghizstan/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est exigé en arrivant de France. Prévois une assurance couvrant les secours en montagne.",
+    "points": [
+      "Assistance médicale couvrant secours en montagne et rapatriement indispensable.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Encéphalite à tiques : en cas de randonnées et de séjours à la campagne.",
+      "Altitude et froid : équipe-toi, même l'été."
+    ],
+    "source": { "label": "France Diplomatie, Kirghizstan, Santé et Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kirghizstan/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée, mais les risques sont limités (naturels, sanitaires, petite délinquance) et ne compromettent pas le tourisme.",
+    "points": [
+      "L'ambassade de France à Bichkek n'a pas de service consulaire : en cas de perte de passeport, l'ambassade d'Allemagne peut délivrer un laissez-passer ; les autres démarches relèvent de l'ambassade à Astana.",
+      "Zone sismique, notamment près des frontières chinoise et tadjike, autour de l'Issyk-Koul et dans la vallée de Fergana.",
+      "Accidents de la route très fréquents : prudence au volant et choix de chauffeurs fiables."
+    ],
+    "source": { "label": "France Diplomatie, Kirghizstan, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kirghizstan/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "bichkek",
+      "name": "Bichkek",
+      "nights": "2 nuits",
+      "for": ["stratege", "tous"],
+      "summary": "Une capitale verte aux avenues soviétiques, porte d'entrée des montagnes.",
+      "sleep": "Dans le centre, près de la place Ala-Too.",
+      "see": [
+        { "name": "Le bazar Osh", "note": "Le grand marché de la ville." },
+        { "name": "Le parc national d'Ala-Archa", "note": "Glaciers et sentiers à 40 km." },
+        { "name": "La place Ala-Too", "note": "Relève de la garde." }
+      ],
+      "hidden": [
+        { "name": "La tour de Burana", "note": "Un minaret du XIe siècle et des stèles anciennes." }
+      ],
+      "eat": "Le beshbarmak (pâtes et viande) et le lagman (nouilles).",
+      "getAround": "Taxis par application et marchroutkas.",
+      "tip": "Organise chauffeurs et camps de yourtes depuis Bichkek, via les agences et les associations de tourisme communautaire."
+    },
+    {
+      "slug": "issyk-koul-karakol",
+      "name": "L'Issyk-Koul et Karakol",
+      "nights": "4 nuits",
+      "for": ["explorateur", "energique"],
+      "summary": "Un immense lac d'altitude qui ne gèle jamais, et Karakol, base des plus belles randonnées.",
+      "sleep": "À Karakol, puis en refuge ou yourte en montagne.",
+      "see": [
+        { "name": "Le trek d'Ala-Kul", "note": "Un lac turquoise à 3 500 m, 3 jours." },
+        { "name": "Le canyon de Skazka", "note": "Des formations rouges « de conte de fées »." },
+        { "name": "La vallée de Jeti-Oguz", "note": "Les falaises des Sept Taureaux." }
+      ],
+      "hidden": [
+        { "name": "Altyn-Arashan", "note": "Des sources chaudes dans une vallée alpine." }
+      ],
+      "eat": "L'ashlyamfu de Karakol, soupe froide dounganne.",
+      "getAround": "Marchroutka ou chauffeur depuis Bichkek, à pied ou à cheval en montagne.",
+      "tip": "Le trek d'Ala-Kul demande une bonne condition : pars avec un guide ou une agence locale."
+    },
+    {
+      "slug": "song-kul",
+      "name": "Le lac Song-Kul",
+      "nights": "2 nuits",
+      "for": ["lent", "tous"],
+      "summary": "Un lac à 3 000 m entouré d'alpages où les familles nomades installent leurs yourtes l'été.",
+      "sleep": "En yourte chez des familles nomades.",
+      "see": [
+        { "name": "Les alpages de Song-Kul", "note": "Troupeaux et chevaux à perte de vue." },
+        { "name": "Une randonnée à cheval", "note": "Depuis Kochkor ou Kyzart." },
+        { "name": "Le ciel étoilé", "note": "Sans aucune lumière." }
+      ],
+      "hidden": [
+        { "name": "Le caravansérail de Tash Rabat", "note": "Une étape de la Route de la soie." }
+      ],
+      "eat": "Le kumis (lait de jument fermenté) et le pain cuit sur place.",
+      "getAround": "4x4 depuis Kochkor, ou à cheval.",
+      "tip": "Ouvert de juin à septembre seulement : les nuits sont froides, même en été."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 12,
+      "title": "Lacs et yourtes",
+      "for": ["tous", "explorateur"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Bichkek", "note": "Arrivée et Ala-Archa." },
+        { "days": "Jours 3 à 5", "place": "Song-Kul", "note": "Par Kochkor." },
+        { "days": "Jours 6 à 10", "place": "Karakol", "note": "Trek d'Ala-Kul." },
+        { "days": "Jours 11 et 12", "place": "Rive sud de l'Issyk-Koul", "note": "Skazka, retour à Bichkek." }
+      ]
+    },
+    {
+      "days": 7,
+      "title": "Kirghizistan express",
+      "for": ["energique"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Bichkek", "note": "Arrivée." },
+        { "days": "Jours 3 et 4", "place": "Song-Kul", "note": "Nuit en yourte." },
+        { "days": "Jours 5 à 7", "place": "Karakol", "note": "Retour à Bichkek." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les marchroutkas", "text": "Minibus bon marché entre les villes." },
+    { "title": "Chauffeur privé ou taxi partagé", "text": "Pour les routes de montagne ; choisis un conducteur prudent." },
+    { "title": "À cheval", "text": "Le moyen le plus authentique de rejoindre les alpages." }
+  ],
+  "culture": [
+    "L'hospitalité nomade est généreuse : on t'offrira thé, pain et kumis.",
+    "Dans la yourte, la place d'honneur est au fond, face à l'entrée.",
+    "Le russe reste très utile pour communiquer."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Саламатсызбы", "say": "salamatsyzby" },
+    { "fr": "Merci", "local": "Рахмат", "say": "rakhmat" },
+    { "fr": "Bonjour (russe)", "local": "Здравствуйте", "say": "zdrastvouïtié" }
+  ],
+  "checklist": [
+    "Passeport valide (30 jours sans visa)",
+    "Assurance secours en montagne et rapatriement",
+    "Sac de couchage chaud et vêtements de pluie",
+    "Espèces en soms hors des villes",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour le Kirghizistan ?", "a": "Non pour 30 jours. Après 30 jours, il faut attendre 30 jours avant de revenir sans visa." },
+    { "q": "Le Kirghizistan est-il sûr ?", "a": "Le pays est en vigilance renforcée, mais les risques sont limités et ne compromettent pas le tourisme. Les routes sont le principal danger." },
+    { "q": "Quand partir au Kirghizistan ?", "a": "De juin à septembre, quand les camps de yourtes et les sentiers d'altitude sont ouverts." },
+    { "q": "Quel budget pour deux semaines au Kirghizistan ?", "a": "Compte environ 3 300 à 11 800 som par jour seul et 2 600 à 9 400 som par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}
