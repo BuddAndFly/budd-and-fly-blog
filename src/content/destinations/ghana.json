@@ -1,0 +1,195 @@
+{
+  "name": "Ghana",
+  "prep": "au Ghana",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 105,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Ghana : Accra, Cape Coast, Kumasi, visa",
+    "description": "Préparer un voyage au Ghana : visa avant le départ, zones déconseillées, meilleure saison, budget, Accra, Cape Coast, Kakum, Kumasi. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Ghana se visite de novembre à mars, en saison sèche. Le visa doit être obtenu avant le départ à l'ambassade du Ghana, sous peine de refus d'entrée ; le tampon autorise 60 jours. La majorité du pays est en vigilance renforcée et la frontière nord avec le Burkina Faso est formellement déconseillée. Accra, les forts de la côte et la culture ashanti de Kumasi forment le voyage classique.",
+  "essentials": {
+    "bestPeriod": "Novembre à mars",
+    "languages": "Anglais (officiel), twi, ewe, ga",
+    "currency": "Cedi (GHS)",
+    "timeDiff": "-1 h en hiver, -2 h en été",
+    "plugs": "Types D et G, 230 V : adaptateur nécessaire",
+    "emergency": "112 (police : 191, ambulance : 193)",
+    "flight": "Environ 6 h 30 depuis Paris pour Accra, en direct ou avec une escale"
+  },
+  "months": [
+    { "rating": 2, "note": "Saison sèche, harmattan." },
+    { "rating": 2, "note": "Sec et chaud." },
+    { "rating": 2, "note": "Chaud." },
+    { "rating": 1, "note": "Début des pluies dans le sud." },
+    { "rating": 0, "note": "Grandes pluies." },
+    { "rating": 0, "note": "Pluies abondantes." },
+    { "rating": 1, "note": "Accalmie relative." },
+    { "rating": 1, "note": "Petite saison sèche dans le sud." },
+    { "rating": 1, "note": "Retour des pluies." },
+    { "rating": 1, "note": "Pluies." },
+    { "rating": 2, "note": "Retour du sec." },
+    { "rating": 2, "note": "Sec, fêtes de fin d'année très animées." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en cedis, par jour et par personne, hors vols. Convertis au taux du jour.",
+    "rows": [
+      { "label": "Hébergement (guesthouse ou hôtel simple)", "solo": "500 à 1 300 GH₵", "duo": "300 à 800 GH₵" },
+      { "label": "Repas", "solo": "150 à 400 GH₵", "duo": "150 à 400 GH₵" },
+      { "label": "Transports (tro-tro, VTC, chauffeur)", "solo": "50 à 500 GH₵", "duo": "40 à 300 GH₵" },
+      { "label": "Visites et entrées", "solo": "50 à 250 GH₵", "duo": "50 à 250 GH₵" }
+    ],
+    "totalSolo": "750 à 2 450 GH₵",
+    "totalDuo": "540 à 1 750 GH₵",
+    "note": "Accra est assez chère ; le reste du pays est plus abordable. Le cedi fluctue fortement : vérifie le taux avant de partir.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Un visa de court séjour est obligatoire et doit être obtenu avant l'arrivée, à l'ambassade du Ghana à Paris, sous peine de refus d'entrée immédiat.",
+    "points": [
+      "Le tampon d'entrée autorise 60 jours maximum, quel que soit le type de visa.",
+      "Une prolongation jusqu'à 3 mois est possible auprès de l'immigration à Accra."
+    ],
+    "source": { "label": "France Diplomatie, Ghana, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/ghana/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "La vaccination contre la fièvre jaune est obligatoire (dans un centre agréé) ; elle est désormais valable à vie.",
+    "points": [
+      "Paludisme : traitement préventif selon avis médical et protection contre les moustiques.",
+      "Dengue : protection contre les moustiques.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Assurance santé avec évacuation indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Ghana, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/ghana/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "La majorité du pays est en vigilance renforcée. Avec l'expansion de la menace terroriste vers le golfe de Guinée, une vigilance accrue s'impose, surtout dans le nord et à la frontière togolaise.",
+    "points": [
+      "Formellement déconseillée : la frontière nord avec le Burkina Faso, y compris Tumu, Navrongo et Bawku.",
+      "Des couvre-feux sont en vigueur dans plusieurs localités du nord et du centre (Bawku, Saboba, Chereponi, Nkwanta…) : renseigne-toi avant tout déplacement.",
+      "Vigilance accrue près de la frontière avec le Togo."
+    ],
+    "source": { "label": "France Diplomatie, Ghana, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/ghana/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "accra",
+      "name": "Accra",
+      "nights": "3 nuits",
+      "for": ["energique", "tous"],
+      "summary": "Une capitale vibrante, sa scène culturelle, ses marchés et son quartier historique de Jamestown.",
+      "sleep": "À Osu ou East Legon.",
+      "see": [
+        { "name": "Jamestown", "note": "Le vieux quartier de pêcheurs et son phare." },
+        { "name": "Le mausolée Kwame Nkrumah", "note": "Le père de l'indépendance." },
+        { "name": "Le marché de Makola", "note": "Le grand marché de la ville." }
+      ],
+      "hidden": [
+        { "name": "La Labadi Beach", "note": "La plage animée le week-end." },
+        { "name": "Les fabricants de cercueils de Teshie", "note": "Des cercueils en forme d'objets du quotidien." }
+      ],
+      "eat": "Le jollof rice, le kelewele (plantains épicés) et le banku au tilapia.",
+      "getAround": "VTC ; tro-tros (minibus) pour les aventureux.",
+      "tip": "Le trafic est dense : prévois de la marge pour l'aéroport."
+    },
+    {
+      "slug": "cape-coast",
+      "name": "Cape Coast et Elmina",
+      "nights": "3 nuits",
+      "for": ["tous", "stratege"],
+      "summary": "Les forts de la traite négrière classés à l'Unesco, et la canopée de la forêt de Kakum.",
+      "sleep": "À Cape Coast ou dans un lodge en bord de mer.",
+      "see": [
+        { "name": "Le château de Cape Coast", "note": "Un lieu de mémoire bouleversant." },
+        { "name": "Le château d'Elmina", "note": "Le plus ancien bâtiment européen d'Afrique subsaharienne." },
+        { "name": "La passerelle de Kakum", "note": "À 40 m au-dessus de la forêt." }
+      ],
+      "hidden": [
+        { "name": "Busua", "note": "Une plage de surf plus à l'ouest." }
+      ],
+      "eat": "Le fufu et la soupe de poisson.",
+      "getAround": "Bus ou chauffeur depuis Accra (environ 3 h).",
+      "tip": "Les visites guidées des forts sont essentielles pour comprendre leur histoire."
+    },
+    {
+      "slug": "kumasi",
+      "name": "Kumasi",
+      "nights": "2 nuits",
+      "for": ["stratege", "explorateur"],
+      "summary": "La capitale du royaume ashanti, ses artisans du kente et l'un des plus grands marchés d'Afrique.",
+      "sleep": "En ville.",
+      "see": [
+        { "name": "Le palais Manhyia", "note": "Le musée de la royauté ashanti." },
+        { "name": "Le marché de Kejetia", "note": "Un immense marché." },
+        { "name": "Les villages du kente", "note": "Bonwire et ses tisserands." }
+      ],
+      "hidden": [
+        { "name": "Le lac Bosumtwi", "note": "Un lac de cratère sacré." }
+      ],
+      "eat": "Le fufu à la soupe d'arachide.",
+      "getAround": "Bus depuis Accra ou vol.",
+      "tip": "Ne va pas plus au nord sans vérifier la carte de France Diplomatie."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Accra, la côte et l'Ashanti",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Accra", "note": "Arrivée." },
+        { "days": "Jours 4 à 6", "place": "Cape Coast et Elmina", "note": "Forts et Kakum." },
+        { "days": "Jours 7 et 8", "place": "Kumasi", "note": "Royaume ashanti." },
+        { "days": "Jours 9 et 10", "place": "Accra", "note": "Retour." }
+      ]
+    },
+    {
+      "days": 6,
+      "title": "Accra et la côte",
+      "for": ["lent"],
+      "steps": [
+        { "days": "Jours 1 à 3", "place": "Accra", "note": "Arrivée." },
+        { "days": "Jours 4 à 6", "place": "Cape Coast et Busua", "note": "Retour à Accra." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les bus STC et VIP", "text": "Confortables entre les grandes villes." },
+    { "title": "Les tro-tros", "text": "Minibus bon marché, bondés." },
+    { "title": "Voiture avec chauffeur", "text": "Pratique pour la côte ; ne roule pas de nuit." }
+  ],
+  "culture": [
+    "« Akwaaba » (bienvenue) : les Ghanéens sont réputés pour leur accueil.",
+    "On donne et on mange avec la main droite.",
+    "Le kente, tissu royal, a une signification pour chaque motif."
+  ],
+  "phrases": [
+    { "fr": "Bienvenue", "local": "Akwaaba", "say": "akouaba" },
+    { "fr": "Merci (twi)", "local": "Medaase", "say": "médassi" },
+    { "fr": "Bonjour (twi)", "local": "Maakye", "say": "matché" }
+  ],
+  "checklist": [
+    "Passeport valide et visa obtenu avant le départ",
+    "Carnet de vaccination fièvre jaune",
+    "Avis médical (paludisme)",
+    "Adaptateur type G",
+    "Application de VTC",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour le Ghana ?", "a": "Oui, obtenu avant le départ à l'ambassade du Ghana à Paris : sans visa, l'entrée est refusée. Le tampon autorise 60 jours. La vaccination contre la fièvre jaune est obligatoire." },
+    { "q": "Le Ghana est-il sûr ?", "a": "La majorité du pays est en vigilance renforcée ; la frontière avec le Burkina Faso est formellement déconseillée." },
+    { "q": "Quand partir au Ghana ?", "a": "De novembre à mars, en saison sèche." },
+    { "q": "Quel budget pour 10 jours au Ghana ?", "a": "Compte environ 750 à 2 450 GH₵ par jour seul et 540 à 1 750 GH₵ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

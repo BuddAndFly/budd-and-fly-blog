@@ -1,0 +1,193 @@
+{
+  "name": "Bénin",
+  "prep": "au Bénin",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 103,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Bénin : Ouidah, Ganvié, Abomey, sécurité",
+    "description": "Préparer un voyage au Bénin : e-visa, fièvre jaune obligatoire, zones déconseillées, meilleure saison, budget, Cotonou, Ouidah, Ganvié, Abomey. PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Bénin se visite de novembre à mars, en saison sèche. Le visa (électronique) et la vaccination contre la fièvre jaune sont obligatoires. Le nord du pays, dont les parcs de la Pendjari et du W, est formellement déconseillé en raison du risque d'enlèvement ; le sud, avec Ouidah, Ganvié, Porto-Novo et Abomey, berceau du vaudou et des royaumes, est en vigilance renforcée.",
+  "essentials": {
+    "bestPeriod": "Novembre à mars",
+    "languages": "Français (officiel), fon, yoruba",
+    "currency": "Franc CFA (XOF), à parité fixe avec l'euro",
+    "timeDiff": "Aucun décalage en hiver, -1 h en été",
+    "plugs": "Types C et E, 220 V : comme en France",
+    "emergency": "Police 117 · Pompiers 118",
+    "flight": "Environ 6 h 30 en vol direct depuis Paris pour Cotonou"
+  },
+  "months": [
+    { "rating": 2, "note": "Saison sèche ; fête du Vaudou le 10 janvier à Ouidah." },
+    { "rating": 2, "note": "Sec, harmattan." },
+    { "rating": 2, "note": "Chaud et sec." },
+    { "rating": 1, "note": "Début des pluies." },
+    { "rating": 0, "note": "Grande saison des pluies." },
+    { "rating": 0, "note": "Pluies abondantes." },
+    { "rating": 1, "note": "Accalmie relative." },
+    { "rating": 1, "note": "Petite saison sèche dans le sud." },
+    { "rating": 1, "note": "Retour des pluies." },
+    { "rating": 1, "note": "Pluies." },
+    { "rating": 2, "note": "Début de la saison sèche." },
+    { "rating": 2, "note": "Sec et agréable." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en francs CFA, par jour et par personne, hors vols (1 € = 655,957 F CFA).",
+    "rows": [
+      { "label": "Hébergement (hôtel simple ou maison d'hôtes)", "solo": "20 000 à 50 000 F CFA", "duo": "12 000 à 30 000 F CFA" },
+      { "label": "Repas", "solo": "6 000 à 15 000 F CFA", "duo": "6 000 à 15 000 F CFA" },
+      { "label": "Transports (zémidjan, chauffeur)", "solo": "3 000 à 25 000 F CFA", "duo": "2 000 à 15 000 F CFA" },
+      { "label": "Visites et guides", "solo": "3 000 à 15 000 F CFA", "duo": "3 000 à 15 000 F CFA" }
+    ],
+    "totalSolo": "32 000 à 105 000 F CFA",
+    "totalDuo": "23 000 à 75 000 F CFA",
+    "note": "Le franc CFA est arrimé à l'euro. Un chauffeur à la journée est la façon la plus confortable de visiter le sud.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Un visa est obligatoire, à demander en ligne (e-visa). Il faut aussi un passeport valable 6 mois après le retour, un billet retour et le carnet de vaccination contre la fièvre jaune.",
+    "points": [
+      "Fais ta demande de visa uniquement sur le site officiel du gouvernement béninois."
+    ],
+    "source": { "label": "France Diplomatie, Bénin, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/benin/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "La vaccination contre la fièvre jaune est obligatoire pour entrer au Bénin ; elle est désormais valable à vie. Fais-la avant le départ dans un centre agréé.",
+    "points": [
+      "Paludisme : traitement préventif selon avis médical et protection contre les moustiques.",
+      "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
+      "Assurance santé avec évacuation indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Bénin, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/benin/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "Le nord est formellement déconseillé en raison du risque d'enlèvement. Le reste du pays est en vigilance renforcée.",
+    "points": [
+      "Formellement déconseillés : les frontières avec le Burkina Faso et le Niger, les parcs de la Pendjari et du W et leurs abords, Banikoara, la frontière nord-ouest avec le Togo et la frontière nord-est avec le Nigeria jusqu'à Nikki.",
+      "Déconseillés sauf raison impérative : le centre de l'Atakora (Tanguiéta, Natitingou, Boukoumbé, Kouandé) et la bande de Kandi à Tchaourou.",
+      "Vigilance particulière près des frontières et dans les zones isolées.",
+      "À Cotonou, évite la nuit les quartiers du port."
+    ],
+    "source": { "label": "France Diplomatie, Bénin, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/benin/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "ouidah",
+      "name": "Ouidah",
+      "nights": "2 nuits",
+      "for": ["tous", "stratege"],
+      "summary": "La capitale spirituelle du vaudou et un lieu de mémoire de la traite négrière.",
+      "sleep": "À Ouidah, près de la plage.",
+      "see": [
+        { "name": "La route des Esclaves", "note": "Jusqu'à la porte du Non-Retour sur la plage." },
+        { "name": "Le temple des Pythons", "note": "Face à la basilique." },
+        { "name": "La forêt sacrée de Kpassè", "note": "Sculptures et divinités vaudou." }
+      ],
+      "hidden": [
+        { "name": "La fête du Vaudou", "note": "Le 10 janvier, une célébration nationale." }
+      ],
+      "eat": "Le poisson braisé et la pâte de maïs avec sauce gombo.",
+      "getAround": "Zémidjan (moto-taxi) ou taxi depuis Cotonou (1 h).",
+      "tip": "Demande avant de photographier une cérémonie ou un lieu sacré."
+    },
+    {
+      "slug": "ganvie-porto-novo",
+      "name": "Ganvié et Porto-Novo",
+      "nights": "2 nuits",
+      "for": ["explorateur", "tous"],
+      "summary": "La « Venise de l'Afrique », village lacustre sur pilotis, et la capitale aux architectures afro-brésiliennes.",
+      "sleep": "À Cotonou ou Porto-Novo.",
+      "see": [
+        { "name": "Ganvié", "note": "En pirogue sur le lac Nokoué." },
+        { "name": "Le musée Honmè à Porto-Novo", "note": "L'ancien palais royal." },
+        { "name": "La grande mosquée de Porto-Novo", "note": "Un style afro-brésilien coloré." }
+      ],
+      "hidden": [
+        { "name": "Le jardin des Plantes et de la Nature", "note": "Une forêt sacrée au cœur de Porto-Novo." }
+      ],
+      "eat": "L'amiwo (pâte de maïs rouge) et l'akassa.",
+      "getAround": "Pirogue pour Ganvié, taxi pour Porto-Novo.",
+      "tip": "Passe par l'embarcadère officiel d'Abomey-Calavi pour la pirogue."
+    },
+    {
+      "slug": "abomey",
+      "name": "Abomey",
+      "nights": "1 à 2 nuits",
+      "for": ["stratege", "lent"],
+      "summary": "La capitale de l'ancien royaume du Dahomey, ses palais royaux classés à l'Unesco.",
+      "sleep": "À Abomey ou Bohicon.",
+      "see": [
+        { "name": "Les palais royaux d'Abomey", "note": "Bas-reliefs et histoire des rois." },
+        { "name": "Les artisans tisseurs d'appliqués", "note": "Les tentures colorées racontant l'histoire royale." },
+        { "name": "Le marché de Bohicon", "note": "Un grand marché régional." }
+      ],
+      "hidden": [
+        { "name": "Dassa-Zoumé", "note": "Une ville aux 41 collines et un lieu de pèlerinage." }
+      ],
+      "eat": "Le fromage peulh grillé (wagasi).",
+      "getAround": "Route depuis Cotonou (environ 2 h 30).",
+      "tip": "Ne remonte pas plus au nord sans vérifier la carte de France Diplomatie."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Le sud du Bénin",
+      "for": ["tous", "stratege"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Cotonou et Ganvié", "note": "Arrivée." },
+        { "days": "Jour 3", "place": "Porto-Novo", "note": "Capitale." },
+        { "days": "Jours 4 et 5", "place": "Abomey", "note": "Palais royaux." },
+        { "days": "Jours 6 à 8", "place": "Ouidah et Grand-Popo", "note": "Mémoire et plages." }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Vaudou et lacs",
+      "for": ["energique"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Cotonou et Ganvié", "note": "Arrivée." },
+        { "days": "Jours 3 à 5", "place": "Ouidah", "note": "Retour à Cotonou." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Voiture avec chauffeur", "text": "La solution la plus confortable et la plus sûre." },
+    { "title": "Les zémidjans", "text": "Motos-taxis partout ; négocie le prix et exige un casque." },
+    { "title": "Les taxis-brousse", "text": "Bon marché mais souvent surchargés." }
+  ],
+  "culture": [
+    "Le vaudou est une religion officielle et respectée : discrétion et respect lors des cérémonies.",
+    "Les salutations sont importantes avant toute demande.",
+    "On mange souvent avec la main droite."
+  ],
+  "phrases": [
+    { "fr": "Bonjour (fon)", "local": "A fon ganji a ?", "say": "a fon gandji a" },
+    { "fr": "Merci (fon)", "local": "Awanu", "say": "awanou" },
+    { "fr": "Bonne arrivée", "local": "Kudo wa", "say": "koudo oua" }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois après le retour",
+    "E-visa et billet retour",
+    "Carnet de vaccination fièvre jaune",
+    "Avis médical (paludisme)",
+    "Rester dans le sud du pays",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "Faut-il un visa pour le Bénin ?", "a": "Oui, un e-visa, avec un passeport valable 6 mois après le retour, un billet retour et la vaccination contre la fièvre jaune." },
+    { "q": "Le Bénin est-il sûr ?", "a": "Le nord est formellement déconseillé (risque d'enlèvement, dont la Pendjari et le W). Le sud est en vigilance renforcée." },
+    { "q": "Quand partir au Bénin ?", "a": "De novembre à mars ; début janvier pour la fête du Vaudou." },
+    { "q": "Quel budget pour une semaine au Bénin ?", "a": "Compte environ 32 000 à 105 000 F CFA par jour seul et 23 000 à 75 000 F CFA par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}

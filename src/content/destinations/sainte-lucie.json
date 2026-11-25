@@ -1,0 +1,170 @@
+{
+  "name": "Sainte-Lucie",
+  "prep": "à Sainte-Lucie",
+  "kind": "pays",
+  "continent": "Amérique centrale et Caraïbes",
+  "priority": 106,
+  "status": "brouillon",
+  "updatedAt": "2026-11-25",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Sainte-Lucie : Pitons, Soufrière, sécurité",
+    "description": "Préparer un voyage à Sainte-Lucie : carte d'identité acceptée, sécurité, meilleure saison, budget, les Pitons, Soufrière, Rodney Bay. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Sainte-Lucie se visite de décembre à avril, hors saison cyclonique. Les Français venant de métropole, de Martinique ou de Guadeloupe peuvent entrer avec une carte d'identité valide (pas une carte prolongée). Attention : la sécurité s'est fortement dégradée et le taux d'homicides est l'un des plus élevés du monde. Les Pitons, Soufrière et les plages se visitent avec beaucoup de prudence.",
+  "essentials": {
+    "bestPeriod": "Décembre à avril",
+    "languages": "Anglais et créole (kwéyòl), proche du créole antillais",
+    "currency": "Dollar des Caraïbes orientales (XCD) ; dollars américains acceptés",
+    "timeDiff": "-5 h en hiver, -6 h en été",
+    "plugs": "Type G (trois broches), 230 V : adaptateur nécessaire",
+    "emergency": "999 ou 911",
+    "flight": "Environ 9 h depuis Paris, souvent via la Martinique (ferry ou court vol)"
+  },
+  "months": [
+    { "rating": 2, "note": "Sec et ensoleillé." },
+    { "rating": 2, "note": "Idéal." },
+    { "rating": 2, "note": "Sec." },
+    { "rating": 2, "note": "Encore sec." },
+    { "rating": 2, "note": "Festival de jazz (selon les années)." },
+    { "rating": 1, "note": "Début de la saison des pluies et des cyclones." },
+    { "rating": 1, "note": "Carnaval de Sainte-Lucie." },
+    { "rating": 0, "note": "Cyclones possibles." },
+    { "rating": 0, "note": "Pic de la saison cyclonique." },
+    { "rating": 0, "note": "Cyclones encore possibles." },
+    { "rating": 1, "note": "Fin des pluies." },
+    { "rating": 2, "note": "Retour du sec." }
+  ],
+  "budget": {
+    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols.",
+    "rows": [
+      { "label": "Hébergement (guesthouse ou hôtel)", "solo": "100 à 300 $", "duo": "60 à 180 $" },
+      { "label": "Repas", "solo": "35 à 80 $", "duo": "35 à 80 $" },
+      { "label": "Transports (taxi, chauffeur)", "solo": "30 à 100 $", "duo": "15 à 60 $" },
+      { "label": "Excursions et entrées", "solo": "20 à 100 $", "duo": "20 à 100 $" }
+    ],
+    "totalSolo": "185 à 580 $",
+    "totalDuo": "130 à 420 $",
+    "note": "L'île est chère et les taxis aussi : un chauffeur recommandé par l'hôtel est à la fois plus sûr et plus pratique.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Les Français venant de France métropolitaine, de Martinique ou de Guadeloupe peuvent entrer avec une carte d'identité en cours de validité, sans passeport.",
+    "points": [
+      "Les douaniers peuvent refuser une carte d'identité dont la date imprimée est dépassée, même si elle reste valide selon la loi française : prends alors un passeport."
+    ],
+    "source": { "label": "France Diplomatie, Sainte-Lucie, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/sainte-lucie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "health": {
+    "text": "Aucun vaccin n'est obligatoire en arrivant de France ; la fièvre jaune l'est si tu viens d'une zone d'endémie.",
+    "points": [
+      "Dengue : protection contre les moustiques.",
+      "Assurance couvrant hospitalisation et évacuation indispensable."
+    ],
+    "source": { "label": "France Diplomatie, Sainte-Lucie, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/sainte-lucie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "safety": {
+    "text": "L'ensemble du pays est en vigilance renforcée et la situation sécuritaire est dégradée : le taux d'homicides, surtout par armes à feu, dépasse 40 pour 100 000 habitants, l'un des plus élevés au monde.",
+    "points": [
+      "Les règlements de comptes peuvent désormais survenir à toute heure et dans des rues fréquentées, avec un risque de balles perdues pour les passants.",
+      "Des agressions violentes (vols, agressions sexuelles) visent spécifiquement les touristes.",
+      "Renseigne-toi avant d'aller dans les lieux moins touristiques et reste très prudent.",
+      "Ambassade de France à Castries : +1 758 455 60 60 ; urgence : +1 758 484 31 67."
+    ],
+    "source": { "label": "France Diplomatie, Sainte-Lucie, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/sainte-lucie/" },
+    "checkedAt": "2026-11-25"
+  },
+  "cities": [
+    {
+      "slug": "soufriere",
+      "name": "Soufrière et les Pitons",
+      "nights": "4 nuits",
+      "for": ["tous", "explorateur"],
+      "summary": "Deux pitons volcaniques plongeant dans la mer, classés à l'Unesco, et le « volcan drive-in ».",
+      "sleep": "Dans un hôtel ou une villa autour de Soufrière.",
+      "see": [
+        { "name": "Le Gros Piton", "note": "Randonnée exigeante avec guide obligatoire." },
+        { "name": "Les Sulphur Springs", "note": "Le « volcan drive-in » et ses bains de boue." },
+        { "name": "Les Diamond Falls", "note": "Une cascade aux couleurs minérales." }
+      ],
+      "hidden": [
+        { "name": "Sugar Beach", "note": "Une plage entre les deux Pitons." }
+      ],
+      "eat": "La green fig and saltfish (bananes vertes et morue), plat national.",
+      "getAround": "Chauffeur ou bateau-taxi depuis Rodney Bay ou Marigot Bay.",
+      "tip": "Organise tous tes déplacements avec ton hébergement ou des chauffeurs reconnus."
+    },
+    {
+      "slug": "rodney-bay",
+      "name": "Rodney Bay et le nord",
+      "nights": "3 nuits",
+      "for": ["lent", "energique"],
+      "summary": "La baie animée du nord, ses plages et le parc historique de Pigeon Island.",
+      "sleep": "Dans un hôtel de Rodney Bay.",
+      "see": [
+        { "name": "Pigeon Island", "note": "Un fort et une vue sur la Martinique." },
+        { "name": "Reduit Beach", "note": "La plage principale du nord." },
+        { "name": "La Friday night de Gros Islet", "note": "Fête de rue du vendredi, à faire avec prudence et en groupe." }
+      ],
+      "hidden": [
+        { "name": "Marigot Bay", "note": "Une baie abritée entourée de palmiers." }
+      ],
+      "eat": "Le poisson grillé et le cacao local.",
+      "getAround": "Taxis officiels.",
+      "tip": "Ne te déplace pas à pied seul le soir."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Les Pitons et le nord",
+      "for": ["tous", "lent"],
+      "steps": [
+        { "days": "Jours 1 à 4", "place": "Soufrière", "note": "Pitons et volcans." },
+        { "days": "Jours 5 à 7", "place": "Rodney Bay", "note": "Plages et Pigeon Island." }
+      ]
+    },
+    {
+      "days": 4,
+      "title": "Escapade depuis la Martinique",
+      "for": ["energique"],
+      "steps": [
+        { "days": "Jours 1 et 2", "place": "Rodney Bay", "note": "Ferry depuis Fort-de-France." },
+        { "days": "Jours 3 et 4", "place": "Soufrière", "note": "Retour en ferry." }
+      ]
+    }
+  ],
+  "transport": [
+    { "title": "Les ferries", "text": "Relient la Martinique, la Guadeloupe et la Dominique." },
+    { "title": "Chauffeurs et taxis officiels", "text": "La solution la plus sûre ; conviens du prix avant." },
+    { "title": "Les bateaux-taxis", "text": "Pour rejoindre Soufrière par la côte." }
+  ],
+  "culture": [
+    "Le créole saint-lucien est proche de celui des Antilles françaises : on se comprend souvent.",
+    "La fête de La Rose et La Marguerite rappelle l'histoire franco-britannique de l'île.",
+    "Tenue correcte hors des plages."
+  ],
+  "phrases": [
+    { "fr": "Bonjour", "local": "Bonjou", "say": "bonjou" },
+    { "fr": "Merci", "local": "Mèsi", "say": "mèsi" },
+    { "fr": "Ça va ?", "local": "Sa ka fèt ?", "say": "sa ka fèt" }
+  ],
+  "checklist": [
+    "Carte d'identité valide (pas de carte à date dépassée) ou passeport",
+    "Assurance hospitalisation et évacuation",
+    "Chauffeurs organisés avec l'hébergement",
+    "Adaptateur type G",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    { "q": "La carte d'identité suffit-elle pour Sainte-Lucie ?", "a": "Oui pour les Français venant de métropole, de Martinique ou de Guadeloupe, si elle est valide et sans date dépassée. Sinon, prends un passeport." },
+    { "q": "Sainte-Lucie est-elle sûre ?", "a": "La situation sécuritaire est dégradée, avec un taux d'homicides parmi les plus élevés au monde. Organise tes déplacements et sois très prudent." },
+    { "q": "Quand partir à Sainte-Lucie ?", "a": "De décembre à avril, hors saison cyclonique." },
+    { "q": "Quel budget pour une semaine à Sainte-Lucie ?", "a": "Compte environ 185 à 580 $ par jour seul et 130 à 420 $ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+  ]
+}
