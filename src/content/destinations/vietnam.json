@@ -12,7 +12,15 @@
     "title": "Guide Vietnam : quand partir, visa, budget, itinéraires",
     "description": "Préparer un voyage au Vietnam : 45 jours sans visa, meilleure saison selon les régions, budget seul ou à deux, Hanoï, Ha Long, Hoi An, le sud. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/vietnam/hero.jpg",
+    "alt": "La baie d'Ha Long et ses pitons calcaires",
+    "credit": {
+      "author": "Thomas Hirsch / User:Ravn",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Halong_Bay_in_Vietnam.jpg"
+    }
+  },
   "summary": "Le Vietnam a trois climats : le nord est agréable d'octobre à avril, le centre de février à août, le sud de décembre à avril. Mars et avril sont les meilleurs compromis pour traverser tout le pays. Les Français peuvent y rester 45 jours sans visa, avec un passeport valide 6 mois.",
   "essentials": {
     "bestPeriod": "Mars-avril pour tout le pays ; selon la région le reste de l'année",
@@ -24,26 +32,78 @@
     "flight": "Environ 12 h en vol direct depuis Paris"
   },
   "months": [
-    { "rating": 1, "note": "Frais et souvent gris à Hanoï et Ha Long, pluvieux au centre, sec et chaud dans le sud." },
-    { "rating": 2, "note": "Le sud est idéal, le centre sèche. Le Têt (Nouvel An lunaire) tombe souvent en février : très beau, mais beaucoup de commerces ferment et les transports sont pleins." },
-    { "rating": 2, "note": "Bon partout : douceur au nord, soleil au centre et au sud." },
-    { "rating": 2, "note": "Le meilleur mois pour traverser le pays du nord au sud." },
-    { "rating": 1, "note": "La chaleur monte, premières pluies dans le sud. Le centre est encore au beau fixe." },
-    { "rating": 1, "note": "Chaud et humide au nord, saison des pluies au sud en averses. Bon pour la côte centrale." },
-    { "rating": 1, "note": "Comme en juin. Plages du centre (Hoi An, Da Nang) agréables." },
-    { "rating": 1, "note": "Chaleur, orages, quelques typhons possibles au nord. Le centre reste la meilleure option." },
-    { "rating": 0, "note": "Début de la saison des typhons et des inondations au centre, pluies au sud." },
-    { "rating": 1, "note": "Le nord redevient agréable, mais le centre subit pluies et inondations." },
-    { "rating": 1, "note": "Belle saison au nord, fortes pluies au centre, retour du sec au sud en fin de mois." },
-    { "rating": 1, "note": "Frais au nord, sec et ensoleillé au sud, encore humide au centre." }
+    {
+      "rating": 1,
+      "note": "Frais et souvent gris à Hanoï et Ha Long, pluvieux au centre, sec et chaud dans le sud."
+    },
+    {
+      "rating": 2,
+      "note": "Le sud est idéal, le centre sèche. Le Têt (Nouvel An lunaire) tombe souvent en février : très beau, mais beaucoup de commerces ferment et les transports sont pleins."
+    },
+    {
+      "rating": 2,
+      "note": "Bon partout : douceur au nord, soleil au centre et au sud."
+    },
+    {
+      "rating": 2,
+      "note": "Le meilleur mois pour traverser le pays du nord au sud."
+    },
+    {
+      "rating": 1,
+      "note": "La chaleur monte, premières pluies dans le sud. Le centre est encore au beau fixe."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud et humide au nord, saison des pluies au sud en averses. Bon pour la côte centrale."
+    },
+    {
+      "rating": 1,
+      "note": "Comme en juin. Plages du centre (Hoi An, Da Nang) agréables."
+    },
+    {
+      "rating": 1,
+      "note": "Chaleur, orages, quelques typhons possibles au nord. Le centre reste la meilleure option."
+    },
+    {
+      "rating": 0,
+      "note": "Début de la saison des typhons et des inondations au centre, pluies au sud."
+    },
+    {
+      "rating": 1,
+      "note": "Le nord redevient agréable, mais le centre subit pluies et inondations."
+    },
+    {
+      "rating": 1,
+      "note": "Belle saison au nord, fortes pluies au centre, retour du sec au sud en fin de mois."
+    },
+    {
+      "rating": 1,
+      "note": "Frais au nord, sec et ensoleillé au sud, encore humide au centre."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en dongs, par jour et par personne, hors vols internationaux. Convertis au taux du jour.",
     "rows": [
-      { "label": "Hébergement (chambre simple, petit hôtel)", "solo": "400 000 à 900 000 ₫", "duo": "250 000 à 550 000 ₫" },
-      { "label": "Repas (cuisine de rue et restaurants)", "solo": "200 000 à 500 000 ₫", "duo": "200 000 à 500 000 ₫" },
-      { "label": "Transports locaux", "solo": "50 000 à 200 000 ₫", "duo": "50 000 à 150 000 ₫" },
-      { "label": "Visites et entrées", "solo": "50 000 à 200 000 ₫", "duo": "50 000 à 200 000 ₫" }
+      {
+        "label": "Hébergement (chambre simple, petit hôtel)",
+        "solo": "400 000 à 900 000 ₫",
+        "duo": "250 000 à 550 000 ₫"
+      },
+      {
+        "label": "Repas (cuisine de rue et restaurants)",
+        "solo": "200 000 à 500 000 ₫",
+        "duo": "200 000 à 500 000 ₫"
+      },
+      {
+        "label": "Transports locaux",
+        "solo": "50 000 à 200 000 ₫",
+        "duo": "50 000 à 150 000 ₫"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "50 000 à 200 000 ₫",
+        "duo": "50 000 à 200 000 ₫"
+      }
     ],
     "totalSolo": "700 000 à 1 800 000 ₫",
     "totalDuo": "550 000 à 1 400 000 ₫",
@@ -60,7 +120,10 @@
       "En cas de perte du passeport, il faut un visa de sortie : au moins 5 jours ouvrés, parfois plusieurs semaines.",
       "Voyage avec l'ordonnance nominative de tes médicaments : la loi est sévère sur certains produits pharmaceutiques."
     ],
-    "source": { "label": "France Diplomatie, Vietnam, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/vietnam/" },
+    "source": {
+      "label": "France Diplomatie, Vietnam, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/vietnam/"
+    },
     "checkedAt": "2026-11-23"
   },
   "health": {
@@ -73,7 +136,10 @@
       "Paludisme : demande conseil à un médecin selon les régions visitées.",
       "Assurance santé et rapatriement indispensable."
     ],
-    "source": { "label": "France Diplomatie, Vietnam, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/vietnam/" },
+    "source": {
+      "label": "France Diplomatie, Vietnam, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/vietnam/"
+    },
     "checkedAt": "2026-11-23"
   },
   "safety": {
@@ -85,7 +151,10 @@
       "Les peines pour détention de drogue, même en petite quantité, sont très lourdes ; la peine de mort est fréquemment prononcée.",
       "En cas d'accident grave, appelle la police au 113 et contacte l'ambassade à Hanoï ou le consulat à Hô Chi Minh-Ville."
     ],
-    "source": { "label": "France Diplomatie, Vietnam, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/vietnam/" },
+    "source": {
+      "label": "France Diplomatie, Vietnam, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/vietnam/"
+    },
     "checkedAt": "2026-11-23"
   },
   "cities": [
@@ -93,17 +162,36 @@
       "slug": "hanoi",
       "name": "Hanoï",
       "nights": "3 nuits",
-      "for": ["energique", "explorateur", "tous"],
+      "for": [
+        "energique",
+        "explorateur",
+        "tous"
+      ],
       "summary": "La capitale du nord : vieux quartier grouillant, lacs, architecture coloniale et la meilleure cuisine de rue du pays.",
       "sleep": "Dans le vieux quartier pour l'ambiance, ou près du lac Hoan Kiem pour un peu plus de calme.",
       "see": [
-        { "name": "Le vieux quartier", "note": "Ses 36 rues de corporations, à pied tôt le matin ou le soir." },
-        { "name": "Le lac Hoan Kiem", "note": "Le temple de Ngoc Son, et la rue piétonne le week-end." },
-        { "name": "Le temple de la Littérature", "note": "La première université du pays, jardins et cours paisibles." }
+        {
+          "name": "Le vieux quartier",
+          "note": "Ses 36 rues de corporations, à pied tôt le matin ou le soir."
+        },
+        {
+          "name": "Le lac Hoan Kiem",
+          "note": "Le temple de Ngoc Son, et la rue piétonne le week-end."
+        },
+        {
+          "name": "Le temple de la Littérature",
+          "note": "La première université du pays, jardins et cours paisibles."
+        }
       ],
       "hidden": [
-        { "name": "Le musée d'ethnographie", "note": "Le meilleur musée du pays pour comprendre ses 54 ethnies." },
-        { "name": "Ninh Binh", "note": "La « baie d'Ha Long terrestre », rizières et pitons calcaires, à 2 h de route." }
+        {
+          "name": "Le musée d'ethnographie",
+          "note": "Le meilleur musée du pays pour comprendre ses 54 ethnies."
+        },
+        {
+          "name": "Ninh Binh",
+          "note": "La « baie d'Ha Long terrestre », rizières et pitons calcaires, à 2 h de route."
+        }
       ],
       "eat": "Le phở au petit déjeuner, le bún chả (porc grillé et vermicelles) et le café à l'œuf.",
       "getAround": "À pied et en VTC à moto ou en voiture via application, au prix affiché.",
@@ -113,16 +201,31 @@
       "slug": "ha-long",
       "name": "La baie d'Ha Long",
       "nights": "1 à 2 nuits sur un bateau",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Près de 2 000 pitons calcaires dans une mer d'émeraude. Une nuit à bord permet de la voir au lever du jour.",
       "sleep": "Sur un bateau de croisière, ou à Cat Ba pour une version plus indépendante.",
       "see": [
-        { "name": "La croisière avec nuit à bord", "note": "Kayak entre les rochers, grottes et coucher de soleil." },
-        { "name": "La baie de Lan Ha", "note": "Voisine, moins fréquentée et tout aussi belle." },
-        { "name": "Les grottes", "note": "Sung Sot, la grotte des Surprises, la plus spectaculaire." }
+        {
+          "name": "La croisière avec nuit à bord",
+          "note": "Kayak entre les rochers, grottes et coucher de soleil."
+        },
+        {
+          "name": "La baie de Lan Ha",
+          "note": "Voisine, moins fréquentée et tout aussi belle."
+        },
+        {
+          "name": "Les grottes",
+          "note": "Sung Sot, la grotte des Surprises, la plus spectaculaire."
+        }
       ],
       "hidden": [
-        { "name": "L'île de Cat Ba", "note": "Parc national, randonnée et plages, pour rester plusieurs jours." }
+        {
+          "name": "L'île de Cat Ba",
+          "note": "Parc national, randonnée et plages, pour rester plusieurs jours."
+        }
       ],
       "eat": "Fruits de mer servis à bord.",
       "getAround": "Navette depuis Hanoï (environ 2 h 30 par autoroute), souvent incluse dans la croisière.",
@@ -132,16 +235,31 @@
       "slug": "hoi-an",
       "name": "Hoi An",
       "nights": "3 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Un ancien port marchand aux maisons jaunes et aux lanternes, entre rizières et plage. Le coup de cœur de beaucoup de voyageurs.",
       "sleep": "Près de la vieille ville, ou entre les rizières et la plage d'An Bang pour le calme.",
       "see": [
-        { "name": "La vieille ville", "note": "Classée à l'Unesco, magique le soir sous les lanternes." },
-        { "name": "Le pont japonais", "note": "Le symbole de la ville, du XVIIe siècle." },
-        { "name": "Les rizières à vélo", "note": "Jusqu'au village de Tra Que ou à la plage." }
+        {
+          "name": "La vieille ville",
+          "note": "Classée à l'Unesco, magique le soir sous les lanternes."
+        },
+        {
+          "name": "Le pont japonais",
+          "note": "Le symbole de la ville, du XVIIe siècle."
+        },
+        {
+          "name": "Les rizières à vélo",
+          "note": "Jusqu'au village de Tra Que ou à la plage."
+        }
       ],
       "hidden": [
-        { "name": "Le sanctuaire de My Son", "note": "Les ruines des temples cham dans la jungle, tôt le matin." }
+        {
+          "name": "Le sanctuaire de My Son",
+          "note": "Les ruines des temples cham dans la jungle, tôt le matin."
+        }
       ],
       "eat": "Le cao lầu, nouilles locales, et le bánh mì, sandwich vietnamien.",
       "getAround": "À pied et à vélo. Aéroport à Da Nang, à 45 minutes.",
@@ -151,16 +269,31 @@
       "slug": "hue",
       "name": "Hué",
       "nights": "2 nuits",
-      "for": ["stratege", "lent"],
+      "for": [
+        "stratege",
+        "lent"
+      ],
       "summary": "L'ancienne cité impériale des Nguyen, ses tombeaux royaux le long de la rivière des Parfums.",
       "sleep": "Sur la rive sud, près du centre et des restaurants.",
       "see": [
-        { "name": "La Cité impériale", "note": "Un vaste ensemble de palais et de jardins, en partie restauré." },
-        { "name": "Les tombeaux impériaux", "note": "Ceux de Tu Duc, Minh Mang et Khai Dinh, à vélo ou en bateau." },
-        { "name": "La pagode de Thien Mu", "note": "Sur la rivière, au coucher du soleil." }
+        {
+          "name": "La Cité impériale",
+          "note": "Un vaste ensemble de palais et de jardins, en partie restauré."
+        },
+        {
+          "name": "Les tombeaux impériaux",
+          "note": "Ceux de Tu Duc, Minh Mang et Khai Dinh, à vélo ou en bateau."
+        },
+        {
+          "name": "La pagode de Thien Mu",
+          "note": "Sur la rivière, au coucher du soleil."
+        }
       ],
       "hidden": [
-        { "name": "Le col des Nuages", "note": "La route en lacets entre Hué et Hoi An, avec vue sur la mer." }
+        {
+          "name": "Le col des Nuages",
+          "note": "La route en lacets entre Hué et Hoi An, avec vue sur la mer."
+        }
       ],
       "eat": "Le bún bò Huế, soupe épicée, et la cuisine impériale en petites bouchées.",
       "getAround": "Vélo, taxi et bateau sur la rivière.",
@@ -170,16 +303,31 @@
       "slug": "ho-chi-minh-ville",
       "name": "Hô Chi Minh-Ville et le delta du Mékong",
       "nights": "3 nuits",
-      "for": ["energique", "explorateur"],
+      "for": [
+        "energique",
+        "explorateur"
+      ],
       "summary": "L'ancienne Saïgon, moderne et énergique, et le delta du Mékong, ses canaux et ses vergers.",
       "sleep": "Dans le district 1 pour tout faire à pied, ou le district 3 pour plus de calme.",
       "see": [
-        { "name": "Le musée des Vestiges de la guerre", "note": "Dur mais essentiel pour comprendre l'histoire du pays." },
-        { "name": "La poste centrale et la cathédrale Notre-Dame", "note": "L'architecture de l'époque coloniale." },
-        { "name": "Le delta du Mékong", "note": "Une ou deux journées en bateau, marchés flottants à Can Tho." }
+        {
+          "name": "Le musée des Vestiges de la guerre",
+          "note": "Dur mais essentiel pour comprendre l'histoire du pays."
+        },
+        {
+          "name": "La poste centrale et la cathédrale Notre-Dame",
+          "note": "L'architecture de l'époque coloniale."
+        },
+        {
+          "name": "Le delta du Mékong",
+          "note": "Une ou deux journées en bateau, marchés flottants à Can Tho."
+        }
       ],
       "hidden": [
-        { "name": "Les tunnels de Cu Chi", "note": "Le réseau souterrain de la guerre, à 1 h 30 de route." }
+        {
+          "name": "Les tunnels de Cu Chi",
+          "note": "Le réseau souterrain de la guerre, à 1 h 30 de route."
+        }
       ],
       "eat": "Le cơm tấm (riz brisé et porc grillé), et les marchés de nuit.",
       "getAround": "VTC par application, à moto ou en voiture. Le nouveau métro dessert une partie de la ville.",
@@ -190,41 +338,105 @@
     {
       "days": 14,
       "title": "Du nord au sud",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Hanoï", "note": "Et une journée à Ninh Binh." },
-        { "days": "Jours 4 et 5", "place": "Baie d'Ha Long", "note": "Une nuit à bord." },
-        { "days": "Jours 6 et 7", "place": "Hué", "note": "En train de nuit ou en avion." },
-        { "days": "Jours 8 à 11", "place": "Hoi An", "note": "Par le col des Nuages." },
-        { "days": "Jours 12 à 14", "place": "Hô Chi Minh-Ville et le Mékong", "note": "Vol depuis Da Nang." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Hanoï",
+          "note": "Et une journée à Ninh Binh."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Baie d'Ha Long",
+          "note": "Une nuit à bord."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Hué",
+          "note": "En train de nuit ou en avion."
+        },
+        {
+          "days": "Jours 8 à 11",
+          "place": "Hoi An",
+          "note": "Par le col des Nuages."
+        },
+        {
+          "days": "Jours 12 à 14",
+          "place": "Hô Chi Minh-Ville et le Mékong",
+          "note": "Vol depuis Da Nang."
+        }
       ]
     },
     {
       "days": 10,
       "title": "Le nord et le centre",
-      "for": ["lent"],
+      "for": [
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Hanoï", "note": "Sans courir." },
-        { "days": "Jours 4 et 5", "place": "Baie d'Ha Long ou de Lan Ha", "note": "Croisière." },
-        { "days": "Jours 6 à 10", "place": "Hoi An", "note": "Vol vers Da Nang. Rizières, plage, My Son." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Hanoï",
+          "note": "Sans courir."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Baie d'Ha Long ou de Lan Ha",
+          "note": "Croisière."
+        },
+        {
+          "days": "Jours 6 à 10",
+          "place": "Hoi An",
+          "note": "Vol vers Da Nang. Rizières, plage, My Son."
+        }
       ]
     },
     {
       "days": 7,
       "title": "Une semaine dans le nord",
-      "for": ["energique", "explorateur"],
+      "for": [
+        "energique",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Hanoï", "note": "Vieux quartier et cuisine de rue." },
-        { "days": "Jours 3 et 4", "place": "Ninh Binh", "note": "Barque entre les pitons." },
-        { "days": "Jours 5 à 7", "place": "Baie de Lan Ha et Cat Ba", "note": "Kayak, randonnée." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Hanoï",
+          "note": "Vieux quartier et cuisine de rue."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Ninh Binh",
+          "note": "Barque entre les pitons."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Baie de Lan Ha et Cat Ba",
+          "note": "Kayak, randonnée."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les vols intérieurs", "text": "Rapides et bon marché entre Hanoï, Da Nang et Hô Chi Minh-Ville." },
-    { "title": "Le train", "text": "La ligne de la Réunification relie Hanoï à Hô Chi Minh-Ville ; le tronçon Hué-Da Nang est superbe. Couchettes à réserver." },
-    { "title": "Les bus de nuit", "text": "Économiques, avec des couchettes, mais moins sûrs et moins confortables." },
-    { "title": "Le deux-roues", "text": "Très répandu mais dangereux : casque aux normes, pas de conduite de nuit, permis adapté à la cylindrée." }
+    {
+      "title": "Les vols intérieurs",
+      "text": "Rapides et bon marché entre Hanoï, Da Nang et Hô Chi Minh-Ville."
+    },
+    {
+      "title": "Le train",
+      "text": "La ligne de la Réunification relie Hanoï à Hô Chi Minh-Ville ; le tronçon Hué-Da Nang est superbe. Couchettes à réserver."
+    },
+    {
+      "title": "Les bus de nuit",
+      "text": "Économiques, avec des couchettes, mais moins sûrs et moins confortables."
+    },
+    {
+      "title": "Le deux-roues",
+      "text": "Très répandu mais dangereux : casque aux normes, pas de conduite de nuit, permis adapté à la cylindrée."
+    }
   ],
   "culture": [
     "Retire tes chaussures avant d'entrer dans une maison ou certains temples.",
@@ -234,11 +446,31 @@
     "Demande avant de photographier quelqu'un, notamment dans les villages."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Xin chào", "say": "sin tchao" },
-    { "fr": "Merci", "local": "Cảm ơn", "say": "cam eun" },
-    { "fr": "Combien ça coûte ?", "local": "Bao nhiêu tiền?", "say": "bao nyiou tièn" },
-    { "fr": "Pas épicé", "local": "Không cay", "say": "khom caï" },
-    { "fr": "Santé !", "local": "Một, hai, ba, dô!", "say": "mot, haï, ba, yo" }
+    {
+      "fr": "Bonjour",
+      "local": "Xin chào",
+      "say": "sin tchao"
+    },
+    {
+      "fr": "Merci",
+      "local": "Cảm ơn",
+      "say": "cam eun"
+    },
+    {
+      "fr": "Combien ça coûte ?",
+      "local": "Bao nhiêu tiền?",
+      "say": "bao nyiou tièn"
+    },
+    {
+      "fr": "Pas épicé",
+      "local": "Không cay",
+      "say": "khom caï"
+    },
+    {
+      "fr": "Santé !",
+      "local": "Một, hai, ba, dô!",
+      "say": "mot, haï, ba, yo"
+    }
   ],
   "checklist": [
     "Passeport valide au moins 6 mois à l'entrée",
@@ -251,9 +483,21 @@
     "Croisière Ha Long réservée auprès d'une compagnie sérieuse"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour le Vietnam ?", "a": "Non pour 45 jours maximum, jours d'arrivée et de départ inclus, si tu es français. Il faut un passeport valide 6 mois. Au-delà, demande un e-visa (jusqu'à 90 jours) sur le portail officiel avant de partir : ni l'un ni l'autre ne se prolonge sur place." },
-    { "q": "Quelle est la meilleure période pour le Vietnam ?", "a": "Mars et avril pour traverser tout le pays. Sinon, le nord d'octobre à avril, le centre de février à août, le sud de décembre à avril. Évite le centre de septembre à novembre (typhons, inondations)." },
-    { "q": "Quel budget pour deux semaines au Vietnam ?", "a": "Compte environ 700 000 à 1 800 000 ₫ par jour seul et 550 000 à 1 400 000 ₫ par personne à deux, hors vols et croisière à Ha Long. Ces montants sont des estimations à vérifier." },
-    { "q": "Peut-on louer une moto au Vietnam ?", "a": "C'est courant mais risqué : circulation dangereuse, casques locaux de qualité aléatoire. France Diplomatie conseille un casque aux normes européennes, pas de conduite de nuit, et un permis adapté à la cylindrée. Vérifie que ton assurance te couvre." }
+    {
+      "q": "Faut-il un visa pour le Vietnam ?",
+      "a": "Non pour 45 jours maximum, jours d'arrivée et de départ inclus, si tu es français. Il faut un passeport valide 6 mois. Au-delà, demande un e-visa (jusqu'à 90 jours) sur le portail officiel avant de partir : ni l'un ni l'autre ne se prolonge sur place."
+    },
+    {
+      "q": "Quelle est la meilleure période pour le Vietnam ?",
+      "a": "Mars et avril pour traverser tout le pays. Sinon, le nord d'octobre à avril, le centre de février à août, le sud de décembre à avril. Évite le centre de septembre à novembre (typhons, inondations)."
+    },
+    {
+      "q": "Quel budget pour deux semaines au Vietnam ?",
+      "a": "Compte environ 700 000 à 1 800 000 ₫ par jour seul et 550 000 à 1 400 000 ₫ par personne à deux, hors vols et croisière à Ha Long. Ces montants sont des estimations à vérifier."
+    },
+    {
+      "q": "Peut-on louer une moto au Vietnam ?",
+      "a": "C'est courant mais risqué : circulation dangereuse, casques locaux de qualité aléatoire. France Diplomatie conseille un casque aux normes européennes, pas de conduite de nuit, et un permis adapté à la cylindrée. Vérifie que ton assurance te couvre."
+    }
   ]
 }

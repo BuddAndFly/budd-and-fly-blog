@@ -1,0 +1,44 @@
+---
+title: "Le Visa voyageur : le test pour savoir comment tu voyages"
+seoTitle: "Test de personnalité voyageur : le Visa voyageur Budd&Fly"
+description: "Dix questions, six jauges, quatre profils : le test gratuit du Visa voyageur te dit comment tu voyages et quelles destinations te correspondent."
+category: "Préparer"
+status: "brouillon"
+publishedAt: "2026-11-25"
+updatedAt: "2026-11-25"
+author: null
+hero: null
+destinations: []
+---
+
+**Le Visa voyageur est un test gratuit de dix questions qui décrit ta façon de voyager.** Il ne te range pas dans une case pour toujours : il te donne des repères pour choisir tes destinations, ton itinéraire et tes compagnons de route.
+
+## Comment fonctionne le test
+
+Dix questions concrètes, sur des situations de voyage : que fais-tu le premier matin dans une nouvelle ville, comment réagis-tu à un train annulé, combien de temps restes-tu au même endroit.
+
+Tes réponses placent ta façon de voyager sur **six jauges** :
+
+1. **Rythme** : lent ou intense.
+2. **Organisation** : tout planifié ou improvisé.
+3. **Confort** : simple ou confortable.
+4. **Vie en groupe** : entre nous ou en groupe.
+5. **Horaires** : lève-tôt ou couche-tard.
+6. **Soirées** : calmes ou festives.
+
+## Les quatre profils
+
+À partir de ces jauges, le test te rapproche de l'un des quatre profils : **explorateur libre, énergique, voyageur lent ou stratège**. Notre article sur [les 4 profils de voyageurs](/blog/4-archetypes-voyageurs/) les détaille.
+
+## À quoi ça sert
+
+- **Choisir une destination** : chaque profil reçoit des suggestions de pays.
+- **Composer son itinéraire** : dans nos guides, villes et itinéraires sont étiquetés par profil.
+- **Personnaliser son guide PDF** : tu peux imprimer un guide adapté à ton profil, à ta durée et à ton mois de départ.
+- **Trouver un compagnon de route** : dans l'application Budd&Fly, la compatibilité entre voyageurs s'appuie sur ces jauges.
+
+## Faire le test à deux
+
+Si tu pars avec quelqu'un, faites le test chacun de votre côté et comparez vos jauges. Les plus éloignées sont les sujets à régler avant de partir, comme le propose notre [contrat de voyage en 8 points](/blog/co-voyageur-survie/).
+
+[Faire le test du Visa voyageur](/visa-voyageur/)

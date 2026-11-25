@@ -12,7 +12,15 @@
     "title": "Guide États-Unis : ESTA, budget, quand partir, itinéraires",
     "description": "Préparer un voyage aux États-Unis : ESTA, passeport, meilleure saison, budget seul ou à deux, New York, la Californie, les parcs de l'Ouest. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/etats-unis/hero.jpg",
+    "alt": "Le Grand Canyon depuis la rive sud",
+    "credit": {
+      "author": "Mgimelfarb",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_South_Rim_at_Sunset.jpg"
+    }
+  },
   "summary": "Pour un séjour touristique de moins de 90 jours, les Français ont besoin d'un passeport électronique et d'une autorisation ESTA demandée en ligne avant le départ. Le printemps et l'automne sont les meilleures saisons pour la plupart des régions. Pour un premier voyage : New York en une semaine, ou un road trip dans l'Ouest en deux semaines.",
   "essentials": {
     "bestPeriod": "Avril à juin, septembre-octobre",
@@ -24,26 +32,78 @@
     "flight": "Environ 8 h 30 depuis Paris pour New York, 11 h pour la Californie"
   },
   "months": [
-    { "rating": 1, "note": "Glacial à New York et dans le nord, mais la Floride, le sud de la Californie et Hawaï sont agréables." },
-    { "rating": 1, "note": "Toujours froid au nord. Bonne saison pour la Floride et les déserts du sud-ouest." },
-    { "rating": 1, "note": "Le printemps arrive au sud. Vacances universitaires (spring break) : Floride très animée." },
-    { "rating": 2, "note": "Doux partout ou presque, cerisiers à Washington. Idéal pour les parcs du sud-ouest avant la chaleur." },
-    { "rating": 2, "note": "Excellent mois pour New York, la Californie et les parcs de l'Ouest." },
-    { "rating": 2, "note": "Début de l'été, routes du nord ouvertes (Yellowstone, Glacier). Les parcs se remplissent." },
-    { "rating": 1, "note": "Canicule dans les déserts (Las Vegas, Death Valley), foule dans les parcs. Parfait pour le nord et la côte Pacifique." },
-    { "rating": 1, "note": "Chaleur et humidité à l'est. Début de la saison des ouragans la plus active sur la Floride et le golfe." },
-    { "rating": 2, "note": "La chaleur baisse, les vacanciers repartent. Encore une période à surveiller pour les ouragans au sud-est." },
-    { "rating": 2, "note": "Couleurs d'automne en Nouvelle-Angleterre, températures idéales dans l'Ouest." },
-    { "rating": 1, "note": "Plus frais, Thanksgiving fin novembre : déplacements et prix en hausse ce week-end-là." },
-    { "rating": 1, "note": "Ambiance de Noël à New York, mais froid. Le sud et Hawaï restent doux." }
+    {
+      "rating": 1,
+      "note": "Glacial à New York et dans le nord, mais la Floride, le sud de la Californie et Hawaï sont agréables."
+    },
+    {
+      "rating": 1,
+      "note": "Toujours froid au nord. Bonne saison pour la Floride et les déserts du sud-ouest."
+    },
+    {
+      "rating": 1,
+      "note": "Le printemps arrive au sud. Vacances universitaires (spring break) : Floride très animée."
+    },
+    {
+      "rating": 2,
+      "note": "Doux partout ou presque, cerisiers à Washington. Idéal pour les parcs du sud-ouest avant la chaleur."
+    },
+    {
+      "rating": 2,
+      "note": "Excellent mois pour New York, la Californie et les parcs de l'Ouest."
+    },
+    {
+      "rating": 2,
+      "note": "Début de l'été, routes du nord ouvertes (Yellowstone, Glacier). Les parcs se remplissent."
+    },
+    {
+      "rating": 1,
+      "note": "Canicule dans les déserts (Las Vegas, Death Valley), foule dans les parcs. Parfait pour le nord et la côte Pacifique."
+    },
+    {
+      "rating": 1,
+      "note": "Chaleur et humidité à l'est. Début de la saison des ouragans la plus active sur la Floride et le golfe."
+    },
+    {
+      "rating": 2,
+      "note": "La chaleur baisse, les vacanciers repartent. Encore une période à surveiller pour les ouragans au sud-est."
+    },
+    {
+      "rating": 2,
+      "note": "Couleurs d'automne en Nouvelle-Angleterre, températures idéales dans l'Ouest."
+    },
+    {
+      "rating": 1,
+      "note": "Plus frais, Thanksgiving fin novembre : déplacements et prix en hausse ce week-end-là."
+    },
+    {
+      "rating": 1,
+      "note": "Ambiance de Noël à New York, mais froid. Le sud et Hawaï restent doux."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en dollars, par jour et par personne, hors vols et location de voiture. Convertis au taux du jour.",
     "rows": [
-      { "label": "Hébergement (hôtel ou motel simple)", "solo": "130 à 250 $", "duo": "80 à 150 $" },
-      { "label": "Repas (pourboire compris)", "solo": "50 à 90 $", "duo": "50 à 90 $" },
-      { "label": "Transports locaux", "solo": "10 à 40 $", "duo": "10 à 30 $" },
-      { "label": "Visites et entrées", "solo": "20 à 50 $", "duo": "20 à 50 $" }
+      {
+        "label": "Hébergement (hôtel ou motel simple)",
+        "solo": "130 à 250 $",
+        "duo": "80 à 150 $"
+      },
+      {
+        "label": "Repas (pourboire compris)",
+        "solo": "50 à 90 $",
+        "duo": "50 à 90 $"
+      },
+      {
+        "label": "Transports locaux",
+        "solo": "10 à 40 $",
+        "duo": "10 à 30 $"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "20 à 50 $",
+        "duo": "20 à 50 $"
+      }
     ],
     "totalSolo": "210 à 430 $",
     "totalDuo": "160 à 320 $",
@@ -61,7 +121,10 @@
       "Pour les Français, un passeport valide pendant tout le séjour suffit, mais France Diplomatie conseille par précaution 6 mois de validité après la date de départ des États-Unis.",
       "Ne plaisante jamais avec les agents de l'immigration ou la police : des propos anodins ailleurs peuvent avoir de graves conséquences."
     ],
-    "source": { "label": "France Diplomatie, États-Unis, Entrée / séjour (mise à jour du 18 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/etats-unis/" },
+    "source": {
+      "label": "France Diplomatie, États-Unis, Entrée / séjour (mise à jour du 18 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/etats-unis/"
+    },
     "checkedAt": "2026-11-23"
   },
   "health": {
@@ -71,7 +134,10 @@
       "Des cas de dengue sont signalés à Porto Rico, à Hawaï et en Floride : protège-toi des moustiques.",
       "Mets à jour les vaccins du calendrier français."
     ],
-    "source": { "label": "France Diplomatie, États-Unis, Santé (mise à jour du 18 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/etats-unis/" },
+    "source": {
+      "label": "France Diplomatie, États-Unis, Santé (mise à jour du 18 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/etats-unis/"
+    },
     "checkedAt": "2026-11-23"
   },
   "safety": {
@@ -83,7 +149,10 @@
       "Renseigne-toi à ton hôtel sur les quartiers où l'on peut marcher, et jusqu'à quelle heure.",
       "Selon les régions et la saison : ouragans sur la côte est et le golfe, incendies et séismes dans l'Ouest. Suis les consignes des autorités."
     ],
-    "source": { "label": "France Diplomatie, États-Unis, Sécurité (mise à jour du 18 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/etats-unis/" },
+    "source": {
+      "label": "France Diplomatie, États-Unis, Sécurité (mise à jour du 18 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/etats-unis/"
+    },
     "checkedAt": "2026-11-23"
   },
   "cities": [
@@ -91,18 +160,40 @@
       "slug": "new-york",
       "name": "New York",
       "nights": "4 à 5 nuits",
-      "for": ["energique", "stratege", "tous"],
+      "for": [
+        "energique",
+        "stratege",
+        "tous"
+      ],
       "summary": "La ville qui ne dort jamais : gratte-ciel, musées immenses, quartiers aux mille ambiances. Elle se parcourt à pied et en métro.",
       "sleep": "Midtown pour le pratique, Lower East Side ou Brooklyn (Williamsburg) pour l'ambiance et des prix un peu plus doux.",
       "see": [
-        { "name": "Central Park et le Metropolitan Museum", "note": "Le parc à vélo ou à pied, puis le Met, qui mérite une journée." },
-        { "name": "Le pont de Brooklyn", "note": "À traverser à pied vers Manhattan, idéalement tôt le matin." },
-        { "name": "La High Line", "note": "Une ancienne voie ferrée transformée en promenade suspendue." },
-        { "name": "Un point de vue en hauteur", "note": "Empire State Building, Top of the Rock ou One World Observatory." }
+        {
+          "name": "Central Park et le Metropolitan Museum",
+          "note": "Le parc à vélo ou à pied, puis le Met, qui mérite une journée."
+        },
+        {
+          "name": "Le pont de Brooklyn",
+          "note": "À traverser à pied vers Manhattan, idéalement tôt le matin."
+        },
+        {
+          "name": "La High Line",
+          "note": "Une ancienne voie ferrée transformée en promenade suspendue."
+        },
+        {
+          "name": "Un point de vue en hauteur",
+          "note": "Empire State Building, Top of the Rock ou One World Observatory."
+        }
       ],
       "hidden": [
-        { "name": "Le ferry de Staten Island", "note": "Gratuit, avec vue sur la statue de la Liberté et Manhattan." },
-        { "name": "Le Queens", "note": "Les cuisines du monde entier à Flushing et Jackson Heights." }
+        {
+          "name": "Le ferry de Staten Island",
+          "note": "Gratuit, avec vue sur la statue de la Liberté et Manhattan."
+        },
+        {
+          "name": "Le Queens",
+          "note": "Les cuisines du monde entier à Flushing et Jackson Heights."
+        }
       ],
       "eat": "Une part de pizza new-yorkaise, un bagel au saumon et les restaurants de Chinatown.",
       "getAround": "Métro 24 h/24, paiement sans contact aux portiques. Marche beaucoup : c'est la meilleure façon de voir la ville.",
@@ -112,17 +203,35 @@
       "slug": "san-francisco",
       "name": "San Francisco",
       "nights": "3 nuits",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "Collines, tramways à câble, brouillard sur le Golden Gate et quartiers très différents. Point de départ du road trip californien.",
       "sleep": "Union Square pour le pratique, Nob Hill ou North Beach pour le charme. Renseigne-toi sur les rues à éviter autour du Tenderloin.",
       "see": [
-        { "name": "Le Golden Gate", "note": "À traverser à vélo jusqu'à Sausalito, retour en ferry." },
-        { "name": "Alcatraz", "note": "L'ancienne prison sur son île. Réserve plusieurs semaines à l'avance." },
-        { "name": "Les cable cars", "note": "Le tramway à câble sur les collines, tôt le matin pour éviter la file." }
+        {
+          "name": "Le Golden Gate",
+          "note": "À traverser à vélo jusqu'à Sausalito, retour en ferry."
+        },
+        {
+          "name": "Alcatraz",
+          "note": "L'ancienne prison sur son île. Réserve plusieurs semaines à l'avance."
+        },
+        {
+          "name": "Les cable cars",
+          "note": "Le tramway à câble sur les collines, tôt le matin pour éviter la file."
+        }
       ],
       "hidden": [
-        { "name": "Les Painted Ladies et Haight-Ashbury", "note": "Maisons victoriennes et quartier hippie historique." },
-        { "name": "Muir Woods", "note": "Une forêt de séquoias géants au nord du pont, sur réservation." }
+        {
+          "name": "Les Painted Ladies et Haight-Ashbury",
+          "note": "Maisons victoriennes et quartier hippie historique."
+        },
+        {
+          "name": "Muir Woods",
+          "note": "Une forêt de séquoias géants au nord du pont, sur réservation."
+        }
       ],
       "eat": "Le clam chowder dans un pain au levain, et les burritos de Mission.",
       "getAround": "Bus, tramways, métro régional (BART) depuis l'aéroport. Pas besoin de voiture en ville.",
@@ -132,16 +241,30 @@
       "slug": "los-angeles",
       "name": "Los Angeles",
       "nights": "2 à 3 nuits",
-      "for": ["energique"],
+      "for": [
+        "energique"
+      ],
       "summary": "Une ville immense et éclatée : Hollywood, plages, musées. Plus agréable en voiture, avec un programme précis.",
       "sleep": "Santa Monica pour la plage, West Hollywood pour sortir.",
       "see": [
-        { "name": "L'observatoire Griffith", "note": "Vue sur la ville et le panneau Hollywood, au coucher du soleil." },
-        { "name": "Le Getty Center", "note": "Un musée gratuit (parking payant) sur une colline, architecture et jardins." },
-        { "name": "Santa Monica et Venice Beach", "note": "La jetée, la promenade et les canaux de Venice." }
+        {
+          "name": "L'observatoire Griffith",
+          "note": "Vue sur la ville et le panneau Hollywood, au coucher du soleil."
+        },
+        {
+          "name": "Le Getty Center",
+          "note": "Un musée gratuit (parking payant) sur une colline, architecture et jardins."
+        },
+        {
+          "name": "Santa Monica et Venice Beach",
+          "note": "La jetée, la promenade et les canaux de Venice."
+        }
       ],
       "hidden": [
-        { "name": "Le centre historique et The Broad", "note": "Art contemporain gratuit sur réservation et architecture du Walt Disney Concert Hall." }
+        {
+          "name": "Le centre historique et The Broad",
+          "note": "Art contemporain gratuit sur réservation et architecture du Walt Disney Concert Hall."
+        }
       ],
       "eat": "Les tacos des camions de rue et les marchés couverts comme Grand Central Market.",
       "getAround": "Voiture quasiment indispensable. Évite les heures de pointe sur les autoroutes.",
@@ -151,17 +274,35 @@
       "slug": "parcs-de-l-ouest",
       "name": "Les parcs de l'Ouest",
       "nights": "5 à 7 nuits",
-      "for": ["explorateur", "tous"],
+      "for": [
+        "explorateur",
+        "tous"
+      ],
       "summary": "Grand Canyon, Monument Valley, Zion, Bryce, Yosemite : les grands paysages de l'Ouest, en road trip.",
       "sleep": "Dans les lodges des parcs ou les motels des villes voisines, à réserver très tôt.",
       "see": [
-        { "name": "Le Grand Canyon (rive sud)", "note": "Lever ou coucher du soleil depuis les points de vue, randonnée sur le Bright Angel Trail." },
-        { "name": "Zion et Bryce Canyon", "note": "Canyons rouges et cheminées de fée, deux parcs proches l'un de l'autre." },
-        { "name": "Monument Valley", "note": "Les buttes du western, en territoire navajo." },
-        { "name": "Yosemite", "note": "Falaises de granit et séquoias. Réservation d'entrée parfois exigée en saison." }
+        {
+          "name": "Le Grand Canyon (rive sud)",
+          "note": "Lever ou coucher du soleil depuis les points de vue, randonnée sur le Bright Angel Trail."
+        },
+        {
+          "name": "Zion et Bryce Canyon",
+          "note": "Canyons rouges et cheminées de fée, deux parcs proches l'un de l'autre."
+        },
+        {
+          "name": "Monument Valley",
+          "note": "Les buttes du western, en territoire navajo."
+        },
+        {
+          "name": "Yosemite",
+          "note": "Falaises de granit et séquoias. Réservation d'entrée parfois exigée en saison."
+        }
       ],
       "hidden": [
-        { "name": "Antelope Canyon", "note": "Un canyon étroit aux parois ondulées, visite guidée obligatoire avec un guide navajo." }
+        {
+          "name": "Antelope Canyon",
+          "note": "Un canyon étroit aux parois ondulées, visite guidée obligatoire avec un guide navajo."
+        }
       ],
       "eat": "Les diners de bord de route, et des provisions pour les journées dans les parcs.",
       "getAround": "Voiture indispensable. Distances énormes : prévois des étapes de 3 à 5 heures de route maximum.",
@@ -171,16 +312,31 @@
       "slug": "la-nouvelle-orleans",
       "name": "La Nouvelle-Orléans",
       "nights": "3 nuits",
-      "for": ["energique", "lent"],
+      "for": [
+        "energique",
+        "lent"
+      ],
       "summary": "Jazz, architecture créole et héritage français : une ville à part, festive et chaleureuse.",
       "sleep": "Le Quartier français pour l'ambiance, le Garden District ou le quartier Marigny pour le calme.",
       "see": [
-        { "name": "Le Quartier français", "note": "Balcons en fer forgé, Jackson Square, musique à chaque coin de rue." },
-        { "name": "Frenchmen Street", "note": "Les clubs de jazz où jouent les musiciens locaux." },
-        { "name": "Le Garden District", "note": "Grandes demeures du XIXe siècle, en tramway sur St. Charles Avenue." }
+        {
+          "name": "Le Quartier français",
+          "note": "Balcons en fer forgé, Jackson Square, musique à chaque coin de rue."
+        },
+        {
+          "name": "Frenchmen Street",
+          "note": "Les clubs de jazz où jouent les musiciens locaux."
+        },
+        {
+          "name": "Le Garden District",
+          "note": "Grandes demeures du XIXe siècle, en tramway sur St. Charles Avenue."
+        }
       ],
       "hidden": [
-        { "name": "Les bayous", "note": "Une sortie en bateau dans les marais à la découverte des alligators." }
+        {
+          "name": "Les bayous",
+          "note": "Une sortie en bateau dans les marais à la découverte des alligators."
+        }
       ],
       "eat": "Le gumbo, le jambalaya, le po'boy et les beignets du Café du Monde.",
       "getAround": "À pied dans le centre, tramways historiques pour le reste.",
@@ -191,41 +347,107 @@
     {
       "days": 7,
       "title": "New York",
-      "for": ["energique", "stratege", "tous"],
+      "for": [
+        "energique",
+        "stratege",
+        "tous"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Manhattan", "note": "Midtown, Central Park, musées, High Line." },
-        { "days": "Jours 4 et 5", "place": "Brooklyn et le Queens", "note": "Pont de Brooklyn, Williamsburg, cuisines du monde." },
-        { "days": "Jours 6 et 7", "place": "Downtown", "note": "Statue de la Liberté, Financial District, retour." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Manhattan",
+          "note": "Midtown, Central Park, musées, High Line."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Brooklyn et le Queens",
+          "note": "Pont de Brooklyn, Williamsburg, cuisines du monde."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Downtown",
+          "note": "Statue de la Liberté, Financial District, retour."
+        }
       ]
     },
     {
       "days": 14,
       "title": "Road trip dans l'Ouest",
-      "for": ["explorateur", "tous"],
+      "for": [
+        "explorateur",
+        "tous"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "San Francisco", "note": "Golden Gate, Alcatraz." },
-        { "days": "Jours 4 et 5", "place": "Yosemite", "note": "Selon la saison et les routes ouvertes." },
-        { "days": "Jours 6 et 7", "place": "Las Vegas et Zion", "note": "Par la vallée de la Mort, à éviter en plein été." },
-        { "days": "Jours 8 à 10", "place": "Bryce, Monument Valley, Grand Canyon", "note": "Le cœur du voyage." },
-        { "days": "Jours 11 à 14", "place": "Route 66 puis Los Angeles", "note": "Retour depuis Los Angeles." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "San Francisco",
+          "note": "Golden Gate, Alcatraz."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Yosemite",
+          "note": "Selon la saison et les routes ouvertes."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Las Vegas et Zion",
+          "note": "Par la vallée de la Mort, à éviter en plein été."
+        },
+        {
+          "days": "Jours 8 à 10",
+          "place": "Bryce, Monument Valley, Grand Canyon",
+          "note": "Le cœur du voyage."
+        },
+        {
+          "days": "Jours 11 à 14",
+          "place": "Route 66 puis Los Angeles",
+          "note": "Retour depuis Los Angeles."
+        }
       ]
     },
     {
       "days": 10,
       "title": "Grandes villes de l'Est",
-      "for": ["stratege", "lent"],
+      "for": [
+        "stratege",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 5", "place": "New York", "note": "À ton rythme." },
-        { "days": "Jours 6 et 7", "place": "Washington", "note": "En train. Musées gratuits du Smithsonian." },
-        { "days": "Jours 8 à 10", "place": "La Nouvelle-Orléans", "note": "En avion. Jazz et bayous." }
+        {
+          "days": "Jours 1 à 5",
+          "place": "New York",
+          "note": "À ton rythme."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Washington",
+          "note": "En train. Musées gratuits du Smithsonian."
+        },
+        {
+          "days": "Jours 8 à 10",
+          "place": "La Nouvelle-Orléans",
+          "note": "En avion. Jazz et bayous."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "En voiture", "text": "Indispensable dans l'Ouest. Le permis français suffit pour un séjour touristique dans la plupart des États ; un permis international est recommandé. Vérifie l'assurance au tiers incluse dans la location." },
-    { "title": "L'avion", "text": "Les distances sont immenses : les vols intérieurs font gagner un temps précieux entre côtes." },
-    { "title": "Le train", "text": "Pratique entre Boston, New York et Washington. Ailleurs, lent mais spectaculaire (California Zephyr)." },
-    { "title": "En ville", "text": "Métro efficace à New York, Washington, Chicago et San Francisco. Ailleurs, applications de VTC." }
+    {
+      "title": "En voiture",
+      "text": "Indispensable dans l'Ouest. Le permis français suffit pour un séjour touristique dans la plupart des États ; un permis international est recommandé. Vérifie l'assurance au tiers incluse dans la location."
+    },
+    {
+      "title": "L'avion",
+      "text": "Les distances sont immenses : les vols intérieurs font gagner un temps précieux entre côtes."
+    },
+    {
+      "title": "Le train",
+      "text": "Pratique entre Boston, New York et Washington. Ailleurs, lent mais spectaculaire (California Zephyr)."
+    },
+    {
+      "title": "En ville",
+      "text": "Métro efficace à New York, Washington, Chicago et San Francisco. Ailleurs, applications de VTC."
+    }
   ],
   "culture": [
     "Le pourboire est obligatoire de fait : 18 à 20 % au restaurant, 1 à 2 $ par boisson au bar, aussi pour les taxis et les femmes de chambre.",
@@ -246,10 +468,25 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour les États-Unis ?", "a": "Non pour un séjour touristique de 90 jours maximum, mais il faut un passeport électronique ou biométrique et une autorisation ESTA demandée en ligne avant le départ. Sans ESTA, tu ne pourras pas embarquer." },
-    { "q": "Combien de temps à l'avance demander l'ESTA ?", "a": "La réponse arrive souvent vite, mais demande-la au moins quelques jours avant le départ, et uniquement sur le site officiel du gouvernement américain. Elle est valable 2 ans." },
-    { "q": "Qui ne peut pas avoir d'ESTA ?", "a": "Les personnes allées à Cuba depuis le 12 janvier 2021, ou en Iran, Irak, Syrie, Libye, Somalie, Yémen ou au Soudan depuis le 1er mars 2011, doivent demander un visa. C'est plus long : anticipe." },
-    { "q": "Quel budget pour deux semaines aux États-Unis ?", "a": "Compte environ 210 à 430 $ par jour seul et 160 à 320 $ par personne à deux, hors vols et voiture. Les taxes et les pourboires s'ajoutent aux prix affichés. Ces montants sont des estimations à vérifier." },
-    { "q": "Quelle assurance pour les États-Unis ?", "a": "Une assurance avec des plafonds de frais médicaux très élevés et le rapatriement : une hospitalisation peut coûter des dizaines de milliers de dollars. Vérifie les plafonds de ta carte bancaire, souvent insuffisants pour ce pays." }
+    {
+      "q": "Faut-il un visa pour les États-Unis ?",
+      "a": "Non pour un séjour touristique de 90 jours maximum, mais il faut un passeport électronique ou biométrique et une autorisation ESTA demandée en ligne avant le départ. Sans ESTA, tu ne pourras pas embarquer."
+    },
+    {
+      "q": "Combien de temps à l'avance demander l'ESTA ?",
+      "a": "La réponse arrive souvent vite, mais demande-la au moins quelques jours avant le départ, et uniquement sur le site officiel du gouvernement américain. Elle est valable 2 ans."
+    },
+    {
+      "q": "Qui ne peut pas avoir d'ESTA ?",
+      "a": "Les personnes allées à Cuba depuis le 12 janvier 2021, ou en Iran, Irak, Syrie, Libye, Somalie, Yémen ou au Soudan depuis le 1er mars 2011, doivent demander un visa. C'est plus long : anticipe."
+    },
+    {
+      "q": "Quel budget pour deux semaines aux États-Unis ?",
+      "a": "Compte environ 210 à 430 $ par jour seul et 160 à 320 $ par personne à deux, hors vols et voiture. Les taxes et les pourboires s'ajoutent aux prix affichés. Ces montants sont des estimations à vérifier."
+    },
+    {
+      "q": "Quelle assurance pour les États-Unis ?",
+      "a": "Une assurance avec des plafonds de frais médicaux très élevés et le rapatriement : une hospitalisation peut coûter des dizaines de milliers de dollars. Vérifie les plafonds de ta carte bancaire, souvent insuffisants pour ce pays."
+    }
   ]
 }

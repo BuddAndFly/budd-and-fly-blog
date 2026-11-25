@@ -12,7 +12,15 @@
     "title": "Guide Indonésie et Bali : visa, budget, quand partir",
     "description": "Préparer un voyage en Indonésie : visa à l'arrivée, taxe de Bali, meilleure saison, budget seul ou à deux, Ubud, les Gili, Java, Komodo. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/indonesie/hero.jpg",
+    "alt": "Les rizières en terrasses de Bali",
+    "credit": {
+      "author": "Vyacheslav Argenberg",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Rice_terraces,_Bali.jpg"
+    }
+  },
   "summary": "Bali, Java et les îles voisines se visitent idéalement pendant la saison sèche, de mai à septembre. Les Français obtiennent un visa de 30 jours à l'arrivée (payant, prolongeable une fois), avec un passeport valide plus de 6 mois et en très bon état. Bali ajoute une taxe touristique à chaque entrée.",
   "essentials": {
     "bestPeriod": "Mai à septembre",
@@ -24,26 +32,78 @@
     "flight": "Pas de vol direct : compte 16 à 20 h avec une escale"
   },
   "months": [
-    { "rating": 0, "note": "Cœur de la saison des pluies : averses fortes, mer agitée, routes parfois coupées." },
-    { "rating": 0, "note": "Toujours pluvieux, mais calme et moins cher." },
-    { "rating": 1, "note": "Les pluies diminuent. Nyepi, le jour du silence balinais, tombe souvent en mars : l'île s'arrête entièrement, aéroport compris." },
-    { "rating": 1, "note": "Transition vers la saison sèche, végétation luxuriante." },
-    { "rating": 2, "note": "Début de la saison sèche, avant la foule de l'été." },
-    { "rating": 2, "note": "Sec et ensoleillé, idéal pour les volcans et les îles." },
-    { "rating": 2, "note": "Le meilleur temps de l'année, mais Bali est très fréquentée. Réserve tôt." },
-    { "rating": 1, "note": "Toujours sec, mais pic de fréquentation et de prix à Bali." },
-    { "rating": 2, "note": "Encore sec, la foule repart : excellent mois." },
-    { "rating": 1, "note": "Fin de la saison sèche, chaleur humide. Bon pour Komodo." },
-    { "rating": 0, "note": "Retour des pluies, surtout en fin de journée." },
-    { "rating": 0, "note": "Saison des pluies et vacances de fin d'année : beaucoup de monde à Bali malgré la météo." }
+    {
+      "rating": 0,
+      "note": "Cœur de la saison des pluies : averses fortes, mer agitée, routes parfois coupées."
+    },
+    {
+      "rating": 0,
+      "note": "Toujours pluvieux, mais calme et moins cher."
+    },
+    {
+      "rating": 1,
+      "note": "Les pluies diminuent. Nyepi, le jour du silence balinais, tombe souvent en mars : l'île s'arrête entièrement, aéroport compris."
+    },
+    {
+      "rating": 1,
+      "note": "Transition vers la saison sèche, végétation luxuriante."
+    },
+    {
+      "rating": 2,
+      "note": "Début de la saison sèche, avant la foule de l'été."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et ensoleillé, idéal pour les volcans et les îles."
+    },
+    {
+      "rating": 2,
+      "note": "Le meilleur temps de l'année, mais Bali est très fréquentée. Réserve tôt."
+    },
+    {
+      "rating": 1,
+      "note": "Toujours sec, mais pic de fréquentation et de prix à Bali."
+    },
+    {
+      "rating": 2,
+      "note": "Encore sec, la foule repart : excellent mois."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison sèche, chaleur humide. Bon pour Komodo."
+    },
+    {
+      "rating": 0,
+      "note": "Retour des pluies, surtout en fin de journée."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies et vacances de fin d'année : beaucoup de monde à Bali malgré la météo."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en roupies, par jour et par personne, hors vols internationaux. Convertis au taux du jour.",
     "rows": [
-      { "label": "Hébergement (guesthouse ou petit hôtel)", "solo": "350 000 à 900 000 Rp", "duo": "200 000 à 550 000 Rp" },
-      { "label": "Repas (warung et restaurants)", "solo": "150 000 à 400 000 Rp", "duo": "150 000 à 400 000 Rp" },
-      { "label": "Transports locaux (chauffeur ou scooter)", "solo": "100 000 à 350 000 Rp", "duo": "60 000 à 200 000 Rp" },
-      { "label": "Visites et entrées", "solo": "50 000 à 200 000 Rp", "duo": "50 000 à 200 000 Rp" }
+      {
+        "label": "Hébergement (guesthouse ou petit hôtel)",
+        "solo": "350 000 à 900 000 Rp",
+        "duo": "200 000 à 550 000 Rp"
+      },
+      {
+        "label": "Repas (warung et restaurants)",
+        "solo": "150 000 à 400 000 Rp",
+        "duo": "150 000 à 400 000 Rp"
+      },
+      {
+        "label": "Transports locaux (chauffeur ou scooter)",
+        "solo": "100 000 à 350 000 Rp",
+        "duo": "60 000 à 200 000 Rp"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "50 000 à 200 000 Rp",
+        "duo": "50 000 à 200 000 Rp"
+      }
     ],
     "totalSolo": "650 000 à 1 850 000 Rp",
     "totalDuo": "460 000 à 1 350 000 Rp",
@@ -60,7 +120,10 @@
       "Le visa à l'arrivée (30 jours, une entrée) peut être prolongé une seule fois de 30 jours auprès de l'immigration sur place.",
       "Bali : taxe touristique de 150 000 Rp (environ 7,5 €) à chaque entrée sur l'île, à payer en ligne (Love Bali) ou à l'arrivée."
     ],
-    "source": { "label": "France Diplomatie, Indonésie, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/indonesie/" },
+    "source": {
+      "label": "France Diplomatie, Indonésie, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/indonesie/"
+    },
     "checkedAt": "2026-11-23"
   },
   "health": {
@@ -73,7 +136,10 @@
       "Paludisme : demande conseil à un médecin selon les îles visitées.",
       "Assurance santé et rapatriement indispensable."
     ],
-    "source": { "label": "France Diplomatie, Indonésie, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/indonesie/" },
+    "source": {
+      "label": "France Diplomatie, Indonésie, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/indonesie/"
+    },
     "checkedAt": "2026-11-23"
   },
   "safety": {
@@ -86,7 +152,10 @@
       "Ne bois pas d'alcool local artisanal (arak) : l'alcool frelaté peut rendre aveugle ou tuer.",
       "Drogue : la possession, même de 0,2 g, est punie de prison et de très lourdes amendes."
     ],
-    "source": { "label": "France Diplomatie, Indonésie, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/indonesie/" },
+    "source": {
+      "label": "France Diplomatie, Indonésie, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/indonesie/"
+    },
     "checkedAt": "2026-11-23"
   },
   "cities": [
@@ -94,17 +163,35 @@
       "slug": "ubud",
       "name": "Ubud (Bali)",
       "nights": "3 à 4 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Le cœur culturel de Bali : rizières en terrasses, temples, danses et ateliers d'artisans.",
       "sleep": "Dans le centre pour tout faire à pied, ou dans les rizières alentour pour le calme.",
       "see": [
-        { "name": "Les rizières de Tegallalang", "note": "Tôt le matin, avant la chaleur et les groupes." },
-        { "name": "Le temple de Tirta Empul", "note": "Les bassins d'eau sacrée où les Balinais viennent se purifier." },
-        { "name": "Un spectacle de danse balinaise", "note": "Au palais d'Ubud, le soir." }
+        {
+          "name": "Les rizières de Tegallalang",
+          "note": "Tôt le matin, avant la chaleur et les groupes."
+        },
+        {
+          "name": "Le temple de Tirta Empul",
+          "note": "Les bassins d'eau sacrée où les Balinais viennent se purifier."
+        },
+        {
+          "name": "Un spectacle de danse balinaise",
+          "note": "Au palais d'Ubud, le soir."
+        }
       ],
       "hidden": [
-        { "name": "La balade de Campuhan", "note": "Une crête herbeuse entre deux vallées, au lever du soleil." },
-        { "name": "Sidemen", "note": "Une vallée de rizières encore paisible, à l'est de l'île." }
+        {
+          "name": "La balade de Campuhan",
+          "note": "Une crête herbeuse entre deux vallées, au lever du soleil."
+        },
+        {
+          "name": "Sidemen",
+          "note": "Une vallée de rizières encore paisible, à l'est de l'île."
+        }
       ],
       "eat": "Le babi guling (cochon de lait rôti) et le nasi campur dans les warung, petites cantines locales.",
       "getAround": "Chauffeur à la journée ou applications de VTC ; le scooter est risqué sans expérience.",
@@ -114,16 +201,31 @@
       "slug": "uluwatu",
       "name": "Uluwatu et le sud de Bali",
       "nights": "2 à 3 nuits",
-      "for": ["energique", "explorateur"],
+      "for": [
+        "energique",
+        "explorateur"
+      ],
       "summary": "Falaises, plages de surf et couchers de soleil spectaculaires sur la péninsule de Bukit.",
       "sleep": "Autour d'Uluwatu ou de Bingin pour les plages, Canggu pour l'ambiance et les cafés.",
       "see": [
-        { "name": "Le temple d'Uluwatu", "note": "Au bord de la falaise, avec la danse kecak au coucher du soleil." },
-        { "name": "Les plages de Padang Padang et Bingin", "note": "Criques au pied des falaises." },
-        { "name": "Une session de surf", "note": "Cours pour débutants à Kuta ou Canggu." }
+        {
+          "name": "Le temple d'Uluwatu",
+          "note": "Au bord de la falaise, avec la danse kecak au coucher du soleil."
+        },
+        {
+          "name": "Les plages de Padang Padang et Bingin",
+          "note": "Criques au pied des falaises."
+        },
+        {
+          "name": "Une session de surf",
+          "note": "Cours pour débutants à Kuta ou Canggu."
+        }
       ],
       "hidden": [
-        { "name": "Nusa Penida", "note": "Une île sauvage aux falaises vertigineuses, en bateau rapide." }
+        {
+          "name": "Nusa Penida",
+          "note": "Une île sauvage aux falaises vertigineuses, en bateau rapide."
+        }
       ],
       "eat": "Poissons grillés à Jimbaran, les pieds dans le sable.",
       "getAround": "Chauffeur ou VTC. Le trafic dans le sud de Bali est souvent très dense.",
@@ -133,16 +235,31 @@
       "slug": "gili",
       "name": "Les îles Gili",
       "nights": "3 nuits",
-      "for": ["lent", "energique"],
+      "for": [
+        "lent",
+        "energique"
+      ],
       "summary": "Trois petites îles sans voitures au large de Lombok : snorkeling avec les tortues et vie de plage.",
       "sleep": "Gili Trawangan pour la fête, Gili Air pour l'équilibre, Gili Meno pour le calme.",
       "see": [
-        { "name": "Le snorkeling avec les tortues", "note": "Souvent visibles juste au bord des plages." },
-        { "name": "Le tour de l'île à vélo", "note": "Une heure suffit à Gili Trawangan." },
-        { "name": "Le coucher de soleil sur le mont Agung", "note": "Depuis la côte ouest." }
+        {
+          "name": "Le snorkeling avec les tortues",
+          "note": "Souvent visibles juste au bord des plages."
+        },
+        {
+          "name": "Le tour de l'île à vélo",
+          "note": "Une heure suffit à Gili Trawangan."
+        },
+        {
+          "name": "Le coucher de soleil sur le mont Agung",
+          "note": "Depuis la côte ouest."
+        }
       ],
       "hidden": [
-        { "name": "Lombok", "note": "L'île voisine, plus sauvage que Bali, et le volcan Rinjani pour les sportifs." }
+        {
+          "name": "Lombok",
+          "note": "L'île voisine, plus sauvage que Bali, et le volcan Rinjani pour les sportifs."
+        }
       ],
       "eat": "Les marchés de nuit de poisson grillé.",
       "getAround": "À pied, à vélo ou en charrette à cheval (cidomo). Bateaux rapides depuis Bali.",
@@ -152,16 +269,31 @@
       "slug": "yogyakarta",
       "name": "Yogyakarta (Java)",
       "nights": "3 nuits",
-      "for": ["stratege", "explorateur"],
+      "for": [
+        "stratege",
+        "explorateur"
+      ],
       "summary": "La capitale culturelle de Java, entre deux temples majeurs : Borobudur et Prambanan.",
       "sleep": "Près de la rue Malioboro ou du palais du sultan (kraton).",
       "see": [
-        { "name": "Borobudur", "note": "Le plus grand temple bouddhiste du monde. L'accès au sommet est limité : réserve." },
-        { "name": "Prambanan", "note": "Temples hindous élancés, superbes au coucher du soleil." },
-        { "name": "Le kraton", "note": "Le palais du sultan, toujours habité." }
+        {
+          "name": "Borobudur",
+          "note": "Le plus grand temple bouddhiste du monde. L'accès au sommet est limité : réserve."
+        },
+        {
+          "name": "Prambanan",
+          "note": "Temples hindous élancés, superbes au coucher du soleil."
+        },
+        {
+          "name": "Le kraton",
+          "note": "Le palais du sultan, toujours habité."
+        }
       ],
       "hidden": [
-        { "name": "Le plateau de Dieng", "note": "Lacs colorés et temples anciens en altitude." }
+        {
+          "name": "Le plateau de Dieng",
+          "note": "Lacs colorés et temples anciens en altitude."
+        }
       ],
       "eat": "Le gudeg, ragoût de jacquier, spécialité de la ville.",
       "getAround": "VTC, becak (vélo-taxi) et train vers les autres villes de Java.",
@@ -171,16 +303,31 @@
       "slug": "labuan-bajo",
       "name": "Labuan Bajo et Komodo",
       "nights": "3 nuits",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "summary": "La porte du parc national de Komodo : dragons, plage rose et parmi les plus beaux fonds marins du monde.",
       "sleep": "À Labuan Bajo, ou à bord d'un bateau pour une croisière de 2 ou 3 jours.",
       "see": [
-        { "name": "Les dragons de Komodo", "note": "Sur les îles de Komodo ou Rinca, avec un ranger obligatoire." },
-        { "name": "L'île de Padar", "note": "Le point de vue sur trois baies, au lever du soleil." },
-        { "name": "La plage rose", "note": "Et le snorkeling avec les raies manta selon la saison." }
+        {
+          "name": "Les dragons de Komodo",
+          "note": "Sur les îles de Komodo ou Rinca, avec un ranger obligatoire."
+        },
+        {
+          "name": "L'île de Padar",
+          "note": "Le point de vue sur trois baies, au lever du soleil."
+        },
+        {
+          "name": "La plage rose",
+          "note": "Et le snorkeling avec les raies manta selon la saison."
+        }
       ],
       "hidden": [
-        { "name": "L'intérieur de Flores", "note": "Rizières en toile d'araignée et villages traditionnels." }
+        {
+          "name": "L'intérieur de Flores",
+          "note": "Rizières en toile d'araignée et villages traditionnels."
+        }
       ],
       "eat": "Le marché aux poissons du soir à Labuan Bajo.",
       "getAround": "Vol depuis Bali, puis bateau. Choisis un opérateur sérieux, avec gilets de sauvetage.",
@@ -191,41 +338,106 @@
     {
       "days": 14,
       "title": "Bali et les Gili",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Ubud", "note": "Rizières, temples, danse." },
-        { "days": "Jours 5 et 6", "place": "Sidemen ou l'est de Bali", "note": "Calme et rizières." },
-        { "days": "Jours 7 à 10", "place": "Les îles Gili", "note": "Bateau rapide. Tortues et plage." },
-        { "days": "Jours 11 à 14", "place": "Uluwatu", "note": "Plages, coucher de soleil, retour." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Ubud",
+          "note": "Rizières, temples, danse."
+        },
+        {
+          "days": "Jours 5 et 6",
+          "place": "Sidemen ou l'est de Bali",
+          "note": "Calme et rizières."
+        },
+        {
+          "days": "Jours 7 à 10",
+          "place": "Les îles Gili",
+          "note": "Bateau rapide. Tortues et plage."
+        },
+        {
+          "days": "Jours 11 à 14",
+          "place": "Uluwatu",
+          "note": "Plages, coucher de soleil, retour."
+        }
       ]
     },
     {
       "days": 14,
       "title": "Java, Bali, Komodo",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Yogyakarta", "note": "Borobudur et Prambanan." },
-        { "days": "Jours 4 et 5", "place": "Bromo et Ijen", "note": "Volcans au lever du soleil." },
-        { "days": "Jours 6 à 9", "place": "Ubud", "note": "Ferry vers Bali." },
-        { "days": "Jours 10 à 12", "place": "Komodo", "note": "Vol vers Labuan Bajo, croisière." },
-        { "days": "Jours 13 et 14", "place": "Sud de Bali", "note": "Retour." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Yogyakarta",
+          "note": "Borobudur et Prambanan."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Bromo et Ijen",
+          "note": "Volcans au lever du soleil."
+        },
+        {
+          "days": "Jours 6 à 9",
+          "place": "Ubud",
+          "note": "Ferry vers Bali."
+        },
+        {
+          "days": "Jours 10 à 12",
+          "place": "Komodo",
+          "note": "Vol vers Labuan Bajo, croisière."
+        },
+        {
+          "days": "Jours 13 et 14",
+          "place": "Sud de Bali",
+          "note": "Retour."
+        }
       ]
     },
     {
       "days": 10,
       "title": "Bali en douceur",
-      "for": ["lent", "stratege"],
+      "for": [
+        "lent",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 à 5", "place": "Ubud", "note": "Avec une excursion à Sidemen." },
-        { "days": "Jours 6 à 10", "place": "Le sud de Bali et Nusa Penida", "note": "Plages et falaises." }
+        {
+          "days": "Jours 1 à 5",
+          "place": "Ubud",
+          "note": "Avec une excursion à Sidemen."
+        },
+        {
+          "days": "Jours 6 à 10",
+          "place": "Le sud de Bali et Nusa Penida",
+          "note": "Plages et falaises."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les vols intérieurs", "text": "Indispensables pour Komodo, Sumatra ou Sulawesi. Réserve à l'avance en haute saison." },
-    { "title": "Les bateaux", "text": "Bateaux rapides Bali-Gili-Lombok et ferries entre Java et Bali. Choisis des compagnies reconnues et vérifie les gilets." },
-    { "title": "Le chauffeur", "text": "À Bali, louer une voiture avec chauffeur à la journée est courant et pas très cher, surtout à plusieurs." },
-    { "title": "Le scooter", "text": "Très répandu, mais dangereux sans expérience. Il faut un permis moto valide et un permis international, sinon l'assurance ne couvre rien." }
+    {
+      "title": "Les vols intérieurs",
+      "text": "Indispensables pour Komodo, Sumatra ou Sulawesi. Réserve à l'avance en haute saison."
+    },
+    {
+      "title": "Les bateaux",
+      "text": "Bateaux rapides Bali-Gili-Lombok et ferries entre Java et Bali. Choisis des compagnies reconnues et vérifie les gilets."
+    },
+    {
+      "title": "Le chauffeur",
+      "text": "À Bali, louer une voiture avec chauffeur à la journée est courant et pas très cher, surtout à plusieurs."
+    },
+    {
+      "title": "Le scooter",
+      "text": "Très répandu, mais dangereux sans expérience. Il faut un permis moto valide et un permis international, sinon l'assurance ne couvre rien."
+    }
   ],
   "culture": [
     "Dans les temples, sarong et ceinture obligatoires (souvent prêtés à l'entrée), épaules couvertes.",
@@ -235,11 +447,31 @@
     "Le jour de Nyepi, à Bali, personne ne sort, y compris les touristes : tout est fermé."
   ],
   "phrases": [
-    { "fr": "Bonjour (le matin)", "local": "Selamat pagi", "say": "slamat pagui" },
-    { "fr": "Merci", "local": "Terima kasih", "say": "trima kassi" },
-    { "fr": "Combien ?", "local": "Berapa?", "say": "brapa" },
-    { "fr": "Pas épicé", "local": "Tidak pedas", "say": "tida pédass" },
-    { "fr": "Délicieux", "local": "Enak", "say": "énak" }
+    {
+      "fr": "Bonjour (le matin)",
+      "local": "Selamat pagi",
+      "say": "slamat pagui"
+    },
+    {
+      "fr": "Merci",
+      "local": "Terima kasih",
+      "say": "trima kassi"
+    },
+    {
+      "fr": "Combien ?",
+      "local": "Berapa?",
+      "say": "brapa"
+    },
+    {
+      "fr": "Pas épicé",
+      "local": "Tidak pedas",
+      "say": "tida pédass"
+    },
+    {
+      "fr": "Délicieux",
+      "local": "Enak",
+      "say": "énak"
+    }
   ],
   "checklist": [
     "Passeport valide plus de 6 mois à l'entrée, en très bon état, avec pages vierges",
@@ -252,9 +484,21 @@
     "Sarong pour les temples"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour Bali ?", "a": "Les Français obtiennent un visa de 30 jours à l'arrivée, payant et prolongeable une fois sur place. Il faut un passeport valide plus de 6 mois et en très bon état, un billet de sortie et le formulaire en ligne All Indonesia." },
-    { "q": "Qu'est-ce que la taxe touristique de Bali ?", "a": "Depuis le 14 février 2024, chaque visiteur paie 150 000 Rp (environ 7,5 €) à chaque entrée à Bali, en ligne sur Love Bali ou à l'arrivée." },
-    { "q": "Quand partir à Bali ?", "a": "Pendant la saison sèche, de mai à septembre. Juillet et août sont les plus beaux mais les plus fréquentés ; mai, juin et septembre offrent un bon compromis." },
-    { "q": "Quel budget pour deux semaines en Indonésie ?", "a": "Compte environ 650 000 à 1 850 000 Rp par jour seul et 460 000 à 1 350 000 Rp par personne à deux, hors vols, visa et excursions. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour Bali ?",
+      "a": "Les Français obtiennent un visa de 30 jours à l'arrivée, payant et prolongeable une fois sur place. Il faut un passeport valide plus de 6 mois et en très bon état, un billet de sortie et le formulaire en ligne All Indonesia."
+    },
+    {
+      "q": "Qu'est-ce que la taxe touristique de Bali ?",
+      "a": "Depuis le 14 février 2024, chaque visiteur paie 150 000 Rp (environ 7,5 €) à chaque entrée à Bali, en ligne sur Love Bali ou à l'arrivée."
+    },
+    {
+      "q": "Quand partir à Bali ?",
+      "a": "Pendant la saison sèche, de mai à septembre. Juillet et août sont les plus beaux mais les plus fréquentés ; mai, juin et septembre offrent un bon compromis."
+    },
+    {
+      "q": "Quel budget pour deux semaines en Indonésie ?",
+      "a": "Compte environ 650 000 à 1 850 000 Rp par jour seul et 460 000 à 1 350 000 Rp par personne à deux, hors vols, visa et excursions. Ces montants sont des estimations à vérifier."
+    }
   ]
 }

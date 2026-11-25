@@ -12,7 +12,15 @@
     "title": "Guide Italie : quand partir, budget, villes, itinéraires",
     "description": "Préparer un voyage en Italie : meilleure saison, budget seul ou à deux, Rome, Florence, Venise, Naples, les Pouilles et itinéraires. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/italie/hero.jpg",
+    "alt": "Le village coloré de Manarola, dans les Cinque Terre",
+    "credit": {
+      "author": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but p",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Manarola_NW_Cinque_Terre_Sep23_A7C_07233.jpg"
+    }
+  },
   "summary": "L'Italie se visite idéalement au printemps (avril-juin) et en septembre-octobre, quand il fait doux et que les foules sont moins denses qu'en été. Une carte d'identité suffit pour les Français. Pour un premier voyage d'une semaine, Rome et Florence ; avec dix jours, ajoute Venise ou la région de Naples.",
   "essentials": {
     "bestPeriod": "Avril à juin, septembre-octobre",
@@ -24,26 +32,78 @@
     "flight": "Environ 2 h depuis Paris pour Rome ; trains de nuit et TGV vers Turin et Milan"
   },
   "months": [
-    { "rating": 1, "note": "Froid et parfois pluvieux, mais les villes d'art sont calmes et les prix bas. Ski dans les Dolomites." },
-    { "rating": 1, "note": "Le carnaval de Venise, souvent en février selon les années : magique mais très fréquenté." },
-    { "rating": 1, "note": "Le printemps arrive dans le sud. Encore frais dans le nord. Attention à la foule de Pâques à Rome selon les années." },
-    { "rating": 2, "note": "Doux et fleuri : idéal pour les villes et la campagne toscane. Réserve tôt autour de Pâques et des jours fériés." },
-    { "rating": 2, "note": "L'un des meilleurs mois : chaud sans excès, mer qui se réchauffe dans le sud." },
-    { "rating": 2, "note": "Beau et chaud, début de la saison balnéaire. Les grands sites se remplissent." },
-    { "rating": 1, "note": "Chaleur forte dans les villes et foule partout. Parfait pour la mer et les lacs." },
-    { "rating": 1, "note": "Très chaud. Autour du 15 août (Ferragosto), les Italiens partent et beaucoup de commerces des villes ferment. Plages bondées." },
-    { "rating": 2, "note": "La mer est chaude, la chaleur retombe, les foules diminuent : excellent mois." },
-    { "rating": 2, "note": "Doux, lumineux, saison des vendanges et des truffes. Idéal pour la Toscane et les villes." },
-    { "rating": 1, "note": "Plus pluvieux, mais calme et bon marché. Venise peut connaître des épisodes de hautes eaux." },
-    { "rating": 1, "note": "Froid, marchés et illuminations de Noël. Villes peu fréquentées avant les fêtes." }
+    {
+      "rating": 1,
+      "note": "Froid et parfois pluvieux, mais les villes d'art sont calmes et les prix bas. Ski dans les Dolomites."
+    },
+    {
+      "rating": 1,
+      "note": "Le carnaval de Venise, souvent en février selon les années : magique mais très fréquenté."
+    },
+    {
+      "rating": 1,
+      "note": "Le printemps arrive dans le sud. Encore frais dans le nord. Attention à la foule de Pâques à Rome selon les années."
+    },
+    {
+      "rating": 2,
+      "note": "Doux et fleuri : idéal pour les villes et la campagne toscane. Réserve tôt autour de Pâques et des jours fériés."
+    },
+    {
+      "rating": 2,
+      "note": "L'un des meilleurs mois : chaud sans excès, mer qui se réchauffe dans le sud."
+    },
+    {
+      "rating": 2,
+      "note": "Beau et chaud, début de la saison balnéaire. Les grands sites se remplissent."
+    },
+    {
+      "rating": 1,
+      "note": "Chaleur forte dans les villes et foule partout. Parfait pour la mer et les lacs."
+    },
+    {
+      "rating": 1,
+      "note": "Très chaud. Autour du 15 août (Ferragosto), les Italiens partent et beaucoup de commerces des villes ferment. Plages bondées."
+    },
+    {
+      "rating": 2,
+      "note": "La mer est chaude, la chaleur retombe, les foules diminuent : excellent mois."
+    },
+    {
+      "rating": 2,
+      "note": "Doux, lumineux, saison des vendanges et des truffes. Idéal pour la Toscane et les villes."
+    },
+    {
+      "rating": 1,
+      "note": "Plus pluvieux, mais calme et bon marché. Venise peut connaître des épisodes de hautes eaux."
+    },
+    {
+      "rating": 1,
+      "note": "Froid, marchés et illuminations de Noël. Villes peu fréquentées avant les fêtes."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en euros, par jour et par personne, hors trajet depuis la France.",
     "rows": [
-      { "label": "Hébergement (hôtel simple ou chambre d'hôtes)", "solo": "70 à 130 €", "duo": "45 à 80 €" },
-      { "label": "Repas", "solo": "30 à 50 €", "duo": "30 à 50 €" },
-      { "label": "Transports locaux", "solo": "5 à 15 €", "duo": "5 à 15 €" },
-      { "label": "Visites et entrées", "solo": "10 à 30 €", "duo": "10 à 30 €" }
+      {
+        "label": "Hébergement (hôtel simple ou chambre d'hôtes)",
+        "solo": "70 à 130 €",
+        "duo": "45 à 80 €"
+      },
+      {
+        "label": "Repas",
+        "solo": "30 à 50 €",
+        "duo": "30 à 50 €"
+      },
+      {
+        "label": "Transports locaux",
+        "solo": "5 à 15 €",
+        "duo": "5 à 15 €"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "10 à 30 €",
+        "duo": "10 à 30 €"
+      }
     ],
     "totalSolo": "115 à 225 €",
     "totalDuo": "90 à 175 €",
@@ -58,7 +118,10 @@
       "Cartes d'identité délivrées entre 2004 et 2013 à des majeurs : elles restent valables 5 ans après la date inscrite et l'Italie l'accepte officiellement, mais France Diplomatie recommande de voyager avec un passeport valide pour éviter tout souci.",
       "Un mineur qui voyage sans ses parents doit avoir une autorisation de sortie du territoire (AST), exigée par la France."
     ],
-    "source": { "label": "France Diplomatie, Italie, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/italie/" },
+    "source": {
+      "label": "France Diplomatie, Italie, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/italie/"
+    },
     "checkedAt": "2026-11-23"
   },
   "health": {
@@ -69,7 +132,10 @@
       "L'eau du robinet et des fontaines publiques est généralement potable.",
       "En été, protège-toi de la chaleur : hydratation et visites aux heures fraîches."
     ],
-    "source": { "label": "France Diplomatie, Italie, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/italie/" },
+    "source": {
+      "label": "France Diplomatie, Italie, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/italie/"
+    },
     "checkedAt": "2026-11-23"
   },
   "safety": {
@@ -81,7 +147,10 @@
       "Arnaque au « pneu crevé » près des grandes villes : pendant qu'on t'aide à changer la roue, un complice vide la voiture.",
       "Aux feux rouges, garde ton sac hors de portée, pas sur le siège passager."
     ],
-    "source": { "label": "France Diplomatie, Italie, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/italie/" },
+    "source": {
+      "label": "France Diplomatie, Italie, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/italie/"
+    },
     "checkedAt": "2026-11-23"
   },
   "cities": [
@@ -89,18 +158,40 @@
       "slug": "rome",
       "name": "Rome",
       "nights": "3 à 4 nuits",
-      "for": ["stratege", "energique", "tous"],
+      "for": [
+        "stratege",
+        "energique",
+        "tous"
+      ],
       "summary": "Deux mille ans d'histoire à ciel ouvert. Impossible de tout voir : choisis quelques sites et laisse du temps pour flâner.",
       "sleep": "Monti ou le centre historique pour tout faire à pied, Trastevere pour l'ambiance du soir, Prati pour le calme près du Vatican.",
       "see": [
-        { "name": "Le Colisée, le Forum et le Palatin", "note": "Un billet commun, à réserver en ligne à l'avance pour un créneau précis." },
-        { "name": "Les musées du Vatican et la chapelle Sixtine", "note": "Réservation indispensable. Viens à l'ouverture ou en fin de journée." },
-        { "name": "Le Panthéon", "note": "Le temple antique le mieux conservé, avec son ouverture dans le dôme." },
-        { "name": "La fontaine de Trevi et la place Navone", "note": "À voir tôt le matin ou tard le soir pour éviter la cohue." }
+        {
+          "name": "Le Colisée, le Forum et le Palatin",
+          "note": "Un billet commun, à réserver en ligne à l'avance pour un créneau précis."
+        },
+        {
+          "name": "Les musées du Vatican et la chapelle Sixtine",
+          "note": "Réservation indispensable. Viens à l'ouverture ou en fin de journée."
+        },
+        {
+          "name": "Le Panthéon",
+          "note": "Le temple antique le mieux conservé, avec son ouverture dans le dôme."
+        },
+        {
+          "name": "La fontaine de Trevi et la place Navone",
+          "note": "À voir tôt le matin ou tard le soir pour éviter la cohue."
+        }
       ],
       "hidden": [
-        { "name": "Le quartier de Testaccio", "note": "Son marché couvert et ses trattorias populaires." },
-        { "name": "La Via Appia antica", "note": "L'ancienne voie romaine, à vélo le dimanche." }
+        {
+          "name": "Le quartier de Testaccio",
+          "note": "Son marché couvert et ses trattorias populaires."
+        },
+        {
+          "name": "La Via Appia antica",
+          "note": "L'ancienne voie romaine, à vélo le dimanche."
+        }
       ],
       "eat": "Les pâtes romaines (carbonara, cacio e pepe, amatriciana) dans une trattoria loin des grandes places, et une part de pizza al taglio.",
       "getAround": "À pied dans le centre. Métro et bus pour le reste, en payant avec ta carte bancaire sans contact.",
@@ -110,18 +201,39 @@
       "slug": "florence",
       "name": "Florence",
       "nights": "2 à 3 nuits",
-      "for": ["lent", "stratege"],
+      "for": [
+        "lent",
+        "stratege"
+      ],
       "summary": "Le berceau de la Renaissance, compact et superbe. Bonne base pour les collines de Toscane.",
       "sleep": "Dans le centre pour tout faire à pied, ou de l'autre côté de l'Arno (Oltrarno) pour une ambiance plus locale.",
       "see": [
-        { "name": "La galerie des Offices", "note": "Botticelli, Léonard, Michel-Ange : réservation conseillée." },
-        { "name": "Le Duomo et sa coupole", "note": "La montée dans la coupole de Brunelleschi se réserve à l'avance." },
-        { "name": "La galerie de l'Académie", "note": "Pour le David de Michel-Ange." },
-        { "name": "Le Ponte Vecchio et la place Michel-Ange", "note": "Le pont des orfèvres, puis la vue sur la ville au coucher du soleil." }
+        {
+          "name": "La galerie des Offices",
+          "note": "Botticelli, Léonard, Michel-Ange : réservation conseillée."
+        },
+        {
+          "name": "Le Duomo et sa coupole",
+          "note": "La montée dans la coupole de Brunelleschi se réserve à l'avance."
+        },
+        {
+          "name": "La galerie de l'Académie",
+          "note": "Pour le David de Michel-Ange."
+        },
+        {
+          "name": "Le Ponte Vecchio et la place Michel-Ange",
+          "note": "Le pont des orfèvres, puis la vue sur la ville au coucher du soleil."
+        }
       ],
       "hidden": [
-        { "name": "Le jardin des Roses et le jardin Bardini", "note": "Des jardins en terrasses avec vue, souvent tranquilles." },
-        { "name": "Fiesole", "note": "Une petite ville sur la colline, à 20 minutes en bus." }
+        {
+          "name": "Le jardin des Roses et le jardin Bardini",
+          "note": "Des jardins en terrasses avec vue, souvent tranquilles."
+        },
+        {
+          "name": "Fiesole",
+          "note": "Une petite ville sur la colline, à 20 minutes en bus."
+        }
       ],
       "eat": "Le marché central de San Lorenzo, la bistecca alla fiorentina et un sandwich au lampredotto pour les curieux.",
       "getAround": "Tout se fait à pied. Bus et trains régionaux pour Sienne, Pise et la campagne.",
@@ -131,17 +243,35 @@
       "slug": "venise",
       "name": "Venise",
       "nights": "2 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Une ville sans voitures, à découvrir en se perdant. Dormir sur place permet de la voir quand les visiteurs d'un jour sont partis.",
       "sleep": "Cannaregio ou Castello, plus calmes que les abords de San Marco.",
       "see": [
-        { "name": "La place et la basilique Saint-Marc", "note": "Très tôt le matin, la place est presque vide." },
-        { "name": "Le palais des Doges", "note": "Et le pont des Soupirs, avec l'itinéraire secret si tu réserves." },
-        { "name": "Le Grand Canal en vaporetto", "note": "La ligne 1 le parcourt entièrement, une croisière à petit prix." }
+        {
+          "name": "La place et la basilique Saint-Marc",
+          "note": "Très tôt le matin, la place est presque vide."
+        },
+        {
+          "name": "Le palais des Doges",
+          "note": "Et le pont des Soupirs, avec l'itinéraire secret si tu réserves."
+        },
+        {
+          "name": "Le Grand Canal en vaporetto",
+          "note": "La ligne 1 le parcourt entièrement, une croisière à petit prix."
+        }
       ],
       "hidden": [
-        { "name": "Burano et Torcello", "note": "Les maisons colorées de Burano et la basilique isolée de Torcello, en bateau." },
-        { "name": "Le quartier du Ghetto", "note": "Le premier ghetto d'Europe, à Cannaregio, chargé d'histoire." }
+        {
+          "name": "Burano et Torcello",
+          "note": "Les maisons colorées de Burano et la basilique isolée de Torcello, en bateau."
+        },
+        {
+          "name": "Le quartier du Ghetto",
+          "note": "Le premier ghetto d'Europe, à Cannaregio, chargé d'histoire."
+        }
       ],
       "eat": "Les « cicchetti », petites bouchées servies dans les bars à vin (bacari), avec un verre en fin de journée.",
       "getAround": "À pied et en vaporetto. Un forfait de plusieurs jours est rentable si tu prends souvent le bateau.",
@@ -151,17 +281,35 @@
       "slug": "naples",
       "name": "Naples et la côte amalfitaine",
       "nights": "3 nuits",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "summary": "La ville la plus vivante d'Italie, au pied du Vésuve, avec Pompéi et la côte amalfitaine à portée de train ou de bateau.",
       "sleep": "Le centre historique ou le quartier de Chiaia à Naples ; Sorrente comme base pour la côte.",
       "see": [
-        { "name": "Pompéi", "note": "La ville romaine figée par l'éruption de l'an 79. Compte une demi-journée au moins." },
-        { "name": "Le centre historique de Naples", "note": "Spaccanapoli, églises baroques et souterrains." },
-        { "name": "La côte amalfitaine", "note": "Positano, Amalfi et Ravello, en bus côtier ou en bateau." }
+        {
+          "name": "Pompéi",
+          "note": "La ville romaine figée par l'éruption de l'an 79. Compte une demi-journée au moins."
+        },
+        {
+          "name": "Le centre historique de Naples",
+          "note": "Spaccanapoli, églises baroques et souterrains."
+        },
+        {
+          "name": "La côte amalfitaine",
+          "note": "Positano, Amalfi et Ravello, en bus côtier ou en bateau."
+        }
       ],
       "hidden": [
-        { "name": "Procida", "note": "Une petite île aux maisons colorées, plus calme que Capri." },
-        { "name": "Herculanum", "note": "Moins connue que Pompéi, mieux conservée et plus facile à visiter." }
+        {
+          "name": "Procida",
+          "note": "Une petite île aux maisons colorées, plus calme que Capri."
+        },
+        {
+          "name": "Herculanum",
+          "note": "Moins connue que Pompéi, mieux conservée et plus facile à visiter."
+        }
       ],
       "eat": "La pizza napolitaine, dans une pizzeria historique, et une sfogliatella au petit déjeuner.",
       "getAround": "Train régional (Circumvesuviana) pour Pompéi et Sorrente, bateaux pour les îles et la côte.",
@@ -171,16 +319,31 @@
       "slug": "lecce",
       "name": "Lecce et les Pouilles",
       "nights": "3 nuits",
-      "for": ["lent", "explorateur"],
+      "for": [
+        "lent",
+        "explorateur"
+      ],
       "summary": "Le talon de la botte : villes baroques en pierre blonde, oliviers et mer limpide, encore loin des grandes foules.",
       "sleep": "Dans la vieille ville de Lecce, ou dans une ferme fortifiée (masseria) à la campagne.",
       "see": [
-        { "name": "La vieille ville de Lecce", "note": "La « Florence du sud » et ses façades baroques." },
-        { "name": "Alberobello", "note": "Les trulli, maisons de pierre au toit conique, classées à l'Unesco." },
-        { "name": "Polignano a Mare", "note": "Un village sur la falaise au-dessus de l'Adriatique." }
+        {
+          "name": "La vieille ville de Lecce",
+          "note": "La « Florence du sud » et ses façades baroques."
+        },
+        {
+          "name": "Alberobello",
+          "note": "Les trulli, maisons de pierre au toit conique, classées à l'Unesco."
+        },
+        {
+          "name": "Polignano a Mare",
+          "note": "Un village sur la falaise au-dessus de l'Adriatique."
+        }
       ],
       "hidden": [
-        { "name": "Otrante et la côte du Salento", "note": "Criques et eau turquoise au bout de l'Italie." }
+        {
+          "name": "Otrante et la côte du Salento",
+          "note": "Criques et eau turquoise au bout de l'Italie."
+        }
       ],
       "eat": "Les orecchiette, la burrata et le pasticciotto, petit gâteau à la crème.",
       "getAround": "Une voiture est le plus simple pour la campagne et la côte ; trains régionaux entre les villes.",
@@ -191,40 +354,101 @@
     {
       "days": 7,
       "title": "Rome et Florence",
-      "for": ["stratege", "tous"],
+      "for": [
+        "stratege",
+        "tous"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Rome", "note": "Antiquité, Vatican, quartiers." },
-        { "days": "Jours 5 à 7", "place": "Florence", "note": "En 1 h 30 de train rapide. Une journée à Sienne si tu veux." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Rome",
+          "note": "Antiquité, Vatican, quartiers."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Florence",
+          "note": "En 1 h 30 de train rapide. Une journée à Sienne si tu veux."
+        }
       ]
     },
     {
       "days": 10,
       "title": "Les grandes villes d'art",
-      "for": ["lent", "stratege"],
+      "for": [
+        "lent",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Rome", "note": "À ton rythme." },
-        { "days": "Jours 5 à 7", "place": "Florence", "note": "Avec une journée dans les collines toscanes." },
-        { "days": "Jours 8 à 10", "place": "Venise", "note": "En 2 h de train depuis Florence. Retour en avion depuis Venise." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Rome",
+          "note": "À ton rythme."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Florence",
+          "note": "Avec une journée dans les collines toscanes."
+        },
+        {
+          "days": "Jours 8 à 10",
+          "place": "Venise",
+          "note": "En 2 h de train depuis Florence. Retour en avion depuis Venise."
+        }
       ]
     },
     {
       "days": 14,
       "title": "Du nord au sud",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Venise", "note": "Et Burano." },
-        { "days": "Jours 3 à 5", "place": "Florence", "note": "Et la Toscane." },
-        { "days": "Jours 6 à 8", "place": "Rome", "note": "Les incontournables." },
-        { "days": "Jours 9 à 11", "place": "Naples", "note": "Pompéi et la côte amalfitaine." },
-        { "days": "Jours 12 à 14", "place": "Les Pouilles", "note": "Lecce, Alberobello. Retour depuis Bari ou Brindisi." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Venise",
+          "note": "Et Burano."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Florence",
+          "note": "Et la Toscane."
+        },
+        {
+          "days": "Jours 6 à 8",
+          "place": "Rome",
+          "note": "Les incontournables."
+        },
+        {
+          "days": "Jours 9 à 11",
+          "place": "Naples",
+          "note": "Pompéi et la côte amalfitaine."
+        },
+        {
+          "days": "Jours 12 à 14",
+          "place": "Les Pouilles",
+          "note": "Lecce, Alberobello. Retour depuis Bari ou Brindisi."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le train", "text": "Les trains rapides relient Venise, Florence, Rome et Naples en quelques heures. Moins chers réservés tôt. Les trains régionaux, eux, ont des prix fixes." },
-    { "title": "En voiture", "text": "Utile pour la Toscane et les Pouilles, inutile en ville. Les centres historiques sont des zones à circulation limitée (ZTL) avec amendes automatiques." },
-    { "title": "Les bateaux", "text": "Ferries pour les îles et la côte amalfitaine, vaporettos à Venise." },
-    { "title": "Depuis la France", "text": "Vols directs vers les grandes villes, et trains vers Turin et Milan." }
+    {
+      "title": "Le train",
+      "text": "Les trains rapides relient Venise, Florence, Rome et Naples en quelques heures. Moins chers réservés tôt. Les trains régionaux, eux, ont des prix fixes."
+    },
+    {
+      "title": "En voiture",
+      "text": "Utile pour la Toscane et les Pouilles, inutile en ville. Les centres historiques sont des zones à circulation limitée (ZTL) avec amendes automatiques."
+    },
+    {
+      "title": "Les bateaux",
+      "text": "Ferries pour les îles et la côte amalfitaine, vaporettos à Venise."
+    },
+    {
+      "title": "Depuis la France",
+      "text": "Vols directs vers les grandes villes, et trains vers Turin et Milan."
+    }
   ],
   "culture": [
     "Le cappuccino se boit le matin ; après un repas, on commande plutôt un « caffè » (expresso).",
@@ -234,11 +458,31 @@
     "On dîne tard, rarement avant 20 h, encore plus tard dans le sud."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Buongiorno", "say": "bouon-djorno" },
-    { "fr": "Merci", "local": "Grazie", "say": "gratsié" },
-    { "fr": "S'il vous plaît", "local": "Per favore", "say": "per favoré" },
-    { "fr": "L'addition, s'il vous plaît", "local": "Il conto, per favore", "say": "il conto, per favoré" },
-    { "fr": "Combien ça coûte ?", "local": "Quanto costa ?", "say": "couanto costa" }
+    {
+      "fr": "Bonjour",
+      "local": "Buongiorno",
+      "say": "bouon-djorno"
+    },
+    {
+      "fr": "Merci",
+      "local": "Grazie",
+      "say": "gratsié"
+    },
+    {
+      "fr": "S'il vous plaît",
+      "local": "Per favore",
+      "say": "per favoré"
+    },
+    {
+      "fr": "L'addition, s'il vous plaît",
+      "local": "Il conto, per favore",
+      "say": "il conto, per favoré"
+    },
+    {
+      "fr": "Combien ça coûte ?",
+      "local": "Quanto costa ?",
+      "say": "couanto costa"
+    }
   ],
   "checklist": [
     "Carte d'identité ou passeport en cours de validité",
@@ -251,10 +495,25 @@
     "Vérifier les zones à circulation limitée si tu loues une voiture"
   ],
   "faq": [
-    { "q": "Faut-il un passeport pour aller en Italie ?", "a": "Non, une carte d'identité en cours de validité suffit pour un séjour de moins de trois mois. Si ta carte a été délivrée entre 2004 et 2013, elle est officiellement prolongée de 5 ans, mais un passeport valide évite tout désagrément." },
-    { "q": "Quelle est la meilleure période pour visiter l'Italie ?", "a": "Avril à juin et septembre-octobre : il fait doux, la mer est agréable dans le sud en fin de saison, et il y a moins de monde qu'en juillet-août." },
-    { "q": "Quel budget pour une semaine en Italie ?", "a": "Compte environ 115 à 225 € par jour seul et 90 à 175 € par personne à deux, hors trajet. Venise, Florence et la côte amalfitaine sont les plus chères. Ces montants sont des estimations à vérifier." },
-    { "q": "Faut-il réserver les musées à l'avance ?", "a": "Oui pour les plus visités : Colisée, musées du Vatican, galerie des Offices, coupole du Duomo à Florence, galerie Borghèse à Rome. Sans réservation, l'attente peut durer des heures, ou l'entrée être impossible." },
-    { "q": "Rome, Florence ou Venise : laquelle choisir ?", "a": "Rome pour l'Antiquité et l'énergie d'une grande ville, Florence pour la Renaissance dans un centre compact, Venise pour un décor unique au monde. En une semaine, Rome et Florence se combinent facilement en train." }
+    {
+      "q": "Faut-il un passeport pour aller en Italie ?",
+      "a": "Non, une carte d'identité en cours de validité suffit pour un séjour de moins de trois mois. Si ta carte a été délivrée entre 2004 et 2013, elle est officiellement prolongée de 5 ans, mais un passeport valide évite tout désagrément."
+    },
+    {
+      "q": "Quelle est la meilleure période pour visiter l'Italie ?",
+      "a": "Avril à juin et septembre-octobre : il fait doux, la mer est agréable dans le sud en fin de saison, et il y a moins de monde qu'en juillet-août."
+    },
+    {
+      "q": "Quel budget pour une semaine en Italie ?",
+      "a": "Compte environ 115 à 225 € par jour seul et 90 à 175 € par personne à deux, hors trajet. Venise, Florence et la côte amalfitaine sont les plus chères. Ces montants sont des estimations à vérifier."
+    },
+    {
+      "q": "Faut-il réserver les musées à l'avance ?",
+      "a": "Oui pour les plus visités : Colisée, musées du Vatican, galerie des Offices, coupole du Duomo à Florence, galerie Borghèse à Rome. Sans réservation, l'attente peut durer des heures, ou l'entrée être impossible."
+    },
+    {
+      "q": "Rome, Florence ou Venise : laquelle choisir ?",
+      "a": "Rome pour l'Antiquité et l'énergie d'une grande ville, Florence pour la Renaissance dans un centre compact, Venise pour un décor unique au monde. En une semaine, Rome et Florence se combinent facilement en train."
+    }
   ]
 }

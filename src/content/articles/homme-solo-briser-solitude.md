@@ -1,0 +1,54 @@
+---
+title: "Voyager seul quand on est un homme : rencontrer du monde et éviter les pièges"
+seoTitle: "Homme voyageant seul : rencontres, sécurité et arnaques"
+description: "Comment un homme qui voyage seul peut rencontrer du monde, éviter la solitude et déjouer les arnaques qui visent les voyageurs solitaires."
+category: "Voyager seul"
+status: "brouillon"
+publishedAt: "2026-11-25"
+updatedAt: "2026-11-25"
+author: null
+hero: null
+destinations: ["kirghizistan", "georgie", "vietnam", "colombie", "nepal"]
+---
+
+**Un homme qui voyage seul passe souvent inaperçu, ce qui est une force… et parfois un piège.** On l'aborde moins spontanément qu'une voyageuse, et il est la cible privilégiée de certaines arnaques. Voici comment transformer la solitude en liberté.
+
+## Pourquoi on se sent parfois seul
+
+Les autres voyageurs abordent plus facilement un groupe ou une voyageuse. Un homme seul doit souvent faire le premier pas. Bonne nouvelle : cela s'apprend vite, et les voyageurs solos sont rarement contre un peu de compagnie.
+
+## Rencontrer du monde
+
+- **Les auberges avec espaces communs** et activités organisées.
+- **Les sorties sportives** : randonnée, plongée, surf. Un effort partagé crée des liens immédiatement.
+- **Les treks en petit groupe** : au [Kirghizistan](/destinations/kirghizistan/) ou au [Népal](/destinations/nepal/), on partage guide et chauffeur avec d'autres voyageurs.
+- **Le bénévolat ou les cours** : langue, cuisine, plongée.
+- **Les applications de voyageurs** : sur Budd&Fly, tu vois qui part aux mêmes dates et dans la même région, avec des profils vérifiés.
+
+## Les arnaques qui visent les hommes seuls
+
+France Diplomatie signale régulièrement les mêmes schémas :
+
+- **La rencontre trop facile** dans un bar, suivie d'une addition exorbitante ou d'un verre drogué. Les fiches de plusieurs pays mentionnent ces agressions au GHB ou à la scopolamine, notamment en [Colombie](/destinations/colombie/).
+- **Les rencontres via applications** qui débouchent sur un vol ou un chantage.
+- **Le faux policier** qui demande à vérifier ton portefeuille.
+- **Les fausses accusations** après une rencontre, signalées par exemple en République dominicaine.
+
+Les réflexes : ne jamais quitter ton verre des yeux, rencontrer les gens dans des lieux publics, ne pas suivre un inconnu dans un second bar « plus sympa ».
+
+## Les bons réflexes de sécurité
+
+1. Inscris-toi sur **Ariane**.
+2. Donne ton itinéraire à un proche.
+3. Lis la rubrique sécurité de chaque guide, avec les zones à éviter.
+4. Garde un portefeuille secondaire avec peu d'argent.
+5. Évite d'afficher bijoux et téléphone dans la rue.
+
+## Faire de la solitude une force
+
+- **Choisis des destinations où l'hospitalité est une institution** : la [Géorgie](/destinations/georgie/) et ses banquets, le [Vietnam](/destinations/vietnam/) et ses gargotes de rue.
+- **Tiens un carnet** : les voyages solo sont propices à la réflexion.
+- **Accepte les invitations** des habitants avec bon sens : un thé chez un marchand, un repas de famille.
+- **Pars sur un projet** : une ascension, un trek, une route mythique. Le but donne un rythme.
+
+Pour trouver ton style, fais le [test du Visa voyageur](/visa-voyageur/) : il te dit si tu es plutôt explorateur, énergique, lent ou stratège, et quelles destinations te ressemblent.
