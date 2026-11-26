@@ -3,7 +3,7 @@ title: "Kirghizistan : premier trek et nuits en yourte"
 seoTitle: "Kirghizistan : premier trek, yourtes et lacs d'altitude"
 description: "Préparer un premier trek au Kirghizistan : les lacs Song-Kul et Ala-Kul, les camps de yourtes, la saison, l'équipement et les formalités."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

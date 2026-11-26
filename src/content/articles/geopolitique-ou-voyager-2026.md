@@ -3,7 +3,7 @@ title: "Où voyager en sécurité : comprendre les conseils aux voyageurs"
 seoTitle: "Où voyager en sécurité : lire la carte de France Diplomatie"
 description: "Vigilance normale, renforcée, zones déconseillées : comment lire les conseils aux voyageurs de France Diplomatie et choisir une destination en sécurité."
 category: "Préparer"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

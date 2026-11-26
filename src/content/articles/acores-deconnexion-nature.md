@@ -3,7 +3,7 @@ title: "Les Açores : déconnexion et nature au milieu de l'Atlantique"
 seoTitle: "Les Açores : îles, randonnées, saison et conseils"
 description: "Partir aux Açores : São Miguel, Pico, Flores, les lacs de cratère, les baleines, la meilleure saison et les formalités pour un voyageur français."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

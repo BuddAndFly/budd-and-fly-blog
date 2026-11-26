@@ -3,7 +3,7 @@ title: "Safari en Afrique du Sud : le parc Kruger en pratique"
 seoTitle: "Safari en Afrique du Sud : Kruger, saison, sécurité"
 description: "Faire un safari au parc Kruger : meilleure saison, safari autonome ou guidé, camps, santé et sécurité en Afrique du Sud."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

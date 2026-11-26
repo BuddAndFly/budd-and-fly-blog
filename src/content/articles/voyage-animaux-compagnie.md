@@ -3,7 +3,7 @@ title: "Voyager avec son chien ou son chat : les règles à connaître"
 seoTitle: "Voyager avec son chien ou son chat : formalités et conseils"
 description: "Passeport européen, identification, vaccin antirabique, règles des compagnies aériennes et des trains : comment voyager avec son animal en Europe et ailleurs."
 category: "Préparer"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

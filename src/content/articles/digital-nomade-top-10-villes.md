@@ -3,7 +3,7 @@ title: "Nomade numérique : 10 villes où travailler en voyageant"
 seoTitle: "Nomade numérique : 10 villes pour travailler au soleil"
 description: "Lisbonne, Mexico, Chiang Mai, Tbilissi, Medellín : 10 villes appréciées des nomades numériques, et les points à vérifier (visa, fiscalité, assurance)."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

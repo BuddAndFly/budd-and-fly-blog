@@ -3,7 +3,7 @@ title: "Trouver un compagnon de voyage : le guide pour bien choisir et partir se
 seoTitle: "Trouver un compagnon de voyage : où chercher, comment choisir"
 description: "Où trouver un compagnon de voyage, comment savoir si vous êtes compatibles, quoi mettre au clair avant de partir et comment rester en sécurité."
 category: "Partir à deux"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-23"
 updatedAt: "2026-11-23"
 author: null

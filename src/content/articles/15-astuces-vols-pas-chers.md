@@ -3,7 +3,7 @@ title: "Vols pas chers : 15 astuces pour payer moins cher son billet"
 seoTitle: "Vols pas chers : 15 astuces qui fonctionnent vraiment"
 description: "Dates flexibles, alertes de prix, aéroports secondaires, bagages : 15 astuces concrètes pour trouver des billets d'avion moins chers."
 category: "Petits budgets"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

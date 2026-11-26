@@ -3,7 +3,7 @@ title: "Le Visa voyageur : le test pour savoir comment tu voyages"
 seoTitle: "Test de personnalité voyageur : le Visa voyageur Budd&Fly"
 description: "Dix questions, six jauges, quatre profils : le test gratuit du Visa voyageur te dit comment tu voyages et quelles destinations te correspondent."
 category: "Préparer"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

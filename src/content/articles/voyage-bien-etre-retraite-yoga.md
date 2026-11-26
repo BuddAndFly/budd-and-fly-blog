@@ -3,7 +3,7 @@ title: "Voyage bien-être : 12 destinations pour se ressourcer"
 seoTitle: "Voyage bien-être et yoga : 12 destinations pour se ressourcer"
 description: "Yoga à Bali, ayurveda au Kerala, sources chaudes au Japon, saunas en Finlande : 12 destinations pour un voyage bien-être, et comment choisir sa retraite."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

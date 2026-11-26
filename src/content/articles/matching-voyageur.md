@@ -3,7 +3,7 @@ title: "Comment Budd&Fly trouve le compagnon de voyage qui te ressemble"
 seoTitle: "Trouver un co-voyageur compatible : comment ça marche"
 description: "Profils vérifiés, voyages publiés, compatibilité calculée à partir du Visa voyageur : comment l'application Budd&Fly met en relation des voyageurs compatibles."
 category: "Partir à deux"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

@@ -3,7 +3,7 @@ title: "Voyage sportif : 15 destinations pour les amateurs d'aventure"
 seoTitle: "Voyage aventure : 15 destinations pour trek, surf et plongée"
 description: "Trek, surf, plongée, kayak, ski : 15 destinations pour un voyage sportif, avec la meilleure saison et les précautions de sécurité et d'assurance."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

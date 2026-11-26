@@ -3,7 +3,7 @@ title: "Les 10 villes où faire la fête en voyage"
 seoTitle: "Faire la fête en voyage : 10 villes et les bons réflexes"
 description: "Berlin, Budapest, Belgrade, Barcelone, Buenos Aires : 10 villes réputées pour leur vie nocturne, et les réflexes de sécurité pour sortir sereinement."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

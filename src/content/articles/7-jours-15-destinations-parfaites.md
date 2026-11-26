@@ -3,7 +3,7 @@ title: "Une semaine de vacances : 15 destinations, saison par saison"
 seoTitle: "Une semaine de vacances : 15 destinations selon la saison"
 description: "Où partir une semaine selon la saison : 15 destinations idéales pour 7 jours, au printemps, en été, en automne et en hiver, avec le lien vers chaque guide."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

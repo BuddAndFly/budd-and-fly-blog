@@ -3,7 +3,7 @@ title: "15 destinations peu fréquentées à découvrir"
 seoTitle: "15 destinations peu touristiques à découvrir"
 description: "Albanie, Géorgie, Ouzbékistan, Kirghizistan, Bhoutan : 15 destinations encore peu fréquentées, avec la meilleure saison et le lien vers chaque guide."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

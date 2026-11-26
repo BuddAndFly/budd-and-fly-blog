@@ -3,7 +3,7 @@ title: "Partir une semaine en Europe en dernière minute pour un petit budget"
 seoTitle: "Voyage dernière minute en Europe : 7 jours petit budget"
 description: "Comment partir une semaine en Europe en dernière minute avec un budget serré : idées de destinations, méthode de réservation et pièges à éviter."
 category: "Petits budgets"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

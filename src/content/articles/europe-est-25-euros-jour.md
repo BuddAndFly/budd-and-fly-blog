@@ -3,7 +3,7 @@ title: "Europe de l'Est et Balkans pas chers : un circuit à petit budget"
 seoTitle: "Balkans pas chers : un circuit de 3 semaines à petit budget"
 description: "Un circuit de trois semaines dans les Balkans et l'Europe de l'Est à petit budget, en bus et en guesthouse, avec les formalités et les pièges à éviter."
 category: "Petits budgets"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

@@ -3,7 +3,7 @@ title: "Asie du Sud-Est : combiner 5 pays en un voyage"
 seoTitle: "Asie du Sud-Est : itinéraire 5 pays, saisons et formalités"
 description: "Thaïlande, Laos, Vietnam, Cambodge, Malaisie : comment combiner cinq pays d'Asie du Sud-Est, dans quel ordre et avec quelles formalités."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

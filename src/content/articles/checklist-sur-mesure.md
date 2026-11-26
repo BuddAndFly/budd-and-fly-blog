@@ -3,7 +3,7 @@ title: "La liste de bagages selon ta destination"
 seoTitle: "Liste de bagages voyage : la checklist selon la destination"
 description: "La liste de bagages de base pour tout voyage, puis les ajouts selon la destination : tropiques, montagne, grand froid, pays musulmans, safari."
 category: "Préparer"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

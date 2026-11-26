@@ -3,7 +3,7 @@ title: "La Riviera albanaise : plages, villages et conseils pratiques"
 seoTitle: "Riviera albanaise : plages, saison et conseils pratiques"
 description: "Ksamil, Himarë, Dhërmi, Butrint : découvrir la Riviera albanaise, la meilleure saison, l'itinéraire et les formalités pour un Français."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

@@ -3,7 +3,7 @@ title: "3 mois en Amérique du Sud : l'itinéraire sac au dos"
 seoTitle: "3 mois en Amérique du Sud : itinéraire sac à dos"
 description: "Un itinéraire de trois mois en Amérique du Sud, du Pérou à la Patagonie, avec les saisons, les formalités, l'altitude et la sécurité pays par pays."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

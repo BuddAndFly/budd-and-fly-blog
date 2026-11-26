@@ -3,7 +3,7 @@ title: "7 destinations surprenantes pour sortir des sentiers battus"
 seoTitle: "7 destinations insolites : Ouzbékistan, Bhoutan, Mongolie…"
 description: "Ouzbékistan, Bhoutan, Mongolie, Kirghizistan, Oman, Namibie, Bénin : 7 destinations surprenantes, les formalités et les précautions à connaître."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

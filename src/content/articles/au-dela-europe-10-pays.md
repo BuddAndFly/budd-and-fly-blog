@@ -3,7 +3,7 @@ title: "Au-delà de l'Europe : 10 pays qui valent le long voyage"
 seoTitle: "Voyage lointain : 10 pays qui valent les heures de vol"
 description: "Japon, Pérou, Namibie, Nouvelle-Zélande, Népal : 10 pays lointains qui justifient le long vol, avec la meilleure saison et le temps conseillé sur place."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

@@ -3,7 +3,7 @@ title: "Une semaine de voyage : 3 itinéraires clés en main sur 3 continents"
 seoTitle: "Itinéraires 7 jours : Europe, Asie et Amérique clés en main"
 description: "Trois itinéraires d'une semaine prêts à suivre : le Portugal, le Japon et le Canada, avec les étapes jour par jour et les liens vers les guides complets."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

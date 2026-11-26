@@ -3,7 +3,7 @@ title: "Voyager en famille avec des enfants : le guide sans stress"
 seoTitle: "Voyager avec des enfants : destinations et conseils"
 description: "Choisir une destination adaptée, préparer les papiers des enfants, la santé, le rythme et les bagages : le guide pour voyager en famille sereinement."
 category: "Préparer"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

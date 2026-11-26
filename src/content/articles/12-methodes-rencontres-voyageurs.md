@@ -3,7 +3,7 @@ title: "12 façons de se faire des amis en voyage"
 seoTitle: "Se faire des amis en voyage : 12 méthodes qui marchent"
 description: "Auberges, activités de groupe, applications, bénévolat : 12 méthodes concrètes pour rencontrer d'autres voyageurs et des habitants pendant un voyage."
 category: "Voyager seul"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

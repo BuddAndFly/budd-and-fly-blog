@@ -3,7 +3,7 @@ title: "Voyager longtemps avec un petit budget : la méthode"
 seoTitle: "Voyager pas cher longtemps : la méthode pour tenir son budget"
 description: "Les règles pour voyager longtemps avec peu d'argent : hébergement, repas, transports, frais bancaires, et les dépenses à ne jamais rogner."
 category: "Petits budgets"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-26"
 author: null

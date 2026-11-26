@@ -3,7 +3,7 @@ title: "Error fares : comprendre et repérer les vols à prix cassés"
 seoTitle: "Error fares : repérer les vols à prix cassés sans risque"
 description: "Ce que sont les error fares, comment les repérer, comment réserver sans prendre de risque, et ce qui se passe si la compagnie annule le billet."
 category: "Petits budgets"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

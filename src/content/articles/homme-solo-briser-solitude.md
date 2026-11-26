@@ -3,7 +3,7 @@ title: "Voyager seul quand on est un homme : rencontrer du monde et éviter les 
 seoTitle: "Homme voyageant seul : rencontres, sécurité et arnaques"
 description: "Comment un homme qui voyage seul peut rencontrer du monde, éviter la solitude et déjouer les arnaques qui visent les voyageurs solitaires."
 category: "Voyager seul"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

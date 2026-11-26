@@ -3,7 +3,7 @@ title: "10 destinations calmes pour voyager loin de la foule"
 seoTitle: "10 destinations calmes et authentiques, loin de la foule"
 description: "Des îles tranquilles, des vallées de montagne et des villes à taille humaine : 10 destinations pour un voyage calme et authentique, avec la meilleure saison."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

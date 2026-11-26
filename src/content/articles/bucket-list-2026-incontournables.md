@@ -3,7 +3,7 @@ title: "Bucket list : 10 lieux à voir au moins une fois dans sa vie"
 seoTitle: "Bucket list voyage : 10 lieux à voir une fois dans sa vie"
 description: "Machu Picchu, Angkor, Pétra, le Grand Canyon, les aurores boréales : 10 lieux incontournables, la meilleure saison et les conseils pour les voir sans la foule."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

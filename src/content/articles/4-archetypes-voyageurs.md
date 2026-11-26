@@ -3,7 +3,7 @@ title: "Les 4 profils de voyageurs : explorateur, énergique, lent ou stratège 
 seoTitle: "Les 4 profils de voyageurs : lequel es-tu ?"
 description: "Explorateur, énergique, lent ou stratège : découvre les quatre profils du Visa voyageur Budd&Fly, leurs forces, leurs pièges et les destinations qui leur vont."
 category: "Partir à deux"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

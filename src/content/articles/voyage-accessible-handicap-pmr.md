@@ -3,7 +3,7 @@ title: "Voyager avec un handicap : préparer un voyage accessible"
 seoTitle: "Voyage accessible et handicap : préparer son voyage"
 description: "Assistance dans les aéroports et les gares, hébergements accessibles, médicaments, destinations : comment préparer un voyage accessible avec un handicap."
 category: "Préparer"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

@@ -3,7 +3,7 @@ title: "Maroc en 10 jours : médinas, Haut Atlas et désert"
 seoTitle: "Maroc en 10 jours : itinéraire médinas, Atlas et désert"
 description: "Un itinéraire de 10 jours au Maroc, de Marrakech au désert par le Haut Atlas et les vallées, avec la meilleure saison et les formalités."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

@@ -3,7 +3,7 @@ title: "Voyager seul : préparer, rencontrer du monde et rester en sécurité"
 seoTitle: "Voyager seul : le guide complet pour un premier voyage solo"
 description: "Choisir sa destination, gérer le budget, rencontrer d'autres voyageurs et rester en sécurité : tout pour réussir un premier voyage en solo."
 category: "Voyager seul"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

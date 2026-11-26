@@ -3,7 +3,7 @@ title: "Arnaques, vols, urgences : le protocole anti-galère en voyage"
 seoTitle: "Arnaques et urgences en voyage : le protocole anti-galère"
 description: "Les arnaques les plus courantes en voyage, comment se protéger du vol, et que faire en cas de perte de passeport, de maladie ou d'urgence à l'étranger."
 category: "Préparer"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

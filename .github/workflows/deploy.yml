@@ -29,10 +29,9 @@ jobs:
       - name: Compiler le site
         run: npm run build
         env:
-          # Phase de relecture : les brouillons sont visibles et rien n'est indexé par Google.
-          # Le jour de la bascule de buddandfly.com, passer ces deux valeurs à "false".
-          SHOW_DRAFTS: "true"
-          NOINDEX: "true"
+          # Production : seuls les contenus « valide » sont publiés, et le site est indexé.
+          SHOW_DRAFTS: "false"
+          NOINDEX: "false"
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

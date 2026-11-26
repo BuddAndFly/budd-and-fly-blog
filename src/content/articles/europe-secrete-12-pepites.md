@@ -3,7 +3,7 @@ title: "Europe secrète : 12 pépites à quelques heures de vol"
 seoTitle: "Europe méconnue : 12 destinations à moins de 3 h de vol"
 description: "12 destinations européennes moins connues à quelques heures de Paris, des Balkans aux pays baltes, avec la meilleure saison et le lien vers chaque guide."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

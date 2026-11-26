@@ -3,7 +3,7 @@ title: "Le voyage le plus beau est parfois le plus court"
 seoTitle: "Voyager près de chez soi : redécouvrir les lieux de son enfance"
 description: "Revenir sur les lieux de son enfance, voyager à quelques heures de chez soi : pourquoi les voyages courts et proches marquent autant que les grands départs."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

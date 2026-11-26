@@ -3,7 +3,7 @@ title: "20 lieux où l'on rencontre facilement d'autres voyageurs"
 seoTitle: "Rencontrer des voyageurs : 20 lieux où ça marche"
 description: "Villes routardes, treks en groupe, îles conviviales : 20 endroits dans le monde où il est facile de rencontrer d'autres voyageurs."
 category: "Voyager seul"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

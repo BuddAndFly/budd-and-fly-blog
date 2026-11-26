@@ -3,7 +3,7 @@ title: "Planifier un voyage avec les outils numériques (et l'IA) sans se trompe
 seoTitle: "Planifier un voyage avec l'IA et les applis : la méthode"
 description: "Comment utiliser l'IA, les cartes, les comparateurs et les applications pour préparer un voyage, et pourquoi vérifier toujours les infos sensibles à la source."
 category: "Préparer"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

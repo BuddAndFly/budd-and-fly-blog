@@ -3,7 +3,7 @@ title: "Les destinations qui montent : où partir avant tout le monde"
 seoTitle: "Destinations tendances : où partir avant tout le monde"
 description: "Albanie, Ouzbékistan, Géorgie, Japon hors des grandes villes, Cap-Vert : les destinations qui attirent de plus en plus de voyageurs, et comment les découvrir."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

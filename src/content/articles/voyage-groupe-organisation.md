@@ -3,7 +3,7 @@ title: "Voyager en groupe : organiser le voyage sans stress"
 seoTitle: "Voyage en groupe entre amis : organiser sans stress"
 description: "Choisir la destination, gérer la cagnotte, réserver les logements et éviter les tensions : la méthode pour organiser un voyage en groupe entre amis."
 category: "Partir à deux"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

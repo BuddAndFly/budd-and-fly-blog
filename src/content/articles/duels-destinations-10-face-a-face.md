@@ -3,7 +3,7 @@ title: "Bali ou Thaïlande ? 10 duels de destinations pour choisir"
 seoTitle: "Bali ou Thaïlande, Pérou ou Mexique : 10 duels pour choisir"
 description: "Bali ou Thaïlande, Pérou ou Mexique, Islande ou Norvège : dix duels de destinations pour choisir selon ton style de voyage et la saison."
 category: "Idées de voyage"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

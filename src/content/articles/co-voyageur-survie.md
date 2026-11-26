@@ -3,7 +3,7 @@ title: "Voyager à deux sans se disputer : le contrat de voyage en 8 points"
 seoTitle: "Voyager à deux sans se disputer : le contrat en 8 points"
 description: "Budget, rythme, organisation, temps seul : les 8 sujets à régler avant de partir à deux pour éviter les disputes en voyage, avec un modèle de contrat."
 category: "Partir à deux"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

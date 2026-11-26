@@ -3,7 +3,7 @@ title: "Voyager seule quand on est une femme : préparer, choisir, rester en sé
 seoTitle: "Voyager seule en tant que femme : conseils et destinations"
 description: "Conseils concrets pour voyager seule en tant que femme : choisir sa destination, son hébergement, ses transports, et les bons réflexes de sécurité."
 category: "Voyager seul"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

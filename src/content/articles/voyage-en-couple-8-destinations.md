@@ -3,7 +3,7 @@ title: "Voyage en couple : 8 destinations pour partir à deux"
 seoTitle: "Voyage en couple : 8 destinations romantiques et faciles"
 description: "8 destinations pour un voyage en couple, de la Slovénie aux Seychelles, avec la meilleure saison et ce qui les rend idéales à deux."
 category: "Partir à deux"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null

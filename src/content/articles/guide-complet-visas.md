@@ -3,7 +3,7 @@ title: "Visa, ESTA, ETA, eTA : quelles formalités pour quel pays ?"
 seoTitle: "Visa, ESTA, ETA, AVE : les formalités de voyage expliquées"
 description: "Visa, autorisation électronique, visa à l'arrivée, carte d'arrivée en ligne : les formalités expliquées, avec des exemples vérifiés pays par pays."
 category: "Préparer"
-status: "brouillon"
+status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
