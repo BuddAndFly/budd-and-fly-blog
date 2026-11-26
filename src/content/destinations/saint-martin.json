@@ -1,0 +1,247 @@
+{
+  "name": "Saint-Martin",
+  "prep": "à Saint-Martin",
+  "kind": "territoire",
+  "continent": "Amérique centrale et Caraïbes",
+  "priority": 136,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Saint-Martin : plages, Grand-Case, île Pinel",
+    "description": "Préparer un voyage à Saint-Martin : passeport si transit par Sint Maarten, ouragans, Marigot, Grand-Case, Orient Bay, île Pinel. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Saint-Martin se visite de décembre à avril. L'île est partagée entre la partie française et Sint Maarten, néerlandaise et hors Union européenne : Service-public indique qu'un passeport est nécessaire pour aller à Saint-Martin quand on transite par un pays étranger. Plages, gastronomie de Grand-Case et îlots sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Décembre à avril",
+    "languages": "Français (officiel), anglais très parlé",
+    "currency": "Euro (€)",
+    "timeDiff": "-5 h en hiver, -6 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison sèche."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison des ouragans."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pour voyager à Saint-Martin, un Français doit disposer d'un document d'identité en cours de validité ; une carte d'identité suffit.",
+    "points": [
+      "Si ton vol transite par un pays étranger, un passeport en cours de validité est obligatoire, avec les formalités du pays de transit.",
+      "Service-public cite Saint-Martin en exemple : si ton trajet passe par un pays étranger, comme la partie néerlandaise de l'île (Sint Maarten), il te faut un passeport.",
+      "Vérifie l'itinéraire de ton vol avant de partir."
+    ],
+    "source": {
+      "label": "Service-public.gouv.fr, Documents d'identité nécessaires pour voyager en avion (F591)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F591"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Il n'y a pas de transmission de paludisme. Vaccins recommandés : hépatite A, hépatite B ; typhoïde pour les séjours de plus d'un mois ou dans de mauvaises conditions d'hygiène.",
+    "points": [
+      "Certificat de fièvre jaune exigé si tu arrives d'un pays à risque, y compris après un transit de plus de 12 heures.",
+      "Protège-toi des moustiques."
+    ],
+    "source": {
+      "label": "Institut Pasteur, Recommandations sanitaires par pays, Saint-Martin",
+      "url": "https://www.pasteur.fr/fr/votre-sante/voyages-et-sante/recommandations-sanitaires-par-pays/saint-martin"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": null,
+  "cities": [
+    {
+      "slug": "marigot-grand-case",
+      "name": "Marigot et Grand-Case",
+      "nights": "3 nuits",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "summary": "Le chef-lieu de la partie française et le village réputé pour ses restaurants.",
+      "sleep": "À Grand-Case ou Marigot.",
+      "see": [
+        {
+          "name": "Le marché de Marigot",
+          "note": "Épices et artisanat."
+        },
+        {
+          "name": "Le fort Louis",
+          "note": "Vue sur la baie de Marigot."
+        },
+        {
+          "name": "La rue des restaurants de Grand-Case",
+          "note": "La gastronomie de l'île."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les lolos de Grand-Case",
+          "note": "Des grills populaires en bord de route."
+        }
+      ],
+      "eat": "Les accras, le colombo et les langoustes grillées.",
+      "getAround": "Location de voiture ou taxi.",
+      "tip": "Réserve les restaurants de Grand-Case en haute saison."
+    },
+    {
+      "slug": "orient-bay-pinel",
+      "name": "Orient Bay et l'île Pinel",
+      "nights": "2 à 3 nuits",
+      "for": [
+        "lent",
+        "energique"
+      ],
+      "summary": "La grande plage de la côte est et un îlot accessible en petit bateau.",
+      "sleep": "À Orient Bay ou au Cul-de-Sac.",
+      "see": [
+        {
+          "name": "La plage d'Orient Bay",
+          "note": "Sports nautiques."
+        },
+        {
+          "name": "L'île Pinel",
+          "note": "Snorkeling et plage, en navette depuis Cul-de-Sac."
+        },
+        {
+          "name": "La réserve naturelle",
+          "note": "Îlots et fonds marins protégés."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "L'îlet Tintamarre",
+          "note": "Une île sauvage au large, en bateau."
+        }
+      ],
+      "eat": "Le poisson grillé sur la plage.",
+      "getAround": "Voiture ; navette pour Pinel.",
+      "tip": "Respecte les règles de la réserve naturelle."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Saint-Martin côté français",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Grand-Case et Marigot",
+          "note": "Gastronomie et marché."
+        },
+        {
+          "days": "Jours 4 à 7",
+          "place": "Orient Bay et Pinel",
+          "note": "Plages et îlots."
+        }
+      ]
+    },
+    {
+      "days": 4,
+      "title": "Plages",
+      "for": [
+        "lent"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Orient Bay",
+          "note": "Plage."
+        },
+        {
+          "days": "Jour 4",
+          "place": "Île Pinel",
+          "note": "Snorkeling."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Location de voiture",
+      "text": "Le plus pratique pour faire le tour de l'île."
+    },
+    {
+      "title": "Taxi",
+      "text": "Tarifs à vérifier avant la course."
+    },
+    {
+      "title": "Bateau",
+      "text": "Pour les îlots et Saint-Barthélemy."
+    }
+  ],
+  "culture": [
+    "L'anglais est très parlé, notamment côté néerlandais.",
+    "L'île a été durement frappée par l'ouragan Irma en 2017."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport (conseillé : transit fréquent par Sint Maarten)",
+    "Crème solaire",
+    "Suivi des alertes météo de juin à novembre",
+    "Permis de conduire"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un passeport pour Saint-Martin ?",
+      "a": "Une carte d'identité suffit pour la partie française, mais un passeport est nécessaire si ton trajet transite par un pays étranger, comme la partie néerlandaise de l'île."
+    },
+    {
+      "q": "Quand partir à Saint-Martin ?",
+      "a": "De décembre à avril ; de juin à novembre, c'est la saison des ouragans."
+    }
+  ]
+}

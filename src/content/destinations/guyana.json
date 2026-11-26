@@ -1,0 +1,310 @@
+{
+  "name": "Guyana",
+  "prep": "au Guyana",
+  "kind": "pays",
+  "continent": "Amérique du Sud",
+  "priority": 127,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Guyana : chutes de Kaieteur, Rupununi, Georgetown",
+    "description": "Préparer un voyage au Guyana : passeport 6 mois, formulaire en ligne, paludisme, chutes de Kaieteur, forêt d'Iwokrama, savanes du Rupununi. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Guyana se visite surtout de septembre à novembre et de février à avril, hors des saisons des pluies. Pas de visa pour les Français jusqu'à 90 jours, mais un formulaire en ligne est obligatoire à chaque entrée et sortie. Le pays est couvert de forêt tropicale : les chutes de Kaieteur et les savanes du Rupununi en sont les temps forts. Georgetown demande de la vigilance.",
+  "essentials": {
+    "bestPeriod": "Septembre à novembre, février à avril",
+    "languages": "Anglais (officiel), créole guyanien",
+    "currency": "Dollar du Guyana (GYD)",
+    "timeDiff": "-5 h en hiver, -6 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 0,
+      "note": "Grande saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Le passeport doit être valable au moins 6 mois à l'entrée. Le séjour sans formalités est limité à 90 jours. Un formulaire en ligne est obligatoire avant chaque entrée et chaque sortie du territoire.",
+    "points": [
+      "Par la route, entre uniquement par un poste-frontière officiel et pendant ses heures d'ouverture : sinon, risque de prison.",
+      "La vaccination contre la fièvre jaune est obligatoire si tu arrives d'un pays où elle est présente (dont le Brésil) ou si tu y as transité plus de 4 heures."
+    ],
+    "source": {
+      "label": "France Diplomatie, Guyana, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guyana/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical. Dengue et chikungunya peuvent être transmis.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, rage.",
+      "Fièvre jaune obligatoire si tu arrives d'un pays endémique."
+    ],
+    "source": {
+      "label": "France Diplomatie, Guyana, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guyana/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Le pays est en vigilance renforcée. La criminalité est un problème persistant à Georgetown.",
+    "points": [
+      "Évite plusieurs quartiers de Georgetown, dont le marché de Stabroek, Tiger Bay, Albouystown, Charlestown, Sophia et le sud de la ville.",
+      "Ne te déplace jamais à pied une fois la nuit tombée, quel que soit le quartier.",
+      "Évite de te déplacer seul ; ne réagis pas aux agressions verbales.",
+      "Les relations homosexuelles entre hommes sont illégales."
+    ],
+    "source": {
+      "label": "France Diplomatie, Guyana, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guyana/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "georgetown",
+      "name": "Georgetown",
+      "nights": "1 à 2 nuits",
+      "for": [
+        "stratege"
+      ],
+      "summary": "La capitale, connue pour ses bâtiments coloniaux en bois.",
+      "sleep": "Dans un hôtel sécurisé du centre.",
+      "see": [
+        {
+          "name": "La cathédrale Saint-George",
+          "note": "Une grande cathédrale en bois."
+        },
+        {
+          "name": "Les jardins botaniques",
+          "note": "Lamantins dans les bassins."
+        },
+        {
+          "name": "Le front de mer (Sea Wall)",
+          "note": "En journée."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le musée national",
+          "note": "L'histoire du pays."
+        }
+      ],
+      "eat": "Le pepperpot, un ragoût épicé, plat national.",
+      "getAround": "Taxi uniquement, surtout le soir.",
+      "tip": "Ne marche jamais dans la rue après la tombée de la nuit."
+    },
+    {
+      "slug": "kaieteur",
+      "name": "Les chutes de Kaieteur",
+      "nights": "Journée",
+      "for": [
+        "tous",
+        "explorateur"
+      ],
+      "summary": "L'une des plus hautes chutes d'eau à un seul saut au monde, au cœur de la forêt.",
+      "sleep": "Excursion d'une journée depuis Georgetown.",
+      "see": [
+        {
+          "name": "Les chutes de Kaieteur",
+          "note": "Plusieurs points de vue."
+        },
+        {
+          "name": "La forêt du parc national",
+          "note": "Plantes endémiques."
+        },
+        {
+          "name": "Le survol en petit avion",
+          "note": "La seule façon pratique d'y aller."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les grenouilles dorées",
+          "note": "Dans les broméliacées du parc."
+        }
+      ],
+      "eat": "Pique-nique fourni par l'excursion.",
+      "getAround": "Petit avion depuis Georgetown.",
+      "tip": "Le vol peut être annulé en cas de mauvais temps : prévois de la marge."
+    },
+    {
+      "slug": "rupununi",
+      "name": "Iwokrama et le Rupununi",
+      "nights": "4 à 5 nuits",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "La forêt d'Iwokrama et les savanes du Rupununi, dans le sud du pays.",
+      "sleep": "En lodge communautaire ou ranch.",
+      "see": [
+        {
+          "name": "La forêt d'Iwokrama",
+          "note": "Canopée et faune."
+        },
+        {
+          "name": "Les savanes du Rupununi",
+          "note": "Paysages ouverts et villages amérindiens."
+        },
+        {
+          "name": "Les rivières",
+          "note": "Loutres géantes et caïmans."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les villages amérindiens",
+          "note": "Tourisme communautaire."
+        }
+      ],
+      "eat": "Les repas en lodge.",
+      "getAround": "Petit avion ou piste en 4x4 depuis Georgetown.",
+      "tip": "Passe par un opérateur local expérimenté."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Forêt et savanes",
+      "for": [
+        "explorateur",
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Georgetown",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jour 3",
+          "place": "Kaieteur",
+          "note": "Excursion en avion."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Iwokrama",
+          "note": "Forêt."
+        },
+        {
+          "days": "Jours 7 à 10",
+          "place": "Rupununi",
+          "note": "Savanes et rivières."
+        }
+      ]
+    },
+    {
+      "days": 4,
+      "title": "Kaieteur et Georgetown",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Georgetown",
+          "note": "Ville."
+        },
+        {
+          "days": "Jour 3",
+          "place": "Kaieteur",
+          "note": "Excursion."
+        },
+        {
+          "days": "Jour 4",
+          "place": "Georgetown",
+          "note": "Départ."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Petits avions",
+      "text": "Pour Kaieteur et l'intérieur du pays."
+    },
+    {
+      "title": "Taxi",
+      "text": "En ville, surtout le soir."
+    },
+    {
+      "title": "4x4",
+      "text": "Pour les pistes du sud, avec un chauffeur."
+    }
+  ],
+  "culture": [
+    "L'anglais est la langue officielle.",
+    "Respecte les communautés amérindiennes : demande avant de photographier."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport valable 6 mois",
+    "Formulaire en ligne d'entrée et de sortie",
+    "Certificat fièvre jaune si tu arrives d'un pays endémique",
+    "Avis médical (paludisme)",
+    "Répulsif anti-moustiques",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour le Guyana ?",
+      "a": "Non, jusqu'à 90 jours, avec un passeport valable 6 mois. Un formulaire en ligne est obligatoire à chaque entrée et sortie."
+    },
+    {
+      "q": "Comment aller aux chutes de Kaieteur ?",
+      "a": "En petit avion depuis Georgetown, pour une excursion à la journée."
+    }
+  ]
+}

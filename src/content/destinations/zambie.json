@@ -1,0 +1,311 @@
+{
+  "name": "Zambie",
+  "prep": "en Zambie",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 119,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Zambie : chutes Victoria, safaris, sécurité",
+    "description": "Préparer un voyage en Zambie : visa gratuit à l'arrivée, paludisme, chutes Victoria, South Luangwa, Lower Zambezi. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Zambie se visite de mai à octobre, en saison sèche, idéale pour les safaris. Les Français obtiennent un visa gratuit à l'arrivée, avec un passeport valable 6 mois après le séjour et deux pages vierges. Les chutes Victoria, les safaris à pied de South Luangwa et le canoë sur le Zambèze sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Anglais (officiel), bemba, nyanja",
+    "currency": "Kwacha zambien (ZMW)",
+    "timeDiff": "+1 h en hiver, aucun décalage en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Saison des pluies, pistes difficiles."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies, chutes Victoria en crue."
+    },
+    {
+      "rating": 1,
+      "note": "Chutes très puissantes."
+    },
+    {
+      "rating": 2,
+      "note": "Début de la saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec, frais le matin."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal pour les safaris."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal pour les safaris."
+    },
+    {
+      "rating": 2,
+      "note": "Animaux près des points d'eau."
+    },
+    {
+      "rating": 1,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Chaleur, premières pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Les Français n'ont pas besoin de visa à l'avance : il est délivré gratuitement à l'arrivée, pour 90 jours au total par année civile. Le passeport doit être valable au moins 6 mois après la fin du séjour et avoir deux pages vierges.",
+    "points": [
+      "L'agent d'immigration n'accorde souvent que 30 jours : il faut alors prolonger au bureau de l'immigration avant l'échéance.",
+      "Un dépassement de séjour est passible d'incarcération en attendant le paiement d'une amende.",
+      "Le KAZA UNIVISA permet de voyager entre la Zambie et le Zimbabwe, et de faire des excursions d'une journée au Botswana par Kazungula."
+    ],
+    "source": {
+      "label": "France Diplomatie, Zambie, Entrée / séjour (mise à jour du 14 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/zambie/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical. Le certificat de vaccination contre la fièvre jaune est exigé si tu arrives d'un pays où elle est endémique.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, rage.",
+      "Bois de l'eau en bouteille ou rendue potable.",
+      "Une assurance rapatriement est indispensable ; indique-la lors de ton inscription sur Ariane."
+    ],
+    "source": {
+      "label": "France Diplomatie, Zambie, Santé (mise à jour du 14 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/zambie/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "L'ambassade de France a des capacités limitées en cas de crise. Les abords des frontières nord (RDC et Angola) sont déconseillés sauf raison impérative.",
+    "points": [
+      "Entre Livingstone et la partie zambienne des chutes Victoria, des agressions de touristes ont été signalées ; le site des chutes et les grands hôtels sont sécurisés.",
+      "Près de la frontière congolaise, reste sur les grands axes et ne circule pas de nuit."
+    ],
+    "source": {
+      "label": "France Diplomatie, Zambie, Sécurité (mise à jour du 14 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/zambie/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "livingstone",
+      "name": "Livingstone et les chutes Victoria",
+      "nights": "2 à 3 nuits",
+      "for": [
+        "tous",
+        "energique"
+      ],
+      "summary": "La ville d'accueil des chutes Victoria, côté zambien.",
+      "sleep": "À Livingstone ou près des chutes.",
+      "see": [
+        {
+          "name": "Les chutes Victoria (Mosi-oa-Tunya)",
+          "note": "Les plus belles vues varient selon la saison."
+        },
+        {
+          "name": "Une croisière au coucher du soleil sur le Zambèze",
+          "note": "Hippopotames et oiseaux."
+        },
+        {
+          "name": "Le parc national Mosi-oa-Tunya",
+          "note": "Un petit parc près de la ville."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le pont des chutes Victoria",
+          "note": "Entre la Zambie et le Zimbabwe."
+        }
+      ],
+      "eat": "Le nshima (bouillie de maïs) avec ragoût.",
+      "getAround": "Taxi entre la ville et les chutes.",
+      "tip": "Prends un taxi plutôt que de marcher entre la ville et les chutes."
+    },
+    {
+      "slug": "south-luangwa",
+      "name": "Le parc national de South Luangwa",
+      "nights": "3 nuits",
+      "for": [
+        "explorateur",
+        "stratege"
+      ],
+      "summary": "L'un des grands parcs d'Afrique australe, connu pour ses safaris à pied.",
+      "sleep": "En lodge ou camp au bord de la rivière Luangwa.",
+      "see": [
+        {
+          "name": "Les safaris à pied",
+          "note": "Avec un guide armé et un ranger."
+        },
+        {
+          "name": "Les safaris de nuit",
+          "note": "Pour voir les animaux nocturnes."
+        },
+        {
+          "name": "Les berges de la Luangwa",
+          "note": "Hippopotames et éléphants."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les villages autour de Mfuwe",
+          "note": "Artisanat local."
+        }
+      ],
+      "eat": "Les repas en lodge.",
+      "getAround": "Vol intérieur ou route depuis Lusaka jusqu'à Mfuwe.",
+      "tip": "Réserve tôt pour la haute saison sèche."
+    },
+    {
+      "slug": "lower-zambezi",
+      "name": "Le parc national du Lower Zambezi",
+      "nights": "2 à 3 nuits",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "Un parc au bord du Zambèze, à découvrir en canoë.",
+      "sleep": "En lodge au bord du fleuve.",
+      "see": [
+        {
+          "name": "Le canoë sur le Zambèze",
+          "note": "Avec un guide."
+        },
+        {
+          "name": "Les safaris en véhicule",
+          "note": "Éléphants, buffles, lions."
+        },
+        {
+          "name": "La pêche sportive",
+          "note": "En remise à l'eau."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les îles du fleuve",
+          "note": "Des haltes au calme."
+        }
+      ],
+      "eat": "Les repas en lodge.",
+      "getAround": "Route depuis Lusaka ou petit avion.",
+      "tip": "Garde toujours tes distances avec les hippopotames."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Chutes et safaris",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Livingstone",
+          "note": "Chutes Victoria."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Lower Zambezi",
+          "note": "Canoë et safaris."
+        },
+        {
+          "days": "Jours 7 à 10",
+          "place": "South Luangwa",
+          "note": "Safaris à pied."
+        }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Chutes Victoria",
+      "for": [
+        "energique"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Livingstone",
+          "note": "Chutes et croisière."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Mosi-oa-Tunya ou Chobe (Botswana)",
+          "note": "Excursion d'une journée."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Vols intérieurs",
+      "text": "Le plus rapide pour les parcs éloignés."
+    },
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "Pratique entre les villes."
+    },
+    {
+      "title": "Transferts des lodges",
+      "text": "Souvent organisés par les camps."
+    }
+  ],
+  "culture": [
+    "L'anglais est la langue officielle.",
+    "Demande toujours avant de photographier quelqu'un."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour (nyanja)",
+      "local": "Muli bwanji",
+      "say": "mouli bouandji"
+    },
+    {
+      "fr": "Merci (nyanja)",
+      "local": "Zikomo",
+      "say": "zikomo"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois après le séjour, 2 pages vierges",
+    "Avis médical (paludisme)",
+    "Certificat fièvre jaune si tu viens d'un pays endémique",
+    "Assurance avec rapatriement",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour la Zambie ?",
+      "a": "Il est délivré gratuitement à l'arrivée pour les Français. Le passeport doit être valable 6 mois après le séjour, avec deux pages vierges."
+    },
+    {
+      "q": "Quand voir les chutes Victoria ?",
+      "a": "Elles sont les plus puissantes en fin de saison des pluies, vers mars-avril ; la saison sèche est la meilleure pour les safaris."
+    }
+  ]
+}

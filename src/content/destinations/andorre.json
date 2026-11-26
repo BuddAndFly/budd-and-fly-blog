@@ -1,0 +1,310 @@
+{
+  "name": "Andorre",
+  "prep": "en Andorre",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 114,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Andorre : randonnée, ski, vallées des Pyrénées",
+    "description": "Préparer un voyage en Andorre : carte d'identité ou passeport, saisons, randonnée, ski, Andorre-la-Vieille et vallée du Madriu. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "L'Andorre se visite en été pour la randonnée et en hiver pour le ski. Ce n'est pas un pays de l'espace Schengen : une carte d'identité ou un passeport en cours de validité sont contrôlés à la frontière. Au-delà des boutiques d'Andorre-la-Vieille, la principauté offre des vallées pyrénéennes, dont celle du Madriu, classée à l'Unesco.",
+  "essentials": {
+    "bestPeriod": "Juin à septembre (randonnée), décembre à avril (ski)",
+    "languages": "Catalan (officiel), espagnol et français compris",
+    "currency": "Euro (€)",
+    "timeDiff": "Aucun décalage avec la France",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Ski, froid."
+    },
+    {
+      "rating": 2,
+      "note": "Ski."
+    },
+    {
+      "rating": 2,
+      "note": "Ski de printemps."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de saison de ski."
+    },
+    {
+      "rating": 0,
+      "note": "Entre-saison, neige en altitude."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la randonnée."
+    },
+    {
+      "rating": 2,
+      "note": "Randonnée, refuges ouverts."
+    },
+    {
+      "rating": 2,
+      "note": "Randonnée, monde en vallée."
+    },
+    {
+      "rating": 2,
+      "note": "Belle lumière, moins de monde."
+    },
+    {
+      "rating": 1,
+      "note": "Automne, journées plus courtes."
+    },
+    {
+      "rating": 0,
+      "note": "Entre-saison."
+    },
+    {
+      "rating": 2,
+      "note": "Ouverture du ski."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Aucun visa pour les Français. L'Andorre n'est pas dans l'espace Schengen : il faut présenter à la frontière une carte d'identité ou un passeport en cours de validité. Les autorités andorranes acceptent les cartes d'identité prolongées de 5 ans, mais le passeport est recommandé.",
+    "points": [
+      "Un mineur voyageant sans ses parents avec une carte d'identité doit avoir une autorisation écrite signée des parents, avec la copie de leur pièce d'identité."
+    ],
+    "source": {
+      "label": "France Diplomatie, Andorre, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/andorre/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin particulier. En montagne, protège-toi du froid, du soleil et de l'altitude.",
+    "points": [
+      "Consulte ton médecin avant le départ si besoin."
+    ],
+    "source": {
+      "label": "France Diplomatie, Andorre, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/andorre/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "La vigilance est normale dans toute l'Andorre. Les risques sont surtout naturels : avalanches, glissements de terrain et routes de montagne en hiver.",
+    "points": [
+      "Vérifie l'état des routes avant de monter, surtout en période d'intempéries.",
+      "En montagne (randonnée, alpinisme, motoneige), renseigne-toi avant de partir : des accidents graves sont dus à des imprudences.",
+      "Surveille tes papiers et moyens de paiement : des vols ont lieu."
+    ],
+    "source": {
+      "label": "France Diplomatie, Andorre, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/andorre/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "andorre-la-vieille",
+      "name": "Andorre-la-Vieille et Escaldes",
+      "nights": "2 nuits",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "summary": "La capitale, son vieux quartier de pierre et les bains thermaux d'Escaldes-Engordany.",
+      "sleep": "Dans le Barri Antic ou à Escaldes.",
+      "see": [
+        {
+          "name": "La Casa de la Vall",
+          "note": "L'ancienne maison du Parlement andorran."
+        },
+        {
+          "name": "Le Barri Antic",
+          "note": "Les ruelles du vieux quartier."
+        },
+        {
+          "name": "Caldea",
+          "note": "Le centre thermal d'Escaldes-Engordany."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "L'église Sant Esteve",
+          "note": "Une église romane au cœur de la capitale."
+        }
+      ],
+      "eat": "La cuisine de montagne : escudella (pot-au-feu), trinxat (chou et pomme de terre).",
+      "getAround": "À pied ; bus nationaux vers les vallées.",
+      "tip": "Évite les samedis : la capitale est envahie par les acheteurs."
+    },
+    {
+      "slug": "madriu",
+      "name": "La vallée du Madriu",
+      "nights": "1 à 2 nuits",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "Une vallée glaciaire préservée, classée au patrimoine mondial de l'Unesco, sans route goudronnée.",
+      "sleep": "En refuge de montagne ou à Escaldes.",
+      "see": [
+        {
+          "name": "Le sentier de la vallée",
+          "note": "Des bergeries, des terrasses et des lacs."
+        },
+        {
+          "name": "Les lacs d'altitude",
+          "note": "À la fin de la vallée."
+        },
+        {
+          "name": "Les refuges gardés et non gardés",
+          "note": "Pour une randonnée sur plusieurs jours."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La vallée d'Incles",
+          "note": "Une autre vallée sauvage, près de Canillo."
+        }
+      ],
+      "eat": "Un pique-nique : il n'y a pas de restaurant dans la vallée.",
+      "getAround": "À pied depuis Escaldes-Engordany.",
+      "tip": "Prévois de l'eau et de quoi te couvrir : la météo change vite en montagne."
+    },
+    {
+      "slug": "ordino",
+      "name": "Ordino et le nord",
+      "nights": "2 nuits",
+      "for": [
+        "lent",
+        "tous"
+      ],
+      "summary": "Le village le plus traditionnel de la principauté, porte du parc naturel de Sorteny.",
+      "sleep": "À Ordino.",
+      "see": [
+        {
+          "name": "Le village d'Ordino",
+          "note": "Maisons de pierre et ruelles."
+        },
+        {
+          "name": "Le parc naturel de la vallée de Sorteny",
+          "note": "Randonnée et fleurs de montagne en été."
+        },
+        {
+          "name": "Le lac de Tristaina",
+          "note": "Des lacs d'altitude au fond de la vallée."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le sanctuaire de Meritxell",
+          "note": "Le sanctuaire de la sainte patronne de l'Andorre, à Canillo."
+        }
+      ],
+      "eat": "Les fromages et charcuteries de montagne.",
+      "getAround": "Bus depuis Andorre-la-Vieille.",
+      "tip": "En hiver, la station voisine d'Arcalís est plus calme que les grands domaines."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 5,
+      "title": "Andorre en été",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Andorre-la-Vieille",
+          "note": "Vieux quartier, Caldea."
+        },
+        {
+          "days": "Jour 3",
+          "place": "Vallée du Madriu",
+          "note": "Randonnée."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Ordino et Sorteny",
+          "note": "Villages et lacs."
+        }
+      ]
+    },
+    {
+      "days": 3,
+      "title": "Week-end montagne",
+      "for": [
+        "energique",
+        "explorateur"
+      ],
+      "steps": [
+        {
+          "days": "Jour 1",
+          "place": "Andorre-la-Vieille",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 2 et 3",
+          "place": "Vallée du Madriu ou Tristaina",
+          "note": "Randonnée."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Voiture",
+      "text": "Pratique pour rejoindre les vallées ; routes de montagne, chaînes ou pneus neige en hiver."
+    },
+    {
+      "title": "Bus",
+      "text": "Des lignes nationales relient les villages à Andorre-la-Vieille."
+    },
+    {
+      "title": "À pied",
+      "text": "Le meilleur moyen de découvrir les vallées."
+    }
+  ],
+  "culture": [
+    "Le catalan est la langue officielle ; l'espagnol et le français sont largement compris.",
+    "L'Andorre est une coprincipauté : ses deux coprinces sont le président de la République française et l'évêque d'Urgell."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Bon dia"
+    },
+    {
+      "fr": "Merci",
+      "local": "Gràcies"
+    },
+    {
+      "fr": "Au revoir",
+      "local": "Adéu"
+    }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport valide",
+    "Chaussures de randonnée et vêtements chauds",
+    "Équipement de neige en hiver (voiture)",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un passeport pour l'Andorre ?",
+      "a": "Non : une carte d'identité ou un passeport en cours de validité suffisent. Ils sont contrôlés à la frontière, car l'Andorre n'est pas dans l'espace Schengen."
+    },
+    {
+      "q": "Quand partir en Andorre ?",
+      "a": "De juin à septembre pour la randonnée, de décembre à avril pour le ski."
+    }
+  ]
+}

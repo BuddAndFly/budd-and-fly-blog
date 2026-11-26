@@ -1,0 +1,299 @@
+{
+  "name": "Gabon",
+  "prep": "au Gabon",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 123,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Gabon : parcs de Loango et de la Lopé, Libreville",
+    "description": "Préparer un voyage au Gabon : visa et fièvre jaune obligatoires, paludisme, Libreville, parcs nationaux de Loango, de la Lopé et de Pongara. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Gabon se visite surtout de juin à septembre, pendant la grande saison sèche. Un visa et la vaccination contre la fièvre jaune sont obligatoires, avec des contrôles systématiques à l'arrivée. Le pays est couvert de forêts : ses parcs nationaux, comme Loango et la Lopé, sont le cœur du voyage.",
+  "essentials": {
+    "bestPeriod": "Juin à septembre",
+    "languages": "Français (officiel), fang, myènè",
+    "currency": "Franc CFA (XAF), à parité fixe avec l'euro",
+    "timeDiff": "Aucun décalage en hiver, -1 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 1,
+      "note": "Petite saison sèche."
+    },
+    {
+      "rating": 1,
+      "note": "Petite saison sèche."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Fin des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Grande saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec, baleines au large."
+    },
+    {
+      "rating": 2,
+      "note": "Sec, baleines."
+    },
+    {
+      "rating": 2,
+      "note": "Sec ; tortues marines plus tard dans l'année."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies ; ponte des tortues."
+    },
+    {
+      "rating": 1,
+      "note": "Petite saison sèche."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un passeport valable plus de 6 mois et un visa sont obligatoires ; le visa se demande sur le site de la Direction générale de la documentation et de l'immigration. Le carnet de vaccination contre la fièvre jaune est indispensable : il est contrôlé systématiquement à l'entrée.",
+    "points": [
+      "Pour plus d'informations, contacte l'ambassade du Gabon à Paris."
+    ],
+    "source": {
+      "label": "France Diplomatie, Gabon, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/gabon/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "La vaccination contre la fièvre jaune est obligatoire. Le paludisme est présent et dangereux : protection contre les moustiques et traitement préventif selon avis médical.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, rage.",
+      "Bois de l'eau en bouteille ou rendue potable."
+    ],
+    "source": {
+      "label": "France Diplomatie, Gabon, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/gabon/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Le niveau de délinquance reste modéré, mais une vigilance accrue est demandée sur certaines plages et dans certains quartiers, et la nuit dans tout le pays.",
+    "points": [
+      "À Libreville, prudence le long des plages, hors des sites fréquentés (plages des hôtels, Cap Esterias, Pointe Denis).",
+      "N'aie pas d'importantes sommes d'argent sur toi.",
+      "À l'hôtel, ferme ta chambre à clé et n'ouvre qu'au personnel identifié."
+    ],
+    "source": {
+      "label": "France Diplomatie, Gabon, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/gabon/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "libreville",
+      "name": "Libreville et la Pointe Denis",
+      "nights": "2 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "La capitale au bord de l'estuaire, et la presqu'île de la Pointe Denis en face.",
+      "sleep": "Dans un hôtel du bord de mer.",
+      "see": [
+        {
+          "name": "Le marché de Mont-Bouët",
+          "note": "Le grand marché de la ville (vigilance)."
+        },
+        {
+          "name": "La cathédrale Saint-Michel de Nkembo",
+          "note": "Ses colonnes sculptées."
+        },
+        {
+          "name": "La Pointe Denis",
+          "note": "Plages, en bateau depuis Libreville."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le parc national de Pongara",
+          "note": "Ponte des tortues luth en saison."
+        }
+      ],
+      "eat": "Le poulet nyembwe (sauce à la noix de palme).",
+      "getAround": "Taxi ; bateau pour la Pointe Denis.",
+      "tip": "Ne te promène pas seul sur les plages isolées."
+    },
+    {
+      "slug": "loango",
+      "name": "Le parc national de Loango",
+      "nights": "3 nuits",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "Un parc où la forêt rencontre l'océan, avec éléphants, hippopotames et baleines.",
+      "sleep": "En lodge dans ou près du parc.",
+      "see": [
+        {
+          "name": "Les plages du parc",
+          "note": "Animaux sauvages sur le sable."
+        },
+        {
+          "name": "Les lagunes en bateau",
+          "note": "Hippopotames et oiseaux."
+        },
+        {
+          "name": "L'observation des baleines",
+          "note": "En saison sèche."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les gorilles",
+          "note": "Programme d'observation sur réservation."
+        }
+      ],
+      "eat": "Les repas en lodge.",
+      "getAround": "Vol intérieur ou route et bateau via Omboué.",
+      "tip": "Réserve à l'avance auprès d'un opérateur."
+    },
+    {
+      "slug": "lope",
+      "name": "Le parc national de la Lopé",
+      "nights": "2 à 3 nuits",
+      "for": [
+        "explorateur",
+        "stratege"
+      ],
+      "summary": "Un parc classé à l'Unesco, entre savane et forêt, accessible en train.",
+      "sleep": "En lodge près du parc.",
+      "see": [
+        {
+          "name": "Les savanes de la Lopé",
+          "note": "Paysages vallonnés."
+        },
+        {
+          "name": "Les mandrills",
+          "note": "Observation en saison, avec un guide."
+        },
+        {
+          "name": "Les gravures rupestres",
+          "note": "Un patrimoine ancien."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le fleuve Ogooué",
+          "note": "Au bord du parc."
+        }
+      ],
+      "eat": "Les repas en lodge.",
+      "getAround": "Train Transgabonais depuis Libreville.",
+      "tip": "Prends un guide agréé par le parc."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 9,
+      "title": "Forêts et océan",
+      "for": [
+        "explorateur",
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Libreville",
+          "note": "Pointe Denis."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "La Lopé",
+          "note": "Savane et forêt."
+        },
+        {
+          "days": "Jours 6 à 9",
+          "place": "Loango",
+          "note": "Plages sauvages."
+        }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Libreville et Pongara",
+      "for": [
+        "lent"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Libreville",
+          "note": "Ville et plages."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Pointe Denis et Pongara",
+          "note": "Tortues en saison."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Vols intérieurs",
+      "text": "Pour Port-Gentil et les parcs éloignés."
+    },
+    {
+      "title": "Train Transgabonais",
+      "text": "De Libreville vers l'intérieur du pays."
+    },
+    {
+      "title": "Bateau",
+      "text": "Pour la Pointe Denis et les lagunes."
+    }
+  ],
+  "culture": [
+    "Le français est la langue officielle.",
+    "Demande avant de photographier quelqu'un ou un lieu de culte."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport valable plus de 6 mois",
+    "Visa",
+    "Carnet de vaccination fièvre jaune",
+    "Avis médical (paludisme)",
+    "Assurance avec rapatriement",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour le Gabon ?",
+      "a": "Oui, avec un passeport valable plus de 6 mois et le carnet de vaccination contre la fièvre jaune, contrôlé systématiquement."
+    },
+    {
+      "q": "Quand partir au Gabon ?",
+      "a": "De juin à septembre pendant la grande saison sèche ; les baleines passent au large à cette période."
+    }
+  ]
+}

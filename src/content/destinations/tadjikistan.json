@@ -1,0 +1,328 @@
+{
+  "name": "Tadjikistan",
+  "prep": "au Tadjikistan",
+  "kind": "pays",
+  "continent": "Asie",
+  "priority": 118,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Tadjikistan : monts Fann, Douchanbé, sécurité",
+    "description": "Préparer un voyage au Tadjikistan : sans visa jusqu'à 30 jours, autorisation pour le Pamir, zones déconseillées, monts Fann, Douchanbé. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Tadjikistan se visite de juin à septembre, pour ses montagnes. Les Français n'ont pas besoin de visa jusqu'à 30 jours. Le Haut-Badakhchan (Pamir) demande une autorisation spéciale, et la frontière avec l'Afghanistan, y compris la route qui la longe vers Khorog, est formellement déconseillée. Les monts Fann et le lac Iskanderkoul sont accessibles depuis Douchanbé.",
+  "essentials": {
+    "bestPeriod": "Juin à septembre",
+    "languages": "Tadjik (officiel), russe",
+    "currency": "Somoni (TJS)",
+    "timeDiff": "+4 h en hiver, +3 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Hiver rigoureux, cols fermés."
+    },
+    {
+      "rating": 0,
+      "note": "Froid."
+    },
+    {
+      "rating": 0,
+      "note": "Fin de l'hiver."
+    },
+    {
+      "rating": 1,
+      "note": "Printemps en plaine."
+    },
+    {
+      "rating": 1,
+      "note": "Agréable en plaine, neige en altitude."
+    },
+    {
+      "rating": 2,
+      "note": "Début de la saison de montagne."
+    },
+    {
+      "rating": 2,
+      "note": "Randonnée ; chaleur en plaine."
+    },
+    {
+      "rating": 2,
+      "note": "Randonnée."
+    },
+    {
+      "rating": 2,
+      "note": "Belle saison."
+    },
+    {
+      "rating": 1,
+      "note": "Premiers froids en altitude."
+    },
+    {
+      "rating": 0,
+      "note": "Froid."
+    },
+    {
+      "rating": 0,
+      "note": "Hiver."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour un séjour touristique de 30 jours maximum. Au-delà, un visa est obligatoire, à demander en ligne. Le passeport doit être valable 6 mois.",
+    "points": [
+      "Pour aller dans la région autonome du Haut-Badakhchan (Pamir), une autorisation spéciale est obligatoire, distincte du visa.",
+      "Les étrangers doivent s'enregistrer dans les dix jours ouvrés, sauf exemptions (visa électronique ou touristique, séjour de moins de 10 jours ouvrables).",
+      "Vérifie les règles exactes sur le site officiel du visa électronique avant le départ."
+    ],
+    "source": {
+      "label": "France Diplomatie, Tadjikistan, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tadjikistan/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire. Le paludisme est présent dans certaines régions (Gorno-Badakhchan, Khatlon, Douchanbé, Khodjent), surtout de juin à octobre.",
+    "points": [
+      "Paludisme : protection contre les moustiques et traitement préventif selon avis médical.",
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, rage.",
+      "Bois de l'eau en bouteille ou rendue potable ; attention à l'altitude."
+    ],
+    "source": {
+      "label": "France Diplomatie, Tadjikistan, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tadjikistan/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "La zone frontalière avec l'Afghanistan est formellement déconseillée, y compris la route qui la longe vers Khorog. Le reste du pays est en vigilance renforcée. L'ambassade de France a des capacités limitées en cas de crise.",
+    "points": [
+      "Ne franchis pas la frontière vers l'Afghanistan, même avec un visa afghan.",
+      "Près de la frontière ouzbèke, ne quitte pas les routes et postes-frontières : mines possibles.",
+      "Assure-toi d'avoir une assurance couvrant l'évacuation."
+    ],
+    "source": {
+      "label": "France Diplomatie, Tadjikistan, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tadjikistan/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "douchanbe",
+      "name": "Douchanbé",
+      "nights": "2 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "La capitale, avec ses grands parcs, ses avenues et ses marchés.",
+      "sleep": "Dans le centre.",
+      "see": [
+        {
+          "name": "Le parc Rudaki",
+          "note": "Le cœur de la ville."
+        },
+        {
+          "name": "Le musée national",
+          "note": "L'histoire du pays."
+        },
+        {
+          "name": "Le bazar Mehrgon",
+          "note": "Un grand marché couvert."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La forteresse de Hissar",
+          "note": "À l'ouest de la capitale."
+        }
+      ],
+      "eat": "Le plov (riz aux carottes et à la viande) et le qurutob, plat national.",
+      "getAround": "Taxi et minibus.",
+      "tip": "Garde ton passeport sur toi : les contrôles sont fréquents."
+    },
+    {
+      "slug": "monts-fann",
+      "name": "Les monts Fann et les Sept Lacs",
+      "nights": "3 à 4 nuits",
+      "for": [
+        "explorateur",
+        "energique"
+      ],
+      "summary": "Des montagnes accessibles depuis Douchanbé, avec des lacs turquoise et des villages.",
+      "sleep": "En maison d'hôtes ou sous tente.",
+      "see": [
+        {
+          "name": "Les Sept Lacs (Haft Kul)",
+          "note": "Une vallée de lacs successifs."
+        },
+        {
+          "name": "Le lac Iskanderkoul",
+          "note": "Un grand lac de montagne."
+        },
+        {
+          "name": "Les randonnées des monts Fann",
+          "note": "Avec un guide local de préférence."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les villages de la vallée",
+          "note": "Un accueil chez l'habitant."
+        }
+      ],
+      "eat": "Le pain et les produits laitiers des villages.",
+      "getAround": "Voiture avec chauffeur depuis Douchanbé ou Penjikent.",
+      "tip": "Pars avec un guide local : les sentiers sont peu balisés."
+    },
+    {
+      "slug": "penjikent",
+      "name": "Penjikent",
+      "nights": "1 à 2 nuits",
+      "for": [
+        "stratege",
+        "lent"
+      ],
+      "summary": "Une ville au nord-ouest, près des ruines d'une ancienne cité sogdienne.",
+      "sleep": "À Penjikent.",
+      "see": [
+        {
+          "name": "Le site de l'ancienne Penjikent",
+          "note": "Les ruines d'une ville sogdienne."
+        },
+        {
+          "name": "Le musée Rudaki",
+          "note": "Des fresques et objets anciens."
+        },
+        {
+          "name": "Le bazar",
+          "note": "La vie locale."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le site de Sarazm",
+          "note": "Un site protohistorique classé à l'Unesco, près de la ville."
+        }
+      ],
+      "eat": "Les fruits secs et les samsa.",
+      "getAround": "Taxi ou voiture avec chauffeur.",
+      "tip": "Penjikent est proche de l'Ouzbékistan : reste sur les routes et postes-frontières officiels."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Monts Fann et Penjikent",
+      "for": [
+        "explorateur",
+        "energique"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Douchanbé",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 3 à 7",
+          "place": "Monts Fann",
+          "note": "Iskanderkoul et Sept Lacs."
+        },
+        {
+          "days": "Jours 8 et 9",
+          "place": "Penjikent",
+          "note": "Sites anciens."
+        },
+        {
+          "days": "Jour 10",
+          "place": "Douchanbé",
+          "note": "Retour."
+        }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Douchanbé et Iskanderkoul",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Douchanbé",
+          "note": "La capitale."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Iskanderkoul",
+          "note": "Lac et randonnées."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "La solution la plus pratique pour la montagne."
+    },
+    {
+      "title": "Taxis partagés",
+      "text": "Pour relier les villes, départ quand la voiture est pleine."
+    },
+    {
+      "title": "À pied",
+      "text": "Avec un guide pour les randonnées."
+    }
+  ],
+  "culture": [
+    "L'hospitalité est très importante : on te proposera souvent du thé.",
+    "Tenue couvrante conseillée, surtout dans les villages.",
+    "Retire tes chaussures en entrant chez quelqu'un."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Assalomu alaykum",
+      "say": "assalom alaykoum"
+    },
+    {
+      "fr": "Merci (tadjik)",
+      "local": "Rahmat",
+      "say": "rakhmat"
+    },
+    {
+      "fr": "Merci (russe)",
+      "local": "Spasibo",
+      "say": "spassiba"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois",
+    "Autorisation spéciale si tu vas dans le Pamir",
+    "Avis médical (paludisme)",
+    "Chaussures de randonnée",
+    "Assurance avec évacuation",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour le Tadjikistan ?",
+      "a": "Non pour un séjour touristique de 30 jours maximum. Au-delà, un visa électronique est obligatoire."
+    },
+    {
+      "q": "Peut-on faire la route du Pamir ?",
+      "a": "Le Haut-Badakhchan demande une autorisation spéciale, et la route qui longe la frontière afghane vers Khorog est formellement déconseillée par France Diplomatie."
+    },
+    {
+      "q": "Quand partir au Tadjikistan ?",
+      "a": "De juin à septembre pour la montagne."
+    }
+  ]
+}

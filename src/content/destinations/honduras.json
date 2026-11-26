@@ -1,0 +1,274 @@
+{
+  "name": "Honduras",
+  "prep": "au Honduras",
+  "kind": "pays",
+  "continent": "Amérique centrale et Caraïbes",
+  "priority": 124,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Honduras : Roatán, Copán, zones de vigilance",
+    "description": "Préparer un voyage au Honduras : passeport 6 mois, zones déconseillées, Roatán et les îles de la Baie, site maya de Copán. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Une grande partie du Honduras est déconseillée sauf raison impérative, à cause d'une criminalité très élevée, dont Tegucigalpa, San Pedro Sula et La Ceiba. France Diplomatie juge en revanche compatibles avec le tourisme les îles de la Baie (Roatán) et la région du site maya de Copán. Pas de visa pour les Français ; le passeport doit être valable 6 mois.",
+  "essentials": {
+    "bestPeriod": "Février à mai",
+    "languages": "Espagnol (officiel), anglais dans les îles de la Baie",
+    "currency": "Lempira (HNL)",
+    "timeDiff": "-7 h en hiver, -8 h en été",
+    "plugs": null,
+    "emergency": "Police routière 911"
+  },
+  "months": [
+    {
+      "rating": 1,
+      "note": "Sec à Copán, encore des pluies sur les îles."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud, fin de la saison sèche."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies, saison des ouragans."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies et ouragans possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies sur les îles."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies sur les îles."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour les Français ; le passeport doit être valable au moins 6 mois à la date d'entrée. Le Honduras fait partie de l'espace C4 avec le Guatemala, le Nicaragua et le Salvador : le séjour total sans visa dans ces quatre pays ne peut pas dépasser 90 jours.",
+    "points": [
+      "Remplis la déclaration douanière en ligne avant l'arrivée.",
+      "Un dépassement de 90 jours entraîne une amende."
+    ],
+    "source": {
+      "label": "France Diplomatie, Honduras, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/honduras/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire pour un voyageur arrivant de France. La dengue sévit, avec un risque élevé toute l'année dans plusieurs départements.",
+    "points": [
+      "Protège-toi des moustiques (dengue, chikungunya).",
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Honduras, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/honduras/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Une grande partie du pays est déconseillée sauf raison impérative. Les îles de la Baie, le département du Valle (île du Tigre) et la région de Copán sont compatibles avec le tourisme, en vigilance renforcée. L'ambassade a des capacités limitées en cas de crise.",
+    "points": [
+      "Déconseillés sauf raison impérative : Tegucigalpa et ses environs, San Pedro Sula et Puerto Cortés, La Ceiba, le Bajo Aguán, l'Olancho, Yoro, Santa Bárbara et Ocotepeque.",
+      "Rejoins Roatán en avion plutôt qu'en traversant le pays par la route.",
+      "Évite de circuler de nuit et garde peu d'objets de valeur sur toi."
+    ],
+    "source": {
+      "label": "France Diplomatie, Honduras, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/honduras/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "roatan",
+      "name": "Roatán",
+      "nights": "4 à 5 nuits",
+      "for": [
+        "tous",
+        "energique"
+      ],
+      "summary": "La plus grande des îles de la Baie, sur le récif mésoaméricain, réputée pour la plongée.",
+      "sleep": "À West End ou West Bay.",
+      "see": [
+        {
+          "name": "La plongée et le snorkeling",
+          "note": "Sur le récif mésoaméricain."
+        },
+        {
+          "name": "La plage de West Bay",
+          "note": "Sable blanc et eau turquoise."
+        },
+        {
+          "name": "West End",
+          "note": "Le village des plongeurs."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "L'île d'Utila",
+          "note": "Une autre île de la Baie, plus simple."
+        }
+      ],
+      "eat": "Le poisson grillé et le baleadas (galette de farine garnie).",
+      "getAround": "Taxi ou bateau-taxi.",
+      "tip": "Choisis un centre de plongée reconnu."
+    },
+    {
+      "slug": "copan",
+      "name": "Copán Ruinas",
+      "nights": "2 nuits",
+      "for": [
+        "stratege",
+        "lent"
+      ],
+      "summary": "Une petite ville coloniale près du site maya de Copán, classé à l'Unesco.",
+      "sleep": "À Copán Ruinas.",
+      "see": [
+        {
+          "name": "Le site maya de Copán",
+          "note": "Stèles sculptées et escalier hiéroglyphique."
+        },
+        {
+          "name": "Le musée de la sculpture maya",
+          "note": "Sur le site."
+        },
+        {
+          "name": "La ville de Copán Ruinas",
+          "note": "Rues pavées et cafés."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Macaw Mountain",
+          "note": "Un parc qui recueille des aras."
+        }
+      ],
+      "eat": "Le café de la région.",
+      "getAround": "À pied ; navette depuis le Guatemala (Antigua) possible.",
+      "tip": "Arrive tôt au site pour éviter la chaleur."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Copán et Roatán",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Copán Ruinas",
+          "note": "Site maya."
+        },
+        {
+          "days": "Jour 3",
+          "place": "Transfert",
+          "note": "Vers Roatán, de préférence en avion."
+        },
+        {
+          "days": "Jours 4 à 8",
+          "place": "Roatán",
+          "note": "Plongée et plages."
+        }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Roatán",
+      "for": [
+        "energique",
+        "lent"
+      ],
+      "steps": [
+        {
+          "days": "Jour 1",
+          "place": "Roatán",
+          "note": "Arrivée en avion."
+        },
+        {
+          "days": "Jours 2 à 5",
+          "place": "West End et West Bay",
+          "note": "Plongée."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Avion",
+      "text": "Le moyen le plus sûr pour rejoindre Roatán."
+    },
+    {
+      "title": "Navettes touristiques",
+      "text": "Entre le Guatemala et Copán."
+    },
+    {
+      "title": "Bateau-taxi",
+      "text": "Sur les îles de la Baie."
+    }
+  ],
+  "culture": [
+    "Sur les îles de la Baie, beaucoup d'habitants parlent anglais.",
+    "Couvre-toi pour visiter les églises."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Buenos días"
+    },
+    {
+      "fr": "Merci",
+      "local": "Gracias"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois",
+    "Déclaration douanière en ligne",
+    "Répulsif anti-moustiques",
+    "Rester à Roatán et Copán",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Le Honduras est-il dangereux ?",
+      "a": "Une grande partie du pays est déconseillée sauf raison impérative. France Diplomatie juge les îles de la Baie et la région de Copán compatibles avec le tourisme."
+    },
+    {
+      "q": "Faut-il un visa pour le Honduras ?",
+      "a": "Non. Le passeport doit être valable 6 mois, et le séjour total dans l'espace C4 (Honduras, Guatemala, Nicaragua, Salvador) est limité à 90 jours."
+    }
+  ]
+}

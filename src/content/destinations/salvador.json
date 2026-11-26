@@ -1,0 +1,348 @@
+{
+  "name": "Salvador",
+  "prep": "au Salvador",
+  "kind": "pays",
+  "continent": "Amérique centrale et Caraïbes",
+  "priority": 125,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Salvador : volcans, Ruta de las Flores, surf",
+    "description": "Préparer un voyage au Salvador : sans visa, état d'exception, volcan de Santa Ana, Ruta de las Flores, Suchitoto, plages de surf. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Salvador se visite de novembre à avril, en saison sèche. Pas de visa pour les Français jusqu'à 90 jours (dans l'espace C4), avec un passeport valable 6 mois. Tout le pays est en vigilance renforcée : la sécurité s'est nettement améliorée, mais l'état d'exception donne de larges pouvoirs à la police. Volcans, villages de la Ruta de las Flores et plages de surf sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Novembre à avril",
+    "languages": "Espagnol",
+    "currency": "Dollar américain (USD)",
+    "timeDiff": "-7 h en hiver, -8 h en été",
+    "plugs": null,
+    "emergency": "Police 911 · Pompiers 913"
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et chaud."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Début des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies l'après-midi."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Fortes pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour un séjour de moins de 90 jours ; le passeport doit avoir au moins 6 mois de validité à l'entrée. Les 90 jours valent pour l'ensemble des quatre pays de l'espace C4 (Honduras, Guatemala, Nicaragua, Salvador).",
+    "points": [
+      "Une assurance voyage avec rapatriement est fortement recommandée.",
+      "En cas de transit par les États-Unis, vérifie les conditions d'entrée américaines."
+    ],
+    "source": {
+      "label": "France Diplomatie, Salvador, Entrée / séjour (mise à jour du 27 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/salvador/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire pour un voyageur arrivant de France ; la vaccination contre la fièvre jaune est exigée si tu arrives d'une zone d'endémie.",
+    "points": [
+      "Protège-toi des moustiques (dengue, chikungunya).",
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Salvador, Santé (mise à jour du 27 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/salvador/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée. L'état d'exception en vigueur depuis 2022 a fortement réduit l'activité des gangs, mais des vols avec violence et des agressions sexuelles sont signalés. L'ambassade n'a pas de section consulaire.",
+    "points": [
+      "Couvre tes tatouages et garde toujours une pièce d'identité sur toi : la police et l'armée ont des pouvoirs étendus.",
+      "Évite les quartiers précaires et ne circule pas de nuit.",
+      "Les principaux sites touristiques sont sécurisés par la police touristique (POLITUR).",
+      "Tolérance zéro pour l'alcool au volant."
+    ],
+    "source": {
+      "label": "France Diplomatie, Salvador, Sécurité (mise à jour du 27 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/salvador/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "ruta-de-las-flores",
+      "name": "La Ruta de las Flores",
+      "nights": "2 nuits",
+      "for": [
+        "lent",
+        "tous"
+      ],
+      "summary": "Une route de villages colorés entre plantations de café et montagnes.",
+      "sleep": "À Juayúa ou Concepción de Ataco.",
+      "see": [
+        {
+          "name": "Concepción de Ataco",
+          "note": "Ruelles et fresques murales."
+        },
+        {
+          "name": "Juayúa",
+          "note": "Célèbre pour sa foire gastronomique du week-end."
+        },
+        {
+          "name": "Les plantations de café",
+          "note": "Visites et dégustations."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les cascades de Juayúa",
+          "note": "Avec un guide local."
+        }
+      ],
+      "eat": "Les pupusas, galettes de maïs farcies, plat national.",
+      "getAround": "Bus locaux ou voiture.",
+      "tip": "Viens le week-end pour la foire gastronomique de Juayúa."
+    },
+    {
+      "slug": "santa-ana",
+      "name": "Le volcan de Santa Ana et le lac de Coatepeque",
+      "nights": "2 nuits",
+      "for": [
+        "explorateur",
+        "energique"
+      ],
+      "summary": "L'ascension du plus haut volcan du pays et un lac de cratère.",
+      "sleep": "Au bord du lac de Coatepeque ou à Santa Ana.",
+      "see": [
+        {
+          "name": "L'ascension du volcan de Santa Ana",
+          "note": "Vue sur un lac de cratère turquoise."
+        },
+        {
+          "name": "Le lac de Coatepeque",
+          "note": "Baignade et kayak."
+        },
+        {
+          "name": "La ville de Santa Ana",
+          "note": "Sa cathédrale et son théâtre."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le site de Joya de Cerén",
+          "note": "Un village maya préservé sous les cendres, classé à l'Unesco."
+        }
+      ],
+      "eat": "Les pupusas et le poisson du lac.",
+      "getAround": "Bus ou voiture ; départ des randonnées depuis le parc national.",
+      "tip": "L'ascension se fait avec un guide, au départ du parc."
+    },
+    {
+      "slug": "suchitoto",
+      "name": "Suchitoto",
+      "nights": "1 à 2 nuits",
+      "for": [
+        "lent",
+        "stratege"
+      ],
+      "summary": "Une ville coloniale perchée au-dessus du lac Suchitlán.",
+      "sleep": "Dans le centre historique.",
+      "see": [
+        {
+          "name": "Le centre historique",
+          "note": "Rues pavées et maisons coloniales."
+        },
+        {
+          "name": "Le lac Suchitlán",
+          "note": "Balade en bateau."
+        },
+        {
+          "name": "L'église Santa Lucía",
+          "note": "Sur la place principale."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les ateliers de teinture à l'indigo",
+          "note": "Un savoir-faire local."
+        }
+      ],
+      "eat": "Les spécialités locales sur la place.",
+      "getAround": "Bus depuis San Salvador.",
+      "tip": "Arrive avant la nuit."
+    },
+    {
+      "slug": "el-tunco",
+      "name": "El Tunco et la côte",
+      "nights": "2 à 3 nuits",
+      "for": [
+        "energique",
+        "tous"
+      ],
+      "summary": "Le village des surfeurs sur la côte pacifique.",
+      "sleep": "À El Tunco ou El Zonte.",
+      "see": [
+        {
+          "name": "Les vagues d'El Tunco",
+          "note": "Pour surfeurs confirmés et débutants."
+        },
+        {
+          "name": "Le rocher d'El Tunco",
+          "note": "Le symbole de la plage."
+        },
+        {
+          "name": "Les couchers de soleil",
+          "note": "Sur le Pacifique."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "El Zonte",
+          "note": "Une plage voisine plus calme."
+        }
+      ],
+      "eat": "Le poisson et les fruits de mer.",
+      "getAround": "Bus ou taxi depuis San Salvador.",
+      "tip": "Respecte les consignes de baignade : les courants sont forts."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 9,
+      "title": "Volcans, villages et surf",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Suchitoto",
+          "note": "Ville coloniale."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Santa Ana et Coatepeque",
+          "note": "Volcan et lac."
+        },
+        {
+          "days": "Jours 5 et 6",
+          "place": "Ruta de las Flores",
+          "note": "Villages et café."
+        },
+        {
+          "days": "Jours 7 à 9",
+          "place": "El Tunco",
+          "note": "Surf."
+        }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Salvador express",
+      "for": [
+        "energique"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Santa Ana",
+          "note": "Volcan."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "El Tunco",
+          "note": "Plage et surf."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Bus locaux",
+      "text": "Très bon marché, mais lents."
+    },
+    {
+      "title": "Navettes touristiques",
+      "text": "Entre les principaux sites."
+    },
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "Plus confortable."
+    }
+  ],
+  "culture": [
+    "Garde toujours une pièce d'identité : les contrôles sont fréquents.",
+    "Couvre tes tatouages."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Buenos días"
+    },
+    {
+      "fr": "Merci",
+      "local": "Gracias"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois",
+    "Pièce d'identité toujours sur soi",
+    "Vêtements couvrant les tatouages",
+    "Répulsif anti-moustiques",
+    "Assurance avec rapatriement",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Le Salvador est-il sûr ?",
+      "a": "La sécurité s'est nettement améliorée et tout le pays est en vigilance renforcée. Des vols avec violence restent signalés : évite les quartiers précaires et la nuit."
+    },
+    {
+      "q": "Faut-il un visa pour le Salvador ?",
+      "a": "Non, jusqu'à 90 jours dans l'espace C4, avec un passeport valable 6 mois."
+    }
+  ]
+}

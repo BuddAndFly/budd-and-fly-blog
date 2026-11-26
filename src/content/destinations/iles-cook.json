@@ -1,0 +1,274 @@
+{
+  "name": "Îles Cook",
+  "prep": "aux îles Cook",
+  "kind": "pays",
+  "continent": "Océanie",
+  "priority": 133,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide îles Cook : Rarotonga, lagon d'Aitutaki, saisons",
+    "description": "Préparer un voyage aux îles Cook : sans visa 31 jours, cyclones, Rarotonga, lagon de Muri, Aitutaki. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Les îles Cook se visitent de mai à octobre ; de novembre à avril, c'est la saison des cyclones. Pas de visa pour les Français jusqu'à 31 jours, avec un passeport valable 6 mois après le séjour, un billet retour et une preuve d'hébergement. Tout l'archipel est en vigilance normale. Rarotonga et le lagon d'Aitutaki sont les étapes phares.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Anglais et maori des îles Cook",
+    "currency": "Dollar néo-zélandais (NZD)",
+    "timeDiff": "-11 h en hiver, -12 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Cyclones possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Cyclones possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Cyclones possibles."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison cyclonique."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec ; baleines au large."
+    },
+    {
+      "rating": 2,
+      "note": "Baleines au large."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 0,
+      "note": "Début des cyclones."
+    },
+    {
+      "rating": 0,
+      "note": "Cyclones possibles."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour un séjour de 31 jours maximum, avec un billet retour ou vers un autre pays, un passeport valable 6 mois après la fin du séjour et une preuve d'hébergement.",
+    "points": [
+      "Aucun fruit ni légume ne peut être introduit ; la viande, les œufs, le miel et le matériel de camping ou de pêche doivent être déclarés.",
+      "Une prolongation est possible auprès du ministère de l'Immigration à Rarotonga."
+    ],
+    "source": {
+      "label": "France Diplomatie, Îles Cook, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/iles-cook/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire. Protège-toi des moustiques : dengue et chikungunya peuvent sévir.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B.",
+      "Bois de l'eau en bouteille ou rendue potable."
+    ],
+    "source": {
+      "label": "France Diplomatie, Îles Cook, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/iles-cook/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout l'archipel est en vigilance normale. L'ambassade de France compétente est à Wellington, en Nouvelle-Zélande.",
+    "points": [
+      "De novembre à fin avril, période cyclonique : suis les consignes des autorités et de ton hôtel.",
+      "En cas de pré-alerte cyclonique, rejoins ton hébergement et suspends tes déplacements."
+    ],
+    "source": {
+      "label": "France Diplomatie, Îles Cook, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/iles-cook/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "rarotonga",
+      "name": "Rarotonga",
+      "nights": "4 nuits",
+      "for": [
+        "tous",
+        "energique"
+      ],
+      "summary": "L'île principale, avec ses montagnes couvertes de forêt et son lagon.",
+      "sleep": "Au bord du lagon de Muri ou à Avarua.",
+      "see": [
+        {
+          "name": "Le lagon de Muri",
+          "note": "Kayak, paddle et snorkeling."
+        },
+        {
+          "name": "La traversée de l'île (Cross-Island Track)",
+          "note": "Une randonnée dans la forêt."
+        },
+        {
+          "name": "Le marché Punanga Nui d'Avarua",
+          "note": "Le samedi matin."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les églises de corail",
+          "note": "Avec leurs chants le dimanche."
+        }
+      ],
+      "eat": "L'ika mata, poisson cru au citron et lait de coco.",
+      "getAround": "Bus qui font le tour de l'île dans les deux sens ; scooter.",
+      "tip": "Assiste à un office du dimanche pour entendre les chants."
+    },
+    {
+      "slug": "aitutaki",
+      "name": "Aitutaki",
+      "nights": "3 nuits",
+      "for": [
+        "lent",
+        "tous"
+      ],
+      "summary": "Un atoll avec l'un des plus beaux lagons du Pacifique.",
+      "sleep": "En bungalow au bord du lagon.",
+      "see": [
+        {
+          "name": "La croisière dans le lagon",
+          "note": "Îlots et bancs de sable."
+        },
+        {
+          "name": "One Foot Island",
+          "note": "Un îlot du lagon."
+        },
+        {
+          "name": "Le snorkeling",
+          "note": "Poissons et bénitiers."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le point de vue de Maunga Pu",
+          "note": "Le sommet de l'île."
+        }
+      ],
+      "eat": "Le poisson frais.",
+      "getAround": "Vol intérieur depuis Rarotonga.",
+      "tip": "Réserve la croisière du lagon dès ton arrivée."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Rarotonga et Aitutaki",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 4",
+          "place": "Rarotonga",
+          "note": "Lagon et randonnée."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Aitutaki",
+          "note": "Lagon."
+        },
+        {
+          "days": "Jour 8",
+          "place": "Rarotonga",
+          "note": "Départ."
+        }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Rarotonga",
+      "for": [
+        "energique"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Lagon de Muri",
+          "note": "Kayak et snorkeling."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Avarua et Cross-Island Track",
+          "note": "Marché et randonnée."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Bus",
+      "text": "Deux lignes font le tour de Rarotonga, dans les deux sens."
+    },
+    {
+      "title": "Scooter",
+      "text": "Très pratique sur Rarotonga."
+    },
+    {
+      "title": "Vols intérieurs",
+      "text": "Pour Aitutaki et les autres îles."
+    }
+  ],
+  "culture": [
+    "Le dimanche est jour de culte et de repos.",
+    "On salue avec « Kia orana »."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Kia orana",
+      "say": "kia orana"
+    },
+    {
+      "fr": "Merci",
+      "local": "Meitaki",
+      "say": "méitaki"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois après le séjour",
+    "Billet retour et preuve d'hébergement",
+    "Pas de fruits ni légumes dans les bagages",
+    "Répulsif anti-moustiques",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour les îles Cook ?",
+      "a": "Non, jusqu'à 31 jours, avec un passeport valable 6 mois après le séjour, un billet retour et une preuve d'hébergement."
+    },
+    {
+      "q": "Quand partir aux îles Cook ?",
+      "a": "De mai à octobre ; de novembre à avril, c'est la saison des cyclones."
+    }
+  ]
+}

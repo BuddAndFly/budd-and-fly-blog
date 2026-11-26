@@ -1,0 +1,312 @@
+{
+  "name": "Vanuatu",
+  "prep": "au Vanuatu",
+  "kind": "pays",
+  "continent": "Océanie",
+  "priority": 131,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Vanuatu : volcan Yasur, Santo, Efate, saisons",
+    "description": "Préparer un voyage au Vanuatu : visa à l'arrivée, cyclones, paludisme, Port-Vila, volcan Yasur à Tanna, Espiritu Santo. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Vanuatu se visite de mai à octobre ; de novembre à avril, c'est la saison des cyclones. Les Français reçoivent un visa de trois mois à l'arrivée, avec un passeport valable 6 mois après le séjour et un billet retour. L'archipel est en vigilance renforcée. Le volcan Yasur à Tanna, les plages d'Espiritu Santo et Port-Vila en sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Bichlamar, anglais et français (officiels)",
+    "currency": "Vatu (VUV)",
+    "timeDiff": "+10 h en hiver, +9 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Cyclones possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Cyclones possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Cyclones possibles."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison cyclonique."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Frais et sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 0,
+      "note": "Début des cyclones."
+    },
+    {
+      "rating": 0,
+      "note": "Cyclones possibles."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa à demander à l'avance : un visa visiteur de trois mois est délivré à l'arrivée. Il faut un passeport valable au moins 6 mois après la fin du séjour, un billet retour dans les trois mois et une réservation d'hôtel ou une lettre d'invitation.",
+    "points": [
+      "Plaisanciers : seuls les ports de Port-Vila et de Luganville (Santo) sont ouverts aux formalités d'entrée."
+    ],
+    "source": {
+      "label": "France Diplomatie, Vanuatu, Entrée / séjour (mise à jour du 07 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/vanuatu/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Le paludisme est présent : demande un avis médical avant le départ et protège-toi des moustiques. Dengue et chikungunya peuvent sévir.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B."
+    ],
+    "source": {
+      "label": "France Diplomatie, Vanuatu, Santé (mise à jour du 07 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/vanuatu/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "L'archipel est en vigilance renforcée. Cambriolages et agressions existent.",
+    "points": [
+      "La saison des cyclones va de novembre à fin avril : suis les alertes officielles.",
+      "Ferme portes et fenêtres la nuit, mets tes papiers en sécurité et garde une photocopie du passeport.",
+      "Évite de circuler seule le soir, à pied ou en transport public.",
+      "Surveille le chargement de tes bagages, notamment à l'aéroport."
+    ],
+    "source": {
+      "label": "France Diplomatie, Vanuatu, Sécurité (mise à jour du 07 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/vanuatu/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "port-vila",
+      "name": "Port-Vila et Efate",
+      "nights": "3 nuits",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "summary": "La capitale, sur l'île d'Efate, avec ses lagons et cascades.",
+      "sleep": "À Port-Vila ou au bord d'un lagon.",
+      "see": [
+        {
+          "name": "Le marché de Port-Vila",
+          "note": "Fruits et légumes de l'archipel."
+        },
+        {
+          "name": "Les cascades de Mele",
+          "note": "Baignade dans des bassins."
+        },
+        {
+          "name": "Le Blue Lagoon",
+          "note": "Un lagon turquoise au nord-est de l'île."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le tour de l'île d'Efate",
+          "note": "Villages et plages."
+        }
+      ],
+      "eat": "Le lap-lap, plat traditionnel cuit au four de terre.",
+      "getAround": "Minibus (bus « B ») et taxi.",
+      "tip": "Les minibus prennent les passagers partout : indique ta destination."
+    },
+    {
+      "slug": "tanna",
+      "name": "Tanna et le volcan Yasur",
+      "nights": "2 nuits",
+      "for": [
+        "explorateur",
+        "energique"
+      ],
+      "summary": "Une île où l'on peut approcher le cratère d'un volcan actif.",
+      "sleep": "En bungalow près du volcan.",
+      "see": [
+        {
+          "name": "Le volcan Yasur",
+          "note": "Au crépuscule, avec un guide."
+        },
+        {
+          "name": "Les villages coutumiers",
+          "note": "Avec l'accord des habitants."
+        },
+        {
+          "name": "Les plages de sable noir",
+          "note": "Sur la côte."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les sources chaudes",
+          "note": "Selon les villages."
+        }
+      ],
+      "eat": "Les repas en bungalow.",
+      "getAround": "Vol intérieur depuis Port-Vila, puis 4x4.",
+      "tip": "Respecte toujours les consignes liées au niveau d'alerte du volcan."
+    },
+    {
+      "slug": "santo",
+      "name": "Espiritu Santo",
+      "nights": "3 nuits",
+      "for": [
+        "lent",
+        "explorateur"
+      ],
+      "summary": "La plus grande île, avec ses plages de sable blanc et ses trous bleus.",
+      "sleep": "À Luganville ou sur la côte est.",
+      "see": [
+        {
+          "name": "Champagne Beach",
+          "note": "Une plage de sable blanc."
+        },
+        {
+          "name": "Les blue holes",
+          "note": "Des bassins d'eau douce turquoise."
+        },
+        {
+          "name": "L'épave du SS President Coolidge",
+          "note": "Pour plongeurs expérimentés."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Port-Olry",
+          "note": "Un village et ses îlots."
+        }
+      ],
+      "eat": "Le bœuf de Santo et le poisson.",
+      "getAround": "Vol intérieur ; voiture ou taxi sur place.",
+      "tip": "Plonge avec un centre reconnu."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Trois îles",
+      "for": [
+        "tous",
+        "explorateur"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Port-Vila",
+          "note": "Efate."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Tanna",
+          "note": "Volcan Yasur."
+        },
+        {
+          "days": "Jours 6 à 9",
+          "place": "Espiritu Santo",
+          "note": "Plages et blue holes."
+        },
+        {
+          "days": "Jour 10",
+          "place": "Port-Vila",
+          "note": "Départ."
+        }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Efate et Tanna",
+      "for": [
+        "energique"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Port-Vila",
+          "note": "Efate."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Tanna",
+          "note": "Volcan."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Vols intérieurs",
+      "text": "Pour passer d'une île à l'autre."
+    },
+    {
+      "title": "Minibus",
+      "text": "À Port-Vila et Luganville."
+    },
+    {
+      "title": "4x4",
+      "text": "Sur les îles, avec un chauffeur."
+    }
+  ],
+  "culture": [
+    "La coutume (kastom) est très importante : demande l'autorisation avant d'entrer dans un village.",
+    "Tenue couvrante dans les villages."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour (bichlamar)",
+      "local": "Gud moning"
+    },
+    {
+      "fr": "Merci (bichlamar)",
+      "local": "Tank yu tumas"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois après le séjour",
+    "Billet retour et réservation d'hôtel",
+    "Avis médical (paludisme)",
+    "Répulsif anti-moustiques",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour le Vanuatu ?",
+      "a": "Non : un visa de trois mois est délivré à l'arrivée, avec un passeport valable 6 mois après le séjour et un billet retour."
+    },
+    {
+      "q": "Quand partir au Vanuatu ?",
+      "a": "De mai à octobre ; de novembre à avril, c'est la saison des cyclones."
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "name": "Barbade",
+  "prep": "à la Barbade",
+  "kind": "pays",
+  "continent": "Amérique centrale et Caraïbes",
+  "priority": 128,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Barbade : plages, Bridgetown, côte est sauvage",
+    "description": "Préparer un voyage à la Barbade : sans visa, saison des ouragans, Bridgetown, plages de la côte ouest, côte est sauvage. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Barbade se visite de décembre à mai, hors saison des ouragans. Pas de visa pour les Français pour moins de trois mois. L'île est en vigilance renforcée, avec des conditions de sécurité globalement bonnes. Bridgetown, les plages de la côte ouest et la côte est sauvage composent un séjour varié.",
+  "essentials": {
+    "bestPeriod": "Décembre à mai",
+    "languages": "Anglais (officiel), bajan",
+    "currency": "Dollar de la Barbade (BBD)",
+    "timeDiff": "-5 h en hiver, -6 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison sèche."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison des ouragans."
+    },
+    {
+      "rating": 1,
+      "note": "Saison humide."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison humide."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour les Français pour un séjour de moins de trois mois.",
+    "points": [
+      "Au-delà, renseigne-toi auprès de l'ambassade de la Barbade à Bruxelles."
+    ],
+    "source": {
+      "label": "France Diplomatie, Barbade, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/barbade/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire en arrivant de France ; la vaccination contre la fièvre jaune est exigée si tu arrives d'une zone d'endémie.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B.",
+      "Protège-toi du soleil et de la chaleur."
+    ],
+    "source": {
+      "label": "France Diplomatie, Barbade, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/barbade/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "L'île est en vigilance renforcée. Les conditions de sécurité sont globalement bonnes, mais des vols, y compris avec violence, et des agressions peuvent se produire. L'ambassade de France compétente est à Sainte-Lucie.",
+    "points": [
+      "De juin à fin novembre, des ouragans peuvent toucher l'île : suis les alertes.",
+      "Laisse tes objets de valeur et papiers au coffre, et garde des photocopies.",
+      "Évite les endroits isolés, surtout de nuit."
+    ],
+    "source": {
+      "label": "France Diplomatie, Barbade, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/barbade/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "bridgetown",
+      "name": "Bridgetown",
+      "nights": "2 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "La capitale, dont le centre historique et la garnison sont classés à l'Unesco.",
+      "sleep": "À Bridgetown ou sur la côte sud.",
+      "see": [
+        {
+          "name": "Le centre historique",
+          "note": "Le Parlement et les rues commerçantes."
+        },
+        {
+          "name": "La garnison",
+          "note": "Un ensemble militaire historique."
+        },
+        {
+          "name": "La plage de Carlisle Bay",
+          "note": "Tout près du centre."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le fish fry d'Oistins",
+          "note": "Le marché aux poissons animé du vendredi soir."
+        }
+      ],
+      "eat": "Le cou-cou et le poisson volant, plat national.",
+      "getAround": "Bus et minibus.",
+      "tip": "Va au fish fry d'Oistins le vendredi soir."
+    },
+    {
+      "slug": "cote-ouest",
+      "name": "La côte ouest",
+      "nights": "3 nuits",
+      "for": [
+        "lent",
+        "tous"
+      ],
+      "summary": "Des plages calmes au sable blanc, sur la mer des Caraïbes.",
+      "sleep": "Dans les villages de Holetown ou Speightstown.",
+      "see": [
+        {
+          "name": "Les plages de la côte ouest",
+          "note": "Mer calme, idéale pour nager."
+        },
+        {
+          "name": "Le snorkeling avec les tortues",
+          "note": "Avec des sorties en bateau."
+        },
+        {
+          "name": "Holetown",
+          "note": "L'un des premiers lieux colonisés de l'île."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Speightstown",
+          "note": "Une petite ville plus authentique, au nord."
+        }
+      ],
+      "eat": "Le poisson grillé.",
+      "getAround": "Bus le long de la côte.",
+      "tip": "Pars tôt en sortie snorkeling : la mer est plus calme le matin."
+    },
+    {
+      "slug": "cote-est",
+      "name": "La côte est et le centre de l'île",
+      "nights": "Journée",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "Une côte sauvage battue par l'Atlantique, avec des rochers spectaculaires.",
+      "sleep": "Excursion depuis la côte ouest ou sud.",
+      "see": [
+        {
+          "name": "Bathsheba",
+          "note": "Les rochers sculptés par les vagues."
+        },
+        {
+          "name": "Le jardin botanique d'Andromeda",
+          "note": "Sur les hauteurs."
+        },
+        {
+          "name": "Harrison's Cave",
+          "note": "Une grotte visitée en petit train."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les points de vue de la côte nord-est",
+          "note": "Panoramas sur l'Atlantique."
+        }
+      ],
+      "eat": "Un déjeuner dans un restaurant de la côte.",
+      "getAround": "Voiture ou bus.",
+      "tip": "Côté Atlantique, la mer est souvent agitée : renseigne-toi avant de te baigner."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Barbade essentielle",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Bridgetown",
+          "note": "Centre et Carlisle Bay."
+        },
+        {
+          "days": "Jour 3",
+          "place": "Côte est",
+          "note": "Bathsheba et Harrison's Cave."
+        },
+        {
+          "days": "Jours 4 à 7",
+          "place": "Côte ouest",
+          "note": "Plages."
+        }
+      ]
+    },
+    {
+      "days": 4,
+      "title": "Plages",
+      "for": [
+        "lent"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Côte ouest",
+          "note": "Plages et snorkeling."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Holetown et Speightstown",
+          "note": "Villages de la côte."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Bus",
+      "text": "Des bus publics et minibus couvrent toute l'île."
+    },
+    {
+      "title": "Location de voiture",
+      "text": "On roule à gauche."
+    },
+    {
+      "title": "Taxi",
+      "text": "Prix à négocier avant la course."
+    }
+  ],
+  "culture": [
+    "On roule à gauche, héritage britannique.",
+    "Le cricket est le sport national."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport",
+    "Crème solaire",
+    "Suivi des alertes météo de juin à novembre",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour la Barbade ?",
+      "a": "Non, pour un séjour de moins de trois mois."
+    },
+    {
+      "q": "Quand partir à la Barbade ?",
+      "a": "De décembre à mai ; de juin à novembre, c'est la saison des ouragans."
+    }
+  ]
+}

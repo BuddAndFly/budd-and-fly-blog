@@ -1,0 +1,315 @@
+{
+  "name": "Togo",
+  "prep": "au Togo",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 122,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Togo : Lomé, Kpalimé, lac Togo, sécurité",
+    "description": "Préparer un voyage au Togo : e-visa obligatoire, fièvre jaune, zones déconseillées au nord, Lomé, Kpalimé, lac Togo. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Togo se visite de novembre à février, en saison sèche. Un visa électronique et la vaccination contre la fièvre jaune sont obligatoires ; le visa ne s'obtient plus à l'arrivée. Le nord (région des Savanes et triples frontières) est déconseillé. Le sud offre Lomé, les collines de Kpalimé et le lac Togo.",
+  "essentials": {
+    "bestPeriod": "Novembre à février",
+    "languages": "Français (officiel), éwé, kabiyè",
+    "currency": "Franc CFA (XOF), à parité fixe avec l'euro",
+    "timeDiff": "-1 h en hiver, -2 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche, harmattan."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Début des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Grande saison des pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Accalmie."
+    },
+    {
+      "rating": 1,
+      "note": "Petite saison sèche dans le sud."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un visa est obligatoire : inscris-toi sur la plateforme officielle voyage.gouv.tg et demande un e-visa au moins 5 jours avant le départ. Il n'est plus possible d'obtenir un visa à l'arrivée. Il faut un passeport valable 6 mois après le retour et le carnet de vaccination contre la fièvre jaune.",
+    "points": [
+      "Vérifie que tu as reçu le code de confirmation électronique du visa avant de partir.",
+      "Les visas de 48 heures ou 7 jours peuvent être prolongés jusqu'à un mois à Lomé."
+    ],
+    "source": {
+      "label": "France Diplomatie, Togo, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/togo/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "La vaccination contre la fièvre jaune est obligatoire pour entrer au Togo. Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, méningite (saison sèche), rage.",
+      "Bois de l'eau en bouteille ou rendue potable."
+    ],
+    "source": {
+      "label": "France Diplomatie, Togo, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/togo/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "La zone des triples frontières au nord est formellement déconseillée ; la région des Savanes, dont Dapaong, est déconseillée sauf raison impérative et soumise à autorisation militaire. Le reste du pays est en vigilance renforcée.",
+    "points": [
+      "À Lomé, le front de mer, les abords des hôtels voisins et la frontière avec le Ghana sont déconseillés aux promeneurs, surtout le soir : des attaques à l'arme blanche ont été signalées.",
+      "Vigilance accrue dans les lieux fréquentés par les étrangers.",
+      "Méfie-toi des arnaques en ligne (cybercriminalité)."
+    ],
+    "source": {
+      "label": "France Diplomatie, Togo, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/togo/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "lome",
+      "name": "Lomé",
+      "nights": "2 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "La capitale, entre son grand marché et son marché des féticheurs.",
+      "sleep": "Dans le centre ou près de la plage, dans un hôtel sécurisé.",
+      "see": [
+        {
+          "name": "Le grand marché",
+          "note": "Les « Nana Benz », commerçantes de tissus."
+        },
+        {
+          "name": "Le marché des féticheurs d'Akodessewa",
+          "note": "Pour comprendre le vaudou."
+        },
+        {
+          "name": "Le monument de l'Indépendance",
+          "note": "Un symbole du pays."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le Village artisanal",
+          "note": "Artisanat local."
+        }
+      ],
+      "eat": "Le fufu et la pâte avec sauce arachide.",
+      "getAround": "Taxi-moto (zémidjan) ou taxi.",
+      "tip": "Ne te promène pas sur le front de mer le soir."
+    },
+    {
+      "slug": "kpalime",
+      "name": "Kpalimé",
+      "nights": "2 à 3 nuits",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "Une ville verte dans les collines, au milieu des plantations de café et de cacao.",
+      "sleep": "À Kpalimé ou dans les environs.",
+      "see": [
+        {
+          "name": "Le mont Agou",
+          "note": "Le point culminant du pays."
+        },
+        {
+          "name": "Les cascades de Womé",
+          "note": "En randonnée."
+        },
+        {
+          "name": "Les plantations de café et cacao",
+          "note": "Visites avec des guides locaux."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les papillons de la forêt de Kpalimé",
+          "note": "Une grande diversité."
+        }
+      ],
+      "eat": "Les fruits tropicaux et le café local.",
+      "getAround": "Taxi-brousse depuis Lomé.",
+      "tip": "Pars avec un guide local pour les randonnées."
+    },
+    {
+      "slug": "lac-togo",
+      "name": "Le lac Togo et Togoville",
+      "nights": "1 nuit",
+      "for": [
+        "lent",
+        "tous"
+      ],
+      "summary": "Un lac lagunaire près de la côte, et le village historique de Togoville.",
+      "sleep": "Au bord du lac.",
+      "see": [
+        {
+          "name": "La traversée en pirogue",
+          "note": "Vers Togoville."
+        },
+        {
+          "name": "Togoville",
+          "note": "Un village chargé d'histoire."
+        },
+        {
+          "name": "Les rives du lac",
+          "note": "Calme et oiseaux."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Aného",
+          "note": "L'ancienne capitale, à l'est."
+        }
+      ],
+      "eat": "Le poisson du lac.",
+      "getAround": "Taxi depuis Lomé.",
+      "tip": "Demande avant de photographier les lieux sacrés."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Le sud du Togo",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Lomé",
+          "note": "La capitale."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Kpalimé",
+          "note": "Collines et cascades."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Lac Togo",
+          "note": "Togoville."
+        },
+        {
+          "days": "Jour 8",
+          "place": "Lomé",
+          "note": "Départ."
+        }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Lomé et Kpalimé",
+      "for": [
+        "energique"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Lomé",
+          "note": "Marchés."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Kpalimé",
+          "note": "Randonnée."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Taxi-moto (zémidjan)",
+      "text": "Partout ; négocie le prix et demande un casque."
+    },
+    {
+      "title": "Taxi-brousse",
+      "text": "Pour relier les villes."
+    },
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "Plus confortable."
+    }
+  ],
+  "culture": [
+    "Le vaudou est très présent dans le sud : respect et discrétion lors des cérémonies.",
+    "Les salutations sont importantes avant toute demande."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour (éwé)",
+      "local": "Woezɔ",
+      "say": "wézo"
+    },
+    {
+      "fr": "Merci (éwé)",
+      "local": "Akpé",
+      "say": "akpé"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois après le retour",
+    "E-visa et code de confirmation",
+    "Carnet de vaccination fièvre jaune",
+    "Avis médical (paludisme)",
+    "Rester dans le sud",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour le Togo ?",
+      "a": "Oui, un e-visa à demander au moins 5 jours avant le départ sur la plateforme officielle. Le visa à l'arrivée n'est plus possible."
+    },
+    {
+      "q": "Le Togo est-il sûr ?",
+      "a": "Le nord est déconseillé (triples frontières, région des Savanes). Le reste du pays est en vigilance renforcée ; à Lomé, évite le front de mer le soir."
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "name": "Mozambique",
+  "prep": "au Mozambique",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 121,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Mozambique : Maputo, Tofo, Bazaruto, sécurité",
+    "description": "Préparer un voyage au Mozambique : e-visa, passeport 6 mois, nord formellement déconseillé, Maputo, Tofo, Vilanculos et Bazaruto. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le sud du Mozambique se visite de mai à novembre. Il faut demander une autorisation de visa en ligne avant le départ, avec un passeport valable 6 mois après le séjour et deux pages vierges. Le nord est formellement déconseillé (Cabo Delgado, dont Pemba et les Quirimbas). Le sud offre Maputo, les plages de Tofo et l'archipel de Bazaruto.",
+  "essentials": {
+    "bestPeriod": "Mai à novembre",
+    "languages": "Portugais (officiel)",
+    "currency": "Metical (MZN)",
+    "timeDiff": "+1 h en hiver, aucun décalage en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Chaud, pluies, risque de cyclones."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies, cyclones possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Fin des pluies, cyclones possibles."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et doux."
+    },
+    {
+      "rating": 2,
+      "note": "Sec ; baleines au large."
+    },
+    {
+      "rating": 2,
+      "note": "Sec ; baleines."
+    },
+    {
+      "rating": 2,
+      "note": "Sec ; baleines."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud, premières pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Chaud et humide."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pour un séjour touristique de 30 jours maximum, il faut demander une autorisation en ligne sur le portail officiel e-visa, 5 à 7 jours avant le voyage. Le visa est finalisé à l'arrivée, au comptoir de l'immigration. Le passeport doit être valable 6 mois après la fin du séjour, avec au moins deux pages vierges.",
+    "points": [
+      "Les autorités sont intransigeantes sur la validité du passeport et les pages vierges.",
+      "Prépare les justificatifs : photo, copie du passeport, billet aller-retour, moyens de subsistance, réservations d'hôtel payées.",
+      "Garde le justificatif de paiement : il est demandé à l'immigration."
+    ],
+    "source": {
+      "label": "France Diplomatie, Mozambique, Entrée / séjour (mise à jour du 09 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mozambique/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, rage.",
+      "Bois de l'eau en bouteille ou rendue potable."
+    ],
+    "source": {
+      "label": "France Diplomatie, Mozambique, Santé (mise à jour du 09 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mozambique/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Le nord du pays est formellement déconseillé en raison d'attaques terroristes. Le reste du pays est en vigilance renforcée.",
+    "points": [
+      "Formellement déconseillés : toute la province du Cabo Delgado (y compris Pemba et les îles d'Ibo et des Quirimbas), le tiers est du Niassa, la frontière tanzanienne et plusieurs districts de la province de Nampula.",
+      "Déconseillés sauf raison impérative : l'ouest du Niassa et plusieurs districts de Nampula, dont les villes de Nampula et Nacala.",
+      "Vérifie la carte de France Diplomatie avant tout déplacement au nord de la province d'Inhambane."
+    ],
+    "source": {
+      "label": "France Diplomatie, Mozambique, Sécurité (mise à jour du 09 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mozambique/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "maputo",
+      "name": "Maputo",
+      "nights": "2 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "La capitale, ses avenues bordées de jacarandas et son architecture coloniale.",
+      "sleep": "Dans le quartier de Polana ou la Baixa.",
+      "see": [
+        {
+          "name": "La gare centrale",
+          "note": "Un bâtiment emblématique."
+        },
+        {
+          "name": "Le marché central",
+          "note": "Fruits de mer et épices."
+        },
+        {
+          "name": "La forteresse de Maputo",
+          "note": "Un petit musée historique."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "L'île d'Inhaca",
+          "note": "En bateau depuis la capitale."
+        }
+      ],
+      "eat": "Les crevettes grillées et le matapa (feuilles de manioc).",
+      "getAround": "Taxi ; évite de marcher seul la nuit.",
+      "tip": "Utilise des taxis recommandés par ton hébergement."
+    },
+    {
+      "slug": "tofo",
+      "name": "Tofo et Inhambane",
+      "nights": "3 nuits",
+      "for": [
+        "energique",
+        "explorateur"
+      ],
+      "summary": "Une plage réputée pour la plongée avec les requins-baleines et les raies manta.",
+      "sleep": "En lodge sur la plage.",
+      "see": [
+        {
+          "name": "La plongée et le snorkeling",
+          "note": "Requins-baleines et raies manta, selon la saison."
+        },
+        {
+          "name": "La plage de Tofo",
+          "note": "Surf et couchers de soleil."
+        },
+        {
+          "name": "La ville d'Inhambane",
+          "note": "Une petite ville historique."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La pointe de Barra",
+          "note": "Une plage voisine plus calme."
+        }
+      ],
+      "eat": "Le poisson et les fruits de mer.",
+      "getAround": "Bus ou transfert depuis Maputo ; vol jusqu'à Inhambane.",
+      "tip": "Choisis un opérateur qui respecte les animaux marins."
+    },
+    {
+      "slug": "vilanculos-bazaruto",
+      "name": "Vilanculos et Bazaruto",
+      "nights": "3 nuits",
+      "for": [
+        "lent",
+        "tous"
+      ],
+      "summary": "La porte d'entrée de l'archipel de Bazaruto, parc national marin.",
+      "sleep": "À Vilanculos ou sur une île de l'archipel.",
+      "see": [
+        {
+          "name": "L'archipel de Bazaruto",
+          "note": "Dunes et lagons."
+        },
+        {
+          "name": "Le snorkeling au récif",
+          "note": "Poissons tropicaux."
+        },
+        {
+          "name": "Les sorties en boutre (dhow)",
+          "note": "Bateau à voile traditionnel."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La plage de Vilanculos à marée basse",
+          "note": "Une immense étendue de sable."
+        }
+      ],
+      "eat": "Les crevettes et le poisson grillé.",
+      "getAround": "Bateau depuis Vilanculos.",
+      "tip": "Les excursions dépendent du vent et des marées."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Le sud du Mozambique",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Maputo",
+          "note": "La capitale."
+        },
+        {
+          "days": "Jours 3 à 6",
+          "place": "Tofo",
+          "note": "Plongée et plage."
+        },
+        {
+          "days": "Jours 7 à 10",
+          "place": "Vilanculos et Bazaruto",
+          "note": "Archipel."
+        }
+      ]
+    },
+    {
+      "days": 6,
+      "title": "Plages et plongée",
+      "for": [
+        "energique"
+      ],
+      "steps": [
+        {
+          "days": "Jour 1",
+          "place": "Maputo",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 2 à 6",
+          "place": "Tofo",
+          "note": "Plongée, surf."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Vols intérieurs",
+      "text": "Pratiques pour Inhambane et Vilanculos."
+    },
+    {
+      "title": "Bus longue distance",
+      "text": "Bon marché, trajets longs."
+    },
+    {
+      "title": "Bateau",
+      "text": "Pour les îles."
+    }
+  ],
+  "culture": [
+    "Le portugais est la langue officielle.",
+    "Demande avant de photographier quelqu'un."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Bom dia",
+      "say": "bom dia"
+    },
+    {
+      "fr": "Merci",
+      "local": "Obrigado / obrigada",
+      "say": "obrigadou"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois après le séjour, 2 pages vierges",
+    "Autorisation e-visa et justificatif de paiement",
+    "Réservations d'hôtel payées",
+    "Avis médical (paludisme)",
+    "Rester au sud du pays",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour le Mozambique ?",
+      "a": "Oui : une autorisation en ligne à demander 5 à 7 jours avant le départ, finalisée à l'arrivée."
+    },
+    {
+      "q": "Le Mozambique est-il sûr ?",
+      "a": "Le nord est formellement déconseillé (Cabo Delgado, dont Pemba et les Quirimbas). Le sud est en vigilance renforcée."
+    },
+    {
+      "q": "Quand partir au Mozambique ?",
+      "a": "De mai à novembre ; évite la saison des cyclones, de janvier à mars."
+    }
+  ]
+}

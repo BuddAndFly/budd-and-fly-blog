@@ -1,0 +1,259 @@
+{
+  "name": "Trinité-et-Tobago",
+  "prep": "à Trinité-et-Tobago",
+  "kind": "pays",
+  "continent": "Amérique centrale et Caraïbes",
+  "priority": 129,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Trinité-et-Tobago : Tobago, carnaval, sécurité",
+    "description": "Préparer un voyage à Trinité-et-Tobago : sans visa, état d'urgence, zones à éviter, plages et récifs de Tobago, carnaval de Port-d'Espagne. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Trinité-et-Tobago se visite de janvier à mai, en saison sèche ; le carnaval de Port-d'Espagne a lieu juste avant le Carême. Pas de visa pour les Français jusqu'à 3 mois. L'état d'urgence est en vigueur : la violence touche surtout certains quartiers, mais plusieurs zones de l'île de la Trinité sont déconseillées. Tobago, plus calme, est idéale pour les plages et les récifs.",
+  "essentials": {
+    "bestPeriod": "Janvier à mai",
+    "languages": "Anglais (officiel)",
+    "currency": "Dollar de Trinité-et-Tobago (TTD)",
+    "timeDiff": "-5 h en hiver, -6 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec ; carnaval selon les années."
+    },
+    {
+      "rating": 2,
+      "note": "Sec ; carnaval selon les années."
+    },
+    {
+      "rating": 2,
+      "note": "Sec ; ponte des tortues luth à partir de mars."
+    },
+    {
+      "rating": 2,
+      "note": "Fin de la saison sèche."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour un séjour de 3 mois. Il faut un passeport valable au moins 6 mois, un billet retour et une réservation d'hôtel.",
+    "points": [
+      "La vaccination contre la fièvre jaune est exigée si tu arrives du Suriname, de l'Équateur, du Pérou, du Brésil ou du Panama."
+    ],
+    "source": {
+      "label": "France Diplomatie, Trinité-et-Tobago, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/trinite-et-tobago/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire en arrivant de France ; la vaccination contre la fièvre jaune est recommandée.",
+    "points": [
+      "Protège-toi des moustiques (dengue, chikungunya).",
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Trinité-et-Tobago, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/trinite-et-tobago/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "L'état d'urgence est en vigueur sur tout le territoire, y compris Tobago : contrôles et fouilles sont possibles sur simple soupçon. La violence touche surtout certains quartiers ; les touristes qui respectent les consignes sont peu concernés.",
+    "points": [
+      "À Port-d'Espagne, évite absolument Laventille, Morvant, Beetham et Sealots ; ailleurs en ville, déplace-toi en voiture la nuit.",
+      "Déconseillés sauf raison impérative : Rio Claro, Sangre Grande, Tunapuna, Curepe, Chaguanas, San Juan et toute la côte sud de la Trinité.",
+      "La baignade est vivement déconseillée sur toute la côte est de la Trinité (courants violents, méduses).",
+      "L'ambassade de France a des moyens très limités."
+    ],
+    "source": {
+      "label": "France Diplomatie, Trinité-et-Tobago, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/trinite-et-tobago/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "tobago",
+      "name": "Tobago",
+      "nights": "4 à 5 nuits",
+      "for": [
+        "lent",
+        "tous"
+      ],
+      "summary": "La petite île de l'archipel, avec ses plages, ses récifs et sa forêt protégée.",
+      "sleep": "À Crown Point ou dans les villages de la côte.",
+      "see": [
+        {
+          "name": "Pigeon Point",
+          "note": "La plage la plus célèbre de l'île."
+        },
+        {
+          "name": "Le récif de Buccoo",
+          "note": "En bateau à fond de verre."
+        },
+        {
+          "name": "La réserve forestière de Main Ridge",
+          "note": "Une forêt protégée et ses oiseaux."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Speyside",
+          "note": "Plongée au nord-est de l'île."
+        }
+      ],
+      "eat": "Le curry crab and dumpling, spécialité de Tobago.",
+      "getAround": "Location de voiture ou taxi ; ferry ou avion depuis la Trinité.",
+      "tip": "Garde tes affaires à l'œil sur les plages."
+    },
+    {
+      "slug": "port-d-espagne",
+      "name": "Port-d'Espagne",
+      "nights": "1 à 2 nuits",
+      "for": [
+        "energique",
+        "stratege"
+      ],
+      "summary": "La capitale de la Trinité, connue pour son carnaval et sa musique, le steelpan.",
+      "sleep": "Dans un hôtel sécurisé du centre ou de l'ouest de la ville.",
+      "see": [
+        {
+          "name": "Queen's Park Savannah",
+          "note": "Le grand parc au cœur de la ville."
+        },
+        {
+          "name": "Le carnaval",
+          "note": "Juste avant le Carême."
+        },
+        {
+          "name": "Les jardins botaniques",
+          "note": "À côté de la Savannah."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les répétitions de steelpan",
+          "note": "Dans les « panyards » avant le carnaval, avec un guide."
+        }
+      ],
+      "eat": "Le doubles (beignets aux pois chiches) et le roti.",
+      "getAround": "Taxi, de préférence réservé par l'hôtel.",
+      "tip": "Ne te déplace qu'en voiture une fois la nuit tombée."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Port-d'Espagne et Tobago",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Port-d'Espagne",
+          "note": "Capitale."
+        },
+        {
+          "days": "Jours 3 à 7",
+          "place": "Tobago",
+          "note": "Plages et récifs."
+        }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Tobago",
+      "for": [
+        "lent"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Crown Point et Pigeon Point",
+          "note": "Plages et récif de Buccoo."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Main Ridge et Speyside",
+          "note": "Forêt et plongée."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Ferry ou avion",
+      "text": "Pour relier la Trinité et Tobago."
+    },
+    {
+      "title": "Taxi",
+      "text": "Réservé de préférence par l'hôtel."
+    },
+    {
+      "title": "Location de voiture",
+      "text": "À Tobago ; on roule à gauche."
+    }
+  ],
+  "culture": [
+    "Le carnaval est l'événement majeur de l'année.",
+    "On roule à gauche."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport valable 6 mois",
+    "Billet retour et réservation d'hôtel",
+    "Certificat fièvre jaune si tu arrives d'un pays concerné",
+    "Répulsif anti-moustiques",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Trinité-et-Tobago est-il sûr ?",
+      "a": "L'état d'urgence est en vigueur. La violence est localisée ; évite les quartiers et zones déconseillés et ne circule pas de nuit. Tobago est plus calme."
+    },
+    {
+      "q": "Faut-il un visa pour Trinité-et-Tobago ?",
+      "a": "Non, pour 3 mois, avec un passeport valable 6 mois, un billet retour et une réservation d'hôtel."
+    }
+  ]
+}

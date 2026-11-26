@@ -1,0 +1,291 @@
+{
+  "name": "Monaco",
+  "prep": "à Monaco",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 115,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Monaco : le Rocher, Monte-Carlo, que voir",
+    "description": "Préparer un séjour à Monaco : formalités, meilleure saison, le Rocher, le Musée océanographique, Monte-Carlo et le jardin exotique. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Monaco se visite facilement en une journée ou un week-end, à toute saison. Les Français n'ont besoin d'aucun visa. Entre le Rocher, le palais princier, le Musée océanographique et Monte-Carlo, la principauté se parcourt à pied, avec beaucoup d'escaliers et d'ascenseurs publics.",
+  "essentials": {
+    "bestPeriod": "Avril à juin, septembre-octobre",
+    "languages": "Français (officiel), monégasque",
+    "currency": "Euro (€)",
+    "timeDiff": "Aucun décalage avec la France",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 1,
+      "note": "Doux, calme."
+    },
+    {
+      "rating": 1,
+      "note": "Doux."
+    },
+    {
+      "rating": 1,
+      "note": "Printemps."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 1,
+      "note": "Agréable ; foule et prix élevés pendant les grands événements."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud, mer agréable."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud et très fréquenté."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud et très fréquenté."
+    },
+    {
+      "rating": 2,
+      "note": "Encore chaud, moins de monde."
+    },
+    {
+      "rating": 2,
+      "note": "Doux."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies possibles."
+    },
+    {
+      "rating": 1,
+      "note": "Illuminations de fin d'année."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Aucun visa pour les Français pour un séjour de moins de trois mois. La France et Monaco forment une union douanière.",
+    "points": [
+      "Garde toujours une pièce d'identité sur toi : les contrôles routiers sont nombreux aux accès de la principauté."
+    ],
+    "source": {
+      "label": "France Diplomatie, Monaco, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/monaco/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin particulier. En été, protège-toi de la chaleur et du soleil.",
+    "points": [
+      "Consulte ton médecin avant le départ si besoin."
+    ],
+    "source": {
+      "label": "France Diplomatie, Monaco, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/monaco/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance normale. La délinquance est très faible et la vidéosurveillance très présente.",
+    "points": [
+      "Respecte strictement la réglementation locale.",
+      "La plage du Larvotto est équipée de filets anti-méduses.",
+      "Le vélo est déconseillé, à cause de la circulation dense et des routes sinueuses."
+    ],
+    "source": {
+      "label": "France Diplomatie, Monaco, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/monaco/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "monaco-ville",
+      "name": "Le Rocher (Monaco-Ville)",
+      "nights": "1 nuit",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "La vieille ville perchée, avec le palais princier, la cathédrale et le Musée océanographique.",
+      "sleep": "À Monaco ou dans une ville voisine de la Côte d'Azur.",
+      "see": [
+        {
+          "name": "Le palais princier",
+          "note": "La résidence des princes et sa place."
+        },
+        {
+          "name": "Le Musée océanographique",
+          "note": "Aquariums et histoire de l'exploration des mers."
+        },
+        {
+          "name": "La cathédrale de Monaco",
+          "note": "Où reposent les princes."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les jardins Saint-Martin",
+          "note": "Une promenade ombragée au-dessus de la mer."
+        }
+      ],
+      "eat": "La barbagiuan, un beignet farci typique de Monaco.",
+      "getAround": "À pied, par les escaliers et ascenseurs publics.",
+      "tip": "Viens tôt le matin : le Rocher est très fréquenté en milieu de journée."
+    },
+    {
+      "slug": "monte-carlo",
+      "name": "Monte-Carlo",
+      "nights": "1 nuit",
+      "for": [
+        "tous",
+        "energique"
+      ],
+      "summary": "Le quartier du casino, des grands hôtels et du port Hercule.",
+      "sleep": "À Monte-Carlo ou dans une ville voisine.",
+      "see": [
+        {
+          "name": "Le casino de Monte-Carlo",
+          "note": "Son architecture et sa place."
+        },
+        {
+          "name": "Le port Hercule",
+          "note": "Les yachts et la promenade."
+        },
+        {
+          "name": "Le jardin japonais",
+          "note": "Un jardin paisible près du Larvotto."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La plage du Larvotto",
+          "note": "La plage publique de la principauté."
+        }
+      ],
+      "eat": "La socca et les spécialités niçoises, voisines.",
+      "getAround": "À pied ou en bus.",
+      "tip": "L'entrée des salles de jeu du casino est réglementée : renseigne-toi avant."
+    },
+    {
+      "slug": "jardin-exotique",
+      "name": "Le Jardin exotique et Fontvieille",
+      "nights": "Demi-journée",
+      "for": [
+        "lent",
+        "tous"
+      ],
+      "summary": "Un jardin de plantes succulentes à flanc de falaise et le quartier gagné sur la mer.",
+      "sleep": "À Monaco.",
+      "see": [
+        {
+          "name": "Le Jardin exotique",
+          "note": "Cactus et vue sur la principauté."
+        },
+        {
+          "name": "Le port de Fontvieille",
+          "note": "Un quartier plus calme."
+        },
+        {
+          "name": "La roseraie Princesse-Grace",
+          "note": "Dans le parc de Fontvieille."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La collection de voitures du prince",
+          "note": "À Fontvieille."
+        }
+      ],
+      "eat": "Un pique-nique dans le parc de Fontvieille.",
+      "getAround": "Bus depuis le centre.",
+      "tip": "Vérifie les horaires du Jardin exotique avant d'y aller."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 2,
+      "title": "Monaco en week-end",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jour 1",
+          "place": "Le Rocher",
+          "note": "Palais, cathédrale, Musée océanographique."
+        },
+        {
+          "days": "Jour 2",
+          "place": "Monte-Carlo et Fontvieille",
+          "note": "Casino, port, jardins."
+        }
+      ]
+    },
+    {
+      "days": 4,
+      "title": "Monaco et la Riviera",
+      "for": [
+        "lent",
+        "stratege"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Monaco",
+          "note": "Le Rocher et Monte-Carlo."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Villages de la Côte d'Azur",
+          "note": "Èze, Menton ou Nice."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Train",
+      "text": "Gare de Monaco-Monte-Carlo, sur la ligne de la Côte d'Azur."
+    },
+    {
+      "title": "Bus",
+      "text": "Un réseau de bus couvre toute la principauté."
+    },
+    {
+      "title": "À pied",
+      "text": "Escaliers mécaniques et ascenseurs publics relient les quartiers."
+    }
+  ],
+  "culture": [
+    "Une tenue correcte est attendue dans le centre-ville : pas de torse nu ni de maillot de bain hors des plages.",
+    "Les grands événements, comme le Grand Prix de Formule 1, font flamber les prix : vérifie le calendrier avant de réserver."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Carte d'identité ou passeport",
+    "Chaussures confortables (beaucoup de marches)",
+    "Tenue correcte pour le casino",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un passeport pour Monaco ?",
+      "a": "Non : aucun visa n'est demandé aux Français pour moins de trois mois. Garde une pièce d'identité sur toi, les contrôles sont fréquents."
+    },
+    {
+      "q": "Combien de temps rester à Monaco ?",
+      "a": "Une journée suffit pour l'essentiel, un week-end pour en profiter sans courir."
+    }
+  ]
+}

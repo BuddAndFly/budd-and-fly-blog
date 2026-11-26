@@ -1,0 +1,283 @@
+{
+  "name": "Paraguay",
+  "prep": "au Paraguay",
+  "kind": "pays",
+  "continent": "Amérique du Sud",
+  "priority": 126,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Paraguay : missions jésuites, Asunción, Encarnación",
+    "description": "Préparer un voyage au Paraguay : sans visa, tampons à la frontière, zones déconseillées, Asunción, missions jésuites, Encarnación. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Paraguay se visite d'avril à octobre, quand la chaleur est supportable. Pas de visa pour les Français jusqu'à 90 jours. Peu touristique, il offre les ruines des missions jésuites classées à l'Unesco, la capitale Asunción et Encarnación au bord du Paraná. Quelques zones du nord sont déconseillées sauf raison impérative.",
+  "essentials": {
+    "bestPeriod": "Avril à octobre",
+    "languages": "Espagnol et guarani (officiels)",
+    "currency": "Guaraní (PYG)",
+    "timeDiff": "-4 h en hiver, -5 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Très chaud et humide."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud."
+    },
+    {
+      "rating": 2,
+      "note": "Doux."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Frais."
+    },
+    {
+      "rating": 2,
+      "note": "Frais."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Doux."
+    },
+    {
+      "rating": 1,
+      "note": "Chaleur qui revient."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour un séjour de moins de 90 jours ; le passeport doit être valable pendant tout le séjour. Si tu entres par la route (par exemple depuis Foz do Iguaçu), arrête-toi à la frontière pour faire tamponner ton passeport : sinon, une forte amende est appliquée à la sortie.",
+    "points": [
+      "Le certificat de vaccination contre la fièvre jaune est obligatoire si tu arrives après un séjour au Brésil, en Bolivie, au Pérou ou au Venezuela (pas pour une simple escale)."
+    ],
+    "source": {
+      "label": "France Diplomatie, Paraguay, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/paraguay/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire en arrivant de France. Protège-toi des moustiques : dengue et chikungunya sont présents.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, rage.",
+      "Bois de l'eau en bouteille ou rendue potable."
+    ],
+    "source": {
+      "label": "France Diplomatie, Paraguay, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/paraguay/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Quelques zones sont déconseillées sauf raison impérative. Les moyens de l'ambassade de France ont été réduits.",
+    "points": [
+      "Déconseillés sauf raison impérative : la zone de part et d'autre de la limite entre les départements de San Pedro et de Concepción, la ville de Pedro Juan Caballero et les zones non peuplées du département de Canindeyú.",
+      "Assure-toi d'avoir une assurance couvrant l'hospitalisation et l'évacuation."
+    ],
+    "source": {
+      "label": "France Diplomatie, Paraguay, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/paraguay/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "asuncion",
+      "name": "Asunción",
+      "nights": "2 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "La capitale au bord du fleuve Paraguay, l'une des plus anciennes villes d'Amérique du Sud.",
+      "sleep": "Dans le centre ou le quartier de Villa Morra.",
+      "see": [
+        {
+          "name": "Le Panthéon national des héros",
+          "note": "Au cœur du centre historique."
+        },
+        {
+          "name": "Le palais de López",
+          "note": "Le palais présidentiel."
+        },
+        {
+          "name": "La Costanera",
+          "note": "La promenade au bord du fleuve."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le village d'artisans d'Areguá",
+          "note": "Au bord du lac Ypacaraí."
+        }
+      ],
+      "eat": "La sopa paraguaya (un pain de maïs) et la chipa.",
+      "getAround": "Taxi et applications de VTC.",
+      "tip": "Goûte au tereré, le maté froid, omniprésent."
+    },
+    {
+      "slug": "missions-jesuites",
+      "name": "Les missions jésuites et Encarnación",
+      "nights": "2 à 3 nuits",
+      "for": [
+        "stratege",
+        "lent"
+      ],
+      "summary": "Les ruines des missions de Trinidad et Jesús, classées à l'Unesco, près d'Encarnación.",
+      "sleep": "À Encarnación.",
+      "see": [
+        {
+          "name": "La mission de La Santísima Trinidad",
+          "note": "Les ruines les plus impressionnantes."
+        },
+        {
+          "name": "La mission de Jesús de Tavarangue",
+          "note": "À quelques kilomètres."
+        },
+        {
+          "name": "La costanera d'Encarnación",
+          "note": "Plage au bord du Paraná."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le spectacle son et lumière de Trinidad",
+          "note": "Le soir, selon les jours."
+        }
+      ],
+      "eat": "Le pacú, poisson de rivière.",
+      "getAround": "Bus depuis Asunción ; taxi pour les missions.",
+      "tip": "Combine avec les chutes d'Iguazú, de l'autre côté de la frontière."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Asunción et missions",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Asunción",
+          "note": "La capitale."
+        },
+        {
+          "days": "Jour 3",
+          "place": "Areguá",
+          "note": "Lac Ypacaraí."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Encarnación",
+          "note": "Missions jésuites."
+        },
+        {
+          "days": "Jour 7",
+          "place": "Retour",
+          "note": "Vers Asunción ou Iguazú."
+        }
+      ]
+    },
+    {
+      "days": 4,
+      "title": "Missions et Iguazú",
+      "for": [
+        "energique"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Encarnación",
+          "note": "Missions."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Chutes d'Iguazú",
+          "note": "Côté argentin ou brésilien."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Bus longue distance",
+      "text": "Le moyen de transport principal."
+    },
+    {
+      "title": "Taxi et VTC",
+      "text": "En ville."
+    },
+    {
+      "title": "Location de voiture",
+      "text": "Possible ; routes secondaires de qualité variable."
+    }
+  ],
+  "culture": [
+    "Le guarani est parlé par une grande partie de la population.",
+    "Le tereré (maté froid) se partage : accepter est une marque de politesse."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour (guarani)",
+      "local": "Mba'éichapa",
+      "say": "mba-é-ichapa"
+    },
+    {
+      "fr": "Merci (guarani)",
+      "local": "Aguyje",
+      "say": "agouyjé"
+    },
+    {
+      "fr": "Merci (espagnol)",
+      "local": "Gracias"
+    }
+  ],
+  "checklist": [
+    "Passeport valable pendant tout le séjour",
+    "Tampon d'entrée à la frontière terrestre",
+    "Certificat fièvre jaune si tu viens du Brésil, de Bolivie, du Pérou ou du Venezuela",
+    "Répulsif anti-moustiques",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour le Paraguay ?",
+      "a": "Non, jusqu'à 90 jours. Par la route, fais tamponner ton passeport à la frontière pour éviter une amende."
+    },
+    {
+      "q": "Que voir au Paraguay ?",
+      "a": "Les missions jésuites de Trinidad et Jesús, classées à l'Unesco, Asunción et Encarnación."
+    }
+  ]
+}

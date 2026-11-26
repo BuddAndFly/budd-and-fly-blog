@@ -1,0 +1,320 @@
+{
+  "name": "Kosovo",
+  "prep": "au Kosovo",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 117,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Kosovo : Prizren, Pristina, montagnes de Rugova",
+    "description": "Préparer un voyage au Kosovo : carte d'identité, déclaration de résidence, zones de vigilance, Prizren, Pristina, Peja et Rugova. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Kosovo se visite de mai à octobre. Les Français entrent avec une carte d'identité ou un passeport valides, et doivent déclarer leur lieu de résidence dans les 3 jours. La situation est globalement bonne ; le nord du pays demande une vigilance renforcée. Prizren, Pristina et les montagnes autour de Peja sont les étapes phares.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Albanais et serbe (officiels)",
+    "currency": "Euro (€)",
+    "timeDiff": "Aucun décalage avec la France",
+    "plugs": null,
+    "emergency": "112"
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Froid et neigeux."
+    },
+    {
+      "rating": 0,
+      "note": "Froid."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de l'hiver."
+    },
+    {
+      "rating": 1,
+      "note": "Printemps."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Randonnée."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud, festivals."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud, festival du film de Prizren."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Couleurs d'automne."
+    },
+    {
+      "rating": 1,
+      "note": "Frais, brouillards."
+    },
+    {
+      "rating": 0,
+      "note": "Froid."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour 90 jours sur six mois, avec une carte d'identité ou un passeport en cours de validité. Depuis le 15 mars 2026, il faut déclarer son lieu de résidence dans les 3 jours suivant l'entrée : à la frontière, au poste de police, en ligne ou via l'application « Foreign registration ».",
+    "points": [
+      "Pour les autorités du Kosovo, la carte d'identité n'est valable que jusqu'à la date indiquée dessus : la prolongation de 5 ans n'est pas reconnue.",
+      "Des justificatifs d'hébergement ou de ressources peuvent être demandés à la frontière.",
+      "Un mineur non accompagné doit avoir une autorisation parentale légalisée."
+    ],
+    "source": {
+      "label": "France Diplomatie, Kosovo, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kosovo/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire. La qualité des soins est variable : en cas de problème grave, un rapatriement est préférable.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B (séjours longs), rage (zones rurales).",
+      "Bois de l'eau en bouteille ou rendue potable.",
+      "Une assurance avec rapatriement est indispensable."
+    ],
+    "source": {
+      "label": "France Diplomatie, Kosovo, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kosovo/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "La situation sécuritaire est globalement bonne. Vigilance renforcée dans les quatre communes du nord : Mitrovica Nord, Zvečan, Zubin Potok et Leposavić.",
+    "points": [
+      "Avant d'aller dans le nord, renseigne-toi auprès de l'ambassade de France.",
+      "Randonnée déconseillée à l'extrême nord, près de la frontière serbe (zones d'abattage illégal gardées par des hommes armés).",
+      "Tiens-toi à l'écart des manifestations, surtout à Pristina.",
+      "Prudence sur la route : bétail, piétons sur les autoroutes, routes rurales dégradées en hiver."
+    ],
+    "source": {
+      "label": "France Diplomatie, Kosovo, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kosovo/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "prizren",
+      "name": "Prizren",
+      "nights": "2 nuits",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "summary": "La plus belle ville du pays, avec son pont ottoman, ses mosquées et sa forteresse.",
+      "sleep": "Dans le centre historique.",
+      "see": [
+        {
+          "name": "La forteresse de Prizren",
+          "note": "Vue sur toute la ville."
+        },
+        {
+          "name": "Le vieux pont de pierre",
+          "note": "Au cœur du centre historique."
+        },
+        {
+          "name": "La mosquée Sinan Pacha",
+          "note": "Sur la place principale."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "L'église Notre-Dame de Ljeviš",
+          "note": "Une église médiévale classée à l'Unesco."
+        }
+      ],
+      "eat": "Les qebapa (petites saucisses grillées) et le flija, une crêpe feuilletée.",
+      "getAround": "À pied ; bus vers Pristina.",
+      "tip": "Monte à la forteresse en fin de journée pour la lumière."
+    },
+    {
+      "slug": "pristina",
+      "name": "Pristina",
+      "nights": "1 à 2 nuits",
+      "for": [
+        "stratege",
+        "energique"
+      ],
+      "summary": "Une capitale jeune et animée, pleine de cafés.",
+      "sleep": "Dans le centre.",
+      "see": [
+        {
+          "name": "Le monument Newborn",
+          "note": "Le symbole de l'indépendance."
+        },
+        {
+          "name": "La Bibliothèque nationale",
+          "note": "Une architecture étonnante."
+        },
+        {
+          "name": "Le boulevard Mère-Teresa",
+          "note": "La grande rue piétonne."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le monastère de Gračanica",
+          "note": "Un monastère orthodoxe classé à l'Unesco, près de la ville."
+        }
+      ],
+      "eat": "Le macchiato, une institution dans les cafés.",
+      "getAround": "À pied et en taxi.",
+      "tip": "Évite les rassemblements et manifestations."
+    },
+    {
+      "slug": "peja-rugova",
+      "name": "Peja et les gorges de Rugova",
+      "nights": "2 nuits",
+      "for": [
+        "explorateur",
+        "energique"
+      ],
+      "summary": "Une ville au pied des montagnes, porte d'entrée des gorges de Rugova.",
+      "sleep": "À Peja ou en maison d'hôtes dans la vallée.",
+      "see": [
+        {
+          "name": "Les gorges de Rugova",
+          "note": "Randonnée et via ferrata."
+        },
+        {
+          "name": "Le patriarcat de Peć",
+          "note": "Un monastère classé à l'Unesco."
+        },
+        {
+          "name": "Le monastère de Visoki Dečani",
+          "note": "Près de Peja, classé à l'Unesco."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les villages de montagne de Rugova",
+          "note": "Bergeries et alpages en été."
+        }
+      ],
+      "eat": "Le fromage de montagne et la viande grillée.",
+      "getAround": "Voiture ou taxi ; à pied dans les gorges.",
+      "tip": "Pour les monastères orthodoxes, tenue couvrante et pièce d'identité."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Kosovo essentiel",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Pristina",
+          "note": "Capitale et Gračanica."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Peja et Rugova",
+          "note": "Montagnes et monastères."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Prizren",
+          "note": "Ville ottomane."
+        }
+      ]
+    },
+    {
+      "days": 4,
+      "title": "Kosovo express",
+      "for": [
+        "energique"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Prizren",
+          "note": "Centre historique."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Pristina",
+          "note": "La capitale."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Bus",
+      "text": "Le réseau de bus relie bien les grandes villes."
+    },
+    {
+      "title": "Location de voiture",
+      "text": "Pratique pour les montagnes ; prudence sur les routes secondaires."
+    },
+    {
+      "title": "Taxi",
+      "text": "Utilise des taxis officiels."
+    }
+  ],
+  "culture": [
+    "La majorité de la population est albanophone ; le serbe est aussi langue officielle.",
+    "L'hospitalité est très importante : on te proposera souvent un café ou un thé."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour (albanais)",
+      "local": "Mirëdita",
+      "say": "mirdita"
+    },
+    {
+      "fr": "Merci (albanais)",
+      "local": "Faleminderit",
+      "say": "faléminndérit"
+    },
+    {
+      "fr": "Oui / Non",
+      "local": "Po / Jo",
+      "say": "po / yo"
+    }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport en cours de validité (non prolongés)",
+    "Déclaration de résidence dans les 3 jours",
+    "Assurance avec rapatriement",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un passeport pour le Kosovo ?",
+      "a": "Non : la carte d'identité suffit, si elle est encore valable à la date indiquée dessus. Il faut aussi déclarer son lieu de résidence dans les 3 jours."
+    },
+    {
+      "q": "Le Kosovo est-il sûr ?",
+      "a": "La situation est globalement bonne. Le nord du pays (Mitrovica Nord, Zvečan, Zubin Potok, Leposavić) demande une vigilance renforcée."
+    },
+    {
+      "q": "Quand partir au Kosovo ?",
+      "a": "De mai à octobre."
+    }
+  ]
+}

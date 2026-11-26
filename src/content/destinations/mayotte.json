@@ -1,0 +1,297 @@
+{
+  "name": "Mayotte",
+  "prep": "à Mayotte",
+  "kind": "territoire",
+  "continent": "Afrique",
+  "priority": 135,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Mayotte : lagon, tortues, randonnées",
+    "description": "Préparer un voyage à Mayotte : carte d'identité, paludisme, dengue, lagon, plage de N'Gouja et ses tortues, Petite-Terre. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Mayotte se visite de mai à octobre, pendant la saison sèche. Une carte d'identité suffit pour un Français. L'île est entourée de l'un des plus grands lagons du monde : tortues, baleines en saison et îlots de sable blanc sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Français (officiel), shimaoré, kibouchi",
+    "currency": "Euro (€)",
+    "timeDiff": "+2 h en hiver, +1 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Saison des pluies, chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies, cyclones possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et plus frais."
+    },
+    {
+      "rating": 2,
+      "note": "Sec ; baleines."
+    },
+    {
+      "rating": 2,
+      "note": "Sec ; baleines."
+    },
+    {
+      "rating": 2,
+      "note": "Sec ; baleines."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 1,
+      "note": "Chaleur, premières pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pour un Français, une carte nationale d'identité ou un passeport en cours de validité suffit pour voyager à Mayotte.",
+    "points": [
+      "En cas de transit par un pays hors Union européenne ou hors Schengen, un passeport en cours de validité est nécessaire, même en restant en zone internationale.",
+      "Certaines compagnies peuvent demander un passeport : renseigne-toi avant le départ.",
+      "Un mineur doit présenter, comme un majeur, une carte d'identité ou un passeport en cours de validité."
+    ],
+    "source": {
+      "label": "Service-public.gouv.fr, Avec quels documents un Français peut-il se rendre dans les Drom ? (F398, vérifié le 26 août 2025)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F398"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Le risque de paludisme est faible dans tout le territoire, mais une reprise limitée de la transmission locale est observée en 2025 et 2026, dans des communes du sud peu visitées. Protège-toi des moustiques.",
+    "points": [
+      "Pas de traitement préventif pour un séjour classique.",
+      "Vaccins recommandés : hépatite A, typhoïde.",
+      "Dengue et chikungunya : vaccination à discuter selon la situation épidémique et la durée du séjour.",
+      "Certificat de fièvre jaune exigé si tu arrives d'un pays à risque, y compris après un transit de plus de 12 heures."
+    ],
+    "source": {
+      "label": "Institut Pasteur, Recommandations sanitaires par pays, Mayotte",
+      "url": "https://www.pasteur.fr/fr/votre-sante/voyages-et-sante/recommandations-sanitaires-par-pays/mayotte"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": null,
+  "cities": [
+    {
+      "slug": "grande-terre",
+      "name": "Grande-Terre",
+      "nights": "4 nuits",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "summary": "L'île principale, avec Mamoudzou, ses plages et ses sommets.",
+      "sleep": "Dans le sud ou l'ouest de l'île.",
+      "see": [
+        {
+          "name": "La plage de N'Gouja",
+          "note": "Tortues marines dans l'herbier."
+        },
+        {
+          "name": "Le mont Choungui",
+          "note": "Une randonnée vers un sommet emblématique."
+        },
+        {
+          "name": "Le marché de Mamoudzou",
+          "note": "Fruits, épices et artisanat."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les baobabs de la côte",
+          "note": "Sur plusieurs plages de l'île."
+        }
+      ],
+      "eat": "Le poulet au coco et le mataba (feuilles de manioc).",
+      "getAround": "Location de voiture ; taxis collectifs.",
+      "tip": "Renseigne-toi sur la situation locale avant de te déplacer, notamment de nuit."
+    },
+    {
+      "slug": "lagon",
+      "name": "Le lagon et les îlots",
+      "nights": "Journées",
+      "for": [
+        "explorateur",
+        "tous"
+      ],
+      "summary": "Un lagon immense, avec baleines en saison, dauphins et îlots de sable.",
+      "sleep": "Excursions à la journée.",
+      "see": [
+        {
+          "name": "L'îlot de sable blanc",
+          "note": "Un banc de sable au milieu du lagon."
+        },
+        {
+          "name": "L'observation des baleines",
+          "note": "En saison, avec un opérateur."
+        },
+        {
+          "name": "La plongée sur la barrière de corail",
+          "note": "Avec un centre agréé."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La passe en S",
+          "note": "Un site de plongée réputé."
+        }
+      ],
+      "eat": "Pique-nique en bateau.",
+      "getAround": "Bateau avec un opérateur.",
+      "tip": "Choisis un opérateur qui respecte la distance d'approche des animaux."
+    },
+    {
+      "slug": "petite-terre",
+      "name": "Petite-Terre",
+      "nights": "1 à 2 nuits",
+      "for": [
+        "lent",
+        "stratege"
+      ],
+      "summary": "La petite île de Dzaoudzi et Pamandzi, reliée à Grande-Terre par la barge.",
+      "sleep": "À Dzaoudzi.",
+      "see": [
+        {
+          "name": "Le lac Dziani",
+          "note": "Un lac de cratère."
+        },
+        {
+          "name": "Le rocher de Dzaoudzi",
+          "note": "L'ancienne capitale."
+        },
+        {
+          "name": "Les plages de Moya",
+          "note": "Ponte des tortues."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le sentier des crêtes",
+          "note": "Vue sur le lagon."
+        }
+      ],
+      "eat": "Les brochettes et le poisson grillé.",
+      "getAround": "La barge depuis Mamoudzou.",
+      "tip": "Vérifie les horaires de la barge."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Mayotte et son lagon",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Petite-Terre",
+          "note": "Arrivée, lac Dziani."
+        },
+        {
+          "days": "Jours 3 à 6",
+          "place": "Grande-Terre",
+          "note": "Plages et randonnées."
+        },
+        {
+          "days": "Jours 7 et 8",
+          "place": "Le lagon",
+          "note": "Îlots et baleines."
+        }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Lagon",
+      "for": [
+        "lent"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Sud de Grande-Terre",
+          "note": "N'Gouja."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Le lagon",
+          "note": "Excursions."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Location de voiture",
+      "text": "Le plus pratique pour Grande-Terre."
+    },
+    {
+      "title": "Taxis collectifs",
+      "text": "Pour les trajets courants."
+    },
+    {
+      "title": "Barge",
+      "text": "Entre Petite-Terre et Grande-Terre."
+    }
+  ],
+  "culture": [
+    "La majorité de la population est musulmane : tenue couvrante hors des plages.",
+    "Le shimaoré est très parlé au quotidien."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour (shimaoré)",
+      "local": "Jéjé"
+    },
+    {
+      "fr": "Merci (shimaoré)",
+      "local": "Marahaba"
+    }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport valide",
+    "Répulsif anti-moustiques",
+    "Tenue couvrante",
+    "Permis de conduire"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un passeport pour Mayotte ?",
+      "a": "Non : une carte d'identité valide suffit, sauf transit par un pays hors Union européenne ou hors Schengen."
+    },
+    {
+      "q": "Quand partir à Mayotte ?",
+      "a": "De mai à octobre ; les baleines sont présentes dans le lagon pendant cette saison."
+    }
+  ]
+}

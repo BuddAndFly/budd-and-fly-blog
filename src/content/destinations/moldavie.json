@@ -1,0 +1,324 @@
+{
+  "name": "Moldavie",
+  "prep": "en Moldavie",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 116,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Moldavie : Chișinău, caves à vin, monastères",
+    "description": "Préparer un voyage en Moldavie : papiers valables 6 mois, Transnistrie déconseillée, Chișinău, caves à vin, Orheiul Vechi. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Moldavie se visite de mai à octobre, notamment pendant les vendanges. Pas de visa pour les Français jusqu'à 90 jours, mais la carte d'identité ou le passeport doivent être valables 6 mois à l'entrée. La Transnistrie est déconseillée sauf raison impérative. Le pays est connu pour ses caves à vin et ses monastères.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Roumain (officiel), russe très parlé",
+    "currency": "Leu moldave (MDL)",
+    "timeDiff": "+1 h toute l'année",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Hiver froid."
+    },
+    {
+      "rating": 0,
+      "note": "Froid."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de l'hiver."
+    },
+    {
+      "rating": 1,
+      "note": "Printemps."
+    },
+    {
+      "rating": 2,
+      "note": "Doux, campagne verte."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud."
+    },
+    {
+      "rating": 2,
+      "note": "Vendanges."
+    },
+    {
+      "rating": 2,
+      "note": "Fête du vin début octobre."
+    },
+    {
+      "rating": 1,
+      "note": "Frais."
+    },
+    {
+      "rating": 0,
+      "note": "Froid."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour un séjour de 90 jours maximum sur six mois, avec une carte d'identité ou un passeport valable 6 mois à compter de l'entrée. Les autorités moldaves ne reconnaissent pas la prolongation de 5 ans de la carte d'identité : une carte dont la date au verso est dépassée est refusée.",
+    "points": [
+      "Garde le justificatif d'entrée remis à la frontière : un dépassement de séjour peut entraîner amende, expulsion et interdiction de territoire.",
+      "La législation douanière est sévère sur les médicaments : n'emporte que ceux qui te sont nécessaires."
+    ],
+    "source": {
+      "label": "France Diplomatie, Moldavie, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/moldavie/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire. Évite l'eau du robinet : préfère l'eau en bouteille.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B (séjours longs ou fréquents), rage (zones rurales), encéphalite à tiques.",
+      "Emporte seulement les médicaments nécessaires : la douane est stricte."
+    ],
+    "source": {
+      "label": "France Diplomatie, Moldavie, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/moldavie/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Le voyage en Transnistrie, région séparatiste à l'est du pays, est déconseillé sauf raison impérative. L'ambassade de France a des capacités limitées en cas de crise.",
+    "points": [
+      "Les points de contrôle vers la Transnistrie sont tenus par des militaires russes et des gardes non reconnus : des difficultés sont possibles.",
+      "Ne photographie pas les points de contrôle, installations militaires et bâtiments officiels.",
+      "Tous les points de passage entre l'Ukraine et la Transnistrie sont fermés."
+    ],
+    "source": {
+      "label": "France Diplomatie, Moldavie, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/moldavie/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "chisinau",
+      "name": "Chișinău",
+      "nights": "2 à 3 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "Une capitale verte, avec ses parcs, sa cathédrale et ses marchés.",
+      "sleep": "Dans le centre.",
+      "see": [
+        {
+          "name": "Le parc de la Cathédrale",
+          "note": "La cathédrale de la Nativité et l'arc de triomphe."
+        },
+        {
+          "name": "Le marché central",
+          "note": "L'un des grands marchés de la ville."
+        },
+        {
+          "name": "Le musée national d'histoire",
+          "note": "Pour comprendre le pays."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le parc Valea Morilor",
+          "note": "Un lac et des promenades."
+        }
+      ],
+      "eat": "Les plăcinte (chaussons farcis) et la mămăligă (polenta).",
+      "getAround": "À pied, bus et minibus (rutiere).",
+      "tip": "Prévois des espèces en lei : la carte n'est pas acceptée partout."
+    },
+    {
+      "slug": "caves-a-vin",
+      "name": "Les caves à vin",
+      "nights": "Journées",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "summary": "Les immenses caves souterraines de Cricova et Mileștii Mici, près de la capitale.",
+      "sleep": "À Chișinău.",
+      "see": [
+        {
+          "name": "Les caves de Cricova",
+          "note": "Des galeries souterraines, visite sur réservation."
+        },
+        {
+          "name": "Les caves de Mileștii Mici",
+          "note": "Une collection de vins très réputée."
+        },
+        {
+          "name": "Le domaine de Purcari",
+          "note": "Un domaine viticole au sud du pays."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les petits domaines familiaux",
+          "note": "Dégustations plus intimes."
+        }
+      ],
+      "eat": "Les vins locaux avec fromages et charcuteries.",
+      "getAround": "Excursion organisée ou voiture avec chauffeur.",
+      "tip": "Réserve les visites de caves à l'avance."
+    },
+    {
+      "slug": "orheiul-vechi",
+      "name": "Orheiul Vechi",
+      "nights": "1 nuit",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "Un monastère creusé dans la falaise au-dessus d'une boucle de la rivière Răut.",
+      "sleep": "En maison d'hôtes au village de Butuceni.",
+      "see": [
+        {
+          "name": "Le monastère rupestre",
+          "note": "Creusé dans la roche."
+        },
+        {
+          "name": "Le village de Butuceni",
+          "note": "Maisons traditionnelles."
+        },
+        {
+          "name": "Les points de vue sur la vallée",
+          "note": "Une boucle de rivière spectaculaire."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La forteresse de Soroca",
+          "note": "Plus au nord, au bord du Dniestr."
+        }
+      ],
+      "eat": "Un repas chez l'habitant.",
+      "getAround": "Voiture ou minibus depuis Chișinău.",
+      "tip": "Tenue couvrante pour entrer dans le monastère."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 6,
+      "title": "Moldavie essentielle",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Chișinău",
+          "note": "La capitale."
+        },
+        {
+          "days": "Jour 3",
+          "place": "Cricova ou Mileștii Mici",
+          "note": "Caves à vin."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Orheiul Vechi",
+          "note": "Monastère et campagne."
+        },
+        {
+          "days": "Jour 6",
+          "place": "Chișinău",
+          "note": "Départ."
+        }
+      ]
+    },
+    {
+      "days": 4,
+      "title": "Vins et villages",
+      "for": [
+        "lent"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Chișinău et caves",
+          "note": "Dégustations."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Orheiul Vechi",
+          "note": "Nuit chez l'habitant."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Minibus (rutiere)",
+      "text": "Le moyen de transport le plus courant entre les villes."
+    },
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "Pratique pour les caves et monastères."
+    },
+    {
+      "title": "Location de voiture",
+      "text": "Possible ; routes de qualité variable."
+    }
+  ],
+  "culture": [
+    "Le roumain est la langue officielle ; le russe est très parlé.",
+    "Le vin tient une grande place dans la culture : on te proposera souvent de goûter."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Bună ziua",
+      "say": "bouna ziwa"
+    },
+    {
+      "fr": "Merci",
+      "local": "Mulțumesc",
+      "say": "moultsoumesk"
+    },
+    {
+      "fr": "Santé !",
+      "local": "Noroc !",
+      "say": "noroc"
+    }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport valable 6 mois à l'entrée",
+    "Justificatif d'entrée à conserver",
+    "Espèces en lei",
+    "Ne pas aller en Transnistrie sans raison impérative",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour la Moldavie ?",
+      "a": "Non, jusqu'à 90 jours. La carte d'identité ou le passeport doivent être valables 6 mois à l'entrée, et les cartes prolongées ne sont pas acceptées."
+    },
+    {
+      "q": "Peut-on aller en Transnistrie ?",
+      "a": "France Diplomatie le déconseille sauf raison impérative : c'est une région séparatiste, avec des points de contrôle non reconnus."
+    },
+    {
+      "q": "Quand partir en Moldavie ?",
+      "a": "De mai à octobre ; septembre et octobre pour les vendanges."
+    }
+  ]
+}

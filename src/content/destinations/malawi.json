@@ -1,0 +1,317 @@
+{
+  "name": "Malawi",
+  "prep": "au Malawi",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 120,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Malawi : lac Malawi, safaris, visa et sécurité",
+    "description": "Préparer un voyage au Malawi : visa obligatoire depuis 2026, paludisme, prudence routière, lac Malawi, Cape Maclear, Liwonde, Zomba. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Malawi se visite de mai à octobre, en saison sèche. Depuis janvier 2026, un visa est obligatoire pour les Français, en ligne ou à l'arrivée à l'aéroport. Tout le pays est en vigilance renforcée, surtout à cause du risque routier. Le lac Malawi, ses plages et ses villages sont le cœur du voyage.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Anglais et chichewa",
+    "currency": "Kwacha malawien (MWK)",
+    "timeDiff": "+1 h en hiver, aucun décalage en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et doux."
+    },
+    {
+      "rating": 2,
+      "note": "Sec, frais le soir."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal pour les safaris."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Chaleur, premières pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un visa est obligatoire depuis le 3 janvier 2026. Il se demande en ligne sur le portail officiel du e-visa ; depuis février 2026, les Français peuvent aussi l'obtenir à l'arrivée à l'aéroport avec les mêmes documents.",
+    "points": [
+      "Le séjour accordé est de 30 jours, prolongeable jusqu'à 3 mois en se présentant à l'immigration dans les 30 premiers jours.",
+      "Imprime ton e-visa.",
+      "Pour un mineur, des documents supplémentaires sont demandés (acte de naissance, consentement parental)."
+    ],
+    "source": {
+      "label": "France Diplomatie, Malawi, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/malawi/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical. La vaccination contre la fièvre jaune est obligatoire si tu arrives d'une zone d'endémie.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, rage.",
+      "Bois de l'eau en bouteille ou rendue potable."
+    ],
+    "source": {
+      "label": "France Diplomatie, Malawi, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/malawi/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée, surtout à cause du risque routier : l'un des taux d'accidents les plus élevés d'Afrique, avec une assistance d'urgence très limitée.",
+    "points": [
+      "Ne circule pas de nuit hors des villes.",
+      "Des vols visent les lieux touristiques : Nkhata Bay, Zomba, Senga Bay, Cape Maclear et Mzuzu.",
+      "La nuit, sois très prudent à Blantyre et Lilongwe.",
+      "Laisse ton passeport au coffre et garde une photocopie sur toi."
+    ],
+    "source": {
+      "label": "France Diplomatie, Malawi, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/malawi/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "cape-maclear",
+      "name": "Cape Maclear",
+      "nights": "3 nuits",
+      "for": [
+        "lent",
+        "tous"
+      ],
+      "summary": "Un village au bord du lac Malawi, dans le parc national du lac classé à l'Unesco.",
+      "sleep": "En lodge sur la plage.",
+      "see": [
+        {
+          "name": "Le parc national du lac Malawi",
+          "note": "Des poissons cichlidés colorés."
+        },
+        {
+          "name": "Le snorkeling et le kayak",
+          "note": "Autour des îles."
+        },
+        {
+          "name": "Les couchers de soleil sur le lac",
+          "note": "Depuis la plage."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "L'île de Thumbi West",
+          "note": "En kayak depuis le village."
+        }
+      ],
+      "eat": "Le chambo, poisson du lac.",
+      "getAround": "Transfert depuis Monkey Bay.",
+      "tip": "Garde un œil sur tes affaires sur la plage."
+    },
+    {
+      "slug": "liwonde",
+      "name": "Le parc national de Liwonde",
+      "nights": "2 nuits",
+      "for": [
+        "explorateur",
+        "stratege"
+      ],
+      "summary": "Un parc au bord de la rivière Shire, pour les safaris en bateau.",
+      "sleep": "En lodge dans ou près du parc.",
+      "see": [
+        {
+          "name": "Les safaris en bateau sur la Shire",
+          "note": "Éléphants et hippopotames."
+        },
+        {
+          "name": "Les safaris en véhicule",
+          "note": "Le parc abrite plusieurs grands mammifères."
+        },
+        {
+          "name": "L'observation des oiseaux",
+          "note": "Très riche."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le plateau de Zomba",
+          "note": "Forêts et points de vue, au sud."
+        }
+      ],
+      "eat": "Les repas en lodge.",
+      "getAround": "Voiture avec chauffeur.",
+      "tip": "Réserve tes activités auprès du lodge."
+    },
+    {
+      "slug": "nkhata-bay",
+      "name": "Nkhata Bay",
+      "nights": "2 nuits",
+      "for": [
+        "energique",
+        "lent"
+      ],
+      "summary": "Une baie animée au nord du lac, très appréciée des voyageurs.",
+      "sleep": "En lodge au bord de l'eau.",
+      "see": [
+        {
+          "name": "La baignade et le kayak",
+          "note": "Dans une eau claire."
+        },
+        {
+          "name": "Le marché du village",
+          "note": "La vie locale."
+        },
+        {
+          "name": "Les plages voisines",
+          "note": "Pour une journée au calme."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "L'île de Likoma",
+          "note": "Accessible en bateau, au milieu du lac."
+        }
+      ],
+      "eat": "Le poisson grillé.",
+      "getAround": "Minibus depuis Mzuzu.",
+      "tip": "Ne laisse pas d'objets de valeur sans surveillance."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Lac et safaris",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Lilongwe",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Liwonde",
+          "note": "Safaris."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Cape Maclear",
+          "note": "Le lac."
+        },
+        {
+          "days": "Jours 8 à 10",
+          "place": "Nkhata Bay",
+          "note": "Le nord du lac."
+        }
+      ]
+    },
+    {
+      "days": 6,
+      "title": "Le lac au calme",
+      "for": [
+        "lent"
+      ],
+      "steps": [
+        {
+          "days": "Jour 1",
+          "place": "Lilongwe",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 2 à 6",
+          "place": "Cape Maclear",
+          "note": "Lac, kayak, snorkeling."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "La solution la plus sûre, vu le risque routier."
+    },
+    {
+      "title": "Minibus",
+      "text": "Bon marché mais souvent surchargés."
+    },
+    {
+      "title": "Bateau",
+      "text": "Pour rejoindre les îles du lac."
+    }
+  ],
+  "culture": [
+    "Le Malawi est surnommé « le cœur chaud de l'Afrique » pour son accueil.",
+    "Tenue couvrante conseillée dans les villages."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour (chichewa)",
+      "local": "Moni",
+      "say": "moni"
+    },
+    {
+      "fr": "Merci (chichewa)",
+      "local": "Zikomo",
+      "say": "zikomo"
+    }
+  ],
+  "checklist": [
+    "Passeport",
+    "Visa (en ligne ou à l'arrivée)",
+    "Avis médical (paludisme)",
+    "Photocopie du passeport",
+    "Assurance avec rapatriement",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour le Malawi ?",
+      "a": "Oui, depuis janvier 2026 : en ligne, ou à l'arrivée à l'aéroport depuis février 2026."
+    },
+    {
+      "q": "Le Malawi est-il sûr ?",
+      "a": "Tout le pays est en vigilance renforcée, surtout pour le risque routier. Évite de circuler de nuit et surveille tes affaires dans les lieux touristiques."
+    }
+  ]
+}

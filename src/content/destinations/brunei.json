@@ -1,0 +1,268 @@
+{
+  "name": "Brunei",
+  "prep": "au Brunei",
+  "kind": "pays",
+  "continent": "Asie",
+  "priority": 130,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Brunei : mosquées, village sur l'eau, Temburong",
+    "description": "Préparer un voyage au Brunei : sans visa 90 jours, e-Arrival card obligatoire, Bandar Seri Begawan, Kampong Ayer, parc d'Ulu Temburong. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Brunei se visite toute l'année, avec un peu moins de pluie de février à avril. Pas de visa pour les Français jusqu'à 90 jours, mais l'e-Arrival card en ligne est obligatoire avant l'arrivée. Tout le pays est en vigilance normale. Ses mosquées dorées, le village sur pilotis de Kampong Ayer et la forêt d'Ulu Temburong font une belle étape à Bornéo.",
+  "essentials": {
+    "bestPeriod": "Février à avril",
+    "languages": "Malais (officiel), anglais",
+    "currency": "Dollar de Brunei (BND)",
+    "timeDiff": "+7 h en hiver, +6 h en été",
+    "plugs": null,
+    "emergency": "Police 993"
+  },
+  "months": [
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Moins de pluie."
+    },
+    {
+      "rating": 2,
+      "note": "Moins de pluie."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud et humide."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Averses."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Fortes pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Fortes pluies."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour un séjour de 90 jours maximum. Avant d'arriver, par avion, par la route ou par la mer, il faut obligatoirement remplir l'e-Arrival card sur le portail officiel, au plus tôt 3 jours avant le départ.",
+    "points": [
+      "Garde une capture d'écran ou une impression de la référence de ton e-Arrival card.",
+      "L'importation d'alcool est strictement réglementée : vérifie les règles avant de partir."
+    ],
+    "source": {
+      "label": "France Diplomatie, Brunei, Entrée / séjour (mise à jour du 24 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/brunei/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire en arrivant de France ; la fièvre jaune est exigée si tu arrives d'une zone d'endémie.",
+    "points": [
+      "Protège-toi des moustiques (dengue, chikungunya).",
+      "Vaccins conseillés selon le séjour : hépatite B, rage, encéphalite japonaise."
+    ],
+    "source": {
+      "label": "France Diplomatie, Brunei, Santé (mise à jour du 24 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/brunei/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance normale. L'ambassade de France a des capacités limitées en cas de crise.",
+    "points": [
+      "Assure-toi d'avoir une assurance couvrant l'hospitalisation et l'évacuation."
+    ],
+    "source": {
+      "label": "France Diplomatie, Brunei, Sécurité (mise à jour du 24 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/brunei/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "bandar-seri-begawan",
+      "name": "Bandar Seri Begawan",
+      "nights": "2 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "La capitale, ses mosquées et son village sur pilotis.",
+      "sleep": "Dans le centre.",
+      "see": [
+        {
+          "name": "La mosquée Omar Ali Saifuddien",
+          "note": "Son dôme doré au bord d'un lagon."
+        },
+        {
+          "name": "Kampong Ayer",
+          "note": "Le village sur pilotis, en bateau-taxi."
+        },
+        {
+          "name": "La mosquée Jame' Asr Hassanil Bolkiah",
+          "note": "La plus grande mosquée du pays."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le marché de nuit de Gadong",
+          "note": "Les spécialités locales."
+        }
+      ],
+      "eat": "L'ambuyat, plat traditionnel à base de sagou.",
+      "getAround": "Bateau-taxi et taxi.",
+      "tip": "Couvre bras et jambes pour visiter les mosquées."
+    },
+    {
+      "slug": "ulu-temburong",
+      "name": "Le parc national d'Ulu Temburong",
+      "nights": "1 à 2 nuits",
+      "for": [
+        "explorateur",
+        "energique"
+      ],
+      "summary": "Une forêt tropicale primaire, avec une passerelle au-dessus de la canopée.",
+      "sleep": "En lodge dans la forêt.",
+      "see": [
+        {
+          "name": "La passerelle de la canopée",
+          "note": "Vue sur la forêt."
+        },
+        {
+          "name": "La remontée de la rivière",
+          "note": "En pirogue."
+        },
+        {
+          "name": "Les sentiers de la forêt",
+          "note": "Avec un guide."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La baignade en rivière",
+          "note": "Au retour de randonnée."
+        }
+      ],
+      "eat": "Les repas du lodge.",
+      "getAround": "Route depuis la capitale, puis pirogue ; le parc se visite avec un opérateur.",
+      "tip": "Réserve la visite à l'avance : l'accès se fait avec un guide."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 4,
+      "title": "Brunei essentiel",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Bandar Seri Begawan",
+          "note": "Mosquées et Kampong Ayer."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Ulu Temburong",
+          "note": "Forêt tropicale."
+        }
+      ]
+    },
+    {
+      "days": 2,
+      "title": "Escale à Bandar",
+      "for": [
+        "energique"
+      ],
+      "steps": [
+        {
+          "days": "Jour 1",
+          "place": "Bandar Seri Begawan",
+          "note": "Mosquées."
+        },
+        {
+          "days": "Jour 2",
+          "place": "Kampong Ayer",
+          "note": "Village sur l'eau."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Bateau-taxi",
+      "text": "Pour Kampong Ayer et la rivière."
+    },
+    {
+      "title": "Taxi",
+      "text": "Peu nombreux ; réserve à l'avance."
+    },
+    {
+      "title": "Location de voiture",
+      "text": "Pratique ; on roule à gauche."
+    }
+  ],
+  "culture": [
+    "Le Brunei est un pays musulman : tenue couvrante, surtout dans les mosquées.",
+    "Retire tes chaussures avant d'entrer dans une mosquée ou une maison."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Selamat pagi",
+      "say": "sélamat pagui"
+    },
+    {
+      "fr": "Merci",
+      "local": "Terima kasih",
+      "say": "térima kassi"
+    }
+  ],
+  "checklist": [
+    "Passeport",
+    "E-Arrival card en ligne",
+    "Tenue couvrante",
+    "Répulsif anti-moustiques",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour le Brunei ?",
+      "a": "Non, jusqu'à 90 jours, mais l'e-Arrival card en ligne est obligatoire avant l'arrivée."
+    },
+    {
+      "q": "Combien de temps rester au Brunei ?",
+      "a": "Trois à quatre jours suffisent pour la capitale et le parc d'Ulu Temburong."
+    }
+  ]
+}

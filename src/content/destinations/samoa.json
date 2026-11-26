@@ -1,0 +1,274 @@
+{
+  "name": "Samoa",
+  "prep": "aux Samoa",
+  "kind": "pays",
+  "continent": "Océanie",
+  "priority": 132,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Samoa : Upolu, Savai'i, plages et fale",
+    "description": "Préparer un voyage aux Samoa : sans visa 90 jours, saisons, Upolu, To Sua, Savai'i et ses champs de lave. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Les Samoa se visitent de mai à octobre, en saison sèche. Pas de visa pour les Français jusqu'à 90 jours sur six mois, avec un passeport valable 6 mois après le séjour et un billet retour. Tout le pays est en vigilance normale. On y dort en fale, des huttes ouvertes au bord des plages d'Upolu et de Savai'i.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Samoan et anglais",
+    "currency": "Tala (WST)",
+    "timeDiff": "+12 h en hiver, +11 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Saison humide, cyclones possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Saison humide."
+    },
+    {
+      "rating": 0,
+      "note": "Saison humide."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison humide."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison humide."
+    },
+    {
+      "rating": 0,
+      "note": "Saison humide."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour un séjour de moins de 90 jours sur une période de 180 jours. Il faut un passeport valable au moins 6 mois après la fin du séjour et un billet retour ou vers un autre pays.",
+    "points": [
+      "L'importation de miel, de stupéfiants et de matériel pornographique est interdite ; les produits frais sont réglementés."
+    ],
+    "source": {
+      "label": "France Diplomatie, Samoa, Entrée / séjour (mise à jour du 05 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/samoa/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire. Protège-toi des moustiques : dengue et chikungunya peuvent sévir.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B.",
+      "Bois de l'eau en bouteille ou rendue potable."
+    ],
+    "source": {
+      "label": "France Diplomatie, Samoa, Santé (mise à jour du 05 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/samoa/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance normale. L'ambassade de France compétente est à Wellington, en Nouvelle-Zélande.",
+    "points": [
+      "Prudence sur la route : conduite dangereuse, animaux errants ; évite de rouler de nuit.",
+      "Les stations-essence sont surtout en ville : prévois ton carburant."
+    ],
+    "source": {
+      "label": "France Diplomatie, Samoa, Sécurité (mise à jour du 05 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/samoa/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "upolu",
+      "name": "Upolu",
+      "nights": "4 nuits",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "summary": "L'île principale, avec la capitale Apia et les plus belles plages du sud.",
+      "sleep": "En fale à Lalomanu ou dans un hôtel d'Apia.",
+      "see": [
+        {
+          "name": "To Sua Ocean Trench",
+          "note": "Un bassin naturel au fond d'une faille."
+        },
+        {
+          "name": "La plage de Lalomanu",
+          "note": "Sable blanc et lagon."
+        },
+        {
+          "name": "Le musée Robert Louis Stevenson",
+          "note": "La maison de l'écrivain près d'Apia."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le marché d'Apia",
+          "note": "Fruits, artisanat et cuisine locale."
+        }
+      ],
+      "eat": "Le oka (poisson cru mariné) et le palusami (feuilles de taro à la crème de coco).",
+      "getAround": "Bus colorés ou location de voiture.",
+      "tip": "Le dimanche est consacré à l'église et à la famille : beaucoup de choses sont fermées."
+    },
+    {
+      "slug": "savaii",
+      "name": "Savai'i",
+      "nights": "3 nuits",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "La grande île sauvage, avec ses champs de lave et ses souffleurs.",
+      "sleep": "En fale au bord de la plage.",
+      "see": [
+        {
+          "name": "Les souffleurs d'Alofaaga",
+          "note": "Des jets d'eau puissants."
+        },
+        {
+          "name": "Les champs de lave de Saleaula",
+          "note": "Une église engloutie par la lave."
+        },
+        {
+          "name": "Les plages de la côte nord",
+          "note": "Calmes et peu fréquentées."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La passerelle dans la canopée de Falealupo",
+          "note": "Dans la forêt."
+        }
+      ],
+      "eat": "Le poisson grillé et le taro.",
+      "getAround": "Ferry depuis Upolu ; voiture sur place.",
+      "tip": "Demande l'autorisation et paie le droit d'accès coutumier sur les sites."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Upolu et Savai'i",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Apia",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Sud d'Upolu",
+          "note": "To Sua et Lalomanu."
+        },
+        {
+          "days": "Jours 6 à 8",
+          "place": "Savai'i",
+          "note": "Champs de lave et souffleurs."
+        }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Upolu",
+      "for": [
+        "lent"
+      ],
+      "steps": [
+        {
+          "days": "Jour 1",
+          "place": "Apia",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 2 à 5",
+          "place": "Sud d'Upolu",
+          "note": "Plages et fale."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Bus",
+      "text": "Des bus colorés font le tour des îles."
+    },
+    {
+      "title": "Location de voiture",
+      "text": "Permis temporaire local à obtenir."
+    },
+    {
+      "title": "Ferry",
+      "text": "Entre Upolu et Savai'i."
+    }
+  ],
+  "culture": [
+    "Le fa'a Samoa, mode de vie traditionnel, guide la vie sociale.",
+    "Tenue couvrante dans les villages ; le dimanche est jour de repos.",
+    "Sur de nombreuses plages, un droit d'accès coutumier est demandé."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Talofa",
+      "say": "talofa"
+    },
+    {
+      "fr": "Merci",
+      "local": "Fa'afetai",
+      "say": "fa-a-fétaï"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois après le séjour",
+    "Billet retour",
+    "Répulsif anti-moustiques",
+    "Tenue couvrante",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour les Samoa ?",
+      "a": "Non, jusqu'à 90 jours sur six mois, avec un passeport valable 6 mois après le séjour et un billet retour."
+    },
+    {
+      "q": "Qu'est-ce qu'un fale ?",
+      "a": "Une hutte traditionnelle ouverte, souvent au bord de la plage, proposée comme hébergement simple."
+    }
+  ]
+}

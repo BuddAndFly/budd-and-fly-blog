@@ -1,0 +1,346 @@
+{
+  "name": "Guyane",
+  "prep": "en Guyane",
+  "kind": "territoire",
+  "continent": "Amérique du Sud",
+  "priority": 134,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Guyane : îles du Salut, Kourou, fleuve Maroni",
+    "description": "Préparer un voyage en Guyane : carte d'identité, fièvre jaune obligatoire, paludisme, Cayenne, îles du Salut, Kourou, marais de Kaw. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Guyane se visite surtout d'août à novembre, pendant la saison sèche. Une carte d'identité suffit pour un Français, mais la vaccination contre la fièvre jaune est exigée à l'entrée, quelle que soit la provenance. La forêt amazonienne couvre l'essentiel du territoire ; les îles du Salut, le Centre spatial de Kourou et le fleuve Maroni sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Août à novembre",
+    "languages": "Français (officiel), créole guyanais",
+    "currency": "Euro (€)",
+    "timeDiff": "-4 h en hiver, -5 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 1,
+      "note": "Saison des pluies, carnaval."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies, carnaval."
+    },
+    {
+      "rating": 2,
+      "note": "« Petit été de mars », accalmie."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Fortes pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Fortes pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies ; ponte des tortues."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Retour des pluies."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pour un Français, une carte nationale d'identité ou un passeport en cours de validité suffit pour voyager en Guyane.",
+    "points": [
+      "En cas de transit par un pays hors Union européenne ou hors Schengen, un passeport en cours de validité est nécessaire, même en restant en zone internationale.",
+      "Certaines compagnies peuvent demander un passeport : renseigne-toi avant le départ.",
+      "Un mineur doit présenter, comme un majeur, une carte d'identité ou un passeport en cours de validité."
+    ],
+    "source": {
+      "label": "Service-public.gouv.fr, Avec quels documents un Français peut-il se rendre dans les Drom ? (F398, vérifié le 26 août 2025)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F398"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Un certificat de vaccination contre la fièvre jaune est exigé à l'entrée pour les voyageurs d'un an et plus, quelle que soit leur provenance ; l'injection se fait au moins 10 jours avant le départ. Le paludisme présente un risque modéré dans les zones d'orpaillage, près des frontières et le long des fleuves, et un risque faible ailleurs, dont Cayenne.",
+    "points": [
+      "Protection contre les moustiques sur tout le territoire ; traitement préventif à discuter pour les zones à risque.",
+      "Vaccins recommandés : hépatite A, typhoïde ; rage pour les séjours isolés ou au contact d'animaux.",
+      "Dengue et chikungunya : vaccination à discuter selon la situation épidémique et la durée du séjour.",
+      "Consulte un médecin en cas de fièvre pendant le séjour ou dans les 3 mois suivant le retour."
+    ],
+    "source": {
+      "label": "Institut Pasteur, Recommandations sanitaires par pays, Guyane",
+      "url": "https://www.pasteur.fr/fr/votre-sante/voyages-et-sante/recommandations-sanitaires-par-pays/guyane"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": null,
+  "cities": [
+    {
+      "slug": "cayenne",
+      "name": "Cayenne",
+      "nights": "2 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "La capitale, ses maisons créoles et ses marchés.",
+      "sleep": "Dans le centre ou à Rémire-Montjoly.",
+      "see": [
+        {
+          "name": "Le marché de Cayenne",
+          "note": "Épices, fruits et soupe vietnamienne."
+        },
+        {
+          "name": "La place des Palmistes",
+          "note": "Le cœur de la ville."
+        },
+        {
+          "name": "Le fort Cépérou",
+          "note": "Vue sur la ville et l'estuaire."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les plages de Rémire-Montjoly",
+          "note": "Ponte des tortues en saison."
+        }
+      ],
+      "eat": "Le bouillon d'awara, plat de Pâques, et le blaff de poisson.",
+      "getAround": "Voiture de location ; peu de transports publics.",
+      "tip": "Loue une voiture : c'est le moyen le plus simple de se déplacer."
+    },
+    {
+      "slug": "kourou-iles-du-salut",
+      "name": "Kourou et les îles du Salut",
+      "nights": "2 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "Le Centre spatial guyanais et les îles de l'ancien bagne.",
+      "sleep": "À Kourou ; nuit possible sur l'île Royale.",
+      "see": [
+        {
+          "name": "Les îles du Salut",
+          "note": "L'île Royale et ses bâtiments du bagne."
+        },
+        {
+          "name": "Le Centre spatial guyanais",
+          "note": "Visites sur réservation."
+        },
+        {
+          "name": "L'île Saint-Joseph",
+          "note": "Baignade et ruines."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Un lancement de fusée",
+          "note": "Observable depuis des sites dédiés, selon le calendrier."
+        }
+      ],
+      "eat": "Le poisson grillé et les accras.",
+      "getAround": "Catamaran depuis Kourou pour les îles.",
+      "tip": "Réserve la visite du Centre spatial à l'avance."
+    },
+    {
+      "slug": "saint-laurent-du-maroni",
+      "name": "Saint-Laurent-du-Maroni",
+      "nights": "2 nuits",
+      "for": [
+        "explorateur",
+        "stratege"
+      ],
+      "summary": "La ville du bagne, au bord du fleuve Maroni, face au Suriname.",
+      "sleep": "À Saint-Laurent.",
+      "see": [
+        {
+          "name": "Le camp de la Transportation",
+          "note": "L'ancien camp d'arrivée des bagnards."
+        },
+        {
+          "name": "Le fleuve Maroni",
+          "note": "En pirogue."
+        },
+        {
+          "name": "Le centre historique",
+          "note": "Architecture coloniale."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La plage des Hattes à Awala-Yalimapo",
+          "note": "Un site majeur de ponte des tortues luth."
+        }
+      ],
+      "eat": "Les spécialités bushinenguées et amérindiennes.",
+      "getAround": "Voiture depuis Cayenne ; pirogue sur le fleuve.",
+      "tip": "Pour remonter le fleuve, passe par un opérateur agréé."
+    },
+    {
+      "slug": "marais-de-kaw",
+      "name": "Les marais de Kaw",
+      "nights": "1 nuit",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "Une immense zone humide, à découvrir en pirogue ou depuis un carbet flottant.",
+      "sleep": "En carbet flottant sur le marais.",
+      "see": [
+        {
+          "name": "Les caïmans noirs",
+          "note": "En sortie nocturne."
+        },
+        {
+          "name": "Les oiseaux du marais",
+          "note": "Hoazins et rapaces."
+        },
+        {
+          "name": "La montagne de Kaw",
+          "note": "Forêt et papillons."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La nuit en carbet flottant",
+          "note": "Au milieu du marais."
+        }
+      ],
+      "eat": "Les repas du carbet.",
+      "getAround": "Voiture jusqu'à l'embarcadère, puis pirogue.",
+      "tip": "Prévois un répulsif et des vêtements longs."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Guyane essentielle",
+      "for": [
+        "tous",
+        "explorateur"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Cayenne",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Kourou et îles du Salut",
+          "note": "Espace et bagne."
+        },
+        {
+          "days": "Jour 5",
+          "place": "Marais de Kaw",
+          "note": "Nuit sur le marais."
+        },
+        {
+          "days": "Jours 6 à 8",
+          "place": "Saint-Laurent-du-Maroni",
+          "note": "Fleuve et Awala-Yalimapo."
+        },
+        {
+          "days": "Jours 9 et 10",
+          "place": "Cayenne",
+          "note": "Départ."
+        }
+      ]
+    },
+    {
+      "days": 5,
+      "title": "Cayenne et les îles",
+      "for": [
+        "lent"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Cayenne",
+          "note": "Ville et plages."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Kourou et îles du Salut",
+          "note": "Îles et Centre spatial."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Location de voiture",
+      "text": "Indispensable sur la route du littoral."
+    },
+    {
+      "title": "Pirogue",
+      "text": "Sur les fleuves et les marais."
+    },
+    {
+      "title": "Petits avions",
+      "text": "Pour les communes de l'intérieur, non reliées par la route."
+    }
+  ],
+  "culture": [
+    "La Guyane mêle cultures créole, amérindiennes, bushinenguées, hmong et brésilienne.",
+    "Le carnaval, de janvier à mars, est un grand moment de l'année."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour (créole guyanais)",
+      "local": "Bonjou"
+    },
+    {
+      "fr": "Merci (créole guyanais)",
+      "local": "Mèsi"
+    }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport valide",
+    "Certificat de vaccination fièvre jaune",
+    "Répulsif et vêtements longs",
+    "Permis de conduire"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un passeport pour la Guyane ?",
+      "a": "Non : une carte d'identité valide suffit, sauf transit par un pays hors Union européenne ou hors Schengen."
+    },
+    {
+      "q": "La vaccination contre la fièvre jaune est-elle obligatoire en Guyane ?",
+      "a": "Oui : un certificat est exigé à l'entrée pour les voyageurs d'un an et plus, quelle que soit leur provenance."
+    },
+    {
+      "q": "Quand partir en Guyane ?",
+      "a": "D'août à novembre, en saison sèche ; le « petit été de mars » offre aussi une accalmie."
+    }
+  ]
+}
