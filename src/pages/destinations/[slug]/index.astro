@@ -84,9 +84,9 @@ const essentials = [
   <div class="wrap layout">
     <article class="main">
       {g.advisory && (
-        <aside class="advisory" role="alert">
-          <strong>{g.advisory.level === 'formellement-deconseille' ? 'Voyage formellement déconseillé' : 'Voyage déconseillé sauf raison impérative'}</strong>
-          <p>{g.advisory.text} Source : <a href={g.safety?.source.url ?? g.entry.source.url}>France Diplomatie</a>. Beaucoup d'assurances ne couvrent pas les zones déconseillées : vérifie ton contrat.</p>
+        <aside class="advisory">
+          <strong>Avis de France Diplomatie</strong>
+          <p>{g.advisory.text} Le détail est dans la rubrique sécurité, et sur <a href={g.safety?.source.url ?? g.entry.source.url}>la fiche officielle</a>.</p>
         </aside>
       )}
       <div class="intro">
@@ -241,8 +241,8 @@ const essentials = [
 </Base>
 
 <style>
-  .advisory { margin: 0 0 28px; padding: 18px 22px; border: 2px solid #b42318; background: #fdecea; color: #5b1410; }
-  .advisory strong { display: block; font-size: 17px; margin-bottom: 4px; }
+  .advisory { margin: 0 0 28px; padding: 14px 18px; border-left: 3px solid var(--ink-soft); background: var(--sand); color: var(--ink-soft); font-size: 15px; }
+  .advisory strong { display: block; color: var(--ink); margin-bottom: 2px; }
   .advisory p { margin: 0; }
   .advisory a { color: inherit; }
   .freetip { margin: 40px 0 8px; padding: 24px 26px; background: var(--sand); border-left: 4px solid var(--accent); }

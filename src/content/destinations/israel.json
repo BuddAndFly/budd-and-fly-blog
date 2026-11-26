@@ -9,11 +9,11 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Israël : formalités, sécurité, Tel-Aviv, Jérusalem",
-    "description": "Israël : voyage déconseillé sauf raison impérative par France Diplomatie. ETA-IL, contrôles, zones formellement déconseillées, Tel-Aviv, Jérusalem, mer Morte."
+    "title": "Guide Israël : Tel-Aviv, Jérusalem, ETA-IL",
+    "description": "Préparer un voyage en Israël : autorisation ETA-IL, contrôles à l'aéroport, shabbat, Tel-Aviv, Jaffa et Jérusalem. Guide PDF gratuit."
   },
   "hero": null,
-  "summary": "France Diplomatie déconseille, sauf raison impérative, de se rendre en Israël, et déconseille formellement le plateau du Golan, la frontière libanaise, les abords de la bande de Gaza et Gaza. Pour qui doit s'y rendre, une autorisation électronique (ETA-IL) est obligatoire avant le départ, et des contrôles de sécurité poussés sont fréquents à l'aéroport.",
+  "summary": "Israël se visite au printemps et à l'automne, quand la chaleur est supportable. Pas de visa pour un Français, mais une autorisation électronique (ETA-IL) est obligatoire avant le départ. Tel-Aviv, ses plages et le vieux Jaffa, puis Jérusalem et ses lieux saints, sont les étapes phares. France Diplomatie recommande de ne s'y rendre que pour une raison impérative : consulte sa fiche avant de partir.",
   "essentials": {
     "bestPeriod": "Mars à mai, octobre-novembre",
     "languages": "Hébreu, arabe",
@@ -155,7 +155,7 @@
         "stratege",
         "lent"
       ],
-      "summary": "La ville sainte des trois religions monothéistes. Déconseillée sauf raison impérative.",
+      "summary": "La ville sainte des trois religions monothéistes.",
       "sleep": "Dans la ville nouvelle.",
       "see": [
         {
@@ -240,20 +240,20 @@
   ],
   "faq": [
     {
-      "q": "Peut-on voyager en Israël ?",
-      "a": "France Diplomatie le déconseille sauf raison impérative, et déconseille formellement le Golan, la frontière libanaise, les abords de Gaza et Gaza."
-    },
-    {
       "q": "Faut-il un visa pour Israël ?",
       "a": "Non pour trois mois, mais l'autorisation électronique ETA-IL est obligatoire avant l'arrivée."
     },
     {
       "q": "Mon passeport sera-t-il tamponné ?",
       "a": "Non : une vignette papier bleue est remise à l'entrée, à garder pendant le séjour."
+    },
+    {
+      "q": "Que dit France Diplomatie sur Israël ?",
+      "a": "Elle recommande de ne s'y rendre que pour une raison impérative et d'éviter le Golan, la frontière libanaise et les abords de Gaza. Consulte sa fiche avant de partir."
     }
   ],
   "advisory": {
     "level": "deconseille",
-    "text": "France Diplomatie déconseille de se rendre en Israël sauf raison impérative, et déconseille formellement le Golan, la frontière libanaise, les abords de Gaza et Gaza."
+    "text": "France Diplomatie recommande actuellement de ne se rendre en Israël que pour une raison impérative, et d'éviter le Golan, la frontière libanaise et les abords de Gaza."
   }
 }

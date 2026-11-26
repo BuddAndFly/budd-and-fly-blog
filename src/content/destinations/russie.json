@@ -9,11 +9,11 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Russie : formalités, sécurité, Moscou, Saint-Pétersbourg",
-    "description": "Russie : voyage formellement déconseillé par France Diplomatie. Visa, carte de migration, sécurité, et ce qu'il faut savoir sur Moscou et Saint-Pétersbourg."
+    "title": "Guide Russie : Moscou, Saint-Pétersbourg, visa",
+    "description": "Préparer un voyage en Russie : visa, carte de migration, assurance, Moscou, Saint-Pétersbourg et ses nuits blanches. Guide PDF gratuit."
   },
   "hero": null,
-  "summary": "France Diplomatie déconseille formellement de se rendre en Russie, sur l'ensemble du territoire, dans le contexte de la guerre menée en Ukraine. Ce guide rassemble les formalités et consignes officielles pour qui doit s'y rendre malgré tout : visa obligatoire, carte de migration, assurance rapatriement, et prudence sur les sujets politiques.",
+  "summary": "La Russie se visite de mai à septembre, avec les nuits blanches de Saint-Pétersbourg en juin. Un visa est obligatoire, ainsi qu'une assurance rapatriement, et une carte de migration est remise à l'entrée. Moscou et Saint-Pétersbourg concentrent l'essentiel des visites. France Diplomatie déconseille actuellement de s'y rendre : consulte sa fiche avant de partir.",
   "essentials": {
     "bestPeriod": "Mai à septembre",
     "languages": "Russe",
@@ -179,7 +179,7 @@
       ],
       "eat": "Les blinis et la cuisine russe traditionnelle.",
       "getAround": "Métro et à pied.",
-      "tip": "Évite les discussions politiques avec des inconnus."
+      "tip": "Viens en juin pour les nuits blanches, et garde une journée entière pour l'Ermitage."
     }
   ],
   "itineraries": [
@@ -241,20 +241,20 @@
   ],
   "faq": [
     {
-      "q": "Peut-on voyager en Russie ?",
-      "a": "France Diplomatie déconseille formellement de se rendre en Russie, sur l'ensemble du territoire, dans le contexte de la guerre en Ukraine."
-    },
-    {
       "q": "Faut-il un visa pour la Russie ?",
       "a": "Oui, pour un séjour comme pour un transit, à demander aux autorités consulaires russes."
     },
     {
       "q": "Qu'est-ce que la carte de migration ?",
       "a": "Un document remis à l'entrée et visé par les gardes-frontières. Il faut le garder pendant tout le séjour et le rendre à la sortie."
+    },
+    {
+      "q": "Que dit France Diplomatie sur la Russie ?",
+      "a": "Elle déconseille actuellement de se rendre en Russie, sur l'ensemble du territoire. Consulte sa fiche, mise à jour régulièrement, avant de partir."
     }
   ],
   "advisory": {
     "level": "formellement-deconseille",
-    "text": "France Diplomatie déconseille formellement de se rendre en Russie, sur l'ensemble du territoire."
+    "text": "France Diplomatie déconseille actuellement de se rendre en Russie."
   }
 }
