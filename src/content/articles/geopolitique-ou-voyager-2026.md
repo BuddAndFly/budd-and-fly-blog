@@ -9,6 +9,10 @@ updatedAt: "2026-11-25"
 author: null
 hero: null
 destinations: []
+images: []
+enBref: ["La fiche « Conseils aux voyageurs » de France Diplomatie reste la meilleure source.", "Quatre couleurs : vigilance normale, renforcée, déconseillé sauf raison impérative, formellement déconseillé.", "Les zones changent vite : relis la fiche juste avant de partir.", "Beaucoup d'assurances limitent leur couverture dans les zones formellement déconseillées."]
+conseil: "Inscris-toi sur Ariane avant chaque voyage : c'est gratuit, et tu reçois les alertes de sécurité du pays où tu te trouves."
+faq: [{"q": "Que signifient les couleurs de la carte de France Diplomatie ?", "a": "Vert : vigilance normale ; jaune : vigilance renforcée ; orange : déconseillé sauf raison impérative ; rouge : formellement déconseillé."}, {"q": "Mon assurance me couvre-t-elle dans une zone rouge ?", "a": "Souvent non : beaucoup de contrats excluent ou limitent la couverture dans les zones formellement déconseillées. Lis bien ton contrat."}]
 ---
 
 **La meilleure source pour savoir si un pays est sûr reste la fiche « Conseils aux voyageurs » de France Diplomatie.** Elle est mise à jour régulièrement et distingue plusieurs niveaux de risque, région par région. Voici comment la lire et l'utiliser pour choisir ta destination.

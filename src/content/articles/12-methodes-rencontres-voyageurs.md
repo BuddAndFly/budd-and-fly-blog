@@ -15,6 +15,10 @@ hero:
     license: "Domaine public"
     url: "https://commons.wikimedia.org/wiki/File:Two_hikers_on_the_Grotto_Falls_trail_-432_Custer_Gallatin_NF_3W6A3459_(53255614730).jpg"
 destinations: []
+images: []
+enBref: ["Les rencontres naissent surtout dans des lieux qui les favorisent : auberges, visites à pied, cours, excursions.", "Une application de voyageurs permet de trouver quelqu'un avant le départ.", "Rester plus longtemps au même endroit et faire le premier pas restent les méthodes les plus simples.", "Rencontre toujours dans un lieu public et partage ta localisation avec un proche."]
+conseil: "Choisis un hébergement avec des espaces partagés, même en chambre privée : la cuisine commune et la terrasse font plus pour les rencontres que n'importe quelle application."
+faq: [{"q": "Comment rencontrer d'autres voyageurs ?", "a": "Dors en auberge ou en guesthouse, suis une visite à pied, prends un cours, partage une excursion, mange aux tables communes ou utilise une application de voyageurs."}, {"q": "Comment rencontrer en sécurité en voyage ?", "a": "Retrouve-toi dans un lieu public, ne quitte pas ton verre des yeux, partage ta localisation avec un proche et ne pars pas seul avec quelqu'un que tu viens de rencontrer."}]
 ---
 
 **Les meilleures rencontres de voyage arrivent rarement par hasard : elles naissent dans des lieux et des situations qui les favorisent.** Voici douze méthodes testées par des voyageurs, de la plus simple à la plus engageante.

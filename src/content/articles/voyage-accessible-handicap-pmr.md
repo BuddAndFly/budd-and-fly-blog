@@ -15,6 +15,10 @@ hero:
     license: "CC BY-SA 4.0"
     url: "https://commons.wikimedia.org/wiki/File:Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg"
 destinations: ["espagne", "pays-bas", "irlande", "royaume-uni", "japon", "singapour", "australie", "canada"]
+images: [{"src": "/images/destinations/pays-bas/hero.jpg", "alt": "Les canaux d'Amsterdam", "credit": {"author": "Basile Morin", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_canal_houses_at_blue_hour_in_Damrak_Amsterdam_the_Netherlands.jpg"}}, {"src": "/images/destinations/singapour/hero.jpg", "alt": "Les Supertrees des Gardens by the Bay", "credit": {"author": "Mustang Joe", "license": "CC0", "url": "https://commons.wikimedia.org/wiki/File:Supertree_Grove,_Gardens_by_the_Bay,_Singapore1.jpg"}}, {"src": "/images/destinations/australie/hero.jpg", "alt": "L'Opéra et le Harbour Bridge de Sydney", "credit": {"author": "Diliff", "license": "CC BY-SA 3.0", "url": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_-_Dec_2008.jpg"}}]
+enBref: ["Voyager avec un handicap demande plus de préparation, mais beaucoup de transporteurs s'adaptent.", "Demande l'assistance aérienne à la réservation, ou au plus tard 48 heures avant le vol.", "Ne te fie pas à la seule mention « accessible » : demande des photos et des mesures."]
+conseil: "Garde tes médicaments et ton matériel essentiel en cabine, avec les ordonnances : un bagage en soute peut se perdre."
+faq: [{"q": "Comment demander l'assistance à l'aéroport ?", "a": "Au moment de la réservation, ou au plus tard 48 heures avant le vol. Dans l'Union européenne, l'assistance est gratuite."}, {"q": "Comment vérifier qu'un hôtel est vraiment accessible ?", "a": "Demande des photos de la chambre et de la salle de bains, la largeur des portes et la présence d'une douche de plain-pied, et lis les avis d'autres voyageurs."}]
 ---
 
 **Voyager avec un handicap demande plus de préparation, mais de plus en plus de destinations et de transporteurs s'adaptent.** Voici les points à anticiper pour un voyage serein, quel que soit le type de handicap.

@@ -107,6 +107,11 @@ const articles = defineCollection({
     author: z.object({ name: z.string(), role: z.string() }).nullable().default(null),
     hero: photo.nullable().default(null),
     destinations: z.array(z.string()).default([]),
+    /** Structure commune : « En bref » (3 ou 4 points), un conseil, une FAQ et 2 ou 3 photos dans le texte. */
+    enBref: z.array(z.string()).default([]),
+    conseil: z.string().nullable().default(null),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+    images: z.array(photo).max(3).default([]),
   }),
 });
 

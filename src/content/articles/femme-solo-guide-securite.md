@@ -15,6 +15,10 @@ hero:
     license: "CC BY-SA 4.0"
     url: "https://commons.wikimedia.org/wiki/File:Alfama,_Lisbon_(DSC03371).jpg"
 destinations: ["portugal", "slovenie", "irlande", "islande", "taiwan"]
+images: [{"src": "/images/destinations/slovenie/hero.jpg", "alt": "Le lac de Bled au crépuscule", "credit": {"author": "Mihael Grmek", "license": "CC BY-SA 3.0", "url": "https://commons.wikimedia.org/wiki/File:Panorama_Bled_01.jpg"}}, {"src": "/images/destinations/islande/hero.jpg", "alt": "Le mont Kirkjufell et sa cascade, en Islande", "credit": {"author": "Jakub Hałun", "license": "CC BY 4.0", "url": "https://commons.wikimedia.org/wiki/File:Kirkjufell,_Iceland,_20240714_1631_0713.jpg"}}, {"src": "/images/destinations/taiwan/hero.jpg", "alt": "Les gorges de Taroko", "credit": {"author": "CEphoto, Uwe Aranas", "license": "CC BY-SA 3.0", "url": "https://commons.wikimedia.org/wiki/File:Taroko-Gorge_Hualien_Taiwan_Pudu-Bridge-at-Taroko-National-Park-01.jpg"}}]
+enBref: ["La grande majorité des voyages en solo se passent sans problème.", "Commence par la fiche sécurité de France Diplomatie, résumée dans chaque guide.", "Arrive de jour, choisis un quartier central et partage ton trajet avec un proche.", "Ne laisse jamais ton verre sans surveillance."]
+conseil: "Pour ton premier voyage seule, choisis un pays en vigilance normale et réserve tes premières nuits dans un quartier animé et central."
+faq: [{"q": "Quelles destinations pour un premier voyage seule ?", "a": "Des pays en vigilance normale, comme le Portugal, la Slovénie, l'Irlande, l'Islande ou Taïwan, et des itinéraires fréquentés par d'autres voyageurs."}, {"q": "Comment rester en sécurité en voyageant seule ?", "a": "Inscris-toi sur Ariane, donne ton itinéraire à un proche, arrive de jour, ne dis pas où tu dors à des inconnus et fais confiance à ton instinct."}]
 ---
 
 **Voyager seule est une expérience formidable, et la grande majorité des voyages se passent sans problème.** Quelques précautions, choisies sans tomber dans la paranoïa, permettent de profiter pleinement. Voici les conseils les plus utiles, issus de l'expérience de voyageuses et des recommandations officielles.
@@ -31,7 +35,7 @@ Pour un premier voyage solo, privilégie :
 
 ## Adapter sa tenue au pays
 
-Dans certains pays, une tenue couvrante (épaules et genoux) évite des regards insistants et est demandée dans les lieux religieux. Nos guides le précisent dans la rubrique « Culture et usages ». Un grand foulard léger dans le sac règle la plupart des situations.
+Dans certains pays, une tenue couvrante (épaules et genoux) évite des regards insistants et est demandée dans les lieux religieux. Nos guides le précisent dans la rubrique « Savoir-vivre ». Un grand foulard léger dans le sac règle la plupart des situations.
 
 ## Bien choisir son hébergement
 
@@ -53,7 +57,7 @@ Dans certains pays, une tenue couvrante (épaules et genoux) évite des regards 
 2. **Ne laisse jamais ton verre** sans surveillance : la drogue versée dans les boissons est signalée par France Diplomatie dans plusieurs pays.
 3. **Ne dis pas où tu dors** à des inconnus, même sympathiques.
 4. **Une alliance ou un « mari qui arrive demain »** coupe court à certaines conversations insistantes.
-5. **Garde ton téléphone chargé** et les numéros d'urgence du pays enregistrés (ils figurent dans chaque guide).
+5. **Garde ton téléphone chargé** et les numéros d'urgence du pays enregistrés (le guide les donne quand une source officielle les confirme ; sinon, demande-les à ton hébergement).
 6. **Fais confiance à ton instinct** et n'hésite jamais à partir.
 
 ## Rencontrer d'autres voyageuses

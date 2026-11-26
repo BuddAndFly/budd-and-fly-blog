@@ -9,6 +9,10 @@ updatedAt: "2026-11-25"
 author: null
 hero: null
 destinations: []
+images: []
+enBref: ["La plupart des galères de voyage se préparent avant de partir.", "Copie des papiers, deux cartes bancaires, une bonne assurance et Ariane.", "Connais les arnaques les plus fréquentes : taxi sans compteur, faux policier, boisson droguée, faux sites de visa."]
+conseil: "Ne mets jamais tout au même endroit : répartis papiers, cartes et argent entre ton sac, ta poche et l'hébergement."
+faq: [{"q": "Que faire en cas de perte ou de vol de passeport ?", "a": "Déclare-le à la police locale, puis contacte l'ambassade ou le consulat de France, qui peut délivrer un passeport d'urgence ou un laissez-passer."}, {"q": "Que faire si on perd sa carte bancaire à l'étranger ?", "a": "Fais opposition immédiatement depuis l'application de ta banque, puis utilise ta seconde carte."}]
 ---
 
 **La plupart des galères de voyage se préparent… avant de partir.** Une copie des papiers, deux moyens de paiement, une bonne assurance et quelques réflexes suffisent à transformer une catastrophe en simple contretemps. Voici le protocole.
@@ -16,7 +20,7 @@ destinations: []
 ## Avant le départ
 
 - **Scanne tes papiers** (passeport, visa, permis, assurance) et garde-les en ligne et hors ligne.
-- **Note les numéros utiles** : urgence du pays (indiqués dans chaque guide), ambassade, assistance de ton assurance, opposition bancaire.
+- **Note les numéros utiles** : urgence du pays (donnés dans le guide quand une source officielle les confirme), ambassade, assistance de ton assurance, opposition bancaire.
 - **Prends deux cartes bancaires** de réseaux différents, rangées séparément.
 - **Inscris-toi sur Ariane**.
 - **Vérifie ton assurance** : frais médicaux, rapatriement, assistance 24 h/24.

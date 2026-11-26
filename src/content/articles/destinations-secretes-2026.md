@@ -15,6 +15,10 @@ hero:
     license: "CC BY-SA 3.0"
     url: "https://commons.wikimedia.org/wiki/File:Ksamil,_Albania_-_beach.JPG"
 destinations: ["albanie", "macedoine-du-nord", "bosnie-herzegovine", "georgie", "armenie", "ouzbekistan", "kirghizistan", "mongolie", "bhoutan", "laos", "oman", "cap-vert", "slovaquie", "lettonie", "uruguay"]
+images: [{"src": "/images/destinations/macedoine-du-nord/hero.jpg", "alt": "L'église Saint-Jean de Kaneo au-dessus du lac d'Ohrid", "credit": {"author": "kallerna", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Church_of_St._John_at_Kaneo_6.jpg"}}, {"src": "/images/destinations/georgie/hero.jpg", "alt": "L'église de la Trinité de Guergueti face au Kazbek", "credit": {"author": "Vyacheslav Argenberg", "license": "CC BY 4.0", "url": "https://commons.wikimedia.org/wiki/File:Gergeti_Trinity_Church,_Mountain_pasture,_Georgia.jpg"}}, {"src": "/images/destinations/cap-vert/hero.jpg", "alt": "Des barques de pêcheurs colorées au Cap-Vert", "credit": {"author": "Christof46", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Santo_Antao_Fischerboote_IMG_4319a.jpg"}}]
+enBref: ["Quinze destinations moins visitées, de l'Albanie à l'Uruguay.", "Souvent abordables et accueillantes, avec des infrastructures plus légères.", "Lis la rubrique sécurité de chaque guide avant de partir."]
+conseil: "Dans les pays peu touristiques, privilégie les hébergements familiaux et prends ton temps : c'est là que se font les plus belles rencontres."
+faq: [{"q": "Quelles destinations peu touristiques en Europe ?", "a": "L'Albanie, la Macédoine du Nord, la Bosnie-Herzégovine, la Slovaquie ou la Lettonie, par exemple."}, {"q": "Ces destinations sont-elles sûres ?", "a": "Certaines ont des zones déconseillées, comme Oman depuis juillet 2026. Chaque guide résume la fiche sécurité de France Diplomatie avec sa date."}]
 ---
 
 **Envie de voyager là où les foules ne sont pas encore arrivées ?** Voici quinze destinations moins visitées que leurs voisines, souvent abordables et toujours accueillantes. Avant de partir, lis la rubrique sécurité de chaque guide : certains pays ont des zones déconseillées.

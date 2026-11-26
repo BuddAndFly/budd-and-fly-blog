@@ -15,6 +15,10 @@ hero:
     license: "CC BY-SA 4.0"
     url: "https://commons.wikimedia.org/wiki/File:Rozenhoedkaai_(canal)_and_Belfry_of_Bruges,_Bruges,_Belgium_(Ank_Kumar,_Infosys_Limited)_09.jpg"
 destinations: ["belgique", "luxembourg", "suisse", "pays-bas"]
+images: [{"src": "/images/destinations/luxembourg/hero.jpg", "alt": "Le quartier du Grund à Luxembourg", "credit": {"author": "Dietmar Rabich", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Luxembourg_(LU),_Grund_und_%C3%89glise_Saint-Jean_--_2023_--_8132.jpg"}}, {"src": "/images/destinations/suisse/hero.jpg", "alt": "Le Cervin au-dessus de Zermatt", "credit": {"author": "Roy Egloff", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:CH.VS.Zermatt_2021-10-17_Matterhorn_8726.jpg"}}, {"src": "/images/destinations/pays-bas/hero.jpg", "alt": "Les canaux d'Amsterdam", "credit": {"author": "Basile Morin", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_canal_houses_at_blue_hour_in_Damrak_Amsterdam_the_Netherlands.jpg"}}]
+enBref: ["Les plus beaux souvenirs se fabriquent parfois à quelques heures de chez soi.", "Revenir sur les lieux de son enfance est un voyage à part entière.", "La Belgique, le Luxembourg, la Suisse et les Pays-Bas offrent un vrai dépaysement en train."]
+conseil: "Emporte de vieilles photos et cherche les mêmes cadrages : c'est la façon la plus touchante de mesurer le temps passé."
+faq: [{"q": "Où partir près de la France en train ?", "a": "En Belgique, au Luxembourg, en Suisse ou aux Pays-Bas, par exemple."}, {"q": "Pourquoi voyager plus près ?", "a": "Moins de logistique et de fatigue, une empreinte carbone réduite en train, et l'envie de repartir souvent."}]
 ---
 
 **On associe souvent le voyage à la distance. Pourtant, certains des plus beaux souvenirs se fabriquent à quelques heures de chez soi.** Revenir sur les lieux de son enfance, découvrir la région voisine, prendre un train plutôt qu'un avion : le voyage proche a ses propres trésors.
@@ -33,7 +37,7 @@ Quelques idées pour en faire un vrai voyage :
 
 À quelques heures de train, les voisins de la France offrent un vrai dépaysement :
 
-- la **Belgique**, ses villes flamandes et ses brasseries, à 1 h 25 de Paris en train ([guide](/destinations/belgique/)) ;
+- la **Belgique**, ses villes flamandes et ses brasseries, facile à rejoindre en train ([guide](/destinations/belgique/)) ;
 - le **Luxembourg**, ses transports gratuits et ses châteaux ([guide](/destinations/luxembourg/)) ;
 - la **Suisse**, ses lacs et ses trains panoramiques ([guide](/destinations/suisse/)) ;
 - les **Pays-Bas**, à vélo entre les canaux et les champs de tulipes ([guide](/destinations/pays-bas/)).

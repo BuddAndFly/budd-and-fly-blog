@@ -9,6 +9,10 @@ updatedAt: "2026-11-26"
 author: null
 hero: null
 destinations: []
+images: []
+enBref: ["Voyager longtemps avec peu d'argent tient surtout à quelques habitudes.", "L'hébergement, les repas, les transports et le rythme sont les postes qui comptent.", "Ne rogne jamais sur l'assurance, les vaccins et un logement sûr."]
+conseil: "Refuse toujours la conversion en euros proposée par les distributeurs et les terminaux de paiement : c'est une perte facile à éviter."
+faq: [{"q": "Comment voyager pas cher ?", "a": "Dors en dortoir ou en guesthouse, mange dans les cantines locales, prends bus et trains plutôt que vols intérieurs et taxis, et voyage lentement."}, {"q": "Sur quoi ne pas économiser en voyage ?", "a": "L'assurance avec assistance et rapatriement, les vaccins recommandés et un logement sûr, surtout en arrivant de nuit."}]
 ---
 
 **Voyager longtemps avec peu d'argent tient moins à la destination qu'à quelques habitudes.** Voici les règles qui font la plus grande différence, quel que soit le pays.

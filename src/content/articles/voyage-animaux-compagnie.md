@@ -9,6 +9,10 @@ updatedAt: "2026-11-25"
 author: null
 hero: null
 destinations: []
+images: []
+enBref: ["Voyager avec son animal est possible, avec de l'anticipation.", "Dans l'Union européenne : puce, vaccin antirabique et passeport européen pour animal.", "Hors Union européenne, les exigences peuvent être bien plus strictes.", "Réserve la place de l'animal en même temps que ton billet d'avion."]
+conseil: "Renseigne-toi plusieurs mois à l'avance pour un voyage hors de l'Union européenne : tests sanguins et certificats demandent du temps."
+faq: [{"q": "Quels papiers pour voyager avec son chien en Europe ?", "a": "Une puce électronique, un vaccin antirabique valide fait après la pose de la puce et le passeport européen pour animal, délivré par un vétérinaire. Certains pays demandent aussi un traitement antiparasitaire."}, {"q": "Un animal peut-il voyager en cabine ?", "a": "Les petits animaux sont souvent acceptés en cabine dans un sac sous le siège, avec une limite de poids propre à chaque compagnie."}]
 ---
 
 **Voyager avec son animal est tout à fait possible, mais demande de l'anticipation.** Les règles dépendent de la destination, du moyen de transport et parfois de la race de l'animal. Voici les grands principes, à confirmer auprès de ton vétérinaire et des autorités du pays de destination.

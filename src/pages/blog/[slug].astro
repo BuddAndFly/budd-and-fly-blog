@@ -3,6 +3,7 @@ import { render } from 'astro:content';
 import Base from '@/layouts/Base.astro';
 import Credit from '@/components/Credit.astro';
 import EarlyAccess from '@/components/EarlyAccess.astro';
+import ArticlePhoto from '@/components/ArticlePhoto.astro';
 import { getArticles, getDestinations, isDraft, frDate, type Article } from '@/lib/content';
 import { CATEGORIES, SITE } from '@/data/site';
 
@@ -13,11 +14,22 @@ export async function getStaticPaths() {
 
 const { a } = Astro.props as { a: Article };
 const { Content, headings } = await render(a);
+const p = a.data;
 // Le bouton d'avant-première s'insère juste après le paragraphe d'introduction.
 const html = a.rendered?.html ?? '';
 const cut = html.indexOf('</p>');
 const [intro, rest] = cut >= 0 ? [html.slice(0, cut + 4), html.slice(cut + 4)] : ['', html];
-const p = a.data;
+// Les photos du texte se répartissent avant certains intertitres, à intervalles réguliers.
+const parts = rest.split(/(?=<h2)/);
+const sections = parts.length - 1;
+const slots = new Map<number, number>();
+p.images.forEach((_, i) => {
+  if (sections < 1) return;
+  let at = Math.max(1, Math.round(((i + 1) * sections) / (p.images.length + 1)));
+  while (slots.has(at) && at < sections) at++;
+  if (!slots.has(at)) slots.set(at, i);
+});
+const leftover = p.images.filter((_, i) => ![...slots.values()].includes(i));
 const all = await getArticles();
 const related = all.filter((x) => x.id !== a.id && x.data.category === p.category).slice(0, 3);
 const dests = (await getDestinations()).filter((d) => p.destinations.includes(d.id));
@@ -32,6 +44,10 @@ const jsonLd = [
     author: p.author ? { '@type': 'Person', name: p.author.name } : { '@type': 'Organization', name: SITE.name },
     publisher: { '@type': 'Organization', name: SITE.name, logo: { '@type': 'ImageObject', url: new URL('/logo-buddfly.png', SITE.url).href } },
   },
+  ...(p.faq.length ? [{
+    '@context': 'https://schema.org', '@type': 'FAQPage',
+    mainEntity: p.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  }] : []),
   {
     '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Le blog', item: new URL('/blog/', SITE.url).href },
@@ -64,7 +80,35 @@ const jsonLd = [
       </nav>
     )}
     {html ? (
-      <article class="prose"><Fragment set:html={intro} /><EarlyAccess /><Fragment set:html={rest} /></article>
+      <article class="prose">
+        <Fragment set:html={intro} />
+        <EarlyAccess />
+        {p.enBref.length > 0 && (
+          <aside class="enbref" aria-label="En bref">
+            <span class="enbref__title">En bref</span>
+            <ul>{p.enBref.map((b) => <li>{b}</li>)}</ul>
+          </aside>
+        )}
+        {parts.map((part, i) => (
+          <>
+            {slots.has(i) && <ArticlePhoto photo={p.images[slots.get(i)!]!} />}
+            <Fragment set:html={part} />
+          </>
+        ))}
+        {leftover.map((ph) => <ArticlePhoto photo={ph} />)}
+        {p.conseil && (
+          <aside class="conseil" aria-label="Le conseil Budd&Fly">
+            <span class="conseil__title">Le conseil Budd&amp;Fly</span>
+            <p>{p.conseil}</p>
+          </aside>
+        )}
+        {p.faq.length > 0 && (
+          <section class="faq">
+            <h2 id="questions-frequentes">Questions fréquentes</h2>
+            {p.faq.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}
+          </section>
+        )}
+      </article>
     ) : (
       <article class="prose"><Content /></article>
     )}
@@ -103,6 +147,16 @@ const jsonLd = [
 </Base>
 
 <style>
+  .enbref { margin: 2em 0; padding: 22px 26px; border: 1px solid var(--line); background: #fff; }
+  .enbref__title, .conseil__title { display: block; font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); margin-bottom: 8px; }
+  .enbref ul { margin: 0; padding-left: 1.1em; }
+  .enbref li + li { margin-top: .35em; }
+  .conseil { margin: 2.4em 0; padding: 22px 26px; background: var(--sand); border-left: 4px solid var(--accent); }
+  .conseil p { margin: 0; color: var(--ink); }
+  .faq { margin-top: 2.4em; }
+  .faq details { border-bottom: 1px solid var(--line); padding: 14px 0; }
+  .faq summary { cursor: pointer; font-weight: 600; color: var(--ink); }
+  .faq details p { margin: 10px 0 0; }
   .head { display: flex; flex-direction: column; align-items: center; text-align: center; gap: 18px; padding-top: 64px; padding-bottom: 36px; }
   .head h1 { font-size: clamp(36px, 5vw, 56px); }
   .head a { color: inherit; text-decoration: none; }

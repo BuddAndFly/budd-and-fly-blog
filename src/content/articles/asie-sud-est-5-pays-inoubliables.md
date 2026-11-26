@@ -15,6 +15,10 @@ hero:
     license: "CC BY-SA 3.0"
     url: "https://commons.wikimedia.org/wiki/File:Templo_Wat_Arun,_Bangkok,_Tailandia,_2013-08-22,_DD_30.jpg"
 destinations: ["thailande", "laos", "vietnam", "cambodge", "malaisie"]
+images: [{"src": "/images/destinations/laos/hero.jpg", "alt": "Les cascades de Kuang Si près de Luang Prabang", "credit": {"author": "Basile Morin", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Kuang_Si_Falls_and_a_turquoise_water_pool_in_Luang_Prabang_province_Laos.jpg"}}, {"src": "/images/destinations/cambodge/hero.jpg", "alt": "Angkor Wat au lever du soleil", "credit": {"author": "Reinhard Onasch", "license": "CC BY-SA 3.0", "url": "https://commons.wikimedia.org/wiki/File:Angkor_Wat_Sunrise_(209237385).jpeg"}}, {"src": "/images/destinations/malaisie/hero.jpg", "alt": "Les tours Petronas à Kuala Lumpur", "credit": {"author": "James Kerwin from Tbilisi", "license": "CC BY 2.0", "url": "https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg"}}]
+enBref: ["Cinq pays en huit semaines : Thaïlande, Laos, Vietnam, Cambodge et Malaisie.", "Les formalités changent d'un pays à l'autre : sans visa, e-visa, formulaire en ligne.", "De novembre à mars, l'essentiel de la région est en saison sèche, avec des exceptions.", "En trois semaines, choisis deux pays voisins."]
+conseil: "Vérifie avant chaque passage de frontière terrestre si le poste délivre un visa à l'arrivée : ce n'est pas le cas partout."
+faq: [{"q": "Quels pays d'Asie du Sud-Est combiner ?", "a": "Thaïlande et Laos, ou Vietnam et Cambodge, pour trois semaines ; les cinq pays pour deux mois."}, {"q": "Quelle est la meilleure saison en Asie du Sud-Est ?", "a": "De novembre à mars pour la majeure partie de la région, sauf la côte est de la Malaisie et certaines îles thaïlandaises, en mousson à cette période."}]
 ---
 
 **L'Asie du Sud-Est se prête parfaitement aux grands voyages : les pays sont proches, bien reliés et abordables.** Voici comment combiner cinq pays en deux mois, ou en choisir deux ou trois pour un voyage plus court.

@@ -15,6 +15,10 @@ hero:
     license: "CC BY-SA 3.0"
     url: "https://commons.wikimedia.org/wiki/File:Panorama_Bled_01.jpg"
 destinations: ["slovenie", "portugal", "grece", "japon", "seychelles", "sri-lanka", "ile-maurice", "nouvelle-zelande"]
+images: [{"src": "/images/destinations/portugal/hero.jpg", "alt": "Les toits de l'Alfama à Lisbonne", "credit": {"author": "Matti Blume", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Alfama,_Lisbon_(DSC03371).jpg"}}, {"src": "/images/destinations/japon/hero.jpg", "alt": "La pagode Chureito et le mont Fuji au coucher du soleil", "credit": {"author": "Supanut Arunoprayote", "license": "CC BY 4.0", "url": "https://commons.wikimedia.org/wiki/File:Chureito_Pagoda_and_Mount_Fuji_20241022.jpg"}}, {"src": "/images/destinations/nouvelle-zelande/hero.jpg", "alt": "Le Mitre Peak à Milford Sound", "credit": {"author": "MurielBendel", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Milford_Sound_Mitre_Peak_Cabbage_tree_Toetoe.JPG"}}]
+enBref: ["Huit destinations pour voyager à deux, de la Slovénie à la Nouvelle-Zélande.", "Pour chacune : ce qui la rend idéale et la meilleure saison.", "Alternez journées actives et tranquilles, et prévoyez des moments séparés."]
+conseil: "Réservez une ou deux nuits d'exception et restez simples le reste du temps : c'est souvent le meilleur souvenir pour le budget."
+faq: [{"q": "Où partir en couple pour un premier voyage ?", "a": "La Slovénie ou le Portugal, proches et faciles, sont idéaux pour commencer."}, {"q": "Quelle destination pour un voyage de noces ?", "a": "Les Seychelles pour la plage, le Japon pour la découverte, la Nouvelle-Zélande pour un road trip, selon vos envies."}]
 ---
 
 **Un bon voyage en couple mélange des moments forts et du temps pour soi, dans un pays facile à vivre.** Voici huit destinations très différentes, avec la meilleure saison et ce qui les rend idéales à deux. Les formalités et la sécurité sont dans chaque guide.

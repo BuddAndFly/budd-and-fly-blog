@@ -15,6 +15,10 @@ hero:
     license: "CC BY-SA 4.0"
     url: "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_47.JPG"
 destinations: ["perou", "cambodge", "jordanie", "etats-unis", "finlande", "japon", "zimbabwe", "tanzanie", "inde", "bolivie"]
+images: [{"src": "/images/destinations/cambodge/hero.jpg", "alt": "Angkor Wat au lever du soleil", "credit": {"author": "Reinhard Onasch", "license": "CC BY-SA 3.0", "url": "https://commons.wikimedia.org/wiki/File:Angkor_Wat_Sunrise_(209237385).jpeg"}}, {"src": "/images/destinations/japon/hero.jpg", "alt": "La pagode Chureito et le mont Fuji au coucher du soleil", "credit": {"author": "Supanut Arunoprayote", "license": "CC BY 4.0", "url": "https://commons.wikimedia.org/wiki/File:Chureito_Pagoda_and_Mount_Fuji_20241022.jpg"}}, {"src": "/images/destinations/bolivie/hero.jpg", "alt": "Des tas de sel sur le salar d'Uyuni", "credit": {"author": "Luca Galuzzi (Lucag), edit by Trialsanderrors", "license": "CC BY-SA 2.5", "url": "https://commons.wikimedia.org/wiki/File:Piles_of_Salt_Salar_de_Uyuni_Bolivia_Luca_Galuzzi_2006_a.jpg"}}]
+enBref: ["Dix sites qui méritent le voyage, du Machu Picchu au salar d'Uyuni.", "Pour chacun : la meilleure période et une astuce pratique.", "Pour éviter la foule : arrive à l'ouverture et dors à proximité."]
+conseil: "De plus en plus de grands sites fonctionnent avec des créneaux horaires : réserve en ligne dès que tes dates sont fixées."
+faq: [{"q": "Comment voir les grands sites sans la foule ?", "a": "Arrive à l'ouverture ou reste jusqu'à la fermeture, évite les vacances scolaires, dors à proximité et réserve en ligne."}, {"q": "Quand voir les chutes Victoria ?", "a": "De juin à septembre pour la meilleure vue ; de février à mai, le débit est maximal mais les embruns gênent la vue."}]
 ---
 
 **Certains lieux méritent le voyage à eux seuls.** Voici dix incontournables, avec la meilleure période pour y aller et une astuce pour les voir dans les meilleures conditions.

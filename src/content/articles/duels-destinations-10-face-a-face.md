@@ -15,6 +15,10 @@ hero:
     license: "CC BY 4.0"
     url: "https://commons.wikimedia.org/wiki/File:Rice_terraces,_Bali.jpg"
 destinations: ["indonesie", "thailande", "perou", "mexique", "islande", "norvege", "vietnam", "cambodge", "portugal", "espagne", "kenya", "tanzanie", "japon", "coree-du-sud", "croatie", "grece", "costa-rica", "panama", "maldives", "seychelles"]
+images: [{"src": "/images/destinations/thailande/hero.jpg", "alt": "Le temple Wat Arun au bord du Chao Phraya, à Bangkok", "credit": {"author": "Diego Delso", "license": "CC BY-SA 3.0", "url": "https://commons.wikimedia.org/wiki/File:Templo_Wat_Arun,_Bangkok,_Tailandia,_2013-08-22,_DD_30.jpg"}}, {"src": "/images/destinations/portugal/hero.jpg", "alt": "Les toits de l'Alfama à Lisbonne", "credit": {"author": "Matti Blume", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Alfama,_Lisbon_(DSC03371).jpg"}}, {"src": "/images/destinations/panama/hero.jpg", "alt": "Une danse guna dans l'archipel des San Blas, au Panama", "credit": {"author": "Langlois, Bruno", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:San_Blas,_Panama,_Indiens_Guna_dansant.jpg"}}]
+enBref: ["Dix duels de destinations, avec ce qui fait la différence.", "Bali ou la Thaïlande, Pérou ou Mexique, Islande ou Norvège, et sept autres.", "Chaque destination renvoie vers son guide pour les formalités et la sécurité."]
+conseil: "Si tu hésites encore entre deux pays voisins, regarde si tu peux les combiner : Vietnam et Cambodge, ou Kenya et Tanzanie, se font très bien en trois semaines."
+faq: [{"q": "Bali ou la Thaïlande ?", "a": "Bali pour un voyage centré et lent, la Thaïlande pour bouger entre Bangkok, le nord et les îles."}, {"q": "Maldives ou Seychelles ?", "a": "Les Maldives pour la mer et la plongée, les Seychelles pour varier entre plages, randonnées et forêts."}]
 ---
 
 **Deux destinations te font envie et tu n'arrives pas à trancher ?** Voici dix duels classiques, avec ce qui fait la différence. Pour les formalités et la sécurité, chaque destination a son guide.

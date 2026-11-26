@@ -15,6 +15,10 @@ hero:
     license: "Domaine public"
     url: "https://commons.wikimedia.org/wiki/File:Two_hikers_on_the_Grotto_Falls_trail_-432_Custer_Gallatin_NF_3W6A3459_(53255614730).jpg"
 destinations: []
+images: []
+enBref: ["La plupart des disputes en voyage viennent de règles jamais discutées.", "Huit points à régler avant le départ : budget, rythme, organisation, temps seul, soirées, décisions, imprévus, séparation.", "Le Visa voyageur aide à repérer vos différences."]
+conseil: "Prévoyez explicitement des demi-journées où chacun fait ce qu'il veut : c'est la règle la plus importante et la plus oubliée."
+faq: [{"q": "Comment éviter les disputes en voyage à deux ?", "a": "En parlant avant le départ du budget, du rythme, de l'organisation, du temps seul, des soirées, des décisions et des imprévus."}, {"q": "Comment partager les dépenses à deux ?", "a": "Avec une cagnotte commune, une application de partage des dépenses, ou chacun paie sa part au fur et à mesure."}]
 ---
 
 **La plupart des disputes en voyage ne viennent pas d'un mauvais caractère, mais de règles jamais discutées.** Qui paie quoi, à quelle heure on se lève, qui décide de l'itinéraire. Prendre une heure avant le départ pour en parler évite des jours de tension. Voici les huit points de ce « contrat », à adapter à votre duo.

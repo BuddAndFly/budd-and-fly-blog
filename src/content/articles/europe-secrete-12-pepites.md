@@ -15,6 +15,10 @@ hero:
     license: "CC BY-SA 3.0"
     url: "https://commons.wikimedia.org/wiki/File:Ksamil,_Albania_-_beach.JPG"
 destinations: ["albanie", "montenegro", "macedoine-du-nord", "bosnie-herzegovine", "serbie", "roumanie", "bulgarie", "slovaquie", "slovenie", "estonie", "lettonie", "lituanie"]
+images: [{"src": "/images/destinations/montenegro/hero.jpg", "alt": "La baie de Kotor au Monténégro", "credit": {"author": "Pudelek (Marcin Szala)", "license": "CC BY-SA 3.0", "url": "https://commons.wikimedia.org/wiki/File:Kotor_and_Boka_kotorska_-_view_from_city_wall.jpg"}}, {"src": "/images/destinations/bulgarie/hero.jpg", "alt": "Une fresque du monastère de Rila", "credit": {"author": "Νικόλαος Κυριακάκης", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Religious_fresco_in_Rila_Monastery.jpg"}}, {"src": "/images/destinations/lituanie/hero.jpg", "alt": "Le château de Trakai sur son lac", "credit": {"author": "Scotch Mist", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Trakai_Island_11.jpg"}}]
+enBref: ["Douze destinations européennes méconnues, des Balkans aux pays baltes.", "Villes ottomanes, lacs, montagnes et vieilles villes classées.", "Plusieurs pays sont hors Union européenne : le passeport est le choix le plus sûr."]
+conseil: "Pour combiner plusieurs de ces étapes dans les Balkans, suis notre circuit en bus de trois semaines."
+faq: [{"q": "Quelles destinations méconnues en Europe ?", "a": "Berat et Gjirokastër en Albanie, la baie de Kotor, Ohrid, Mostar, Novi Sad, Sibiu, Plovdiv, les Hautes Tatras, la vallée de la Soča, Tallinn, Riga et l'isthme de Courlande."}, {"q": "La carte d'identité suffit-elle ?", "a": "Pas toujours : certains pays n'acceptent pas les cartes d'identité prolongées de 5 ans. Le passeport est le choix le plus sûr."}]
 ---
 
 **Pas besoin de partir loin pour se sentir dépaysé.** À quelques heures de vol de Paris, ces douze destinations européennes offrent villes historiques, montagnes et côtes sauvages.

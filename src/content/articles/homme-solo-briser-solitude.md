@@ -15,6 +15,10 @@ hero:
     license: "CC BY-SA 3.0"
     url: "https://commons.wikimedia.org/wiki/File:Halong_Bay_in_Vietnam.jpg"
 destinations: ["kirghizistan", "georgie", "vietnam", "colombie", "nepal"]
+images: [{"src": "/images/destinations/georgie/hero.jpg", "alt": "L'église de la Trinité de Guergueti face au Kazbek", "credit": {"author": "Vyacheslav Argenberg", "license": "CC BY 4.0", "url": "https://commons.wikimedia.org/wiki/File:Gergeti_Trinity_Church,_Mountain_pasture,_Georgia.jpg"}}]
+enBref: ["Un homme seul passe inaperçu : c'est une force, mais il doit souvent faire le premier pas.", "Les auberges, le sport, les treks en groupe et les cours facilitent les rencontres.", "Certaines arnaques visent les hommes seuls : verre drogué, addition exorbitante, faux policier."]
+conseil: "Ne suis jamais un inconnu dans un second bar « plus sympa » et ne quitte pas ton verre des yeux : c'est le schéma d'arnaque le plus signalé."
+faq: [{"q": "Comment rencontrer du monde en voyageant seul ?", "a": "Choisis des auberges avec espaces communs, fais du sport ou des treks en petit groupe, prends des cours ou utilise une application de voyageurs."}, {"q": "Quelles arnaques visent les hommes seuls ?", "a": "La rencontre trop facile suivie d'une addition exorbitante ou d'un verre drogué, le chantage après une rencontre en ligne, et le faux policier."}]
 ---
 
 **Un homme qui voyage seul passe souvent inaperçu, ce qui est une force… et parfois un piège.** On l'aborde moins spontanément qu'une voyageuse, et il est la cible privilégiée de certaines arnaques. Voici comment transformer la solitude en liberté.

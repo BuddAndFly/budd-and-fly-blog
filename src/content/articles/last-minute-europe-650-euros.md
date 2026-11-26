@@ -15,6 +15,10 @@ hero:
     license: "CC BY-SA 4.0"
     url: "https://commons.wikimedia.org/wiki/File:Alfama,_Lisbon_(DSC03371).jpg"
 destinations: ["portugal", "pologne", "hongrie", "albanie", "roumanie", "bulgarie", "macedoine-du-nord", "republique-tcheque"]
+images: [{"src": "/images/destinations/pologne/hero.jpg", "alt": "La place du Marché de Cracovie", "credit": {"author": "Ввласенко", "license": "CC BY-SA 3.0", "url": "https://commons.wikimedia.org/wiki/File:Wawel_Castle_view_from_south._Krakow,_Poland.jpg"}}, {"src": "/images/destinations/roumanie/hero.jpg", "alt": "Le château de Bran en Transylvanie", "credit": {"author": "Paul Colin Hennig firstdorsal.eu", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Bran_Castle,_Transylvania_(2023).jpg"}}, {"src": "/images/destinations/macedoine-du-nord/hero.jpg", "alt": "L'église Saint-Jean de Kaneo au-dessus du lac d'Ohrid", "credit": {"author": "kallerna", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Church_of_St._John_at_Kaneo_6.jpg"}}]
+enBref: ["Partir en dernière minute n'est pas forcément cher si tu es flexible sur la destination.", "Pars de ton aéroport avec la recherche « partout » d'un comparateur.", "Attention aux frais de bagages, aux arrivées tardives et aux grands événements."]
+conseil: "Réserve le vol et la première nuit, puis le reste au fil de l'eau : c'est le meilleur équilibre entre prix et liberté."
+faq: [{"q": "Comment trouver un voyage pas cher en dernière minute ?", "a": "Utilise la recherche « partout » d'un comparateur depuis ton aéroport, note les trois vols les moins chers, puis compare les prix de l'hébergement sur place."}, {"q": "La carte d'identité suffit-elle en Europe ?", "a": "Dans l'Union européenne, oui, mais certains pays ne reconnaissent pas les cartes prolongées de 5 ans, comme la Belgique, la Roumanie ou la Slovaquie."}]
 ---
 
 **Partir en dernière minute n'est pas forcément cher, à condition d'être flexible sur la destination.** Voici une méthode pour trouver une destination européenne de dernière minute sans exploser son budget.

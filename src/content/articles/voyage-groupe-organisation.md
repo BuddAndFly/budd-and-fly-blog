@@ -15,6 +15,10 @@ hero:
     license: "CC BY-SA 4.0"
     url: "https://commons.wikimedia.org/wiki/File:Dubrovnik_Old_Town_1.jpg"
 destinations: ["croatie", "portugal", "islande", "maroc"]
+images: [{"src": "/images/destinations/portugal/hero.jpg", "alt": "Les toits de l'Alfama à Lisbonne", "credit": {"author": "Matti Blume", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Alfama,_Lisbon_(DSC03371).jpg"}}, {"src": "/images/destinations/islande/hero.jpg", "alt": "Le mont Kirkjufell et sa cascade, en Islande", "credit": {"author": "Jakub Hałun", "license": "CC BY 4.0", "url": "https://commons.wikimedia.org/wiki/File:Kirkjufell,_Iceland,_20240714_1631_0713.jpg"}}, {"src": "/images/destinations/maroc/hero.jpg", "alt": "Une ruelle bleue de Chefchaouen", "credit": {"author": "Fbrandao.1963", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:2018_01_(Blue)_-_Chaouen.jpg"}}]
+enBref: ["Plus on est nombreux, plus le voyage est économique, et compliqué à organiser.", "Un ou deux organisateurs, un cadre fixé avant la destination, puis un vote.", "Un acompte avant de réserver montre qui vient vraiment."]
+conseil: "Fixez le budget maximum avant de parler de destination : les écarts de budget sont la première source de tension dans un groupe."
+faq: [{"q": "Comment organiser un voyage entre amis ?", "a": "Désignez un ou deux organisateurs, fixez dates, budget et type de voyage, votez entre trois destinations, puis réservez vite avec un acompte de chacun."}, {"q": "Comment gérer l'argent dans un groupe ?", "a": "Une application de partage des dépenses, une cagnotte commune pour les courses et l'essence, et les dépenses personnelles à la charge de chacun."}]
 ---
 
 **Plus on est nombreux, plus un voyage devient économique… et compliqué à organiser.** La clé : un organisateur, des règles claires et des décisions prises tôt. Voici la méthode, étape par étape.
@@ -53,7 +57,7 @@ Un planning trop chargé épuise le groupe. Prévoyez une ou deux activités com
 
 ## 7. Les règles de sécurité
 
-Chacun garde ses papiers, sa carte bancaire et son assurance. Partagez un groupe de messagerie avec les adresses et les numéros d'urgence du pays, indiqués dans nos guides.
+Chacun garde ses papiers, sa carte bancaire et son assurance. Partagez un groupe de messagerie avec les adresses et les numéros d'urgence du pays (donnés dans nos guides quand une source officielle les confirme).
 
 ## Pour former le groupe
 

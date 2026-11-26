@@ -9,6 +9,10 @@ updatedAt: "2026-11-25"
 author: null
 hero: null
 destinations: []
+images: []
+enBref: ["Les outils numériques et l'IA font gagner beaucoup de temps pour préparer un voyage.", "Une IA peut se tromper : vérifie toujours visas, sécurité et vaccins à la source.", "Les horaires et prix donnés par une IA sont souvent faux ou anciens."]
+conseil: "Utilise l'IA pour les idées et pour ajuster un itinéraire, mais jamais comme source pour les formalités : la référence reste France Diplomatie."
+faq: [{"q": "Peut-on faire confiance à une IA pour les visas ?", "a": "Non : une IA peut s'appuyer sur des informations périmées. Vérifie les visas, la sécurité et les vaccins sur France Diplomatie."}, {"q": "Quelles applications emporter en voyage ?", "a": "Une carte hors ligne, un traducteur avec reconnaissance de texte, une application de VTC, une eSIM et Ariane pour les alertes de sécurité."}]
 ---
 
 **Les outils numériques font gagner un temps énorme pour préparer un voyage, à condition de savoir à quoi ils servent… et où ils se trompent.** Voici une méthode en cinq étapes, et les règles pour ne pas se faire piéger.

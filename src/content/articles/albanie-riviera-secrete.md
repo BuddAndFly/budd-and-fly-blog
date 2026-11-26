@@ -15,6 +15,10 @@ hero:
     license: "CC BY-SA 3.0"
     url: "https://commons.wikimedia.org/wiki/File:Ksamil,_Albania_-_beach.JPG"
 destinations: ["albanie"]
+images: []
+enBref: ["La Riviera albanaise s'étend de Vlora à Saranda, sur la mer Ionienne.", "Juin et septembre sont les meilleurs mois : mer chaude, prix raisonnables.", "En une semaine : col de Llogara, Dhërmi, Himarë, puis Saranda et Ksamil.", "Prolonge vers Gjirokastër, classée à l'Unesco."]
+conseil: "Évite Ksamil en milieu de journée en été et mange dans les tavernes de village, loin du front de mer."
+faq: [{"q": "Quand aller sur la Riviera albanaise ?", "a": "En juin et en septembre pour la mer chaude sans la foule ; juillet et août sont très chauds et bondés."}, {"q": "Comment se déplacer sur la Riviera albanaise ?", "a": "En voiture pour plus de liberté, avec prudence sur la route côtière, ou en bus, aux horaires approximatifs. Saranda est reliée à Corfou en ferry."}]
 ---
 
 **La Riviera albanaise, entre Vlora et Saranda, aligne criques turquoise, villages perchés et montagnes plongeant dans la mer Ionienne.** Elle est devenue très populaire : bien choisir sa saison et ses étapes fait toute la différence. Toutes les infos pratiques sont dans notre [guide de l'Albanie](/destinations/albanie/).
