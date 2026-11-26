@@ -12,7 +12,15 @@
     "title": "Guide Malaisie : Kuala Lumpur, Penang, Bornéo",
     "description": "Préparer un voyage en Malaisie : formulaire MDAC, zones déconseillées, meilleure saison, Kuala Lumpur, Penang, Cameron Highlands, Bornéo. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/malaisie/hero.jpg",
+    "alt": "Les tours Petronas à Kuala Lumpur",
+    "credit": {
+      "author": "James Kerwin from Tbilisi",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg"
+    }
+  },
   "summary": "La Malaisie se visite toute l'année, en choisissant sa côte selon la mousson : la côte ouest de décembre à avril, la côte est de mars à octobre. Pas de visa pour 90 jours, mais le formulaire en ligne MDAC est obligatoire dans les 3 jours avant l'arrivée. Attention : l'est du Sabah et ses îles sont formellement déconseillés.",
   "essentials": {
     "bestPeriod": "Toute l'année selon la côte",
