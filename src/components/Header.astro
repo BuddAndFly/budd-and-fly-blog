@@ -18,7 +18,7 @@ const path = Astro.url.pathname;
       <a href="/destinations/" class="icon-link" aria-label="Rechercher une destination">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg>
       </a>
-      <a href="/visa-voyageur/" class="visa-link">Mon Visa voyageur</a>
+      <a href="/visa-voyageur/" class="visa-link">Mon Visa<span class="visa-link__more"> voyageur</span></a>
     </div>
   </div>
 </header>
@@ -40,5 +40,13 @@ const path = Astro.url.pathname;
     .site-header__inner { flex-wrap: wrap; gap: 8px 16px; }
     .site-nav { order: 3; width: 100%; gap: 22px; }
     .visa-link { padding: 0 12px; font-size: 13px; }
+    .site-header__inner { padding-top: 8px; padding-bottom: 0; }
+    .site-nav { -webkit-mask-image: linear-gradient(to right, #000 85%, transparent); mask-image: linear-gradient(to right, #000 85%, transparent); padding-right: 24px; }
+  }
+  @media (max-width: 480px) {
+    .brand img { width: 34px; height: 34px; }
+    .brand span { font-size: 22px; }
+    .visa-link__more { display: none; }
+    .site-header__actions { gap: 2px; }
   }
 </style>

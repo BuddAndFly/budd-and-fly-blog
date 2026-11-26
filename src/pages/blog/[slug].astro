@@ -62,7 +62,7 @@ const jsonLd = [
     <nav aria-label="Fil d'Ariane" class="kicker"><a href="/blog/">Le blog</a> / <a href={`/blog/categorie/${cat.slug}/`}>{p.category}</a></nav>
     <h1>{p.title}</h1>
     <p class="meta">
-      {p.author ? <>Par <strong>{p.author.name}</strong></> : <span class="verify">Auteur à renseigner</span>}
+      {p.author ? <>Par <strong>{p.author.name}</strong></> : <>Par <strong>la rédaction Budd&amp;Fly</strong></>}
       {' · '}Mis à jour le {frDate(p.updatedAt)}
     </p>
   </header>

@@ -91,7 +91,7 @@ const essentials = [
       )}
       <div class="intro">
         <p class="byline">
-          {g.author ? <>Par <strong>{g.author.name}</strong>, {g.author.role}</> : <span class="verify">Auteur à renseigner</span>}
+          {g.author ? <>Par <strong>{g.author.name}</strong>, {g.author.role}</> : <>Par <strong>la rédaction Budd&amp;Fly</strong></>}
           {g.reviewer && <> · Relu par {g.reviewer.name} le {frDate(g.reviewer.date)}</>}
         </p>
         <p class="lead">{g.summary}</p>
