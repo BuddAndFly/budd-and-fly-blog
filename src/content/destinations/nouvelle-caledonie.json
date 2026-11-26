@@ -12,7 +12,15 @@
     "title": "Guide Nouvelle-Calédonie : lagon, île des Pins",
     "description": "Préparer un voyage en Nouvelle-Calédonie : papiers, santé, meilleure saison, Nouméa, l'île des Pins, les îles Loyauté, la côte est. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/nouvelle-caledonie/hero.jpg",
+    "alt": "Les rochers de la baie d'Upi, à l'île des Pins",
+    "credit": {
+      "author": "No machine-readable author provided. Bruno.Menetrier assumed (based on copyright",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Noum%C3%A9a_Ile_des_Pins_Upi.JPG"
+    }
+  },
   "summary": "La Nouvelle-Calédonie se visite de septembre à décembre et d'avril à juin, entre la saison fraîche et la saison chaude et cyclonique. Une pièce d'identité en cours de validité suffit, mais le vol fait escale dans un pays étranger : un passeport est alors obligatoire. Plus grand lagon du monde, île des Pins et culture kanak.",
   "essentials": {
     "bestPeriod": "Septembre à décembre, avril à juin",
