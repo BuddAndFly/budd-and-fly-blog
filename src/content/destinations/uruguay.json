@@ -12,7 +12,15 @@
     "title": "Guide Uruguay : Montevideo, Colonia, Cabo Polonio",
     "description": "Préparer un voyage en Uruguay : formalités, sécurité, meilleure saison, Montevideo, Colonia del Sacramento, Punta del Este, Cabo Polonio. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/uruguay/hero.jpg",
+    "alt": "Une voiture ancienne dans une rue pavée de Colonia del Sacramento",
+    "credit": {
+      "author": "Photograph by Mike Peel (www.mikepeel.net).",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Colonia_del_Sacramento_2016_015.jpg"
+    }
+  },
   "summary": "L'Uruguay se visite de novembre à avril, pendant l'été austral, idéal pour la côte atlantique. Pas de visa pour 90 jours : un passeport valide suffit. Le pays est calme ; seuls les départements de Montevideo et Canelones sont en vigilance renforcée. Colonia coloniale, Montevideo, les plages de Punta del Este et le village hors du temps de Cabo Polonio se combinent facilement avec Buenos Aires.",
   "essentials": {
     "bestPeriod": "Novembre à avril",

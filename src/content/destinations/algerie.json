@@ -1,0 +1,283 @@
+{
+  "name": "Algérie",
+  "prep": "en Algérie",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 161,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Algérie : Alger, Tipaza, Constantine, Oran",
+    "description": "Préparer un voyage en Algérie : visa au consulat, zones déconseillées, Alger et sa Casbah, Tipaza, Constantine, Oran. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "L'Algérie se visite au printemps et à l'automne. Un visa est obligatoire, à demander au consulat algérien de son lieu de résidence. Les grandes villes du nord, comme Alger et Oran, bénéficient d'un dispositif de sécurité important ; les zones frontalières sont formellement déconseillées, et le Sahara ne se visite qu'avec une agence agréée. La Casbah d'Alger, les ruines de Tipaza et les ponts de Constantine sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Mars à mai, octobre-novembre",
+    "languages": "Arabe et tamazight (officiels), français très parlé",
+    "currency": "Dinar algérien (DZD)",
+    "timeDiff": "Aucun décalage en hiver, -1 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 1,
+      "note": "Frais et pluvieux."
+    },
+    {
+      "rating": 1,
+      "note": "Frais."
+    },
+    {
+      "rating": 2,
+      "note": "Printemps."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Doux."
+    },
+    {
+      "rating": 1,
+      "note": "Frais."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un visa est obligatoire, à demander au consulat algérien de ton lieu de résidence ; il existe 18 consulats en France. Des facilités existent pour les voyages organisés dans le sud.",
+    "points": [],
+    "source": {
+      "label": "France Diplomatie, Algérie, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/algerie/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire en arrivant de France ; la fièvre jaune est exigée si tu arrives d'un pays à risque.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, typhoïde, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Algérie, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/algerie/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Les zones frontalières sont formellement déconseillées, sauf au nord de Tébessa. Plusieurs wilayas et massifs sont déconseillés sauf raison impérative (Aïn Defla, Batna, Sétif, les Aurès, Chréa, Tindouf, Hassi Messaoud). Alger et Oran bénéficient d'un dispositif de sécurité important.",
+    "points": [
+      "Le Sahara ne se visite qu'avec un guide et une agence agréée, sur les parcours autorisés.",
+      "La frontière avec le Maroc est fermée.",
+      "Respecte les règles élémentaires de vigilance en ville."
+    ],
+    "source": {
+      "label": "France Diplomatie, Algérie, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/algerie/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "alger",
+      "name": "Alger et Tipaza",
+      "nights": "3 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "La « ville blanche », sa Casbah classée à l'Unesco, et les ruines romaines de Tipaza.",
+      "sleep": "Dans le centre d'Alger.",
+      "see": [
+        {
+          "name": "La Casbah",
+          "note": "La vieille ville classée, avec un guide."
+        },
+        {
+          "name": "La basilique Notre-Dame d'Afrique",
+          "note": "Vue sur la baie."
+        },
+        {
+          "name": "Le jardin d'Essai du Hamma",
+          "note": "Un grand jardin botanique."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les ruines romaines de Tipaza",
+          "note": "Au bord de la mer, à l'ouest d'Alger."
+        }
+      ],
+      "eat": "Le couscous, la chorba et les pâtisseries.",
+      "getAround": "Métro, tramway et taxi.",
+      "tip": "Visite la Casbah avec un guide local."
+    },
+    {
+      "slug": "constantine",
+      "name": "Constantine",
+      "nights": "2 nuits",
+      "for": [
+        "stratege",
+        "lent"
+      ],
+      "summary": "La ville des ponts, perchée au-dessus des gorges du Rhumel.",
+      "sleep": "Dans le centre.",
+      "see": [
+        {
+          "name": "Les ponts suspendus",
+          "note": "Au-dessus des gorges."
+        },
+        {
+          "name": "Le palais d'Ahmed Bey",
+          "note": "Un palais ottoman."
+        },
+        {
+          "name": "Le monument aux morts",
+          "note": "Vue sur la ville."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le sentier des gorges",
+          "note": "Avec prudence."
+        }
+      ],
+      "eat": "La chakhchoukha et les gâteaux traditionnels.",
+      "getAround": "Taxi et tramway.",
+      "tip": "Vérifie la carte de France Diplomatie avant de quitter la ville."
+    },
+    {
+      "slug": "oran",
+      "name": "Oran",
+      "nights": "2 nuits",
+      "for": [
+        "energique",
+        "tous"
+      ],
+      "summary": "La grande ville de l'ouest, entre front de mer et fort espagnol.",
+      "sleep": "Dans le centre.",
+      "see": [
+        {
+          "name": "Le fort de Santa Cruz",
+          "note": "Vue sur la baie."
+        },
+        {
+          "name": "Le front de mer",
+          "note": "Promenade animée."
+        },
+        {
+          "name": "La cathédrale du Sacré-Cœur",
+          "note": "Devenue bibliothèque."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les plages de la corniche",
+          "note": "À l'ouest de la ville."
+        }
+      ],
+      "eat": "La karantika (flan de pois chiches).",
+      "getAround": "Tramway et taxi.",
+      "tip": "La ville est le berceau du raï."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Le nord de l'Algérie",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Alger et Tipaza",
+          "note": "Casbah et ruines."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Constantine",
+          "note": "Ponts."
+        },
+        {
+          "days": "Jours 6 à 8",
+          "place": "Oran",
+          "note": "Front de mer."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Train et avion",
+      "text": "Entre les grandes villes."
+    },
+    {
+      "title": "Taxi",
+      "text": "En ville ; taxis collectifs entre villes."
+    },
+    {
+      "title": "Agence agréée",
+      "text": "Obligatoire pour le Sahara."
+    }
+  ],
+  "culture": [
+    "Pays majoritairement musulman : tenue correcte, surtout hors des grandes villes.",
+    "Pendant le ramadan, mange discrètement en journée."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Salam alaykoum"
+    },
+    {
+      "fr": "Merci",
+      "local": "Saha / Choukran"
+    }
+  ],
+  "checklist": [
+    "Passeport",
+    "Visa du consulat",
+    "Agence agréée pour le Sahara",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour l'Algérie ?",
+      "a": "Oui, à demander au consulat algérien de ton lieu de résidence."
+    },
+    {
+      "q": "Peut-on visiter le Sahara algérien ?",
+      "a": "Oui, mais uniquement avec un guide et une agence agréée, sur les parcours autorisés."
+    }
+  ]
+}

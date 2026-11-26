@@ -1,0 +1,254 @@
+{
+  "name": "Suriname",
+  "prep": "au Suriname",
+  "kind": "pays",
+  "continent": "Amérique du Sud",
+  "priority": 147,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Suriname : Paramaribo, plantations, forêt",
+    "description": "Préparer un voyage au Suriname : droit d'entrée à payer avant le vol, Paramaribo, plantations de Commewijne, forêt. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Suriname se visite de février à avril et d'août à novembre, pendant ses saisons sèches. Un droit d'entrée touristique doit être payé avant le départ et présenté à l'embarquement. Le pays est en vigilance renforcée. Paramaribo et son centre historique en bois, les plantations de Commewijne et la forêt de l'intérieur sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Février à avril, août à novembre",
+    "languages": "Néerlandais (officiel), sranan tongo",
+    "currency": "Dollar du Suriname (SRD)",
+    "timeDiff": "-4 h en hiver, -5 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 1,
+      "note": "Petite saison des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Petite saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 1,
+      "note": "Début des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Grande saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Grande saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un droit d'entrée touristique doit être payé avant le voyage (en ligne, ou au consulat du Suriname à Cayenne ou à Saint-Laurent-du-Maroni) ; il est contrôlé par la compagnie aérienne à l'embarquement.",
+    "points": [
+      "Vérifie le montant et les modalités sur le portail officiel avant de partir."
+    ],
+    "source": {
+      "label": "France Diplomatie, Suriname, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/suriname/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire en arrivant de France ; la fièvre jaune est exigée si tu arrives d'une zone d'endémie. Le paludisme est en forte régression, mais des précautions sont nécessaires à l'intérieur du pays, notamment au sud et près de la Guyane.",
+    "points": [
+      "La dengue sévit surtout en ville : protège-toi des moustiques.",
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, typhoïde, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Suriname, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/suriname/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée. La délinquance urbaine, à Paramaribo et à Albina, demande de la vigilance.",
+    "points": [
+      "Prudence à Albina, notamment sur la berge à l'arrivée du bac ou des pirogues depuis la Guyane.",
+      "Ne prends pas la route de nuit en dehors des villes.",
+      "Évite de naviguer près de la frontière avec le Guyana (piraterie)."
+    ],
+    "source": {
+      "label": "France Diplomatie, Suriname, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/suriname/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "paramaribo",
+      "name": "Paramaribo",
+      "nights": "3 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "La capitale, dont le centre historique en bois est classé à l'Unesco.",
+      "sleep": "Dans le centre historique.",
+      "see": [
+        {
+          "name": "La cathédrale Saint-Pierre-et-Paul",
+          "note": "L'une des plus grandes constructions en bois des Amériques."
+        },
+        {
+          "name": "Le fort Zeelandia",
+          "note": "Au bord du fleuve Suriname."
+        },
+        {
+          "name": "Le front de fleuve (Waterkant)",
+          "note": "Maisons coloniales et marchés."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La mosquée et la synagogue voisines",
+          "note": "Côte à côte, sur Keizerstraat."
+        }
+      ],
+      "eat": "Le roti, le pom et les plats créoles, indiens et javanais.",
+      "getAround": "À pied et en taxi.",
+      "tip": "Garde peu d'objets de valeur sur toi en ville."
+    },
+    {
+      "slug": "commewijne",
+      "name": "Commewijne et l'intérieur",
+      "nights": "3 à 4 nuits",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "Les anciennes plantations au bord du fleuve, puis la forêt de l'intérieur.",
+      "sleep": "En lodge.",
+      "see": [
+        {
+          "name": "Les plantations de Commewijne",
+          "note": "À vélo ou en bateau."
+        },
+        {
+          "name": "Les dauphins du fleuve",
+          "note": "Au confluent, en bateau."
+        },
+        {
+          "name": "La forêt de l'intérieur",
+          "note": "En lodge avec un opérateur."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Brownsberg",
+          "note": "Un parc naturel sur un plateau, au-dessus du lac de Brokopondo."
+        }
+      ],
+      "eat": "Les repas en lodge.",
+      "getAround": "Bateau et vélo ; vols ou pistes pour l'intérieur.",
+      "tip": "Pour l'intérieur, passe par un opérateur local et demande un avis médical (paludisme)."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Suriname",
+      "for": [
+        "tous",
+        "explorateur"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Paramaribo",
+          "note": "Centre historique."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Commewijne",
+          "note": "Plantations."
+        },
+        {
+          "days": "Jours 6 à 8",
+          "place": "Intérieur",
+          "note": "Forêt et lodge."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Taxi",
+      "text": "En ville."
+    },
+    {
+      "title": "Bus",
+      "text": "Entre les villes."
+    },
+    {
+      "title": "Bateau et petits avions",
+      "text": "Pour l'intérieur."
+    }
+  ],
+  "culture": [
+    "Le pays mêle cultures créole, indienne, javanaise, marronne et amérindienne.",
+    "On roule à gauche."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour (néerlandais)",
+      "local": "Goedendag"
+    },
+    {
+      "fr": "Merci (sranan tongo)",
+      "local": "Grantangi"
+    }
+  ],
+  "checklist": [
+    "Passeport",
+    "Droit d'entrée payé avant le vol",
+    "Certificat fièvre jaune si tu arrives d'un pays endémique",
+    "Répulsif anti-moustiques",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour le Suriname ?",
+      "a": "Il faut payer un droit d'entrée touristique avant le départ, contrôlé à l'embarquement."
+    },
+    {
+      "q": "Que voir au Suriname ?",
+      "a": "Paramaribo et son centre historique classé, les plantations de Commewijne et la forêt de l'intérieur."
+    }
+  ]
+}

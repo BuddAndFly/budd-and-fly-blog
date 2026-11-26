@@ -1,0 +1,285 @@
+{
+  "name": "Turkménistan",
+  "prep": "au Turkménistan",
+  "kind": "pays",
+  "continent": "Asie",
+  "priority": 164,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Turkménistan : Achgabat, cratère de Darvaza, Merv",
+    "description": "Préparer un voyage au Turkménistan : visa avec lettre d'invitation, Achgabat, cratère de Darvaza, sites de Merv et Konye-Urgench. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Turkménistan se visite au printemps et à l'automne. Un visa est obligatoire, avec une lettre d'invitation, généralement obtenue par une agence de voyage. Le pays est en vigilance renforcée, sauf la frontière afghane, formellement déconseillée. Achgabat et sa ville de marbre, le cratère de gaz de Darvaza et les cités anciennes de Merv et Konye-Urgench sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Avril-mai, septembre-octobre",
+    "languages": "Turkmène, russe",
+    "currency": "Manat (TMT)",
+    "timeDiff": "+4 h en hiver, +3 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Froid."
+    },
+    {
+      "rating": 0,
+      "note": "Froid."
+    },
+    {
+      "rating": 1,
+      "note": "Printemps."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 1,
+      "note": "Frais."
+    },
+    {
+      "rating": 0,
+      "note": "Froid."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un visa est obligatoire. Il faut une lettre d'invitation du Service d'État des migrations, demandée par la partie invitante (souvent une agence de voyage). Le visa s'obtient à l'ambassade à Paris, ou à l'aéroport d'Achgabat sur présentation de la lettre. Le passeport doit être valable 6 mois après le retour.",
+    "points": [],
+    "source": {
+      "label": "France Diplomatie, Turkménistan, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/turkmenistan/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire. Prévois l'eau en bouteille et protège-toi de la chaleur en été.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Turkménistan, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/turkmenistan/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "La zone frontalière avec l'Afghanistan est formellement déconseillée. Le reste du pays est en vigilance renforcée.",
+    "points": [
+      "Vols à la tire signalés sur les marchés, notamment au marché « Tolkoutchka » d'Achgabat le week-end.",
+      "Ne circule pas de nuit hors des villes."
+    ],
+    "source": {
+      "label": "France Diplomatie, Turkménistan, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/turkmenistan/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "achgabat",
+      "name": "Achgabat",
+      "nights": "2 nuits",
+      "for": [
+        "stratege",
+        "tous"
+      ],
+      "summary": "La capitale, connue pour ses immeubles de marbre blanc.",
+      "sleep": "Dans le centre.",
+      "see": [
+        {
+          "name": "Les monuments de marbre",
+          "note": "Une architecture monumentale."
+        },
+        {
+          "name": "Le marché Tolkoutchka",
+          "note": "Tapis et artisanat, le week-end."
+        },
+        {
+          "name": "Le musée national",
+          "note": "L'histoire du pays."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le site de Nisa",
+          "note": "Une ancienne capitale parthe, près d'Achgabat."
+        }
+      ],
+      "eat": "Le plov et les brochettes.",
+      "getAround": "Taxi.",
+      "tip": "Les photos de bâtiments officiels sont souvent interdites : demande avant."
+    },
+    {
+      "slug": "darvaza",
+      "name": "Le cratère de Darvaza",
+      "nights": "1 nuit",
+      "for": [
+        "explorateur",
+        "energique"
+      ],
+      "summary": "Un cratère de gaz en feu au milieu du désert du Karakoum.",
+      "sleep": "En campement, avec une agence.",
+      "see": [
+        {
+          "name": "Le cratère la nuit",
+          "note": "Les flammes dans l'obscurité."
+        },
+        {
+          "name": "Le désert du Karakoum",
+          "note": "Dunes et steppe."
+        },
+        {
+          "name": "Les autres cratères voisins",
+          "note": "D'eau et de boue."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La nuit sous les étoiles",
+          "note": "Loin de toute lumière."
+        }
+      ],
+      "eat": "Le repas du campement.",
+      "getAround": "4x4 avec une agence.",
+      "tip": "Reste à distance du bord du cratère."
+    },
+    {
+      "slug": "merv",
+      "name": "Merv et Konye-Urgench",
+      "nights": "2 nuits",
+      "for": [
+        "stratege",
+        "lent"
+      ],
+      "summary": "Deux cités anciennes de la Route de la soie, classées à l'Unesco.",
+      "sleep": "À Mary ou Dachoguz.",
+      "see": [
+        {
+          "name": "Le site de Merv",
+          "note": "Remparts et mausolées."
+        },
+        {
+          "name": "Le mausolée du sultan Sanjar",
+          "note": "À Merv."
+        },
+        {
+          "name": "Konye-Urgench",
+          "note": "Minarets et mausolées, au nord."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le minaret de Kutlug-Timur",
+          "note": "À Konye-Urgench."
+        }
+      ],
+      "eat": "Le pain cuit au four en terre.",
+      "getAround": "Avion ou voiture avec chauffeur.",
+      "tip": "Combine avec l'Ouzbékistan voisin."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Turkménistan",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Achgabat",
+          "note": "Capitale et Nisa."
+        },
+        {
+          "days": "Jour 3",
+          "place": "Darvaza",
+          "note": "Cratère."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Konye-Urgench",
+          "note": "Cité ancienne."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Merv",
+          "note": "Route de la soie."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Agence de voyage",
+      "text": "Souvent indispensable pour le visa et les déplacements."
+    },
+    {
+      "title": "Avion",
+      "text": "Vols intérieurs."
+    },
+    {
+      "title": "4x4",
+      "text": "Pour le désert."
+    }
+  ],
+  "culture": [
+    "Demande toujours avant de photographier."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Salam"
+    },
+    {
+      "fr": "Merci",
+      "local": "Sag bol"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois après le retour",
+    "Lettre d'invitation et visa",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Comment obtenir un visa pour le Turkménistan ?",
+      "a": "Avec une lettre d'invitation, généralement demandée par une agence ; le visa s'obtient à l'ambassade ou à l'aéroport d'Achgabat."
+    },
+    {
+      "q": "Peut-on voir le cratère de Darvaza ?",
+      "a": "Oui, en 4x4 avec une agence, souvent avec une nuit en campement."
+    }
+  ]
+}

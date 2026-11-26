@@ -1,0 +1,282 @@
+{
+  "name": "Angola",
+  "prep": "en Angola",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 158,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Angola : Luanda, chutes de Kalandula, désert du Namibe",
+    "description": "Préparer un voyage en Angola : sans visa 30 jours, paludisme, Luanda, chutes de Kalandula, Lubango, désert du Namibe. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "L'Angola se visite de mai à octobre, pendant la saison sèche. Depuis 2023, les Français sont exemptés de visa de tourisme pour 30 jours par entrée. Le pays est en vigilance renforcée, sauf les provinces de Lunda et de Cabinda, déconseillées ; la délinquance reste élevée à Luanda. Chutes de Kalandula, montagnes de Lubango et désert du Namibe sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Portugais",
+    "currency": "Kwanza (AOA)",
+    "timeDiff": "Aucun décalage en hiver, -1 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa de tourisme pour un séjour de 30 jours par entrée, dans la limite de 90 jours par an. Le passeport doit être valable plus longtemps que le séjour prévu.",
+    "points": [
+      "Au-delà de 30 jours d'affilée, un visa de tourisme se demande en ligne avant le départ."
+    ],
+    "source": {
+      "label": "France Diplomatie, Angola, Entrée / séjour (mise à jour du 10 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/angola/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical. La vaccination contre la fièvre jaune est recommandée.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, méningite, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Angola, Santé (mise à jour du 10 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/angola/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Le pays est en vigilance renforcée. Les provinces de Lunda Sul, Lunda Norte et de Cabinda sont déconseillées sauf raison impérative. La criminalité reste élevée.",
+    "points": [
+      "À Luanda, sois vigilant en fin de journée dans le secteur d'Ilha, et évite la nuit les municipalités de la périphérie.",
+      "Ne résiste pas en cas d'agression et garde peu d'objets de valeur sur toi."
+    ],
+    "source": {
+      "label": "France Diplomatie, Angola, Sécurité (mise à jour du 10 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/angola/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "luanda",
+      "name": "Luanda",
+      "nights": "2 nuits",
+      "for": [
+        "stratege"
+      ],
+      "summary": "La capitale, entre la baie, l'Ilha et la forteresse.",
+      "sleep": "Dans le centre ou sur la baie.",
+      "see": [
+        {
+          "name": "La forteresse de São Miguel",
+          "note": "Vue sur la baie."
+        },
+        {
+          "name": "La Marginal",
+          "note": "La promenade du front de mer."
+        },
+        {
+          "name": "Le musée national de l'esclavage",
+          "note": "Au sud de la ville."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le miradouro da Lua",
+          "note": "Des falaises sculptées par l'érosion, au sud de Luanda."
+        }
+      ],
+      "eat": "La muamba de galinha (poulet à l'huile de palme) et le funge.",
+      "getAround": "Taxi ou voiture avec chauffeur.",
+      "tip": "Utilise des taxis recommandés par ton hôtel."
+    },
+    {
+      "slug": "kalandula",
+      "name": "Les chutes de Kalandula",
+      "nights": "1 nuit",
+      "for": [
+        "tous",
+        "explorateur"
+      ],
+      "summary": "Des chutes spectaculaires dans la province de Malanje.",
+      "sleep": "En lodge près des chutes.",
+      "see": [
+        {
+          "name": "Les chutes de Kalandula",
+          "note": "Belvédère et sentier vers le bas."
+        },
+        {
+          "name": "Les pierres noires de Pungo Andongo",
+          "note": "Des rochers géants."
+        },
+        {
+          "name": "La campagne de Malanje",
+          "note": "Paysages verts."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le bas des chutes",
+          "note": "Par un sentier, avec prudence."
+        }
+      ],
+      "eat": "La cuisine de la région.",
+      "getAround": "Voiture avec chauffeur depuis Luanda.",
+      "tip": "Prévois une longue journée de route."
+    },
+    {
+      "slug": "lubango",
+      "name": "Lubango et le Namibe",
+      "nights": "3 nuits",
+      "for": [
+        "explorateur",
+        "energique"
+      ],
+      "summary": "Le plateau de Lubango, la route en lacets de la Serra da Leba et le désert du Namibe.",
+      "sleep": "À Lubango.",
+      "see": [
+        {
+          "name": "La route de la Serra da Leba",
+          "note": "Des lacets spectaculaires."
+        },
+        {
+          "name": "La faille de Tundavala",
+          "note": "Un précipice impressionnant."
+        },
+        {
+          "name": "Le désert du Namibe",
+          "note": "Dunes et welwitschias."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le Cristo Rei de Lubango",
+          "note": "Une statue qui domine la ville."
+        }
+      ],
+      "eat": "Le poisson du Namibe.",
+      "getAround": "Voiture avec chauffeur, 4x4 pour le désert.",
+      "tip": "Pour le désert, passe par un opérateur local."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Angola essentiel",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Luanda",
+          "note": "Capitale."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Kalandula",
+          "note": "Chutes."
+        },
+        {
+          "days": "Jours 5 à 10",
+          "place": "Lubango et Namibe",
+          "note": "Montagnes et désert."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Vols intérieurs",
+      "text": "Pour Lubango."
+    },
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "Le plus sûr."
+    },
+    {
+      "title": "4x4",
+      "text": "Pour le désert."
+    }
+  ],
+  "culture": [
+    "Le portugais est la langue officielle."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Bom dia"
+    },
+    {
+      "fr": "Merci",
+      "local": "Obrigado"
+    }
+  ],
+  "checklist": [
+    "Passeport valable plus que la durée du séjour",
+    "Avis médical (paludisme)",
+    "Vaccination fièvre jaune recommandée",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour l'Angola ?",
+      "a": "Non, pour un séjour touristique de 30 jours par entrée, dans la limite de 90 jours par an."
+    },
+    {
+      "q": "Quand partir en Angola ?",
+      "a": "De mai à octobre, en saison sèche."
+    }
+  ]
+}

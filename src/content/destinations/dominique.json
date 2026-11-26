@@ -1,0 +1,239 @@
+{
+  "name": "Dominique",
+  "prep": "à la Dominique",
+  "kind": "pays",
+  "continent": "Amérique centrale et Caraïbes",
+  "priority": 143,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Dominique : randonnées, cascades, sources chaudes",
+    "description": "Préparer un voyage à la Dominique : passeport, Boiling Lake, chutes de Trafalgar, Champagne Reef, sentier Waitukubuli. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Dominique, entre la Guadeloupe et la Martinique, se visite de février à mai, en saison sèche. Pas de visa pour moins de 3 mois, avec un passeport ; la carte d'identité n'est acceptée que dans des cas limités, au départ des Antilles françaises. Île volcanique couverte de forêt, elle est faite pour la randonnée, les cascades et les sources chaudes.",
+  "essentials": {
+    "bestPeriod": "Février à mai",
+    "languages": "Anglais (officiel), créole",
+    "currency": "Dollar des Caraïbes orientales (XCD)",
+    "timeDiff": "-5 h en hiver, -6 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 1,
+      "note": "Pluies fréquentes."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison des ouragans."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour moins de 3 mois : un « visitors permit » de 30 jours, renouvelable jusqu'à 3 mois, est délivré sur présentation d'un passeport valide et d'un billet retour.",
+    "points": [
+      "La carte d'identité ne permet l'entrée que dans des cas limités, pour les voyageurs venant de Martinique ou de Guadeloupe : prends ton passeport."
+    ],
+    "source": {
+      "label": "France Diplomatie, Dominique, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/dominique/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire en arrivant de France ; la vaccination contre la fièvre jaune est exigée si tu arrives d'une zone d'endémie. Protège-toi des moustiques : dengue, chikungunya et zika peuvent circuler.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, typhoïde.",
+      "Rage : selon le séjour."
+    ],
+    "source": {
+      "label": "France Diplomatie, Dominique, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/dominique/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée. L'ambassade de France compétente pour la Dominique est à Sainte-Lucie.",
+    "points": [
+      "De juin à fin novembre, des ouragans peuvent toucher les îles : suis les alertes.",
+      "Laisse tes objets de valeur au coffre et évite les endroits isolés la nuit."
+    ],
+    "source": {
+      "label": "France Diplomatie, Dominique, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/dominique/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "roseau",
+      "name": "Roseau et le parc de Morne Trois Pitons",
+      "nights": "3 nuits",
+      "for": [
+        "explorateur",
+        "energique"
+      ],
+      "summary": "La capitale et le parc national classé à l'Unesco, avec ses lacs volcaniques et cascades.",
+      "sleep": "À Roseau ou dans la vallée.",
+      "see": [
+        {
+          "name": "Le Boiling Lake",
+          "note": "Une randonnée exigeante vers un lac en ébullition."
+        },
+        {
+          "name": "Les chutes de Trafalgar",
+          "note": "Deux cascades jumelles."
+        },
+        {
+          "name": "Champagne Reef",
+          "note": "Snorkeling dans les bulles volcaniques."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les sources chaudes de Wotten Waven",
+          "note": "Bassins d'eau chaude."
+        }
+      ],
+      "eat": "Les accras et le callaloo.",
+      "getAround": "Voiture avec chauffeur ou location ; minibus.",
+      "tip": "Prends un guide pour le Boiling Lake."
+    },
+    {
+      "slug": "portsmouth",
+      "name": "Portsmouth et le nord",
+      "nights": "2 nuits",
+      "for": [
+        "lent",
+        "tous"
+      ],
+      "summary": "Le nord de l'île, l'Indian River et le parc de Cabrits.",
+      "sleep": "À Portsmouth.",
+      "see": [
+        {
+          "name": "L'Indian River",
+          "note": "En barque avec un guide."
+        },
+        {
+          "name": "Le fort Shirley (Cabrits)",
+          "note": "Un fort sur une presqu'île."
+        },
+        {
+          "name": "Les plages du nord",
+          "note": "Plus calmes."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le sentier Waitukubuli",
+          "note": "Le grand sentier de randonnée de l'île, par étapes."
+        }
+      ],
+      "eat": "Le poisson grillé.",
+      "getAround": "Voiture ou minibus.",
+      "tip": "Les routes sont sinueuses : compte large pour les trajets."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Nature de la Dominique",
+      "for": [
+        "explorateur",
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 4",
+          "place": "Roseau",
+          "note": "Boiling Lake, Trafalgar, Champagne Reef."
+        },
+        {
+          "days": "Jours 5 à 8",
+          "place": "Portsmouth",
+          "note": "Indian River et Cabrits."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Ferry",
+      "text": "Depuis la Guadeloupe et la Martinique."
+    },
+    {
+      "title": "Location de voiture",
+      "text": "On roule à gauche ; routes sinueuses."
+    },
+    {
+      "title": "Minibus",
+      "text": "Entre les villages."
+    }
+  ],
+  "culture": [
+    "On roule à gauche.",
+    "Le créole est proche de celui des Antilles françaises."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport",
+    "Billet retour",
+    "Chaussures de randonnée",
+    "Répulsif anti-moustiques",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un passeport pour la Dominique ?",
+      "a": "Oui, en général. La carte d'identité n'est acceptée que dans des cas limités, au départ de Martinique ou de Guadeloupe."
+    },
+    {
+      "q": "Que faire à la Dominique ?",
+      "a": "Randonner jusqu'au Boiling Lake, voir les chutes de Trafalgar, nager à Champagne Reef et remonter l'Indian River."
+    }
+  ]
+}

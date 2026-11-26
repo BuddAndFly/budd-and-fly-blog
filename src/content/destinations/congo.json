@@ -1,0 +1,272 @@
+{
+  "name": "Congo",
+  "prep": "au Congo",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 159,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Congo-Brazzaville : Brazzaville, Pointe-Noire, forêts",
+    "description": "Préparer un voyage au Congo-Brazzaville : visa avant le départ, fièvre jaune, paludisme, Brazzaville, Pointe-Noire, Odzala. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Congo (Congo-Brazzaville) se visite de juin à septembre, pendant la saison sèche. Le visa doit être obtenu avant le départ, et la vaccination contre la fièvre jaune est obligatoire. Tout le pays est en vigilance renforcée, et les bandes frontalières sont déconseillées. Brazzaville, les plages de Pointe-Noire et les forêts d'Odzala, pour les gorilles, sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Juin à septembre",
+    "languages": "Français (officiel), lingala, kituba",
+    "currency": "Franc CFA (XAF)",
+    "timeDiff": "Aucun décalage en hiver, -1 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Le visa doit être obtenu avant le départ auprès d'une ambassade du Congo, avec une demande payée en ligne ; aucun visa n'est délivré à l'arrivée. La vaccination contre la fièvre jaune est obligatoire et le carnet peut être contrôlé.",
+    "points": [],
+    "source": {
+      "label": "France Diplomatie, Congo, Entrée / séjour (mise à jour du 30 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/congo/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "La vaccination contre la fièvre jaune est obligatoire, au moins 10 jours avant le départ. Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Congo, Santé (mise à jour du 30 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/congo/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée, en particulier le département du Pool. Les zones frontalières (Centrafrique, RDC, Cabinda) sont déconseillées sauf raison impérative.",
+    "points": [
+      "Ne franchis jamais une frontière par inadvertance : tu risques l'arrestation.",
+      "Évite de circuler de nuit."
+    ],
+    "source": {
+      "label": "France Diplomatie, Congo, Sécurité (mise à jour du 30 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/congo/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "brazzaville",
+      "name": "Brazzaville",
+      "nights": "2 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "La capitale, au bord du fleuve Congo, face à Kinshasa.",
+      "sleep": "Dans le centre.",
+      "see": [
+        {
+          "name": "La basilique Sainte-Anne",
+          "note": "Son toit de tuiles vertes."
+        },
+        {
+          "name": "Le mémorial Pierre-Savorgnan-de-Brazza",
+          "note": "Au bord du fleuve."
+        },
+        {
+          "name": "Les rapides du Congo",
+          "note": "Au sud de la ville."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les ateliers de peinture de Poto-Poto",
+          "note": "Une école de peinture réputée."
+        }
+      ],
+      "eat": "Le poisson braisé et le saka-saka (feuilles de manioc).",
+      "getAround": "Taxi.",
+      "tip": "Ne photographie pas les bâtiments officiels."
+    },
+    {
+      "slug": "pointe-noire",
+      "name": "Pointe-Noire",
+      "nights": "2 nuits",
+      "for": [
+        "lent"
+      ],
+      "summary": "La ville côtière, ses plages et les gorges de Diosso.",
+      "sleep": "En bord de mer.",
+      "see": [
+        {
+          "name": "Les plages de la côte",
+          "note": "Baignade selon les courants."
+        },
+        {
+          "name": "Les gorges de Diosso",
+          "note": "Un canyon de terre rouge."
+        },
+        {
+          "name": "Le marché Tié-Tié",
+          "note": "La vie locale."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le musée de Loango",
+          "note": "Un lieu de mémoire de la traite."
+        }
+      ],
+      "eat": "Les fruits de mer.",
+      "getAround": "Taxi ; vol ou train depuis Brazzaville.",
+      "tip": "Renseigne-toi sur les courants avant de te baigner."
+    },
+    {
+      "slug": "odzala",
+      "name": "Le parc national d'Odzala-Kokoua",
+      "nights": "3 nuits",
+      "for": [
+        "explorateur"
+      ],
+      "summary": "Une forêt du bassin du Congo, réputée pour les gorilles des plaines.",
+      "sleep": "En lodge dans le parc.",
+      "see": [
+        {
+          "name": "Le pistage des gorilles",
+          "note": "Avec les guides du parc."
+        },
+        {
+          "name": "Les clairières (bais)",
+          "note": "Éléphants de forêt et buffles."
+        },
+        {
+          "name": "Les rivières",
+          "note": "En pirogue."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les nuits en forêt",
+          "note": "Sons de la forêt tropicale."
+        }
+      ],
+      "eat": "Les repas du lodge.",
+      "getAround": "Vol charter ou longue route, avec l'opérateur du parc.",
+      "tip": "Réserve longtemps à l'avance auprès de l'opérateur."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Congo",
+      "for": [
+        "tous",
+        "explorateur"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Brazzaville",
+          "note": "Capitale."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Odzala",
+          "note": "Gorilles et forêt."
+        },
+        {
+          "days": "Jours 6 à 8",
+          "place": "Pointe-Noire",
+          "note": "Côte."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Vols intérieurs",
+      "text": "Entre Brazzaville et Pointe-Noire."
+    },
+    {
+      "title": "Taxi",
+      "text": "En ville."
+    },
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "Pour l'intérieur."
+    }
+  ],
+  "culture": [
+    "Le français est la langue officielle ; le lingala est très parlé à Brazzaville."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport",
+    "Visa obtenu avant le départ",
+    "Vaccination fièvre jaune",
+    "Avis médical (paludisme)",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour le Congo-Brazzaville ?",
+      "a": "Oui, à obtenir avant le départ : aucun visa n'est délivré à l'arrivée."
+    },
+    {
+      "q": "Où voir des gorilles au Congo ?",
+      "a": "Au parc national d'Odzala-Kokoua, avec les guides du parc."
+    }
+  ]
+}

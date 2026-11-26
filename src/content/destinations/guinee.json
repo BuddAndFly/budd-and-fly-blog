@@ -1,0 +1,234 @@
+{
+  "name": "Guinée",
+  "prep": "en Guinée",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 157,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Guinée : Fouta-Djalon, Conakry, îles de Loos",
+    "description": "Préparer un voyage en Guinée : e-visa, fièvre jaune obligatoire, paludisme, Conakry, îles de Loos, randonnées du Fouta-Djalon. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Guinée se visite de novembre à mars, en saison sèche. Le visa se demande en ligne avant le départ, et la vaccination contre la fièvre jaune est une condition d'entrée. Le pays est en vigilance renforcée, sauf les frontières avec le Mali et la Côte d'Ivoire, déconseillées. Les cascades et plateaux du Fouta-Djalon et les îles de Loos sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Novembre à mars",
+    "languages": "Français (officiel), peul, malinké, soussou",
+    "currency": "Franc guinéen (GNF)",
+    "timeDiff": "-1 h en hiver, -2 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Le visa se demande impérativement en ligne avant le départ, sur le site de la police de l'air et des frontières guinéenne : photo, passeport, carnet de vaccination fièvre jaune, réservation d'hôtel ou attestation d'hébergement sont demandés.",
+    "points": [],
+    "source": {
+      "label": "France Diplomatie, Guinée, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guinee/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "La vaccination contre la fièvre jaune est une condition d'entrée. Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, méningite, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Guinée, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guinee/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Le reste du territoire est en vigilance renforcée. Les zones frontalières avec le Mali et la Côte d'Ivoire, dont Siguiri, Mandiana et la réserve de Kankan, sont déconseillées sauf raison impérative.",
+    "points": [
+      "À Conakry, sois prudent dans la haute banlieue, à l'est de Kipé et Taouyah."
+    ],
+    "source": {
+      "label": "France Diplomatie, Guinée, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guinee/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "conakry",
+      "name": "Conakry et les îles de Loos",
+      "nights": "2 nuits",
+      "for": [
+        "tous"
+      ],
+      "summary": "La capitale et ses îles, à quelques minutes de bateau.",
+      "sleep": "Dans le centre ou sur une île.",
+      "see": [
+        {
+          "name": "Les îles de Loos",
+          "note": "Plages, en bateau depuis Conakry."
+        },
+        {
+          "name": "Le marché de Madina",
+          "note": "Un immense marché populaire."
+        },
+        {
+          "name": "La grande mosquée",
+          "note": "Un monument de la ville."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "L'île de Kassa",
+          "note": "La plus proche de la capitale."
+        }
+      ],
+      "eat": "Le riz sauce feuille et le poisson grillé.",
+      "getAround": "Taxi et bateau.",
+      "tip": "Évite les déplacements de nuit."
+    },
+    {
+      "slug": "fouta-djalon",
+      "name": "Le Fouta-Djalon",
+      "nights": "4 nuits",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "Les plateaux et cascades du massif, réputés pour la randonnée.",
+      "sleep": "À Dalaba ou Pita, en gîte.",
+      "see": [
+        {
+          "name": "Les chutes de Kambadaga",
+          "note": "Près de Pita."
+        },
+        {
+          "name": "Dalaba",
+          "note": "Une ville d'altitude au climat frais."
+        },
+        {
+          "name": "Les randonnées entre villages",
+          "note": "Avec un guide local."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les villages peuls",
+          "note": "Accueil chez l'habitant, avec un guide."
+        }
+      ],
+      "eat": "Le lait caillé et le fonio.",
+      "getAround": "Voiture avec chauffeur.",
+      "tip": "Pars avec un guide local pour les randonnées."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Conakry et le Fouta-Djalon",
+      "for": [
+        "explorateur",
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Conakry",
+          "note": "Îles de Loos."
+        },
+        {
+          "days": "Jours 3 à 8",
+          "place": "Fouta-Djalon",
+          "note": "Cascades et randonnées."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "Le plus sûr."
+    },
+    {
+      "title": "Taxi-brousse",
+      "text": "Bon marché, souvent surchargé."
+    },
+    {
+      "title": "Bateau",
+      "text": "Pour les îles de Loos."
+    }
+  ],
+  "culture": [
+    "Les salutations sont longues et importantes.",
+    "Tenue couvrante dans les villages."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport",
+    "E-visa",
+    "Vaccination fièvre jaune",
+    "Avis médical (paludisme)",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour la Guinée ?",
+      "a": "Oui, à demander en ligne avant le départ, avec le carnet de vaccination fièvre jaune."
+    },
+    {
+      "q": "Que voir en Guinée ?",
+      "a": "Les îles de Loos et les cascades et plateaux du Fouta-Djalon."
+    }
+  ]
+}

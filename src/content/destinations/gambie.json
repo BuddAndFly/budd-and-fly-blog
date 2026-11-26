@@ -1,0 +1,244 @@
+{
+  "name": "Gambie",
+  "prep": "en Gambie",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 150,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Gambie : plages, fleuve Gambie, oiseaux",
+    "description": "Préparer un voyage en Gambie : visa gratuit à l'arrivée, fièvre jaune recommandée, paludisme, plages, réserves d'oiseaux, fleuve Gambie. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Gambie se visite de novembre à mai, en saison sèche. Un visa gratuit de quinze jours, renouvelable, est délivré à l'arrivée. Tout le pays est en vigilance renforcée. Les plages de la côte atlantique, les réserves d'oiseaux et la remontée du fleuve Gambie sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Novembre à mai",
+    "languages": "Anglais (officiel), mandinka, wolof",
+    "currency": "Dalasi (GMD)",
+    "timeDiff": "-1 h en hiver, -2 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Début des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un visa gratuit de court séjour (quinze jours, renouvelables) est apposé sur le passeport à l'arrivée, y compris aux frontières terrestres. Une taxe aéroportuaire est demandée à l'entrée et à la sortie.",
+    "points": [
+      "Toute autre demande de paiement à la frontière n'a aucune base légale."
+    ],
+    "source": {
+      "label": "France Diplomatie, Gambie, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/gambie/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical. La vaccination contre la fièvre jaune est obligatoire si tu arrives d'une zone d'endémie, et fortement recommandée pour tous les autres voyageurs.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, méningite, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Gambie, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/gambie/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée. Les capacités d'action de la représentation française à Banjul sont limitées.",
+    "points": [
+      "Garde peu d'objets de valeur sur toi et évite les plages isolées la nuit."
+    ],
+    "source": {
+      "label": "France Diplomatie, Gambie, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/gambie/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "cote",
+      "name": "La côte et Banjul",
+      "nights": "4 nuits",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "summary": "La capitale et les stations balnéaires voisines.",
+      "sleep": "À Kololi, Kotu ou Cape Point.",
+      "see": [
+        {
+          "name": "Les plages de Kololi et Kotu",
+          "note": "La côte atlantique."
+        },
+        {
+          "name": "La réserve d'Abuko",
+          "note": "Une petite forêt avec singes et oiseaux."
+        },
+        {
+          "name": "Le marché d'Albert à Banjul",
+          "note": "Le grand marché de la capitale."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le site de pêche de Tanji",
+          "note": "Le retour des pirogues en fin de journée."
+        }
+      ],
+      "eat": "Le domoda (ragoût à l'arachide) et le benachin.",
+      "getAround": "Taxis jaunes et verts.",
+      "tip": "Fixe le prix du taxi avant de monter."
+    },
+    {
+      "slug": "fleuve",
+      "name": "Le fleuve Gambie",
+      "nights": "2 à 3 nuits",
+      "for": [
+        "explorateur",
+        "stratege"
+      ],
+      "summary": "La remontée du fleuve, ses oiseaux et ses lieux de mémoire.",
+      "sleep": "En lodge au bord du fleuve.",
+      "see": [
+        {
+          "name": "L'île de Kunta Kinteh",
+          "note": "Un site de mémoire de la traite, classé à l'Unesco."
+        },
+        {
+          "name": "Janjanbureh",
+          "note": "Une ville sur une île du fleuve."
+        },
+        {
+          "name": "Les sorties en pirogue",
+          "note": "Oiseaux et hippopotames."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les cercles de pierres de Wassu",
+          "note": "Un site mégalithique classé à l'Unesco."
+        }
+      ],
+      "eat": "Le poisson du fleuve.",
+      "getAround": "Voiture avec chauffeur et bateau.",
+      "tip": "Pars tôt le matin pour les oiseaux."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Côte et fleuve",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 4",
+          "place": "La côte",
+          "note": "Plages et Abuko."
+        },
+        {
+          "days": "Jours 5 à 8",
+          "place": "Le fleuve Gambie",
+          "note": "Kunta Kinteh, Janjanbureh."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Taxi",
+      "text": "Taxis touristiques et collectifs."
+    },
+    {
+      "title": "Bateau",
+      "text": "Sur le fleuve."
+    },
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "Pour l'intérieur."
+    }
+  ],
+  "culture": [
+    "La Gambie est surnommée « la côte souriante » pour son accueil.",
+    "Tenue couvrante hors des plages."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour (wolof)",
+      "local": "Na nga def"
+    },
+    {
+      "fr": "Merci (mandinka)",
+      "local": "Abaraka"
+    }
+  ],
+  "checklist": [
+    "Passeport",
+    "Vaccination fièvre jaune",
+    "Avis médical (paludisme)",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour la Gambie ?",
+      "a": "Un visa gratuit de quinze jours, renouvelable, est délivré à l'arrivée."
+    },
+    {
+      "q": "Quand partir en Gambie ?",
+      "a": "De novembre à mai, en saison sèche."
+    }
+  ]
+}

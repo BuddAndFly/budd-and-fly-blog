@@ -1,0 +1,250 @@
+{
+  "name": "Lesotho",
+  "prep": "au Lesotho",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 152,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Lesotho : montagnes, Sani Pass, randonnée à cheval",
+    "description": "Préparer un voyage au Lesotho : sans visa 14 jours, passeport 3 mois, routes de montagne, Sani Pass, Semonkong, randonnée à cheval. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Lesotho, royaume de montagnes enclavé dans l'Afrique du Sud, se visite au printemps et à l'automne austral ; l'hiver apporte neige et froid. Pas de visa pour moins de 14 jours, avec un passeport valable 3 mois après la sortie. Le pays est en vigilance renforcée, surtout à cause des routes. Randonnée à pied ou à cheval, cascades et villages basotho sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Mars à mai, septembre à novembre",
+    "languages": "Sesotho et anglais",
+    "currency": "Loti (LSL)",
+    "timeDiff": "+1 h en hiver, aucun décalage en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 1,
+      "note": "Été, orages."
+    },
+    {
+      "rating": 1,
+      "note": "Orages."
+    },
+    {
+      "rating": 2,
+      "note": "Automne."
+    },
+    {
+      "rating": 2,
+      "note": "Automne."
+    },
+    {
+      "rating": 2,
+      "note": "Frais et sec."
+    },
+    {
+      "rating": 0,
+      "note": "Hiver, neige."
+    },
+    {
+      "rating": 0,
+      "note": "Hiver, neige."
+    },
+    {
+      "rating": 1,
+      "note": "Froid."
+    },
+    {
+      "rating": 2,
+      "note": "Printemps."
+    },
+    {
+      "rating": 2,
+      "note": "Printemps."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 1,
+      "note": "Été, orages."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour un séjour de moins de 14 jours : une autorisation est délivrée à l'arrivée. Le passeport doit être valable au moins 3 mois après la sortie et avoir deux pages vierges.",
+    "points": [
+      "Une prolongation de 30 jours peut être demandée sur place, avant l'expiration."
+    ],
+    "source": {
+      "label": "France Diplomatie, Lesotho, Entrée / séjour (mise à jour du 13 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/lesotho/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire en arrivant de France ; la fièvre jaune est exigée si tu arrives d'un pays à risque. En altitude, protège-toi du froid et du soleil.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Lesotho, Santé (mise à jour du 13 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/lesotho/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée. Le risque routier est important : mauvais état des routes, conduite dangereuse, intempéries et animaux.",
+    "points": [
+      "Ne roule pas de nuit.",
+      "En montagne, la météo change vite, surtout en hiver."
+    ],
+    "source": {
+      "label": "France Diplomatie, Lesotho, Sécurité (mise à jour du 13 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/lesotho/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "semonkong",
+      "name": "Semonkong et Malealea",
+      "nights": "3 nuits",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "Les hauts plateaux, leurs villages et leurs cascades.",
+      "sleep": "En lodge de montagne.",
+      "see": [
+        {
+          "name": "Les chutes de Maletsunyane",
+          "note": "Une très haute cascade près de Semonkong."
+        },
+        {
+          "name": "La randonnée à cheval",
+          "note": "Sur des poneys basotho, avec un guide."
+        },
+        {
+          "name": "Les villages basotho",
+          "note": "Accueil des communautés."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les peintures rupestres",
+          "note": "Près de Malealea, avec un guide."
+        }
+      ],
+      "eat": "Le papa (bouillie de maïs) et le mouton.",
+      "getAround": "4x4 ou voiture avec chauffeur.",
+      "tip": "Prévois des vêtements chauds, même en été."
+    },
+    {
+      "slug": "sani",
+      "name": "Le col de Sani",
+      "nights": "1 à 2 nuits",
+      "for": [
+        "energique",
+        "explorateur"
+      ],
+      "summary": "Une route de montagne spectaculaire depuis l'Afrique du Sud.",
+      "sleep": "Au sommet du col ou côté sud-africain.",
+      "see": [
+        {
+          "name": "La montée du col",
+          "note": "En 4x4 uniquement."
+        },
+        {
+          "name": "Les paysages des Drakensberg",
+          "note": "Vue sur les falaises."
+        },
+        {
+          "name": "Les villages du plateau",
+          "note": "Bergers et troupeaux."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le plateau au-dessus du col",
+          "note": "Des paysages d'altitude très peu fréquentés."
+        }
+      ],
+      "eat": "La cuisine de montagne.",
+      "getAround": "4x4 avec chauffeur depuis l'Afrique du Sud.",
+      "tip": "Le passage dépend des horaires du poste-frontière et de la météo."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Les montagnes du Lesotho",
+      "for": [
+        "explorateur",
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jour 1",
+          "place": "Maseru",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 2 à 4",
+          "place": "Malealea et Semonkong",
+          "note": "Cheval et cascades."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Col de Sani",
+          "note": "Route de montagne."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "4x4 avec chauffeur",
+      "text": "Le plus sûr en montagne."
+    },
+    {
+      "title": "Location de voiture",
+      "text": "Routes difficiles ; on roule à gauche."
+    },
+    {
+      "title": "À cheval",
+      "text": "Pour les villages isolés."
+    }
+  ],
+  "culture": [
+    "On salue avec « Lumela ».",
+    "La couverture basotho est un vêtement traditionnel porté par beaucoup d'habitants."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour (sesotho)",
+      "local": "Lumela"
+    },
+    {
+      "fr": "Merci (sesotho)",
+      "local": "Kea leboha"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 3 mois après la sortie, 2 pages vierges",
+    "Vêtements chauds",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour le Lesotho ?",
+      "a": "Non pour moins de 14 jours, avec un passeport valable 3 mois après la sortie et deux pages vierges."
+    },
+    {
+      "q": "Quand partir au Lesotho ?",
+      "a": "Au printemps et à l'automne austral ; l'hiver apporte neige et froid."
+    }
+  ]
+}

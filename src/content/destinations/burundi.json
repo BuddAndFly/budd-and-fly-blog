@@ -1,0 +1,237 @@
+{
+  "name": "Burundi",
+  "prep": "au Burundi",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 162,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Burundi : lac Tanganyika, Gitega, tambours royaux",
+    "description": "Préparer un voyage au Burundi : visa à l'arrivée sur demande en ligne, fièvre jaune, paludisme, lac Tanganyika, Gitega. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Burundi se visite de juin à août, pendant la grande saison sèche. Un visa est obligatoire : la demande se fait en ligne, puis il est délivré à l'aéroport. La vaccination contre la fièvre jaune est obligatoire. La frontière avec la RDC et plusieurs zones du nord-ouest sont déconseillées ; le reste du pays est en vigilance renforcée. Le lac Tanganyika et Gitega sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Juin à août",
+    "languages": "Kirundi, français et anglais",
+    "currency": "Franc burundais (BIF)",
+    "timeDiff": "+1 h en hiver, aucun décalage en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un visa est obligatoire. La demande se fait sur le site des autorités burundaises, puis le visa (entrée unique, un mois au plus) est délivré à l'aéroport contre paiement.",
+    "points": [
+      "Une prolongation peut être demandée sur place.",
+      "Garde une version papier de ton certificat de vaccination."
+    ],
+    "source": {
+      "label": "France Diplomatie, Burundi, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/burundi/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "La vaccination contre la fièvre jaune est obligatoire. Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, méningite, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Burundi, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/burundi/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "La frontière avec la RDC, la route vers Gatumba au-delà de la réserve de la Rusizi et le nord de la Kibira sont formellement déconseillés. Le reste du pays est en vigilance renforcée.",
+    "points": [
+      "À Bujumbura, ne te déplace pas à pied, même en centre-ville, surtout la nuit, et évite les quartiers périphériques le soir.",
+      "En province, ne roule pas de nuit et dors dans un hôtel gardé."
+    ],
+    "source": {
+      "label": "France Diplomatie, Burundi, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/burundi/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "bujumbura",
+      "name": "Bujumbura et le lac Tanganyika",
+      "nights": "3 nuits",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "summary": "La capitale économique, au bord du lac Tanganyika.",
+      "sleep": "Près du lac, dans un hôtel gardé.",
+      "see": [
+        {
+          "name": "Les plages du lac Tanganyika",
+          "note": "Au nord de la ville."
+        },
+        {
+          "name": "Le marché central",
+          "note": "La vie locale."
+        },
+        {
+          "name": "Les couchers de soleil sur le lac",
+          "note": "Face aux montagnes de la RDC."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le poisson du lac",
+          "note": "Le mukeke, spécialité locale."
+        }
+      ],
+      "eat": "Le mukeke (poisson du lac) et les brochettes.",
+      "getAround": "Taxi uniquement.",
+      "tip": "Ne te déplace pas à pied en ville."
+    },
+    {
+      "slug": "gitega",
+      "name": "Gitega",
+      "nights": "2 nuits",
+      "for": [
+        "stratege",
+        "lent"
+      ],
+      "summary": "La capitale politique, au cœur du pays, et la tradition des tambours royaux.",
+      "sleep": "Dans le centre.",
+      "see": [
+        {
+          "name": "Le musée national",
+          "note": "L'histoire du royaume."
+        },
+        {
+          "name": "Le sanctuaire des tambours de Gishora",
+          "note": "La danse rituelle des tambours, classée à l'Unesco."
+        },
+        {
+          "name": "Les collines",
+          "note": "Plantations de thé et villages."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La source du Nil",
+          "note": "Un site marqué par une pyramide, au sud."
+        }
+      ],
+      "eat": "Les haricots et la banane plantain.",
+      "getAround": "Voiture avec chauffeur.",
+      "tip": "Ne roule pas de nuit entre les villes."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 6,
+      "title": "Burundi",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Bujumbura",
+          "note": "Lac Tanganyika."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Gitega",
+          "note": "Tambours et collines."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "Le plus sûr."
+    },
+    {
+      "title": "Taxi",
+      "text": "À Bujumbura."
+    },
+    {
+      "title": "Bus",
+      "text": "Entre les villes, de jour."
+    }
+  ],
+  "culture": [
+    "Le kirundi est parlé par toute la population."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport",
+    "Demande de visa en ligne",
+    "Vaccination fièvre jaune",
+    "Avis médical (paludisme)",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour le Burundi ?",
+      "a": "Oui : la demande se fait en ligne, puis le visa est délivré à l'aéroport."
+    },
+    {
+      "q": "Le Burundi est-il sûr ?",
+      "a": "La frontière avec la RDC et le nord de la Kibira sont formellement déconseillés ; le reste du pays est en vigilance renforcée."
+    }
+  ]
+}

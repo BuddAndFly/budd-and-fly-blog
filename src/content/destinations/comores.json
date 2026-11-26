@@ -1,0 +1,241 @@
+{
+  "name": "Comores",
+  "prep": "aux Comores",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 148,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Comores : Grande Comore, Mohéli, Anjouan",
+    "description": "Préparer un voyage aux Comores : visa à l'arrivée, paludisme, volcan Karthala, parc marin de Mohéli, médina de Mutsamudu. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Les Comores se visitent de mai à octobre, pendant la saison sèche. Le visa s'obtient à l'arrivée à l'aéroport de Moroni. Tout l'archipel est en vigilance renforcée, et l'offre de soins y est très limitée. Le volcan Karthala, les plages et tortues de Mohéli et la médina d'Anjouan sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Comorien, français, arabe",
+    "currency": "Franc comorien (KMF)",
+    "timeDiff": "+2 h en hiver, +1 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Chaud et humide, cyclones possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec, plus frais."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec ; baleines."
+    },
+    {
+      "rating": 2,
+      "note": "Sec ; baleines."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 1,
+      "note": "Chaleur."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un visa est obligatoire ; il est délivré à l'arrivée à l'aéroport de Moroni. Il faut un billet retour, l'adresse du lieu de séjour et des ressources suffisantes.",
+    "points": [],
+    "source": {
+      "label": "France Diplomatie, Comores, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/comores/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical. Dengue et choléra peuvent sévir.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, rage.",
+      "Bois de l'eau en bouteille ou rendue potable.",
+      "La prise en charge médicale sur place est très limitée : assurance avec évacuation indispensable."
+    ],
+    "source": {
+      "label": "France Diplomatie, Comores, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/comores/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout l'archipel est en vigilance renforcée. Les capacités de réponse des autorités aux risques sanitaires sont très faibles.",
+    "points": [
+      "Une assurance couvrant l'évacuation sanitaire est indispensable."
+    ],
+    "source": {
+      "label": "France Diplomatie, Comores, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/comores/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "grande-comore",
+      "name": "Grande Comore",
+      "nights": "3 nuits",
+      "for": [
+        "tous",
+        "explorateur"
+      ],
+      "summary": "L'île principale, avec Moroni et le volcan Karthala.",
+      "sleep": "À Moroni ou au bord d'une plage.",
+      "see": [
+        {
+          "name": "Le vieux Moroni",
+          "note": "La médina et la mosquée du Vendredi."
+        },
+        {
+          "name": "Le volcan Karthala",
+          "note": "Une ascension longue, avec un guide."
+        },
+        {
+          "name": "Les plages du nord",
+          "note": "Sable noir et blanc."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le lac salé",
+          "note": "Un cratère près de la côte nord."
+        }
+      ],
+      "eat": "Le poisson au coco et le mataba.",
+      "getAround": "Taxi-brousse ou voiture avec chauffeur.",
+      "tip": "Pour le Karthala, pars avec un guide et prévois de l'eau."
+    },
+    {
+      "slug": "moheli",
+      "name": "Mohéli",
+      "nights": "2 à 3 nuits",
+      "for": [
+        "lent",
+        "explorateur"
+      ],
+      "summary": "La plus petite et la plus sauvage des îles, avec un parc marin.",
+      "sleep": "En écolodge.",
+      "see": [
+        {
+          "name": "Le parc marin de Mohéli",
+          "note": "Tortues, coraux, baleines en saison."
+        },
+        {
+          "name": "La plage d'Itsamia",
+          "note": "Ponte des tortues marines."
+        },
+        {
+          "name": "Les îlots de Nioumachoua",
+          "note": "En bateau."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les villages de pêcheurs",
+          "note": "Au rythme de l'île."
+        }
+      ],
+      "eat": "Le poisson grillé.",
+      "getAround": "Avion ou bateau depuis Grande Comore.",
+      "tip": "Observe les tortues de nuit avec les guides du village, sans lampe."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Les trois îles",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Grande Comore",
+          "note": "Moroni et Karthala."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Mohéli",
+          "note": "Parc marin."
+        },
+        {
+          "days": "Jours 7 et 8",
+          "place": "Anjouan",
+          "note": "Médina de Mutsamudu."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Avion",
+      "text": "Entre les îles."
+    },
+    {
+      "title": "Bateau",
+      "text": "Liaisons maritimes, horaires variables."
+    },
+    {
+      "title": "Taxi-brousse",
+      "text": "Sur chaque île."
+    }
+  ],
+  "culture": [
+    "Les Comores sont un pays musulman : tenue couvrante hors des plages.",
+    "Pendant le ramadan, mange discrètement en journée."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport",
+    "Billet retour et adresse de séjour",
+    "Avis médical (paludisme)",
+    "Assurance avec évacuation",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour les Comores ?",
+      "a": "Oui, mais il s'obtient à l'arrivée à l'aéroport de Moroni."
+    },
+    {
+      "q": "Quand partir aux Comores ?",
+      "a": "De mai à octobre, en saison sèche."
+    }
+  ]
+}

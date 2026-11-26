@@ -1,0 +1,236 @@
+{
+  "name": "Saint-Christophe-et-Niévès",
+  "prep": "à Saint-Christophe-et-Niévès",
+  "kind": "pays",
+  "continent": "Amérique centrale et Caraïbes",
+  "priority": 145,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Saint-Kitts-et-Nevis : forteresse, plages, Nevis",
+    "description": "Préparer un voyage à Saint-Christophe-et-Niévès : passeport, autorisation électronique, forteresse de Brimstone Hill, Basseterre, Nevis. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Saint-Christophe-et-Niévès (Saint-Kitts-et-Nevis) se visite de décembre à avril. Le passeport est indispensable, et depuis mai 2025 une autorisation électronique de voyage (AVE) est obligatoire pour qui arrive en avion ou passe une nuit sur place. Le pays est en vigilance renforcée. La forteresse de Brimstone Hill et l'île de Nevis sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Décembre à avril",
+    "languages": "Anglais",
+    "currency": "Dollar des Caraïbes orientales (XCD)",
+    "timeDiff": "-5 h en hiver, -6 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison sèche."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison des ouragans."
+    },
+    {
+      "rating": 1,
+      "note": "Saison humide."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison humide."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Le passeport est indispensable, sans dérogation ; la carte d'identité ne suffit pas. Depuis le 26 mai 2025, une autorisation électronique de voyage (AVE), payante, est obligatoire pour qui arrive en avion ou passe au moins une nuit sur place.",
+    "points": [
+      "Fais la demande entre 3 mois et 48 heures avant l'arrivée, sur le site officiel.",
+      "Les croisiéristes en escale d'une journée en sont dispensés."
+    ],
+    "source": {
+      "label": "France Diplomatie, Saint-Christophe-et-Niévès, Entrée / séjour (mise à jour du 04 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/saint-christophe-et-nieves/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire en arrivant de France ; la vaccination contre la fièvre jaune est exigée si tu arrives d'une zone d'endémie. Protège-toi des moustiques : dengue, chikungunya et zika peuvent circuler.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, typhoïde."
+    ],
+    "source": {
+      "label": "France Diplomatie, Saint-Christophe-et-Niévès, Santé (mise à jour du 04 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/saint-christophe-et-nieves/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée. L'ambassade de France compétente pour Saint-Christophe-et-Niévès est à Sainte-Lucie.",
+    "points": [
+      "Quelques disparitions inexpliquées sont recensées chaque année : évite les endroits isolés.",
+      "De juin à fin novembre, des ouragans peuvent toucher les îles : suis les alertes.",
+      "Laisse tes objets de valeur au coffre et évite les endroits isolés la nuit."
+    ],
+    "source": {
+      "label": "France Diplomatie, Saint-Christophe-et-Niévès, Sécurité (mise à jour du 04 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/saint-christophe-et-nieves/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "saint-kitts",
+      "name": "Saint-Kitts",
+      "nights": "3 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "L'île principale, avec Basseterre et la forteresse de Brimstone Hill, classée à l'Unesco.",
+      "sleep": "À Basseterre ou Frigate Bay.",
+      "see": [
+        {
+          "name": "La forteresse de Brimstone Hill",
+          "note": "Vue sur les îles voisines."
+        },
+        {
+          "name": "Basseterre",
+          "note": "La capitale et ses maisons coloniales."
+        },
+        {
+          "name": "Les plages du sud",
+          "note": "Baignade et snorkeling."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le sentier du volcan Liamuiga",
+          "note": "Une randonnée en forêt avec un guide."
+        }
+      ],
+      "eat": "Le goat water (ragoût de chèvre) et le poisson.",
+      "getAround": "Location de voiture ou taxi.",
+      "tip": "On roule à gauche."
+    },
+    {
+      "slug": "nevis",
+      "name": "Nevis",
+      "nights": "2 nuits",
+      "for": [
+        "lent"
+      ],
+      "summary": "L'île sœur, calme, au pied d'un volcan.",
+      "sleep": "En pension ou ancienne plantation.",
+      "see": [
+        {
+          "name": "Charlestown",
+          "note": "La petite capitale."
+        },
+        {
+          "name": "Pinney's Beach",
+          "note": "Une longue plage."
+        },
+        {
+          "name": "Les sources chaudes de Bath",
+          "note": "Bassins d'eau chaude."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le tour de l'île",
+          "note": "En voiture, en une journée."
+        }
+      ],
+      "eat": "Le poisson grillé.",
+      "getAround": "Ferry depuis Basseterre.",
+      "tip": "Vérifie les horaires du ferry."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 6,
+      "title": "Saint-Kitts et Nevis",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Saint-Kitts",
+          "note": "Brimstone Hill, Basseterre."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Nevis",
+          "note": "Plages et sources."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Location de voiture",
+      "text": "Permis temporaire local ; on roule à gauche."
+    },
+    {
+      "title": "Taxi",
+      "text": "Tarifs à convenir."
+    },
+    {
+      "title": "Ferry",
+      "text": "Entre les deux îles."
+    }
+  ],
+  "culture": [
+    "On roule à gauche."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport valide",
+    "Autorisation électronique (AVE)",
+    "Répulsif anti-moustiques",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il une autorisation pour Saint-Kitts-et-Nevis ?",
+      "a": "Oui : depuis mai 2025, une autorisation électronique de voyage payante est obligatoire si tu arrives en avion ou passes une nuit sur place."
+    },
+    {
+      "q": "La carte d'identité suffit-elle ?",
+      "a": "Non, le passeport est indispensable."
+    }
+  ]
+}

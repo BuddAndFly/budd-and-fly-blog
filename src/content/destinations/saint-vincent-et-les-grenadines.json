@@ -1,0 +1,235 @@
+{
+  "name": "Saint-Vincent-et-les-Grenadines",
+  "prep": "à Saint-Vincent-et-les-Grenadines",
+  "kind": "pays",
+  "continent": "Amérique centrale et Caraïbes",
+  "priority": 146,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Saint-Vincent-et-les-Grenadines : îles et voile",
+    "description": "Préparer un voyage à Saint-Vincent-et-les-Grenadines : passeport, ouragans, volcan de la Soufrière, Bequia, Tobago Cays. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Saint-Vincent-et-les-Grenadines se visite de décembre à avril. Pas de visa pour moins de 6 mois, mais le passeport est obligatoire, valable 6 mois après le retour. Le pays est en vigilance renforcée. Entre le volcan de la Soufrière, Bequia et les îlots des Tobago Cays, c'est une destination idéale pour la voile et le snorkeling.",
+  "essentials": {
+    "bestPeriod": "Décembre à avril",
+    "languages": "Anglais",
+    "currency": "Dollar des Caraïbes orientales (XCD)",
+    "timeDiff": "-5 h en hiver, -6 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison sèche."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison des ouragans."
+    },
+    {
+      "rating": 1,
+      "note": "Saison humide."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison humide."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour moins de 6 mois : un « visitors permit » de 30 jours, renouvelable, est délivré sur présentation d'un passeport valable 6 mois après le retour et d'un billet retour. La carte d'identité ne suffit pas.",
+    "points": [
+      "Les plaisanciers doivent faire les formalités de douane et de police à l'entrée et à la sortie."
+    ],
+    "source": {
+      "label": "France Diplomatie, Saint-Vincent-et-les-Grenadines, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/saint-vincent-et-les-grenadines/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire en arrivant de France ; la vaccination contre la fièvre jaune est exigée si tu arrives d'une zone d'endémie. Protège-toi des moustiques : dengue, chikungunya et zika peuvent circuler.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, typhoïde."
+    ],
+    "source": {
+      "label": "France Diplomatie, Saint-Vincent-et-les-Grenadines, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/saint-vincent-et-les-grenadines/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée. L'ambassade de France compétente pour Saint-Vincent-et-les-Grenadines est à Sainte-Lucie.",
+    "points": [
+      "De juin à fin novembre, des ouragans peuvent toucher les îles : suis les alertes.",
+      "Laisse tes objets de valeur au coffre et évite les endroits isolés la nuit."
+    ],
+    "source": {
+      "label": "France Diplomatie, Saint-Vincent-et-les-Grenadines, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/saint-vincent-et-les-grenadines/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "saint-vincent",
+      "name": "Saint-Vincent",
+      "nights": "2 nuits",
+      "for": [
+        "explorateur",
+        "energique"
+      ],
+      "summary": "L'île principale, verte et volcanique.",
+      "sleep": "À Kingstown ou Villa.",
+      "see": [
+        {
+          "name": "Le volcan de la Soufrière",
+          "note": "Une randonnée vers le cratère, selon l'activité du volcan."
+        },
+        {
+          "name": "Le jardin botanique de Kingstown",
+          "note": "L'un des plus anciens des Caraïbes."
+        },
+        {
+          "name": "Les chutes de Dark View",
+          "note": "Deux cascades en forêt."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La côte sous le vent",
+          "note": "Villages de pêcheurs."
+        }
+      ],
+      "eat": "Le fruit à pain rôti et le poisson frit.",
+      "getAround": "Minibus et taxis.",
+      "tip": "Renseigne-toi sur l'activité du volcan avant de randonner."
+    },
+    {
+      "slug": "grenadines",
+      "name": "Bequia et les Tobago Cays",
+      "nights": "4 nuits",
+      "for": [
+        "lent",
+        "tous"
+      ],
+      "summary": "Les petites îles du sud, entre voile, plages et lagons.",
+      "sleep": "À Bequia, en pension.",
+      "see": [
+        {
+          "name": "Bequia et Port Elizabeth",
+          "note": "Une île au rythme lent."
+        },
+        {
+          "name": "Le parc marin des Tobago Cays",
+          "note": "Tortues et eau turquoise."
+        },
+        {
+          "name": "Les plages de Bequia",
+          "note": "Princess Margaret Beach, Lower Bay."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Mayreau",
+          "note": "Une petite île accessible en bateau."
+        }
+      ],
+      "eat": "Le homard et le poisson grillé.",
+      "getAround": "Ferry et bateaux-taxis.",
+      "tip": "Réserve une sortie en bateau pour les Tobago Cays."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Saint-Vincent et les Grenadines",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Saint-Vincent",
+          "note": "Volcan et jardins."
+        },
+        {
+          "days": "Jours 3 à 8",
+          "place": "Bequia et Tobago Cays",
+          "note": "Îles et snorkeling."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Ferry",
+      "text": "Entre Saint-Vincent et les Grenadines."
+    },
+    {
+      "title": "Bateau-taxi",
+      "text": "Pour les plages et îlots."
+    },
+    {
+      "title": "Minibus",
+      "text": "Sur Saint-Vincent."
+    }
+  ],
+  "culture": [
+    "On roule à gauche."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport valable 6 mois après le retour",
+    "Billet retour",
+    "Répulsif anti-moustiques",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un passeport pour Saint-Vincent-et-les-Grenadines ?",
+      "a": "Oui, valable 6 mois après le retour ; la carte d'identité ne suffit pas."
+    },
+    {
+      "q": "Que voir dans les Grenadines ?",
+      "a": "Bequia, le parc marin des Tobago Cays et les petites îles voisines comme Mayreau."
+    }
+  ]
+}

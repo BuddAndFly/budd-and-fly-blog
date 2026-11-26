@@ -1,0 +1,232 @@
+{
+  "name": "Palaos",
+  "prep": "aux Palaos",
+  "kind": "pays",
+  "continent": "Océanie",
+  "priority": 167,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Palaos : Rock Islands, plongée, lagons",
+    "description": "Préparer un voyage aux Palaos : sans visa 30 jours, Koror, Rock Islands classées à l'Unesco, plongée et kayak. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Les Palaos se visitent plutôt de novembre à avril, en saison sèche. Pas de visa pour 30 jours maximum, avec un passeport valable 6 mois après la sortie et un billet retour. Le pays est en vigilance renforcée. Les Rock Islands, îlots calcaires classés à l'Unesco, en font une destination majeure pour la plongée et le kayak.",
+  "essentials": {
+    "bestPeriod": "Novembre à avril",
+    "languages": "Paluan et anglais",
+    "currency": "Dollar américain (USD)",
+    "timeDiff": "+8 h en hiver, +7 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 1,
+      "note": "Début des pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Retour du sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour un séjour de 30 jours maximum, avec un passeport valable 6 mois après la sortie et un billet retour ou vers une autre destination.",
+    "points": [
+      "Une prolongation est possible auprès de l'immigration, contre une taxe."
+    ],
+    "source": {
+      "label": "France Diplomatie, Palaos, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-des-palaos/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire. Protège-toi des moustiques : dengue, chikungunya et zika peuvent circuler.",
+    "points": [
+      "Vaccin conseillé selon le séjour : typhoïde."
+    ],
+    "source": {
+      "label": "France Diplomatie, Palaos, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-des-palaos/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "L'ensemble du territoire est en vigilance renforcée.",
+    "points": [
+      "En plongée, choisis un centre reconnu et respecte les consignes de sécurité."
+    ],
+    "source": {
+      "label": "France Diplomatie, Palaos, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-des-palaos/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "koror",
+      "name": "Koror",
+      "nights": "2 nuits",
+      "for": [
+        "tous"
+      ],
+      "summary": "La principale ville, base pour explorer les îles.",
+      "sleep": "À Koror.",
+      "see": [
+        {
+          "name": "Le musée Belau",
+          "note": "La culture paluane."
+        },
+        {
+          "name": "Les ponts et le port",
+          "note": "Départ des excursions."
+        },
+        {
+          "name": "La cuisine locale",
+          "note": "Poisson et taro."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "L'aquarium du centre de recherche sur les récifs",
+          "note": "Pour découvrir les récifs avant de plonger."
+        }
+      ],
+      "eat": "Le poisson et le taro.",
+      "getAround": "Taxi et voiture de location.",
+      "tip": "Réserve tes sorties en bateau dès ton arrivée."
+    },
+    {
+      "slug": "rock-islands",
+      "name": "Les Rock Islands",
+      "nights": "4 nuits",
+      "for": [
+        "explorateur",
+        "energique"
+      ],
+      "summary": "Des centaines d'îlots calcaires couverts de forêt, classés à l'Unesco.",
+      "sleep": "À Koror, en excursions à la journée.",
+      "see": [
+        {
+          "name": "La plongée sur les tombants",
+          "note": "Parmi les sites les plus réputés du Pacifique."
+        },
+        {
+          "name": "Le kayak entre les îlots",
+          "note": "Lagons et grottes."
+        },
+        {
+          "name": "Les plages des îlots",
+          "note": "Pique-nique en excursion."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le snorkeling dans les lagons",
+          "note": "Pour les non-plongeurs."
+        }
+      ],
+      "eat": "Le pique-nique de l'excursion.",
+      "getAround": "Bateau depuis Koror.",
+      "tip": "Un permis d'accès aux Rock Islands est généralement demandé : ton opérateur s'en occupe."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Palaos",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Koror",
+          "note": "Arrivée et musée."
+        },
+        {
+          "days": "Jours 3 à 7",
+          "place": "Rock Islands",
+          "note": "Plongée et kayak."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Bateau",
+      "text": "Pour les îles."
+    },
+    {
+      "title": "Taxi",
+      "text": "À Koror."
+    },
+    {
+      "title": "Location de voiture",
+      "text": "Pour l'île de Babeldaob."
+    }
+  ],
+  "culture": [
+    "Respecte les règles de protection de la nature, très strictes."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport valable 6 mois après la sortie",
+    "Billet retour",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour les Palaos ?",
+      "a": "Non, pour 30 jours maximum, avec un passeport valable 6 mois après la sortie et un billet retour."
+    },
+    {
+      "q": "Que faire aux Palaos ?",
+      "a": "Plonger et faire du kayak dans les Rock Islands, classées à l'Unesco."
+    }
+  ]
+}

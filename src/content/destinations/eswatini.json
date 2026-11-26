@@ -1,0 +1,243 @@
+{
+  "name": "Eswatini",
+  "prep": "en Eswatini",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 149,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Eswatini : réserves, rhinocéros, vallée d'Ezulwini",
+    "description": "Préparer un voyage en Eswatini : sans visa 30 jours, paludisme à l'est, réserves de Mlilwane, Hlane et Mkhaya, vallée d'Ezulwini. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "L'Eswatini (ex-Swaziland) se visite de mai à septembre, en saison sèche, idéale pour les safaris. Pas de visa pour les Français jusqu'à 30 jours, avec un passeport valable plus de 6 mois. Le pays, en vigilance renforcée, est considéré comme globalement sûr. Petit et facile à parcourir, il combine réserves animalières et culture swazie, souvent avec l'Afrique du Sud.",
+  "essentials": {
+    "bestPeriod": "Mai à septembre",
+    "languages": "Anglais et swati",
+    "currency": "Lilangeni (SZL)",
+    "timeDiff": "+1 h en hiver, aucun décalage en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 1,
+      "note": "Chaud et pluvieux."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et frais."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 1,
+      "note": "Chaleur."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour un séjour touristique de 30 jours maximum. Le passeport doit être valable plus de 6 mois après le départ d'Eswatini.",
+    "points": [
+      "Les postes-frontières ne sont pas ouverts 24 h/24 : en général de 7 h à 18 h."
+    ],
+    "source": {
+      "label": "France Diplomatie, Eswatini, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/eswatini/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical. Le certificat de fièvre jaune est exigé si tu arrives d'une zone d'endémie.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Eswatini, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/eswatini/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée. L'Eswatini est considéré comme globalement sûr, mais des agressions, parfois violentes, peuvent se produire.",
+    "points": [
+      "Évite de circuler de nuit et garde peu d'objets de valeur sur toi."
+    ],
+    "source": {
+      "label": "France Diplomatie, Eswatini, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/eswatini/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "ezulwini",
+      "name": "La vallée d'Ezulwini et Mlilwane",
+      "nights": "2 nuits",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "summary": "La vallée centrale, avec la réserve de Mlilwane et les marchés d'artisanat.",
+      "sleep": "En lodge ou camp dans la réserve.",
+      "see": [
+        {
+          "name": "La réserve de Mlilwane",
+          "note": "À pied ou à vélo parmi zèbres et antilopes."
+        },
+        {
+          "name": "Le marché d'artisanat d'Ezulwini",
+          "note": "Bougies, vannerie, tissus."
+        },
+        {
+          "name": "Le rocher de Sibebe",
+          "note": "Un immense dôme de granit, en randonnée."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le musée national de Lobamba",
+          "note": "L'histoire et la culture swazies."
+        }
+      ],
+      "eat": "Le pap (bouillie de maïs) et la viande grillée.",
+      "getAround": "Voiture de location.",
+      "tip": "On roule à gauche."
+    },
+    {
+      "slug": "hlane-mkhaya",
+      "name": "Hlane et Mkhaya",
+      "nights": "2 nuits",
+      "for": [
+        "explorateur",
+        "stratege"
+      ],
+      "summary": "Les réserves de l'est, pour les rhinocéros et les grands animaux.",
+      "sleep": "En camp dans la réserve.",
+      "see": [
+        {
+          "name": "Le parc royal de Hlane",
+          "note": "Éléphants, rhinocéros, lions."
+        },
+        {
+          "name": "La réserve de Mkhaya",
+          "note": "Safaris guidés, rhinocéros noirs et blancs."
+        },
+        {
+          "name": "Les points d'eau",
+          "note": "Observation au lever du jour."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les safaris à pied",
+          "note": "Avec un ranger."
+        }
+      ],
+      "eat": "Les repas du camp.",
+      "getAround": "Voiture ; transferts depuis le camp à Mkhaya.",
+      "tip": "L'est du pays est la zone de paludisme : protège-toi des moustiques."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 5,
+      "title": "Eswatini",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Ezulwini et Mlilwane",
+          "note": "Réserve et artisanat."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Hlane et Mkhaya",
+          "note": "Rhinocéros."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Location de voiture",
+      "text": "Le plus pratique ; on roule à gauche."
+    },
+    {
+      "title": "Minibus",
+      "text": "Entre les villes."
+    },
+    {
+      "title": "Transferts des lodges",
+      "text": "Pour certaines réserves."
+    }
+  ],
+  "culture": [
+    "Le pays est une monarchie : respecte les symboles royaux.",
+    "Les grandes cérémonies traditionnelles ont lieu à des dates fixées chaque année."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour (swati)",
+      "local": "Sawubona"
+    },
+    {
+      "fr": "Merci (swati)",
+      "local": "Ngiyabonga"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois après le départ",
+    "Avis médical (paludisme) pour l'est",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour l'Eswatini ?",
+      "a": "Non, jusqu'à 30 jours, avec un passeport valable plus de 6 mois après le départ."
+    },
+    {
+      "q": "L'Eswatini est-il sûr ?",
+      "a": "Le pays est en vigilance renforcée et considéré comme globalement sûr ; évite de circuler de nuit."
+    }
+  ]
+}

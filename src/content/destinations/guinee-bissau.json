@@ -1,0 +1,243 @@
+{
+  "name": "Guinée-Bissau",
+  "prep": "en Guinée-Bissau",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 154,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Guinée-Bissau : archipel des Bijagos, Bissau",
+    "description": "Préparer un voyage en Guinée-Bissau : visa obligatoire, fièvre jaune obligatoire, paludisme, Bissau, archipel des Bijagos. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Guinée-Bissau se visite de décembre à mai, en saison sèche. Un visa est obligatoire, à demander à l'ambassade, et la vaccination contre la fièvre jaune aussi. Le pays est en vigilance renforcée, et la frontière avec le Sénégal est déconseillée sauf raison impérative. L'archipel des Bijagos, réserve de biosphère, en est le joyau.",
+  "essentials": {
+    "bestPeriod": "Décembre à mai",
+    "languages": "Portugais (officiel), créole",
+    "currency": "Franc CFA (XOF)",
+    "timeDiff": "-1 h en hiver, -2 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un visa est obligatoire, à demander à l'ambassade de Guinée-Bissau à Paris. Il peut parfois être délivré à l'aéroport de Bissau, si ton correspondant a prévenu l'immigration à l'avance, contre paiement en espèces.",
+    "points": [],
+    "source": {
+      "label": "France Diplomatie, Guinée-Bissau, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guinee-bissao/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "La vaccination contre la fièvre jaune est obligatoire. Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, méningite, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Guinée-Bissau, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guinee-bissao/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Le pays est en vigilance renforcée. La zone frontalière avec le Sénégal est déconseillée sauf raison impérative, et des mines subsistent près de la Casamance.",
+    "points": [
+      "Ne t'écarte pas des routes principales goudronnées près de la frontière."
+    ],
+    "source": {
+      "label": "France Diplomatie, Guinée-Bissau, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guinee-bissao/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "bissau",
+      "name": "Bissau",
+      "nights": "2 nuits",
+      "for": [
+        "stratege",
+        "tous"
+      ],
+      "summary": "La capitale, son vieux quartier colonial et son port.",
+      "sleep": "Dans le centre.",
+      "see": [
+        {
+          "name": "Bissau Velho",
+          "note": "Le vieux quartier portugais."
+        },
+        {
+          "name": "La forteresse d'Amura",
+          "note": "Au bord du port."
+        },
+        {
+          "name": "Le marché de Bandim",
+          "note": "Le grand marché."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le carnaval de Bissau",
+          "note": "En février, selon les années."
+        }
+      ],
+      "eat": "Le poisson et le riz au jollof.",
+      "getAround": "Taxi.",
+      "tip": "Garde des espèces : la carte est rarement acceptée."
+    },
+    {
+      "slug": "bijagos",
+      "name": "L'archipel des Bijagos",
+      "nights": "4 nuits",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "Des dizaines d'îles, réserve de biosphère, avec plages, mangroves et faune.",
+      "sleep": "En lodge sur une île.",
+      "see": [
+        {
+          "name": "Orango",
+          "note": "Des hippopotames qui vivent en eau salée."
+        },
+        {
+          "name": "Les plages de Bubaque",
+          "note": "Base pour explorer l'archipel."
+        },
+        {
+          "name": "Les tortues de João Vieira",
+          "note": "Ponte en saison."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les villages bijagos",
+          "note": "Traditions et cérémonies, avec respect."
+        }
+      ],
+      "eat": "Le poisson et les huîtres de mangrove.",
+      "getAround": "Bateau depuis Bissau.",
+      "tip": "Les traversées dépendent de la mer : garde de la marge."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Bissau et les Bijagos",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Bissau",
+          "note": "Capitale."
+        },
+        {
+          "days": "Jours 3 à 7",
+          "place": "Bijagos",
+          "note": "Îles et faune."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Bateau",
+      "text": "Pour les Bijagos."
+    },
+    {
+      "title": "Taxi",
+      "text": "À Bissau."
+    },
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "Pour le continent."
+    }
+  ],
+  "culture": [
+    "Demande avant de photographier les habitants et les cérémonies."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Bom dia"
+    },
+    {
+      "fr": "Merci",
+      "local": "Obrigado"
+    }
+  ],
+  "checklist": [
+    "Passeport",
+    "Visa",
+    "Vaccination fièvre jaune",
+    "Avis médical (paludisme)",
+    "Espèces",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour la Guinée-Bissau ?",
+      "a": "Oui, à demander à l'ambassade avant le départ."
+    },
+    {
+      "q": "Que voir en Guinée-Bissau ?",
+      "a": "L'archipel des Bijagos et le vieux Bissau."
+    }
+  ]
+}

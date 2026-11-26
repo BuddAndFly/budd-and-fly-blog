@@ -1,0 +1,245 @@
+{
+  "name": "Timor oriental",
+  "prep": "au Timor oriental",
+  "kind": "pays",
+  "continent": "Asie",
+  "priority": 163,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Timor oriental : Dili, île d'Atauro, mont Ramelau",
+    "description": "Préparer un voyage au Timor oriental : sans visa 90 jours, paludisme, Dili, plongée à Atauro, lever de soleil au mont Ramelau. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Timor oriental se visite de mai à novembre, en saison sèche. Pas de visa pour moins de 90 jours, avec un passeport valable 6 mois. Le pays est en vigilance renforcée, avec des conditions de sécurité satisfaisantes. Les fonds marins de l'île d'Atauro et le mont Ramelau sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Mai à novembre",
+    "languages": "Tétoum et portugais (officiels)",
+    "currency": "Dollar américain (USD)",
+    "timeDiff": "+8 h en hiver, +7 h en été",
+    "plugs": null,
+    "emergency": "Police 112"
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour un séjour de moins de 90 jours sur 180 jours. Le passeport doit être valable au moins 6 mois après la date d'entrée.",
+    "points": [],
+    "source": {
+      "label": "France Diplomatie, Timor oriental, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/timor-oriental/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical. Dengue, chikungunya et zika peuvent circuler.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, rage, encéphalite japonaise.",
+      "La fièvre jaune peut être exigée si tu arrives d'une zone d'endémie."
+    ],
+    "source": {
+      "label": "France Diplomatie, Timor oriental, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/timor-oriental/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le territoire est en vigilance renforcée. Les conditions de sécurité sont satisfaisantes, en particulier à Dili.",
+    "points": [
+      "Évite les rassemblements et les déplacements de nuit sur les routes de montagne."
+    ],
+    "source": {
+      "label": "France Diplomatie, Timor oriental, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/timor-oriental/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "dili",
+      "name": "Dili et Atauro",
+      "nights": "4 nuits",
+      "for": [
+        "tous",
+        "energique"
+      ],
+      "summary": "La capitale, sa baie, et l'île d'Atauro en face.",
+      "sleep": "À Dili ou sur Atauro.",
+      "see": [
+        {
+          "name": "Le Cristo Rei de Dili",
+          "note": "Une statue au bout de la baie."
+        },
+        {
+          "name": "Le musée de la Résistance",
+          "note": "L'histoire de l'indépendance."
+        },
+        {
+          "name": "L'île d'Atauro",
+          "note": "Snorkeling et plongée."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les plages à l'est de Dili",
+          "note": "Calmes en semaine."
+        }
+      ],
+      "eat": "Le poisson grillé et le café local.",
+      "getAround": "Taxi ; bateau pour Atauro.",
+      "tip": "Vérifie la météo avant la traversée vers Atauro."
+    },
+    {
+      "slug": "ramelau",
+      "name": "Le mont Ramelau",
+      "nights": "1 à 2 nuits",
+      "for": [
+        "explorateur"
+      ],
+      "summary": "Le point culminant du pays, à gravir pour le lever du soleil.",
+      "sleep": "À Hato-Builico, en hébergement simple.",
+      "see": [
+        {
+          "name": "Le lever de soleil au sommet",
+          "note": "Vue sur les deux côtes."
+        },
+        {
+          "name": "Le village de Hato-Builico",
+          "note": "Point de départ."
+        },
+        {
+          "name": "Les routes de montagne",
+          "note": "Paysages de caféiers."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Maubisse",
+          "note": "Un village de montagne sur la route."
+        }
+      ],
+      "eat": "Le café des montagnes.",
+      "getAround": "Voiture avec chauffeur.",
+      "tip": "Pars de nuit pour arriver au sommet au lever du soleil."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Timor oriental",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Dili",
+          "note": "Capitale."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Atauro",
+          "note": "Plongée."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Mont Ramelau",
+          "note": "Lever de soleil."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "Pour la montagne."
+    },
+    {
+      "title": "Microlets (minibus)",
+      "text": "À Dili."
+    },
+    {
+      "title": "Bateau",
+      "text": "Pour Atauro."
+    }
+  ],
+  "culture": [
+    "Le pays est très majoritairement catholique."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour (tétoum)",
+      "local": "Bondia"
+    },
+    {
+      "fr": "Merci (tétoum)",
+      "local": "Obrigadu"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois",
+    "Avis médical (paludisme)",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour le Timor oriental ?",
+      "a": "Non, pour moins de 90 jours sur 180, avec un passeport valable 6 mois."
+    },
+    {
+      "q": "Quand partir au Timor oriental ?",
+      "a": "De mai à novembre, en saison sèche."
+    }
+  ]
+}

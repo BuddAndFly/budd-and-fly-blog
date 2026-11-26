@@ -1,0 +1,234 @@
+{
+  "name": "Libéria",
+  "prep": "au Libéria",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 156,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Libéria : Monrovia, surf à Robertsport, forêts",
+    "description": "Préparer un voyage au Libéria : visa obligatoire, fièvre jaune, paludisme, Monrovia, surf à Robertsport, parc national de Sapo. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Le Libéria se visite de novembre à avril, en saison sèche. Un visa est obligatoire, et la vaccination contre la fièvre jaune est une condition d'entrée. Le pays est en vigilance renforcée, sauf certaines zones frontalières déconseillées. Monrovia, les vagues de Robertsport et les forêts du parc de Sapo sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Novembre à avril",
+    "languages": "Anglais",
+    "currency": "Dollar libérien (LRD)",
+    "timeDiff": "-1 h en hiver, -2 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un visa est obligatoire, à demander à l'ambassade du Libéria compétente, ou en ligne sur le site officiel du Liberia Immigration Service si tu résides dans un pays sans représentation libérienne.",
+    "points": [
+      "Méfie-toi des sites frauduleux : aucun autre site n'est habilité."
+    ],
+    "source": {
+      "label": "France Diplomatie, Libéria, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/liberia/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "La vaccination contre la fièvre jaune est une condition d'entrée. Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, méningite, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Libéria, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/liberia/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Le pays est en vigilance renforcée. Les zones frontalières avec la Sierra Leone et la Côte d'Ivoire, dans plusieurs comtés, sont déconseillées sauf raison impérative.",
+    "points": [
+      "Évite de circuler de nuit."
+    ],
+    "source": {
+      "label": "France Diplomatie, Libéria, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/liberia/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "monrovia",
+      "name": "Monrovia",
+      "nights": "2 nuits",
+      "for": [
+        "stratege"
+      ],
+      "summary": "La capitale, au bord de l'Atlantique.",
+      "sleep": "Dans le quartier de Mamba Point ou Sinkor.",
+      "see": [
+        {
+          "name": "Providence Island",
+          "note": "Lieu historique de l'arrivée des colons."
+        },
+        {
+          "name": "Le musée national",
+          "note": "L'histoire du pays."
+        },
+        {
+          "name": "Les plages de Sinkor",
+          "note": "Au bord de la ville."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le marché de Waterside",
+          "note": "Le grand marché."
+        }
+      ],
+      "eat": "Le riz au jollof et les palm butter soups.",
+      "getAround": "Taxi.",
+      "tip": "Fixe le prix avant la course."
+    },
+    {
+      "slug": "robertsport",
+      "name": "Robertsport",
+      "nights": "3 nuits",
+      "for": [
+        "energique",
+        "lent"
+      ],
+      "summary": "Une petite ville au bord de l'océan, réputée pour ses vagues.",
+      "sleep": "En lodge sur la plage.",
+      "see": [
+        {
+          "name": "Les spots de surf",
+          "note": "Des vagues longues et régulières."
+        },
+        {
+          "name": "Le lac Piso",
+          "note": "Une grande lagune."
+        },
+        {
+          "name": "Les plages",
+          "note": "Désertes."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les villages de pêcheurs",
+          "note": "Le retour des pirogues."
+        }
+      ],
+      "eat": "Le poisson grillé.",
+      "getAround": "Voiture avec chauffeur depuis Monrovia.",
+      "tip": "Loue une planche sur place."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 6,
+      "title": "Monrovia et Robertsport",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Monrovia",
+          "note": "Capitale."
+        },
+        {
+          "days": "Jours 3 à 6",
+          "place": "Robertsport",
+          "note": "Surf et lagune."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "Le plus pratique."
+    },
+    {
+      "title": "Taxi",
+      "text": "En ville."
+    },
+    {
+      "title": "Moto-taxi",
+      "text": "Courant, mais risqué."
+    }
+  ],
+  "culture": [
+    "Le dollar américain circule largement aux côtés du dollar libérien."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport",
+    "Visa",
+    "Vaccination fièvre jaune",
+    "Avis médical (paludisme)",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour le Libéria ?",
+      "a": "Oui, à demander à l'ambassade ou sur le seul site officiel de l'immigration libérienne."
+    },
+    {
+      "q": "Peut-on surfer au Libéria ?",
+      "a": "Oui, Robertsport est réputé pour ses vagues."
+    }
+  ]
+}

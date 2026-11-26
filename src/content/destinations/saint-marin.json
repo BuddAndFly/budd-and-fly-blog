@@ -1,0 +1,242 @@
+{
+  "name": "Saint-Marin",
+  "prep": "à Saint-Marin",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 141,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Saint-Marin : le mont Titano et ses trois tours",
+    "description": "Préparer un séjour à Saint-Marin : carte d'identité, meilleure saison, les trois tours du mont Titano, la vieille ville et Borgo Maggiore. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Saint-Marin se visite d'avril à octobre, en une journée ou un week-end depuis la côte adriatique. Pas de visa : une carte d'identité ou un passeport valides suffisent, et la frontière avec l'Italie est ouverte. Tout le pays est en vigilance normale. La vieille ville et les trois tours du mont Titano, classées à l'Unesco, dominent la plaine jusqu'à la mer.",
+  "essentials": {
+    "bestPeriod": "Avril à octobre",
+    "languages": "Italien",
+    "currency": "Euro (€)",
+    "timeDiff": "Aucun décalage avec la France",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Froid, venteux."
+    },
+    {
+      "rating": 0,
+      "note": "Froid."
+    },
+    {
+      "rating": 1,
+      "note": "Printemps frais."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Très chaud et fréquenté."
+    },
+    {
+      "rating": 1,
+      "note": "Très chaud et fréquenté."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Doux."
+    },
+    {
+      "rating": 1,
+      "note": "Frais."
+    },
+    {
+      "rating": 1,
+      "note": "Marchés de Noël."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour un séjour de 30 jours maximum sur six mois. Saint-Marin n'est pas dans l'espace Schengen, mais la frontière avec l'Italie est ouverte : un passeport ou une carte d'identité valides suffisent.",
+    "points": [
+      "Au-delà de 30 jours, un permis de séjour touristique se demande à la gendarmerie.",
+      "Un mineur voyageant sans ses parents doit avoir une autorisation de sortie du territoire."
+    ],
+    "source": {
+      "label": "France Diplomatie, Saint-Marin, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/saint-marin/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin particulier. En juillet et août, la chaleur peut être forte : hydrate-toi.",
+    "points": [
+      "Consulte ton médecin avant le départ si besoin."
+    ],
+    "source": {
+      "label": "France Diplomatie, Saint-Marin, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/saint-marin/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance normale, comme les régions d'Italie voisines.",
+    "points": [
+      "Attention aux voleurs à la tire : garde une photocopie de tes papiers et les originaux au coffre."
+    ],
+    "source": {
+      "label": "France Diplomatie, Saint-Marin, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/saint-marin/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "citta",
+      "name": "La ville de Saint-Marin",
+      "nights": "1 nuit",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "La vieille ville fortifiée au sommet du mont Titano.",
+      "sleep": "Dans la vieille ville.",
+      "see": [
+        {
+          "name": "Les trois tours (Guaita, Cesta, Montale)",
+          "note": "Reliées par un chemin de crête."
+        },
+        {
+          "name": "Le Palazzo Pubblico",
+          "note": "Le siège du gouvernement."
+        },
+        {
+          "name": "Les remparts",
+          "note": "Vue sur l'Adriatique."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le passage des sorcières",
+          "note": "Le sentier entre les deux premières tours."
+        }
+      ],
+      "eat": "La piadina et la torta Tre Monti.",
+      "getAround": "À pied ; navette ou téléphérique depuis Borgo Maggiore.",
+      "tip": "Monte tôt le matin ou en fin de journée, avant et après les groupes."
+    },
+    {
+      "slug": "borgo-maggiore",
+      "name": "Borgo Maggiore",
+      "nights": "Demi-journée",
+      "for": [
+        "lent"
+      ],
+      "summary": "Le bourg au pied du mont Titano, relié à la vieille ville par un téléphérique.",
+      "sleep": "À Borgo Maggiore ou dans la vieille ville.",
+      "see": [
+        {
+          "name": "Le téléphérique",
+          "note": "Vers la vieille ville."
+        },
+        {
+          "name": "La place du marché",
+          "note": "Le cœur du bourg."
+        },
+        {
+          "name": "Les ruelles",
+          "note": "Plus calmes que la vieille ville."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le sentier vers la vieille ville",
+          "note": "À pied, pour les marcheurs."
+        }
+      ],
+      "eat": "Les spécialités de la région, proches de la Romagne.",
+      "getAround": "Bus et téléphérique.",
+      "tip": "Le téléphérique évite la route en lacets."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 2,
+      "title": "Saint-Marin",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jour 1",
+          "place": "Vieille ville",
+          "note": "Tours et remparts."
+        },
+        {
+          "days": "Jour 2",
+          "place": "Borgo Maggiore",
+          "note": "Téléphérique et marché."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Bus",
+      "text": "Des bus relient Saint-Marin à Rimini."
+    },
+    {
+      "title": "Voiture",
+      "text": "Parkings au pied de la vieille ville."
+    },
+    {
+      "title": "Téléphérique",
+      "text": "Entre Borgo Maggiore et la vieille ville."
+    }
+  ],
+  "culture": [
+    "Saint-Marin se présente comme l'une des plus anciennes républiques du monde."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Buongiorno"
+    },
+    {
+      "fr": "Merci",
+      "local": "Grazie"
+    }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport valide",
+    "Chaussures de marche",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un passeport pour Saint-Marin ?",
+      "a": "Non : une carte d'identité ou un passeport valides suffisent, et la frontière avec l'Italie est ouverte."
+    },
+    {
+      "q": "Combien de temps rester à Saint-Marin ?",
+      "a": "Une journée suffit pour l'essentiel ; une nuit permet de profiter des remparts au calme."
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "name": "Wallis-et-Futuna",
+  "prep": "à Wallis-et-Futuna",
+  "kind": "territoire",
+  "continent": "Océanie",
+  "priority": 169,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Wallis-et-Futuna : lagon, cratères, traditions",
+    "description": "Préparer un voyage à Wallis-et-Futuna : papiers d'identité, santé, lagon de Wallis, lacs de cratère, île de Futuna. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Wallis-et-Futuna, collectivité française du Pacifique, se visite de mai à octobre, en saison sèche. Une carte d'identité suffit pour un Français, mais un passeport est obligatoire si le trajet transite par un pays étranger. Peu touristique, l'archipel se découvre entre lagon, lacs de cratère et traditions coutumières très présentes.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Français, wallisien, futunien",
+    "currency": "Franc pacifique (XPF)",
+    "timeDiff": "+11 h en hiver, +10 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Saison humide, cyclones possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Saison humide."
+    },
+    {
+      "rating": 0,
+      "note": "Saison humide."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison humide."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison humide."
+    },
+    {
+      "rating": 0,
+      "note": "Saison humide."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pour voyager en outre-mer, un Français doit disposer d'un document d'identité en cours de validité ; une carte d'identité suffit.",
+    "points": [
+      "Si ton vol transite par un pays étranger, un passeport en cours de validité est obligatoire, avec les formalités du pays de transit.",
+      "Vérifie l'itinéraire de ton vol avant de partir."
+    ],
+    "source": {
+      "label": "Service-public.gouv.fr, Documents d'identité nécessaires pour voyager en avion (F591)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F591"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Il n'y a pas de transmission de paludisme. Vaccins recommandés : hépatite A ; hépatite B pour les séjours longs ; typhoïde pour les séjours prolongés ou en conditions d'hygiène précaires.",
+    "points": [
+      "Certificat de fièvre jaune exigé si tu arrives d'un pays à risque, y compris après un transit de plus de 12 heures."
+    ],
+    "source": {
+      "label": "Institut Pasteur, Recommandations sanitaires par pays, Wallis-et-Futuna",
+      "url": "https://www.pasteur.fr/fr/votre-sante/voyages-et-sante/recommandations-sanitaires-par-pays/wallis-et-futuna"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": null,
+  "cities": [
+    {
+      "slug": "wallis",
+      "name": "Wallis (Uvea)",
+      "nights": "4 nuits",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "summary": "L'île principale, entourée d'un lagon et d'îlots.",
+      "sleep": "À Mata-Utu ou en pension.",
+      "see": [
+        {
+          "name": "La cathédrale de Mata-Utu",
+          "note": "Un édifice en pierre volcanique."
+        },
+        {
+          "name": "Le lac Lalolalo",
+          "note": "Un lac de cratère aux parois abruptes."
+        },
+        {
+          "name": "Les îlots du lagon",
+          "note": "En bateau."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les sites archéologiques tongiens",
+          "note": "Comme le fort de Talietumu."
+        }
+      ],
+      "eat": "Le poisson cru au lait de coco et le cochon cuit au four traditionnel.",
+      "getAround": "Location de voiture.",
+      "tip": "Demande l'autorisation avant d'entrer sur un terrain coutumier."
+    },
+    {
+      "slug": "futuna",
+      "name": "Futuna et Alofi",
+      "nights": "2 nuits",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "Deux îles montagneuses, encore plus isolées.",
+      "sleep": "En pension.",
+      "see": [
+        {
+          "name": "Les villages de Futuna",
+          "note": "Églises et maisons traditionnelles."
+        },
+        {
+          "name": "L'île d'Alofi",
+          "note": "Plages, en bateau depuis Futuna."
+        },
+        {
+          "name": "Les points de vue",
+          "note": "Sur les montagnes de l'île."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les fêtes coutumières",
+          "note": "Selon le calendrier local."
+        }
+      ],
+      "eat": "Les plats coutumiers.",
+      "getAround": "Petit avion depuis Wallis ; bateau pour Alofi.",
+      "tip": "Les vols sont peu fréquents : réserve tôt."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Wallis-et-Futuna",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 4",
+          "place": "Wallis",
+          "note": "Lagon et lac Lalolalo."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Futuna",
+          "note": "Villages et Alofi."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Location de voiture",
+      "text": "Sur Wallis."
+    },
+    {
+      "title": "Petit avion",
+      "text": "Entre Wallis et Futuna."
+    },
+    {
+      "title": "Bateau",
+      "text": "Pour les îlots et Alofi."
+    }
+  ],
+  "culture": [
+    "La coutume et les rois coutumiers tiennent une place importante.",
+    "Tenue couvrante dans les villages et le dimanche."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour (wallisien)",
+      "local": "Mālō te ma'uli"
+    },
+    {
+      "fr": "Merci (wallisien)",
+      "local": "Mālō"
+    }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport (selon le transit)",
+    "Répulsif anti-moustiques"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un passeport pour Wallis-et-Futuna ?",
+      "a": "Une carte d'identité suffit, sauf si ton vol transite par un pays étranger : un passeport est alors obligatoire."
+    },
+    {
+      "q": "Quand partir à Wallis-et-Futuna ?",
+      "a": "De mai à octobre, en saison sèche."
+    }
+  ]
+}

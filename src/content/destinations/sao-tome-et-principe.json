@@ -1,0 +1,244 @@
+{
+  "name": "Sao Tomé-et-Principe",
+  "prep": "à Sao Tomé-et-Principe",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 153,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Sao Tomé-et-Principe : roças, forêts, plages",
+    "description": "Préparer un voyage à Sao Tomé-et-Principe : sans visa 15 jours, paludisme, roças de cacao, pic Cão Grande, île de Principe. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Sao Tomé-et-Principe se visite de juin à septembre, pendant la saison sèche (la gravana). Pas de visa pour moins de 15 jours, avec un passeport valable 6 mois après le retour. L'archipel est en vigilance renforcée, avec des capacités de secours très limitées. Anciennes plantations de cacao, forêts et plages désertes en font une destination lente et préservée.",
+  "essentials": {
+    "bestPeriod": "Juin à septembre",
+    "languages": "Portugais",
+    "currency": "Dobra (STN)",
+    "timeDiff": "-1 h en hiver, -2 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour un séjour de moins de 15 jours, avec un passeport valable 6 mois après le retour.",
+    "points": [
+      "En transit par le Gabon, prévois un visa gabonais à plusieurs entrées."
+    ],
+    "source": {
+      "label": "France Diplomatie, Sao Tomé-et-Principe, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/sao-tome-et-principe/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical. La fièvre jaune est exigée si tu arrives d'une zone d'endémie.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, rage.",
+      "Les soins sur place sont limités : assurance avec évacuation indispensable."
+    ],
+    "source": {
+      "label": "France Diplomatie, Sao Tomé-et-Principe, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/sao-tome-et-principe/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout l'archipel est en vigilance renforcée. Les capacités d'intervention en cas d'urgence sont inexistantes et le système de santé ne permet pas une prise en charge satisfaisante.",
+    "points": [
+      "Une assurance couvrant l'évacuation sanitaire est indispensable."
+    ],
+    "source": {
+      "label": "France Diplomatie, Sao Tomé-et-Principe, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/sao-tome-et-principe/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "sao-tome",
+      "name": "L'île de Sao Tomé",
+      "nights": "4 nuits",
+      "for": [
+        "tous",
+        "explorateur"
+      ],
+      "summary": "L'île principale, ses roças et sa forêt.",
+      "sleep": "En roça restaurée ou en ville.",
+      "see": [
+        {
+          "name": "Les roças (plantations de cacao)",
+          "note": "Monte Café, Agostinho Neto."
+        },
+        {
+          "name": "Le pic Cão Grande",
+          "note": "Un piton volcanique en forme d'aiguille."
+        },
+        {
+          "name": "Les plages du sud",
+          "note": "Sable doré et cocotiers."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "L'îlot das Rolas",
+          "note": "Traversé par l'équateur."
+        }
+      ],
+      "eat": "Le calulu (ragoût de poisson et légumes) et le chocolat local.",
+      "getAround": "Voiture avec chauffeur.",
+      "tip": "Goûte le cacao et le café des roças."
+    },
+    {
+      "slug": "principe",
+      "name": "L'île de Principe",
+      "nights": "3 nuits",
+      "for": [
+        "lent",
+        "explorateur"
+      ],
+      "summary": "Une île encore plus sauvage, réserve de biosphère de l'Unesco.",
+      "sleep": "En écolodge.",
+      "see": [
+        {
+          "name": "Les plages de Principe",
+          "note": "Désertes et bordées de forêt."
+        },
+        {
+          "name": "La forêt du parc naturel",
+          "note": "Oiseaux endémiques."
+        },
+        {
+          "name": "Santo António",
+          "note": "La plus petite capitale du pays."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les tortues marines",
+          "note": "En saison, avec un guide."
+        }
+      ],
+      "eat": "Le poisson grillé.",
+      "getAround": "Petit avion depuis Sao Tomé.",
+      "tip": "Les vols sont peu nombreux : réserve tôt."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Sao Tomé et Principe",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 4",
+          "place": "Sao Tomé",
+          "note": "Roças et sud de l'île."
+        },
+        {
+          "days": "Jours 5 à 8",
+          "place": "Principe",
+          "note": "Plages et forêt."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "Le plus pratique."
+    },
+    {
+      "title": "Petit avion",
+      "text": "Entre les deux îles."
+    },
+    {
+      "title": "Taxi collectif",
+      "text": "Sur l'île de Sao Tomé."
+    }
+  ],
+  "culture": [
+    "Le rythme de vie est lent : « leve-leve », disent les habitants."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Bom dia"
+    },
+    {
+      "fr": "Merci",
+      "local": "Obrigado"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois après le retour",
+    "Avis médical (paludisme)",
+    "Assurance avec évacuation",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour Sao Tomé-et-Principe ?",
+      "a": "Non pour moins de 15 jours, avec un passeport valable 6 mois après le retour."
+    },
+    {
+      "q": "Quand partir à Sao Tomé ?",
+      "a": "De juin à septembre, pendant la saison sèche."
+    }
+  ]
+}

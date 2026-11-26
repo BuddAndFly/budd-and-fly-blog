@@ -1,0 +1,235 @@
+{
+  "name": "Grenade",
+  "prep": "à la Grenade",
+  "kind": "pays",
+  "continent": "Amérique centrale et Caraïbes",
+  "priority": 144,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Grenade : l'île aux épices, plages, Carriacou",
+    "description": "Préparer un voyage à la Grenade : passeport obligatoire, ouragans, Saint-George's, Grand Anse, parc de sculptures sous-marines, Carriacou. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Grenade, « l'île aux épices », se visite de décembre à avril. Le passeport est obligatoire, valable 6 mois après la sortie ; pas de visa pour moins de 90 jours. Le pays est en vigilance renforcée. Saint-George's, la plage de Grand Anse, la forêt de Grand Etang et l'île de Carriacou composent le séjour.",
+  "essentials": {
+    "bestPeriod": "Décembre à avril",
+    "languages": "Anglais",
+    "currency": "Dollar des Caraïbes orientales (XCD)",
+    "timeDiff": "-5 h en hiver, -6 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison sèche."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison des ouragans."
+    },
+    {
+      "rating": 1,
+      "note": "Saison humide."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison humide."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Le passeport est indispensable, valable au moins 6 mois après la sortie du pays ; la carte d'identité ne suffit pas. Pas de visa pour moins de 90 jours.",
+    "points": [
+      "Au-delà de 90 jours, adresse-toi au bureau de l'immigration."
+    ],
+    "source": {
+      "label": "France Diplomatie, Grenade, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/grenade/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire en arrivant de France ; la vaccination contre la fièvre jaune est exigée si tu arrives d'une zone d'endémie. Protège-toi des moustiques : dengue, chikungunya et zika peuvent circuler.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, typhoïde."
+    ],
+    "source": {
+      "label": "France Diplomatie, Grenade, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/grenade/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée. L'ambassade de France compétente pour la Grenade est à Sainte-Lucie.",
+    "points": [
+      "De juin à fin novembre, des ouragans peuvent toucher les îles : suis les alertes.",
+      "Laisse tes objets de valeur au coffre et évite les endroits isolés la nuit."
+    ],
+    "source": {
+      "label": "France Diplomatie, Grenade, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/grenade/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "saint-georges",
+      "name": "Saint-George's et Grand Anse",
+      "nights": "4 nuits",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "summary": "La capitale, son port en fer à cheval, et la grande plage de Grand Anse.",
+      "sleep": "À Grand Anse ou Saint-George's.",
+      "see": [
+        {
+          "name": "Le port de Saint-George's (Carenage)",
+          "note": "Les maisons colorées autour du port."
+        },
+        {
+          "name": "La plage de Grand Anse",
+          "note": "Une longue plage de sable blanc."
+        },
+        {
+          "name": "Le parc de sculptures sous-marines",
+          "note": "En snorkeling ou plongée."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le marché aux épices",
+          "note": "Muscade, cannelle et cacao."
+        }
+      ],
+      "eat": "L'oil down, plat national, et le chocolat local.",
+      "getAround": "Bus et taxis.",
+      "tip": "Rapporte de la muscade, symbole du pays."
+    },
+    {
+      "slug": "carriacou",
+      "name": "Carriacou",
+      "nights": "2 nuits",
+      "for": [
+        "lent",
+        "explorateur"
+      ],
+      "summary": "Une petite île au nord, au rythme lent.",
+      "sleep": "En pension.",
+      "see": [
+        {
+          "name": "Sandy Island",
+          "note": "Un îlot de sable en bateau."
+        },
+        {
+          "name": "Paradise Beach",
+          "note": "Une plage calme."
+        },
+        {
+          "name": "Les fonds marins",
+          "note": "Snorkeling et plongée."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Petite Martinique",
+          "note": "Une île voisine encore plus petite."
+        }
+      ],
+      "eat": "Le poisson grillé.",
+      "getAround": "Ferry depuis Saint-George's.",
+      "tip": "Vérifie les horaires du ferry."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Grenade et Carriacou",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 4",
+          "place": "Saint-George's et Grand Anse",
+          "note": "Plages, épices, forêt."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Carriacou",
+          "note": "Îlots et snorkeling."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Bus",
+      "text": "Minibus bon marché."
+    },
+    {
+      "title": "Location de voiture",
+      "text": "On roule à gauche."
+    },
+    {
+      "title": "Ferry",
+      "text": "Pour Carriacou."
+    }
+  ],
+  "culture": [
+    "On roule à gauche."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport valable 6 mois après la sortie",
+    "Répulsif anti-moustiques",
+    "Suivi des alertes météo de juin à novembre",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un passeport pour la Grenade ?",
+      "a": "Oui, valable 6 mois après la sortie du pays ; la carte d'identité ne suffit pas."
+    },
+    {
+      "q": "Quand partir à la Grenade ?",
+      "a": "De décembre à avril, hors saison des ouragans."
+    }
+  ]
+}

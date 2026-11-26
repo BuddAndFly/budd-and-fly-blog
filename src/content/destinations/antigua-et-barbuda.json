@@ -1,0 +1,242 @@
+{
+  "name": "Antigua-et-Barbuda",
+  "prep": "à Antigua-et-Barbuda",
+  "kind": "pays",
+  "continent": "Amérique centrale et Caraïbes",
+  "priority": 142,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Antigua-et-Barbuda : plages, English Harbour",
+    "description": "Préparer un voyage à Antigua-et-Barbuda : passeport obligatoire, ouragans, English Harbour, Shirley Heights, plages et Barbuda. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Antigua-et-Barbuda se visite de décembre à avril, hors saison des ouragans. Pas de visa pour moins de 6 mois, mais le passeport est obligatoire : la carte d'identité ne suffit pas. Le pays est en vigilance renforcée. Plages, l'ancien arsenal naval d'English Harbour et la lagune de Barbuda sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Décembre à avril",
+    "languages": "Anglais",
+    "currency": "Dollar des Caraïbes orientales (XCD)",
+    "timeDiff": "-5 h en hiver, -6 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison sèche."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison des ouragans."
+    },
+    {
+      "rating": 1,
+      "note": "Saison humide."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Ouragans possibles."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison humide."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour moins de 6 mois. Il faut un passeport valable au moins 6 mois à l'entrée et un billet retour ; la carte d'identité ne suffit pas.",
+    "points": [
+      "Des justificatifs de ressources peuvent être demandés."
+    ],
+    "source": {
+      "label": "France Diplomatie, Antigua-et-Barbuda, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/antigua-et-barbuda/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire en arrivant de France ; la vaccination contre la fièvre jaune est exigée si tu arrives d'une zone d'endémie. Protège-toi des moustiques : dengue, chikungunya et zika peuvent circuler.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, typhoïde."
+    ],
+    "source": {
+      "label": "France Diplomatie, Antigua-et-Barbuda, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/antigua-et-barbuda/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le pays est en vigilance renforcée. L'ambassade de France compétente pour Antigua-et-Barbuda est à Sainte-Lucie.",
+    "points": [
+      "Quelques disparitions inexpliquées, dont celles d'étrangers, sont recensées chaque année : évite de te promener seul dans les endroits isolés.",
+      "De juin à fin novembre, des ouragans peuvent toucher les îles : suis les alertes.",
+      "Laisse tes objets de valeur au coffre et évite les endroits isolés la nuit."
+    ],
+    "source": {
+      "label": "France Diplomatie, Antigua-et-Barbuda, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/antigua-et-barbuda/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "english-harbour",
+      "name": "English Harbour",
+      "nights": "3 nuits",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "summary": "Le port historique au sud de l'île, avec l'arsenal naval classé à l'Unesco.",
+      "sleep": "À English Harbour ou Falmouth.",
+      "see": [
+        {
+          "name": "Nelson's Dockyard",
+          "note": "L'ancien chantier naval britannique."
+        },
+        {
+          "name": "Shirley Heights",
+          "note": "Point de vue sur les deux baies."
+        },
+        {
+          "name": "Les plages du sud",
+          "note": "Baignade et snorkeling."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les sentiers du parc national",
+          "note": "Entre English Harbour et les falaises."
+        }
+      ],
+      "eat": "Le fungee et le poisson, plat national.",
+      "getAround": "Taxi ou voiture de location.",
+      "tip": "On roule à gauche."
+    },
+    {
+      "slug": "barbuda",
+      "name": "Barbuda",
+      "nights": "1 à 2 nuits",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "L'île sœur, plate et sauvage, avec une immense lagune.",
+      "sleep": "En petite pension.",
+      "see": [
+        {
+          "name": "La lagune de Codrington",
+          "note": "Une colonie de frégates."
+        },
+        {
+          "name": "Les plages de sable rose",
+          "note": "Longues et désertes."
+        },
+        {
+          "name": "Les grottes",
+          "note": "Sur la côte est."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Une excursion d'une journée",
+          "note": "En bateau ou petit avion depuis Antigua."
+        }
+      ],
+      "eat": "Le homard et le poisson.",
+      "getAround": "Bateau ou petit avion depuis Antigua.",
+      "tip": "Réserve l'excursion à la lagune avec un guide local."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Antigua et Barbuda",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 4",
+          "place": "English Harbour",
+          "note": "Histoire et plages."
+        },
+        {
+          "days": "Jours 5 et 6",
+          "place": "Barbuda",
+          "note": "Lagune et plages."
+        },
+        {
+          "days": "Jour 7",
+          "place": "Antigua",
+          "note": "Départ."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Location de voiture",
+      "text": "Permis temporaire local ; on roule à gauche."
+    },
+    {
+      "title": "Taxi",
+      "text": "Tarifs à convenir avant."
+    },
+    {
+      "title": "Bateau ou avion",
+      "text": "Pour Barbuda."
+    }
+  ],
+  "culture": [
+    "On roule à gauche."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport valable 6 mois",
+    "Billet retour",
+    "Répulsif anti-moustiques",
+    "Suivi des alertes météo de juin à novembre",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un passeport pour Antigua ?",
+      "a": "Oui : la carte d'identité ne suffit pas. Le passeport doit être valable 6 mois à l'entrée."
+    },
+    {
+      "q": "Quand partir à Antigua-et-Barbuda ?",
+      "a": "De décembre à avril ; de juin à novembre, c'est la saison des ouragans."
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "name": "Sierra Leone",
+  "prep": "en Sierra Leone",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 155,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Sierra Leone : plages de Freetown, îles, chimpanzés",
+    "description": "Préparer un voyage en Sierra Leone : visa, fièvre jaune obligatoire, paludisme, plages de la péninsule, îles Banana, sanctuaire de Tacugama. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Sierra Leone se visite de novembre à avril, en saison sèche. Un visa est obligatoire, et la vaccination contre la fièvre jaune est une condition d'entrée. Le pays est en vigilance renforcée, sauf la frontière avec le Libéria, déconseillée sauf raison impérative. Les plages de la péninsule de Freetown, les îles Banana et les chimpanzés de Tacugama sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Novembre à avril",
+    "languages": "Anglais (officiel), krio",
+    "currency": "Leone (SLE)",
+    "timeDiff": "-1 h en hiver, -2 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un visa est obligatoire. Il se demande en ligne sur le site de l'immigration ; le visa à l'arrivée à l'aéroport de Freetown reste possible pour les Français.",
+    "points": [
+      "Il n'y a pas d'ambassade de Sierra Leone en France."
+    ],
+    "source": {
+      "label": "France Diplomatie, Sierra Leone, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/sierra-leone/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "La vaccination contre la fièvre jaune est une condition d'entrée. Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, rage.",
+      "Bois de l'eau en bouteille ou rendue potable."
+    ],
+    "source": {
+      "label": "France Diplomatie, Sierra Leone, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/sierra-leone/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Le pays est en vigilance renforcée. La zone frontalière avec le Libéria est déconseillée sauf raison impérative.",
+    "points": [
+      "Évite de circuler de nuit et garde peu d'objets de valeur sur toi."
+    ],
+    "source": {
+      "label": "France Diplomatie, Sierra Leone, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/sierra-leone/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "peninsule",
+      "name": "Freetown et la péninsule",
+      "nights": "4 nuits",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "summary": "La capitale et les plages de la péninsule, au pied des collines.",
+      "sleep": "Sur une plage de la péninsule.",
+      "see": [
+        {
+          "name": "La plage de River Number Two",
+          "note": "Sable blanc et rivière."
+        },
+        {
+          "name": "Les plages de Tokeh et Bureh",
+          "note": "Surf et calme."
+        },
+        {
+          "name": "Le sanctuaire de chimpanzés de Tacugama",
+          "note": "Dans les collines au-dessus de Freetown."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les îles Banana",
+          "note": "En bateau depuis Kent."
+        }
+      ],
+      "eat": "Le poisson grillé et les feuilles de manioc.",
+      "getAround": "Taxi ou voiture avec chauffeur.",
+      "tip": "Réserve la visite de Tacugama à l'avance."
+    },
+    {
+      "slug": "tiwai",
+      "name": "L'île de Tiwai",
+      "nights": "2 nuits",
+      "for": [
+        "explorateur"
+      ],
+      "summary": "Une île forestière sur la rivière Moa, réputée pour ses primates.",
+      "sleep": "En camp sur l'île.",
+      "see": [
+        {
+          "name": "La forêt de Tiwai",
+          "note": "Plusieurs espèces de singes."
+        },
+        {
+          "name": "Les balades en pirogue",
+          "note": "Sur la rivière Moa."
+        },
+        {
+          "name": "Les sentiers de nuit",
+          "note": "Avec un guide."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les villages voisins",
+          "note": "Accueil communautaire."
+        }
+      ],
+      "eat": "Les repas du camp.",
+      "getAround": "Voiture avec chauffeur, puis pirogue.",
+      "tip": "Prévois une longue journée de route."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Sierra Leone",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 4",
+          "place": "Péninsule de Freetown",
+          "note": "Plages et chimpanzés."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Tiwai",
+          "note": "Forêt et rivière."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "Le plus pratique."
+    },
+    {
+      "title": "Taxi",
+      "text": "À Freetown."
+    },
+    {
+      "title": "Bateau",
+      "text": "Pour les îles."
+    }
+  ],
+  "culture": [
+    "Les salutations sont importantes avant toute demande."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport",
+    "Visa",
+    "Vaccination fièvre jaune",
+    "Avis médical (paludisme)",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour la Sierra Leone ?",
+      "a": "Oui, en ligne ; le visa à l'arrivée à Freetown reste possible pour les Français."
+    },
+    {
+      "q": "Quand partir en Sierra Leone ?",
+      "a": "De novembre à avril, en saison sèche."
+    }
+  ]
+}

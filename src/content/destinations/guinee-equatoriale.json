@@ -1,0 +1,243 @@
+{
+  "name": "Guinée équatoriale",
+  "prep": "en Guinée équatoriale",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 151,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Guinée équatoriale : Malabo, Bioko, tortues",
+    "description": "Préparer un voyage en Guinée équatoriale : visa avant le départ, fièvre jaune, paludisme, Malabo, île de Bioko, plages de tortues. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Guinée équatoriale se visite plutôt de décembre à février, pendant la saison sèche sur l'île de Bioko. Un visa est obligatoire et doit être obtenu avant le départ : il n'est pas délivré à l'arrivée. Tout le pays est en vigilance renforcée. Malabo et la nature de l'île de Bioko sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Décembre à février",
+    "languages": "Espagnol et français (officiels)",
+    "currency": "Franc CFA (XAF)",
+    "timeDiff": "Aucun décalage en hiver, -1 h en été",
+    "plugs": null,
+    "emergency": "Police (accident) 113 ou 114"
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un visa est obligatoire, à obtenir avant le départ auprès de l'ambassade ou en ligne sur le site officiel ; il n'est pas possible de l'obtenir à l'arrivée. Le passeport doit être valable au moins 6 mois.",
+    "points": [],
+    "source": {
+      "label": "France Diplomatie, Guinée équatoriale, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guinee-equatoriale/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical. La vaccination contre la fièvre jaune est obligatoire si tu arrives d'une zone d'endémie et fortement recommandée pour tous.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, méningite, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Guinée équatoriale, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guinee-equatoriale/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "L'intégralité du pays est en vigilance renforcée.",
+    "points": [
+      "Tiens-toi à l'écart des rassemblements, notamment près des bâtiments publics.",
+      "Évite de circuler seul et la nuit dans certains quartiers."
+    ],
+    "source": {
+      "label": "France Diplomatie, Guinée équatoriale, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guinee-equatoriale/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "malabo",
+      "name": "Malabo",
+      "nights": "2 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "La capitale, sur l'île de Bioko, et son architecture coloniale.",
+      "sleep": "Dans le centre.",
+      "see": [
+        {
+          "name": "La cathédrale de Malabo",
+          "note": "Un monument emblématique."
+        },
+        {
+          "name": "Le centre colonial",
+          "note": "Ses maisons anciennes."
+        },
+        {
+          "name": "Le front de mer",
+          "note": "Promenade au coucher du soleil."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le pic Basilé",
+          "note": "Le point culminant de Bioko, selon autorisation."
+        }
+      ],
+      "eat": "Le poisson grillé et le pepesoup.",
+      "getAround": "Taxi.",
+      "tip": "Les photos de bâtiments officiels sont mal vues : demande avant."
+    },
+    {
+      "slug": "sud-bioko",
+      "name": "Le sud de Bioko",
+      "nights": "2 nuits",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "Les plages et forêts du sud de l'île, connues pour les tortues marines.",
+      "sleep": "En hébergement simple, avec un guide.",
+      "see": [
+        {
+          "name": "Les plages d'Ureca",
+          "note": "Ponte des tortues en saison."
+        },
+        {
+          "name": "La forêt tropicale",
+          "note": "Primates et oiseaux."
+        },
+        {
+          "name": "Les cascades",
+          "note": "En randonnée."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La caldeira de Luba",
+          "note": "Une zone protégée."
+        }
+      ],
+      "eat": "Les repas simples du village.",
+      "getAround": "Voiture avec chauffeur.",
+      "tip": "Passe par un guide local et respecte les consignes d'observation des tortues."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 5,
+      "title": "Bioko",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Malabo",
+          "note": "Ville coloniale."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Sud de Bioko",
+          "note": "Plages et forêt."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Taxi",
+      "text": "À Malabo."
+    },
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "Pour l'île."
+    },
+    {
+      "title": "Avion",
+      "text": "Vers Bata, sur le continent."
+    }
+  ],
+  "culture": [
+    "L'espagnol est la langue la plus parlée."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Buenos días"
+    },
+    {
+      "fr": "Merci",
+      "local": "Gracias"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois",
+    "Visa obtenu avant le départ",
+    "Vaccination fièvre jaune",
+    "Avis médical (paludisme)",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Peut-on obtenir un visa à l'arrivée en Guinée équatoriale ?",
+      "a": "Non : il doit être obtenu avant le départ, à l'ambassade ou en ligne."
+    },
+    {
+      "q": "Quelle langue parle-t-on en Guinée équatoriale ?",
+      "a": "L'espagnol et le français sont langues officielles ; l'espagnol est le plus courant."
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "name": "Papouasie-Nouvelle-Guinée",
+  "prep": "en Papouasie-Nouvelle-Guinée",
+  "kind": "pays",
+  "continent": "Océanie",
+  "priority": 168,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Papouasie-Nouvelle-Guinée : îles, plongée, cultures",
+    "description": "Préparer un voyage en Papouasie-Nouvelle-Guinée : e-visa, paludisme, zones déconseillées, agences spécialisées, Rabaul et les îles. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Papouasie-Nouvelle-Guinée se visite surtout de mai à octobre. Un e-visa est nécessaire, avec un passeport valable 6 mois. L'insécurité est forte dans les villes, et les Highlands et le Sepik sont fortement déconseillés sauf raison impérative ; France Diplomatie recommande de passer par des agences spécialisées. Plongée, volcans et cultures traditionnelles sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Anglais, tok pisin, hiri motu",
+    "currency": "Kina (PGK)",
+    "timeDiff": "+9 h en hiver, +8 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Saison humide, cyclones possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Saison humide."
+    },
+    {
+      "rating": 0,
+      "note": "Saison humide."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison humide."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison humide."
+    },
+    {
+      "rating": 0,
+      "note": "Saison humide."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un visa est nécessaire pour un séjour de moins de trois mois. Les Français peuvent le demander en ligne sur le portail e-visa officiel (visa touristique de 60 jours). Le passeport doit être valable au moins 6 mois à la fin du séjour.",
+    "points": [],
+    "source": {
+      "label": "France Diplomatie, Papouasie-Nouvelle-Guinée, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/papouasie-nouvelle-guinee/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical. Dengue, chikungunya et zika circulent ; la fièvre jaune est exigée si tu arrives d'une zone d'endémie.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, rage, encéphalite japonaise.",
+      "Assurance avec évacuation indispensable."
+    ],
+    "source": {
+      "label": "France Diplomatie, Papouasie-Nouvelle-Guinée, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/papouasie-nouvelle-guinee/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Grande vigilance dans tous les centres urbains, dont Port Moresby, Lae, Madang, Mount Hagen, Goroka et Alotau. Les Highlands et le Sepik sont fortement déconseillés sauf raison impérative, et seulement avec escorte.",
+    "points": [
+      "Passe par des agences spécialisées et des guides professionnels.",
+      "En ville, déplace-toi en voiture avec des transports de confiance."
+    ],
+    "source": {
+      "label": "France Diplomatie, Papouasie-Nouvelle-Guinée, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/papouasie-nouvelle-guinee/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "rabaul",
+      "name": "Rabaul et Kokopo",
+      "nights": "3 nuits",
+      "for": [
+        "explorateur",
+        "stratege"
+      ],
+      "summary": "La région volcanique de Nouvelle-Bretagne orientale.",
+      "sleep": "À Kokopo.",
+      "see": [
+        {
+          "name": "Le volcan Tavurvur",
+          "note": "Au bord de la baie, selon son activité."
+        },
+        {
+          "name": "Les vestiges de la Seconde Guerre mondiale",
+          "note": "Tunnels et épaves."
+        },
+        {
+          "name": "La baie de Simpson",
+          "note": "Paysages volcaniques."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les sources chaudes",
+          "note": "Au pied du volcan."
+        }
+      ],
+      "eat": "Le mumu (four de pierres) et le poisson.",
+      "getAround": "Avec un opérateur local.",
+      "tip": "Organise tes déplacements avec ton hébergement."
+    },
+    {
+      "slug": "milne-bay",
+      "name": "Les îles de Milne Bay",
+      "nights": "4 nuits",
+      "for": [
+        "lent",
+        "explorateur"
+      ],
+      "summary": "Des îles et récifs au large de la pointe est du pays.",
+      "sleep": "En lodge de plongée.",
+      "see": [
+        {
+          "name": "La plongée",
+          "note": "Récifs et faune marine."
+        },
+        {
+          "name": "Les îles Trobriand",
+          "note": "Cultures traditionnelles, avec un opérateur."
+        },
+        {
+          "name": "Les villages côtiers",
+          "note": "Accueil communautaire."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les danses traditionnelles",
+          "note": "Lors des fêtes locales."
+        }
+      ],
+      "eat": "Le poisson et l'igname.",
+      "getAround": "Avion et bateau, avec un opérateur.",
+      "tip": "Évite de rester en ville à Alotau ; rejoins directement ton lodge."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Îles et volcans",
+      "for": [
+        "explorateur"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Rabaul et Kokopo",
+          "note": "Volcans et histoire."
+        },
+        {
+          "days": "Jours 4 à 8",
+          "place": "Milne Bay",
+          "note": "Plongée et îles."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Vols intérieurs",
+      "text": "Les routes relient peu de villes."
+    },
+    {
+      "title": "Opérateur local",
+      "text": "Fortement recommandé."
+    },
+    {
+      "title": "Bateau",
+      "text": "Pour les îles."
+    }
+  ],
+  "culture": [
+    "Le pays compte plusieurs centaines de langues.",
+    "Demande toujours avant de photographier."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport valable 6 mois",
+    "E-visa",
+    "Avis médical (paludisme)",
+    "Agence spécialisée",
+    "Assurance avec évacuation",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour la Papouasie-Nouvelle-Guinée ?",
+      "a": "Oui, il se demande en ligne sur le portail e-visa officiel."
+    },
+    {
+      "q": "Peut-on voyager seul en Papouasie-Nouvelle-Guinée ?",
+      "a": "France Diplomatie recommande de passer par des agences spécialisées et des guides professionnels, surtout hors des villes."
+    }
+  ]
+}

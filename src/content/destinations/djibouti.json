@@ -1,0 +1,236 @@
+{
+  "name": "Djibouti",
+  "prep": "à Djibouti",
+  "kind": "pays",
+  "continent": "Afrique",
+  "priority": 160,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Djibouti : lac Assal, golfe de Tadjourah, requins-baleines",
+    "description": "Préparer un voyage à Djibouti : visa ou e-visa, paludisme, lac Assal, golfe de Tadjourah, requins-baleines, forêt du Day. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Djibouti se visite de novembre à février, quand la chaleur baisse. Un visa est obligatoire : e-visa, ambassade, ou à l'arrivée selon les cas. On peut circuler librement dans le pays, mais les zones frontalières sont à éviter. Le lac Assal, le golfe de Tadjourah et ses requins-baleines en saison sont les temps forts.",
+  "essentials": {
+    "bestPeriod": "Novembre à février",
+    "languages": "Français et arabe (officiels), afar, somali",
+    "currency": "Franc de Djibouti (DJF)",
+    "timeDiff": "+2 h en hiver, +1 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Doux."
+    },
+    {
+      "rating": 2,
+      "note": "Doux."
+    },
+    {
+      "rating": 1,
+      "note": "Chaleur qui monte."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Chaleur qui baisse."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable ; requins-baleines."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable ; requins-baleines."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un visa est obligatoire. Il s'obtient à l'ambassade, en ligne (e-visa) ou à l'arrivée pour un mois, selon l'appréciation de la compagnie aérienne et de l'immigration.",
+    "points": [
+      "Le plus sûr est de faire l'e-visa avant le départ."
+    ],
+    "source": {
+      "label": "France Diplomatie, Djibouti, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/djibouti/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Le paludisme est présent : protection contre les moustiques et traitement préventif selon avis médical. La fièvre jaune est exigée si tu arrives d'une zone d'endémie. Protège-toi aussi de la chaleur extrême.",
+    "points": [
+      "Vaccins conseillés selon le séjour : typhoïde, rage."
+    ],
+    "source": {
+      "label": "France Diplomatie, Djibouti, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/djibouti/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "On peut circuler librement dans le pays, mais les frontières terrestres et maritimes sont à éviter : la frontière nord avec l'Érythrée est formellement déconseillée.",
+    "points": [
+      "Vigilance dans les lieux publics et ceux fréquentés par les expatriés.",
+      "La navigation au sud de la mer Rouge et dans le golfe d'Aden est fortement déconseillée (piraterie)."
+    ],
+    "source": {
+      "label": "France Diplomatie, Djibouti, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/djibouti/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "djibouti-ville",
+      "name": "Djibouti-ville",
+      "nights": "2 nuits",
+      "for": [
+        "stratege",
+        "tous"
+      ],
+      "summary": "La capitale, son quartier historique et son port.",
+      "sleep": "Dans le centre.",
+      "see": [
+        {
+          "name": "Le quartier historique",
+          "note": "Place Menelik et marchés."
+        },
+        {
+          "name": "Le marché central",
+          "note": "Épices et tissus."
+        },
+        {
+          "name": "Les îles Moucha et Maskali",
+          "note": "En bateau, pour le snorkeling."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La plage de la Siesta",
+          "note": "En fin de journée."
+        }
+      ],
+      "eat": "Le skoudehkaris (riz épicé à l'agneau) et le poisson yéménite.",
+      "getAround": "Taxi.",
+      "tip": "Négocie le prix du taxi avant de monter."
+    },
+    {
+      "slug": "assal-tadjourah",
+      "name": "Le lac Assal et le golfe de Tadjourah",
+      "nights": "3 nuits",
+      "for": [
+        "explorateur",
+        "energique"
+      ],
+      "summary": "Un lac salé sous le niveau de la mer et un golfe riche en vie marine.",
+      "sleep": "En campement ou à Tadjourah.",
+      "see": [
+        {
+          "name": "Le lac Assal",
+          "note": "La banquise de sel, sous le niveau de la mer."
+        },
+        {
+          "name": "Les requins-baleines",
+          "note": "Dans le golfe, de novembre à février environ, avec un opérateur."
+        },
+        {
+          "name": "Tadjourah",
+          "note": "La ville blanche au bord du golfe."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La forêt du Day",
+          "note": "Une forêt d'altitude, rare dans le pays."
+        }
+      ],
+      "eat": "Le poisson grillé.",
+      "getAround": "4x4 avec chauffeur ; bateau.",
+      "tip": "Emporte beaucoup d'eau : la chaleur est extrême autour du lac."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 6,
+      "title": "Djibouti",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Djibouti-ville",
+          "note": "Ville et îles."
+        },
+        {
+          "days": "Jours 3 à 6",
+          "place": "Lac Assal et Tadjourah",
+          "note": "Sel et requins-baleines."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "4x4 avec chauffeur",
+      "text": "Indispensable hors de la capitale."
+    },
+    {
+      "title": "Taxi",
+      "text": "En ville."
+    },
+    {
+      "title": "Bateau",
+      "text": "Pour les îles et le golfe."
+    }
+  ],
+  "culture": [
+    "Pays majoritairement musulman : tenue couvrante hors des plages."
+  ],
+  "phrases": [],
+  "checklist": [
+    "Passeport",
+    "Visa ou e-visa",
+    "Avis médical (paludisme)",
+    "Protection contre la chaleur",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour Djibouti ?",
+      "a": "Oui : e-visa, ambassade, ou à l'arrivée selon les cas. L'e-visa est le plus sûr."
+    },
+    {
+      "q": "Quand voir les requins-baleines à Djibouti ?",
+      "a": "Dans le golfe de Tadjourah, en général de novembre à février, avec un opérateur."
+    }
+  ]
+}

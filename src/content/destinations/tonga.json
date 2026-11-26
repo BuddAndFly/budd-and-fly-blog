@@ -1,0 +1,245 @@
+{
+  "name": "Tonga",
+  "prep": "aux Tonga",
+  "kind": "pays",
+  "continent": "Océanie",
+  "priority": 166,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Tonga : baleines de Vava'u, Tongatapu",
+    "description": "Préparer un voyage aux Tonga : visa gratuit à l'arrivée, baleines à Vava'u, souffleurs de Tongatapu, dimanche sacré. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "Les Tonga se visitent de mai à octobre, en saison sèche ; de juillet à octobre, les baleines à bosse viennent dans les eaux de Vava'u. Un visa gratuit est délivré à l'arrivée. L'archipel est en vigilance renforcée, avec une situation globalement bonne. Le dimanche est consacré au repos et à l'église.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Tongien et anglais",
+    "currency": "Pa'anga (TOP)",
+    "timeDiff": "+12 h en hiver, +11 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Saison humide, cyclones possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Saison humide."
+    },
+    {
+      "rating": 0,
+      "note": "Saison humide."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison humide."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison humide."
+    },
+    {
+      "rating": 0,
+      "note": "Saison humide."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un visa de tourisme gratuit est délivré à l'arrivée, pour 21 à 31 jours, sur présentation d'un passeport valable 6 mois après la fin du séjour et d'un billet retour.",
+    "points": [
+      "Il peut être prolongé, dans la limite de six mois au total, contre une taxe."
+    ],
+    "source": {
+      "label": "France Diplomatie, Tonga, Entrée / séjour (mise à jour du 18 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tonga/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire. Protège-toi des moustiques : dengue, chikungunya et zika peuvent circuler.",
+    "points": [
+      "Vaccin conseillé selon le séjour : typhoïde."
+    ],
+    "source": {
+      "label": "France Diplomatie, Tonga, Santé (mise à jour du 18 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tonga/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "L'archipel est en vigilance renforcée. La situation est globalement bonne, mais des actes criminels et des agressions sexuelles sur des étrangers ont été rapportés.",
+    "points": [
+      "Évite de te déplacer seule la nuit.",
+      "De novembre à avril, saison des cyclones : suis les alertes."
+    ],
+    "source": {
+      "label": "France Diplomatie, Tonga, Sécurité (mise à jour du 18 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tonga/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "tongatapu",
+      "name": "Tongatapu",
+      "nights": "2 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "L'île principale, avec la capitale Nuku'alofa.",
+      "sleep": "À Nuku'alofa ou sur la côte.",
+      "see": [
+        {
+          "name": "Les souffleurs de Mapu'a 'a Vaea",
+          "note": "Des jets d'eau le long des falaises."
+        },
+        {
+          "name": "Le trilithe de Ha'amonga",
+          "note": "Un monument de pierre ancien."
+        },
+        {
+          "name": "Le palais royal",
+          "note": "Vu de l'extérieur."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le marché de Talamahu",
+          "note": "Fruits et artisanat."
+        }
+      ],
+      "eat": "L'ota 'ika (poisson cru mariné) et le cochon de lait.",
+      "getAround": "Location de voiture ou taxi.",
+      "tip": "Le dimanche, presque tout est fermé : prévois tes repas."
+    },
+    {
+      "slug": "vavau",
+      "name": "Vava'u",
+      "nights": "4 nuits",
+      "for": [
+        "lent",
+        "explorateur"
+      ],
+      "summary": "Un archipel de collines et de baies, réputé pour les baleines et la voile.",
+      "sleep": "À Neiafu ou sur une île.",
+      "see": [
+        {
+          "name": "Les baleines à bosse",
+          "note": "De juillet à octobre, avec un opérateur agréé."
+        },
+        {
+          "name": "La voile entre les îles",
+          "note": "Des mouillages abrités."
+        },
+        {
+          "name": "Les grottes marines",
+          "note": "Swallows Cave et Mariner's Cave."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les plages des îlots",
+          "note": "En bateau."
+        }
+      ],
+      "eat": "Le poisson et les fruits tropicaux.",
+      "getAround": "Avion ou ferry depuis Tongatapu.",
+      "tip": "Choisis un opérateur qui respecte les règles d'approche des baleines."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 8,
+      "title": "Tonga",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Tongatapu",
+          "note": "Souffleurs et trilithe."
+        },
+        {
+          "days": "Jours 3 à 8",
+          "place": "Vava'u",
+          "note": "Baleines et voile."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Vols intérieurs",
+      "text": "Entre les îles."
+    },
+    {
+      "title": "Ferry",
+      "text": "Plus lent."
+    },
+    {
+      "title": "Location de voiture",
+      "text": "Permis local ; on roule à gauche."
+    }
+  ],
+  "culture": [
+    "Le dimanche est sacré : pas de baignade ni d'activités bruyantes dans beaucoup d'endroits.",
+    "Tenue couvrante hors des plages."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Mālō e lelei"
+    },
+    {
+      "fr": "Merci",
+      "local": "Mālō"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois après le séjour",
+    "Billet retour",
+    "Répulsif anti-moustiques",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un visa pour les Tonga ?",
+      "a": "Un visa gratuit est délivré à l'arrivée, avec un passeport valable 6 mois et un billet retour."
+    },
+    {
+      "q": "Quand voir les baleines aux Tonga ?",
+      "a": "De juillet à octobre, à Vava'u."
+    }
+  ]
+}
