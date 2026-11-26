@@ -27,9 +27,8 @@
     "languages": "Vietnamien (anglais dans les lieux touristiques)",
     "currency": "Dong (VND)",
     "timeDiff": "+6 h en hiver, +5 h en été",
-    "plugs": "Types A et C principalement, 220 V : adaptateur conseillé",
-    "emergency": "Police 113",
-    "flight": "Environ 12 h en vol direct depuis Paris"
+    "plugs": null,
+    "emergency": "Police 113"
   },
   "months": [
     {

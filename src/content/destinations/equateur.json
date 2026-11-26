@@ -18,10 +18,9 @@
     "bestPeriod": "Juin à septembre (Andes), toute l'année (Galápagos)",
     "languages": "Espagnol, quechua",
     "currency": "Dollar américain (USD)",
-    "timeDiff": "-6 h en hiver, -7 h en été",
-    "plugs": "Types A et B, 120 V : adaptateur nécessaire",
-    "emergency": null,
-    "flight": "Environ 12 h depuis Paris pour Quito, avec une escale"
+    "timeDiff": "Continent : -6 h en hiver, -7 h en été · Galápagos : -7 h en hiver, -8 h en été",
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

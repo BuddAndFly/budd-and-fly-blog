@@ -27,9 +27,8 @@
     "languages": "Anglais, mandarin, malais, tamoul",
     "currency": "Dollar de Singapour (SGD)",
     "timeDiff": "+7 h en hiver, +6 h en été",
-    "plugs": "Type G (trois broches), 230 V : adaptateur nécessaire",
-    "emergency": null,
-    "flight": "Environ 13 h en vol direct depuis Paris"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {
@@ -314,7 +313,6 @@
   "checklist": [
     "Passeport valable 6 mois après le départ de Singapour",
     "Billet retour ou de continuation",
-    "Adaptateur de prise type G",
     "Répulsif anti-moustiques",
     "Vêtements légers et une petite veste pour la climatisation"
   ],

@@ -26,10 +26,9 @@
     "bestPeriod": "Mai à septembre",
     "languages": "Slovène (anglais très bien parlé)",
     "currency": "Euro (EUR)",
-    "timeDiff": "Aucun",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112 · Police 113",
-    "flight": "Environ 1 h 50 depuis Paris pour Ljubljana"
+    "timeDiff": "Aucun décalage avec la France",
+    "plugs": null,
+    "emergency": "112 · Police 113"
   },
   "months": [
     {

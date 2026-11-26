@@ -27,9 +27,8 @@
     "languages": "Français, néerlandais et allemand selon les régions",
     "currency": "Euro (€)",
     "timeDiff": "Aucun décalage avec la France",
-    "plugs": "Type E, 230 V : comme en France",
-    "emergency": "112 (accident grave : 100 ou 101)",
-    "flight": "Environ 1 h 25 en train de Paris à Bruxelles"
+    "plugs": null,
+    "emergency": "112 (accident grave : 100 ou 101)"
   },
   "months": [
     {

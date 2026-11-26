@@ -19,9 +19,8 @@
     "languages": "Malgache et français",
     "currency": "Ariary (MGA)",
     "timeDiff": "+2 h en hiver, +1 h en été",
-    "plugs": "Types C et E, 220 V : comme en France",
-    "emergency": null,
-    "flight": "Environ 11 h en vol direct depuis Paris pour Antananarivo"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

@@ -27,9 +27,8 @@
     "languages": "Bosnien, croate et serbe (anglais compris chez les jeunes)",
     "currency": "Mark convertible (BAM, KM)",
     "timeDiff": "Aucun décalage avec la France",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "122",
-    "flight": "Environ 2 h 30 depuis Paris pour Sarajevo, souvent avec escale ; ou par Split et Dubrovnik"
+    "plugs": null,
+    "emergency": "122"
   },
   "months": [
     {

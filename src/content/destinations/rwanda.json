@@ -19,9 +19,8 @@
     "languages": "Kinyarwanda, anglais, français, swahili",
     "currency": "Franc rwandais (RWF)",
     "timeDiff": "+1 h en hiver, aucun décalage en été",
-    "plugs": "Types C et J, 230 V : adaptateur conseillé",
-    "emergency": null,
-    "flight": "Environ 8 h 30 depuis Paris pour Kigali, en direct ou avec une escale"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {
@@ -326,10 +325,6 @@
     {
       "q": "Le Rwanda est-il sûr ?",
       "a": "Le pays est en vigilance renforcée ; le principal risque est routier. Sois prudent près des frontières congolaise et burundaise."
-    },
-    {
-      "q": "Combien coûte le permis gorilles au Rwanda ?",
-      "a": "Plus de 1 000 $ par personne au parc des Volcans : vérifie le tarif officiel avant de réserver."
     }
   ]
 }

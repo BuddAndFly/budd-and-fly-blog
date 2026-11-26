@@ -27,9 +27,8 @@
     "languages": "Allemand, français, italien et romanche selon les régions",
     "currency": "Franc suisse (CHF)",
     "timeDiff": "Aucun décalage avec la France",
-    "plugs": "Type J (les fiches plates françaises type C rentrent, pas les fiches rondes à terre) : adaptateur conseillé",
-    "emergency": null,
-    "flight": "Environ 3 h 10 en train de Paris à Genève ou Bâle"
+    "plugs": null,
+    "emergency": "Police 117"
   },
   "months": [
     {
@@ -349,7 +348,6 @@
     "Carte d'identité ou passeport (même périmé depuis moins de 5 ans)",
     "Assurance couvrant les frais médicaux et les secours en montagne",
     "Pass de transport ou carte demi-tarif",
-    "Adaptateur de prise type J",
     "Vignette autoroutière si tu viens en voiture"
   ],
   "faq": [

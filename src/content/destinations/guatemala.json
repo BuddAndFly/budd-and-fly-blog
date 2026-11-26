@@ -27,9 +27,8 @@
     "languages": "Espagnol et langues mayas",
     "currency": "Quetzal (GTQ)",
     "timeDiff": "-7 h en hiver, -8 h en été",
-    "plugs": "Types A et B, 120 V : adaptateur nécessaire",
-    "emergency": "Police 110 ou 120 · Police touristique 1500",
-    "flight": "Environ 13 h depuis Paris pour Guatemala Ciudad, avec une escale"
+    "plugs": null,
+    "emergency": "Police 110 ou 120 · Police touristique 1500"
   },
   "months": [
     {

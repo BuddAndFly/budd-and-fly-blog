@@ -27,9 +27,8 @@
     "languages": "Mandarin et taïwanais (anglais dans les transports)",
     "currency": "Nouveau dollar de Taïwan (TWD)",
     "timeDiff": "+7 h en hiver, +6 h en été",
-    "plugs": "Types A et B, 110 V : adaptateur nécessaire",
-    "emergency": "Police 110 · Pompiers et ambulance 119",
-    "flight": "Environ 14 h depuis Paris pour Taipei, en direct ou avec une escale"
+    "plugs": null,
+    "emergency": "Police 110 · Pompiers et ambulance 119"
   },
   "months": [
     {
@@ -347,7 +346,6 @@
   "checklist": [
     "Passeport valable plus de 6 mois et billet retour",
     "Taiwan Arrival Card remplie en ligne",
-    "Adaptateur de prise et vérifier la tension (110 V)",
     "Carte EasyCard",
     "Suivi des typhons en été"
   ],

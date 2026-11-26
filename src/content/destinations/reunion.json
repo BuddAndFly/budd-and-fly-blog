@@ -19,9 +19,8 @@
     "languages": "Français et créole réunionnais",
     "currency": "Euro (€)",
     "timeDiff": "+3 h en hiver, +2 h en été",
-    "plugs": "Types C et E, 230 V",
-    "emergency": null,
-    "flight": "Environ 11 h en vol direct depuis Paris"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

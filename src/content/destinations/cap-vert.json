@@ -21,15 +21,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:Santo_Antao_Fischerboote_IMG_4319a.jpg"
     }
   },
-  "summary": "Le Cap-Vert est ensoleillé presque toute l'année, à 6 h de vol de Paris. Les Français doivent avoir un passeport valide 3 mois après le séjour, et se pré-enregistrer en ligne au moins 5 jours avant l'arrivée en payant une taxe de sécurité aéroportuaire. Chaque île est différente : plages à Sal et Boa Vista, randonnées à Santo Antão, volcan à Fogo, musique à Mindelo.",
+  "summary": "Le Cap-Vert est ensoleillé presque toute l'année. Les Français doivent avoir un passeport valide 3 mois après le séjour, et se pré-enregistrer en ligne au moins 5 jours avant l'arrivée en payant une taxe de sécurité aéroportuaire. Chaque île est différente : plages à Sal et Boa Vista, randonnées à Santo Antão, volcan à Fogo, musique à Mindelo.",
   "essentials": {
     "bestPeriod": "Novembre à juin",
     "languages": "Portugais et créole capverdien (le français est assez compris)",
     "currency": "Escudo capverdien (CVE), à parité fixe avec l'euro ; l'euro est souvent accepté",
-    "timeDiff": "−2 h en hiver, −3 h en été",
-    "plugs": "Types C et F, 220 V : comme en France",
-    "emergency": null,
-    "flight": "Environ 6 h en vol direct depuis Paris pour Sal ou Boa Vista"
+    "timeDiff": "-2 h en hiver, -3 h en été",
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

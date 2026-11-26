@@ -26,10 +26,9 @@
     "bestPeriod": "Mai-juin, septembre",
     "languages": "Monténégrin (anglais assez parlé dans les lieux touristiques)",
     "currency": "Euro (EUR)",
-    "timeDiff": "Aucun",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112 · Police 122 · Pompiers 123 · Ambulance 124",
-    "flight": "Environ 2 h 30 depuis Paris pour Tivat ou Podgorica (vols surtout en saison)"
+    "timeDiff": "Aucun décalage avec la France",
+    "plugs": null,
+    "emergency": "112 · Police 122 · Pompiers 123 · Ambulance 124"
   },
   "months": [
     {

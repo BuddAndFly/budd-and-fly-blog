@@ -27,9 +27,8 @@
     "languages": "Allemand (anglais largement parlé)",
     "currency": "Euro (€)",
     "timeDiff": "Aucun décalage avec la France",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112 · SAMU 144 · Police 133 · Médecin de garde 141",
-    "flight": "Environ 2 h depuis Paris pour Vienne ; train de nuit Paris-Vienne"
+    "plugs": null,
+    "emergency": "112 · SAMU 144 · Police 133 · Médecin de garde 141"
   },
   "months": [
     {

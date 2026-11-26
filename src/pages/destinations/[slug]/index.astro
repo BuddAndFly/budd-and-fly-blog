@@ -56,8 +56,8 @@ const essentials = [
   ['Entrée (Français)', g.entry.text.split('.')[0]],
   ['Langue', g.essentials.languages],
   ['Monnaie', g.essentials.currency],
-  ['Décalage avec Paris', g.essentials.timeDiff],
-  ['Prises', g.essentials.plugs],
+  ...(g.essentials.timeDiff ? [['Décalage avec Paris', g.essentials.timeDiff]] : []),
+  ...(g.essentials.plugs ? [['Prises', g.essentials.plugs]] : []),
   ...(g.essentials.flight ? [['Vol', g.essentials.flight]] : []),
   ...(g.essentials.emergency ? [['Urgences', g.essentials.emergency]] : []),
 ] as [string, string][];

@@ -37,7 +37,7 @@ Le pays attire des records de visiteurs, mais Tokyo et Kyoto concentrent la foul
 
 ## Le Cap-Vert
 
-Le soleil à environ 6 heures de vol, la randonnée à Santo Antão et la musique. [Guide Cap-Vert](/destinations/cap-vert/)
+Le soleil presque toute l'année, la randonnée à Santo Antão et la musique. [Guide Cap-Vert](/destinations/cap-vert/)
 
 ## Le Sri Lanka
 

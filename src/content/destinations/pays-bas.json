@@ -27,9 +27,8 @@
     "languages": "Néerlandais (anglais parlé presque partout)",
     "currency": "Euro (€)",
     "timeDiff": "Aucun décalage avec la France",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112",
-    "flight": "Environ 3 h 20 en train direct de Paris à Amsterdam, 1 h 15 en avion"
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {

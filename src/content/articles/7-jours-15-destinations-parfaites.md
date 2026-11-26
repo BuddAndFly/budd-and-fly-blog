@@ -44,7 +44,7 @@ destinations: ["portugal", "japon", "pays-bas", "jordanie", "slovenie", "irlande
 
 13. **Oman** : déserts et wadis sous un soleil doux. Vérifie les zones déconseillées. [Guide](/destinations/oman/)
 14. **Égypte** : les temples de la vallée du Nil. [Guide](/destinations/egypte/)
-15. **Cap-Vert** : du soleil à environ 6 h de vol. [Guide](/destinations/cap-vert/)
+15. **Cap-Vert** : du soleil presque toute l'année. [Guide](/destinations/cap-vert/)
 
 ## Faire tenir le voyage en 7 jours
 

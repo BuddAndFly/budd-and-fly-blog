@@ -18,10 +18,9 @@
     "bestPeriod": "Juin à octobre",
     "languages": "Anglais et français (Québec, Nouveau-Brunswick)",
     "currency": "Dollar canadien (CAD)",
-    "timeDiff": "-6 h à Montréal, -9 h à Vancouver",
-    "plugs": "Types A et B, 120 V : adaptateur nécessaire",
-    "emergency": null,
-    "flight": "Environ 7 h 30 depuis Paris pour Montréal, 10 h 30 pour Vancouver"
+    "timeDiff": "Montréal : -6 h toute l'année · Vancouver : -8 h en hiver, -9 h en été",
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {
@@ -358,7 +357,6 @@
     "AVE demandée sur le site officiel",
     "Assurance santé et rapatriement",
     "Permis de conduire",
-    "Adaptateur de prise",
     "Répulsif anti-moustiques en été"
   ],
   "faq": [

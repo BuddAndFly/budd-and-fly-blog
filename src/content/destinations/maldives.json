@@ -19,9 +19,8 @@
     "languages": "Divehi (anglais répandu)",
     "currency": "Rufiyaa (MVR) ; dollars acceptés partout dans le tourisme",
     "timeDiff": "+4 h en hiver, +3 h en été",
-    "plugs": "Types D et G, 230 V : adaptateur nécessaire",
-    "emergency": null,
-    "flight": "Environ 10 à 12 h depuis Paris pour Malé, avec une escale"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

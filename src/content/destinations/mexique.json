@@ -26,10 +26,9 @@
     "bestPeriod": "Novembre à mars",
     "languages": "Espagnol",
     "currency": "Peso mexicain (MXN)",
-    "timeDiff": "Mexico : −7 h en hiver, −8 h en été · Cancún : −6 h en hiver, −7 h en été",
-    "plugs": "Types A et B, 127 V : adaptateur nécessaire",
-    "emergency": "911 · Assistance touristique 078",
-    "flight": "Environ 11 h 30 en vol direct depuis Paris pour Mexico ou Cancún"
+    "timeDiff": "Mexico : -7 h en hiver, -8 h en été · Cancún : -6 h en hiver, -7 h en été",
+    "plugs": null,
+    "emergency": "911 · Assistance touristique 078"
   },
   "months": [
     {
@@ -439,7 +438,6 @@
     "Itinéraire vérifié sur la carte de vigilance de France Diplomatie",
     "Assurance santé et rapatriement",
     "Répulsif anti-moustiques",
-    "Adaptateur de prise type A",
     "Inscription sur Ariane"
   ],
   "faq": [

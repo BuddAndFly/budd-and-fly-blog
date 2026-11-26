@@ -27,9 +27,8 @@
     "languages": "Japonais (anglais limité hors des grandes villes)",
     "currency": "Yen (JPY)",
     "timeDiff": "+8 h en hiver, +7 h en été",
-    "plugs": "Type A, 100 V : adaptateur nécessaire",
-    "emergency": null,
-    "flight": "Environ 14 h en vol direct depuis Paris"
+    "plugs": null,
+    "emergency": "Accident : 119"
   },
   "months": [
     {
@@ -541,7 +540,6 @@
     "Assurance couvrant frais médicaux, hospitalisation et rapatriement",
     "Ordonnance en DCI pour tes médicaments, autorisation si codéine ou morphine",
     "Aucune charcuterie ni produit à base de viande dans les bagages",
-    "Adaptateur de prise type A",
     "Carte de transport Suica dans le téléphone ou achetée à l'arrivée",
     "Un peu de yens en espèces",
     "Traduction JAF du permis si tu veux conduire",

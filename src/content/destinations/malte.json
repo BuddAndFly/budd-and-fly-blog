@@ -26,10 +26,9 @@
     "bestPeriod": "Avril à juin, septembre-octobre",
     "languages": "Maltais et anglais (l'italien est souvent compris)",
     "currency": "Euro (EUR)",
-    "timeDiff": "Aucun",
-    "plugs": "Type G (trois broches), 230 V : adaptateur nécessaire",
-    "emergency": "112",
-    "flight": "Environ 2 h 40 depuis Paris"
+    "timeDiff": "Aucun décalage avec la France",
+    "plugs": "Type G, comme au Royaume-Uni : adaptateur conseillé",
+    "emergency": "112"
   },
   "months": [
     {
@@ -406,7 +405,7 @@
   "checklist": [
     "Carte d'identité ou passeport en cours de validité",
     "Carte européenne d'assurance maladie",
-    "Adaptateur de prise type G",
+    "Adaptateur de prise type G (conseillé par France Diplomatie)",
     "Hypogée réservée des mois à l'avance si tu veux la voir",
     "Réservation pour le lagon bleu en saison",
     "Logement réservé sur une plateforme fiable, sans paiement intégral à l'avance"

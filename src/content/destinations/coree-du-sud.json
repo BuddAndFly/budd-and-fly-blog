@@ -27,9 +27,8 @@
     "languages": "Coréen (anglais sur les panneaux et dans les transports)",
     "currency": "Won sud-coréen (KRW)",
     "timeDiff": "+8 h en hiver, +7 h en été",
-    "plugs": "Types C et F, 220 V : comme en France",
-    "emergency": null,
-    "flight": "Environ 13 h en vol direct depuis Paris pour Séoul"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

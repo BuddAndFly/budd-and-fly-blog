@@ -1,6 +1,6 @@
 ---
 title: "Europe secrète : 12 pépites à quelques heures de vol"
-seoTitle: "Europe méconnue : 12 destinations à moins de 3 h de vol"
+seoTitle: "Europe méconnue : 12 destinations dépaysantes près de chez soi"
 description: "12 destinations européennes moins connues à quelques heures de Paris, des Balkans aux pays baltes, avec la meilleure saison et le lien vers chaque guide."
 category: "Idées de voyage"
 status: "valide"
@@ -17,7 +17,7 @@ hero:
 destinations: ["albanie", "montenegro", "macedoine-du-nord", "bosnie-herzegovine", "serbie", "roumanie", "bulgarie", "slovaquie", "slovenie", "estonie", "lettonie", "lituanie"]
 ---
 
-**Pas besoin de partir loin pour se sentir dépaysé.** À quelques heures de vol de Paris, ces douze destinations européennes offrent villes historiques, montagnes et côtes sauvages, souvent à des prix plus doux que les grands classiques.
+**Pas besoin de partir loin pour se sentir dépaysé.** À quelques heures de vol de Paris, ces douze destinations européennes offrent villes historiques, montagnes et côtes sauvages.
 
 ## Dans les Balkans
 

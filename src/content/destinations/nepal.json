@@ -19,9 +19,8 @@
     "languages": "Népali (anglais compris dans le tourisme)",
     "currency": "Roupie népalaise (NPR)",
     "timeDiff": "+4 h 45 en hiver, +3 h 45 en été",
-    "plugs": "Types C, D et M, 230 V : adaptateur conseillé",
-    "emergency": null,
-    "flight": "Environ 12 h depuis Paris pour Katmandou, avec une escale"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

@@ -19,9 +19,8 @@
     "languages": "Espagnol",
     "currency": "Peso dominicain (DOP)",
     "timeDiff": "-5 h en hiver, -6 h en été",
-    "plugs": "Types A et B, 110 V : adaptateur nécessaire",
-    "emergency": "911",
-    "flight": "Environ 9 h depuis Paris pour Punta Cana ou Saint-Domingue"
+    "plugs": null,
+    "emergency": "911"
   },
   "months": [
     {
@@ -297,7 +296,6 @@
   "checklist": [
     "Passeport valide",
     "E-ticket rempli (QR code) pour l'entrée et la sortie",
-    "Adaptateur de prise",
     "Répulsif anti-moustiques",
     "Inscription sur Ariane"
   ],

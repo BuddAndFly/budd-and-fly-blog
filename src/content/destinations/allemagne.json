@@ -27,9 +27,8 @@
     "languages": "Allemand (anglais largement parlé)",
     "currency": "Euro (€)",
     "timeDiff": "Aucun décalage avec la France",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112",
-    "flight": "1 h 30 environ depuis Paris ; Berlin en 8 h de train direct, Francfort en 4 h"
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {

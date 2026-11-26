@@ -19,9 +19,8 @@
     "languages": "Anglais et swahili, luganda",
     "currency": "Shilling ougandais (UGX) ; dollars pour les permis",
     "timeDiff": "+2 h en hiver, +1 h en été",
-    "plugs": "Type G (trois broches), 240 V : adaptateur nécessaire",
-    "emergency": "Police 999 ou 112",
-    "flight": "Environ 9 h depuis Paris pour Entebbe, avec une escale"
+    "plugs": null,
+    "emergency": "Police 999 ou 112"
   },
   "months": [
     {

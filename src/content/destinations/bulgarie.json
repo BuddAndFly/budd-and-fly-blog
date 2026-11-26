@@ -27,9 +27,8 @@
     "languages": "Bulgare (alphabet cyrillique ; anglais compris chez les jeunes)",
     "currency": "Euro (€) depuis le 1er janvier 2026",
     "timeDiff": "+1 h toute l'année",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112",
-    "flight": "Environ 3 h depuis Paris pour Sofia ; vols d'été vers Varna et Bourgas"
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {

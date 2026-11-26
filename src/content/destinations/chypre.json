@@ -26,10 +26,9 @@
     "bestPeriod": "Avril à juin, septembre-octobre",
     "languages": "Grec et turc (anglais parlé partout)",
     "currency": "Euro (EUR) au sud ; livre turque utilisée au nord",
-    "timeDiff": "+1 h",
-    "plugs": "Type G (trois broches), 240 V : adaptateur nécessaire",
-    "emergency": "112",
-    "flight": "Environ 4 h 15 depuis Paris pour Larnaca ou Paphos"
+    "timeDiff": "+1 h toute l'année",
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {
@@ -371,7 +370,6 @@
     "Carte d'identité ou passeport en cours de validité",
     "Carte européenne d'assurance maladie, demandée 15 jours avant",
     "Vol vers Larnaca ou Paphos plutôt qu'Ercan",
-    "Adaptateur de prise type G",
     "Assurance de location valable au nord si tu y vas en voiture"
   ],
   "faq": [

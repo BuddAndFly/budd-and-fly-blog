@@ -19,9 +19,8 @@
     "languages": "Anglais, shona, ndébélé",
     "currency": "Dollar américain très utilisé, à côté de la monnaie locale (ZiG)",
     "timeDiff": "+1 h en hiver, aucun décalage en été",
-    "plugs": "Types D et G, 220 V : adaptateur nécessaire",
-    "emergency": null,
-    "flight": "Environ 13 h depuis Paris pour Victoria Falls ou Harare, avec une escale"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

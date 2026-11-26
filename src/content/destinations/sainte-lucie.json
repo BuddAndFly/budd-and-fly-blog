@@ -19,9 +19,8 @@
     "languages": "Anglais et créole (kwéyòl), proche du créole antillais",
     "currency": "Dollar des Caraïbes orientales (XCD) ; dollars américains acceptés",
     "timeDiff": "-5 h en hiver, -6 h en été",
-    "plugs": "Type G (trois broches), 230 V : adaptateur nécessaire",
-    "emergency": null,
-    "flight": "Environ 9 h depuis Paris, souvent via la Martinique (ferry ou court vol)"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {
@@ -262,7 +261,6 @@
     "Carte d'identité valide (pas de carte à date dépassée) ou passeport",
     "Assurance hospitalisation et évacuation",
     "Chauffeurs organisés avec l'hébergement",
-    "Adaptateur type G",
     "Inscription sur Ariane"
   ],
   "faq": [

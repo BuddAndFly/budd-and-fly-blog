@@ -19,9 +19,8 @@
     "languages": "Anglais, fidjien, hindi des Fidji",
     "currency": "Dollar fidjien (FJD)",
     "timeDiff": "+11 h en hiver, +10 h en été",
-    "plugs": "Type I, 240 V : adaptateur nécessaire",
-    "emergency": null,
-    "flight": "Environ 24 h depuis Paris pour Nadi, avec une ou deux escales"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

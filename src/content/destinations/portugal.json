@@ -26,10 +26,9 @@
     "bestPeriod": "Avril à juin, septembre-octobre",
     "languages": "Portugais (l'anglais est courant dans les villes)",
     "currency": "Euro (EUR)",
-    "timeDiff": "−1 h (−2 h aux Açores)",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112",
-    "flight": "Environ 2 h 15 depuis Paris pour Lisbonne"
+    "timeDiff": "Continent : -1 h toute l'année · Açores : -2 h toute l'année",
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {

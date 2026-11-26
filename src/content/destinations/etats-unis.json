@@ -26,10 +26,9 @@
     "bestPeriod": "Avril à juin, septembre-octobre",
     "languages": "Anglais (espagnol très répandu)",
     "currency": "Dollar américain (USD)",
-    "timeDiff": "−6 h à New York, −9 h en Californie",
-    "plugs": "Types A et B, 120 V : adaptateur nécessaire",
-    "emergency": "911",
-    "flight": "Environ 8 h 30 depuis Paris pour New York, 11 h pour la Californie"
+    "timeDiff": "New York : -6 h toute l'année · Californie : -9 h toute l'année",
+    "plugs": null,
+    "emergency": "911"
   },
   "months": [
     {
@@ -432,7 +431,6 @@
     "Passeport électronique ou biométrique, idéalement valide 6 mois après le retour",
     "ESTA demandée sur le site officiel, au moins 72 h avant le départ",
     "Assurance santé avec des plafonds élevés et le rapatriement",
-    "Adaptateur de prise type A",
     "Permis de conduire (et permis international recommandé)",
     "Réservations : Alcatraz, lodges des parcs nationaux, entrées à Yosemite selon la saison",
     "Budget pour les pourboires",

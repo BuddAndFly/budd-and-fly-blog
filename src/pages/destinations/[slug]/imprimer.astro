@@ -59,8 +59,8 @@ const chk = (s: string | null) => (s ? `vérifié le ${frDate(s)}` : 'à vérifi
           {g.budget && <div><dt>Budget / jour</dt><dd>{g.budget.totalSolo} seul<br />{g.budget.totalDuo} à deux</dd></div>}
           <div><dt>Langue</dt><dd>{g.essentials.languages}</dd></div>
           <div><dt>Monnaie</dt><dd>{g.essentials.currency}</dd></div>
-          <div><dt>Décalage</dt><dd>{g.essentials.timeDiff}</dd></div>
-          <div><dt>Prises</dt><dd>{g.essentials.plugs}</dd></div>
+          {g.essentials.timeDiff && <div><dt>Décalage</dt><dd>{g.essentials.timeDiff}</dd></div>}
+          {g.essentials.plugs && <div><dt>Prises</dt><dd>{g.essentials.plugs}</dd></div>}
           {g.essentials.emergency && <div><dt>Urgences</dt><dd>{g.essentials.emergency}</dd></div>}
         </dl>
         <div class="stack">

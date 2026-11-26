@@ -19,9 +19,8 @@
     "languages": "Arabe (anglais partout)",
     "currency": "Dirham (AED)",
     "timeDiff": "+3 h en hiver, +2 h en été",
-    "plugs": "Type G (trois broches), 230 V : adaptateur nécessaire",
-    "emergency": "Police 999",
-    "flight": "Environ 7 h en vol direct depuis Paris pour Dubaï ou Abou Dabi"
+    "plugs": null,
+    "emergency": "Police 999"
   },
   "months": [
     {
@@ -300,7 +299,6 @@
   "checklist": [
     "Passeport en bon état, valable 6 mois (pas de passeport d'urgence)",
     "Tenue couvrante pour les mosquées",
-    "Adaptateur type G",
     "Ordonnances pour tes médicaments",
     "Suivi de l'actualité régionale et inscription sur Ariane"
   ],

@@ -26,10 +26,9 @@
     "bestPeriod": "Avril à juin, septembre-octobre",
     "languages": "Hongrois (anglais et allemand dans les lieux touristiques)",
     "currency": "Forint (HUF)",
-    "timeDiff": "Aucun",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112",
-    "flight": "Environ 2 h 15 depuis Paris pour Budapest"
+    "timeDiff": "Aucun décalage avec la France",
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {

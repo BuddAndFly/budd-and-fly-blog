@@ -19,9 +19,8 @@
     "languages": "Anglais et 11 autres langues officielles",
     "currency": "Rand (ZAR)",
     "timeDiff": "+1 h en hiver, aucun décalage en été",
-    "plugs": "Types M et N (et C), 230 V : adaptateur nécessaire",
-    "emergency": null,
-    "flight": "Environ 11 h 30 en vol direct depuis Paris pour Johannesburg"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {
@@ -342,8 +341,7 @@
     "Déclaration en ligne des biens et devises",
     "Transfert depuis l'aéroport de Johannesburg organisé",
     "Avis médical pour le paludisme (Kruger)",
-    "Permis de conduire international",
-    "Adaptateur de prise"
+    "Permis de conduire international"
   ],
   "faq": [
     {

@@ -26,10 +26,9 @@
     "bestPeriod": "Mai à septembre",
     "languages": "Polonais (anglais courant chez les jeunes)",
     "currency": "Złoty (PLN)",
-    "timeDiff": "Aucun",
-    "plugs": "Types C et E, 230 V : comme en France",
-    "emergency": "112",
-    "flight": "Environ 2 h 15 depuis Paris pour Varsovie ou Cracovie"
+    "timeDiff": "Aucun décalage avec la France",
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {

@@ -26,10 +26,9 @@
     "bestPeriod": "Décembre à mars (Laponie), juin à août (lacs)",
     "languages": "Finnois et suédois (anglais parlé partout)",
     "currency": "Euro (EUR)",
-    "timeDiff": "+1 h",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112",
-    "flight": "Environ 3 h depuis Paris pour Helsinki"
+    "timeDiff": "+1 h toute l'année",
+    "plugs": "230 V, comme en France : pas besoin d'adaptateur",
+    "emergency": "112"
   },
   "months": [
     {

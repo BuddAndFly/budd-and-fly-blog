@@ -19,9 +19,8 @@
     "languages": "Anglais et patois jamaïcain",
     "currency": "Dollar jamaïcain (JMD) ; dollars américains acceptés",
     "timeDiff": "-6 h en hiver, -7 h en été",
-    "plugs": "Types A et B, 110 V : adaptateur nécessaire",
-    "emergency": null,
-    "flight": "Environ 11 h depuis Paris pour Montego Bay, avec une escale"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

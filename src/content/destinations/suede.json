@@ -26,10 +26,9 @@
     "bestPeriod": "Juin à août (Laponie : décembre à mars)",
     "languages": "Suédois (anglais parlé partout)",
     "currency": "Couronne suédoise (SEK) ; beaucoup de lieux n'acceptent que la carte",
-    "timeDiff": "Aucun",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112 · Conseils médicaux 1177",
-    "flight": "Environ 2 h 20 depuis Paris pour Stockholm"
+    "timeDiff": "Aucun décalage avec la France",
+    "plugs": null,
+    "emergency": "112 · Conseils médicaux 1177"
   },
   "months": [
     {

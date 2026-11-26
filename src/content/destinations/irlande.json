@@ -26,10 +26,9 @@
     "bestPeriod": "Mai à septembre",
     "languages": "Anglais et irlandais (gaélique)",
     "currency": "Euro (EUR)",
-    "timeDiff": "−1 h",
-    "plugs": "Type G (trois broches), 230 V : adaptateur nécessaire",
-    "emergency": "112",
-    "flight": "Environ 1 h 30 depuis Paris pour Dublin"
+    "timeDiff": "-1 h toute l'année",
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {
@@ -408,7 +407,6 @@
   "checklist": [
     "Carte d'identité ou passeport valable pendant tout le séjour (passeport si ta carte est prolongée)",
     "Carte européenne d'assurance maladie",
-    "Adaptateur de prise type G",
     "Vêtements imperméables",
     "Billets en ligne pour Trinity College et Kilmainham Gaol"
   ],

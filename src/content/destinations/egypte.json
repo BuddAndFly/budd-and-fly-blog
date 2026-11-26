@@ -26,10 +26,9 @@
     "bestPeriod": "Octobre à avril",
     "languages": "Arabe (anglais dans les lieux touristiques)",
     "currency": "Livre égyptienne (EGP)",
-    "timeDiff": "+1 h",
-    "plugs": "Types C et F, 220 V : comme en France",
-    "emergency": null,
-    "flight": "Environ 4 h 30 depuis Paris pour Le Caire"
+    "timeDiff": "+1 h toute l'année",
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

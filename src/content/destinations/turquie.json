@@ -27,9 +27,8 @@
     "languages": "Turc (anglais dans les lieux touristiques)",
     "currency": "Livre turque (TRY)",
     "timeDiff": "+2 h en hiver, +1 h en été",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "Police 155 · Jandarma 156",
-    "flight": "Environ 3 h 20 depuis Paris pour Istanbul"
+    "plugs": null,
+    "emergency": "Police 155 · Jandarma 156"
   },
   "months": [
     {

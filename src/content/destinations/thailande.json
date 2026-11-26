@@ -27,9 +27,8 @@
     "languages": "Thaï (anglais courant dans les zones touristiques)",
     "currency": "Baht (THB)",
     "timeDiff": "+6 h en hiver, +5 h en été",
-    "plugs": "Plusieurs types (A, B, C, O), 220 V : adaptateur conseillé",
-    "emergency": "Police touristique 1155",
-    "flight": "Environ 11 h 30 en vol direct depuis Paris"
+    "plugs": null,
+    "emergency": "Police touristique 1155"
   },
   "months": [
     {

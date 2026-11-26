@@ -19,9 +19,8 @@
     "languages": "Swahili et anglais",
     "currency": "Shilling kényan (KES)",
     "timeDiff": "+2 h en hiver, +1 h en été",
-    "plugs": "Type G (trois broches), 240 V : adaptateur nécessaire",
-    "emergency": null,
-    "flight": "Environ 8 h 30 en vol direct depuis Paris pour Nairobi"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {
@@ -342,7 +341,6 @@
     "Vaccin contre la fièvre jaune (fortement recommandé)",
     "Avis médical pour le paludisme",
     "Assurance avec évacuation sanitaire",
-    "Adaptateur type G",
     "Pas de sacs plastiques dans les bagages",
     "Inscription sur Ariane"
   ],

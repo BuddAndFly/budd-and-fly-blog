@@ -19,9 +19,8 @@
     "languages": "Dzongkha (anglais très répandu)",
     "currency": "Ngultrum (BTN), à parité avec la roupie indienne",
     "timeDiff": "+5 h en hiver, +4 h en été",
-    "plugs": "Types C, D et G, 230 V : adaptateur conseillé",
-    "emergency": null,
-    "flight": "Environ 14 h depuis Paris pour Paro, avec escale à Delhi, Calcutta ou Bangkok"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

@@ -27,9 +27,8 @@
     "languages": "Slovaque (anglais et allemand compris)",
     "currency": "Euro (€)",
     "timeDiff": "Aucun décalage avec la France",
-    "plugs": "Type E, 230 V : comme en France",
-    "emergency": "112",
-    "flight": "Environ 2 h depuis Paris pour Bratislava ou Vienne (à 1 h de Bratislava)"
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {

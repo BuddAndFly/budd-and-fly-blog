@@ -26,10 +26,9 @@
     "bestPeriod": "Juin à septembre (aurores de septembre à mars)",
     "languages": "Islandais (anglais parlé partout)",
     "currency": "Couronne islandaise (ISK) ; la carte bancaire est acceptée presque partout",
-    "timeDiff": "−1 h en hiver, −2 h en été",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": null,
-    "flight": "Environ 3 h 15 depuis Paris pour Keflavík"
+    "timeDiff": "-1 h en hiver, -2 h en été",
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {

@@ -19,9 +19,8 @@
     "languages": "Français et créole martiniquais",
     "currency": "Euro (€)",
     "timeDiff": "-5 h en hiver, -6 h en été",
-    "plugs": "Types C et E, 230 V",
-    "emergency": null,
-    "flight": "Environ 8 h 30 en vol direct depuis Paris"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

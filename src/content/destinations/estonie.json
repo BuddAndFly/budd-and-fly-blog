@@ -27,9 +27,8 @@
     "languages": "Estonien (anglais très répandu, russe parlé)",
     "currency": "Euro (€)",
     "timeDiff": "+1 h toute l'année",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112",
-    "flight": "Environ 3 h depuis Paris pour Tallinn"
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {

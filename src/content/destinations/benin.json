@@ -19,9 +19,8 @@
     "languages": "Français (officiel), fon, yoruba",
     "currency": "Franc CFA (XOF), à parité fixe avec l'euro",
     "timeDiff": "Aucun décalage en hiver, -1 h en été",
-    "plugs": "Types C et E, 220 V : comme en France",
-    "emergency": null,
-    "flight": "Environ 6 h 30 en vol direct depuis Paris pour Cotonou"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

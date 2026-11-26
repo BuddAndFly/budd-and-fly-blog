@@ -19,9 +19,8 @@
     "languages": "Malais (anglais très répandu)",
     "currency": "Ringgit (MYR)",
     "timeDiff": "+7 h en hiver, +6 h en été",
-    "plugs": "Type G (trois broches), 240 V : adaptateur nécessaire",
-    "emergency": null,
-    "flight": "Environ 13 h depuis Paris pour Kuala Lumpur (vol direct ou une escale)"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {
@@ -349,7 +348,6 @@
   ],
   "checklist": [
     "Passeport valide et MDAC rempli dans les 3 jours avant l'arrivée",
-    "Adaptateur type G",
     "Répulsif anti-moustiques",
     "Tenue couvrante pour les mosquées",
     "Éviter l'est du Sabah et ses îles",

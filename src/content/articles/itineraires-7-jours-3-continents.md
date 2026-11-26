@@ -47,7 +47,7 @@ Le shinkansen rend le trajet très rapide. Pas de visa pour un Français pour 90
 | 4 à 5 | **Québec** : la ville fortifiée et les chutes Montmorency |
 | 6 à 7 | **Charlevoix et Tadoussac** : villages et baleines, de juin à octobre |
 
-En français, à 7 h 30 de vol. N'oublie pas l'autorisation de voyage électronique (AVE). [Guide Canada](/destinations/canada/)
+En français. N'oublie pas l'autorisation de voyage électronique (AVE). [Guide Canada](/destinations/canada/)
 
 ## Nos conseils pour une semaine réussie
 

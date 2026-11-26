@@ -27,9 +27,8 @@
     "languages": "Letton (anglais compris chez les jeunes, russe très parlé)",
     "currency": "Euro (€)",
     "timeDiff": "+1 h toute l'année",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112",
-    "flight": "Environ 2 h 45 depuis Paris pour Riga"
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {

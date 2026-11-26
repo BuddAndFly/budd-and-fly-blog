@@ -19,9 +19,8 @@
     "languages": "Créole seychellois, anglais et français",
     "currency": "Roupie seychelloise (SCR) ; euros acceptés",
     "timeDiff": "+3 h en hiver, +2 h en été",
-    "plugs": "Type G (trois broches), 240 V : adaptateur nécessaire",
-    "emergency": null,
-    "flight": "Environ 10 à 12 h depuis Paris pour Mahé, avec une escale"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {
@@ -302,7 +301,6 @@
     "Autorisation de voyage demandée en ligne avant le départ",
     "Passeport valide, billet retour, réservation d'hébergement",
     "Assurance hospitalisation et évacuation",
-    "Adaptateur type G",
     "Crème solaire respectueuse des récifs"
   ],
   "faq": [

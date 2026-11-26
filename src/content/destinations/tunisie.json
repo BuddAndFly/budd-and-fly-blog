@@ -19,9 +19,8 @@
     "languages": "Arabe tunisien (français très répandu)",
     "currency": "Dinar tunisien (TND), non convertible : pas d'export",
     "timeDiff": "Aucun décalage en hiver, -1 h en été",
-    "plugs": "Types C et E, 230 V : comme en France",
-    "emergency": null,
-    "flight": "Environ 2 h 15 depuis Paris pour Tunis, 2 h 40 pour Djerba"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

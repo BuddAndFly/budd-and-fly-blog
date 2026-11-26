@@ -19,9 +19,8 @@
     "languages": "Espagnol",
     "currency": "Peso argentin (ARS)",
     "timeDiff": "-4 h en hiver, -5 h en été",
-    "plugs": "Types C et I, 220 V : adaptateur conseillé",
-    "emergency": "Police 911 · Pompiers 100",
-    "flight": "Environ 13 h 30 en vol direct depuis Paris pour Buenos Aires"
+    "plugs": null,
+    "emergency": "Police 911 · Pompiers 100"
   },
   "months": [
     {

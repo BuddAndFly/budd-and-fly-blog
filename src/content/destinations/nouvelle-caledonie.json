@@ -19,9 +19,8 @@
     "languages": "Français et langues kanak",
     "currency": "Franc Pacifique (XPF)",
     "timeDiff": "+10 h en hiver, +9 h en été",
-    "plugs": "Types C et E, 220 V",
-    "emergency": null,
-    "flight": "Environ 24 h depuis Paris pour Nouméa, avec une escale"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

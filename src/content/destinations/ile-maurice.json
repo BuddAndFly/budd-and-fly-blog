@@ -19,9 +19,8 @@
     "languages": "Créole mauricien, français et anglais",
     "currency": "Roupie mauricienne (MUR)",
     "timeDiff": "+3 h en hiver, +2 h en été",
-    "plugs": "Types C et G, 230 V : adaptateur conseillé",
-    "emergency": null,
-    "flight": "Environ 11 h 30 en vol direct depuis Paris"
+    "plugs": null,
+    "emergency": "Police 999"
   },
   "months": [
     {

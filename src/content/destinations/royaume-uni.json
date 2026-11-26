@@ -26,10 +26,9 @@
     "bestPeriod": "Mai à septembre",
     "languages": "Anglais",
     "currency": "Livre sterling (GBP)",
-    "timeDiff": "−1 h",
-    "plugs": "Type G (trois broches), 230 V : adaptateur nécessaire",
-    "emergency": "999 (le 112 fonctionne aussi)",
-    "flight": "Environ 2 h 15 de Paris à Londres en train (Eurostar), 1 h 15 en avion"
+    "timeDiff": "-1 h toute l'année",
+    "plugs": null,
+    "emergency": "999 (le 112 fonctionne aussi)"
   },
   "months": [
     {
@@ -418,7 +417,6 @@
     "Passeport en cours de validité (la carte d'identité ne suffit plus)",
     "ETA demandée sur le site ou l'application officiels (20 £)",
     "Carte européenne d'assurance maladie et assurance voyage",
-    "Adaptateur de prise type G",
     "Carte bancaire sans contact pour les transports",
     "Billets de train réservés à l'avance",
     "Répulsif anti-moucherons pour l'Écosse en été",

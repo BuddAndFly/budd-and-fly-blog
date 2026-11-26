@@ -27,9 +27,8 @@
     "languages": "Roumain (langue latine ; anglais et parfois français compris)",
     "currency": "Leu roumain (RON)",
     "timeDiff": "+1 h toute l'année",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112",
-    "flight": "Environ 3 h depuis Paris pour Bucarest ; vols aussi vers Cluj, Sibiu et Iasi"
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {

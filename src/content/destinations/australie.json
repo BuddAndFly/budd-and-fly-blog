@@ -18,10 +18,9 @@
     "bestPeriod": "Septembre à avril (sud), mai à octobre (nord)",
     "languages": "Anglais",
     "currency": "Dollar australien (AUD)",
-    "timeDiff": "+10 h en hiver, +8 h en été (Sydney)",
-    "plugs": "Type I, 230 V : adaptateur nécessaire",
-    "emergency": "000",
-    "flight": "Environ 22 h depuis Paris pour Sydney, avec une escale"
+    "timeDiff": "Sydney : +10 h en hiver, +8 h en été · Perth : +7 h en hiver, +6 h en été",
+    "plugs": null,
+    "emergency": "000"
   },
   "months": [
     {
@@ -341,7 +340,6 @@
   "checklist": [
     "Passeport et eVisitor (ou visa) obtenus avant le départ",
     "Permis de conduire international",
-    "Adaptateur type I",
     "Protection solaire forte",
     "Assurance santé et rapatriement",
     "Inscription sur Ariane"

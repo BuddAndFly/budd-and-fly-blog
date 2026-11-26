@@ -27,9 +27,8 @@
     "languages": "Macédonien et albanais (anglais compris chez les jeunes)",
     "currency": "Denar macédonien (MKD)",
     "timeDiff": "Aucun décalage avec la France",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": null,
-    "flight": "Environ 2 h 45 depuis Paris pour Skopje ou Ohrid (souvent avec escale)"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

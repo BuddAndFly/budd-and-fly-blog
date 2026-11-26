@@ -27,9 +27,8 @@
     "languages": "Luxembourgeois, français et allemand",
     "currency": "Euro (€)",
     "timeDiff": "Aucun décalage avec la France",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112",
-    "flight": "Environ 2 h 10 en train direct de Paris à Luxembourg"
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {

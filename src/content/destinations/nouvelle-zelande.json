@@ -19,9 +19,8 @@
     "languages": "Anglais et maori",
     "currency": "Dollar néo-zélandais (NZD)",
     "timeDiff": "+12 h en hiver, +10 h en été",
-    "plugs": "Type I, 230 V : adaptateur nécessaire",
-    "emergency": "111",
-    "flight": "Environ 24 h depuis Paris pour Auckland, avec une ou deux escales"
+    "plugs": null,
+    "emergency": "111"
   },
   "months": [
     {

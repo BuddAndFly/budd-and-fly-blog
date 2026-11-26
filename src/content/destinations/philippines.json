@@ -27,9 +27,8 @@
     "languages": "Filipino et anglais (très répandu)",
     "currency": "Peso philippin (PHP)",
     "timeDiff": "+7 h en hiver, +6 h en été",
-    "plugs": "Types A, B et C, 220 V : adaptateur conseillé",
-    "emergency": null,
-    "flight": "Environ 15 h depuis Paris pour Manille, avec une escale"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

@@ -19,9 +19,8 @@
     "languages": "Cinghalais et tamoul (anglais courant)",
     "currency": "Roupie srilankaise (LKR)",
     "timeDiff": "+4 h 30 en hiver, +3 h 30 en été",
-    "plugs": "Types D, G et M, 230 V : adaptateur nécessaire",
-    "emergency": null,
-    "flight": "Pas de vol direct : compte 13 à 15 h avec une escale"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {
@@ -436,7 +435,7 @@
     "Vaccins à jour, rendez-vous en centre de vaccinations",
     "Répulsif anti-moustiques",
     "Train Kandy-Ella réservé en haute saison",
-    "Tenue couvrante pour les temples, adaptateur type G ou D"
+    "Tenue couvrante pour les temples"
   ],
   "faq": [
     {

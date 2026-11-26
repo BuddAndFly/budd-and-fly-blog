@@ -27,9 +27,8 @@
     "languages": "Serbe (alphabets cyrillique et latin ; anglais compris chez les jeunes)",
     "currency": "Dinar serbe (RSD)",
     "timeDiff": "Aucun décalage avec la France",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112",
-    "flight": "Environ 2 h 30 depuis Paris pour Belgrade"
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {

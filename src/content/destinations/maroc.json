@@ -26,10 +26,9 @@
     "bestPeriod": "Mars à mai, octobre-novembre",
     "languages": "Arabe et amazigh (berbère) ; le français est très parlé",
     "currency": "Dirham (MAD), à changer sur place",
-    "timeDiff": "Aucun en hiver, −1 h en été (horaires différents pendant le ramadan)",
-    "plugs": "Types C et E, 220 V : comme en France",
-    "emergency": null,
-    "flight": "Environ 3 h depuis Paris pour Marrakech"
+    "timeDiff": "-1 h en hiver, -2 h en été",
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

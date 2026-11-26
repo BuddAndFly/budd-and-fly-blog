@@ -18,10 +18,9 @@
     "bestPeriod": "Mai à septembre",
     "languages": "Kazakh et russe (peu d'anglais)",
     "currency": "Tengué (KZT)",
-    "timeDiff": "+4 h en hiver, +3 h en été (Almaty)",
-    "plugs": "Types C et F, 220 V : comme en France",
-    "emergency": null,
-    "flight": "Environ 7 h depuis Paris pour Almaty, souvent avec une escale"
+    "timeDiff": "Almaty : +4 h en hiver, +3 h en été",
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

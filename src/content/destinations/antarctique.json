@@ -18,10 +18,9 @@
     "bestPeriod": "Novembre à mars",
     "languages": "Anglais à bord (souvent français ou espagnol selon l'opérateur)",
     "currency": "Selon l'opérateur (dollar américain ou euro)",
-    "timeDiff": "Variable ; la péninsule suit généralement l'heure d'Ushuaia (-4 h en hiver)",
-    "plugs": "Selon le navire",
-    "emergency": null,
-    "flight": "Environ 17 h depuis Paris pour Ushuaia (via Buenos Aires), puis 2 jours de navigation"
+    "timeDiff": null,
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {
@@ -319,10 +318,6 @@
     {
       "q": "Quand partir en Antarctique ?",
       "a": "De novembre à mars, pendant l'été austral."
-    },
-    {
-      "q": "Combien coûte un voyage en Antarctique ?",
-      "a": "Compte environ 7 000 à 17 500 € par personne pour une croisière de 10 à 12 jours, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

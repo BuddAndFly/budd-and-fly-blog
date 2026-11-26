@@ -18,10 +18,9 @@
     "bestPeriod": "Mai à octobre",
     "languages": "Français et tahitien",
     "currency": "Franc Pacifique (XPF)",
-    "timeDiff": "-11 h en hiver, -12 h en été (Tahiti)",
-    "plugs": "Types A, C et E, 220 V : adaptateur conseillé",
-    "emergency": null,
-    "flight": "Environ 22 h depuis Paris pour Papeete, avec une escale (souvent aux États-Unis)"
+    "timeDiff": "Tahiti : -11 h en hiver, -12 h en été",
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

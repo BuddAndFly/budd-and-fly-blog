@@ -26,10 +26,9 @@
     "bestPeriod": "Avril à juin, septembre-octobre",
     "languages": "Italien",
     "currency": "Euro (EUR)",
-    "timeDiff": "Aucun",
-    "plugs": "Types C, F et L, 230 V : la plupart des prises françaises passent, mais pas toujours (prends un adaptateur type L)",
-    "emergency": "112",
-    "flight": "Environ 2 h depuis Paris pour Rome ; trains de nuit et TGV vers Turin et Milan"
+    "timeDiff": "Aucun décalage avec la France",
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {
@@ -460,7 +459,6 @@
     "Carte européenne d'assurance maladie",
     "Réservations en ligne pour le Colisée, le Vatican, les Offices et la coupole de Florence",
     "Billets de train rapide réservés à l'avance pour les meilleurs prix",
-    "Adaptateur de prise type L",
     "Tenue couvrant épaules et genoux pour les églises",
     "Un sac qui ferme bien, porté devant dans les transports",
     "Vérifier les zones à circulation limitée si tu loues une voiture"

@@ -26,10 +26,9 @@
     "bestPeriod": "Mai à octobre",
     "languages": "Espagnol (quechua et aymara dans les Andes)",
     "currency": "Sol (PEN)",
-    "timeDiff": "−6 h en hiver, −7 h en été",
-    "plugs": "Types A et C, 220 V : adaptateur conseillé",
-    "emergency": null,
-    "flight": "Environ 12 h en vol direct depuis Paris pour Lima"
+    "timeDiff": "-6 h en hiver, -7 h en été",
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

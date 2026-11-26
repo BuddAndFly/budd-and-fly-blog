@@ -19,9 +19,8 @@
     "languages": "Arménien (russe très parlé, anglais chez les jeunes)",
     "currency": "Dram (AMD)",
     "timeDiff": "+3 h en hiver, +2 h en été",
-    "plugs": "Types C et F, 220 V : comme en France",
-    "emergency": "Police 102",
-    "flight": "Environ 4 h 30 en vol direct depuis Paris pour Erevan"
+    "plugs": null,
+    "emergency": "Police 102"
   },
   "months": [
     {

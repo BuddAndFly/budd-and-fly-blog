@@ -27,9 +27,8 @@
     "languages": "Arabe (anglais très répandu)",
     "currency": "Rial omanais (OMR)",
     "timeDiff": "+3 h en hiver, +2 h en été",
-    "plugs": "Type G (trois broches), 240 V : adaptateur nécessaire",
-    "emergency": null,
-    "flight": "Environ 7 h depuis Paris pour Mascate, souvent avec une escale"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {
@@ -383,7 +382,6 @@
     "Visa électronique si tu restes plus de 14 jours",
     "Permis de conduire, et 4x4 réservé pour la montagne et le désert",
     "Tenue couvrante, foulard pour les mosquées",
-    "Adaptateur de prise type G",
     "Carte de France Diplomatie vérifiée avant le départ",
     "Inscription sur Ariane"
   ],

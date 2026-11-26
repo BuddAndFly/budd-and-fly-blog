@@ -18,10 +18,9 @@
     "bestPeriod": "Novembre à mars (Patagonie), toute l'année (Atacama)",
     "languages": "Espagnol",
     "currency": "Peso chilien (CLP)",
-    "timeDiff": "-4 h en hiver, -5 h à -6 h en été selon la saison",
-    "plugs": "Types C et L, 220 V : comme en France pour les fiches fines",
-    "emergency": null,
-    "flight": "Environ 14 h en vol direct depuis Paris pour Santiago"
+    "timeDiff": "Santiago : -4 h en hiver, -6 h en été",
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

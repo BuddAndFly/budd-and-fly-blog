@@ -27,9 +27,8 @@
     "languages": "Khmer (anglais dans les lieux touristiques, un peu de français chez les plus âgés)",
     "currency": "Riel (KHR) ; le dollar américain est utilisé partout",
     "timeDiff": "+6 h en hiver, +5 h en été",
-    "plugs": "Types A, C et G, 230 V : adaptateur conseillé",
-    "emergency": null,
-    "flight": "Pas de vol direct : compte 14 à 16 h avec une escale"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

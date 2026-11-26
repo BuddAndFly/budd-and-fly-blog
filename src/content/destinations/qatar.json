@@ -19,9 +19,8 @@
     "languages": "Arabe (anglais partout)",
     "currency": "Riyal qatarien (QAR)",
     "timeDiff": "+2 h en hiver, +1 h en été",
-    "plugs": "Type G (trois broches), 240 V : adaptateur nécessaire",
-    "emergency": "999",
-    "flight": "Environ 6 h 30 en vol direct depuis Paris pour Doha"
+    "plugs": null,
+    "emergency": "999"
   },
   "months": [
     {
@@ -275,7 +274,6 @@
     "Billet retour et justificatif d'hébergement",
     "Assurance maladie agréée si séjour de plus d'un mois",
     "Tenue couvrante",
-    "Adaptateur type G",
     "Inscription sur Ariane"
   ],
   "faq": [

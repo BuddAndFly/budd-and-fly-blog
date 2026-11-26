@@ -19,9 +19,8 @@
     "languages": "Anglais et setswana",
     "currency": "Pula (BWP)",
     "timeDiff": "+1 h en hiver, aucun décalage en été",
-    "plugs": "Types D, G et M, 230 V : adaptateur nécessaire",
-    "emergency": null,
-    "flight": "Environ 13 h depuis Paris pour Maun, avec une ou deux escales"
+    "plugs": null,
+    "emergency": null
   },
   "months": [
     {

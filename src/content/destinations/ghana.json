@@ -19,9 +19,8 @@
     "languages": "Anglais (officiel), twi, ewe, ga",
     "currency": "Cedi (GHS)",
     "timeDiff": "-1 h en hiver, -2 h en été",
-    "plugs": "Types D et G, 230 V : adaptateur nécessaire",
-    "emergency": "Police 191",
-    "flight": "Environ 6 h 30 depuis Paris pour Accra, en direct ou avec une escale"
+    "plugs": null,
+    "emergency": "Police 191"
   },
   "months": [
     {
@@ -312,7 +311,6 @@
     "Passeport valide et visa obtenu avant le départ",
     "Carnet de vaccination fièvre jaune",
     "Avis médical (paludisme)",
-    "Adaptateur type G",
     "Application de VTC",
     "Inscription sur Ariane"
   ],

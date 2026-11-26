@@ -27,9 +27,8 @@
     "languages": "Géorgien (russe et anglais compris)",
     "currency": "Lari (GEL)",
     "timeDiff": "+3 h en hiver, +2 h en été",
-    "plugs": "Types C et F, 220 V : comme en France",
-    "emergency": "112",
-    "flight": "Environ 5 h depuis Paris pour Tbilissi ou Koutaïssi (vols directs selon la saison)"
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {

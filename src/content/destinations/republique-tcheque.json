@@ -27,9 +27,8 @@
     "languages": "Tchèque (anglais compris à Prague)",
     "currency": "Couronne tchèque (CZK)",
     "timeDiff": "Aucun décalage avec la France",
-    "plugs": "Type E, 230 V : comme en France",
-    "emergency": "112",
-    "flight": "Environ 1 h 45 depuis Paris pour Prague"
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {

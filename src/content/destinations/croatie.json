@@ -26,10 +26,9 @@
     "bestPeriod": "Mai-juin, septembre",
     "languages": "Croate (anglais et allemand très parlés)",
     "currency": "Euro (EUR)",
-    "timeDiff": "Aucun",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112 · Police 92 (020092 depuis un portable étranger)",
-    "flight": "Environ 2 h depuis Paris pour Split ou Dubrovnik"
+    "timeDiff": "Aucun décalage avec la France",
+    "plugs": null,
+    "emergency": "112 · Police 92 (020092 depuis un portable étranger)"
   },
   "months": [
     {

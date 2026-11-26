@@ -26,10 +26,9 @@
     "bestPeriod": "Mai-juin, septembre",
     "languages": "Albanais (italien et anglais assez parlés)",
     "currency": "Lek (ALL) ; l'euro est souvent accepté dans les lieux touristiques",
-    "timeDiff": "Aucun",
-    "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112",
-    "flight": "Environ 2 h 40 depuis Paris pour Tirana"
+    "timeDiff": "Aucun décalage avec la France",
+    "plugs": null,
+    "emergency": "112"
   },
   "months": [
     {
