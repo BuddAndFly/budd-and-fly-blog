@@ -20,7 +20,7 @@
     "currency": "Franc CFA (XOF), à parité fixe avec l'euro",
     "timeDiff": "-1 h en hiver, -2 h en été",
     "plugs": "Types C et E, 220 V : comme en France",
-    "emergency": "Police 110 ou 111 · Pompiers 180 · SAMU 185",
+    "emergency": null,
     "flight": "Environ 6 h 30 en vol direct depuis Paris pour Abidjan"
   },
   "months": [

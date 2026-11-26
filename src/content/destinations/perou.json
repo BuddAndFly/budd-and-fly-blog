@@ -28,7 +28,7 @@
     "currency": "Sol (PEN)",
     "timeDiff": "−6 h en hiver, −7 h en été",
     "plugs": "Types A et C, 220 V : adaptateur conseillé",
-    "emergency": "Police 105 · Pompiers 116 · SAMU 106",
+    "emergency": null,
     "flight": "Environ 12 h en vol direct depuis Paris pour Lima"
   },
   "months": [

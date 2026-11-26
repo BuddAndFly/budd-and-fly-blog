@@ -28,7 +28,7 @@
     "currency": "Yen (JPY)",
     "timeDiff": "+8 h en hiver, +7 h en été",
     "plugs": "Type A, 100 V : adaptateur nécessaire",
-    "emergency": "Police 110 · Ambulance et pompiers 119",
+    "emergency": null,
     "flight": "Environ 14 h en vol direct depuis Paris"
   },
   "months": [

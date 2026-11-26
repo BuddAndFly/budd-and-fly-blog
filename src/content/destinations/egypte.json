@@ -28,7 +28,7 @@
     "currency": "Livre égyptienne (EGP)",
     "timeDiff": "+1 h",
     "plugs": "Types C et F, 220 V : comme en France",
-    "emergency": "Police 122 · Ambulance 123 · Police touristique 126",
+    "emergency": null,
     "flight": "Environ 4 h 30 depuis Paris pour Le Caire"
   },
   "months": [

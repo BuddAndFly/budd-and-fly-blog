@@ -20,7 +20,7 @@
     "currency": "Tengué (KZT)",
     "timeDiff": "+4 h en hiver, +3 h en été (Almaty)",
     "plugs": "Types C et F, 220 V : comme en France",
-    "emergency": "112 (police : 102, ambulance : 103)",
+    "emergency": null,
     "flight": "Environ 7 h depuis Paris pour Almaty, souvent avec une escale"
   },
   "months": [

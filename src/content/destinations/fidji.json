@@ -20,7 +20,7 @@
     "currency": "Dollar fidjien (FJD)",
     "timeDiff": "+11 h en hiver, +10 h en été",
     "plugs": "Type I, 240 V : adaptateur nécessaire",
-    "emergency": "Police 917 · Ambulance et pompiers 911",
+    "emergency": null,
     "flight": "Environ 24 h depuis Paris pour Nadi, avec une ou deux escales"
   },
   "months": [

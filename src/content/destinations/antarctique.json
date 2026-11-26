@@ -20,7 +20,7 @@
     "currency": "Selon l'opérateur (dollar américain ou euro)",
     "timeDiff": "Variable ; la péninsule suit généralement l'heure d'Ushuaia (-4 h en hiver)",
     "plugs": "Selon le navire",
-    "emergency": "Aucun service d'urgence : consignes du navire",
+    "emergency": null,
     "flight": "Environ 17 h depuis Paris pour Ushuaia (via Buenos Aires), puis 2 jours de navigation"
   },
   "months": [

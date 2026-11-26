@@ -20,7 +20,7 @@
     "currency": "Dinar tunisien (TND), non convertible : pas d'export",
     "timeDiff": "Aucun décalage en hiver, -1 h en été",
     "plugs": "Types C et E, 230 V : comme en France",
-    "emergency": "Police 197 · SAMU 190 · Garde nationale 193",
+    "emergency": null,
     "flight": "Environ 2 h 15 depuis Paris pour Tunis, 2 h 40 pour Djerba"
   },
   "months": [

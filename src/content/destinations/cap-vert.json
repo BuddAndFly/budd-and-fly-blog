@@ -28,7 +28,7 @@
     "currency": "Escudo capverdien (CVE), à parité fixe avec l'euro ; l'euro est souvent accepté",
     "timeDiff": "−2 h en hiver, −3 h en été",
     "plugs": "Types C et F, 220 V : comme en France",
-    "emergency": "Police 132 · Pompiers et ambulance 130",
+    "emergency": null,
     "flight": "Environ 6 h en vol direct depuis Paris pour Sal ou Boa Vista"
   },
   "months": [

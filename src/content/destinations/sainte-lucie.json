@@ -20,7 +20,7 @@
     "currency": "Dollar des Caraïbes orientales (XCD) ; dollars américains acceptés",
     "timeDiff": "-5 h en hiver, -6 h en été",
     "plugs": "Type G (trois broches), 230 V : adaptateur nécessaire",
-    "emergency": "999 ou 911",
+    "emergency": null,
     "flight": "Environ 9 h depuis Paris, souvent via la Martinique (ferry ou court vol)"
   },
   "months": [

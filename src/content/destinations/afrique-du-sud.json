@@ -20,7 +20,7 @@
     "currency": "Rand (ZAR)",
     "timeDiff": "+1 h en hiver, aucun décalage en été",
     "plugs": "Types M et N (et C), 230 V : adaptateur nécessaire",
-    "emergency": "Police 10111 · Ambulance 10177 · Depuis un portable 112",
+    "emergency": null,
     "flight": "Environ 11 h 30 en vol direct depuis Paris pour Johannesburg"
   },
   "months": [

@@ -60,7 +60,7 @@ const destinations = defineCollection({
       currency: z.string(),
       timeDiff: z.string(),
       plugs: z.string(),
-      emergency: z.string(),
+      emergency: z.string().nullable().default(null),
       flight: z.string().optional(),
     }),
     /** 12 mois, de janvier à décembre. 2 = idéal, 1 = bien, 0 = à éviter si possible. */

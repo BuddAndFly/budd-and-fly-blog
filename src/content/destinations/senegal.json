@@ -20,7 +20,7 @@
     "currency": "Franc CFA (XOF), à parité fixe avec l'euro",
     "timeDiff": "-1 h en hiver, -2 h en été",
     "plugs": "Types C, D et E, 230 V : comme en France pour la plupart",
-    "emergency": "Police 17 · Pompiers 18",
+    "emergency": null,
     "flight": "Environ 5 h 30 en vol direct depuis Paris pour Dakar"
   },
   "months": [

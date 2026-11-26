@@ -20,7 +20,7 @@
     "currency": "Franc Pacifique (XPF)",
     "timeDiff": "-11 h en hiver, -12 h en été (Tahiti)",
     "plugs": "Types A, C et E, 220 V : adaptateur conseillé",
-    "emergency": "SAMU 15, police 17, pompiers 18",
+    "emergency": null,
     "flight": "Environ 22 h depuis Paris pour Papeete, avec une escale (souvent aux États-Unis)"
   },
   "months": [

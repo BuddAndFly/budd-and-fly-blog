@@ -20,7 +20,7 @@
     "currency": "Peso uruguayen (UYU) ; dollars acceptés",
     "timeDiff": "-4 h en hiver, -5 h en été",
     "plugs": "Types C, F et I, 220 V : adaptateur conseillé",
-    "emergency": "911",
+    "emergency": null,
     "flight": "Environ 14 h depuis Paris pour Montevideo, avec une escale (souvent via Buenos Aires ou Madrid)"
   },
   "months": [

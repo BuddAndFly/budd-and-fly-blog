@@ -20,7 +20,7 @@
     "currency": "Roupie srilankaise (LKR)",
     "timeDiff": "+4 h 30 en hiver, +3 h 30 en été",
     "plugs": "Types D, G et M, 230 V : adaptateur nécessaire",
-    "emergency": "Police 119 · Ambulance 1990 · Police touristique 1912",
+    "emergency": null,
     "flight": "Pas de vol direct : compte 13 à 15 h avec une escale"
   },
   "months": [

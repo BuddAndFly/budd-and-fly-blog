@@ -61,7 +61,7 @@ const chk = (s: string | null) => (s ? `vérifié le ${frDate(s)}` : 'à vérifi
           <div><dt>Monnaie</dt><dd>{g.essentials.currency}</dd></div>
           <div><dt>Décalage</dt><dd>{g.essentials.timeDiff}</dd></div>
           <div><dt>Prises</dt><dd>{g.essentials.plugs}</dd></div>
-          <div><dt>Urgences</dt><dd>{g.essentials.emergency}</dd></div>
+          {g.essentials.emergency && <div><dt>Urgences</dt><dd>{g.essentials.emergency}</dd></div>}
         </dl>
         <div class="stack">
           {[['Entrée et formalités', g.entry], ['Santé', g.health]].map(([t, b]) => {

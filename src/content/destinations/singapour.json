@@ -28,7 +28,7 @@
     "currency": "Dollar de Singapour (SGD)",
     "timeDiff": "+7 h en hiver, +6 h en été",
     "plugs": "Type G (trois broches), 230 V : adaptateur nécessaire",
-    "emergency": "Police 999 · Ambulance et pompiers 995",
+    "emergency": null,
     "flight": "Environ 13 h en vol direct depuis Paris"
   },
   "months": [

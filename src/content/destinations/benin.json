@@ -20,7 +20,7 @@
     "currency": "Franc CFA (XOF), à parité fixe avec l'euro",
     "timeDiff": "Aucun décalage en hiver, -1 h en été",
     "plugs": "Types C et E, 220 V : comme en France",
-    "emergency": "Police 117 · Pompiers 118",
+    "emergency": null,
     "flight": "Environ 6 h 30 en vol direct depuis Paris pour Cotonou"
   },
   "months": [

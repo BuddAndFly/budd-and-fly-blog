@@ -20,7 +20,7 @@
     "currency": "Dollar bahaméen (BSD), à parité avec le dollar américain (accepté partout)",
     "timeDiff": "-6 h toute l'année",
     "plugs": "Types A et B, 120 V : adaptateur nécessaire",
-    "emergency": "919 ou 911",
+    "emergency": null,
     "flight": "Environ 12 h depuis Paris pour Nassau, avec une escale (souvent aux États-Unis)"
   },
   "months": [

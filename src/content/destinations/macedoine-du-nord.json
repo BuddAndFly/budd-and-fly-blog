@@ -28,7 +28,7 @@
     "currency": "Denar macédonien (MKD)",
     "timeDiff": "Aucun décalage avec la France",
     "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112 (police : 192, ambulance : 194)",
+    "emergency": null,
     "flight": "Environ 2 h 45 depuis Paris pour Skopje ou Ohrid (souvent avec escale)"
   },
   "months": [

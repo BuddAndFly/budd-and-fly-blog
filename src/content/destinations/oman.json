@@ -28,7 +28,7 @@
     "currency": "Rial omanais (OMR)",
     "timeDiff": "+3 h en hiver, +2 h en été",
     "plugs": "Type G (trois broches), 240 V : adaptateur nécessaire",
-    "emergency": "9999",
+    "emergency": null,
     "flight": "Environ 7 h depuis Paris pour Mascate, souvent avec une escale"
   },
   "months": [

@@ -28,7 +28,7 @@
     "currency": "Dirham (MAD), à changer sur place",
     "timeDiff": "Aucun en hiver, −1 h en été (horaires différents pendant le ramadan)",
     "plugs": "Types C et E, 220 V : comme en France",
-    "emergency": "Police 19 · Gendarmerie 177 · Pompiers et ambulance 15",
+    "emergency": null,
     "flight": "Environ 3 h depuis Paris pour Marrakech"
   },
   "months": [

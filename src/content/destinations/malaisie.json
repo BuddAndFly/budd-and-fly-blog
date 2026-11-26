@@ -20,7 +20,7 @@
     "currency": "Ringgit (MYR)",
     "timeDiff": "+7 h en hiver, +6 h en été",
     "plugs": "Type G (trois broches), 240 V : adaptateur nécessaire",
-    "emergency": "999",
+    "emergency": null,
     "flight": "Environ 13 h depuis Paris pour Kuala Lumpur (vol direct ou une escale)"
   },
   "months": [

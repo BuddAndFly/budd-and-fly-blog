@@ -20,7 +20,7 @@
     "currency": "Dollar namibien (NAD), à parité avec le rand sud-africain (accepté)",
     "timeDiff": "+1 h en hiver, aucun décalage en été",
     "plugs": "Types D et M, 220 V : adaptateur nécessaire",
-    "emergency": "Police 10111",
+    "emergency": null,
     "flight": "Environ 11 h depuis Paris pour Windhoek, avec une escale"
   },
   "months": [

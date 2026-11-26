@@ -28,7 +28,7 @@
     "currency": "Roupie indonésienne (IDR)",
     "timeDiff": "Java : +6 h en hiver, +5 h en été · Bali : +7 h en hiver, +6 h en été",
     "plugs": "Types C et F, 230 V : comme en France",
-    "emergency": "112 · Police 110 · Ambulance 118",
+    "emergency": null,
     "flight": "Pas de vol direct : compte 16 à 20 h avec une escale"
   },
   "months": [

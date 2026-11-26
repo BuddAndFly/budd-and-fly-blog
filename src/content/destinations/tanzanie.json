@@ -20,7 +20,7 @@
     "currency": "Shilling tanzanien (TZS) ; dollars acceptés dans le tourisme",
     "timeDiff": "+2 h en hiver, +1 h en été",
     "plugs": "Types D et G, 230 V : adaptateur nécessaire",
-    "emergency": "112",
+    "emergency": null,
     "flight": "Environ 10 h depuis Paris pour le Kilimandjaro ou Zanzibar, avec une escale"
   },
   "months": [

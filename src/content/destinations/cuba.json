@@ -28,7 +28,7 @@
     "currency": "Peso cubain (CUP) ; devises étrangères très utilisées",
     "timeDiff": "-6 h toute l'année",
     "plugs": "Types A, B et C, 110 et 220 V : adaptateur conseillé",
-    "emergency": "Police 106 · Ambulance 104",
+    "emergency": null,
     "flight": "Environ 10 h depuis Paris pour La Havane"
   },
   "months": [

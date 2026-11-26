@@ -20,7 +20,7 @@
     "currency": "Som (KGS)",
     "timeDiff": "+5 h en hiver, +4 h en été",
     "plugs": "Types C et F, 220 V : comme en France",
-    "emergency": "Police 102 · Ambulance 103 · Secours 112",
+    "emergency": null,
     "flight": "Environ 8 h depuis Paris pour Bichkek, avec une escale"
   },
   "months": [

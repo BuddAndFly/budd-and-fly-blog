@@ -20,7 +20,7 @@
     "currency": "Franc rwandais (RWF)",
     "timeDiff": "+1 h en hiver, aucun décalage en été",
     "plugs": "Types C et J, 230 V : adaptateur conseillé",
-    "emergency": "Police 112 · Ambulance 912",
+    "emergency": null,
     "flight": "Environ 8 h 30 depuis Paris pour Kigali, en direct ou avec une escale"
   },
   "months": [

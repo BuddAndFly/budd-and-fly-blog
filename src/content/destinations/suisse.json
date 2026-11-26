@@ -28,7 +28,7 @@
     "currency": "Franc suisse (CHF)",
     "timeDiff": "Aucun décalage avec la France",
     "plugs": "Type J (les fiches plates françaises type C rentrent, pas les fiches rondes à terre) : adaptateur conseillé",
-    "emergency": "112 (ambulance : 144, police : 117)",
+    "emergency": null,
     "flight": "Environ 3 h 10 en train de Paris à Genève ou Bâle"
   },
   "months": [

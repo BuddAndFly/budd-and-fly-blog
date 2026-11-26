@@ -20,7 +20,7 @@
     "currency": "Euro (€)",
     "timeDiff": "+3 h en hiver, +2 h en été",
     "plugs": "Types C et E, 230 V",
-    "emergency": "112 (SAMU 15, police 17, pompiers 18)",
+    "emergency": null,
     "flight": "Environ 11 h en vol direct depuis Paris"
   },
   "months": [

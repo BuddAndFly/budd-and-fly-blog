@@ -59,7 +59,7 @@ const essentials = [
   ['Décalage avec Paris', g.essentials.timeDiff],
   ['Prises', g.essentials.plugs],
   ...(g.essentials.flight ? [['Vol', g.essentials.flight]] : []),
-  ['Urgences', g.essentials.emergency],
+  ...(g.essentials.emergency ? [['Urgences', g.essentials.emergency]] : []),
 ] as [string, string][];
 ---
 <Base title={g.seo.title} description={g.seo.description} image={g.hero?.src} draft={draft} jsonLd={jsonLd} type="article">

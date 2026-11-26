@@ -28,7 +28,7 @@
     "currency": "Soum (UZS)",
     "timeDiff": "+4 h en hiver, +3 h en été",
     "plugs": "Types C et F, 220 V : comme en France",
-    "emergency": "Pompiers 101 · Police 102 · Ambulance 103",
+    "emergency": null,
     "flight": "Environ 6 h 30 en vol direct depuis Paris pour Tachkent"
   },
   "months": [

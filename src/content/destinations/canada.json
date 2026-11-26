@@ -20,7 +20,7 @@
     "currency": "Dollar canadien (CAD)",
     "timeDiff": "-6 h à Montréal, -9 h à Vancouver",
     "plugs": "Types A et B, 120 V : adaptateur nécessaire",
-    "emergency": "911",
+    "emergency": null,
     "flight": "Environ 7 h 30 depuis Paris pour Montréal, 10 h 30 pour Vancouver"
   },
   "months": [

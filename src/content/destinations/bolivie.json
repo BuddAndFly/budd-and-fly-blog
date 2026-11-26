@@ -20,7 +20,7 @@
     "currency": "Boliviano (BOB)",
     "timeDiff": "-5 h en hiver, -6 h en été",
     "plugs": "Types A et C, 230 V : adaptateur conseillé",
-    "emergency": "Police 110 · Ambulance 118",
+    "emergency": null,
     "flight": "Environ 15 h depuis Paris pour La Paz ou Santa Cruz, avec une escale"
   },
   "months": [

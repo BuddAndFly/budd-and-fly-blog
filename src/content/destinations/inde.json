@@ -28,7 +28,7 @@
     "currency": "Roupie indienne (INR)",
     "timeDiff": "+4 h 30 en hiver, +3 h 30 en été",
     "plugs": "Types C, D et M, 230 V : adaptateur conseillé",
-    "emergency": "112",
+    "emergency": null,
     "flight": "Environ 9 h en vol direct depuis Paris pour Delhi ou Bombay"
   },
   "months": [

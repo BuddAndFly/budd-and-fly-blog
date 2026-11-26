@@ -20,7 +20,7 @@
     "currency": "Franc Pacifique (XPF)",
     "timeDiff": "+10 h en hiver, +9 h en été",
     "plugs": "Types C et E, 220 V",
-    "emergency": "SAMU 15, police 17, pompiers 18",
+    "emergency": null,
     "flight": "Environ 24 h depuis Paris pour Nouméa, avec une escale"
   },
   "months": [

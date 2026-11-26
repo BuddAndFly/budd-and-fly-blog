@@ -20,7 +20,7 @@
     "currency": "Tugrik (MNT)",
     "timeDiff": "+7 h en hiver, +6 h en été",
     "plugs": "Types C et E, 230 V : comme en France",
-    "emergency": "Police 102 · Ambulance 103",
+    "emergency": null,
     "flight": "Environ 10 h depuis Paris pour Oulan-Bator, avec une escale"
   },
   "months": [
