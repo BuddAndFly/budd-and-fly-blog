@@ -12,7 +12,15 @@
     "title": "Guide Bénin : Ouidah, Ganvié, Abomey, sécurité",
     "description": "Préparer un voyage au Bénin : e-visa, fièvre jaune obligatoire, zones déconseillées, meilleure saison, Cotonou, Ouidah, Ganvié, Abomey. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/benin/hero.jpg",
+    "alt": "Une pirogue à voile sur le lac Nokoué, près de Ganvié",
+    "credit": {
+      "author": "Adoscam",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Pirogue_%C3%A0_voile_ou_pirogue_%C3%A0_balancier_de_type_b%C3%A9ninois_sur_le_fleuve_de_Ganvi%C3%A9_05.jpg"
+    }
+  },
   "summary": "Le Bénin se visite de novembre à mars, en saison sèche. Le visa (électronique) et la vaccination contre la fièvre jaune sont obligatoires. Le nord du pays, dont les parcs de la Pendjari et du W, est formellement déconseillé en raison du risque d'enlèvement ; le sud, avec Ouidah, Ganvié, Porto-Novo et Abomey, berceau du vaudou et des royaumes, est en vigilance renforcée.",
   "essentials": {
     "bestPeriod": "Novembre à mars",

@@ -12,7 +12,15 @@
     "title": "Guide Ouganda : gorilles, Bwindi, visa, sécurité",
     "description": "Préparer un voyage en Ouganda : e-visa, fièvre jaune obligatoire, sécurité, meilleure saison, Bwindi, Queen Elizabeth, Murchison. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/ouganda/hero.jpg",
+    "alt": "Un gorille de montagne dans la forêt de Bwindi",
+    "credit": {
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Gorila_de_monta%C3%B1a_(Gorilla_beringei_beringei),_parque_nacional_de_la_Selva_Impenetrable_de_Bwindi,_Uganda,_2024-02-02,_DD_80.jpg"
+    }
+  },
   "summary": "L'Ouganda se visite de juin à septembre et de décembre à février, en saison sèche. Le visa (électronique) et le certificat de vaccination contre la fièvre jaune sont obligatoires. Les frontières avec la RDC et le Soudan du Sud sont formellement déconseillées ; les parcs de l'ouest et du sud-ouest, avec les gorilles de Bwindi, se visitent en vigilance renforcée avec des opérateurs reconnus.",
   "essentials": {
     "bestPeriod": "Juin à septembre, décembre à février",

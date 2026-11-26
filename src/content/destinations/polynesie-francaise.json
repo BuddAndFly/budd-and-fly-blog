@@ -12,7 +12,15 @@
     "title": "Guide Polynésie : Tahiti, Moorea, Bora Bora",
     "description": "Préparer un voyage en Polynésie française : papiers, santé, meilleure saison, Tahiti, Moorea, Bora Bora, les Tuamotu, les Marquises. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/polynesie-francaise/hero.jpg",
+    "alt": "Le lagon de Bora Bora et le mont Otemanu",
+    "credit": {
+      "author": "The TerraMar Project",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Bora_Bora_(16542797633).jpg"
+    }
+  },
   "summary": "La Polynésie française se visite de mai à octobre, pendant la saison sèche et plus fraîche ; de novembre à avril, il fait plus chaud et humide. Une pièce d'identité en cours de validité suffit pour s'y rendre, mais le vol passe souvent par un pays étranger, ce qui impose alors un passeport. Lagons, motus et montagnes : un voyage d'exception.",
   "essentials": {
     "bestPeriod": "Mai à octobre",

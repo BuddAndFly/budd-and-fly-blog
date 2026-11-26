@@ -12,7 +12,15 @@
     "title": "Guide Botswana : delta de l'Okavango, Chobe",
     "description": "Préparer un voyage au Botswana : formalités, sécurité, paludisme, meilleure saison, delta de l'Okavango, Chobe, Moremi, Makgadikgadi. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/botswana/hero.jpg",
+    "alt": "Un jabiru d'Afrique dans le delta de l'Okavango",
+    "credit": {
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Jabir%C3%BA_africano_(Ephippiorhynchus_senegalensis),_delta_del_Okavango,_Botsuana,_2018-07-31,_DD_11.jpg"
+    }
+  },
   "summary": "Le Botswana se visite de mai à octobre, en saison sèche, quand les animaux se concentrent autour de l'eau et que la crue de l'Okavango est à son maximum. Pas de visa : un tampon gratuit de 3 mois maximum est délivré à la frontière, avec un passeport valable 6 mois. Le pays est en vigilance renforcée surtout en raison des routes et de secours lents : c'est une destination de safari haut de gamme.",
   "essentials": {
     "bestPeriod": "Mai à octobre",

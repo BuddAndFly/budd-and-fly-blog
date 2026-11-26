@@ -12,7 +12,15 @@
     "title": "Guide France : où partir, saisons, itinéraires",
     "description": "Voyager en France : meilleure saison par région, Paris, la Provence, la Bretagne, les Alpes, le Pays basque. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/france/hero.jpg",
+    "alt": "Le Mont-Saint-Michel illuminé à la tombée de la nuit",
+    "credit": {
+      "author": "Benh LIEU SONG",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:MSM_sunset_02.JPG"
+    }
+  },
   "summary": "La France se visite toute l'année : le printemps et septembre sont idéaux partout, l'été pour la mer et la montagne, l'hiver pour le ski. Pour un voyage en France, une carte d'identité, un passeport ou même un permis de conduire suffit en avion. Paris, la Provence, la Bretagne, les Alpes et le Pays basque se relient très bien en train.",
   "essentials": {
     "bestPeriod": "Avril à juin, septembre-octobre",

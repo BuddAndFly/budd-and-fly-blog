@@ -12,7 +12,15 @@
     "title": "Guide Martinique : plages, montagne Pelée",
     "description": "Préparer un voyage en Martinique : papiers, santé, meilleure saison, Les Anses-d'Arlet, Saint-Pierre, la montagne Pelée, le sud. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/martinique/hero.jpg",
+    "alt": "Le rocher du Diamant, en Martinique",
+    "credit": {
+      "author": "Apmarles",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Diamond_Rock.jpg"
+    }
+  },
   "summary": "La Martinique se visite de décembre à avril, pendant la saison sèche ; de juin à novembre, c'est la saison des pluies et des cyclones. Une carte d'identité suffit pour un vol direct. Plages du sud, forêt et montagne Pelée au nord, distilleries et culture créole : l'île est variée et facile à parcourir.",
   "essentials": {
     "bestPeriod": "Décembre à avril",

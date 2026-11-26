@@ -12,7 +12,15 @@
     "title": "Guide Sainte-Lucie : Pitons, Soufrière, sécurité",
     "description": "Préparer un voyage à Sainte-Lucie : carte d'identité acceptée, sécurité, meilleure saison, les Pitons, Soufrière, Rodney Bay. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/sainte-lucie/hero.jpg",
+    "alt": "Les Pitons de Sainte-Lucie",
+    "credit": {
+      "author": "DavidMPyle",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Soufriere_town_and_the_Pitons,_Saint_Lucia_(wide_view).jpg"
+    }
+  },
   "summary": "Sainte-Lucie se visite de décembre à avril, hors saison cyclonique. Les Français venant de métropole, de Martinique ou de Guadeloupe peuvent entrer avec une carte d'identité valide (pas une carte prolongée). Attention : la sécurité s'est fortement dégradée et le taux d'homicides est l'un des plus élevés du monde. Les Pitons, Soufrière et les plages se visitent avec beaucoup de prudence.",
   "essentials": {
     "bestPeriod": "Décembre à avril",
