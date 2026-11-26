@@ -12,7 +12,15 @@
     "title": "Guide Serbie : Belgrade, Novi Sad, monastères",
     "description": "Préparer un voyage en Serbie : papiers, meilleure saison, budget seul ou à deux, Belgrade, Novi Sad, le parc de Tara, les monastères. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/serbie/hero.jpg",
+    "alt": "La forteresse de Belgrade au confluent du Danube et de la Save",
+    "credit": {
+      "author": "Zcvetkovic",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Belgrade_Fortress_Kalemegdan-9878.NEF.jpg"
+    }
+  },
   "summary": "La Serbie se visite d'avril à octobre. Une carte d'identité suffit pour moins de 90 jours, mais un document déjà déclaré perdu ou volé entraîne un refus d'entrée. Belgrade et sa vie nocturne, Novi Sad, les monastères médiévaux et les gorges du Danube composent un voyage très abordable.",
   "essentials": {
     "bestPeriod": "Avril à octobre",
@@ -24,26 +32,78 @@
     "flight": "Environ 2 h 30 depuis Paris pour Belgrade"
   },
   "months": [
-    { "rating": 0, "note": "Froid, parfois neigeux." },
-    { "rating": 0, "note": "Comme en janvier." },
-    { "rating": 1, "note": "Fin de l'hiver." },
-    { "rating": 2, "note": "Printemps, terrasses de Belgrade." },
-    { "rating": 2, "note": "Doux et vert." },
-    { "rating": 2, "note": "Idéal pour la nature." },
-    { "rating": 1, "note": "Chaud ; festival EXIT à Novi Sad, barges sur le fleuve à Belgrade." },
-    { "rating": 1, "note": "Très chaud ; festival de trompettes de Guča." },
-    { "rating": 2, "note": "Températures idéales, vendanges." },
-    { "rating": 2, "note": "Couleurs d'automne au parc de Tara." },
-    { "rating": 1, "note": "Frais et gris." },
-    { "rating": 1, "note": "Froid, ambiance de fêtes." }
+    {
+      "rating": 0,
+      "note": "Froid, parfois neigeux."
+    },
+    {
+      "rating": 0,
+      "note": "Comme en janvier."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de l'hiver."
+    },
+    {
+      "rating": 2,
+      "note": "Printemps, terrasses de Belgrade."
+    },
+    {
+      "rating": 2,
+      "note": "Doux et vert."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal pour la nature."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud ; festival EXIT à Novi Sad, barges sur le fleuve à Belgrade."
+    },
+    {
+      "rating": 1,
+      "note": "Très chaud ; festival de trompettes de Guča."
+    },
+    {
+      "rating": 2,
+      "note": "Températures idéales, vendanges."
+    },
+    {
+      "rating": 2,
+      "note": "Couleurs d'automne au parc de Tara."
+    },
+    {
+      "rating": 1,
+      "note": "Frais et gris."
+    },
+    {
+      "rating": 1,
+      "note": "Froid, ambiance de fêtes."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en dinars, par jour et par personne, hors vols. Convertis au taux du jour.",
     "rows": [
-      { "label": "Hébergement (guesthouse ou petit hôtel)", "solo": "4 500 à 9 000 RSD", "duo": "2 800 à 5 500 RSD" },
-      { "label": "Repas", "solo": "2 000 à 4 000 RSD", "duo": "2 000 à 4 000 RSD" },
-      { "label": "Transports locaux", "solo": "500 à 1 500 RSD", "duo": "400 à 1 200 RSD" },
-      { "label": "Visites et entrées", "solo": "500 à 1 500 RSD", "duo": "500 à 1 500 RSD" }
+      {
+        "label": "Hébergement (guesthouse ou petit hôtel)",
+        "solo": "4 500 à 9 000 RSD",
+        "duo": "2 800 à 5 500 RSD"
+      },
+      {
+        "label": "Repas",
+        "solo": "2 000 à 4 000 RSD",
+        "duo": "2 000 à 4 000 RSD"
+      },
+      {
+        "label": "Transports locaux",
+        "solo": "500 à 1 500 RSD",
+        "duo": "400 à 1 200 RSD"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "500 à 1 500 RSD",
+        "duo": "500 à 1 500 RSD"
+      }
     ],
     "totalSolo": "7 500 à 16 000 RSD",
     "totalDuo": "5 700 à 12 200 RSD",
@@ -56,7 +116,10 @@
     "points": [
       "Un document déjà déclaré perdu ou volé n'est pas reconnu : l'entrée est systématiquement refusée."
     ],
-    "source": { "label": "France Diplomatie, Serbie, Entrée / séjour (mise à jour du 5 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/serbie/" },
+    "source": {
+      "label": "France Diplomatie, Serbie, Entrée / séjour (mise à jour du 5 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/serbie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -67,7 +130,10 @@
       "Encéphalite à tiques : selon les conditions de séjour.",
       "Protège-toi des moustiques l'été : la fièvre du Nil occidental circule."
     ],
-    "source": { "label": "France Diplomatie, Serbie, Santé (mise à jour du 5 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/serbie/" },
+    "source": {
+      "label": "France Diplomatie, Serbie, Santé (mise à jour du 5 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/serbie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -77,7 +143,10 @@
       "Vols de voitures neuves ou de valeur : utilise des parkings sécurisés.",
       "Accidents de la route fréquents (comportements dangereux, infrastructures vieillissantes) : prudence au volant."
     ],
-    "source": { "label": "France Diplomatie, Serbie, Sécurité (mise à jour du 5 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/serbie/" },
+    "source": {
+      "label": "France Diplomatie, Serbie, Sécurité (mise à jour du 5 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/serbie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -85,17 +154,35 @@
       "slug": "belgrade",
       "name": "Belgrade",
       "nights": "3 nuits",
-      "for": ["energique", "tous"],
+      "for": [
+        "energique",
+        "tous"
+      ],
       "summary": "Une capitale vibrante au confluent du Danube et de la Save, célèbre pour ses cafés et sa vie nocturne.",
       "sleep": "Autour de Dorćol ou de Savamala.",
       "see": [
-        { "name": "La forteresse de Kalemegdan", "note": "Au-dessus du confluent, au coucher du soleil." },
-        { "name": "Le temple de Saint-Sava", "note": "L'une des plus grandes églises orthodoxes du monde." },
-        { "name": "Skadarlija", "note": "La rue bohème des tavernes et des musiciens." }
+        {
+          "name": "La forteresse de Kalemegdan",
+          "note": "Au-dessus du confluent, au coucher du soleil."
+        },
+        {
+          "name": "Le temple de Saint-Sava",
+          "note": "L'une des plus grandes églises orthodoxes du monde."
+        },
+        {
+          "name": "Skadarlija",
+          "note": "La rue bohème des tavernes et des musiciens."
+        }
       ],
       "hidden": [
-        { "name": "Zemun", "note": "Un ancien bourg austro-hongrois au bord du Danube." },
-        { "name": "Le musée Nikola Tesla", "note": "Petit mais passionnant." }
+        {
+          "name": "Zemun",
+          "note": "Un ancien bourg austro-hongrois au bord du Danube."
+        },
+        {
+          "name": "Le musée Nikola Tesla",
+          "note": "Petit mais passionnant."
+        }
       ],
       "eat": "Les ćevapi (petites saucisses grillées), la pljeskavica et le kajmak (crème fraîche épaisse).",
       "getAround": "À pied, bus et taxis par application.",
@@ -105,16 +192,31 @@
       "slug": "novi-sad",
       "name": "Novi Sad",
       "nights": "2 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Une ville élégante et décontractée, sa forteresse de Petrovaradin et les monastères de la Fruška Gora.",
       "sleep": "Dans le centre piéton.",
       "see": [
-        { "name": "La forteresse de Petrovaradin", "note": "Et son horloge aux aiguilles inversées." },
-        { "name": "Le centre-ville", "note": "Façades austro-hongroises et rue Zmaj Jovina." },
-        { "name": "Sremski Karlovci", "note": "Une petite ville baroque et ses caves à vin, à 20 minutes." }
+        {
+          "name": "La forteresse de Petrovaradin",
+          "note": "Et son horloge aux aiguilles inversées."
+        },
+        {
+          "name": "Le centre-ville",
+          "note": "Façades austro-hongroises et rue Zmaj Jovina."
+        },
+        {
+          "name": "Sremski Karlovci",
+          "note": "Une petite ville baroque et ses caves à vin, à 20 minutes."
+        }
       ],
       "hidden": [
-        { "name": "Les monastères de la Fruška Gora", "note": "Une quinzaine de monastères dans les collines." }
+        {
+          "name": "Les monastères de la Fruška Gora",
+          "note": "Une quinzaine de monastères dans les collines."
+        }
       ],
       "eat": "Le bermet, vin doux de Sremski Karlovci.",
       "getAround": "Train rapide depuis Belgrade (environ 35 minutes).",
@@ -124,16 +226,31 @@
       "slug": "tara-zlatibor",
       "name": "Le parc de Tara et l'ouest",
       "nights": "2 à 3 nuits",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "Forêts, canyon de la Drina, petits villages et le train de montagne de Šargan.",
       "sleep": "À Bajina Bašta, Mokra Gora ou Zlatibor.",
       "see": [
-        { "name": "Le belvédère de Banjska stena", "note": "Vue sur le canyon de la Drina." },
-        { "name": "La maison sur le rocher", "note": "Une cabane perchée au milieu de la Drina." },
-        { "name": "Le train de Šargan", "note": "La « huit de Šargan », ligne touristique de montagne." }
+        {
+          "name": "Le belvédère de Banjska stena",
+          "note": "Vue sur le canyon de la Drina."
+        },
+        {
+          "name": "La maison sur le rocher",
+          "note": "Une cabane perchée au milieu de la Drina."
+        },
+        {
+          "name": "Le train de Šargan",
+          "note": "La « huit de Šargan », ligne touristique de montagne."
+        }
       ],
       "hidden": [
-        { "name": "Drvengrad", "note": "Le village de bois construit par le cinéaste Emir Kusturica." }
+        {
+          "name": "Drvengrad",
+          "note": "Le village de bois construit par le cinéaste Emir Kusturica."
+        }
       ],
       "eat": "Le jambon fumé de Zlatibor et la rakija.",
       "getAround": "Voiture recommandée.",
@@ -144,28 +261,67 @@
     {
       "days": 5,
       "title": "Belgrade et Novi Sad",
-      "for": ["tous", "energique"],
+      "for": [
+        "tous",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Belgrade", "note": "Kalemegdan, Zemun, vie nocturne." },
-        { "days": "Jours 4 et 5", "place": "Novi Sad", "note": "Et Sremski Karlovci, retour à Belgrade." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Belgrade",
+          "note": "Kalemegdan, Zemun, vie nocturne."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Novi Sad",
+          "note": "Et Sremski Karlovci, retour à Belgrade."
+        }
       ]
     },
     {
       "days": 9,
       "title": "Villes et montagnes",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Belgrade", "note": "Arrivée." },
-        { "days": "Jours 4 et 5", "place": "Novi Sad", "note": "Et la Fruška Gora." },
-        { "days": "Jours 6 à 8", "place": "Tara et Zlatibor", "note": "Canyon de la Drina et train de Šargan." },
-        { "days": "Jour 9", "place": "Retour", "note": "Par Studenica vers Belgrade." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Belgrade",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Novi Sad",
+          "note": "Et la Fruška Gora."
+        },
+        {
+          "days": "Jours 6 à 8",
+          "place": "Tara et Zlatibor",
+          "note": "Canyon de la Drina et train de Šargan."
+        },
+        {
+          "days": "Jour 9",
+          "place": "Retour",
+          "note": "Par Studenica vers Belgrade."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le train rapide", "text": "Belgrade-Novi Sad en 35 minutes ; le reste du réseau est lent." },
-    { "title": "Les bus", "text": "Le moyen principal entre les villes." },
-    { "title": "En voiture", "text": "Carte verte d'assurance à vérifier, péages sur les autoroutes, prudence au volant." }
+    {
+      "title": "Le train rapide",
+      "text": "Belgrade-Novi Sad en 35 minutes ; le reste du réseau est lent."
+    },
+    {
+      "title": "Les bus",
+      "text": "Le moyen principal entre les villes."
+    },
+    {
+      "title": "En voiture",
+      "text": "Carte verte d'assurance à vérifier, péages sur les autoroutes, prudence au volant."
+    }
   ],
   "culture": [
     "On trinque à la rakija (eau-de-vie de fruits) en se regardant dans les yeux.",
@@ -173,9 +329,21 @@
     "Évite les sujets politiques sensibles (Kosovo, guerres des années 1990)."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Здраво / Zdravo", "say": "zdravo" },
-    { "fr": "Merci", "local": "Хвала / Hvala", "say": "hvala" },
-    { "fr": "Santé !", "local": "Живели / Živeli", "say": "jivéli" }
+    {
+      "fr": "Bonjour",
+      "local": "Здраво / Zdravo",
+      "say": "zdravo"
+    },
+    {
+      "fr": "Merci",
+      "local": "Хвала / Hvala",
+      "say": "hvala"
+    },
+    {
+      "fr": "Santé !",
+      "local": "Живели / Živeli",
+      "say": "jivéli"
+    }
   ],
   "checklist": [
     "Passeport ou carte d'identité valide, jamais déclaré perdu ou volé",
@@ -184,9 +352,21 @@
     "Répulsif contre les moustiques l'été"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour la Serbie ?", "a": "Non pour moins de 90 jours. Un passeport ou une carte d'identité valable pendant le séjour suffit, à condition de ne jamais avoir été déclaré perdu ou volé." },
-    { "q": "La Serbie est-elle sûre ?", "a": "Oui, le pays est en vigilance normale et la délinquance visible est faible. Prudence sur la route et attention aux pickpockets à Belgrade." },
-    { "q": "Quand partir en Serbie ?", "a": "D'avril à juin et en septembre-octobre. L'été est chaud mais animé (festivals)." },
-    { "q": "Quel budget pour une semaine en Serbie ?", "a": "Compte environ 7 500 à 16 000 RSD par jour seul et 5 700 à 12 200 RSD par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour la Serbie ?",
+      "a": "Non pour moins de 90 jours. Un passeport ou une carte d'identité valable pendant le séjour suffit, à condition de ne jamais avoir été déclaré perdu ou volé."
+    },
+    {
+      "q": "La Serbie est-elle sûre ?",
+      "a": "Oui, le pays est en vigilance normale et la délinquance visible est faible. Prudence sur la route et attention aux pickpockets à Belgrade."
+    },
+    {
+      "q": "Quand partir en Serbie ?",
+      "a": "D'avril à juin et en septembre-octobre. L'été est chaud mais animé (festivals)."
+    },
+    {
+      "q": "Quel budget pour une semaine en Serbie ?",
+      "a": "Compte environ 7 500 à 16 000 RSD par jour seul et 5 700 à 12 200 RSD par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
+    }
   ]
 }

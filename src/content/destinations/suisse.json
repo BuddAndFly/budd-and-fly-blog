@@ -12,7 +12,15 @@
     "title": "Guide Suisse : Alpes, lacs, trains, budget",
     "description": "Préparer un voyage en Suisse : papiers, meilleure saison, budget, Lucerne, Interlaken, Zermatt, Genève, trains panoramiques. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/suisse/hero.jpg",
+    "alt": "Le Cervin au-dessus de Zermatt",
+    "credit": {
+      "author": "Roy Egloff",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:CH.VS.Zermatt_2021-10-17_Matterhorn_8726.jpg"
+    }
+  },
   "summary": "La Suisse se visite de juin à septembre pour les lacs et la randonnée, et de décembre à mars pour le ski. Une carte d'identité suffit, même périmée depuis moins de 5 ans. C'est un pays cher, mais ses trains ponctuels et panoramiques permettent de voir beaucoup en peu de temps.",
   "essentials": {
     "bestPeriod": "Juin à septembre, et décembre à mars pour la neige",
@@ -24,26 +32,78 @@
     "flight": "Environ 3 h 10 en train de Paris à Genève ou Bâle"
   },
   "months": [
-    { "rating": 2, "note": "Pleine saison de ski." },
-    { "rating": 2, "note": "Ski, carnaval de Bâle certaines années." },
-    { "rating": 1, "note": "Fin de saison de ski, villes calmes." },
-    { "rating": 1, "note": "Entre deux saisons, certaines remontées fermées." },
-    { "rating": 1, "note": "Printemps en plaine, cols encore fermés." },
-    { "rating": 2, "note": "Les cols ouvrent, prairies fleuries." },
-    { "rating": 2, "note": "Le meilleur pour la haute montagne." },
-    { "rating": 2, "note": "Haute saison ; fête nationale le 1er août." },
-    { "rating": 2, "note": "Doux et lumineux, moins de monde." },
-    { "rating": 1, "note": "Couleurs d'automne, certaines remontées en révision." },
-    { "rating": 0, "note": "Saison morte en montagne." },
-    { "rating": 2, "note": "Marchés de Noël et début du ski." }
+    {
+      "rating": 2,
+      "note": "Pleine saison de ski."
+    },
+    {
+      "rating": 2,
+      "note": "Ski, carnaval de Bâle certaines années."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de saison de ski, villes calmes."
+    },
+    {
+      "rating": 1,
+      "note": "Entre deux saisons, certaines remontées fermées."
+    },
+    {
+      "rating": 1,
+      "note": "Printemps en plaine, cols encore fermés."
+    },
+    {
+      "rating": 2,
+      "note": "Les cols ouvrent, prairies fleuries."
+    },
+    {
+      "rating": 2,
+      "note": "Le meilleur pour la haute montagne."
+    },
+    {
+      "rating": 2,
+      "note": "Haute saison ; fête nationale le 1er août."
+    },
+    {
+      "rating": 2,
+      "note": "Doux et lumineux, moins de monde."
+    },
+    {
+      "rating": 1,
+      "note": "Couleurs d'automne, certaines remontées en révision."
+    },
+    {
+      "rating": 0,
+      "note": "Saison morte en montagne."
+    },
+    {
+      "rating": 2,
+      "note": "Marchés de Noël et début du ski."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en francs suisses, par jour et par personne, hors trajet aller-retour. Convertis au taux du jour.",
     "rows": [
-      { "label": "Hébergement (hôtel simple ou auberge)", "solo": "120 à 220 CHF", "duo": "80 à 140 CHF" },
-      { "label": "Repas", "solo": "50 à 90 CHF", "duo": "50 à 90 CHF" },
-      { "label": "Transports (train, remontées)", "solo": "30 à 100 CHF", "duo": "30 à 100 CHF" },
-      { "label": "Visites et entrées", "solo": "10 à 40 CHF", "duo": "10 à 40 CHF" }
+      {
+        "label": "Hébergement (hôtel simple ou auberge)",
+        "solo": "120 à 220 CHF",
+        "duo": "80 à 140 CHF"
+      },
+      {
+        "label": "Repas",
+        "solo": "50 à 90 CHF",
+        "duo": "50 à 90 CHF"
+      },
+      {
+        "label": "Transports (train, remontées)",
+        "solo": "30 à 100 CHF",
+        "duo": "30 à 100 CHF"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "10 à 40 CHF",
+        "duo": "10 à 40 CHF"
+      }
     ],
     "totalSolo": "210 à 450 CHF",
     "totalDuo": "170 à 370 CHF",
@@ -57,7 +117,10 @@
       "Le passeport est indispensable en cas d'escale à l'aéroport vers une destination hors Schengen.",
       "La Suisse accepte officiellement la prolongation de 5 ans des cartes d'identité délivrées à des majeurs entre 2004 et 2013."
     ],
-    "source": { "label": "France Diplomatie, Suisse, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/suisse/" },
+    "source": {
+      "label": "France Diplomatie, Suisse, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/suisse/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -67,7 +130,10 @@
       "Carte européenne d'assurance maladie et assurance couvrant les secours en montagne.",
       "Encéphalite à tiques : selon les conditions de séjour."
     ],
-    "source": { "label": "France Diplomatie, Suisse, Santé et Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/suisse/" },
+    "source": {
+      "label": "France Diplomatie, Suisse, Santé et Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/suisse/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -76,7 +142,10 @@
       "Petite délinquance (vols) dans les gares, les aéroports et les transports des grandes villes.",
       "Le code de la route est strictement appliqué : les amendes pour excès de vitesse sont très élevées."
     ],
-    "source": { "label": "France Diplomatie, Suisse, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/suisse/" },
+    "source": {
+      "label": "France Diplomatie, Suisse, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/suisse/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -84,16 +153,31 @@
       "slug": "lucerne",
       "name": "Lucerne",
       "nights": "2 nuits",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "summary": "Une ville médiévale au bord d'un lac entouré de montagnes accessibles en bateau et en train à crémaillère.",
       "sleep": "Dans la vieille ville ou au bord du lac.",
       "see": [
-        { "name": "Le pont de la Chapelle", "note": "Un pont couvert en bois du XIVe siècle." },
-        { "name": "Le mont Pilate", "note": "Par le train à crémaillère le plus raide du monde, l'été." },
-        { "name": "Le Rigi", "note": "La « reine des montagnes », en bateau puis en train." }
+        {
+          "name": "Le pont de la Chapelle",
+          "note": "Un pont couvert en bois du XIVe siècle."
+        },
+        {
+          "name": "Le mont Pilate",
+          "note": "Par le train à crémaillère le plus raide du monde, l'été."
+        },
+        {
+          "name": "Le Rigi",
+          "note": "La « reine des montagnes », en bateau puis en train."
+        }
       ],
       "hidden": [
-        { "name": "Les remparts de la Musegg", "note": "Des tours accessibles gratuitement, vue sur la ville." }
+        {
+          "name": "Les remparts de la Musegg",
+          "note": "Des tours accessibles gratuitement, vue sur la ville."
+        }
       ],
       "eat": "La luzerner chügelipastete (vol-au-vent local).",
       "getAround": "À pied, et bateaux sur le lac.",
@@ -103,16 +187,31 @@
       "slug": "interlaken",
       "name": "Interlaken et la Jungfrau",
       "nights": "3 nuits",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "summary": "Entre deux lacs, au pied de l'Eiger, du Mönch et de la Jungfrau, la capitale suisse des activités de plein air.",
       "sleep": "À Interlaken, ou à Lauterbrunnen et Wengen pour le calme.",
       "see": [
-        { "name": "La vallée de Lauterbrunnen", "note": "72 cascades entre des falaises." },
-        { "name": "Le Jungfraujoch", "note": "La gare la plus haute d'Europe (3 454 m), billet très cher." },
-        { "name": "Le lac de Brienz", "note": "Eau turquoise et village d'Iseltwald." }
+        {
+          "name": "La vallée de Lauterbrunnen",
+          "note": "72 cascades entre des falaises."
+        },
+        {
+          "name": "Le Jungfraujoch",
+          "note": "La gare la plus haute d'Europe (3 454 m), billet très cher."
+        },
+        {
+          "name": "Le lac de Brienz",
+          "note": "Eau turquoise et village d'Iseltwald."
+        }
       ],
       "hidden": [
-        { "name": "Mürren", "note": "Un village sans voitures accroché à la falaise." }
+        {
+          "name": "Mürren",
+          "note": "Un village sans voitures accroché à la falaise."
+        }
       ],
       "eat": "La raclette et la rösti.",
       "getAround": "Trains de montagne et téléphériques.",
@@ -122,13 +221,25 @@
       "slug": "zermatt",
       "name": "Zermatt",
       "nights": "2 nuits",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "Un village sans voitures au pied du Cervin, pour randonner l'été et skier toute l'année sur le glacier.",
       "sleep": "Au village ; réserve tôt.",
       "see": [
-        { "name": "Le Gornergrat", "note": "En train à crémaillère, face au Cervin et aux glaciers." },
-        { "name": "Le sentier des 5 lacs", "note": "Avec le Cervin en reflet." },
-        { "name": "Le Matterhorn Glacier Paradise", "note": "Le téléphérique le plus haut d'Europe." }
+        {
+          "name": "Le Gornergrat",
+          "note": "En train à crémaillère, face au Cervin et aux glaciers."
+        },
+        {
+          "name": "Le sentier des 5 lacs",
+          "note": "Avec le Cervin en reflet."
+        },
+        {
+          "name": "Le Matterhorn Glacier Paradise",
+          "note": "Le téléphérique le plus haut d'Europe."
+        }
       ],
       "hidden": [],
       "eat": "La fondue dans un restaurant d'altitude.",
@@ -139,16 +250,31 @@
       "slug": "geneve-lausanne",
       "name": "Genève et le lac Léman",
       "nights": "2 nuits",
-      "for": ["stratege", "tous"],
+      "for": [
+        "stratege",
+        "tous"
+      ],
       "summary": "Le côté francophone : Genève internationale, Lausanne en pente et les vignobles en terrasses de Lavaux.",
       "sleep": "À Lausanne pour rayonner, ou Genève à l'arrivée.",
       "see": [
-        { "name": "Le jet d'eau et la vieille ville de Genève", "note": "Et la cathédrale Saint-Pierre." },
-        { "name": "Les terrasses de Lavaux", "note": "Des vignes classées à l'Unesco au-dessus du lac." },
-        { "name": "Le château de Chillon", "note": "Un château sur l'eau près de Montreux." }
+        {
+          "name": "Le jet d'eau et la vieille ville de Genève",
+          "note": "Et la cathédrale Saint-Pierre."
+        },
+        {
+          "name": "Les terrasses de Lavaux",
+          "note": "Des vignes classées à l'Unesco au-dessus du lac."
+        },
+        {
+          "name": "Le château de Chillon",
+          "note": "Un château sur l'eau près de Montreux."
+        }
       ],
       "hidden": [
-        { "name": "Le quartier du Flon", "note": "Bars et boutiques dans d'anciens entrepôts de Lausanne." }
+        {
+          "name": "Le quartier du Flon",
+          "note": "Bars et boutiques dans d'anciens entrepôts de Lausanne."
+        }
       ],
       "eat": "Les filets de perche du lac et un verre de chasselas.",
       "getAround": "Train et bateaux sur le lac ; transports gratuits pour les clients des hôtels de Genève.",
@@ -159,29 +285,72 @@
     {
       "days": 7,
       "title": "Lacs et sommets",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Genève et Lavaux", "note": "Arrivée en train depuis Paris." },
-        { "days": "Jours 3 à 5", "place": "Interlaken", "note": "Par la ligne panoramique GoldenPass." },
-        { "days": "Jours 6 et 7", "place": "Lucerne", "note": "Retour par Bâle." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Genève et Lavaux",
+          "note": "Arrivée en train depuis Paris."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Interlaken",
+          "note": "Par la ligne panoramique GoldenPass."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Lucerne",
+          "note": "Retour par Bâle."
+        }
       ]
     },
     {
       "days": 10,
       "title": "Le grand tour en train",
-      "for": ["stratege", "lent"],
+      "for": [
+        "stratege",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Lausanne", "note": "Lavaux et Chillon." },
-        { "days": "Jours 3 et 4", "place": "Zermatt", "note": "Le Cervin." },
-        { "days": "Jours 5 à 7", "place": "Interlaken", "note": "La Jungfrau." },
-        { "days": "Jours 8 à 10", "place": "Lucerne", "note": "Pilate et Rigi, retour depuis Zurich." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Lausanne",
+          "note": "Lavaux et Chillon."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Zermatt",
+          "note": "Le Cervin."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Interlaken",
+          "note": "La Jungfrau."
+        },
+        {
+          "days": "Jours 8 à 10",
+          "place": "Lucerne",
+          "note": "Pilate et Rigi, retour depuis Zurich."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le train", "text": "Ponctuel et panoramique. Le Swiss Travel Pass ou la carte demi-tarif réduisent fortement le coût." },
-    { "title": "En voiture", "text": "Vignette autoroutière annuelle obligatoire ; amendes très élevées pour les excès de vitesse." },
-    { "title": "Les bateaux et cars postaux", "text": "Les bateaux des lacs et les cars postaux jaunes complètent le réseau jusque dans les vallées." }
+    {
+      "title": "Le train",
+      "text": "Ponctuel et panoramique. Le Swiss Travel Pass ou la carte demi-tarif réduisent fortement le coût."
+    },
+    {
+      "title": "En voiture",
+      "text": "Vignette autoroutière annuelle obligatoire ; amendes très élevées pour les excès de vitesse."
+    },
+    {
+      "title": "Les bateaux et cars postaux",
+      "text": "Les bateaux des lacs et les cars postaux jaunes complètent le réseau jusque dans les vallées."
+    }
   ],
   "culture": [
     "La ponctualité est une valeur : les trains partent à la minute près.",
@@ -189,9 +358,21 @@
     "Les euros sont souvent acceptés, mais la monnaie est rendue en francs."
   ],
   "phrases": [
-    { "fr": "Bonjour (Suisse alémanique)", "local": "Grüezi", "say": "gruetsi" },
-    { "fr": "Merci", "local": "Merci vielmal", "say": "merci filmal" },
-    { "fr": "Au revoir", "local": "Uf Widerluege", "say": "ouf viderlouégue" }
+    {
+      "fr": "Bonjour (Suisse alémanique)",
+      "local": "Grüezi",
+      "say": "gruetsi"
+    },
+    {
+      "fr": "Merci",
+      "local": "Merci vielmal",
+      "say": "merci filmal"
+    },
+    {
+      "fr": "Au revoir",
+      "local": "Uf Widerluege",
+      "say": "ouf viderlouégue"
+    }
   ],
   "checklist": [
     "Carte d'identité ou passeport (même périmé depuis moins de 5 ans)",
@@ -201,9 +382,21 @@
     "Vignette autoroutière si tu viens en voiture"
   ],
   "faq": [
-    { "q": "Quels papiers pour la Suisse ?", "a": "Une carte d'identité ou un passeport en cours de validité ou périmé depuis moins de 5 ans. Le passeport est exigé pour une escale vers un pays hors Schengen." },
-    { "q": "La carte vitale suffit-elle en Suisse ?", "a": "Non : prends la carte européenne d'assurance maladie et une assurance qui couvre les secours. Les frais de secours non couverts sont à ta charge et très élevés." },
-    { "q": "Quand partir en Suisse ?", "a": "De juin à septembre pour la montagne et les lacs, de décembre à mars pour le ski." },
-    { "q": "Quel budget pour une semaine en Suisse ?", "a": "Compte environ 210 à 450 CHF par jour seul et 170 à 370 CHF par personne à deux, hors trajet aller-retour. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Quels papiers pour la Suisse ?",
+      "a": "Une carte d'identité ou un passeport en cours de validité ou périmé depuis moins de 5 ans. Le passeport est exigé pour une escale vers un pays hors Schengen."
+    },
+    {
+      "q": "La carte vitale suffit-elle en Suisse ?",
+      "a": "Non : prends la carte européenne d'assurance maladie et une assurance qui couvre les secours. Les frais de secours non couverts sont à ta charge et très élevés."
+    },
+    {
+      "q": "Quand partir en Suisse ?",
+      "a": "De juin à septembre pour la montagne et les lacs, de décembre à mars pour le ski."
+    },
+    {
+      "q": "Quel budget pour une semaine en Suisse ?",
+      "a": "Compte environ 210 à 450 CHF par jour seul et 170 à 370 CHF par personne à deux, hors trajet aller-retour. Ces montants sont des estimations à vérifier."
+    }
   ]
 }

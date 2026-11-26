@@ -12,7 +12,15 @@
     "title": "Guide Belgique : Bruxelles, Bruges, Gand, budget",
     "description": "Préparer un voyage en Belgique : papiers (attention aux cartes prolongées), meilleure saison, budget, Bruxelles, Bruges, Gand, Anvers. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/belgique/hero.jpg",
+    "alt": "Le quai du Rosaire à Bruges",
+    "credit": {
+      "author": "Ank Kumar",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Rozenhoedkaai_(canal)_and_Belfry_of_Bruges,_Bruges,_Belgium_(Ank_Kumar,_Infosys_Limited)_09.jpg"
+    }
+  },
   "summary": "La Belgique se visite toute l'année, idéalement d'avril à septembre. Attention : la Belgique ne reconnaît pas les cartes d'identité françaises prolongées de 5 ans, et un document périmé peut entraîner une amende. Bruxelles, Bruges, Gand et Anvers sont à moins d'une heure de train les unes des autres.",
   "essentials": {
     "bestPeriod": "Avril à septembre",
@@ -24,26 +32,78 @@
     "flight": "Environ 1 h 25 en train de Paris à Bruxelles"
   },
   "months": [
-    { "rating": 0, "note": "Froid et gris ; musées et brasseries au chaud." },
-    { "rating": 1, "note": "Carnaval de Binche à la fin de l'hiver certaines années." },
-    { "rating": 1, "note": "Fin de l'hiver, villes calmes." },
-    { "rating": 2, "note": "Printemps, Serres royales de Laeken ouvertes." },
-    { "rating": 2, "note": "Fleuri et agréable." },
-    { "rating": 2, "note": "Longues soirées en terrasse." },
-    { "rating": 2, "note": "Été, festivals et fête nationale le 21 juillet." },
-    { "rating": 2, "note": "Tapis de fleurs sur la Grand-Place certaines années paires." },
-    { "rating": 2, "note": "Doux et moins fréquenté." },
-    { "rating": 1, "note": "Automne pluvieux." },
-    { "rating": 1, "note": "Gris, mais musées et cafés." },
-    { "rating": 2, "note": "Marchés de Noël et Plaisirs d'hiver à Bruxelles." }
+    {
+      "rating": 0,
+      "note": "Froid et gris ; musées et brasseries au chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Carnaval de Binche à la fin de l'hiver certaines années."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de l'hiver, villes calmes."
+    },
+    {
+      "rating": 2,
+      "note": "Printemps, Serres royales de Laeken ouvertes."
+    },
+    {
+      "rating": 2,
+      "note": "Fleuri et agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Longues soirées en terrasse."
+    },
+    {
+      "rating": 2,
+      "note": "Été, festivals et fête nationale le 21 juillet."
+    },
+    {
+      "rating": 2,
+      "note": "Tapis de fleurs sur la Grand-Place certaines années paires."
+    },
+    {
+      "rating": 2,
+      "note": "Doux et moins fréquenté."
+    },
+    {
+      "rating": 1,
+      "note": "Automne pluvieux."
+    },
+    {
+      "rating": 1,
+      "note": "Gris, mais musées et cafés."
+    },
+    {
+      "rating": 2,
+      "note": "Marchés de Noël et Plaisirs d'hiver à Bruxelles."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en euros, par jour et par personne, hors trajet aller-retour.",
     "rows": [
-      { "label": "Hébergement (hôtel simple ou auberge)", "solo": "75 à 150 €", "duo": "50 à 100 €" },
-      { "label": "Repas", "solo": "30 à 60 €", "duo": "30 à 60 €" },
-      { "label": "Transports (train, tram)", "solo": "8 à 25 €", "duo": "8 à 25 €" },
-      { "label": "Visites et entrées", "solo": "10 à 30 €", "duo": "10 à 30 €" }
+      {
+        "label": "Hébergement (hôtel simple ou auberge)",
+        "solo": "75 à 150 €",
+        "duo": "50 à 100 €"
+      },
+      {
+        "label": "Repas",
+        "solo": "30 à 60 €",
+        "duo": "30 à 60 €"
+      },
+      {
+        "label": "Transports (train, tram)",
+        "solo": "8 à 25 €",
+        "duo": "8 à 25 €"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "10 à 30 €",
+        "duo": "10 à 30 €"
+      }
     ],
     "totalSolo": "123 à 265 €",
     "totalDuo": "98 à 215 €",
@@ -57,7 +117,10 @@
       "La Belgique ne reconnaît pas la prolongation automatique de 5 ans des cartes d'identité françaises délivrées entre 2004 et 2013 : si ta carte semble périmée, prends un passeport valide.",
       "Présenter une carte d'identité expirée ou un passeport périmé peut entraîner une amende."
     ],
-    "source": { "label": "France Diplomatie, Belgique, Entrée / séjour (mise à jour du 21 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/belgique/" },
+    "source": {
+      "label": "France Diplomatie, Belgique, Entrée / séjour (mise à jour du 21 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/belgique/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -66,7 +129,10 @@
       "Carte européenne d'assurance maladie, à demander avant le départ.",
       "Encéphalite à tiques : selon les conditions de séjour (forêts des Ardennes)."
     ],
-    "source": { "label": "France Diplomatie, Belgique, Santé (mise à jour du 21 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/belgique/" },
+    "source": {
+      "label": "France Diplomatie, Belgique, Santé (mise à jour du 21 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/belgique/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -76,7 +142,10 @@
       "Vigilance dans les transports publics, les lieux fréquentés et près des institutions internationales.",
       "En cas d'urgence, compose le 112."
     ],
-    "source": { "label": "France Diplomatie, Belgique, Sécurité (mise à jour du 21 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/belgique/" },
+    "source": {
+      "label": "France Diplomatie, Belgique, Sécurité (mise à jour du 21 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/belgique/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -84,17 +153,35 @@
       "slug": "bruxelles",
       "name": "Bruxelles",
       "nights": "2 nuits",
-      "for": ["tous", "energique"],
+      "for": [
+        "tous",
+        "energique"
+      ],
       "summary": "Une capitale décontractée, entre Grand-Place spectaculaire, Art nouveau et bandes dessinées sur les murs.",
       "sleep": "Autour de la Grand-Place ou à Ixelles, quartier animé.",
       "see": [
-        { "name": "La Grand-Place", "note": "Classée à l'Unesco, magique de nuit." },
-        { "name": "L'Atomium", "note": "Une molécule géante de l'Expo 58." },
-        { "name": "Le parcours BD", "note": "Fresques de bandes dessinées dans le centre." }
+        {
+          "name": "La Grand-Place",
+          "note": "Classée à l'Unesco, magique de nuit."
+        },
+        {
+          "name": "L'Atomium",
+          "note": "Une molécule géante de l'Expo 58."
+        },
+        {
+          "name": "Le parcours BD",
+          "note": "Fresques de bandes dessinées dans le centre."
+        }
       ],
       "hidden": [
-        { "name": "La maison Horta", "note": "Le chef-d'œuvre de l'Art nouveau, à Saint-Gilles." },
-        { "name": "Le marché des Marolles", "note": "Brocante quotidienne place du Jeu de Balle." }
+        {
+          "name": "La maison Horta",
+          "note": "Le chef-d'œuvre de l'Art nouveau, à Saint-Gilles."
+        },
+        {
+          "name": "Le marché des Marolles",
+          "note": "Brocante quotidienne place du Jeu de Balle."
+        }
       ],
       "eat": "Les frites, les gaufres et les moules, avec une bière trappiste.",
       "getAround": "Métro, tram et marche.",
@@ -104,16 +191,31 @@
       "slug": "bruges",
       "name": "Bruges",
       "nights": "1 à 2 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Une ville médiévale de canaux et de maisons à pignons, classée à l'Unesco.",
       "sleep": "Dans le centre historique, pour profiter du soir.",
       "see": [
-        { "name": "Le beffroi", "note": "366 marches, vue sur les toits." },
-        { "name": "Une balade en bateau sur les canaux", "note": "Le meilleur point de vue sur la ville." },
-        { "name": "Le béguinage", "note": "Un enclos paisible de maisons blanches." }
+        {
+          "name": "Le beffroi",
+          "note": "366 marches, vue sur les toits."
+        },
+        {
+          "name": "Une balade en bateau sur les canaux",
+          "note": "Le meilleur point de vue sur la ville."
+        },
+        {
+          "name": "Le béguinage",
+          "note": "Un enclos paisible de maisons blanches."
+        }
       ],
       "hidden": [
-        { "name": "Damme", "note": "Un village à vélo le long d'un canal bordé de peupliers." }
+        {
+          "name": "Damme",
+          "note": "Un village à vélo le long d'un canal bordé de peupliers."
+        }
       ],
       "eat": "Le chocolat artisanal et le stoofvlees (carbonade flamande).",
       "getAround": "À pied ou à vélo.",
@@ -123,16 +225,31 @@
       "slug": "gand",
       "name": "Gand",
       "nights": "2 nuits",
-      "for": ["energique", "lent"],
+      "for": [
+        "energique",
+        "lent"
+      ],
       "summary": "Une ville étudiante, médiévale et vivante, moins touristique que Bruges, avec un chef-d'œuvre de la peinture.",
       "sleep": "Dans le centre, près du Graslei.",
       "see": [
-        { "name": "L'Agneau mystique", "note": "Le retable des frères Van Eyck, dans la cathédrale Saint-Bavon." },
-        { "name": "Le Graslei et le Korenlei", "note": "Les quais de façades médiévales." },
-        { "name": "Le château des comtes", "note": "Une forteresse en plein centre." }
+        {
+          "name": "L'Agneau mystique",
+          "note": "Le retable des frères Van Eyck, dans la cathédrale Saint-Bavon."
+        },
+        {
+          "name": "Le Graslei et le Korenlei",
+          "note": "Les quais de façades médiévales."
+        },
+        {
+          "name": "Le château des comtes",
+          "note": "Une forteresse en plein centre."
+        }
       ],
       "hidden": [
-        { "name": "La ruelle des graffitis", "note": "Werregarenstraatje, couverte de fresques renouvelées." }
+        {
+          "name": "La ruelle des graffitis",
+          "note": "Werregarenstraatje, couverte de fresques renouvelées."
+        }
       ],
       "eat": "Le waterzooi, ragoût crémeux local.",
       "getAround": "À pied et en tram.",
@@ -142,16 +259,31 @@
       "slug": "anvers",
       "name": "Anvers",
       "nights": "1 à 2 nuits",
-      "for": ["stratege", "energique"],
+      "for": [
+        "stratege",
+        "energique"
+      ],
       "summary": "La ville de Rubens, du diamant et de la mode, avec une gare parmi les plus belles du monde.",
       "sleep": "Dans le centre ou le quartier de l'Eilandje.",
       "see": [
-        { "name": "La gare centrale", "note": "Une « cathédrale ferroviaire »." },
-        { "name": "La maison de Rubens", "note": "L'atelier du peintre." },
-        { "name": "Le MAS", "note": "Un musée avec terrasse panoramique gratuite." }
+        {
+          "name": "La gare centrale",
+          "note": "Une « cathédrale ferroviaire »."
+        },
+        {
+          "name": "La maison de Rubens",
+          "note": "L'atelier du peintre."
+        },
+        {
+          "name": "Le MAS",
+          "note": "Un musée avec terrasse panoramique gratuite."
+        }
       ],
       "hidden": [
-        { "name": "Le musée Plantin-Moretus", "note": "Une imprimerie de la Renaissance classée à l'Unesco." }
+        {
+          "name": "Le musée Plantin-Moretus",
+          "note": "Une imprimerie de la Renaissance classée à l'Unesco."
+        }
       ],
       "eat": "Les frites du centre et les pralines.",
       "getAround": "À pied et en tram.",
@@ -162,28 +294,67 @@
     {
       "days": 4,
       "title": "Bruxelles et Bruges",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Bruxelles", "note": "Arrivée en train depuis Paris." },
-        { "days": "Jours 3 et 4", "place": "Bruges", "note": "Retour par Bruxelles." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Bruxelles",
+          "note": "Arrivée en train depuis Paris."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Bruges",
+          "note": "Retour par Bruxelles."
+        }
       ]
     },
     {
       "days": 7,
       "title": "Les villes flamandes",
-      "for": ["stratege", "energique"],
+      "for": [
+        "stratege",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Bruxelles", "note": "Grand-Place et Art nouveau." },
-        { "days": "Jours 3 et 4", "place": "Gand", "note": "Et excursion à Bruges." },
-        { "days": "Jours 5 et 6", "place": "Anvers", "note": "Rubens et la mode." },
-        { "days": "Jour 7", "place": "Retour", "note": "Train depuis Bruxelles." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Bruxelles",
+          "note": "Grand-Place et Art nouveau."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Gand",
+          "note": "Et excursion à Bruges."
+        },
+        {
+          "days": "Jours 5 et 6",
+          "place": "Anvers",
+          "note": "Rubens et la mode."
+        },
+        {
+          "days": "Jour 7",
+          "place": "Retour",
+          "note": "Train depuis Bruxelles."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le train", "text": "Dense et bon marché, réductions le week-end." },
-    { "title": "Le vélo", "text": "Excellent en Flandre, plat et bien équipé." },
-    { "title": "En voiture", "text": "Embouteillages autour de Bruxelles et zones à faibles émissions dans les grandes villes." }
+    {
+      "title": "Le train",
+      "text": "Dense et bon marché, réductions le week-end."
+    },
+    {
+      "title": "Le vélo",
+      "text": "Excellent en Flandre, plat et bien équipé."
+    },
+    {
+      "title": "En voiture",
+      "text": "Embouteillages autour de Bruxelles et zones à faibles émissions dans les grandes villes."
+    }
   ],
   "culture": [
     "Dans les Flandres, commence en anglais plutôt qu'en français si tu ne parles pas néerlandais.",
@@ -191,9 +362,21 @@
     "Les Belges disent septante et nonante pour 70 et 90."
   ],
   "phrases": [
-    { "fr": "Bonjour (Flandre)", "local": "Goedendag", "say": "khouden-dakh" },
-    { "fr": "Merci (Flandre)", "local": "Dank u", "say": "dank u" },
-    { "fr": "Santé !", "local": "Schol!", "say": "skhol" }
+    {
+      "fr": "Bonjour (Flandre)",
+      "local": "Goedendag",
+      "say": "khouden-dakh"
+    },
+    {
+      "fr": "Merci (Flandre)",
+      "local": "Dank u",
+      "say": "dank u"
+    },
+    {
+      "fr": "Santé !",
+      "local": "Schol!",
+      "say": "skhol"
+    }
   ],
   "checklist": [
     "Passeport valide si ta carte d'identité a été prolongée de 5 ans",
@@ -202,9 +385,21 @@
     "Imperméable"
   ],
   "faq": [
-    { "q": "Ma carte d'identité prolongée est-elle valable en Belgique ?", "a": "Non : la Belgique ne reconnaît pas la prolongation automatique de 5 ans. Avec une carte dont la date est dépassée, prends un passeport valide, faute de quoi tu risques une amende." },
-    { "q": "La Belgique est-elle sûre ?", "a": "Oui, le pays est en vigilance normale. Méfie-toi des pickpockets dans les gares bruxelloises." },
-    { "q": "Bruges ou Gand ?", "a": "Bruges pour le charme intact, Gand pour une ville vivante et moins touristique. Elles sont à 25 minutes de train : fais les deux." },
-    { "q": "Quel budget pour une semaine en Belgique ?", "a": "Compte environ 123 à 265 € par jour seul et 98 à 215 € par personne à deux, hors trajet aller-retour. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Ma carte d'identité prolongée est-elle valable en Belgique ?",
+      "a": "Non : la Belgique ne reconnaît pas la prolongation automatique de 5 ans. Avec une carte dont la date est dépassée, prends un passeport valide, faute de quoi tu risques une amende."
+    },
+    {
+      "q": "La Belgique est-elle sûre ?",
+      "a": "Oui, le pays est en vigilance normale. Méfie-toi des pickpockets dans les gares bruxelloises."
+    },
+    {
+      "q": "Bruges ou Gand ?",
+      "a": "Bruges pour le charme intact, Gand pour une ville vivante et moins touristique. Elles sont à 25 minutes de train : fais les deux."
+    },
+    {
+      "q": "Quel budget pour une semaine en Belgique ?",
+      "a": "Compte environ 123 à 265 € par jour seul et 98 à 215 € par personne à deux, hors trajet aller-retour. Ces montants sont des estimations à vérifier."
+    }
   ]
 }

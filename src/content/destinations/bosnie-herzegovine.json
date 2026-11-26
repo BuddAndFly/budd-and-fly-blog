@@ -12,7 +12,15 @@
     "title": "Guide Bosnie-Herzégovine : Sarajevo, Mostar, mines",
     "description": "Préparer un voyage en Bosnie-Herzégovine : papiers, mines, meilleure saison, budget, Sarajevo, Mostar, les cascades de Kravica. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/bosnie-herzegovine/hero.jpg",
+    "alt": "Le vieux pont de Mostar",
+    "credit": {
+      "author": "Ramirez",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg"
+    }
+  },
   "summary": "La Bosnie-Herzégovine se visite de mai à octobre. Pas de visa pour 90 jours ; la carte d'identité est acceptée, mais pas les cartes prolongées de 5 ans. Sarajevo, carrefour des cultures, et le vieux pont de Mostar sont émouvants. Des mines subsistent : ne quitte jamais les routes et les chemins fréquentés.",
   "essentials": {
     "bestPeriod": "Mai à octobre",
@@ -24,26 +32,78 @@
     "flight": "Environ 2 h 30 depuis Paris pour Sarajevo, souvent avec escale ; ou par Split et Dubrovnik"
   },
   "months": [
-    { "rating": 0, "note": "Froid et neigeux à Sarajevo ; ski à Jahorina et Bjelašnica." },
-    { "rating": 0, "note": "Comme en janvier." },
-    { "rating": 1, "note": "Fin de l'hiver." },
-    { "rating": 1, "note": "Printemps doux en Herzégovine." },
-    { "rating": 2, "note": "Vert et agréable partout." },
-    { "rating": 2, "note": "Idéal, cascades en eau." },
-    { "rating": 1, "note": "Très chaud à Mostar ; plongeons du vieux pont." },
-    { "rating": 1, "note": "Festival du film de Sarajevo, chaleur en Herzégovine." },
-    { "rating": 2, "note": "Températures idéales." },
-    { "rating": 2, "note": "Couleurs d'automne." },
-    { "rating": 0, "note": "Gris et pluvieux." },
-    { "rating": 0, "note": "Froid." }
+    {
+      "rating": 0,
+      "note": "Froid et neigeux à Sarajevo ; ski à Jahorina et Bjelašnica."
+    },
+    {
+      "rating": 0,
+      "note": "Comme en janvier."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de l'hiver."
+    },
+    {
+      "rating": 1,
+      "note": "Printemps doux en Herzégovine."
+    },
+    {
+      "rating": 2,
+      "note": "Vert et agréable partout."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal, cascades en eau."
+    },
+    {
+      "rating": 1,
+      "note": "Très chaud à Mostar ; plongeons du vieux pont."
+    },
+    {
+      "rating": 1,
+      "note": "Festival du film de Sarajevo, chaleur en Herzégovine."
+    },
+    {
+      "rating": 2,
+      "note": "Températures idéales."
+    },
+    {
+      "rating": 2,
+      "note": "Couleurs d'automne."
+    },
+    {
+      "rating": 0,
+      "note": "Gris et pluvieux."
+    },
+    {
+      "rating": 0,
+      "note": "Froid."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en marks convertibles (KM), par jour et par personne, hors vols. Convertis au taux du jour (1 € ≈ 1,96 KM, parité fixe).",
     "rows": [
-      { "label": "Hébergement (guesthouse ou petit hôtel)", "solo": "60 à 130 KM", "duo": "40 à 80 KM" },
-      { "label": "Repas", "solo": "30 à 60 KM", "duo": "30 à 60 KM" },
-      { "label": "Transports locaux", "solo": "5 à 25 KM", "duo": "5 à 20 KM" },
-      { "label": "Visites et entrées", "solo": "5 à 25 KM", "duo": "5 à 25 KM" }
+      {
+        "label": "Hébergement (guesthouse ou petit hôtel)",
+        "solo": "60 à 130 KM",
+        "duo": "40 à 80 KM"
+      },
+      {
+        "label": "Repas",
+        "solo": "30 à 60 KM",
+        "duo": "30 à 60 KM"
+      },
+      {
+        "label": "Transports locaux",
+        "solo": "5 à 25 KM",
+        "duo": "5 à 20 KM"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "5 à 25 KM",
+        "duo": "5 à 25 KM"
+      }
     ],
     "totalSolo": "100 à 240 KM",
     "totalDuo": "80 à 185 KM",
@@ -58,7 +118,10 @@
       "À la frontière routière, vérifie que ton passeport a bien été tamponné avec la date d'entrée : sinon, une amende peut être exigée à la sortie.",
       "Un passeport qui expire pendant le séjour empêche de quitter le pays."
     ],
-    "source": { "label": "France Diplomatie, Bosnie-Herzégovine, Entrée / séjour (mise à jour du 29 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bosnie-herzegovine/" },
+    "source": {
+      "label": "France Diplomatie, Bosnie-Herzégovine, Entrée / séjour (mise à jour du 29 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bosnie-herzegovine/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -68,7 +131,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Encéphalite à tiques : selon les conditions de séjour (zones rurales et forestières)."
     ],
-    "source": { "label": "France Diplomatie, Bosnie-Herzégovine, Santé (mise à jour du 29 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bosnie-herzegovine/" },
+    "source": {
+      "label": "France Diplomatie, Bosnie-Herzégovine, Santé (mise à jour du 29 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bosnie-herzegovine/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -78,7 +144,10 @@
       "Ne quitte jamais les routes goudronnées et les chemins fréquentés, évite les berges des rivières et ne touche à aucun objet suspect.",
       "Trois communautés cohabitent avec des tensions héritées de la guerre : fais preuve de retenue sur les sujets politiques."
     ],
-    "source": { "label": "France Diplomatie, Bosnie-Herzégovine, Sécurité (mise à jour du 29 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bosnie-herzegovine/" },
+    "source": {
+      "label": "France Diplomatie, Bosnie-Herzégovine, Sécurité (mise à jour du 29 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bosnie-herzegovine/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -86,17 +155,35 @@
       "slug": "sarajevo",
       "name": "Sarajevo",
       "nights": "3 nuits",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "summary": "La « Jérusalem de l'Europe », où mosquées, églises et synagogue se côtoient, marquée par le siège des années 1990.",
       "sleep": "Dans Baščaršija, le vieux bazar, ou juste à côté.",
       "see": [
-        { "name": "Baščaršija", "note": "Le bazar ottoman et la fontaine Sebilj." },
-        { "name": "Le tunnel de l'espoir", "note": "Le tunnel du siège, près de l'aéroport." },
-        { "name": "La galerie 11/07/95", "note": "Un mémorial de Srebrenica." }
+        {
+          "name": "Baščaršija",
+          "note": "Le bazar ottoman et la fontaine Sebilj."
+        },
+        {
+          "name": "Le tunnel de l'espoir",
+          "note": "Le tunnel du siège, près de l'aéroport."
+        },
+        {
+          "name": "La galerie 11/07/95",
+          "note": "Un mémorial de Srebrenica."
+        }
       ],
       "hidden": [
-        { "name": "La piste de bobsleigh olympique", "note": "Couverte de graffitis, sur le mont Trebević, en téléphérique." },
-        { "name": "Le pont Latin", "note": "Où fut assassiné l'archiduc François-Ferdinand en 1914." }
+        {
+          "name": "La piste de bobsleigh olympique",
+          "note": "Couverte de graffitis, sur le mont Trebević, en téléphérique."
+        },
+        {
+          "name": "Le pont Latin",
+          "note": "Où fut assassiné l'archiduc François-Ferdinand en 1914."
+        }
       ],
       "eat": "Les ćevapi de Baščaršija, la burek et le café bosnien servi en džezva.",
       "getAround": "À pied et en tram.",
@@ -106,16 +193,31 @@
       "slug": "mostar",
       "name": "Mostar",
       "nights": "2 nuits",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "summary": "Le vieux pont ottoman au-dessus de la Neretva turquoise, reconstruit après la guerre et classé à l'Unesco.",
       "sleep": "Dans la vieille ville, près du pont.",
       "see": [
-        { "name": "Le vieux pont (Stari Most)", "note": "Et les plongeurs qui sautent dans la rivière l'été." },
-        { "name": "La mosquée Koski Mehmed Pacha", "note": "Son minaret offre la plus belle vue sur le pont." },
-        { "name": "Le bazar de Kujundžiluk", "note": "La rue des artisans." }
+        {
+          "name": "Le vieux pont (Stari Most)",
+          "note": "Et les plongeurs qui sautent dans la rivière l'été."
+        },
+        {
+          "name": "La mosquée Koski Mehmed Pacha",
+          "note": "Son minaret offre la plus belle vue sur le pont."
+        },
+        {
+          "name": "Le bazar de Kujundžiluk",
+          "note": "La rue des artisans."
+        }
       ],
       "hidden": [
-        { "name": "Blagaj", "note": "Un monastère derviche au pied d'une falaise, à la source de la Buna." }
+        {
+          "name": "Blagaj",
+          "note": "Un monastère derviche au pied d'une falaise, à la source de la Buna."
+        }
       ],
       "eat": "Les poissons de rivière et les vins d'Herzégovine.",
       "getAround": "À pied ; bus ou train depuis Sarajevo (le train est très panoramique).",
@@ -125,13 +227,25 @@
       "slug": "kravica-pocitelj",
       "name": "Kravica, Počitelj et l'Herzégovine",
       "nights": "1 nuit",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "Des cascades en amphithéâtre, un village fortifié ottoman et des paysages de rivières.",
       "sleep": "À Mostar, ou dans une guesthouse près de Kravica.",
       "see": [
-        { "name": "Les cascades de Kravica", "note": "Baignade possible l'été." },
-        { "name": "Počitelj", "note": "Un village fortifié à flanc de colline." },
-        { "name": "La source de la Buna à Blagaj", "note": "Une rivière qui jaillit d'une grotte." }
+        {
+          "name": "Les cascades de Kravica",
+          "note": "Baignade possible l'été."
+        },
+        {
+          "name": "Počitelj",
+          "note": "Un village fortifié à flanc de colline."
+        },
+        {
+          "name": "La source de la Buna à Blagaj",
+          "note": "Une rivière qui jaillit d'une grotte."
+        }
       ],
       "hidden": [],
       "eat": "La truite des restaurants au bord de la Buna.",
@@ -143,27 +257,62 @@
     {
       "days": 5,
       "title": "Sarajevo et Mostar",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Sarajevo", "note": "Bazar, tunnel, Trebević." },
-        { "days": "Jours 4 et 5", "place": "Mostar", "note": "En train panoramique, Blagaj et Kravica." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Sarajevo",
+          "note": "Bazar, tunnel, Trebević."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Mostar",
+          "note": "En train panoramique, Blagaj et Kravica."
+        }
       ]
     },
     {
       "days": 9,
       "title": "Dubrovnik, Mostar et Sarajevo",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Dubrovnik (Croatie)", "note": "Arrivée." },
-        { "days": "Jours 3 à 5", "place": "Herzégovine et Mostar", "note": "Počitelj, Kravica, Blagaj." },
-        { "days": "Jours 6 à 9", "place": "Sarajevo", "note": "Retour depuis Sarajevo." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Dubrovnik (Croatie)",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Herzégovine et Mostar",
+          "note": "Počitelj, Kravica, Blagaj."
+        },
+        {
+          "days": "Jours 6 à 9",
+          "place": "Sarajevo",
+          "note": "Retour depuis Sarajevo."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le train", "text": "La ligne Sarajevo-Mostar traverse de superbes gorges." },
-    { "title": "Les bus", "text": "Ils relient toutes les villes, y compris vers la Croatie." },
-    { "title": "En voiture", "text": "Routes de montagne sinueuses ; carte verte d'assurance à vérifier. Ne te gare jamais sur un bas-côté non goudronné en campagne." }
+    {
+      "title": "Le train",
+      "text": "La ligne Sarajevo-Mostar traverse de superbes gorges."
+    },
+    {
+      "title": "Les bus",
+      "text": "Ils relient toutes les villes, y compris vers la Croatie."
+    },
+    {
+      "title": "En voiture",
+      "text": "Routes de montagne sinueuses ; carte verte d'assurance à vérifier. Ne te gare jamais sur un bas-côté non goudronné en campagne."
+    }
   ],
   "culture": [
     "Le café bosnien est un rituel : on le boit lentement, avec un loukoum.",
@@ -171,9 +320,21 @@
     "Les habitants parlent volontiers de la guerre si toi, tu écoutes avec respect."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Dobar dan", "say": "dobar dan" },
-    { "fr": "Merci", "local": "Hvala", "say": "hvala" },
-    { "fr": "Santé !", "local": "Živjeli!", "say": "jivyéli" }
+    {
+      "fr": "Bonjour",
+      "local": "Dobar dan",
+      "say": "dobar dan"
+    },
+    {
+      "fr": "Merci",
+      "local": "Hvala",
+      "say": "hvala"
+    },
+    {
+      "fr": "Santé !",
+      "local": "Živjeli!",
+      "say": "jivyéli"
+    }
   ],
   "checklist": [
     "Passeport valable 3 mois après le retour (carte d'identité prolongée refusée)",
@@ -182,9 +343,21 @@
     "Ne jamais quitter les routes et chemins fréquentés"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour la Bosnie-Herzégovine ?", "a": "Non pour 90 jours. Il faut un passeport valable 3 mois après le retour ou une carte d'identité valide ; les cartes prolongées de 5 ans sont refusées." },
-    { "q": "Y a-t-il encore des mines en Bosnie ?", "a": "Oui, dans certaines zones. Reste sur les routes goudronnées et les chemins fréquentés, et évite les berges des rivières." },
-    { "q": "Quand partir en Bosnie-Herzégovine ?", "a": "De mai à octobre ; mai-juin et septembre évitent la chaleur de l'Herzégovine." },
-    { "q": "Quel budget pour une semaine en Bosnie-Herzégovine ?", "a": "Compte environ 100 à 240 KM par jour seul et 80 à 185 KM par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour la Bosnie-Herzégovine ?",
+      "a": "Non pour 90 jours. Il faut un passeport valable 3 mois après le retour ou une carte d'identité valide ; les cartes prolongées de 5 ans sont refusées."
+    },
+    {
+      "q": "Y a-t-il encore des mines en Bosnie ?",
+      "a": "Oui, dans certaines zones. Reste sur les routes goudronnées et les chemins fréquentés, et évite les berges des rivières."
+    },
+    {
+      "q": "Quand partir en Bosnie-Herzégovine ?",
+      "a": "De mai à octobre ; mai-juin et septembre évitent la chaleur de l'Herzégovine."
+    },
+    {
+      "q": "Quel budget pour une semaine en Bosnie-Herzégovine ?",
+      "a": "Compte environ 100 à 240 KM par jour seul et 80 à 185 KM par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
+    }
   ]
 }
