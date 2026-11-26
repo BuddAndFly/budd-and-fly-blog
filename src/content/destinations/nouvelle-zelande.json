@@ -12,7 +12,15 @@
     "title": "Guide Nouvelle-Zélande : NZeTA, road trip",
     "description": "Préparer un voyage en Nouvelle-Zélande : NZeTA obligatoire, sécurité, meilleure saison, Auckland, Rotorua, Queenstown, Milford Sound. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/nouvelle-zelande/hero.jpg",
+    "alt": "Le Mitre Peak à Milford Sound",
+    "credit": {
+      "author": "MurielBendel",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Milford_Sound_Mitre_Peak_Cabbage_tree_Toetoe.JPG"
+    }
+  },
   "summary": "La Nouvelle-Zélande se visite de novembre à avril, pendant l'été austral ; l'hiver est réservé au ski. Pas de visa pour moins de 90 jours, mais l'autorisation électronique NZeTA, qui inclut une taxe touristique, est obligatoire. Le pays est sûr ; attention aux vols dans les vans. L'île du Nord volcanique et l'île du Sud alpine se découvrent en road trip.",
   "essentials": {
     "bestPeriod": "Novembre à avril",

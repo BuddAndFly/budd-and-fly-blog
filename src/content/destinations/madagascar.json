@@ -12,7 +12,15 @@
     "title": "Guide Madagascar : RN7, baobabs, lémuriens",
     "description": "Préparer un voyage à Madagascar : visa à l'arrivée, sécurité, meilleure saison, la RN7, l'allée des Baobabs, Nosy Be, Andasibe. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/madagascar/hero.jpg",
+    "alt": "L'allée des Baobabs à Madagascar",
+    "credit": {
+      "author": "Gavinevans",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Avenue_of_the_Baobabs_at_Sunset.jpg"
+    }
+  },
   "summary": "Madagascar se visite d'avril à novembre, en saison sèche ; de janvier à mars, les cyclones et les pluies coupent des routes. Le visa s'obtient à l'arrivée, avec un passeport valable 6 mois. Tout le pays est en vigilance renforcée : évite de voyager seul dans les zones isolées et passe par un opérateur reconnu. Lémuriens, baobabs et plages de Nosy Be justifient le voyage.",
   "essentials": {
     "bestPeriod": "Avril à novembre",

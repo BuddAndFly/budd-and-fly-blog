@@ -2,6 +2,7 @@
 import { render } from 'astro:content';
 import Base from '@/layouts/Base.astro';
 import Credit from '@/components/Credit.astro';
+import EarlyAccess from '@/components/EarlyAccess.astro';
 import { getArticles, getDestinations, isDraft, frDate, type Article } from '@/lib/content';
 import { CATEGORIES, SITE } from '@/data/site';
 
@@ -12,6 +13,10 @@ export async function getStaticPaths() {
 
 const { a } = Astro.props as { a: Article };
 const { Content, headings } = await render(a);
+// Le bouton d'avant-première s'insère juste après le paragraphe d'introduction.
+const html = a.rendered?.html ?? '';
+const cut = html.indexOf('</p>');
+const [intro, rest] = cut >= 0 ? [html.slice(0, cut + 4), html.slice(cut + 4)] : ['', html];
 const p = a.data;
 const all = await getArticles();
 const related = all.filter((x) => x.id !== a.id && x.data.category === p.category).slice(0, 3);
@@ -58,7 +63,12 @@ const jsonLd = [
         <ol>{toc.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol>
       </nav>
     )}
-    <article class="prose"><Content /></article>
+    {html ? (
+      <article class="prose"><Fragment set:html={intro} /><EarlyAccess /><Fragment set:html={rest} /></article>
+    ) : (
+      <article class="prose"><Content /></article>
+    )}
+    <EarlyAccess />
 
     {dests.length > 0 && (
       <aside class="box guides">

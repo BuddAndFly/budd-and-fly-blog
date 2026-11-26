@@ -1,0 +1,7 @@
+---
+import { EARLY_ACCESS } from '@/data/early-access.mjs';
+---
+<aside class="ea" aria-label="Avant-première de l’application">
+  <a class="ea__btn" href={EARLY_ACCESS.url} target="_blank" rel="noopener">{EARLY_ACCESS.label}<span class="ea__arrow" aria-hidden="true">→</span></a>
+  <p class="ea__note">{EARLY_ACCESS.note}</p>
+</aside>

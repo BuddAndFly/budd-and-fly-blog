@@ -12,7 +12,15 @@
     "title": "Guide Argentine : Patagonie, Buenos Aires",
     "description": "Préparer un voyage en Argentine : formalités, sécurité, meilleure saison, Buenos Aires, Iguazú, Salta, la Patagonie, El Calafate. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/argentine/hero.jpg",
+    "alt": "Le Fitz Roy en Patagonie",
+    "credit": {
+      "author": "Masa Sakano",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Mount_Fitz_Roy_at_Sunset.jpg"
+    }
+  },
   "summary": "L'Argentine se visite d'octobre à avril : c'est l'été austral, la seule saison pour la Patagonie. Pas de visa pour moins de 3 mois, avec un passeport valable pendant le séjour ; les règles se sont durcies en 2026 pour les séjours plus longs. Buenos Aires, Iguazú, les canyons de Salta et les glaciers de Patagonie demandent des vols intérieurs : le pays est immense.",
   "essentials": {
     "bestPeriod": "Octobre à avril",

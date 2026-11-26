@@ -12,7 +12,15 @@
     "title": "Guide Australie : eVisitor, Sydney, Uluru",
     "description": "Préparer un voyage en Australie : eVisitor, meilleure saison, Sydney, Melbourne, la Great Ocean Road, Uluru, la Grande Barrière. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/australie/hero.jpg",
+    "alt": "L'Opéra et le Harbour Bridge de Sydney",
+    "credit": {
+      "author": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_-_Dec_2008.jpg"
+    }
+  },
   "summary": "L'Australie se visite toute l'année selon les régions : le sud de septembre à avril, le nord tropical de mai à octobre. Il faut une autorisation électronique (eVisitor) ou un visa avant le départ. Le pays est en vigilance normale ; les risques sont surtout naturels (feux, inondations, cyclones au nord). Sydney, la côte est, Uluru et la Grande Barrière se relient en avion.",
   "essentials": {
     "bestPeriod": "Septembre à avril (sud), mai à octobre (nord)",

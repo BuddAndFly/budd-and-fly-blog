@@ -12,7 +12,15 @@
     "title": "Guide Bolivie : salar d'Uyuni, La Paz, Titicaca",
     "description": "Préparer un voyage en Bolivie : formalités, altitude, sécurité, meilleure saison, La Paz, le salar d'Uyuni, le lac Titicaca, Sucre. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/bolivie/hero.jpg",
+    "alt": "Le salar d'Uyuni",
+    "credit": {
+      "author": "Luca Galuzzi (Lucag), edit by Trialsanderrors",
+      "license": "CC BY-SA 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Piles_of_Salt_Salar_de_Uyuni_Bolivia_Luca_Galuzzi_2006_a.jpg"
+    }
+  },
   "summary": "La Bolivie se visite d'avril à octobre, en saison sèche ; de janvier à mars, le salar d'Uyuni devient un miroir mais certaines routes sont coupées. Pas de visa pour 90 jours, avec un passeport valable 6 mois à l'entrée. L'altitude est le grand défi : La Paz, le lac Titicaca et le salar sont tous entre 3 600 et 4 000 m.",
   "essentials": {
     "bestPeriod": "Avril à octobre",

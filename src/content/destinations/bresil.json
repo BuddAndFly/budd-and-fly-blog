@@ -12,7 +12,15 @@
     "title": "Guide Brésil : Rio, Iguaçu, Bahia, sécurité",
     "description": "Préparer un voyage au Brésil : formalités, sécurité, fièvre jaune, meilleure saison, Rio de Janeiro, Iguaçu, Salvador, Paraty, Amazonie. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/bresil/hero.jpg",
+    "alt": "Le Pain de Sucre à Rio de Janeiro",
+    "credit": {
+      "author": "Wilfredor",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Sugarloaf_Cable_Car_viewed_from_Rio_de_Janeiro,_Brazil.jpg"
+    }
+  },
   "summary": "Le Brésil se visite toute l'année selon les régions : avril-octobre pour le Nordeste et le Pantanal, décembre-mars pour l'été à Rio. Pas de visa pour 90 jours sur 180 ; le passeport doit être valable 6 mois après le retour. La vaccination contre la fièvre jaune est recommandée. Rio, les chutes d'Iguaçu et Bahia forment un premier voyage marquant, avec de vraies précautions de sécurité.",
   "essentials": {
     "bestPeriod": "Toute l'année selon la région",

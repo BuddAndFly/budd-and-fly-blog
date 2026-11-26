@@ -12,7 +12,15 @@
     "title": "Guide République dominicaine : Samaná, Punta Cana",
     "description": "Préparer un voyage en République dominicaine : e-ticket obligatoire, sécurité, meilleure saison, Saint-Domingue, Samaná, Punta Cana. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/republique-dominicaine/hero.jpg",
+    "alt": "Une plage de la péninsule de Samaná",
+    "credit": {
+      "author": "Danu Widjajanto",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Playa_Rinc%C3%B3n_December_2020_2.jpg"
+    }
+  },
   "summary": "La République dominicaine se visite de décembre à avril, en saison sèche, et de janvier à mars pour les baleines de Samaná. Le formulaire e-ticket (QR code gratuit) est obligatoire à l'entrée et à la sortie. Tout le pays est en vigilance renforcée : au-delà des complexes hôteliers, la péninsule de Samaná et Saint-Domingue colonial valent le détour.",
   "essentials": {
     "bestPeriod": "Décembre à avril",
