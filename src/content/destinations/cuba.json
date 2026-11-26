@@ -12,7 +12,15 @@
     "title": "Guide Cuba : crise énergétique, visa, La Havane",
     "description": "Préparer un voyage à Cuba : voyages non essentiels déconseillés, visa, D'Viajeros, sécurité, La Havane, Viñales, Trinidad. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/cuba/hero.jpg",
+    "alt": "Une rue coloniale de Trinidad",
+    "credit": {
+      "author": "Elemaki",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:02.Trinidad_(59).JPG"
+    }
+  },
   "summary": "Attention : en raison de la crise énergétique à Cuba et de ses répercussions, y compris sur les liaisons aériennes, France Diplomatie déconseille les voyages non essentiels vers l'île. Si tu pars quand même, il faut un visa de tourisme, le formulaire D'Viajeros et une grande prudence, l'insécurité étant en hausse. La meilleure saison va de novembre à avril.",
   "essentials": {
     "bestPeriod": "Novembre à avril",
@@ -24,26 +32,78 @@
     "flight": "Environ 10 h depuis Paris pour La Havane"
   },
   "months": [
-    { "rating": 2, "note": "Saison sèche, temps agréable." },
-    { "rating": 2, "note": "Le meilleur mois." },
-    { "rating": 2, "note": "Sec et chaud." },
-    { "rating": 2, "note": "Encore sec." },
-    { "rating": 1, "note": "Début des pluies." },
-    { "rating": 0, "note": "Saison des pluies et des cyclones." },
-    { "rating": 0, "note": "Chaleur et cyclones." },
-    { "rating": 0, "note": "Comme en juillet." },
-    { "rating": 0, "note": "Pic de la saison cyclonique." },
-    { "rating": 0, "note": "Cyclones encore possibles." },
-    { "rating": 1, "note": "Retour de la saison sèche." },
-    { "rating": 2, "note": "Sec, haute saison." }
+    {
+      "rating": 2,
+      "note": "Saison sèche, temps agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Le meilleur mois."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et chaud."
+    },
+    {
+      "rating": 2,
+      "note": "Encore sec."
+    },
+    {
+      "rating": 1,
+      "note": "Début des pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies et des cyclones."
+    },
+    {
+      "rating": 0,
+      "note": "Chaleur et cyclones."
+    },
+    {
+      "rating": 0,
+      "note": "Comme en juillet."
+    },
+    {
+      "rating": 0,
+      "note": "Pic de la saison cyclonique."
+    },
+    {
+      "rating": 0,
+      "note": "Cyclones encore possibles."
+    },
+    {
+      "rating": 1,
+      "note": "Retour de la saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec, haute saison."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en euros, par jour et par personne, hors vols : la situation monétaire cubaine change très vite, vérifie-la avant de partir.",
     "rows": [
-      { "label": "Hébergement (casa particular)", "solo": "30 à 70 €", "duo": "18 à 40 €" },
-      { "label": "Repas", "solo": "15 à 35 €", "duo": "15 à 35 €" },
-      { "label": "Transports (taxi collectif, bus Viazul)", "solo": "10 à 40 €", "duo": "8 à 30 €" },
-      { "label": "Visites et excursions", "solo": "5 à 25 €", "duo": "5 à 25 €" }
+      {
+        "label": "Hébergement (casa particular)",
+        "solo": "30 à 70 €",
+        "duo": "18 à 40 €"
+      },
+      {
+        "label": "Repas",
+        "solo": "15 à 35 €",
+        "duo": "15 à 35 €"
+      },
+      {
+        "label": "Transports (taxi collectif, bus Viazul)",
+        "solo": "10 à 40 €",
+        "duo": "8 à 30 €"
+      },
+      {
+        "label": "Visites et excursions",
+        "solo": "5 à 25 €",
+        "duo": "5 à 25 €"
+      }
     ],
     "totalSolo": "60 à 170 €",
     "totalDuo": "46 à 130 €",
@@ -57,7 +117,10 @@
       "Dans les jours précédant le voyage, remplis le formulaire en ligne D'Viajeros et imprime le document à présenter au départ et à l'arrivée.",
       "Ne dépasse jamais la durée autorisée : risque de détention ou d'amende au départ."
     ],
-    "source": { "label": "France Diplomatie, Cuba, Entrée / séjour (mise à jour du 13 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cuba/" },
+    "source": {
+      "label": "France Diplomatie, Cuba, Entrée / séjour (mise à jour du 13 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cuba/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -67,7 +130,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Assurance santé et rapatriement indispensable."
     ],
-    "source": { "label": "France Diplomatie, Cuba, Santé (mise à jour du 13 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cuba/" },
+    "source": {
+      "label": "France Diplomatie, Cuba, Santé (mise à jour du 13 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cuba/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -78,7 +144,10 @@
       "Sécurise ton logement et ne te déplace pas seul la nuit.",
       "Vols fréquents sur les plages : n'y emporte ni papiers, ni téléphone, ni portefeuille."
     ],
-    "source": { "label": "France Diplomatie, Cuba, Sécurité (mise à jour du 13 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cuba/" },
+    "source": {
+      "label": "France Diplomatie, Cuba, Sécurité (mise à jour du 13 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cuba/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -86,16 +155,31 @@
       "slug": "la-havane",
       "name": "La Havane",
       "nights": "3 nuits",
-      "for": ["tous", "energique"],
+      "for": [
+        "tous",
+        "energique"
+      ],
       "summary": "Une capitale aux façades coloniales décrépies, au Malecón et à la musique omniprésente.",
       "sleep": "Dans une casa particular de la Habana Vieja ou du Vedado.",
       "see": [
-        { "name": "La Habana Vieja", "note": "Les places coloniales classées à l'Unesco." },
-        { "name": "Le Malecón", "note": "Le front de mer au coucher du soleil." },
-        { "name": "Le Capitole et le Paseo del Prado", "note": "L'architecture de la ville." }
+        {
+          "name": "La Habana Vieja",
+          "note": "Les places coloniales classées à l'Unesco."
+        },
+        {
+          "name": "Le Malecón",
+          "note": "Le front de mer au coucher du soleil."
+        },
+        {
+          "name": "Le Capitole et le Paseo del Prado",
+          "note": "L'architecture de la ville."
+        }
       ],
       "hidden": [
-        { "name": "Fusterlandia", "note": "Un quartier couvert de mosaïques par un artiste." }
+        {
+          "name": "Fusterlandia",
+          "note": "Un quartier couvert de mosaïques par un artiste."
+        }
       ],
       "eat": "La ropa vieja (bœuf effiloché) et le riz aux haricots noirs.",
       "getAround": "À pied et en taxi officiel.",
@@ -105,13 +189,25 @@
       "slug": "vinales",
       "name": "Viñales",
       "nights": "2 nuits",
-      "for": ["lent", "explorateur"],
+      "for": [
+        "lent",
+        "explorateur"
+      ],
       "summary": "Une vallée de mogotes (pitons calcaires), de plantations de tabac et de fermes.",
       "sleep": "Dans une casa particular du village.",
       "see": [
-        { "name": "La vallée à cheval ou à pied", "note": "Avec un guide local." },
-        { "name": "Une plantation de tabac", "note": "Fabrication des cigares." },
-        { "name": "La grotte de l'Indien", "note": "En barque." }
+        {
+          "name": "La vallée à cheval ou à pied",
+          "note": "Avec un guide local."
+        },
+        {
+          "name": "Une plantation de tabac",
+          "note": "Fabrication des cigares."
+        },
+        {
+          "name": "La grotte de l'Indien",
+          "note": "En barque."
+        }
       ],
       "hidden": [],
       "eat": "Les repas fermiers des casas.",
@@ -122,16 +218,31 @@
       "slug": "trinidad",
       "name": "Trinidad",
       "nights": "3 nuits",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "summary": "Une ville coloniale pavée, figée dans le temps, entre mer et montagnes.",
       "sleep": "Dans le centre historique.",
       "see": [
-        { "name": "La Plaza Mayor", "note": "Le cœur colonial classé à l'Unesco." },
-        { "name": "La vallée de los Ingenios", "note": "Les anciennes sucreries." },
-        { "name": "La plage d'Ancón", "note": "À 12 km." }
+        {
+          "name": "La Plaza Mayor",
+          "note": "Le cœur colonial classé à l'Unesco."
+        },
+        {
+          "name": "La vallée de los Ingenios",
+          "note": "Les anciennes sucreries."
+        },
+        {
+          "name": "La plage d'Ancón",
+          "note": "À 12 km."
+        }
       ],
       "hidden": [
-        { "name": "Le parc Topes de Collantes", "note": "Cascades dans la montagne." }
+        {
+          "name": "Le parc Topes de Collantes",
+          "note": "Cascades dans la montagne."
+        }
       ],
       "eat": "La canchánchara, cocktail local au miel.",
       "getAround": "À pied ; taxi pour les environs.",
@@ -142,28 +253,66 @@
     {
       "days": 10,
       "title": "L'ouest cubain",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "La Havane", "note": "Arrivée." },
-        { "days": "Jours 4 et 5", "place": "Viñales", "note": "Tabac et mogotes." },
-        { "days": "Jours 6 à 8", "place": "Trinidad", "note": "Par Cienfuegos." },
-        { "days": "Jours 9 et 10", "place": "La Havane", "note": "Retour." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "La Havane",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Viñales",
+          "note": "Tabac et mogotes."
+        },
+        {
+          "days": "Jours 6 à 8",
+          "place": "Trinidad",
+          "note": "Par Cienfuegos."
+        },
+        {
+          "days": "Jours 9 et 10",
+          "place": "La Havane",
+          "note": "Retour."
+        }
       ]
     },
     {
       "days": 7,
       "title": "La Havane et Trinidad",
-      "for": ["energique"],
+      "for": [
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "La Havane", "note": "Arrivée." },
-        { "days": "Jours 4 à 7", "place": "Trinidad", "note": "Retour à La Havane." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "La Havane",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 4 à 7",
+          "place": "Trinidad",
+          "note": "Retour à La Havane."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les bus Viazul", "text": "Pour les touristes, entre les grandes villes ; réservation conseillée." },
-    { "title": "Les taxis collectifs", "text": "Plus rapides, prix à négocier." },
-    { "title": "Location de voiture", "text": "Chère, et l'accès au carburant peut être difficile." }
+    {
+      "title": "Les bus Viazul",
+      "text": "Pour les touristes, entre les grandes villes ; réservation conseillée."
+    },
+    {
+      "title": "Les taxis collectifs",
+      "text": "Plus rapides, prix à négocier."
+    },
+    {
+      "title": "Location de voiture",
+      "text": "Chère, et l'accès au carburant peut être difficile."
+    }
   ],
   "culture": [
     "Les Cubains sont accueillants ; la musique fait partie de la vie quotidienne.",
@@ -171,9 +320,21 @@
     "Internet est limité : télécharge cartes et documents avant de partir."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Buenos días", "say": "bouénos dias" },
-    { "fr": "Merci", "local": "Gracias", "say": "grassias" },
-    { "fr": "Combien ?", "local": "¿Cuánto cuesta?", "say": "kouannto kouesta" }
+    {
+      "fr": "Bonjour",
+      "local": "Buenos días",
+      "say": "bouénos dias"
+    },
+    {
+      "fr": "Merci",
+      "local": "Gracias",
+      "say": "grassias"
+    },
+    {
+      "fr": "Combien ?",
+      "local": "¿Cuánto cuesta?",
+      "say": "kouannto kouesta"
+    }
   ],
   "checklist": [
     "Vérifier l'avis de France Diplomatie avant de réserver (voyages non essentiels déconseillés)",
@@ -184,9 +345,21 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Peut-on voyager à Cuba en ce moment ?", "a": "France Diplomatie déconseille les voyages non essentiels vers Cuba à cause de la crise énergétique, qui touche aussi les liaisons aériennes. Consulte la page officielle avant toute réservation." },
-    { "q": "Faut-il un visa pour Cuba ?", "a": "Oui, un visa de tourisme de 90 jours, avec un passeport valable 6 mois après l'arrivée, un billet retour et le formulaire D'Viajeros." },
-    { "q": "Cuba est-elle sûre ?", "a": "L'insécurité et les vols augmentent, surtout à La Havane et Santiago. Ne sors pas seul la nuit et sécurise ton logement." },
-    { "q": "Quel budget pour 10 jours à Cuba ?", "a": "Compte environ 60 à 170 € par jour seul et 46 à 130 € par personne à deux, hors vols, en espèces. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Peut-on voyager à Cuba en ce moment ?",
+      "a": "France Diplomatie déconseille les voyages non essentiels vers Cuba à cause de la crise énergétique, qui touche aussi les liaisons aériennes. Consulte la page officielle avant toute réservation."
+    },
+    {
+      "q": "Faut-il un visa pour Cuba ?",
+      "a": "Oui, un visa de tourisme de 90 jours, avec un passeport valable 6 mois après l'arrivée, un billet retour et le formulaire D'Viajeros."
+    },
+    {
+      "q": "Cuba est-elle sûre ?",
+      "a": "L'insécurité et les vols augmentent, surtout à La Havane et Santiago. Ne sors pas seul la nuit et sécurise ton logement."
+    },
+    {
+      "q": "Quel budget pour 10 jours à Cuba ?",
+      "a": "Compte environ 60 à 170 € par jour seul et 46 à 130 € par personne à deux, hors vols, en espèces. Ces montants sont des estimations à vérifier."
+    }
   ]
 }

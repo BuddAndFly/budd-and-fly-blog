@@ -12,7 +12,15 @@
     "title": "Guide Taïwan : Taipei, Taroko, Sun Moon Lake",
     "description": "Préparer un voyage à Taïwan : sans visa 90 jours, carte d'arrivée en ligne, typhons, budget, Taipei, Taroko, Sun Moon Lake, Tainan. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/taiwan/hero.jpg",
+    "alt": "Les gorges de Taroko",
+    "credit": {
+      "author": "CEphoto, Uwe Aranas",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Taroko-Gorge_Hualien_Taiwan_Pudu-Bridge-at-Taroko-National-Park-01.jpg"
+    }
+  },
   "summary": "Taïwan se visite d'octobre à avril : l'été est chaud, humide et exposé aux typhons de juillet à octobre. Pas de visa pour 90 jours, avec un passeport valable plus de 6 mois et un billet retour ; la carte d'arrivée se remplit en ligne. Marchés de nuit de Taipei, gorges de Taroko et temples de Tainan se relient en train rapide.",
   "essentials": {
     "bestPeriod": "Octobre à avril",
@@ -24,26 +32,78 @@
     "flight": "Environ 14 h depuis Paris pour Taipei, en direct ou avec une escale"
   },
   "months": [
-    { "rating": 1, "note": "Frais et humide au nord, doux au sud." },
-    { "rating": 2, "note": "Nouvel An lunaire et fête des lanternes." },
-    { "rating": 2, "note": "Printemps, cerisiers en montagne." },
-    { "rating": 2, "note": "Doux et agréable." },
-    { "rating": 1, "note": "Pluies de la « saison des prunes »." },
-    { "rating": 1, "note": "Chaud et humide ; fête des bateaux-dragons." },
-    { "rating": 0, "note": "Très chaud, typhons." },
-    { "rating": 0, "note": "Comme en juillet." },
-    { "rating": 1, "note": "Typhons encore possibles." },
-    { "rating": 2, "note": "Le meilleur mois." },
-    { "rating": 2, "note": "Doux et sec." },
-    { "rating": 1, "note": "Frais au nord." }
+    {
+      "rating": 1,
+      "note": "Frais et humide au nord, doux au sud."
+    },
+    {
+      "rating": 2,
+      "note": "Nouvel An lunaire et fête des lanternes."
+    },
+    {
+      "rating": 2,
+      "note": "Printemps, cerisiers en montagne."
+    },
+    {
+      "rating": 2,
+      "note": "Doux et agréable."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies de la « saison des prunes »."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud et humide ; fête des bateaux-dragons."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud, typhons."
+    },
+    {
+      "rating": 0,
+      "note": "Comme en juillet."
+    },
+    {
+      "rating": 1,
+      "note": "Typhons encore possibles."
+    },
+    {
+      "rating": 2,
+      "note": "Le meilleur mois."
+    },
+    {
+      "rating": 2,
+      "note": "Doux et sec."
+    },
+    {
+      "rating": 1,
+      "note": "Frais au nord."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en dollars taïwanais, par jour et par personne, hors vols. Convertis au taux du jour.",
     "rows": [
-      { "label": "Hébergement (hôtel simple ou guesthouse)", "solo": "1 800 à 4 000 NT$", "duo": "1 100 à 2 500 NT$" },
-      { "label": "Repas", "solo": "600 à 1 400 NT$", "duo": "600 à 1 400 NT$" },
-      { "label": "Transports", "solo": "150 à 1 200 NT$", "duo": "150 à 1 200 NT$" },
-      { "label": "Visites et entrées", "solo": "100 à 500 NT$", "duo": "100 à 500 NT$" }
+      {
+        "label": "Hébergement (hôtel simple ou guesthouse)",
+        "solo": "1 800 à 4 000 NT$",
+        "duo": "1 100 à 2 500 NT$"
+      },
+      {
+        "label": "Repas",
+        "solo": "600 à 1 400 NT$",
+        "duo": "600 à 1 400 NT$"
+      },
+      {
+        "label": "Transports",
+        "solo": "150 à 1 200 NT$",
+        "duo": "150 à 1 200 NT$"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "100 à 500 NT$",
+        "duo": "100 à 500 NT$"
+      }
     ],
     "totalSolo": "2 650 à 7 100 NT$",
     "totalDuo": "1 950 à 5 600 NT$",
@@ -57,7 +117,10 @@
       "Sans billet retour ou de continuation, l'entrée est systématiquement refusée.",
       "Depuis le 1er octobre 2025, la carte d'arrivée papier est remplacée par la carte en ligne « Taiwan Arrival Card » (TWAC)."
     ],
-    "source": { "label": "France Diplomatie, Taïwan, Entrée / séjour (mise à jour du 4 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/taiwan/" },
+    "source": {
+      "label": "France Diplomatie, Taïwan, Entrée / séjour (mise à jour du 4 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/taiwan/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -67,7 +130,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Assurance santé et rapatriement indispensable."
     ],
-    "source": { "label": "France Diplomatie, Taïwan, Santé (mise à jour du 4 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/taiwan/" },
+    "source": {
+      "label": "France Diplomatie, Taïwan, Santé (mise à jour du 4 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/taiwan/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -76,7 +142,10 @@
       "Zone de forte activité sismique : apprends la conduite à tenir et rassure tes proches après une secousse.",
       "Typhons de juillet à octobre : inondations, glissements de terrain, chutes d'enseignes. Suis les alertes du service météo central, diffusées en anglais."
     ],
-    "source": { "label": "France Diplomatie, Taïwan, Sécurité (mise à jour du 4 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/taiwan/" },
+    "source": {
+      "label": "France Diplomatie, Taïwan, Sécurité (mise à jour du 4 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/taiwan/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -84,17 +153,35 @@
       "slug": "taipei",
       "name": "Taipei",
       "nights": "4 nuits",
-      "for": ["tous", "energique"],
+      "for": [
+        "tous",
+        "energique"
+      ],
       "summary": "Une capitale animée de marchés de nuit, de temples et de sources chaudes, entourée de montagnes.",
       "sleep": "Autour de Ximending ou de Zhongshan.",
       "see": [
-        { "name": "Taipei 101", "note": "Observatoire au sommet de l'ancienne plus haute tour du monde." },
-        { "name": "Le temple Longshan", "note": "Le plus ancien de la ville." },
-        { "name": "Le marché de nuit de Raohe ou Shilin", "note": "Street-food taïwanaise." }
+        {
+          "name": "Taipei 101",
+          "note": "Observatoire au sommet de l'ancienne plus haute tour du monde."
+        },
+        {
+          "name": "Le temple Longshan",
+          "note": "Le plus ancien de la ville."
+        },
+        {
+          "name": "Le marché de nuit de Raohe ou Shilin",
+          "note": "Street-food taïwanaise."
+        }
       ],
       "hidden": [
-        { "name": "Jiufen", "note": "Un village de thé à flanc de colline, à 1 h." },
-        { "name": "Beitou", "note": "Des sources chaudes en métro." }
+        {
+          "name": "Jiufen",
+          "note": "Un village de thé à flanc de colline, à 1 h."
+        },
+        {
+          "name": "Beitou",
+          "note": "Des sources chaudes en métro."
+        }
       ],
       "eat": "Les xiaolongbao, le thé aux perles (bubble tea) et le tofu puant (pour les curieux).",
       "getAround": "Métro avec carte EasyCard.",
@@ -104,13 +191,25 @@
       "slug": "taroko",
       "name": "Les gorges de Taroko (Hualien)",
       "nights": "2 nuits",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "summary": "Des gorges de marbre spectaculaires entre falaises et rivière turquoise.",
       "sleep": "À Hualien.",
       "see": [
-        { "name": "Le parc national de Taroko", "note": "Vérifie quels sentiers sont ouverts : certains ont été fermés après le séisme de 2024." },
-        { "name": "La côte de Qingshui", "note": "Des falaises plongeant dans le Pacifique." },
-        { "name": "La côte est", "note": "Route spectaculaire vers Taitung." }
+        {
+          "name": "Le parc national de Taroko",
+          "note": "Vérifie quels sentiers sont ouverts : certains ont été fermés après le séisme de 2024."
+        },
+        {
+          "name": "La côte de Qingshui",
+          "note": "Des falaises plongeant dans le Pacifique."
+        },
+        {
+          "name": "La côte est",
+          "note": "Route spectaculaire vers Taitung."
+        }
       ],
       "hidden": [],
       "eat": "Les wontons de Hualien.",
@@ -121,16 +220,31 @@
       "slug": "sun-moon-lake",
       "name": "Sun Moon Lake et Alishan",
       "nights": "2 à 3 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Un lac de montagne entouré de forêts, puis les plantations de thé et la mer de nuages d'Alishan.",
       "sleep": "Au bord du lac et dans le village d'Alishan.",
       "see": [
-        { "name": "Le tour du lac", "note": "En bateau ou à vélo." },
-        { "name": "Le lever du soleil à Alishan", "note": "Sur une mer de nuages." },
-        { "name": "Les plantations de thé oolong", "note": "Dégustation de thé de haute montagne." }
+        {
+          "name": "Le tour du lac",
+          "note": "En bateau ou à vélo."
+        },
+        {
+          "name": "Le lever du soleil à Alishan",
+          "note": "Sur une mer de nuages."
+        },
+        {
+          "name": "Les plantations de thé oolong",
+          "note": "Dégustation de thé de haute montagne."
+        }
       ],
       "hidden": [
-        { "name": "Le temple Wenwu", "note": "Au bord du lac." }
+        {
+          "name": "Le temple Wenwu",
+          "note": "Au bord du lac."
+        }
       ],
       "eat": "Le thé oolong et le poisson du lac.",
       "getAround": "Bus depuis Taichung.",
@@ -140,16 +254,31 @@
       "slug": "tainan",
       "name": "Tainan",
       "nights": "2 nuits",
-      "for": ["lent", "stratege"],
+      "for": [
+        "lent",
+        "stratege"
+      ],
       "summary": "L'ancienne capitale, ville des temples et de la gastronomie taïwanaise.",
       "sleep": "Dans le centre historique.",
       "see": [
-        { "name": "Le temple de Confucius", "note": "Le plus ancien de Taïwan." },
-        { "name": "Le fort Chihkan", "note": "Construit par les Hollandais." },
-        { "name": "La maison aux arbres d'Anping", "note": "Un entrepôt envahi par les banians." }
+        {
+          "name": "Le temple de Confucius",
+          "note": "Le plus ancien de Taïwan."
+        },
+        {
+          "name": "Le fort Chihkan",
+          "note": "Construit par les Hollandais."
+        },
+        {
+          "name": "La maison aux arbres d'Anping",
+          "note": "Un entrepôt envahi par les banians."
+        }
       ],
       "hidden": [
-        { "name": "Shennong Street", "note": "Une rue ancienne illuminée de lanternes le soir." }
+        {
+          "name": "Shennong Street",
+          "note": "Une rue ancienne illuminée de lanternes le soir."
+        }
       ],
       "eat": "Le danzai noodles et la soupe de poisson-lait au petit-déjeuner.",
       "getAround": "Scooter ou vélo ; train rapide depuis Taipei.",
@@ -160,28 +289,67 @@
     {
       "days": 10,
       "title": "Le tour de l'île",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Taipei", "note": "Et Jiufen." },
-        { "days": "Jours 5 et 6", "place": "Hualien et Taroko", "note": "En train." },
-        { "days": "Jours 7 et 8", "place": "Tainan", "note": "Par la côte sud." },
-        { "days": "Jours 9 et 10", "place": "Sun Moon Lake", "note": "Retour à Taipei en train rapide." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Taipei",
+          "note": "Et Jiufen."
+        },
+        {
+          "days": "Jours 5 et 6",
+          "place": "Hualien et Taroko",
+          "note": "En train."
+        },
+        {
+          "days": "Jours 7 et 8",
+          "place": "Tainan",
+          "note": "Par la côte sud."
+        },
+        {
+          "days": "Jours 9 et 10",
+          "place": "Sun Moon Lake",
+          "note": "Retour à Taipei en train rapide."
+        }
       ]
     },
     {
       "days": 5,
       "title": "Taipei et ses environs",
-      "for": ["energique", "stratege"],
+      "for": [
+        "energique",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Taipei", "note": "Temples et marchés." },
-        { "days": "Jours 4 et 5", "place": "Jiufen et Beitou", "note": "Village de thé et sources chaudes." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Taipei",
+          "note": "Temples et marchés."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Jiufen et Beitou",
+          "note": "Village de thé et sources chaudes."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le train à grande vitesse", "text": "Sur la côte ouest, de Taipei à Kaohsiung en 1 h 30." },
-    { "title": "Le train classique", "text": "Indispensable pour la côte est." },
-    { "title": "Le métro et l'EasyCard", "text": "Une carte pour le métro, les bus et même les achats en supérette." }
+    {
+      "title": "Le train à grande vitesse",
+      "text": "Sur la côte ouest, de Taipei à Kaohsiung en 1 h 30."
+    },
+    {
+      "title": "Le train classique",
+      "text": "Indispensable pour la côte est."
+    },
+    {
+      "title": "Le métro et l'EasyCard",
+      "text": "Une carte pour le métro, les bus et même les achats en supérette."
+    }
   ],
   "culture": [
     "Les Taïwanais sont réputés pour leur gentillesse envers les voyageurs.",
@@ -189,9 +357,21 @@
     "Fais la queue sagement : les files sont respectées partout."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "你好", "say": "ni hao" },
-    { "fr": "Merci", "local": "謝謝", "say": "xiè xie" },
-    { "fr": "Délicieux", "local": "好吃", "say": "hao tche" }
+    {
+      "fr": "Bonjour",
+      "local": "你好",
+      "say": "ni hao"
+    },
+    {
+      "fr": "Merci",
+      "local": "謝謝",
+      "say": "xiè xie"
+    },
+    {
+      "fr": "Délicieux",
+      "local": "好吃",
+      "say": "hao tche"
+    }
   ],
   "checklist": [
     "Passeport valable plus de 6 mois et billet retour",
@@ -201,9 +381,21 @@
     "Suivi des typhons en été"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour Taïwan ?", "a": "Non pour moins de 90 jours, avec un passeport valable plus de 6 mois et un billet retour. La carte d'arrivée se remplit en ligne." },
-    { "q": "Taïwan est-elle sûre ?", "a": "Oui, l'île est en vigilance normale. Les risques sont surtout naturels : séismes et typhons de juillet à octobre." },
-    { "q": "Quand partir à Taïwan ?", "a": "D'octobre à avril. L'été est chaud et exposé aux typhons." },
-    { "q": "Quel budget pour 10 jours à Taïwan ?", "a": "Compte environ 2 650 à 7 100 NT$ par jour seul et 1 950 à 5 600 NT$ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour Taïwan ?",
+      "a": "Non pour moins de 90 jours, avec un passeport valable plus de 6 mois et un billet retour. La carte d'arrivée se remplit en ligne."
+    },
+    {
+      "q": "Taïwan est-elle sûre ?",
+      "a": "Oui, l'île est en vigilance normale. Les risques sont surtout naturels : séismes et typhons de juillet à octobre."
+    },
+    {
+      "q": "Quand partir à Taïwan ?",
+      "a": "D'octobre à avril. L'été est chaud et exposé aux typhons."
+    },
+    {
+      "q": "Quel budget pour 10 jours à Taïwan ?",
+      "a": "Compte environ 2 650 à 7 100 NT$ par jour seul et 1 950 à 5 600 NT$ par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
+    }
   ]
 }

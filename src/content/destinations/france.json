@@ -1,0 +1,413 @@
+{
+  "name": "France",
+  "prep": "en France",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 108,
+  "status": "brouillon",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide France : où partir, saisons, budget, itinéraires",
+    "description": "Voyager en France : meilleure saison par région, budget seul ou à deux, Paris, la Provence, la Bretagne, les Alpes, le Pays basque. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La France se visite toute l'année : le printemps et septembre sont idéaux partout, l'été pour la mer et la montagne, l'hiver pour le ski. Pour un voyage en France, une carte d'identité, un passeport ou même un permis de conduire suffit en avion. Paris, la Provence, la Bretagne, les Alpes et le Pays basque se relient très bien en train.",
+  "essentials": {
+    "bestPeriod": "Avril à juin, septembre-octobre",
+    "languages": "Français",
+    "currency": "Euro (€)",
+    "timeDiff": "Heure de Paris",
+    "plugs": "Types C et E, 230 V",
+    "emergency": "112 (SAMU 15, police 17, pompiers 18)",
+    "flight": "Le train à grande vitesse relie la plupart des grandes villes en quelques heures"
+  },
+  "months": [
+    {
+      "rating": 1,
+      "note": "Ski dans les Alpes et les Pyrénées, villes calmes."
+    },
+    {
+      "rating": 1,
+      "note": "Ski, carnaval de Nice et de Dunkerque."
+    },
+    {
+      "rating": 1,
+      "note": "Début du printemps dans le sud."
+    },
+    {
+      "rating": 2,
+      "note": "Printemps, jardins et villes agréables."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal partout, ponts du mois de mai."
+    },
+    {
+      "rating": 2,
+      "note": "Longues journées, fête de la Musique le 21 juin."
+    },
+    {
+      "rating": 2,
+      "note": "Mer, montagne, festivals ; très fréquenté."
+    },
+    {
+      "rating": 1,
+      "note": "Haute saison, côtes bondées et chères."
+    },
+    {
+      "rating": 2,
+      "note": "Le meilleur compromis : mer encore chaude, vendanges."
+    },
+    {
+      "rating": 2,
+      "note": "Couleurs d'automne, vignobles."
+    },
+    {
+      "rating": 1,
+      "note": "Gris, mais villes et musées."
+    },
+    {
+      "rating": 1,
+      "note": "Marchés de Noël (Strasbourg, Colmar), début du ski."
+    }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors trajet aller-retour.",
+    "rows": [
+      {
+        "label": "Hébergement (hôtel simple, chambre d'hôtes, auberge)",
+        "solo": "70 à 150 €",
+        "duo": "45 à 95 €"
+      },
+      {
+        "label": "Repas",
+        "solo": "30 à 60 €",
+        "duo": "30 à 60 €"
+      },
+      {
+        "label": "Transports locaux",
+        "solo": "5 à 30 €",
+        "duo": "5 à 25 €"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "10 à 30 €",
+        "duo": "10 à 30 €"
+      }
+    ],
+    "totalSolo": "115 à 270 €",
+    "totalDuo": "90 à 210 €",
+    "note": "Paris et la Côte d'Azur en été sont nettement plus chères. Les billets de train réservés tôt et les cartes de réduction font baisser le coût des trajets.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pour un vol en France, un Français doit présenter un document d'identité avec photo : carte d'identité, passeport, titre de séjour ou permis de conduire (si l'on est reconnaissable sur la photo).",
+    "points": [
+      "Le livret de famille ou un justificatif de demande de papiers, sans photo, sont refusés.",
+      "Depuis le 24 juin 2026, la carte d'identité numérique (application France Identité) est acceptée au dépôt des bagages et à l'embarquement dans les aéroports français.",
+      "Les cartes d'identité délivrées à des majeurs entre 2004 et 2013 sont prolongées de 5 ans sous conditions."
+    ],
+    "source": {
+      "label": "Service-public.gouv.fr, Documents d'identité nécessaires pour voyager en avion (F591) et carte d'identité de plus de 10 ans (F32303)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F591"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Il n'y a pas de paludisme en France métropolitaine.",
+    "points": [],
+    "source": {
+      "label": "Institut Pasteur, Recommandations sanitaires par pays, France",
+      "url": "https://www.pasteur.fr/fr/votre-sante/voyages-et-sante/recommandations-sanitaires-par-pays/france"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": null,
+  "cities": [
+    {
+      "slug": "paris",
+      "name": "Paris",
+      "nights": "3 à 4 nuits",
+      "for": [
+        "tous",
+        "energique",
+        "stratege"
+      ],
+      "summary": "Musées immenses, quartiers de caractère et bords de Seine classés à l'Unesco.",
+      "sleep": "Au Marais, à Saint-Germain ou dans le 11e arrondissement.",
+      "see": [
+        {
+          "name": "Le Louvre et le musée d'Orsay",
+          "note": "Réservation conseillée."
+        },
+        {
+          "name": "Les bords de Seine et Notre-Dame",
+          "note": "À pied, de l'île de la Cité au Louvre."
+        },
+        {
+          "name": "Montmartre",
+          "note": "Tôt le matin pour éviter la foule."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le canal Saint-Martin",
+          "note": "Ses passerelles et ses cafés."
+        },
+        {
+          "name": "La Coulée verte",
+          "note": "Une promenade plantée sur un ancien viaduc."
+        }
+      ],
+      "eat": "Un bistrot de quartier, une boulangerie et un marché couvert.",
+      "getAround": "Métro, RER, vélos en libre-service et marche.",
+      "tip": "Les musées nationaux sont souvent gratuits le premier dimanche de certains mois : vérifie avant."
+    },
+    {
+      "slug": "provence",
+      "name": "La Provence",
+      "nights": "4 nuits",
+      "for": [
+        "lent",
+        "tous"
+      ],
+      "summary": "Villages perchés, lavande, marchés et lumière du sud, entre Avignon et le Luberon.",
+      "sleep": "À Avignon, Arles ou dans un village du Luberon.",
+      "see": [
+        {
+          "name": "Le palais des Papes d'Avignon",
+          "note": "Et le pont Saint-Bénézet."
+        },
+        {
+          "name": "Les villages du Luberon",
+          "note": "Gordes, Roussillon et ses ocres."
+        },
+        {
+          "name": "Les champs de lavande",
+          "note": "De fin juin à fin juillet, sur le plateau de Valensole."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les Baux-de-Provence",
+          "note": "Et les Carrières de Lumières."
+        }
+      ],
+      "eat": "La ratatouille, la tapenade et les marchés provençaux.",
+      "getAround": "Voiture indispensable pour les villages.",
+      "tip": "Visite les villages tôt le matin : l'après-midi, ils sont pris d'assaut."
+    },
+    {
+      "slug": "bretagne",
+      "name": "La Bretagne",
+      "nights": "4 nuits",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "Côtes sauvages, phares, cités de caractère et crêperies.",
+      "sleep": "À Saint-Malo, dans le golfe du Morbihan ou sur la côte de Granit rose.",
+      "see": [
+        {
+          "name": "Saint-Malo et ses remparts",
+          "note": "À marée haute et à marée basse."
+        },
+        {
+          "name": "La côte de Granit rose",
+          "note": "Le sentier des douaniers à Ploumanac'h."
+        },
+        {
+          "name": "La pointe du Raz",
+          "note": "Le bout du monde breton."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le golfe du Morbihan",
+          "note": "Ses îles en bateau."
+        }
+      ],
+      "eat": "Les galettes, les crêpes et les huîtres de Cancale.",
+      "getAround": "Voiture ou vélo sur les voies vertes.",
+      "tip": "Consulte les horaires des marées avant de partir en balade sur l'estran."
+    },
+    {
+      "slug": "alpes",
+      "name": "Les Alpes",
+      "nights": "3 nuits",
+      "for": [
+        "explorateur",
+        "energique"
+      ],
+      "summary": "Le mont Blanc, les lacs et les villages de montagne, été comme hiver.",
+      "sleep": "À Annecy ou Chamonix.",
+      "see": [
+        {
+          "name": "Le lac d'Annecy",
+          "note": "À vélo sur la piste cyclable."
+        },
+        {
+          "name": "L'aiguille du Midi",
+          "note": "En téléphérique face au mont Blanc."
+        },
+        {
+          "name": "La mer de Glace",
+          "note": "Par le train du Montenvers."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le lac Blanc",
+          "note": "Une randonnée avec le mont Blanc en reflet."
+        }
+      ],
+      "eat": "La tartiflette et la fondue savoyarde.",
+      "getAround": "Train jusqu'à Annecy ou Chamonix, puis bus et remontées.",
+      "tip": "En haute montagne, les conditions changent vite : renseigne-toi auprès des offices de la haute montagne."
+    },
+    {
+      "slug": "pays-basque",
+      "name": "Le Pays basque",
+      "nights": "3 nuits",
+      "for": [
+        "energique",
+        "lent"
+      ],
+      "summary": "Surf, villages rouges et blancs et gastronomie, entre océan et montagne.",
+      "sleep": "À Biarritz, Saint-Jean-de-Luz ou Bayonne.",
+      "see": [
+        {
+          "name": "Biarritz",
+          "note": "La Grande Plage et le rocher de la Vierge."
+        },
+        {
+          "name": "Saint-Jean-de-Luz",
+          "note": "Le port et la baie."
+        },
+        {
+          "name": "Espelette",
+          "note": "Ses façades et ses piments."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La Rhune",
+          "note": "En petit train à crémaillère, vue sur l'océan et les Pyrénées."
+        }
+      ],
+      "eat": "Le gâteau basque, la piperade et les pintxos.",
+      "getAround": "Voiture ou bus côtiers.",
+      "tip": "Saint-Sébastien, en Espagne, est à moins d'une heure."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Paris et la Provence",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Paris",
+          "note": "Musées et quartiers."
+        },
+        {
+          "days": "Jours 4 à 7",
+          "place": "Provence",
+          "note": "En TGV jusqu'à Avignon, puis voiture."
+        }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "La France de l'Atlantique",
+      "for": [
+        "lent",
+        "explorateur"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 4",
+          "place": "Bretagne",
+          "note": "Saint-Malo et la côte."
+        },
+        {
+          "days": "Jours 5 et 6",
+          "place": "Châteaux de la Loire",
+          "note": "Chambord, Chenonceau."
+        },
+        {
+          "days": "Jours 7 à 10",
+          "place": "Pays basque",
+          "note": "Retour en train depuis Bayonne."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Le train",
+      "text": "Le TGV relie les grandes villes ; les TER desservent les régions. Réserve tôt pour les meilleurs prix."
+    },
+    {
+      "title": "En voiture",
+      "text": "Indispensable pour les villages ; autoroutes à péage."
+    },
+    {
+      "title": "Le vélo",
+      "text": "Nombreuses voies vertes, comme la Loire à vélo."
+    }
+  ],
+  "culture": [
+    "On dit « bonjour » en entrant dans un commerce.",
+    "Le service est compris au restaurant ; un pourboire reste apprécié.",
+    "Le déjeuner se prend souvent entre 12 h et 14 h ; beaucoup de cuisines ferment ensuite."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Bonjour"
+    },
+    {
+      "fr": "Bonjour (breton)",
+      "local": "Demat",
+      "say": "démat"
+    },
+    {
+      "fr": "Bonjour (basque)",
+      "local": "Egun on",
+      "say": "égoun on"
+    }
+  ],
+  "checklist": [
+    "Pièce d'identité avec photo en cours de validité",
+    "Carte Vitale ou carte européenne d'assurance maladie",
+    "Billets de train réservés tôt",
+    "Réservations pour l'été sur les côtes",
+    "Répulsif contre les tiques pour la randonnée"
+  ],
+  "faq": [
+    {
+      "q": "Quels papiers pour prendre l'avion en France ?",
+      "a": "Une pièce d'identité avec photo : carte d'identité, passeport, titre de séjour ou permis de conduire. La carte d'identité numérique France Identité est aussi acceptée dans les aéroports français depuis juin 2026."
+    },
+    {
+      "q": "Quand voyager en France ?",
+      "a": "D'avril à juin et en septembre-octobre pour éviter la foule ; l'été pour la mer et la montagne, l'hiver pour le ski."
+    },
+    {
+      "q": "Où partir en France pour une semaine ?",
+      "a": "Paris et la Provence, la Bretagne, les Alpes ou le Pays basque : chaque région tient en une semaine."
+    },
+    {
+      "q": "Quel budget pour une semaine en France ?",
+      "a": "Compte environ 115 à 270 € par jour seul et 90 à 210 € par personne à deux, hors trajet. Ces montants sont des estimations à vérifier."
+    }
+  ]
+}

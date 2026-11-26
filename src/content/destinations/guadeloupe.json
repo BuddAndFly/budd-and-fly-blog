@@ -1,0 +1,339 @@
+{
+  "name": "Guadeloupe",
+  "prep": "en Guadeloupe",
+  "kind": "territoire",
+  "continent": "Amérique centrale et Caraïbes",
+  "priority": 110,
+  "status": "brouillon",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Guadeloupe : îles, Soufrière, plages, budget",
+    "description": "Préparer un voyage en Guadeloupe : papiers, santé, meilleure saison, budget, Basse-Terre, Grande-Terre, Marie-Galante, les Saintes. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Guadeloupe se visite de décembre à avril, pendant la saison sèche ; de juin à novembre, c'est la saison des pluies et des cyclones. Une carte d'identité suffit pour un vol direct. Volcan de la Soufrière, forêt tropicale de Basse-Terre, plages de Grande-Terre et petites îles : un archipel très varié.",
+  "essentials": {
+    "bestPeriod": "Décembre à avril",
+    "languages": "Français et créole guadeloupéen",
+    "currency": "Euro (€)",
+    "timeDiff": "-5 h en hiver, -6 h en été",
+    "plugs": "Types C et E, 230 V",
+    "emergency": "112 (SAMU 15, police 17, pompiers 18)",
+    "flight": "Environ 8 h 30 en vol direct depuis Paris"
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche (carême), carnaval."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal, carnaval."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et ensoleillé."
+    },
+    {
+      "rating": 2,
+      "note": "Encore sec, Pâques en famille sur les plages."
+    },
+    {
+      "rating": 1,
+      "note": "Transition, premières pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison cyclonique."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud et humide."
+    },
+    {
+      "rating": 0,
+      "note": "Cyclones possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Pic de la saison cyclonique."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies et cyclones possibles."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Retour du sec, fêtes de fin d'année."
+    }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
+    "rows": [
+      {
+        "label": "Hébergement (gîte, bungalow, hôtel)",
+        "solo": "70 à 150 €",
+        "duo": "45 à 95 €"
+      },
+      {
+        "label": "Repas",
+        "solo": "25 à 55 €",
+        "duo": "25 à 55 €"
+      },
+      {
+        "label": "Voiture et essence",
+        "solo": "30 à 50 €",
+        "duo": "15 à 25 €"
+      },
+      {
+        "label": "Activités et ferries",
+        "solo": "10 à 60 €",
+        "duo": "10 à 60 €"
+      }
+    ],
+    "totalSolo": "135 à 315 €",
+    "totalDuo": "95 à 235 €",
+    "note": "La vie est chère sur place, mais les gîtes avec cuisine et les lolos (petits restaurants locaux) aident à tenir le budget.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pour un majeur français, une carte nationale d'identité ou un passeport en cours de validité suffit pour voyager en Guadeloupe.",
+    "points": [
+      "En cas de transit par un pays hors Union européenne ou hors Schengen, un passeport en cours de validité est nécessaire.",
+      "Attention à Saint-Martin : la partie néerlandaise (Sint Maarten) est hors Union européenne, un passeport est demandé.",
+      "Pour un mineur, l'autorisation de sortie du territoire n'est requise qu'en cas d'escale à l'étranger."
+    ],
+    "source": {
+      "label": "Service-public.gouv.fr, Avec quels documents un Français peut-il se rendre dans les Drom ? (F398, vérifié le 26 août 2025)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F398"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Il n'y a pas de transmission de paludisme en Guadeloupe. Les vaccinations du calendrier vaccinal doivent être à jour, et l'hépatite A est recommandée.",
+    "points": [
+      "Un certificat de vaccination contre la fièvre jaune est exigé des voyageurs venant d'un pays à risque, y compris après un transit de plus de 12 heures.",
+      "Dengue et chikungunya : protège-toi des moustiques ; la vaccination peut se discuter selon la situation épidémique et la durée du séjour."
+    ],
+    "source": {
+      "label": "Institut Pasteur, Recommandations sanitaires par pays, Guadeloupe",
+      "url": "https://www.pasteur.fr/fr/votre-sante/voyages-et-sante/recommandations-sanitaires-par-pays/guadeloupe"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": null,
+  "cities": [
+    {
+      "slug": "basse-terre",
+      "name": "Basse-Terre",
+      "nights": "4 nuits",
+      "for": [
+        "explorateur",
+        "tous"
+      ],
+      "summary": "L'aile volcanique et sauvage : la Soufrière, les cascades et la forêt tropicale du parc national.",
+      "sleep": "À Deshaies ou Bouillante.",
+      "see": [
+        {
+          "name": "La Soufrière",
+          "note": "Le volcan, en randonnée par temps clair."
+        },
+        {
+          "name": "Les chutes du Carbet",
+          "note": "Dans le parc national."
+        },
+        {
+          "name": "La réserve Cousteau",
+          "note": "Snorkeling autour des îlets Pigeon."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La plage de Grande-Anse à Deshaies",
+          "note": "Une longue plage dorée."
+        }
+      ],
+      "eat": "Le colombo, les accras et le jus de canne.",
+      "getAround": "Voiture.",
+      "tip": "Monte à la Soufrière tôt le matin, avant les nuages."
+    },
+    {
+      "slug": "grande-terre",
+      "name": "Grande-Terre",
+      "nights": "3 nuits",
+      "for": [
+        "lent",
+        "energique"
+      ],
+      "summary": "L'aile calcaire : plages de sable blanc, lagons et falaises de la pointe des Châteaux.",
+      "sleep": "À Sainte-Anne ou Saint-François.",
+      "see": [
+        {
+          "name": "La pointe des Châteaux",
+          "note": "Au lever du soleil."
+        },
+        {
+          "name": "La plage de la Caravelle",
+          "note": "À Sainte-Anne."
+        },
+        {
+          "name": "Le Mémorial ACTe",
+          "note": "Le centre sur l'histoire de l'esclavage, à Pointe-à-Pitre."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La Porte d'Enfer",
+          "note": "Un lagon au nord de l'île."
+        }
+      ],
+      "eat": "Le bokit et les poissons grillés.",
+      "getAround": "Voiture.",
+      "tip": "Le marché de Pointe-à-Pitre se visite le matin."
+    },
+    {
+      "slug": "les-iles",
+      "name": "Les Saintes et Marie-Galante",
+      "nights": "3 nuits",
+      "for": [
+        "lent",
+        "tous"
+      ],
+      "summary": "Des îles hors du temps : la baie des Saintes et les champs de canne de Marie-Galante.",
+      "sleep": "À Terre-de-Haut (Saintes) ou à Grand-Bourg (Marie-Galante).",
+      "see": [
+        {
+          "name": "Le fort Napoléon",
+          "note": "Vue sur la baie des Saintes."
+        },
+        {
+          "name": "La plage de Pompierre",
+          "note": "Aux Saintes."
+        },
+        {
+          "name": "Les distilleries de Marie-Galante",
+          "note": "Rhum agricole et moulins."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La Désirade",
+          "note": "L'île la plus sauvage de l'archipel."
+        }
+      ],
+      "eat": "Les tourments d'amour, pâtisserie des Saintes.",
+      "getAround": "Ferry, puis scooter, vélo ou à pied.",
+      "tip": "Dors sur place pour profiter des îles après le départ des excursions."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Les deux ailes et les îles",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 4",
+          "place": "Basse-Terre",
+          "note": "Volcan et forêt."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Grande-Terre",
+          "note": "Plages."
+        },
+        {
+          "days": "Jours 8 à 10",
+          "place": "Les Saintes ou Marie-Galante",
+          "note": "En ferry."
+        }
+      ]
+    },
+    {
+      "days": 7,
+      "title": "Guadeloupe essentielle",
+      "for": [
+        "energique"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 4",
+          "place": "Basse-Terre",
+          "note": "Soufrière, cascades, Cousteau."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Grande-Terre",
+          "note": "Plages et pointe des Châteaux."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "En voiture",
+      "text": "Indispensable ; embouteillages autour de Pointe-à-Pitre aux heures de pointe."
+    },
+    {
+      "title": "Les ferries",
+      "text": "Vers les Saintes, Marie-Galante, la Désirade et la Dominique."
+    }
+  ],
+  "culture": [
+    "Le gwoka, musique et danse classées à l'Unesco, rythme les soirées.",
+    "Le carnaval, de janvier à mars, est un grand moment.",
+    "On salue toujours en entrant quelque part."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour, ça va ?",
+      "local": "Ka ou fè ?",
+      "say": "ka ou fè"
+    },
+    {
+      "fr": "Ça va bien",
+      "local": "Sa ka maché",
+      "say": "sa ka maché"
+    },
+    {
+      "fr": "Merci",
+      "local": "Mèsi",
+      "say": "mèsi"
+    }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport valide (passeport pour Sint Maarten)",
+    "Répulsif anti-moustiques",
+    "Chaussures de randonnée pour la Soufrière",
+    "Suivi météo en saison cyclonique",
+    "Ferries réservés en haute saison"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un passeport pour la Guadeloupe ?",
+      "a": "Non : une carte d'identité valide suffit pour un Français en vol direct. Un passeport est nécessaire en cas d'escale hors Union européenne ou hors Schengen, et pour la partie néerlandaise de Saint-Martin."
+    },
+    {
+      "q": "Quand partir en Guadeloupe ?",
+      "a": "De décembre à avril, pendant la saison sèche."
+    },
+    {
+      "q": "Y a-t-il des moustiques en Guadeloupe ?",
+      "a": "Oui : il n'y a pas de paludisme, mais la dengue et le chikungunya peuvent circuler. Protège-toi des piqûres."
+    },
+    {
+      "q": "Quel budget pour 10 jours en Guadeloupe ?",
+      "a": "Compte environ 135 à 315 € par jour seul et 95 à 235 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
+    }
+  ]
+}

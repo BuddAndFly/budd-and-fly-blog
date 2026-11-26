@@ -12,7 +12,15 @@
     "title": "Guide Lettonie : Riga, Gauja, Jurmala, budget",
     "description": "Préparer un voyage en Lettonie : papiers, alertes aux drones, meilleure saison, budget, Riga, le parc de la Gauja, Jurmala, Kuldiga. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/lettonie/hero.jpg",
+    "alt": "La vieille ville de Riga",
+    "credit": {
+      "author": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:House_of_Blackheads_and_St._Peter%27s_Church_Tower,_Riga,_Latvia_-_Diliff.jpg"
+    }
+  },
   "summary": "La Lettonie se visite de mai à septembre, quand Riga vit en terrasse et que les plages de la Baltique s'animent. Une carte d'identité suffit. Le pays est en vigilance normale, mais un système d'alerte aux drones fonctionne dans l'est du pays. Riga, sa vieille ville et son Art nouveau, se combine avec les forêts de la Gauja et la côte.",
   "essentials": {
     "bestPeriod": "Mai à septembre",

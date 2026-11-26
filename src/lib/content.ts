@@ -37,7 +37,7 @@ export function missingChecks(d: Destination) {
   const missing: string[] = [];
   if (!d.data.entry.checkedAt) missing.push('Entrée et formalités');
   if (!d.data.health.checkedAt) missing.push('Santé');
-  if (!d.data.safety.checkedAt) missing.push('Sécurité');
+  if (!d.data.safety?.checkedAt) missing.push('Sécurité');
   if (!d.data.budget.checkedAt) missing.push('Budget');
   if (!d.data.author) missing.push('Auteur');
   if (!d.data.reviewer) missing.push('Relecture');

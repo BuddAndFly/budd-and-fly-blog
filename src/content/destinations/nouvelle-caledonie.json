@@ -1,0 +1,349 @@
+{
+  "name": "Nouvelle-Calédonie",
+  "prep": "en Nouvelle-Calédonie",
+  "kind": "territoire",
+  "continent": "Océanie",
+  "priority": 113,
+  "status": "brouillon",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Nouvelle-Calédonie : lagon, île des Pins, budget",
+    "description": "Préparer un voyage en Nouvelle-Calédonie : papiers, santé, meilleure saison, budget, Nouméa, l'île des Pins, les îles Loyauté, la côte est. PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Nouvelle-Calédonie se visite de septembre à décembre et d'avril à juin, entre la saison fraîche et la saison chaude et cyclonique. Une pièce d'identité en cours de validité suffit, mais le vol fait escale dans un pays étranger : un passeport est alors obligatoire. Plus grand lagon du monde, île des Pins et culture kanak.",
+  "essentials": {
+    "bestPeriod": "Septembre à décembre, avril à juin",
+    "languages": "Français et langues kanak",
+    "currency": "Franc Pacifique (XPF)",
+    "timeDiff": "+10 h en hiver, +9 h en été",
+    "plugs": "Types C et E, 220 V",
+    "emergency": "SAMU 15, police 17, pompiers 18",
+    "flight": "Environ 24 h depuis Paris pour Nouméa, avec une escale"
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Saison chaude et cyclonique."
+    },
+    {
+      "rating": 0,
+      "note": "Pic du risque cyclonique."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison cyclonique."
+    },
+    {
+      "rating": 2,
+      "note": "Transition, mer chaude."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 1,
+      "note": "Saison fraîche, mer plus froide."
+    },
+    {
+      "rating": 1,
+      "note": "Frais, baleines au sud."
+    },
+    {
+      "rating": 1,
+      "note": "Baleines dans le lagon sud."
+    },
+    {
+      "rating": 2,
+      "note": "Début de la meilleure saison."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et ensoleillé."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison chaude."
+    }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors vols internationaux (1 000 XPF ≈ 8,38 €, parité fixe).",
+    "rows": [
+      {
+        "label": "Hébergement (gîte, hôtel, accueil en tribu)",
+        "solo": "80 à 180 €",
+        "duo": "50 à 115 €"
+      },
+      {
+        "label": "Repas",
+        "solo": "30 à 60 €",
+        "duo": "30 à 60 €"
+      },
+      {
+        "label": "Voiture, vols et ferries vers les îles",
+        "solo": "40 à 120 €",
+        "duo": "25 à 90 €"
+      },
+      {
+        "label": "Activités",
+        "solo": "10 à 80 €",
+        "duo": "10 à 80 €"
+      }
+    ],
+    "totalSolo": "160 à 440 €",
+    "totalDuo": "115 à 345 €",
+    "note": "Les gîtes et l'accueil en tribu sont abordables et authentiques. Les îles se rejoignent en avion ou en ferry depuis Nouméa.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pour voyager en outre-mer, un Français doit disposer d'un document d'identité en cours de validité ; une carte d'identité suffit.",
+    "points": [
+      "Le vol depuis la métropole fait escale dans un pays étranger : un passeport en cours de validité est alors obligatoire, avec les formalités du pays de transit.",
+      "Vérifie l'itinéraire de ton vol avant de partir."
+    ],
+    "source": {
+      "label": "Service-public.gouv.fr, Documents d'identité nécessaires pour voyager en avion (F591)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F591"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Il n'y a pas de transmission de paludisme en Nouvelle-Calédonie. Vaccinations recommandées : hépatite A, hépatite B et typhoïde, en plus du calendrier vaccinal.",
+    "points": [
+      "Un certificat de vaccination contre la fièvre jaune est exigé des voyageurs de 9 mois et plus venant d'un pays à risque, y compris après un transit de plus de 12 heures."
+    ],
+    "source": {
+      "label": "Institut Pasteur, Recommandations sanitaires par pays, Nouvelle-Calédonie",
+      "url": "https://www.pasteur.fr/fr/votre-sante/voyages-et-sante/recommandations-sanitaires-par-pays/nouvelle-caledonie"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": null,
+  "cities": [
+    {
+      "slug": "noumea",
+      "name": "Nouméa et le lagon sud",
+      "nights": "3 nuits",
+      "for": [
+        "tous",
+        "stratege"
+      ],
+      "summary": "La capitale, ses baies et l'accès au plus grand lagon du monde, classé à l'Unesco.",
+      "sleep": "À l'anse Vata ou la baie des Citrons.",
+      "see": [
+        {
+          "name": "Le centre culturel Tjibaou",
+          "note": "L'architecture de Renzo Piano et la culture kanak."
+        },
+        {
+          "name": "L'îlot Amédée et son phare",
+          "note": "En bateau, snorkeling avec les tortues."
+        },
+        {
+          "name": "Le parc de la Rivière bleue",
+          "note": "Une nature unique, au sud de la Grande Terre."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "L'îlot Maître",
+          "note": "Kitesurf et plage à quelques minutes."
+        }
+      ],
+      "eat": "Le bougna (plat kanak cuit à l'étouffée) et les fruits de mer.",
+      "getAround": "Bus, taxis et bateaux-taxis vers les îlots.",
+      "tip": "Le lagon sud est le meilleur endroit pour voir les baleines de juillet à septembre."
+    },
+    {
+      "slug": "ile-des-pins",
+      "name": "L'île des Pins",
+      "nights": "3 nuits",
+      "for": [
+        "lent",
+        "tous"
+      ],
+      "summary": "Des pins colonnaires, un sable blanc très fin et la piscine naturelle d'Oro.",
+      "sleep": "En gîte ou en hôtel près de la baie de Kanumera.",
+      "see": [
+        {
+          "name": "La piscine naturelle d'Oro",
+          "note": "À marée basse."
+        },
+        {
+          "name": "La baie d'Upi en pirogue",
+          "note": "Entre les rochers champignons."
+        },
+        {
+          "name": "La baie de Kanumera",
+          "note": "Snorkeling depuis la plage."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le pic N'Ga",
+          "note": "Le point culminant de l'île, vue sur le lagon."
+        }
+      ],
+      "eat": "Les escargots de l'île des Pins.",
+      "getAround": "Vol ou ferry depuis Nouméa, puis vélo ou voiture.",
+      "tip": "Réserve tôt le ferry et les hébergements, les places sont limitées."
+    },
+    {
+      "slug": "iles-loyaute",
+      "name": "Les îles Loyauté (Lifou, Maré, Ouvéa)",
+      "nights": "3 à 4 nuits",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "Des îles coralliennes, des falaises, des grottes et l'accueil en tribu.",
+      "sleep": "En accueil en tribu ou en gîte.",
+      "see": [
+        {
+          "name": "Les falaises de Jokin à Lifou",
+          "note": "Au-dessus d'une eau turquoise."
+        },
+        {
+          "name": "La plage de Mouli à Ouvéa",
+          "note": "Parmi les plus belles du Pacifique."
+        },
+        {
+          "name": "Le trou de Bone à Maré",
+          "note": "Un bassin naturel dans la roche."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La vanilleraie de Lifou",
+          "note": "La culture de la vanille."
+        }
+      ],
+      "eat": "Le bougna préparé en tribu.",
+      "getAround": "Vols intérieurs et ferry, puis voiture.",
+      "tip": "Respecte la coutume : présente-toi au chef de tribu par l'intermédiaire de ton hébergeur."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 12,
+      "title": "Lagon, île des Pins et Loyauté",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Nouméa",
+          "note": "Arrivée et îlots."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Île des Pins",
+          "note": "Baie d'Upi et Oro."
+        },
+        {
+          "days": "Jours 7 à 10",
+          "place": "Lifou et Ouvéa",
+          "note": "Îles Loyauté."
+        },
+        {
+          "days": "Jours 11 et 12",
+          "place": "Nouméa",
+          "note": "Retour."
+        }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Grande Terre en road trip",
+      "for": [
+        "explorateur"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 et 2",
+          "place": "Nouméa",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 3 à 7",
+          "place": "Côte est",
+          "note": "Hienghène et ses roches, en vérifiant la situation locale."
+        },
+        {
+          "days": "Jours 8 à 10",
+          "place": "Île des Pins",
+          "note": "Fin du voyage."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Les vols intérieurs",
+      "text": "Vers les îles Loyauté et l'île des Pins."
+    },
+    {
+      "title": "Les ferries",
+      "text": "Depuis Nouméa vers les îles, à réserver."
+    },
+    {
+      "title": "En voiture",
+      "text": "Pour la Grande Terre."
+    }
+  ],
+  "culture": [
+    "La coutume kanak organise la vie des tribus : on présente un geste coutumier en arrivant.",
+    "Demande toujours avant de photographier une personne ou un lieu.",
+    "La Nouvelle-Calédonie a un statut particulier au sein de la République."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour (drehu, Lifou)",
+      "local": "Bozu",
+      "say": "bozou"
+    },
+    {
+      "fr": "Merci (drehu)",
+      "local": "Oleti",
+      "say": "oléti"
+    },
+    {
+      "fr": "Bonjour",
+      "local": "Bonjour"
+    }
+  ],
+  "checklist": [
+    "Passeport valide (escale à l'étranger) et formalités du pays de transit",
+    "Situation locale vérifiée avant le départ",
+    "Ferries et vols vers les îles réservés",
+    "Crème solaire respectueuse des récifs"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un passeport pour la Nouvelle-Calédonie ?",
+      "a": "Une carte d'identité suffit pour l'outre-mer, mais le vol depuis la métropole fait escale à l'étranger : un passeport est alors obligatoire."
+    },
+    {
+      "q": "Quand partir en Nouvelle-Calédonie ?",
+      "a": "De septembre à décembre et d'avril à juin. De janvier à mars, c'est la saison cyclonique."
+    },
+    {
+      "q": "Peut-on visiter les tribus ?",
+      "a": "Oui, en accueil en tribu, en respectant la coutume : on se présente par l'intermédiaire de l'hébergeur."
+    },
+    {
+      "q": "Quel budget pour 12 jours en Nouvelle-Calédonie ?",
+      "a": "Compte environ 160 à 440 € par jour seul et 115 à 345 € par personne à deux, hors vol international. Ces montants sont des estimations à vérifier."
+    }
+  ]
+}

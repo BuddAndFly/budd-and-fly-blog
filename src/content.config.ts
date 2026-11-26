@@ -76,7 +76,7 @@ const destinations = defineCollection({
     }),
     entry: sourced,
     health: sourced,
-    safety: sourced,
+    safety: sourced.nullable().default(null),
     cities: z.array(city).min(1),
     itineraries: z.array(z.object({
       days: z.number().int(),

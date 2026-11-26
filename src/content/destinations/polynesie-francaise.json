@@ -1,0 +1,341 @@
+{
+  "name": "Polynésie française",
+  "prep": "en Polynésie française",
+  "kind": "territoire",
+  "continent": "Océanie",
+  "priority": 112,
+  "status": "brouillon",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Polynésie : Tahiti, Moorea, Bora Bora, budget",
+    "description": "Préparer un voyage en Polynésie française : papiers, santé, meilleure saison, budget, Tahiti, Moorea, Bora Bora, les Tuamotu, les Marquises. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Polynésie française se visite de mai à octobre, pendant la saison sèche et plus fraîche ; de novembre à avril, il fait plus chaud et humide. Une pièce d'identité en cours de validité suffit pour s'y rendre, mais le vol passe souvent par un pays étranger, ce qui impose alors un passeport. Lagons, motus et montagnes : un voyage d'exception.",
+  "essentials": {
+    "bestPeriod": "Mai à octobre",
+    "languages": "Français et tahitien",
+    "currency": "Franc Pacifique (XPF)",
+    "timeDiff": "-11 h en hiver, -12 h en été (Tahiti)",
+    "plugs": "Types A, C et E, 220 V : adaptateur conseillé",
+    "emergency": "SAMU 15, police 17, pompiers 18",
+    "flight": "Environ 22 h depuis Paris pour Papeete, avec une escale (souvent aux États-Unis)"
+  },
+  "months": [
+    {
+      "rating": 1,
+      "note": "Saison chaude et humide, pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Comme en janvier, risque de dépressions."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud, fin des grosses pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Transition, mer calme."
+    },
+    {
+      "rating": 2,
+      "note": "Début de la saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et frais."
+    },
+    {
+      "rating": 2,
+      "note": "Heiva, grand festival de danse ; baleines."
+    },
+    {
+      "rating": 2,
+      "note": "Baleines à bosse, haute saison."
+    },
+    {
+      "rating": 2,
+      "note": "Baleines, excellent."
+    },
+    {
+      "rating": 2,
+      "note": "Fin de la saison sèche."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison chaude."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud et humide."
+    }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors vols internationaux (1 000 XPF ≈ 8,38 €, parité fixe).",
+    "rows": [
+      {
+        "label": "Hébergement (pension de famille)",
+        "solo": "100 à 220 €",
+        "duo": "65 à 140 €"
+      },
+      {
+        "label": "Repas",
+        "solo": "35 à 70 €",
+        "duo": "35 à 70 €"
+      },
+      {
+        "label": "Vols et ferries inter-îles",
+        "solo": "30 à 120 €",
+        "duo": "30 à 120 €"
+      },
+      {
+        "label": "Activités (lagon, plongée)",
+        "solo": "20 à 120 €",
+        "duo": "20 à 120 €"
+      }
+    ],
+    "totalSolo": "185 à 530 €",
+    "totalDuo": "150 à 450 €",
+    "note": "Les pensions de famille, souvent en demi-pension, sont bien moins chères que les hôtels sur pilotis. Un pass aérien multi-îles fait baisser le coût des vols intérieurs.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pour voyager en outre-mer, un Français doit disposer d'un document d'identité en cours de validité ; une carte d'identité suffit.",
+    "points": [
+      "Si le vol transite par un pays étranger (par exemple les États-Unis), un passeport en cours de validité est obligatoire, ainsi que les formalités du pays de transit (ESTA pour les États-Unis).",
+      "Vérifie l'itinéraire de ton vol avant de partir."
+    ],
+    "source": {
+      "label": "Service-public.gouv.fr, Documents d'identité nécessaires pour voyager en avion (F591)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F591"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Il n'y a pas de transmission de paludisme en Polynésie française. Vaccinations recommandées : hépatite A, hépatite B et typhoïde, en plus du calendrier vaccinal.",
+    "points": [
+      "Un certificat de vaccination contre la fièvre jaune est exigé des voyageurs de 9 mois et plus venant d'un pays à risque, y compris après un transit de plus de 12 heures."
+    ],
+    "source": {
+      "label": "Institut Pasteur, Recommandations sanitaires par pays, Polynésie française",
+      "url": "https://www.pasteur.fr/fr/votre-sante/voyages-et-sante/recommandations-sanitaires-par-pays/polynesie-francaise"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": null,
+  "cities": [
+    {
+      "slug": "tahiti-moorea",
+      "name": "Tahiti et Moorea",
+      "nights": "4 nuits",
+      "for": [
+        "tous",
+        "explorateur"
+      ],
+      "summary": "La grande île et ses vallées, puis Moorea et ses baies spectaculaires à 30 minutes de ferry.",
+      "sleep": "En pension sur Moorea, près de la baie d'Opunohu.",
+      "see": [
+        {
+          "name": "Le belvédère de Moorea",
+          "note": "Vue sur les baies de Cook et d'Opunohu."
+        },
+        {
+          "name": "Le lagon de Moorea",
+          "note": "Raies et requins à pointe noire en snorkeling."
+        },
+        {
+          "name": "Le marché de Papeete",
+          "note": "Fleurs, fruits et artisanat."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Teahupoo",
+          "note": "La vague mythique, au bout de la presqu'île de Tahiti."
+        }
+      ],
+      "eat": "Le poisson cru au lait de coco et les roulottes de la place Vaiete.",
+      "getAround": "Ferry Tahiti-Moorea, puis voiture ou scooter.",
+      "tip": "Les roulottes (food trucks) du soir à Papeete sont la bonne affaire du voyage."
+    },
+    {
+      "slug": "bora-bora",
+      "name": "Bora Bora et les îles Sous-le-Vent",
+      "nights": "4 nuits",
+      "for": [
+        "lent",
+        "tous"
+      ],
+      "summary": "Le lagon le plus célèbre du Pacifique, et des îles plus calmes comme Huahine et Taha'a.",
+      "sleep": "En pension à Bora Bora, Huahine ou Taha'a.",
+      "see": [
+        {
+          "name": "Le lagon de Bora Bora",
+          "note": "En pirogue ou en bateau, autour du mont Otemanu."
+        },
+        {
+          "name": "Le jardin de corail de Taha'a",
+          "note": "Un snorkeling dans un courant léger."
+        },
+        {
+          "name": "Huahine",
+          "note": "Sites archéologiques (marae) et anguilles sacrées."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Maupiti",
+          "note": "Un petit Bora Bora sans grands hôtels."
+        }
+      ],
+      "eat": "Le four tahitien (ahima'a) et la vanille de Taha'a.",
+      "getAround": "Vols inter-îles et bateaux.",
+      "tip": "Huahine et Maupiti offrent l'ambiance de la Polynésie d'avant le tourisme de luxe."
+    },
+    {
+      "slug": "tuamotu",
+      "name": "Les Tuamotu (Rangiroa, Fakarava)",
+      "nights": "4 nuits",
+      "for": [
+        "explorateur",
+        "energique"
+      ],
+      "summary": "Des atolls immenses, parmi les plus beaux sites de plongée du monde.",
+      "sleep": "En pension de famille au bord du lagon.",
+      "see": [
+        {
+          "name": "La passe de Tiputa à Rangiroa",
+          "note": "Dauphins et requins."
+        },
+        {
+          "name": "Le lagon bleu de Rangiroa",
+          "note": "Un lagon dans le lagon."
+        },
+        {
+          "name": "La passe sud de Fakarava",
+          "note": "Le « mur de requins », réserve de biosphère."
+        }
+      ],
+      "hidden": [],
+      "eat": "Le poisson pêché du jour.",
+      "getAround": "Vols inter-îles, puis vélo.",
+      "tip": "Les plongées dans les passes demandent un bon niveau : réserve avec un club local."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 14,
+      "title": "Îles de la Société et atolls",
+      "for": [
+        "tous",
+        "explorateur"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 4",
+          "place": "Tahiti et Moorea",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 5 à 8",
+          "place": "Huahine et Bora Bora",
+          "note": "Vols inter-îles."
+        },
+        {
+          "days": "Jours 9 à 13",
+          "place": "Rangiroa",
+          "note": "Plongée."
+        },
+        {
+          "days": "Jour 14",
+          "place": "Papeete",
+          "note": "Retour."
+        }
+      ]
+    },
+    {
+      "days": 10,
+      "title": "Lagons de la Société",
+      "for": [
+        "lent"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 4",
+          "place": "Moorea",
+          "note": "Arrivée par Tahiti."
+        },
+        {
+          "days": "Jours 5 à 10",
+          "place": "Huahine, Taha'a, Bora Bora",
+          "note": "Retour par Papeete."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Les vols inter-îles",
+      "text": "Indispensables ; un pass multi-îles est souvent plus économique."
+    },
+    {
+      "title": "Les ferries",
+      "text": "Entre Tahiti et Moorea, et cargos mixtes vers les îles éloignées."
+    },
+    {
+      "title": "Location de vélo, scooter ou voiture",
+      "text": "Sur les îles hautes."
+    }
+  ],
+  "culture": [
+    "« Ia ora na » (bonjour) et « Māuruuru » (merci) : on salue tout le monde.",
+    "Le tatouage est un art ancestral polynésien.",
+    "Le Heiva, en juillet, est le grand festival des danses et des chants."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Ia ora na",
+      "say": "yorana"
+    },
+    {
+      "fr": "Merci",
+      "local": "Māuruuru",
+      "say": "maourourou"
+    },
+    {
+      "fr": "Au revoir",
+      "local": "Nana",
+      "say": "nana"
+    }
+  ],
+  "checklist": [
+    "Pièce d'identité valide, et passeport + ESTA si escale aux États-Unis",
+    "Pass aérien inter-îles",
+    "Crème solaire respectueuse des récifs",
+    "Répulsif anti-moustiques",
+    "Assurance couvrant les évacuations depuis les îles"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un passeport pour la Polynésie ?",
+      "a": "Une carte d'identité suffit pour l'outre-mer, mais si le vol fait escale dans un pays étranger, comme les États-Unis, un passeport (et l'ESTA) est obligatoire."
+    },
+    {
+      "q": "Quand partir en Polynésie ?",
+      "a": "De mai à octobre, pendant la saison sèche. Juillet pour le Heiva, de juillet à octobre pour les baleines."
+    },
+    {
+      "q": "Comment voyager en Polynésie avec un budget raisonnable ?",
+      "a": "En dormant en pension de famille, en mangeant aux roulottes et en prenant un pass aérien inter-îles."
+    },
+    {
+      "q": "Quel budget pour 2 semaines en Polynésie ?",
+      "a": "Compte environ 185 à 530 € par jour seul et 150 à 450 € par personne à deux, hors vol international. Ces montants sont des estimations à vérifier."
+    }
+  ]
+}

@@ -48,7 +48,7 @@ export const legacyRedirects = {
 
 // Anciennes pages pays dont le guide n'est pas encore rédigé (sources officielles
 // à compléter) : on renvoie vers la liste des destinations plutôt que vers une 404.
-const PENDING_GUIDES = new Set(['france']);
+const PENDING_GUIDES = new Set([]);
 
 for (const slug of LEGACY_COUNTRY_SLUGS) {
   const target = PENDING_GUIDES.has(slug) ? '/destinations/' : `/destinations/${slug}/`;

@@ -152,7 +152,7 @@ const essentials = [
 
       <div class="block"><Sourced id="formalites" title="Entrée et formalités" block={g.entry} /></div>
       <div class="block"><Sourced id="sante" title="Santé" block={g.health} /></div>
-      <div class="block"><Sourced id="securite" title="Sécurité" block={g.safety} /></div>
+      {g.safety && <div class="block"><Sourced id="securite" title="Sécurité" block={g.safety} /></div>}
 
       <section id="transports" class="block">
         <h2>Se déplacer</h2>
@@ -213,7 +213,7 @@ const essentials = [
         <span class="kicker kicker--ink">Sommaire</span>
         <a href="#essentiel">L'essentiel</a><a href="#quand-partir">Quand partir</a><a href="#villes">Les villes</a>
         {g.itineraries.length > 0 && <a href="#itineraires">Itinéraires</a>}
-        <a href="#budget">Budget</a><a href="#formalites">Entrée et formalités</a><a href="#sante">Santé</a><a href="#securite">Sécurité</a><a href="#transports">Se déplacer</a><a href="#faq">Questions fréquentes</a>
+        <a href="#budget">Budget</a><a href="#formalites">Entrée et formalités</a><a href="#sante">Santé</a>{g.safety && <a href="#securite">Sécurité</a>}<a href="#transports">Se déplacer</a><a href="#faq">Questions fréquentes</a>
       </nav>
 
       <div class="app">

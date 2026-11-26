@@ -81,13 +81,15 @@ const chk = (s: string | null) => (s ? `vérifié le ${frDate(s)}` : 'à vérifi
 
     <!-- Sécurité + quand partir -->
     <section class="page">
-      <header class="ph"><span>{g.name}</span><span>Sécurité · Quand partir</span></header>
-      <div class="sbox">
-        <h3>Sécurité</h3>
-        <p>{g.safety.text}</p>
-        <ul>{g.safety.points.map((p) => <li>{p}</li>)}</ul>
-        <p class="srcline">Source : {g.safety.source.label} · {chk(g.safety.checkedAt)}</p>
-      </div>
+      <header class="ph"><span>{g.name}</span><span>{g.safety ? 'Sécurité · Quand partir' : 'Quand partir'}</span></header>
+      {g.safety && (
+        <div class="sbox">
+          <h3>Sécurité</h3>
+          <p>{g.safety.text}</p>
+          <ul>{g.safety.points.map((p) => <li>{p}</li>)}</ul>
+          <p class="srcline">Source : {g.safety.source.label} · {chk(g.safety.checkedAt)}</p>
+        </div>
+      )}
       <h2>Quand partir {g.prep}</h2>
       <table class="months">
         <tbody>

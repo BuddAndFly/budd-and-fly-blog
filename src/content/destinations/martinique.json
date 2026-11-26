@@ -1,0 +1,337 @@
+{
+  "name": "Martinique",
+  "prep": "en Martinique",
+  "kind": "territoire",
+  "continent": "Amérique centrale et Caraïbes",
+  "priority": 111,
+  "status": "brouillon",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Martinique : plages, montagne Pelée, budget",
+    "description": "Préparer un voyage en Martinique : papiers, santé, meilleure saison, budget, Les Anses-d'Arlet, Saint-Pierre, la montagne Pelée, le sud. Guide PDF gratuit."
+  },
+  "hero": null,
+  "summary": "La Martinique se visite de décembre à avril, pendant la saison sèche ; de juin à novembre, c'est la saison des pluies et des cyclones. Une carte d'identité suffit pour un vol direct. Plages du sud, forêt et montagne Pelée au nord, distilleries et culture créole : l'île est variée et facile à parcourir.",
+  "essentials": {
+    "bestPeriod": "Décembre à avril",
+    "languages": "Français et créole martiniquais",
+    "currency": "Euro (€)",
+    "timeDiff": "-5 h en hiver, -6 h en été",
+    "plugs": "Types C et E, 230 V",
+    "emergency": "112 (SAMU 15, police 17, pompiers 18)",
+    "flight": "Environ 8 h 30 en vol direct depuis Paris"
+  },
+  "months": [
+    {
+      "rating": 2,
+      "note": "Saison sèche (carême)."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal, carnaval."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et ensoleillé."
+    },
+    {
+      "rating": 2,
+      "note": "Encore sec."
+    },
+    {
+      "rating": 1,
+      "note": "Transition."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison cyclonique."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud et humide ; Tour des yoles rondes certaines années."
+    },
+    {
+      "rating": 0,
+      "note": "Cyclones possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Pic de la saison cyclonique."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies et cyclones possibles."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Retour du sec."
+    }
+  ],
+  "budget": {
+    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
+    "rows": [
+      {
+        "label": "Hébergement (gîte, bungalow, hôtel)",
+        "solo": "70 à 150 €",
+        "duo": "45 à 95 €"
+      },
+      {
+        "label": "Repas",
+        "solo": "25 à 55 €",
+        "duo": "25 à 55 €"
+      },
+      {
+        "label": "Voiture et essence",
+        "solo": "30 à 50 €",
+        "duo": "15 à 25 €"
+      },
+      {
+        "label": "Activités",
+        "solo": "5 à 50 €",
+        "duo": "5 à 50 €"
+      }
+    ],
+    "totalSolo": "130 à 305 €",
+    "totalDuo": "90 à 225 €",
+    "note": "La vie est chère sur place : les gîtes avec cuisine et les snacks locaux allègent le budget.",
+    "sources": [],
+    "checkedAt": null
+  },
+  "entry": {
+    "text": "Pour un majeur français, une carte nationale d'identité ou un passeport en cours de validité suffit pour voyager en Martinique.",
+    "points": [
+      "En cas de transit par un pays hors Union européenne ou hors Schengen, un passeport en cours de validité est nécessaire.",
+      "Certaines compagnies peuvent exiger un passeport : renseigne-toi auprès du transporteur.",
+      "Pour un mineur, l'autorisation de sortie du territoire n'est requise qu'en cas d'escale à l'étranger."
+    ],
+    "source": {
+      "label": "Service-public.gouv.fr, Avec quels documents un Français peut-il se rendre dans les Drom ? (F398, vérifié le 26 août 2025)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F398"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Il n'y a pas de transmission de paludisme en Martinique. Les vaccinations du calendrier vaccinal doivent être à jour ; l'hépatite A est recommandée.",
+    "points": [
+      "Un certificat de vaccination contre la fièvre jaune est exigé des voyageurs de 9 mois et plus venant d'un pays à risque, y compris après un transit de plus de 12 heures.",
+      "Dengue : la vaccination figure parmi les recommandations ; demande conseil à un médecin avant le départ."
+    ],
+    "source": {
+      "label": "Institut Pasteur, Recommandations sanitaires par pays, Martinique",
+      "url": "https://www.pasteur.fr/fr/votre-sante/voyages-et-sante/recommandations-sanitaires-par-pays/martinique"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": null,
+  "cities": [
+    {
+      "slug": "sud",
+      "name": "Le sud (Sainte-Anne, Les Anses-d'Arlet)",
+      "nights": "4 nuits",
+      "for": [
+        "lent",
+        "tous"
+      ],
+      "summary": "Les plus belles plages, les villages de pêcheurs et le rocher du Diamant.",
+      "sleep": "À Sainte-Anne, aux Anses-d'Arlet ou aux Trois-Îlets.",
+      "see": [
+        {
+          "name": "La plage des Salines",
+          "note": "La plus célèbre de l'île."
+        },
+        {
+          "name": "Les Anses-d'Arlet",
+          "note": "Église en bord de mer et snorkeling avec les tortues."
+        },
+        {
+          "name": "Le rocher du Diamant",
+          "note": "Depuis la route ou en plongée."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "La trace des Caps",
+          "note": "Un sentier côtier entre anses sauvages."
+        }
+      ],
+      "eat": "Le colombo, le blaff de poisson et le ti-punch.",
+      "getAround": "Voiture.",
+      "tip": "Ne nourris pas et ne touche pas les tortues lors du snorkeling."
+    },
+    {
+      "slug": "nord",
+      "name": "Le nord (Saint-Pierre, montagne Pelée)",
+      "nights": "3 nuits",
+      "for": [
+        "explorateur",
+        "stratege"
+      ],
+      "summary": "Le volcan qui a détruit Saint-Pierre en 1902, la forêt tropicale et les distilleries.",
+      "sleep": "Au Carbet ou à Saint-Pierre.",
+      "see": [
+        {
+          "name": "La montagne Pelée",
+          "note": "Randonnée par l'Aileron, classée à l'Unesco."
+        },
+        {
+          "name": "Les ruines de Saint-Pierre",
+          "note": "L'ancienne « Petit Paris des Antilles »."
+        },
+        {
+          "name": "La route de la Trace",
+          "note": "À travers la forêt tropicale, jusqu'au jardin de Balata."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les gorges de la Falaise",
+          "note": "Une randonnée aquatique encadrée."
+        }
+      ],
+      "eat": "Le rhum agricole AOC des distilleries.",
+      "getAround": "Voiture.",
+      "tip": "Monte à la montagne Pelée tôt le matin, avant les nuages."
+    },
+    {
+      "slug": "caravelle",
+      "name": "La presqu'île de la Caravelle",
+      "nights": "2 nuits",
+      "for": [
+        "explorateur",
+        "lent"
+      ],
+      "summary": "Une réserve naturelle sur la côte atlantique, ses mangroves et ses ruines d'habitation.",
+      "sleep": "À Tartane ou au François.",
+      "see": [
+        {
+          "name": "Le château Dubuc",
+          "note": "Les ruines d'une habitation sucrière."
+        },
+        {
+          "name": "Le sentier de la Caravelle",
+          "note": "Entre mangrove et falaises."
+        },
+        {
+          "name": "Les fonds blancs du François",
+          "note": "Bain dans l'eau turquoise, en bateau."
+        }
+      ],
+      "hidden": [],
+      "eat": "Les fruits de mer du François.",
+      "getAround": "Voiture et sorties en bateau.",
+      "tip": "Côté Atlantique, ne te baigne que sur les plages abritées."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 10,
+      "title": "Du sud au nord",
+      "for": [
+        "tous",
+        "lent"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 4",
+          "place": "Le sud",
+          "note": "Plages et Anses-d'Arlet."
+        },
+        {
+          "days": "Jours 5 et 6",
+          "place": "La Caravelle",
+          "note": "Côte atlantique."
+        },
+        {
+          "days": "Jours 7 à 10",
+          "place": "Le nord",
+          "note": "Montagne Pelée et Saint-Pierre."
+        }
+      ]
+    },
+    {
+      "days": 7,
+      "title": "Martinique en une semaine",
+      "for": [
+        "energique"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 4",
+          "place": "Le sud",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Le nord",
+          "note": "Volcan et distilleries."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "En voiture",
+      "text": "Indispensable ; embouteillages autour de Fort-de-France."
+    },
+    {
+      "title": "Les navettes maritimes",
+      "text": "Entre Fort-de-France et les Trois-Îlets."
+    },
+    {
+      "title": "Les ferries",
+      "text": "Vers la Guadeloupe, la Dominique et Sainte-Lucie."
+    }
+  ],
+  "culture": [
+    "L'île d'Aimé Césaire, berceau de la négritude.",
+    "Le carnaval culmine avec le Mardi gras et le Mercredi des Cendres.",
+    "Les yoles rondes, voiliers traditionnels, sont classées à l'Unesco."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour, ça va ?",
+      "local": "Sa ou fè ?",
+      "say": "sa ou fè"
+    },
+    {
+      "fr": "Ça va bien",
+      "local": "Sa ka maché",
+      "say": "sa ka maché"
+    },
+    {
+      "fr": "Merci",
+      "local": "Mèsi",
+      "say": "mèsi"
+    }
+  ],
+  "checklist": [
+    "Carte d'identité ou passeport valide",
+    "Répulsif anti-moustiques",
+    "Chaussures de randonnée pour la montagne Pelée",
+    "Suivi météo en saison cyclonique"
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un passeport pour la Martinique ?",
+      "a": "Non : une carte d'identité valide suffit pour un Français en vol direct. Un passeport est nécessaire en cas d'escale hors Union européenne ou hors Schengen."
+    },
+    {
+      "q": "Quand partir en Martinique ?",
+      "a": "De décembre à avril, pendant la saison sèche."
+    },
+    {
+      "q": "Quelle est la meilleure plage de Martinique ?",
+      "a": "Les Salines au sud, et les Anses-d'Arlet pour nager avec les tortues."
+    },
+    {
+      "q": "Quel budget pour 10 jours en Martinique ?",
+      "a": "Compte environ 130 à 305 € par jour seul et 90 à 225 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
+    }
+  ]
+}

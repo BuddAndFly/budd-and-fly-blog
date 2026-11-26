@@ -12,7 +12,15 @@
     "title": "Guide Singapour : quartiers, escale, budget",
     "description": "Préparer un voyage ou une escale à Singapour : passeport 6 mois, règles locales, meilleure saison, budget, Marina Bay, Chinatown, Little India. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/singapour/hero.jpg",
+    "alt": "Les Supertrees des Gardens by the Bay",
+    "credit": {
+      "author": "Mustang Joe",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Supertree_Grove,_Gardens_by_the_Bay,_Singapore1.jpg"
+    }
+  },
   "summary": "Singapour se visite toute l'année : il fait chaud et humide en permanence, avec des averses plus fréquentes de novembre à janvier. Le passeport doit être valable 6 mois après le départ, sinon tu seras refoulé. Une cité-État très sûre et propre, idéale pour une escale de 2 à 4 jours entre jardins futuristes et quartiers chinois, malais et indien.",
   "essentials": {
     "bestPeriod": "Toute l'année (février à avril un peu plus sec)",
@@ -24,26 +32,78 @@
     "flight": "Environ 13 h en vol direct depuis Paris"
   },
   "months": [
-    { "rating": 1, "note": "Averses de la mousson du nord-est ; Nouvel An chinois parfois fin janvier." },
-    { "rating": 2, "note": "Plus sec, Nouvel An chinois certaines années." },
-    { "rating": 2, "note": "Plutôt sec et ensoleillé." },
-    { "rating": 2, "note": "Chaud, orages en fin de journée." },
-    { "rating": 1, "note": "Chaud et humide." },
-    { "rating": 1, "note": "Chaud, parfois de la brume venue d'Indonésie." },
-    { "rating": 1, "note": "Chaud ; festival gastronomique." },
-    { "rating": 1, "note": "Fête nationale le 9 août." },
-    { "rating": 1, "note": "Grand Prix de Formule 1 de nuit." },
-    { "rating": 1, "note": "Deepavali illumine Little India." },
-    { "rating": 1, "note": "Début des fortes averses." },
-    { "rating": 1, "note": "Pluvieux, illuminations de Noël sur Orchard Road." }
+    {
+      "rating": 1,
+      "note": "Averses de la mousson du nord-est ; Nouvel An chinois parfois fin janvier."
+    },
+    {
+      "rating": 2,
+      "note": "Plus sec, Nouvel An chinois certaines années."
+    },
+    {
+      "rating": 2,
+      "note": "Plutôt sec et ensoleillé."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud, orages en fin de journée."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud et humide."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud, parfois de la brume venue d'Indonésie."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud ; festival gastronomique."
+    },
+    {
+      "rating": 1,
+      "note": "Fête nationale le 9 août."
+    },
+    {
+      "rating": 1,
+      "note": "Grand Prix de Formule 1 de nuit."
+    },
+    {
+      "rating": 1,
+      "note": "Deepavali illumine Little India."
+    },
+    {
+      "rating": 1,
+      "note": "Début des fortes averses."
+    },
+    {
+      "rating": 1,
+      "note": "Pluvieux, illuminations de Noël sur Orchard Road."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en dollars de Singapour, par jour et par personne, hors vols. Convertis au taux du jour.",
     "rows": [
-      { "label": "Hébergement (hôtel simple ou capsule)", "solo": "120 à 250 S$", "duo": "75 à 150 S$" },
-      { "label": "Repas", "solo": "25 à 70 S$", "duo": "25 à 70 S$" },
-      { "label": "Transports (métro, bus)", "solo": "5 à 15 S$", "duo": "5 à 15 S$" },
-      { "label": "Visites et entrées", "solo": "20 à 60 S$", "duo": "20 à 60 S$" }
+      {
+        "label": "Hébergement (hôtel simple ou capsule)",
+        "solo": "120 à 250 S$",
+        "duo": "75 à 150 S$"
+      },
+      {
+        "label": "Repas",
+        "solo": "25 à 70 S$",
+        "duo": "25 à 70 S$"
+      },
+      {
+        "label": "Transports (métro, bus)",
+        "solo": "5 à 15 S$",
+        "duo": "5 à 15 S$"
+      },
+      {
+        "label": "Visites et entrées",
+        "solo": "20 à 60 S$",
+        "duo": "20 à 60 S$"
+      }
     ],
     "totalSolo": "170 à 395 S$",
     "totalDuo": "125 à 295 S$",
@@ -57,7 +117,10 @@
       "Les autorités appliquent strictement cette règle : un passeport périmé ou valable moins de 6 mois entraîne un refoulement à tes frais.",
       "Consulte le site officiel des autorités singapouriennes (Safetravel) pour les formalités d'arrivée et de transit."
     ],
-    "source": { "label": "France Diplomatie, Singapour, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/singapour/" },
+    "source": {
+      "label": "France Diplomatie, Singapour, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/singapour/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -67,7 +130,10 @@
       "Chaleur et humidité permanentes : hydratation.",
       "Les soins sont excellents mais très chers : assurance santé indispensable."
     ],
-    "source": { "label": "France Diplomatie, Singapour, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/singapour/" },
+    "source": {
+      "label": "France Diplomatie, Singapour, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/singapour/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -77,7 +143,10 @@
       "La cybercriminalité progresse : fausses offres d'emploi, faux investissements et fausses annonces de vente en ligne.",
       "Le risque terroriste, faible, ne peut être totalement exclu."
     ],
-    "source": { "label": "France Diplomatie, Singapour, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/singapour/" },
+    "source": {
+      "label": "France Diplomatie, Singapour, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/singapour/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -85,16 +154,31 @@
       "slug": "marina-bay",
       "name": "Marina Bay et les jardins",
       "nights": "2 nuits",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "summary": "L'image futuriste de Singapour : arbres géants lumineux, serres climatisées et gratte-ciel.",
       "sleep": "Autour de Marina Bay ou de Clarke Quay.",
       "see": [
-        { "name": "Les Gardens by the Bay", "note": "Les Supertrees et leur spectacle lumineux gratuit le soir." },
-        { "name": "Le Cloud Forest", "note": "Une serre avec une cascade intérieure." },
-        { "name": "Le Merlion et la promenade de Marina Bay", "note": "Spectacle lumineux et sonore le soir." }
+        {
+          "name": "Les Gardens by the Bay",
+          "note": "Les Supertrees et leur spectacle lumineux gratuit le soir."
+        },
+        {
+          "name": "Le Cloud Forest",
+          "note": "Une serre avec une cascade intérieure."
+        },
+        {
+          "name": "Le Merlion et la promenade de Marina Bay",
+          "note": "Spectacle lumineux et sonore le soir."
+        }
       ],
       "hidden": [
-        { "name": "Les Southern Ridges", "note": "Un sentier suspendu dans la canopée, jusqu'au pont Henderson Waves." }
+        {
+          "name": "Les Southern Ridges",
+          "note": "Un sentier suspendu dans la canopée, jusqu'au pont Henderson Waves."
+        }
       ],
       "eat": "Le crabe au piment et le poulet Hainan.",
       "getAround": "Métro (MRT) et marche ; paiement par carte bancaire sans contact.",
@@ -104,17 +188,35 @@
       "slug": "quartiers",
       "name": "Chinatown, Little India et Kampong Glam",
       "nights": "1 à 2 nuits",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "summary": "Trois quartiers, trois cultures : temples chinois et hindous, mosquée du Sultan et street-food.",
       "sleep": "À Chinatown ou Kampong Glam, plus abordables.",
       "see": [
-        { "name": "Le temple de la Dent de Bouddha", "note": "À Chinatown." },
-        { "name": "Le temple Sri Veeramakaliamman", "note": "À Little India." },
-        { "name": "La mosquée du Sultan", "note": "Et la rue Haji Lane, à Kampong Glam." }
+        {
+          "name": "Le temple de la Dent de Bouddha",
+          "note": "À Chinatown."
+        },
+        {
+          "name": "Le temple Sri Veeramakaliamman",
+          "note": "À Little India."
+        },
+        {
+          "name": "La mosquée du Sultan",
+          "note": "Et la rue Haji Lane, à Kampong Glam."
+        }
       ],
       "hidden": [
-        { "name": "Le hawker centre de Maxwell", "note": "Un des plus célèbres food courts." },
-        { "name": "Tiong Bahru", "note": "Un quartier Art déco plein de cafés." }
+        {
+          "name": "Le hawker centre de Maxwell",
+          "note": "Un des plus célèbres food courts."
+        },
+        {
+          "name": "Tiong Bahru",
+          "note": "Un quartier Art déco plein de cafés."
+        }
       ],
       "eat": "Le laksa, le chili crab et le roti prata dans les hawker centres.",
       "getAround": "MRT et à pied.",
@@ -124,13 +226,25 @@
       "slug": "sentosa-pulau-ubin",
       "name": "Sentosa et Pulau Ubin",
       "nights": "Excursions à la journée",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "L'île des loisirs et des plages, et à l'opposé, une île restée rurale à explorer à vélo.",
       "sleep": "Depuis le centre.",
       "see": [
-        { "name": "Les plages de Sentosa", "note": "Siloso, Palawan, Tanjong." },
-        { "name": "Pulau Ubin", "note": "Une île de villages et de mangroves, en bateau-taxi." },
-        { "name": "La réserve de Chek Jawa", "note": "Une zone humide sur Pulau Ubin." }
+        {
+          "name": "Les plages de Sentosa",
+          "note": "Siloso, Palawan, Tanjong."
+        },
+        {
+          "name": "Pulau Ubin",
+          "note": "Une île de villages et de mangroves, en bateau-taxi."
+        },
+        {
+          "name": "La réserve de Chek Jawa",
+          "note": "Une zone humide sur Pulau Ubin."
+        }
       ],
       "hidden": [],
       "eat": "Les fruits de mer des petits restaurants de Pulau Ubin.",
@@ -142,28 +256,67 @@
     {
       "days": 3,
       "title": "L'escale idéale",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jour 1", "place": "Marina Bay", "note": "Jardins et spectacle du soir." },
-        { "days": "Jour 2", "place": "Chinatown et Little India", "note": "Temples et hawker centres." },
-        { "days": "Jour 3", "place": "Kampong Glam et Changi", "note": "Jewel avant le vol." }
+        {
+          "days": "Jour 1",
+          "place": "Marina Bay",
+          "note": "Jardins et spectacle du soir."
+        },
+        {
+          "days": "Jour 2",
+          "place": "Chinatown et Little India",
+          "note": "Temples et hawker centres."
+        },
+        {
+          "days": "Jour 3",
+          "place": "Kampong Glam et Changi",
+          "note": "Jewel avant le vol."
+        }
       ]
     },
     {
       "days": 5,
       "title": "Singapour en profondeur",
-      "for": ["lent", "explorateur"],
+      "for": [
+        "lent",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Marina Bay", "note": "Et les Southern Ridges." },
-        { "days": "Jours 3 et 4", "place": "Les quartiers", "note": "Chinatown, Little India, Tiong Bahru." },
-        { "days": "Jour 5", "place": "Pulau Ubin ou Sentosa", "note": "Nature ou plages." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Marina Bay",
+          "note": "Et les Southern Ridges."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Les quartiers",
+          "note": "Chinatown, Little India, Tiong Bahru."
+        },
+        {
+          "days": "Jour 5",
+          "place": "Pulau Ubin ou Sentosa",
+          "note": "Nature ou plages."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le métro (MRT)", "text": "Rapide, climatisé, paiement par carte sans contact." },
-    { "title": "Les bus", "text": "Complètent le métro." },
-    { "title": "Les VTC", "text": "Applications locales, abordables." }
+    {
+      "title": "Le métro (MRT)",
+      "text": "Rapide, climatisé, paiement par carte sans contact."
+    },
+    {
+      "title": "Les bus",
+      "text": "Complètent le métro."
+    },
+    {
+      "title": "Les VTC",
+      "text": "Applications locales, abordables."
+    }
   ],
   "culture": [
     "Les règles sont strictes : amendes pour les déchets jetés, pour manger ou boire dans le métro, et vente de chewing-gum interdite.",
@@ -171,9 +324,21 @@
     "Le pourboire n'est pas attendu, le service est souvent inclus."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Hello", "say": "hello" },
-    { "fr": "Merci", "local": "Thank you", "say": "thank you" },
-    { "fr": "Pour emporter", "local": "Tapau", "say": "ta-pao" }
+    {
+      "fr": "Bonjour",
+      "local": "Hello",
+      "say": "hello"
+    },
+    {
+      "fr": "Merci",
+      "local": "Thank you",
+      "say": "thank you"
+    },
+    {
+      "fr": "Pour emporter",
+      "local": "Tapau",
+      "say": "ta-pao"
+    }
   ],
   "checklist": [
     "Passeport valable 6 mois après le départ de Singapour",
@@ -183,9 +348,21 @@
     "Vêtements légers et une petite veste pour la climatisation"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour Singapour ?", "a": "Non pour un séjour touristique, mais le passeport doit être valable 6 mois après le départ, avec un billet retour ou de continuation. La règle est appliquée strictement." },
-    { "q": "Singapour est-elle sûre ?", "a": "Oui, très. Méfie-toi surtout des escroqueries en ligne et des vols dans les lieux très fréquentés." },
-    { "q": "Combien de jours à Singapour ?", "a": "Trois jours pour l'essentiel, cinq pour prendre le temps." },
-    { "q": "Quel budget pour Singapour ?", "a": "Compte environ 170 à 395 S$ par jour seul et 125 à 295 S$ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour Singapour ?",
+      "a": "Non pour un séjour touristique, mais le passeport doit être valable 6 mois après le départ, avec un billet retour ou de continuation. La règle est appliquée strictement."
+    },
+    {
+      "q": "Singapour est-elle sûre ?",
+      "a": "Oui, très. Méfie-toi surtout des escroqueries en ligne et des vols dans les lieux très fréquentés."
+    },
+    {
+      "q": "Combien de jours à Singapour ?",
+      "a": "Trois jours pour l'essentiel, cinq pour prendre le temps."
+    },
+    {
+      "q": "Quel budget pour Singapour ?",
+      "a": "Compte environ 170 à 395 S$ par jour seul et 125 à 295 S$ par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
+    }
   ]
 }
