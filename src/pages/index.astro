@@ -13,7 +13,7 @@ const featured = destinations.slice(0, 8);
 const now = new Date();
 const next = (now.getMonth() + 1) % 12;
 const goodNext = destinations
-  .filter((d) => d.data.months[next]!.rating === 2)
+  .filter((d) => !d.data.advisory && d.data.months[next]!.rating === 2)
   .slice(0, 4);
 
 const catSlug = (name: string) => CATEGORIES.find((c) => c.name === name)?.slug ?? '';

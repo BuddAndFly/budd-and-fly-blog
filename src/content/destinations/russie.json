@@ -1,0 +1,260 @@
+{
+  "name": "Russie",
+  "prep": "en Russie",
+  "kind": "pays",
+  "continent": "Europe",
+  "priority": 139,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Russie : formalités, sécurité, Moscou, Saint-Pétersbourg",
+    "description": "Russie : voyage formellement déconseillé par France Diplomatie. Visa, carte de migration, sécurité, et ce qu'il faut savoir sur Moscou et Saint-Pétersbourg."
+  },
+  "hero": null,
+  "summary": "France Diplomatie déconseille formellement de se rendre en Russie, sur l'ensemble du territoire, dans le contexte de la guerre menée en Ukraine. Ce guide rassemble les formalités et consignes officielles pour qui doit s'y rendre malgré tout : visa obligatoire, carte de migration, assurance rapatriement, et prudence sur les sujets politiques.",
+  "essentials": {
+    "bestPeriod": "Mai à septembre",
+    "languages": "Russe",
+    "currency": "Rouble (RUB)",
+    "timeDiff": "Moscou : +2 h en hiver, +1 h en été",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 0,
+      "note": "Hiver très froid."
+    },
+    {
+      "rating": 0,
+      "note": "Hiver."
+    },
+    {
+      "rating": 0,
+      "note": "Fin de l'hiver."
+    },
+    {
+      "rating": 1,
+      "note": "Dégel."
+    },
+    {
+      "rating": 2,
+      "note": "Printemps."
+    },
+    {
+      "rating": 2,
+      "note": "Nuits blanches à Saint-Pétersbourg."
+    },
+    {
+      "rating": 2,
+      "note": "Été."
+    },
+    {
+      "rating": 2,
+      "note": "Été."
+    },
+    {
+      "rating": 1,
+      "note": "Automne."
+    },
+    {
+      "rating": 1,
+      "note": "Frais."
+    },
+    {
+      "rating": 0,
+      "note": "Froid."
+    },
+    {
+      "rating": 0,
+      "note": "Hiver."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Un visa est obligatoire pour séjourner en Russie ou y transiter ; il se demande aux autorités consulaires russes. Le passeport doit avoir deux pages vierges accolées et expirer au moins 6 mois après la fin de validité du visa.",
+    "points": [
+      "Une carte de migration est remise à l'entrée : garde-la, elle est rendue à la sortie. Sans elle, les hôtels peuvent refuser l'accès.",
+      "Il est interdit aux étrangers de franchir par la route ou le train la frontière entre la Biélorussie et la Russie.",
+      "Plusieurs points de passage terrestres avec la Finlande et l'Estonie sont fermés."
+    ],
+    "source": {
+      "label": "France Diplomatie, Russie, Entrée / séjour (mise à jour du 16 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/russie/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Une assurance « voyage rapatriement » est exigée pour le visa ; en cas de problème de santé, contacte-la en priorité. N'emporte que les médicaments nécessaires, dans leur emballage d'origine avec l'ordonnance.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B, rage, encéphalite à tiques.",
+      "Ne consomme jamais de médicaments achetés dans la rue (risque de contrefaçon)."
+    ],
+    "source": {
+      "label": "France Diplomatie, Russie, Santé (mise à jour du 16 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/russie/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Tout le territoire russe est formellement déconseillé, dans le contexte de la guerre d'agression menée par la Russie en Ukraine.",
+    "points": [
+      "Évite d'évoquer les questions politiques, en particulier la guerre en Ukraine, en public ou avec des inconnus.",
+      "Menace terroriste : vigilance dans les lieux publics et les transports.",
+      "Tiens-toi à l'écart des manifestations ; garde ton verre sous surveillance dans les bars.",
+      "Prudence sur les réseaux publics : chantage en ligne et espionnage sont signalés."
+    ],
+    "source": {
+      "label": "France Diplomatie, Russie, Sécurité (mise à jour du 16 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/russie/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "moscou",
+      "name": "Moscou",
+      "nights": "3 nuits",
+      "for": [
+        "stratege",
+        "tous"
+      ],
+      "summary": "La capitale, autour du Kremlin et de la place Rouge.",
+      "sleep": "Dans le centre.",
+      "see": [
+        {
+          "name": "La place Rouge et le Kremlin",
+          "note": "Le cœur historique."
+        },
+        {
+          "name": "La cathédrale Saint-Basile",
+          "note": "Ses coupoles colorées."
+        },
+        {
+          "name": "Le métro de Moscou",
+          "note": "Des stations décorées comme des palais."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le parc Zariadie",
+          "note": "Une passerelle au-dessus de la Moskova."
+        }
+      ],
+      "eat": "Les pelmeni (raviolis) et le bortsch.",
+      "getAround": "Métro.",
+      "tip": "Garde toujours ton passeport, ton visa et ta carte de migration sur toi ou une copie."
+    },
+    {
+      "slug": "saint-petersbourg",
+      "name": "Saint-Pétersbourg",
+      "nights": "3 nuits",
+      "for": [
+        "lent",
+        "stratege"
+      ],
+      "summary": "L'ancienne capitale impériale, ses canaux et ses palais.",
+      "sleep": "Près de la perspective Nevski.",
+      "see": [
+        {
+          "name": "Le musée de l'Ermitage",
+          "note": "Dans le palais d'Hiver."
+        },
+        {
+          "name": "La perspective Nevski",
+          "note": "La grande avenue de la ville."
+        },
+        {
+          "name": "Les canaux",
+          "note": "À pied ou en bateau."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Les nuits blanches",
+          "note": "Fin juin, le soleil se couche à peine."
+        }
+      ],
+      "eat": "Les blinis et la cuisine russe traditionnelle.",
+      "getAround": "Métro et à pied.",
+      "tip": "Évite les discussions politiques avec des inconnus."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 7,
+      "title": "Moscou et Saint-Pétersbourg",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Moscou",
+          "note": "Kremlin, place Rouge, métro."
+        },
+        {
+          "days": "Jours 4 à 7",
+          "place": "Saint-Pétersbourg",
+          "note": "Ermitage, canaux."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Train",
+      "text": "Des trains relient Moscou et Saint-Pétersbourg."
+    },
+    {
+      "title": "Métro",
+      "text": "Dans les grandes villes."
+    },
+    {
+      "title": "Avion",
+      "text": "Pour les longues distances."
+    }
+  ],
+  "culture": [
+    "Évite les sujets politiques en public.",
+    "Retire tes chaussures en entrant chez quelqu'un."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour",
+      "local": "Zdravstvouïte"
+    },
+    {
+      "fr": "Merci",
+      "local": "Spassiba"
+    }
+  ],
+  "checklist": [
+    "Passeport avec 2 pages vierges accolées",
+    "Visa",
+    "Carte de migration à conserver",
+    "Assurance voyage rapatriement",
+    "Médicaments avec ordonnance",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Peut-on voyager en Russie ?",
+      "a": "France Diplomatie déconseille formellement de se rendre en Russie, sur l'ensemble du territoire, dans le contexte de la guerre en Ukraine."
+    },
+    {
+      "q": "Faut-il un visa pour la Russie ?",
+      "a": "Oui, pour un séjour comme pour un transit, à demander aux autorités consulaires russes."
+    },
+    {
+      "q": "Qu'est-ce que la carte de migration ?",
+      "a": "Un document remis à l'entrée et visé par les gardes-frontières. Il faut le garder pendant tout le séjour et le rendre à la sortie."
+    }
+  ],
+  "advisory": {
+    "level": "formellement-deconseille",
+    "text": "France Diplomatie déconseille formellement de se rendre en Russie, sur l'ensemble du territoire."
+  }
+}

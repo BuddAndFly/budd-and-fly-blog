@@ -78,6 +78,8 @@ const destinations = defineCollection({
     health: sourced,
     safety: sourced.nullable().default(null),
     /** Une activité gratuite et peu connue, propre à la destination. Absente si on n'en connaît pas de fiable. */
+    /** Avis de France Diplomatie quand le pays est déconseillé : bandeau d'alerte, et le guide sort des suggestions « Où partir ». */
+    advisory: z.object({ level: z.enum(['deconseille', 'formellement-deconseille']), text: z.string() }).nullable().default(null),
     freeTip: z.object({ title: z.string(), text: z.string() }).nullable().default(null),
     cities: z.array(city).min(1),
     itineraries: z.array(z.object({

@@ -10,8 +10,8 @@ export async function getStaticPaths() {
 const { i } = Astro.props as { i: number };
 const month = MONTHS[i]!;
 const all = await getDestinations();
-const ideal = all.filter((d) => d.data.months[i]!.rating === 2);
-const good = all.filter((d) => d.data.months[i]!.rating === 1);
+const ideal = all.filter((d) => !d.data.advisory && d.data.months[i]!.rating === 2);
+const good = all.filter((d) => !d.data.advisory && d.data.months[i]!.rating === 1);
 // Page trop mince pour Google tant qu'il y a peu de guides publiés : on ne l'indexe pas.
 const thin = ideal.length < 5;
 const title = `Où partir en ${month.name} ? Nos idées de voyage`;

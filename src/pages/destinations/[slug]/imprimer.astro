@@ -63,6 +63,7 @@ const chk = (s: string | null) => (s ? `vérifié le ${frDate(s)}` : 'à vérifi
           {g.essentials.plugs && <div><dt>Prises</dt><dd>{g.essentials.plugs}</dd></div>}
           {g.essentials.emergency && <div><dt>Urgences</dt><dd>{g.essentials.emergency}</dd></div>}
         </dl>
+        {g.advisory && <div class="sbox" style="border:2px solid #b42318"><h3 style="color:#b42318">{g.advisory.level === 'formellement-deconseille' ? 'Voyage formellement déconseillé' : 'Voyage déconseillé sauf raison impérative'}</h3><p>{g.advisory.text}</p></div>}
         <div class="stack">
           {[['Entrée et formalités', g.entry], ['Santé', g.health]].map(([t, b]) => {
             const block = b as typeof g.entry;

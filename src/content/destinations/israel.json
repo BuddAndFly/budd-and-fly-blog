@@ -1,0 +1,259 @@
+{
+  "name": "Israël",
+  "prep": "en Israël",
+  "kind": "pays",
+  "continent": "Moyen-Orient",
+  "priority": 140,
+  "status": "valide",
+  "updatedAt": "2026-11-26",
+  "author": null,
+  "reviewer": null,
+  "seo": {
+    "title": "Guide Israël : formalités, sécurité, Tel-Aviv, Jérusalem",
+    "description": "Israël : voyage déconseillé sauf raison impérative par France Diplomatie. ETA-IL, contrôles, zones formellement déconseillées, Tel-Aviv, Jérusalem, mer Morte."
+  },
+  "hero": null,
+  "summary": "France Diplomatie déconseille, sauf raison impérative, de se rendre en Israël, et déconseille formellement le plateau du Golan, la frontière libanaise, les abords de la bande de Gaza et Gaza. Pour qui doit s'y rendre, une autorisation électronique (ETA-IL) est obligatoire avant le départ, et des contrôles de sécurité poussés sont fréquents à l'aéroport.",
+  "essentials": {
+    "bestPeriod": "Mars à mai, octobre-novembre",
+    "languages": "Hébreu, arabe",
+    "currency": "Nouveau shekel (ILS)",
+    "timeDiff": "+1 h toute l'année",
+    "plugs": null,
+    "emergency": null
+  },
+  "months": [
+    {
+      "rating": 1,
+      "note": "Doux, pluies possibles."
+    },
+    {
+      "rating": 1,
+      "note": "Doux."
+    },
+    {
+      "rating": 2,
+      "note": "Printemps."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 2,
+      "note": "Doux."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies possibles."
+    }
+  ],
+  "budget": null,
+  "entry": {
+    "text": "Pas de visa pour un séjour touristique de trois mois maximum, mais une autorisation électronique de voyage (ETA-IL) est obligatoire avant l'arrivée, à demander sur le seul site officiel de l'autorité de la population et de l'immigration. Le passeport doit être valable au moins 6 mois à la date de la demande.",
+    "points": [
+      "L'ETA-IL ne garantit pas l'entrée : l'officier d'immigration décide à l'arrivée.",
+      "Des contrôles prolongés sont possibles à l'aéroport Ben Gourion, y compris des contacts du téléphone et de l'ordinateur.",
+      "Les passeports ne sont pas tamponnés : une vignette bleue est remise, à garder pendant le séjour."
+    ],
+    "source": {
+      "label": "France Diplomatie, Israël et Territoires palestiniens, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/israel-palestine/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "health": {
+    "text": "Pas de vaccin obligatoire. Protège-toi de la chaleur et du soleil.",
+    "points": [
+      "Vaccins conseillés selon le séjour : hépatite A, hépatite B.",
+      "Bois de l'eau en bouteille ou rendue potable."
+    ],
+    "source": {
+      "label": "France Diplomatie, Israël et Territoires palestiniens, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/israel-palestine/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "safety": {
+    "text": "Le voyage en Israël est déconseillé sauf raison impérative. Plusieurs zones sont formellement déconseillées.",
+    "points": [
+      "Formellement déconseillés : le plateau du Golan et la frontière libanaise, les abords de la bande de Gaza, et la bande de Gaza.",
+      "La Cisjordanie est déconseillée sauf raison impérative, surtout le nord (Jénine, Tulkarem).",
+      "Jérusalem est déconseillée sauf raison impérative ; dans la Vieille ville, évite les regroupements, surtout du jeudi au samedi en fin de journée.",
+      "Inscris-toi sur Ariane et suis l'actualité avant chaque déplacement."
+    ],
+    "source": {
+      "label": "France Diplomatie, Israël et Territoires palestiniens, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/israel-palestine/"
+    },
+    "checkedAt": "2026-11-26"
+  },
+  "cities": [
+    {
+      "slug": "tel-aviv",
+      "name": "Tel-Aviv et Jaffa",
+      "nights": "3 nuits",
+      "for": [
+        "energique",
+        "tous"
+      ],
+      "summary": "La ville du bord de mer, ses plages, ses marchés et le vieux port de Jaffa.",
+      "sleep": "Près de la plage ou à Jaffa.",
+      "see": [
+        {
+          "name": "La promenade du front de mer",
+          "note": "Des plages sur toute la longueur de la ville."
+        },
+        {
+          "name": "Le vieux Jaffa",
+          "note": "Ruelles et port ancien."
+        },
+        {
+          "name": "Le marché du Carmel",
+          "note": "Fruits, épices et cuisine de rue."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le quartier de Neve Tzedek",
+          "note": "L'un des plus anciens quartiers de la ville."
+        }
+      ],
+      "eat": "Le houmous, le falafel et la shakshuka.",
+      "getAround": "À pied, vélo ou bus.",
+      "tip": "Pendant le shabbat, du vendredi soir au samedi soir, beaucoup de transports publics ne circulent pas."
+    },
+    {
+      "slug": "jerusalem",
+      "name": "Jérusalem",
+      "nights": "2 nuits",
+      "for": [
+        "stratege",
+        "lent"
+      ],
+      "summary": "La ville sainte des trois religions monothéistes. Déconseillée sauf raison impérative.",
+      "sleep": "Dans la ville nouvelle.",
+      "see": [
+        {
+          "name": "La Vieille ville",
+          "note": "Ses quatre quartiers et ses lieux saints."
+        },
+        {
+          "name": "Le mur des Lamentations",
+          "note": "Le lieu le plus sacré du judaïsme."
+        },
+        {
+          "name": "L'église du Saint-Sépulcre",
+          "note": "Un lieu majeur du christianisme."
+        }
+      ],
+      "hidden": [
+        {
+          "name": "Le mémorial de Yad Vashem",
+          "note": "Le mémorial de la Shoah."
+        }
+      ],
+      "eat": "Le bagel de Jérusalem et le knafeh.",
+      "getAround": "Tramway et à pied.",
+      "tip": "Tenue couvrante dans les lieux saints et les quartiers ultra-orthodoxes ; discrétion avec l'appareil photo."
+    }
+  ],
+  "itineraries": [
+    {
+      "days": 5,
+      "title": "Tel-Aviv et Jérusalem",
+      "for": [
+        "tous"
+      ],
+      "steps": [
+        {
+          "days": "Jours 1 à 3",
+          "place": "Tel-Aviv et Jaffa",
+          "note": "Plages et marchés."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Jérusalem",
+          "note": "Vieille ville, avec prudence."
+        }
+      ]
+    }
+  ],
+  "transport": [
+    {
+      "title": "Train et bus",
+      "text": "Relient Tel-Aviv et Jérusalem ; peu ou pas de service pendant le shabbat."
+    },
+    {
+      "title": "Taxi",
+      "text": "Partout, y compris pendant le shabbat."
+    },
+    {
+      "title": "Location de voiture",
+      "text": "Évite les zones déconseillées."
+    }
+  ],
+  "culture": [
+    "Pendant le shabbat, la vie ralentit et beaucoup de transports s'arrêtent.",
+    "Tenue couvrante dans les lieux saints."
+  ],
+  "phrases": [
+    {
+      "fr": "Bonjour (hébreu)",
+      "local": "Shalom"
+    },
+    {
+      "fr": "Merci (hébreu)",
+      "local": "Toda"
+    }
+  ],
+  "checklist": [
+    "Passeport valable 6 mois",
+    "ETA-IL avant le départ",
+    "Vignette d'entrée à conserver",
+    "Tenue couvrante",
+    "Inscription sur Ariane"
+  ],
+  "faq": [
+    {
+      "q": "Peut-on voyager en Israël ?",
+      "a": "France Diplomatie le déconseille sauf raison impérative, et déconseille formellement le Golan, la frontière libanaise, les abords de Gaza et Gaza."
+    },
+    {
+      "q": "Faut-il un visa pour Israël ?",
+      "a": "Non pour trois mois, mais l'autorisation électronique ETA-IL est obligatoire avant l'arrivée."
+    },
+    {
+      "q": "Mon passeport sera-t-il tamponné ?",
+      "a": "Non : une vignette papier bleue est remise à l'entrée, à garder pendant le séjour."
+    }
+  ],
+  "advisory": {
+    "level": "deconseille",
+    "text": "France Diplomatie déconseille de se rendre en Israël sauf raison impérative, et déconseille formellement le Golan, la frontière libanaise, les abords de Gaza et Gaza."
+  }
+}

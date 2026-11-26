@@ -4,7 +4,7 @@ import { getDestinations } from '@/lib/content';
 import { MONTHS } from '@/data/site';
 
 const all = await getDestinations();
-const counts = MONTHS.map((_, i) => all.filter((d) => d.data.months[i]!.rating === 2).length);
+const counts = MONTHS.map((_, i) => all.filter((d) => !d.data.advisory && d.data.months[i]!.rating === 2).length);
 const now = new Date().getMonth();
 ---
 <Base title="Où partir en voyage ? Le calendrier mois par mois" description="Où partir selon le mois : les destinations où la saison est idéale, de janvier à décembre, avec météo, affluence et guides PDF gratuits.">

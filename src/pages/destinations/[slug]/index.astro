@@ -83,6 +83,12 @@ const essentials = [
 
   <div class="wrap layout">
     <article class="main">
+      {g.advisory && (
+        <aside class="advisory" role="alert">
+          <strong>{g.advisory.level === 'formellement-deconseille' ? 'Voyage formellement déconseillé' : 'Voyage déconseillé sauf raison impérative'}</strong>
+          <p>{g.advisory.text} Source : <a href={g.safety?.source.url ?? g.entry.source.url}>France Diplomatie</a>. Beaucoup d'assurances ne couvrent pas les zones déconseillées : vérifie ton contrat.</p>
+        </aside>
+      )}
       <div class="intro">
         <p class="byline">
           {g.author ? <>Par <strong>{g.author.name}</strong>, {g.author.role}</> : <span class="verify">Auteur à renseigner</span>}
@@ -235,6 +241,10 @@ const essentials = [
 </Base>
 
 <style>
+  .advisory { margin: 0 0 28px; padding: 18px 22px; border: 2px solid #b42318; background: #fdecea; color: #5b1410; }
+  .advisory strong { display: block; font-size: 17px; margin-bottom: 4px; }
+  .advisory p { margin: 0; }
+  .advisory a { color: inherit; }
   .freetip { margin: 40px 0 8px; padding: 24px 26px; background: var(--sand); border-left: 4px solid var(--accent); }
   .freetip__kicker { font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
   .freetip__title { font-family: var(--serif); font-size: 26px; line-height: 1.2; margin: 8px 0 6px; color: var(--ink); }
