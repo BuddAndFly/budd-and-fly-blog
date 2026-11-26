@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Laos : Luang Prabang, Mékong, visa, budget",
-    "description": "Préparer un voyage au Laos : visa, munitions non explosées, meilleure saison, budget, Luang Prabang, Vang Vieng, les 4 000 îles. Guide PDF gratuit."
+    "title": "Guide Laos : Luang Prabang, Mékong, visa",
+    "description": "Préparer un voyage au Laos : visa, munitions non explosées, meilleure saison, Luang Prabang, Vang Vieng, les 4 000 îles. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/laos/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Sec et agréable."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en kips, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (guesthouse)",
-        "solo": "400 000 à 1 000 000 ₭",
-        "duo": "250 000 à 600 000 ₭"
-      },
-      {
-        "label": "Repas",
-        "solo": "200 000 à 450 000 ₭",
-        "duo": "200 000 à 450 000 ₭"
-      },
-      {
-        "label": "Transports",
-        "solo": "100 000 à 500 000 ₭",
-        "duo": "100 000 à 400 000 ₭"
-      },
-      {
-        "label": "Visites et excursions",
-        "solo": "50 000 à 300 000 ₭",
-        "duo": "50 000 à 300 000 ₭"
-      }
-    ],
-    "totalSolo": "750 000 à 2 250 000 ₭",
-    "totalDuo": "600 000 à 1 750 000 ₭",
-    "note": "Le Laos reste très abordable. Le train rapide Vientiane-Vang Vieng-Luang Prabang a réduit les temps de trajet. Prévois des espèces hors des villes.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Un visa est obligatoire. Le passeport doit être valable au moins 6 mois après la date de départ du Laos.",
     "points": [
@@ -367,10 +338,6 @@
     {
       "q": "Quand partir au Laos ?",
       "a": "De novembre à février. Mars-avril est très chaud et enfumé dans le nord ; la saison des pluies rend les paysages très verts."
-    },
-    {
-      "q": "Quel budget pour 10 jours au Laos ?",
-      "a": "Compte environ 750 000 à 2 250 000 ₭ par jour seul et 600 000 à 1 750 000 ₭ par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

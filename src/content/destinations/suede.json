@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Suède : quand partir, budget, Stockholm, Laponie",
-    "description": "Préparer un voyage en Suède : meilleure saison, budget seul ou à deux, Stockholm, Göteborg, Gotland, la Laponie et ses aurores. Guide PDF gratuit."
+    "title": "Guide Suède : quand partir, Stockholm, Laponie",
+    "description": "Préparer un voyage en Suède : meilleure saison, Stockholm, Göteborg, Gotland, la Laponie et ses aurores. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/suede/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Sainte-Lucie (13 décembre) et marchés de Noël."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en couronnes suédoises, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou auberge)",
-        "solo": "1 100 à 2 000 kr",
-        "duo": "700 à 1 300 kr"
-      },
-      {
-        "label": "Repas",
-        "solo": "350 à 600 kr",
-        "duo": "350 à 600 kr"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "50 à 150 kr",
-        "duo": "50 à 150 kr"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "100 à 250 kr",
-        "duo": "100 à 250 kr"
-      }
-    ],
-    "totalSolo": "1 600 à 3 000 kr",
-    "totalDuo": "1 200 à 2 300 kr",
-    "note": "Le « dagens lunch », menu du midi en semaine, est la meilleure affaire. Les activités en Laponie (aurores, traîneau) s'ajoutent et coûtent cher.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "La Suède est dans l'Union européenne : pas de visa. France Diplomatie conseille un passeport ou une carte d'identité au format électronique (carte bancaire) en cours de validité.",
     "points": [
@@ -402,10 +373,6 @@
     {
       "q": "Peut-on payer en espèces en Suède ?",
       "a": "De moins en moins : beaucoup de commerces et transports n'acceptent que la carte bancaire."
-    },
-    {
-      "q": "Quel budget pour une semaine en Suède ?",
-      "a": "Compte environ 1 600 à 3 000 kr par jour seul et 1 200 à 2 300 kr par personne à deux, hors vols et activités en Laponie. Ces montants sont des estimations à vérifier."
     }
   ]
 }

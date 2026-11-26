@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Bolivie : salar d'Uyuni, La Paz, Titicaca",
-    "description": "Préparer un voyage en Bolivie : formalités, altitude, sécurité, meilleure saison, budget, La Paz, le salar d'Uyuni, le lac Titicaca, Sucre. Guide PDF gratuit."
+    "description": "Préparer un voyage en Bolivie : formalités, altitude, sécurité, meilleure saison, La Paz, le salar d'Uyuni, le lac Titicaca, Sucre. Guide PDF gratuit."
   },
   "hero": null,
   "summary": "La Bolivie se visite d'avril à octobre, en saison sèche ; de janvier à mars, le salar d'Uyuni devient un miroir mais certaines routes sont coupées. Pas de visa pour 90 jours, avec un passeport valable 6 mois à l'entrée. L'altitude est le grand défi : La Paz, le lac Titicaca et le salar sont tous entre 3 600 et 4 000 m.",
@@ -24,39 +24,65 @@
     "flight": "Environ 15 h depuis Paris pour La Paz ou Santa Cruz, avec une escale"
   },
   "months": [
-    { "rating": 1, "note": "Saison des pluies : effet miroir sur le salar, routes parfois coupées." },
-    { "rating": 1, "note": "Comme en janvier ; carnaval d'Oruro (selon les années)." },
-    { "rating": 1, "note": "Fin des pluies, miroir encore possible." },
-    { "rating": 2, "note": "Début de la saison sèche." },
-    { "rating": 2, "note": "Sec et ensoleillé." },
-    { "rating": 2, "note": "Sec, nuits très froides." },
-    { "rating": 2, "note": "Haute saison, grand froid la nuit sur l'altiplano." },
-    { "rating": 2, "note": "Sec, venteux." },
-    { "rating": 2, "note": "Températures plus douces." },
-    { "rating": 2, "note": "Agréable." },
-    { "rating": 1, "note": "Début des pluies." },
-    { "rating": 1, "note": "Pluies." }
+    {
+      "rating": 1,
+      "note": "Saison des pluies : effet miroir sur le salar, routes parfois coupées."
+    },
+    {
+      "rating": 1,
+      "note": "Comme en janvier ; carnaval d'Oruro (selon les années)."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies, miroir encore possible."
+    },
+    {
+      "rating": 2,
+      "note": "Début de la saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et ensoleillé."
+    },
+    {
+      "rating": 2,
+      "note": "Sec, nuits très froides."
+    },
+    {
+      "rating": 2,
+      "note": "Haute saison, grand froid la nuit sur l'altiplano."
+    },
+    {
+      "rating": 2,
+      "note": "Sec, venteux."
+    },
+    {
+      "rating": 2,
+      "note": "Températures plus douces."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 1,
+      "note": "Début des pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en bolivianos, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      { "label": "Hébergement (hostal ou petit hôtel)", "solo": "150 à 400 Bs", "duo": "90 à 250 Bs" },
-      { "label": "Repas", "solo": "60 à 150 Bs", "duo": "60 à 150 Bs" },
-      { "label": "Transports", "solo": "20 à 100 Bs", "duo": "20 à 80 Bs" },
-      { "label": "Excursions", "solo": "50 à 300 Bs", "duo": "50 à 300 Bs" }
-    ],
-    "totalSolo": "280 à 950 Bs",
-    "totalDuo": "220 à 780 Bs",
-    "note": "L'un des pays les moins chers d'Amérique du Sud. L'excursion de 3 jours au salar d'Uyuni et au Sud Lípez est le gros poste. La situation économique change vite : vérifie les moyens de paiement avant de partir.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour moins de 90 jours par période de 12 mois. Le passeport doit être valable 6 mois à l'entrée.",
     "points": [
       "Le tampon d'entrée vaut autorisation de séjour de 90 jours."
     ],
-    "source": { "label": "France Diplomatie, Bolivie, Entrée / séjour (mise à jour du 23 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bolivie/" },
+    "source": {
+      "label": "France Diplomatie, Bolivie, Entrée / séjour (mise à jour du 23 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bolivie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -67,7 +93,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Assurance santé et rapatriement indispensable."
     ],
-    "source": { "label": "France Diplomatie, Bolivie, Santé (mise à jour du 23 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bolivie/" },
+    "source": {
+      "label": "France Diplomatie, Bolivie, Santé (mise à jour du 23 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bolivie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -78,7 +107,10 @@
       "Vols fréquents au terminal de bus de La Paz ; pickpockets sur la Feria d'El Alto.",
       "La délinquance est plus élevée dans la région de Santa Cruz."
     ],
-    "source": { "label": "France Diplomatie, Bolivie, Sécurité (mise à jour du 23 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bolivie/" },
+    "source": {
+      "label": "France Diplomatie, Bolivie, Sécurité (mise à jour du 23 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bolivie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -86,16 +118,31 @@
       "slug": "la-paz",
       "name": "La Paz",
       "nights": "3 nuits",
-      "for": ["tous", "energique"],
+      "for": [
+        "tous",
+        "energique"
+      ],
       "summary": "La capitale la plus haute du monde, dans une cuvette entourée de sommets, reliée par téléphériques.",
       "sleep": "Près de la place San Francisco ou à Sopocachi.",
       "see": [
-        { "name": "Le réseau de téléphériques Mi Teleférico", "note": "La meilleure vue sur la ville." },
-        { "name": "Le marché des sorcières", "note": "Remèdes et offrandes traditionnels." },
-        { "name": "La vallée de la Lune", "note": "Des formations d'argile à 30 minutes." }
+        {
+          "name": "Le réseau de téléphériques Mi Teleférico",
+          "note": "La meilleure vue sur la ville."
+        },
+        {
+          "name": "Le marché des sorcières",
+          "note": "Remèdes et offrandes traditionnels."
+        },
+        {
+          "name": "La vallée de la Lune",
+          "note": "Des formations d'argile à 30 minutes."
+        }
       ],
       "hidden": [
-        { "name": "Les cholitas catchers", "note": "Un spectacle de lutte populaire à El Alto le dimanche." }
+        {
+          "name": "Les cholitas catchers",
+          "note": "Un spectacle de lutte populaire à El Alto le dimanche."
+        }
       ],
       "eat": "Les salteñas (chaussons juteux) le matin.",
       "getAround": "Téléphériques et taxis officiels (radio-taxis).",
@@ -105,13 +152,25 @@
       "slug": "uyuni",
       "name": "Le salar d'Uyuni et le Sud Lípez",
       "nights": "3 nuits",
-      "for": ["explorateur", "tous"],
+      "for": [
+        "explorateur",
+        "tous"
+      ],
       "summary": "Le plus grand désert de sel du monde, puis des lagunes colorées, des geysers et des volcans.",
       "sleep": "En refuge pendant l'excursion en 4x4.",
       "see": [
-        { "name": "Le salar d'Uyuni", "note": "Et l'île d'Incahuasi couverte de cactus." },
-        { "name": "La laguna Colorada", "note": "Rouge, avec des flamants roses." },
-        { "name": "Les geysers Sol de Mañana", "note": "À près de 5 000 m." }
+        {
+          "name": "Le salar d'Uyuni",
+          "note": "Et l'île d'Incahuasi couverte de cactus."
+        },
+        {
+          "name": "La laguna Colorada",
+          "note": "Rouge, avec des flamants roses."
+        },
+        {
+          "name": "Les geysers Sol de Mañana",
+          "note": "À près de 5 000 m."
+        }
       ],
       "hidden": [],
       "eat": "Les repas des refuges, simples.",
@@ -122,13 +181,25 @@
       "slug": "titicaca",
       "name": "Le lac Titicaca (Copacabana)",
       "nights": "2 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Le lac navigable le plus haut du monde et l'île du Soleil, berceau mythique des Incas.",
       "sleep": "À Copacabana ou sur l'île du Soleil.",
       "see": [
-        { "name": "L'île du Soleil", "note": "Ruines incas et sentiers." },
-        { "name": "Le cerro Calvario", "note": "Coucher du soleil sur le lac." },
-        { "name": "La basilique de Copacabana", "note": "Et la bénédiction des voitures." }
+        {
+          "name": "L'île du Soleil",
+          "note": "Ruines incas et sentiers."
+        },
+        {
+          "name": "Le cerro Calvario",
+          "note": "Coucher du soleil sur le lac."
+        },
+        {
+          "name": "La basilique de Copacabana",
+          "note": "Et la bénédiction des voitures."
+        }
       ],
       "hidden": [],
       "eat": "La truite du lac.",
@@ -139,13 +210,25 @@
       "slug": "sucre-potosi",
       "name": "Sucre et Potosí",
       "nights": "3 nuits",
-      "for": ["stratege", "lent"],
+      "for": [
+        "stratege",
+        "lent"
+      ],
       "summary": "La ville blanche coloniale, capitale constitutionnelle, et la cité minière la plus haute du monde.",
       "sleep": "Dans le centre de Sucre.",
       "see": [
-        { "name": "Le centre historique de Sucre", "note": "Classé à l'Unesco." },
-        { "name": "La Casa de la Moneda à Potosí", "note": "L'ancien hôtel des monnaies." },
-        { "name": "Les empreintes de dinosaures", "note": "Au parc Cretácico de Sucre." }
+        {
+          "name": "Le centre historique de Sucre",
+          "note": "Classé à l'Unesco."
+        },
+        {
+          "name": "La Casa de la Moneda à Potosí",
+          "note": "L'ancien hôtel des monnaies."
+        },
+        {
+          "name": "Les empreintes de dinosaures",
+          "note": "Au parc Cretácico de Sucre."
+        }
       ],
       "hidden": [],
       "eat": "Le chocolat de Sucre.",
@@ -157,29 +240,71 @@
     {
       "days": 14,
       "title": "L'altiplano bolivien",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "La Paz", "note": "Acclimatation." },
-        { "days": "Jours 4 et 5", "place": "Lac Titicaca", "note": "Copacabana et île du Soleil." },
-        { "days": "Jours 6 à 8", "place": "Sucre", "note": "En avion via La Paz." },
-        { "days": "Jour 9", "place": "Potosí", "note": "En bus." },
-        { "days": "Jours 10 à 14", "place": "Uyuni et Sud Lípez", "note": "Fin vers le Chili ou retour à La Paz." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "La Paz",
+          "note": "Acclimatation."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Lac Titicaca",
+          "note": "Copacabana et île du Soleil."
+        },
+        {
+          "days": "Jours 6 à 8",
+          "place": "Sucre",
+          "note": "En avion via La Paz."
+        },
+        {
+          "days": "Jour 9",
+          "place": "Potosí",
+          "note": "En bus."
+        },
+        {
+          "days": "Jours 10 à 14",
+          "place": "Uyuni et Sud Lípez",
+          "note": "Fin vers le Chili ou retour à La Paz."
+        }
       ]
     },
     {
       "days": 8,
       "title": "La Paz et le salar",
-      "for": ["energique"],
+      "for": [
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "La Paz", "note": "Acclimatation." },
-        { "days": "Jours 4 à 8", "place": "Uyuni", "note": "Vol vers Uyuni, excursion de 3 jours." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "La Paz",
+          "note": "Acclimatation."
+        },
+        {
+          "days": "Jours 4 à 8",
+          "place": "Uyuni",
+          "note": "Vol vers Uyuni, excursion de 3 jours."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les bus", "text": "Bon marché ; choisis des compagnies réputées, routes de montagne dangereuses." },
-    { "title": "Les vols intérieurs", "text": "Gain de temps énorme entre La Paz, Sucre et Uyuni." },
-    { "title": "Les excursions en 4x4", "text": "Indispensables pour le salar et le Sud Lípez." }
+    {
+      "title": "Les bus",
+      "text": "Bon marché ; choisis des compagnies réputées, routes de montagne dangereuses."
+    },
+    {
+      "title": "Les vols intérieurs",
+      "text": "Gain de temps énorme entre La Paz, Sucre et Uyuni."
+    },
+    {
+      "title": "Les excursions en 4x4",
+      "text": "Indispensables pour le salar et le Sud Lípez."
+    }
   ],
   "culture": [
     "Une majorité de la population est d'origine indigène : demande avant de photographier.",
@@ -187,9 +312,21 @@
     "Les manifestations et blocages de routes sont fréquents : garde de la marge."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Buenos días", "say": "bouénos dias" },
-    { "fr": "Merci", "local": "Gracias", "say": "grassias" },
-    { "fr": "Bonjour (aymara)", "local": "Kamisaki", "say": "kamissaki" }
+    {
+      "fr": "Bonjour",
+      "local": "Buenos días",
+      "say": "bouénos dias"
+    },
+    {
+      "fr": "Merci",
+      "local": "Gracias",
+      "say": "grassias"
+    },
+    {
+      "fr": "Bonjour (aymara)",
+      "local": "Kamisaki",
+      "say": "kamissaki"
+    }
   ],
   "checklist": [
     "Passeport valable 6 mois à l'entrée",
@@ -199,9 +336,17 @@
     "Inscription sur Ariane avant les zones isolées"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour la Bolivie ?", "a": "Non pour moins de 90 jours par an, avec un passeport valable 6 mois à l'entrée." },
-    { "q": "Comment gérer l'altitude en Bolivie ?", "a": "Monte progressivement, repose-toi les premiers jours, bois beaucoup et consulte un médecin avant le départ." },
-    { "q": "Quand voir l'effet miroir du salar d'Uyuni ?", "a": "De janvier à mars, pendant la saison des pluies. Certaines routes peuvent alors être coupées." },
-    { "q": "Quel budget pour deux semaines en Bolivie ?", "a": "Compte environ 280 à 950 Bs par jour seul et 220 à 780 Bs par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour la Bolivie ?",
+      "a": "Non pour moins de 90 jours par an, avec un passeport valable 6 mois à l'entrée."
+    },
+    {
+      "q": "Comment gérer l'altitude en Bolivie ?",
+      "a": "Monte progressivement, repose-toi les premiers jours, bois beaucoup et consulte un médecin avant le départ."
+    },
+    {
+      "q": "Quand voir l'effet miroir du salar d'Uyuni ?",
+      "a": "De janvier à mars, pendant la saison des pluies. Certaines routes peuvent alors être coupées."
+    }
   ]
 }

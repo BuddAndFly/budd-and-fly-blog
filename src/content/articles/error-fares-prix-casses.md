@@ -43,4 +43,4 @@ C'est possible : certaines compagnies honorent ces billets, d'autres les annulen
 
 Une error fare est une belle surprise, pas une stratégie. Pour un voyage précis, les [15 astuces pour payer son vol moins cher](/blog/15-astuces-vols-pas-chers/) sont plus fiables.
 
-Une fois ton billet en poche, prépare ton séjour avec le guide gratuit du pays : formalités, saison, budget et itinéraires.
+Une fois ton billet en poche, prépare ton séjour avec le guide gratuit du pays : formalités, saison et itinéraires.

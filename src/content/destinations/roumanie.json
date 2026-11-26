@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Roumanie : Transylvanie, budget, quand partir",
-    "description": "Préparer un voyage en Roumanie : formalités, meilleure saison, budget, Bucarest, Brasov, Sibiu, Maramures, Bucovine. Guide PDF gratuit."
+    "title": "Guide Roumanie : Transylvanie, quand partir",
+    "description": "Préparer un voyage en Roumanie : formalités, meilleure saison, Bucarest, Brasov, Sibiu, Maramures, Bucovine. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/roumanie/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Marchés de Noël à Sibiu et Brasov."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en lei, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (pension ou petit hôtel)",
-        "solo": "180 à 350 lei",
-        "duo": "110 à 220 lei"
-      },
-      {
-        "label": "Repas",
-        "solo": "80 à 160 lei",
-        "duo": "80 à 160 lei"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "20 à 80 lei",
-        "duo": "15 à 60 lei"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "20 à 70 lei",
-        "duo": "20 à 70 lei"
-      }
-    ],
-    "totalSolo": "300 à 660 lei",
-    "totalDuo": "225 à 510 lei",
-    "note": "Un des pays les plus abordables de l'Union européenne. Les pensions de village (pensiune) incluent souvent un copieux petit-déjeuner maison.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "La Roumanie est dans l'Union européenne : un passeport ou une carte d'identité en cours de validité suffit.",
     "points": [
@@ -434,10 +405,6 @@
     {
       "q": "Quand partir en Roumanie ?",
       "a": "De mai à octobre. Septembre est idéal : doux et moins fréquenté. La route Transfăgărășan n'est ouverte qu'en été."
-    },
-    {
-      "q": "Quel budget pour une semaine en Roumanie ?",
-      "a": "Compte environ 300 à 660 lei par jour seul et 225 à 510 lei par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

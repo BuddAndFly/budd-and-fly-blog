@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Corée du Sud : Séoul, Busan, Jeju, K-ETA",
-    "description": "Préparer un voyage en Corée du Sud : visa et K-ETA, sécurité, meilleure saison, budget, Séoul, Busan, Gyeongju, l'île de Jeju. Guide PDF gratuit."
+    "description": "Préparer un voyage en Corée du Sud : visa et K-ETA, sécurité, meilleure saison, Séoul, Busan, Gyeongju, l'île de Jeju. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/coree-du-sud/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Froid, illuminations à Séoul."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en wons, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou guesthouse)",
-        "solo": "70 000 à 150 000 ₩",
-        "duo": "45 000 à 95 000 ₩"
-      },
-      {
-        "label": "Repas",
-        "solo": "35 000 à 70 000 ₩",
-        "duo": "35 000 à 70 000 ₩"
-      },
-      {
-        "label": "Transports",
-        "solo": "8 000 à 40 000 ₩",
-        "duo": "8 000 à 40 000 ₩"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "5 000 à 25 000 ₩",
-        "duo": "5 000 à 25 000 ₩"
-      }
-    ],
-    "totalSolo": "118 000 à 285 000 ₩",
-    "totalDuo": "93 000 à 230 000 ₩",
-    "note": "Les transports publics sont bon marché et excellents. Les barbecues coréens se partagent : à deux, c'est plus économique.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour touristique de moins de 90 jours. L'exemption temporaire de K-ETA (autorisation de voyage électronique) est prolongée jusqu'au 31 décembre 2026.",
     "points": [
@@ -406,10 +377,6 @@
     {
       "q": "Quand partir en Corée du Sud ?",
       "a": "En avril-mai pour les cerisiers et d'octobre à mi-novembre pour les couleurs d'automne. L'été est chaud, humide et pluvieux."
-    },
-    {
-      "q": "Quel budget pour 10 jours en Corée du Sud ?",
-      "a": "Compte environ 118 000 à 285 000 ₩ par jour seul et 93 000 à 230 000 ₩ par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

@@ -81,36 +81,7 @@
       "note": "Sec, haute saison."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols : la situation monétaire cubaine change très vite, vérifie-la avant de partir.",
-    "rows": [
-      {
-        "label": "Hébergement (casa particular)",
-        "solo": "30 à 70 €",
-        "duo": "18 à 40 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "15 à 35 €",
-        "duo": "15 à 35 €"
-      },
-      {
-        "label": "Transports (taxi collectif, bus Viazul)",
-        "solo": "10 à 40 €",
-        "duo": "8 à 30 €"
-      },
-      {
-        "label": "Visites et excursions",
-        "solo": "5 à 25 €",
-        "duo": "5 à 25 €"
-      }
-    ],
-    "totalSolo": "60 à 170 €",
-    "totalDuo": "46 à 130 €",
-    "note": "Emporte des espèces en euros : les cartes françaises fonctionnent mal et les distributeurs sont peu fiables. Les pénuries (carburant, électricité) peuvent perturber le voyage.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Il faut un passeport valable au moins 6 mois après l'arrivée, un billet retour et un visa de tourisme (90 jours, renouvelable une fois).",
     "points": [
@@ -356,10 +327,6 @@
     {
       "q": "Cuba est-elle sûre ?",
       "a": "L'insécurité et les vols augmentent, surtout à La Havane et Santiago. Ne sors pas seul la nuit et sécurise ton logement."
-    },
-    {
-      "q": "Quel budget pour 10 jours à Cuba ?",
-      "a": "Compte environ 60 à 170 € par jour seul et 46 à 130 € par personne à deux, hors vols, en espèces. Ces montants sont des estimations à vérifier."
     }
   ]
 }

@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Nouvelle-Calédonie : lagon, île des Pins, budget",
-    "description": "Préparer un voyage en Nouvelle-Calédonie : papiers, santé, meilleure saison, budget, Nouméa, l'île des Pins, les îles Loyauté, la côte est. PDF gratuit."
+    "title": "Guide Nouvelle-Calédonie : lagon, île des Pins",
+    "description": "Préparer un voyage en Nouvelle-Calédonie : papiers, santé, meilleure saison, Nouméa, l'île des Pins, les îles Loyauté, la côte est. PDF gratuit."
   },
   "hero": null,
   "summary": "La Nouvelle-Calédonie se visite de septembre à décembre et d'avril à juin, entre la saison fraîche et la saison chaude et cyclonique. Une pièce d'identité en cours de validité suffit, mais le vol fait escale dans un pays étranger : un passeport est alors obligatoire. Plus grand lagon du monde, île des Pins et culture kanak.",
@@ -73,36 +73,7 @@
       "note": "Début de la saison chaude."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols internationaux (1 000 XPF ≈ 8,38 €, parité fixe).",
-    "rows": [
-      {
-        "label": "Hébergement (gîte, hôtel, accueil en tribu)",
-        "solo": "80 à 180 €",
-        "duo": "50 à 115 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "30 à 60 €",
-        "duo": "30 à 60 €"
-      },
-      {
-        "label": "Voiture, vols et ferries vers les îles",
-        "solo": "40 à 120 €",
-        "duo": "25 à 90 €"
-      },
-      {
-        "label": "Activités",
-        "solo": "10 à 80 €",
-        "duo": "10 à 80 €"
-      }
-    ],
-    "totalSolo": "160 à 440 €",
-    "totalDuo": "115 à 345 €",
-    "note": "Les gîtes et l'accueil en tribu sont abordables et authentiques. Les îles se rejoignent en avion ou en ferry depuis Nouméa.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pour voyager en outre-mer, un Français doit disposer d'un document d'identité en cours de validité ; une carte d'identité suffit.",
     "points": [
@@ -340,10 +311,6 @@
     {
       "q": "Peut-on visiter les tribus ?",
       "a": "Oui, en accueil en tribu, en respectant la coutume : on se présente par l'intermédiaire de l'hébergeur."
-    },
-    {
-      "q": "Quel budget pour 12 jours en Nouvelle-Calédonie ?",
-      "a": "Compte environ 160 à 440 € par jour seul et 115 à 345 € par personne à deux, hors vol international. Ces montants sont des estimations à vérifier."
     }
   ]
 }

@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Mexique : sécurité, quand partir, budget, itinéraires",
-    "description": "Préparer un voyage au Mexique : régions sûres et déconseillées, meilleure saison, budget seul ou à deux, Mexico, Oaxaca, le Yucatán. Guide PDF gratuit."
+    "title": "Guide Mexique : sécurité, quand partir, itinéraires",
+    "description": "Préparer un voyage au Mexique : régions sûres et déconseillées, meilleure saison, Mexico, Oaxaca, le Yucatán. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/mexique/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Sec et ensoleillé, mais haute saison des fêtes : prix et fréquentation au plus haut à Noël."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en pesos, par jour et par personne, hors vols internationaux. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (petit hôtel, chambre d'hôtes)",
-        "solo": "900 à 1 800 MXN",
-        "duo": "550 à 1 100 MXN"
-      },
-      {
-        "label": "Repas (marchés, taquerias, restaurants)",
-        "solo": "400 à 900 MXN",
-        "duo": "400 à 900 MXN"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "100 à 300 MXN",
-        "duo": "80 à 250 MXN"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "100 à 400 MXN",
-        "duo": "100 à 400 MXN"
-      }
-    ],
-    "totalSolo": "1 500 à 3 400 MXN",
-    "totalDuo": "1 130 à 2 650 MXN",
-    "note": "La Riviera Maya (Cancún, Tulum) est nettement plus chère que le reste du pays. Les bus longue distance de première classe sont confortables et abordables. Ajoute la taxe de séjour du Quintana Roo si tu y passes.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Les Français n'ont pas besoin de visa pour un séjour touristique, dans la limite de 180 jours. La durée accordée est fixée par l'agent à l'arrivée.",
     "points": [
@@ -483,10 +454,6 @@
     {
       "q": "Quelle est la meilleure période pour le Mexique ?",
       "a": "De novembre à mars, pendant la saison sèche. De juin à octobre, c'est la saison des pluies et des ouragans, et les sargasses touchent souvent la côte caraïbe."
-    },
-    {
-      "q": "Quel budget pour deux semaines au Mexique ?",
-      "a": "Compte environ 1 500 à 3 400 MXN par jour seul et 1 130 à 2 650 MXN par personne à deux, hors vols. La Riviera Maya est la région la plus chère. Ces montants sont des estimations à vérifier."
     }
   ]
 }

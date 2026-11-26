@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Brésil : Rio, Iguaçu, Bahia, sécurité",
-    "description": "Préparer un voyage au Brésil : formalités, sécurité, fièvre jaune, meilleure saison, budget, Rio de Janeiro, Iguaçu, Salvador, Paraty, Amazonie. PDF gratuit."
+    "description": "Préparer un voyage au Brésil : formalités, sécurité, fièvre jaune, meilleure saison, Rio de Janeiro, Iguaçu, Salvador, Paraty, Amazonie. PDF gratuit."
   },
   "hero": null,
   "summary": "Le Brésil se visite toute l'année selon les régions : avril-octobre pour le Nordeste et le Pantanal, décembre-mars pour l'été à Rio. Pas de visa pour 90 jours sur 180 ; le passeport doit être valable 6 mois après le retour. La vaccination contre la fièvre jaune est recommandée. Rio, les chutes d'Iguaçu et Bahia forment un premier voyage marquant, avec de vraies précautions de sécurité.",
@@ -24,40 +24,66 @@
     "flight": "Environ 11 h 30 en vol direct depuis Paris pour Rio ou São Paulo"
   },
   "months": [
-    { "rating": 1, "note": "Été austral : chaud et orageux à Rio, haute saison." },
-    { "rating": 2, "note": "Carnaval (selon les années), très chaud." },
-    { "rating": 1, "note": "Chaud, pluies en Amazonie." },
-    { "rating": 1, "note": "Fin de l'été, plus calme." },
-    { "rating": 2, "note": "Doux à Rio, Pantanal qui s'assèche." },
-    { "rating": 2, "note": "Fêtes de la Saint-Jean dans le Nordeste." },
-    { "rating": 2, "note": "Hiver doux à Rio, saison idéale au Pantanal." },
-    { "rating": 2, "note": "Sec, Lençóis Maranhenses remplis." },
-    { "rating": 2, "note": "Agréable presque partout." },
-    { "rating": 1, "note": "Le printemps, chaleur qui monte." },
-    { "rating": 1, "note": "Chaud, pluies au sud." },
-    { "rating": 1, "note": "Haute saison des fêtes, très chaud." }
+    {
+      "rating": 1,
+      "note": "Été austral : chaud et orageux à Rio, haute saison."
+    },
+    {
+      "rating": 2,
+      "note": "Carnaval (selon les années), très chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud, pluies en Amazonie."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de l'été, plus calme."
+    },
+    {
+      "rating": 2,
+      "note": "Doux à Rio, Pantanal qui s'assèche."
+    },
+    {
+      "rating": 2,
+      "note": "Fêtes de la Saint-Jean dans le Nordeste."
+    },
+    {
+      "rating": 2,
+      "note": "Hiver doux à Rio, saison idéale au Pantanal."
+    },
+    {
+      "rating": 2,
+      "note": "Sec, Lençóis Maranhenses remplis."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable presque partout."
+    },
+    {
+      "rating": 1,
+      "note": "Le printemps, chaleur qui monte."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud, pluies au sud."
+    },
+    {
+      "rating": 1,
+      "note": "Haute saison des fêtes, très chaud."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en reais, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      { "label": "Hébergement (pousada ou hôtel simple)", "solo": "250 à 550 R$", "duo": "150 à 330 R$" },
-      { "label": "Repas", "solo": "100 à 220 R$", "duo": "100 à 220 R$" },
-      { "label": "Transports", "solo": "40 à 150 R$", "duo": "30 à 110 R$" },
-      { "label": "Visites et excursions", "solo": "50 à 200 R$", "duo": "50 à 200 R$" }
-    ],
-    "totalSolo": "440 à 1 120 R$",
-    "totalDuo": "330 à 860 R$",
-    "note": "Les restaurants « au kilo » sont économiques. Les vols intérieurs sont indispensables vu les distances et pèsent sur le budget.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour moins de 90 jours. Le passeport doit être valable 6 mois après la date de retour, avec un billet retour ou de sortie.",
     "points": [
       "Le séjour est limité à 90 jours sur une période de 180 jours, sans renouvellement possible.",
       "Le non-respect de cette règle expose à une amende et à des difficultés pour revenir."
     ],
-    "source": { "label": "France Diplomatie, Brésil, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bresil/" },
+    "source": {
+      "label": "France Diplomatie, Brésil, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bresil/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -68,7 +94,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Assurance santé et rapatriement indispensable."
     ],
-    "source": { "label": "France Diplomatie, Brésil, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bresil/" },
+    "source": {
+      "label": "France Diplomatie, Brésil, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bresil/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -79,7 +108,10 @@
       "À Rio, le métro est sûr ; les bus sont moins sûrs. Préfère les VTC, géolocalisés et sans argent à sortir.",
       "Évite de sortir de l'argent ou des objets de valeur de manière ostensible."
     ],
-    "source": { "label": "France Diplomatie, Brésil, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bresil/" },
+    "source": {
+      "label": "France Diplomatie, Brésil, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bresil/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -87,17 +119,35 @@
       "slug": "rio-de-janeiro",
       "name": "Rio de Janeiro",
       "nights": "4 nuits",
-      "for": ["tous", "energique"],
+      "for": [
+        "tous",
+        "energique"
+      ],
       "summary": "Une ville spectaculaire entre mornes et océan : Pain de Sucre, Corcovado et plages mythiques.",
       "sleep": "À Ipanema, Leblon ou Copacabana, près du métro.",
       "see": [
-        { "name": "Le Christ rédempteur", "note": "Au Corcovado, tôt le matin." },
-        { "name": "Le Pain de Sucre", "note": "En téléphérique au coucher du soleil." },
-        { "name": "La plage d'Ipanema", "note": "Et le coucher du soleil depuis la pierre d'Arpoador." }
+        {
+          "name": "Le Christ rédempteur",
+          "note": "Au Corcovado, tôt le matin."
+        },
+        {
+          "name": "Le Pain de Sucre",
+          "note": "En téléphérique au coucher du soleil."
+        },
+        {
+          "name": "La plage d'Ipanema",
+          "note": "Et le coucher du soleil depuis la pierre d'Arpoador."
+        }
       ],
       "hidden": [
-        { "name": "L'escalier Selarón", "note": "Couvert de carreaux colorés, en journée." },
-        { "name": "Le jardin botanique", "note": "Palmiers impériaux et toucans." }
+        {
+          "name": "L'escalier Selarón",
+          "note": "Couvert de carreaux colorés, en journée."
+        },
+        {
+          "name": "Le jardin botanique",
+          "note": "Palmiers impériaux et toucans."
+        }
       ],
       "eat": "La feijoada (le samedi), les jus de fruits frais et la caipirinha.",
       "getAround": "Métro et VTC.",
@@ -107,13 +157,25 @@
       "slug": "iguacu",
       "name": "Les chutes d'Iguaçu",
       "nights": "2 nuits",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "summary": "Plus de 250 cascades à la frontière de l'Argentine, dans la forêt atlantique.",
       "sleep": "À Foz do Iguaçu.",
       "see": [
-        { "name": "Le côté brésilien", "note": "La vue panoramique sur l'ensemble des chutes." },
-        { "name": "Le côté argentin", "note": "La Gorge du Diable, au plus près (passeport nécessaire)." },
-        { "name": "Le parc des oiseaux", "note": "Toucans et aras." }
+        {
+          "name": "Le côté brésilien",
+          "note": "La vue panoramique sur l'ensemble des chutes."
+        },
+        {
+          "name": "Le côté argentin",
+          "note": "La Gorge du Diable, au plus près (passeport nécessaire)."
+        },
+        {
+          "name": "Le parc des oiseaux",
+          "note": "Toucans et aras."
+        }
       ],
       "hidden": [],
       "eat": "La churrascaria (grillades à volonté).",
@@ -124,16 +186,31 @@
       "slug": "salvador-bahia",
       "name": "Salvador de Bahia",
       "nights": "3 nuits",
-      "for": ["energique", "lent"],
+      "for": [
+        "energique",
+        "lent"
+      ],
       "summary": "Le cœur afro-brésilien : le Pelourinho coloré, la capoeira et les rythmes de percussions.",
       "sleep": "Près du Pelourinho ou à Barra.",
       "see": [
-        { "name": "Le Pelourinho", "note": "Le centre historique classé à l'Unesco." },
-        { "name": "L'église São Francisco", "note": "Un intérieur couvert d'or." },
-        { "name": "L'ascenseur Lacerda", "note": "Entre la ville haute et la ville basse." }
+        {
+          "name": "Le Pelourinho",
+          "note": "Le centre historique classé à l'Unesco."
+        },
+        {
+          "name": "L'église São Francisco",
+          "note": "Un intérieur couvert d'or."
+        },
+        {
+          "name": "L'ascenseur Lacerda",
+          "note": "Entre la ville haute et la ville basse."
+        }
       ],
       "hidden": [
-        { "name": "La presqu'île de Maraú ou Boipeba", "note": "Des plages paradisiaques au sud de Salvador." }
+        {
+          "name": "La presqu'île de Maraú ou Boipeba",
+          "note": "Des plages paradisiaques au sud de Salvador."
+        }
       ],
       "eat": "L'acarajé (beignet de haricots) et la moqueca (ragoût de poisson au lait de coco).",
       "getAround": "VTC, surtout le soir.",
@@ -143,13 +220,25 @@
       "slug": "paraty-ilha-grande",
       "name": "Paraty et Ilha Grande",
       "nights": "3 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Une petite ville coloniale pavée et une île sans voitures couverte de forêt.",
       "sleep": "Dans le centre historique de Paraty, au village d'Abraão sur l'île.",
       "see": [
-        { "name": "Le centre historique de Paraty", "note": "Classé à l'Unesco." },
-        { "name": "La plage de Lopes Mendes", "note": "Sur Ilha Grande, à pied ou en bateau." },
-        { "name": "Les sorties en bateau", "note": "Criques et îlots de la baie." }
+        {
+          "name": "Le centre historique de Paraty",
+          "note": "Classé à l'Unesco."
+        },
+        {
+          "name": "La plage de Lopes Mendes",
+          "note": "Sur Ilha Grande, à pied ou en bateau."
+        },
+        {
+          "name": "Les sorties en bateau",
+          "note": "Criques et îlots de la baie."
+        }
       ],
       "hidden": [],
       "eat": "La cachaça artisanale de Paraty.",
@@ -161,29 +250,71 @@
     {
       "days": 14,
       "title": "Rio, Iguaçu et Bahia",
-      "for": ["tous", "energique"],
+      "for": [
+        "tous",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Rio de Janeiro", "note": "Arrivée." },
-        { "days": "Jours 5 à 7", "place": "Paraty et Ilha Grande", "note": "En bus." },
-        { "days": "Jours 8 à 10", "place": "Iguaçu", "note": "En avion." },
-        { "days": "Jours 11 à 14", "place": "Salvador", "note": "En avion, retour depuis Salvador." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Rio de Janeiro",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Paraty et Ilha Grande",
+          "note": "En bus."
+        },
+        {
+          "days": "Jours 8 à 10",
+          "place": "Iguaçu",
+          "note": "En avion."
+        },
+        {
+          "days": "Jours 11 à 14",
+          "place": "Salvador",
+          "note": "En avion, retour depuis Salvador."
+        }
       ]
     },
     {
       "days": 10,
       "title": "Rio et la Costa Verde",
-      "for": ["lent"],
+      "for": [
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Rio de Janeiro", "note": "Arrivée." },
-        { "days": "Jours 5 à 7", "place": "Ilha Grande", "note": "Plages." },
-        { "days": "Jours 8 à 10", "place": "Paraty", "note": "Retour à Rio." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Rio de Janeiro",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Ilha Grande",
+          "note": "Plages."
+        },
+        {
+          "days": "Jours 8 à 10",
+          "place": "Paraty",
+          "note": "Retour à Rio."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les vols intérieurs", "text": "Indispensables : le pays fait plus de 15 fois la France." },
-    { "title": "Les bus", "text": "Confortables pour les trajets de quelques heures." },
-    { "title": "En ville", "text": "Métro quand il existe, VTC sinon." }
+    {
+      "title": "Les vols intérieurs",
+      "text": "Indispensables : le pays fait plus de 15 fois la France."
+    },
+    {
+      "title": "Les bus",
+      "text": "Confortables pour les trajets de quelques heures."
+    },
+    {
+      "title": "En ville",
+      "text": "Métro quand il existe, VTC sinon."
+    }
   ],
   "culture": [
     "Les Brésiliens sont chaleureux et tactiles.",
@@ -191,9 +322,21 @@
     "Le football est une religion."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Bom dia", "say": "bon djia" },
-    { "fr": "Merci", "local": "Obrigado / Obrigada", "say": "obrigadou / obrigada" },
-    { "fr": "Tout va bien ?", "local": "Tudo bem?", "say": "toudou bein" }
+    {
+      "fr": "Bonjour",
+      "local": "Bom dia",
+      "say": "bon djia"
+    },
+    {
+      "fr": "Merci",
+      "local": "Obrigado / Obrigada",
+      "say": "obrigadou / obrigada"
+    },
+    {
+      "fr": "Tout va bien ?",
+      "local": "Tudo bem?",
+      "say": "toudou bein"
+    }
   ],
   "checklist": [
     "Passeport valable 6 mois après le retour, billet retour",
@@ -204,9 +347,17 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour le Brésil ?", "a": "Non pour moins de 90 jours sur 180. Le passeport doit être valable 6 mois après le retour." },
-    { "q": "Le vaccin contre la fièvre jaune est-il obligatoire au Brésil ?", "a": "Il est recommandé avant tout déplacement au Brésil, pas obligatoire pour un Français arrivant de France. Fais-le dans un centre de vaccination international." },
-    { "q": "Le Brésil est-il sûr ?", "a": "La criminalité est élevée dans les grandes villes : métro et VTC, discrétion. La frontière vénézuélienne est formellement déconseillée." },
-    { "q": "Quel budget pour deux semaines au Brésil ?", "a": "Compte environ 440 à 1 120 R$ par jour seul et 330 à 860 R$ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour le Brésil ?",
+      "a": "Non pour moins de 90 jours sur 180. Le passeport doit être valable 6 mois après le retour."
+    },
+    {
+      "q": "Le vaccin contre la fièvre jaune est-il obligatoire au Brésil ?",
+      "a": "Il est recommandé avant tout déplacement au Brésil, pas obligatoire pour un Français arrivant de France. Fais-le dans un centre de vaccination international."
+    },
+    {
+      "q": "Le Brésil est-il sûr ?",
+      "a": "La criminalité est élevée dans les grandes villes : métro et VTC, discrétion. La frontière vénézuélienne est formellement déconseillée."
+    }
   ]
 }

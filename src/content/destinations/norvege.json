@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Norvège : fjords, aurores, budget, quand partir",
-    "description": "Préparer un voyage en Norvège : fjords en été, aurores en hiver, budget seul ou à deux, Oslo, Bergen, les fjords, les Lofoten, Tromsø. Guide PDF gratuit."
+    "title": "Guide Norvège : fjords, aurores, quand partir",
+    "description": "Préparer un voyage en Norvège : fjords en été, aurores en hiver, Oslo, Bergen, les fjords, les Lofoten, Tromsø. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/norvege/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Marchés de Noël, aurores au nord."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en couronnes norvégiennes, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou chalet)",
-        "solo": "1 400 à 2 500 kr",
-        "duo": "900 à 1 600 kr"
-      },
-      {
-        "label": "Repas",
-        "solo": "500 à 900 kr",
-        "duo": "500 à 900 kr"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "100 à 400 kr",
-        "duo": "100 à 300 kr"
-      },
-      {
-        "label": "Visites et activités",
-        "solo": "100 à 400 kr",
-        "duo": "100 à 400 kr"
-      }
-    ],
-    "totalSolo": "2 100 à 4 200 kr",
-    "totalDuo": "1 600 à 3 200 kr",
-    "note": "La Norvège est l'un des pays les plus chers d'Europe. Courses au supermarché, cabanes (« hytte ») partagées et camping font baisser la note. Ajoute ferries, péages et croisières dans les fjords.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "La Norvège est dans l'espace Schengen : une carte d'identité ou un passeport en cours de validité suffit. Mais elle ne reconnaît pas la prolongation de 5 ans des anciennes cartes d'identité.",
     "points": [
@@ -460,10 +431,6 @@
     {
       "q": "Quand partir pour les fjords ?",
       "a": "De juin à août, quand les routes de montagne sont ouvertes et les journées très longues. Mai et septembre sont plus calmes mais certaines routes peuvent être fermées."
-    },
-    {
-      "q": "Quel budget pour une semaine en Norvège ?",
-      "a": "Compte environ 2 100 à 4 200 kr par jour seul et 1 600 à 3 200 kr par personne à deux, hors vols. C'est l'un des pays les plus chers d'Europe. Ces montants sont des estimations à vérifier."
     }
   ]
 }

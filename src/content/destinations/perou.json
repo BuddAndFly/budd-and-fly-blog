@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Pérou : quand partir, Machu Picchu, budget, itinéraires",
-    "description": "Préparer un voyage au Pérou : saison sèche, Machu Picchu, mal des montagnes, budget seul ou à deux, Cusco, Arequipa, Titicaca. Guide PDF gratuit."
+    "title": "Guide Pérou : quand partir, Machu Picchu, itinéraires",
+    "description": "Préparer un voyage au Pérou : saison sèche, Machu Picchu, mal des montagnes, Cusco, Arequipa, Titicaca. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/perou/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Retour de la saison des pluies dans les Andes. Bon pour la côte nord."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en soles, par jour et par personne, hors vols internationaux. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou guesthouse)",
-        "solo": "120 à 250 S/",
-        "duo": "80 à 160 S/"
-      },
-      {
-        "label": "Repas",
-        "solo": "50 à 120 S/",
-        "duo": "50 à 120 S/"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "15 à 50 S/",
-        "duo": "15 à 40 S/"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "20 à 80 S/",
-        "duo": "20 à 80 S/"
-      }
-    ],
-    "totalSolo": "205 à 500 S/",
-    "totalDuo": "165 à 400 S/",
-    "note": "Le Machu Picchu coûte cher : entrée, train jusqu'à Aguas Calientes et bus jusqu'au site s'ajoutent au budget quotidien. Le menu du midi dans les petits restaurants locaux est très bon marché.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour touristique de moins de 90 jours. Le passeport doit être valide au moins 6 mois à l'arrivée : la règle est appliquée strictement, sans dérogation.",
     "points": [
@@ -498,10 +469,6 @@
     {
       "q": "Comment éviter le mal des montagnes ?",
       "a": "Monte progressivement (commence par la Vallée sacrée, plus basse que Cusco), bois beaucoup d'eau, évite l'alcool et les efforts les deux premiers jours, et demande conseil à ton médecin avant le départ."
-    },
-    {
-      "q": "Quel budget pour deux semaines au Pérou ?",
-      "a": "Compte environ 205 à 500 S/ par jour seul et 165 à 400 S/ par personne à deux, hors vols et Machu Picchu. Ces montants sont des estimations à vérifier."
     }
   ]
 }

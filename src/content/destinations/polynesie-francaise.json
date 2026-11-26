@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Polynésie : Tahiti, Moorea, Bora Bora, budget",
-    "description": "Préparer un voyage en Polynésie française : papiers, santé, meilleure saison, budget, Tahiti, Moorea, Bora Bora, les Tuamotu, les Marquises. Guide PDF gratuit."
+    "title": "Guide Polynésie : Tahiti, Moorea, Bora Bora",
+    "description": "Préparer un voyage en Polynésie française : papiers, santé, meilleure saison, Tahiti, Moorea, Bora Bora, les Tuamotu, les Marquises. Guide PDF gratuit."
   },
   "hero": null,
   "summary": "La Polynésie française se visite de mai à octobre, pendant la saison sèche et plus fraîche ; de novembre à avril, il fait plus chaud et humide. Une pièce d'identité en cours de validité suffit pour s'y rendre, mais le vol passe souvent par un pays étranger, ce qui impose alors un passeport. Lagons, motus et montagnes : un voyage d'exception.",
@@ -73,36 +73,7 @@
       "note": "Chaud et humide."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols internationaux (1 000 XPF ≈ 8,38 €, parité fixe).",
-    "rows": [
-      {
-        "label": "Hébergement (pension de famille)",
-        "solo": "100 à 220 €",
-        "duo": "65 à 140 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "35 à 70 €",
-        "duo": "35 à 70 €"
-      },
-      {
-        "label": "Vols et ferries inter-îles",
-        "solo": "30 à 120 €",
-        "duo": "30 à 120 €"
-      },
-      {
-        "label": "Activités (lagon, plongée)",
-        "solo": "20 à 120 €",
-        "duo": "20 à 120 €"
-      }
-    ],
-    "totalSolo": "185 à 530 €",
-    "totalDuo": "150 à 450 €",
-    "note": "Les pensions de famille, souvent en demi-pension, sont bien moins chères que les hôtels sur pilotis. Un pass aérien multi-îles fait baisser le coût des vols intérieurs.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pour voyager en outre-mer, un Français doit disposer d'un document d'identité en cours de validité ; une carte d'identité suffit.",
     "points": [
@@ -328,14 +299,6 @@
     {
       "q": "Quand partir en Polynésie ?",
       "a": "De mai à octobre, pendant la saison sèche. Juillet pour le Heiva, de juillet à octobre pour les baleines."
-    },
-    {
-      "q": "Comment voyager en Polynésie avec un budget raisonnable ?",
-      "a": "En dormant en pension de famille, en mangeant aux roulottes et en prenant un pass aérien inter-îles."
-    },
-    {
-      "q": "Quel budget pour 2 semaines en Polynésie ?",
-      "a": "Compte environ 185 à 530 € par jour seul et 150 à 450 € par personne à deux, hors vol international. Ces montants sont des estimations à vérifier."
     }
   ]
 }

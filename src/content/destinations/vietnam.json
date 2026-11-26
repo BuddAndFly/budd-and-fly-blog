@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Vietnam : quand partir, visa, budget, itinéraires",
-    "description": "Préparer un voyage au Vietnam : 45 jours sans visa, meilleure saison selon les régions, budget seul ou à deux, Hanoï, Ha Long, Hoi An, le sud. PDF gratuit."
+    "title": "Guide Vietnam : quand partir, visa, itinéraires",
+    "description": "Préparer un voyage au Vietnam : 45 jours sans visa, meilleure saison selon les régions, Hanoï, Ha Long, Hoi An, le sud. PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/vietnam/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Frais au nord, sec et ensoleillé au sud, encore humide au centre."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en dongs, par jour et par personne, hors vols internationaux. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (chambre simple, petit hôtel)",
-        "solo": "400 000 à 900 000 ₫",
-        "duo": "250 000 à 550 000 ₫"
-      },
-      {
-        "label": "Repas (cuisine de rue et restaurants)",
-        "solo": "200 000 à 500 000 ₫",
-        "duo": "200 000 à 500 000 ₫"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "50 000 à 200 000 ₫",
-        "duo": "50 000 à 150 000 ₫"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "50 000 à 200 000 ₫",
-        "duo": "50 000 à 200 000 ₫"
-      }
-    ],
-    "totalSolo": "700 000 à 1 800 000 ₫",
-    "totalDuo": "550 000 à 1 400 000 ₫",
-    "note": "Une croisière d'une nuit dans la baie d'Ha Long s'ajoute et varie beaucoup selon le bateau. Les trains de nuit et vols intérieurs entre le nord et le sud aussi.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Les Français sont dispensés de visa pour un séjour de 45 jours maximum, jours d'arrivée et de départ inclus. Au-delà, un visa électronique (jusqu'à 90 jours) est obligatoire.",
     "points": [
@@ -490,10 +461,6 @@
     {
       "q": "Quelle est la meilleure période pour le Vietnam ?",
       "a": "Mars et avril pour traverser tout le pays. Sinon, le nord d'octobre à avril, le centre de février à août, le sud de décembre à avril. Évite le centre de septembre à novembre (typhons, inondations)."
-    },
-    {
-      "q": "Quel budget pour deux semaines au Vietnam ?",
-      "a": "Compte environ 700 000 à 1 800 000 ₫ par jour seul et 550 000 à 1 400 000 ₫ par personne à deux, hors vols et croisière à Ha Long. Ces montants sont des estimations à vérifier."
     },
     {
       "q": "Peut-on louer une moto au Vietnam ?",

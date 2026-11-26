@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Népal : trek, Katmandou, Pokhara, visa",
-    "description": "Préparer un voyage au Népal : visa à l'arrivée, assurance montagne, meilleure saison, budget, Katmandou, Pokhara, Annapurnas, Everest, Chitwan. PDF gratuit."
+    "description": "Préparer un voyage au Népal : visa à l'arrivée, assurance montagne, meilleure saison, Katmandou, Pokhara, Annapurnas, Everest, Chitwan. PDF gratuit."
   },
   "hero": null,
   "summary": "Le Népal se visite d'octobre à novembre et de mars à avril, les meilleures saisons pour le trek. Un visa est obligatoire, disponible à l'arrivée (prévois des espèces). Tout le pays est en vigilance renforcée : une assurance couvrant les recherches et l'évacuation en montagne est vivement recommandée. Katmandou, Pokhara et les Annapurnas forment le cœur du voyage.",
@@ -24,33 +24,56 @@
     "flight": "Environ 12 h depuis Paris pour Katmandou, avec une escale"
   },
   "months": [
-    { "rating": 1, "note": "Ciel clair, froid en altitude ; treks de basse altitude." },
-    { "rating": 1, "note": "Comme en janvier, cols enneigés." },
-    { "rating": 2, "note": "Printemps, rhododendrons en fleurs." },
-    { "rating": 2, "note": "Excellent pour le trek, saison des expéditions." },
-    { "rating": 1, "note": "Chaud en plaine, nuages en fin de mois." },
-    { "rating": 0, "note": "Arrivée de la mousson." },
-    { "rating": 0, "note": "Mousson : sentiers boueux, glissements de terrain." },
-    { "rating": 0, "note": "Comme en juillet." },
-    { "rating": 1, "note": "Fin de la mousson en fin de mois." },
-    { "rating": 2, "note": "La meilleure saison : ciel limpide ; fête de Dashain." },
-    { "rating": 2, "note": "Excellent ; fête de Tihar." },
-    { "rating": 1, "note": "Clair et froid." }
+    {
+      "rating": 1,
+      "note": "Ciel clair, froid en altitude ; treks de basse altitude."
+    },
+    {
+      "rating": 1,
+      "note": "Comme en janvier, cols enneigés."
+    },
+    {
+      "rating": 2,
+      "note": "Printemps, rhododendrons en fleurs."
+    },
+    {
+      "rating": 2,
+      "note": "Excellent pour le trek, saison des expéditions."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud en plaine, nuages en fin de mois."
+    },
+    {
+      "rating": 0,
+      "note": "Arrivée de la mousson."
+    },
+    {
+      "rating": 0,
+      "note": "Mousson : sentiers boueux, glissements de terrain."
+    },
+    {
+      "rating": 0,
+      "note": "Comme en juillet."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la mousson en fin de mois."
+    },
+    {
+      "rating": 2,
+      "note": "La meilleure saison : ciel limpide ; fête de Dashain."
+    },
+    {
+      "rating": 2,
+      "note": "Excellent ; fête de Tihar."
+    },
+    {
+      "rating": 1,
+      "note": "Clair et froid."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en roupies népalaises, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      { "label": "Hébergement (guesthouse ou lodge)", "solo": "2 000 à 6 000 Rs", "duo": "1 200 à 3 500 Rs" },
-      { "label": "Repas", "solo": "1 500 à 3 500 Rs", "duo": "1 500 à 3 500 Rs" },
-      { "label": "Transports", "solo": "500 à 3 000 Rs", "duo": "400 à 2 000 Rs" },
-      { "label": "Guide, permis et entrées", "solo": "1 500 à 6 000 Rs", "duo": "1 000 à 4 000 Rs" }
-    ],
-    "totalSolo": "5 500 à 18 500 Rs",
-    "totalDuo": "4 100 à 13 000 Rs",
-    "note": "En trek, les prix des repas augmentent avec l'altitude. Un guide et un porteur se partagent à deux. Prévois des espèces : pas de distributeurs en montagne.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Un visa est obligatoire. Il s'obtient à l'ambassade du Népal à Paris, à l'arrivée à l'aéroport de Katmandou ou aux frontières terrestres. Le passeport doit être valable au moins 6 mois.",
     "points": [
@@ -58,7 +81,10 @@
       "Des travaux à l'aéroport de Katmandou peuvent perturber les vols : vérifie tes réservations auprès de la compagnie.",
       "En cas de perte de passeport, l'ambassade ne délivre qu'un laissez-passer pour rentrer en France."
     ],
-    "source": { "label": "France Diplomatie, Népal, Entrée / séjour (mise à jour du 24 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nepal/" },
+    "source": {
+      "label": "France Diplomatie, Népal, Entrée / séjour (mise à jour du 24 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nepal/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -69,7 +95,10 @@
       "Assurance couvrant recherches, évacuation en montagne et rapatriement vivement recommandée.",
       "Bois de l'eau traitée ou en bouteille."
     ],
-    "source": { "label": "France Diplomatie, Népal, Santé (mise à jour du 24 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nepal/" },
+    "source": {
+      "label": "France Diplomatie, Népal, Santé (mise à jour du 24 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nepal/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -79,7 +108,10 @@
       "La couverture téléphonique est aléatoire en montagne : un téléphone satellite est recommandé pour les randonneurs ou leurs guides.",
       "De juin à octobre, la mousson provoque inondations et glissements de terrain ; en hiver, risque de gelures même à basse altitude."
     ],
-    "source": { "label": "France Diplomatie, Népal, Sécurité (mise à jour du 24 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nepal/" },
+    "source": {
+      "label": "France Diplomatie, Népal, Sécurité (mise à jour du 24 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nepal/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -87,16 +119,31 @@
       "slug": "katmandou",
       "name": "Katmandou et sa vallée",
       "nights": "3 nuits",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "summary": "Une vallée de temples, de stupas et de places royales, classée à l'Unesco.",
       "sleep": "À Thamel pour l'animation, ou à Patan, plus calme.",
       "see": [
-        { "name": "Le stupa de Boudhanath", "note": "L'un des plus grands du monde, au coucher du soleil." },
-        { "name": "Swayambhunath", "note": "Le « temple des singes » au-dessus de la ville." },
-        { "name": "Les places Durbar de Patan et Bhaktapur", "note": "Palais et temples newars." }
+        {
+          "name": "Le stupa de Boudhanath",
+          "note": "L'un des plus grands du monde, au coucher du soleil."
+        },
+        {
+          "name": "Swayambhunath",
+          "note": "Le « temple des singes » au-dessus de la ville."
+        },
+        {
+          "name": "Les places Durbar de Patan et Bhaktapur",
+          "note": "Palais et temples newars."
+        }
       ],
       "hidden": [
-        { "name": "Pashupatinath", "note": "Le grand temple hindou au bord de la Bagmati (crémations : discrétion)." }
+        {
+          "name": "Pashupatinath",
+          "note": "Le grand temple hindou au bord de la Bagmati (crémations : discrétion)."
+        }
       ],
       "eat": "Le dal bhat (riz, lentilles, légumes) et les momos (raviolis).",
       "getAround": "À pied et taxis (négocie avant).",
@@ -106,16 +153,31 @@
       "slug": "pokhara",
       "name": "Pokhara et les Annapurnas",
       "nights": "3 nuits + trek",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "Une ville au bord d'un lac face aux sommets, porte d'entrée des treks des Annapurnas.",
       "sleep": "Au bord du lac Phewa.",
       "see": [
-        { "name": "Sarangkot au lever du soleil", "note": "Les Annapurnas et le Machapuchare." },
-        { "name": "Le trek de Poon Hill", "note": "4 à 5 jours, accessible aux débutants." },
-        { "name": "Le camp de base des Annapurnas", "note": "7 à 10 jours de trek." }
+        {
+          "name": "Sarangkot au lever du soleil",
+          "note": "Les Annapurnas et le Machapuchare."
+        },
+        {
+          "name": "Le trek de Poon Hill",
+          "note": "4 à 5 jours, accessible aux débutants."
+        },
+        {
+          "name": "Le camp de base des Annapurnas",
+          "note": "7 à 10 jours de trek."
+        }
       ],
       "hidden": [
-        { "name": "Bandipur", "note": "Un village newar préservé entre Katmandou et Pokhara." }
+        {
+          "name": "Bandipur",
+          "note": "Un village newar préservé entre Katmandou et Pokhara."
+        }
       ],
       "eat": "Les cafés au bord du lac et le dal bhat des lodges.",
       "getAround": "Bus touristique ou vol depuis Katmandou.",
@@ -125,13 +187,25 @@
       "slug": "chitwan",
       "name": "Le parc national de Chitwan",
       "nights": "2 nuits",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "summary": "La jungle du Teraï : rhinocéros unicornes, crocodiles et, avec de la chance, des tigres.",
       "sleep": "À Sauraha, en lodge.",
       "see": [
-        { "name": "Le safari en jeep", "note": "Rhinocéros, cerfs et oiseaux." },
-        { "name": "La pirogue sur la rivière Rapti", "note": "Crocodiles au bord de l'eau." },
-        { "name": "La marche en jungle avec guide", "note": "Avec un guide agréé uniquement." }
+        {
+          "name": "Le safari en jeep",
+          "note": "Rhinocéros, cerfs et oiseaux."
+        },
+        {
+          "name": "La pirogue sur la rivière Rapti",
+          "note": "Crocodiles au bord de l'eau."
+        },
+        {
+          "name": "La marche en jungle avec guide",
+          "note": "Avec un guide agréé uniquement."
+        }
       ],
       "hidden": [],
       "eat": "La cuisine tharu, peuple du Teraï.",
@@ -143,30 +217,77 @@
     {
       "days": 14,
       "title": "Vallée, trek et jungle",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Katmandou", "note": "Boudhanath, Patan, Bhaktapur." },
-        { "days": "Jours 4 et 5", "place": "Pokhara", "note": "Par Bandipur." },
-        { "days": "Jours 6 à 10", "place": "Trek de Poon Hill", "note": "Annapurnas." },
-        { "days": "Jours 11 à 13", "place": "Chitwan", "note": "Safari." },
-        { "days": "Jour 14", "place": "Retour", "note": "Katmandou." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Katmandou",
+          "note": "Boudhanath, Patan, Bhaktapur."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Pokhara",
+          "note": "Par Bandipur."
+        },
+        {
+          "days": "Jours 6 à 10",
+          "place": "Trek de Poon Hill",
+          "note": "Annapurnas."
+        },
+        {
+          "days": "Jours 11 à 13",
+          "place": "Chitwan",
+          "note": "Safari."
+        },
+        {
+          "days": "Jour 14",
+          "place": "Retour",
+          "note": "Katmandou."
+        }
       ]
     },
     {
       "days": 18,
       "title": "Le camp de base de l'Everest",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Katmandou", "note": "Arrivée et permis." },
-        { "days": "Jours 3 à 15", "place": "Région de l'Everest", "note": "Vol vers Lukla, acclimatation progressive." },
-        { "days": "Jours 16 à 18", "place": "Katmandou", "note": "Marge en cas de vols annulés." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Katmandou",
+          "note": "Arrivée et permis."
+        },
+        {
+          "days": "Jours 3 à 15",
+          "place": "Région de l'Everest",
+          "note": "Vol vers Lukla, acclimatation progressive."
+        },
+        {
+          "days": "Jours 16 à 18",
+          "place": "Katmandou",
+          "note": "Marge en cas de vols annulés."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les bus touristiques", "text": "Entre Katmandou, Pokhara et Chitwan : longs mais plus sûrs que les bus locaux." },
-    { "title": "Les vols intérieurs", "text": "Rapides mais souvent retardés ou annulés par la météo : garde des jours de marge." },
-    { "title": "À pied", "text": "En montagne, les sentiers sont les routes." }
+    {
+      "title": "Les bus touristiques",
+      "text": "Entre Katmandou, Pokhara et Chitwan : longs mais plus sûrs que les bus locaux."
+    },
+    {
+      "title": "Les vols intérieurs",
+      "text": "Rapides mais souvent retardés ou annulés par la météo : garde des jours de marge."
+    },
+    {
+      "title": "À pied",
+      "text": "En montagne, les sentiers sont les routes."
+    }
   ],
   "culture": [
     "Fais le tour des stupas dans le sens des aiguilles d'une montre.",
@@ -175,9 +296,21 @@
     "« Namasté », mains jointes, est le salut universel."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "नमस्ते", "say": "namasté" },
-    { "fr": "Merci", "local": "धन्यवाद", "say": "dhanyabad" },
-    { "fr": "Combien ?", "local": "कति हो?", "say": "kati ho" }
+    {
+      "fr": "Bonjour",
+      "local": "नमस्ते",
+      "say": "namasté"
+    },
+    {
+      "fr": "Merci",
+      "local": "धन्यवाद",
+      "say": "dhanyabad"
+    },
+    {
+      "fr": "Combien ?",
+      "local": "कति हो?",
+      "say": "kati ho"
+    }
   ],
   "checklist": [
     "Passeport valable au moins 6 mois",
@@ -188,9 +321,17 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour le Népal ?", "a": "Oui, disponible à l'arrivée à Katmandou ou à l'ambassade. Prévois le paiement en espèces, deux photos et un passeport valable au moins 6 mois." },
-    { "q": "Le Népal est-il sûr ?", "a": "Le pays est en vigilance renforcée. Les principaux risques sont liés à la montagne : prends une assurance qui couvre les recherches et l'évacuation." },
-    { "q": "Quand faire un trek au Népal ?", "a": "D'octobre à novembre et de mars à avril. La mousson (juin-septembre) rend les sentiers dangereux." },
-    { "q": "Quel budget pour deux semaines au Népal ?", "a": "Compte environ 5 500 à 18 500 Rs par jour seul et 4 100 à 13 000 Rs par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour le Népal ?",
+      "a": "Oui, disponible à l'arrivée à Katmandou ou à l'ambassade. Prévois le paiement en espèces, deux photos et un passeport valable au moins 6 mois."
+    },
+    {
+      "q": "Le Népal est-il sûr ?",
+      "a": "Le pays est en vigilance renforcée. Les principaux risques sont liés à la montagne : prends une assurance qui couvre les recherches et l'évacuation."
+    },
+    {
+      "q": "Quand faire un trek au Népal ?",
+      "a": "D'octobre à novembre et de mars à avril. La mousson (juin-septembre) rend les sentiers dangereux."
+    }
   ]
 }

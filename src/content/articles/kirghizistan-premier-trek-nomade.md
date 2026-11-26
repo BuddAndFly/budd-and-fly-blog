@@ -1,7 +1,7 @@
 ---
 title: "Kirghizistan : premier trek et nuits en yourte"
 seoTitle: "Kirghizistan : premier trek, yourtes et lacs d'altitude"
-description: "Préparer un premier trek au Kirghizistan : les lacs Song-Kul et Ala-Kul, les camps de yourtes, la saison, l'équipement, le budget et les formalités."
+description: "Préparer un premier trek au Kirghizistan : les lacs Song-Kul et Ala-Kul, les camps de yourtes, la saison, l'équipement et les formalités."
 category: "Idées de voyage"
 status: "brouillon"
 publishedAt: "2026-11-25"
@@ -43,10 +43,6 @@ Les Français entrent sans visa pour 30 jours ; après 30 jours sur place, il fa
 - **Monte progressivement** pour éviter le mal des montagnes.
 - **Les routes sont le principal danger** : choisis des chauffeurs prudents.
 - L'ambassade de France n'a pas de service consulaire : garde des copies de tes papiers.
-
-## Le budget
-
-Le pays est très abordable : les camps de yourtes incluent souvent les repas, et un chauffeur se partage. Notre guide détaille les montants seul et à deux.
 
 ## Combiner avec le Kazakhstan
 

@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Suisse : Alpes, lacs, trains, budget",
-    "description": "Préparer un voyage en Suisse : papiers, meilleure saison, budget, Lucerne, Interlaken, Zermatt, Genève, trains panoramiques. Guide PDF gratuit."
+    "title": "Guide Suisse : Alpes, lacs, trains",
+    "description": "Préparer un voyage en Suisse : papiers, meilleure saison, Lucerne, Interlaken, Zermatt, Genève, trains panoramiques. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/suisse/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Marchés de Noël et début du ski."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en francs suisses, par jour et par personne, hors trajet aller-retour. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou auberge)",
-        "solo": "120 à 220 CHF",
-        "duo": "80 à 140 CHF"
-      },
-      {
-        "label": "Repas",
-        "solo": "50 à 90 CHF",
-        "duo": "50 à 90 CHF"
-      },
-      {
-        "label": "Transports (train, remontées)",
-        "solo": "30 à 100 CHF",
-        "duo": "30 à 100 CHF"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "10 à 40 CHF",
-        "duo": "10 à 40 CHF"
-      }
-    ],
-    "totalSolo": "210 à 450 CHF",
-    "totalDuo": "170 à 370 CHF",
-    "note": "Les trains de montagne sont le gros poste du budget : un pass de transport national ou une carte demi-tarif peut vite être rentable. Les supermarchés sont la meilleure astuce pour les repas.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas dans l'Union européenne, mais dans l'espace Schengen : une carte d'identité ou un passeport valide ou périmé depuis moins de 5 ans suffit.",
     "points": [
@@ -393,10 +364,6 @@
     {
       "q": "Quand partir en Suisse ?",
       "a": "De juin à septembre pour la montagne et les lacs, de décembre à mars pour le ski."
-    },
-    {
-      "q": "Quel budget pour une semaine en Suisse ?",
-      "a": "Compte environ 210 à 450 CHF par jour seul et 170 à 370 CHF par personne à deux, hors trajet aller-retour. Ces montants sont des estimations à vérifier."
     }
   ]
 }

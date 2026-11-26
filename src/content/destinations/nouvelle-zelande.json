@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Nouvelle-Zélande : NZeTA, road trip, budget",
-    "description": "Préparer un voyage en Nouvelle-Zélande : NZeTA obligatoire, sécurité, meilleure saison, budget, Auckland, Rotorua, Queenstown, Milford Sound. PDF gratuit."
+    "title": "Guide Nouvelle-Zélande : NZeTA, road trip",
+    "description": "Préparer un voyage en Nouvelle-Zélande : NZeTA obligatoire, sécurité, meilleure saison, Auckland, Rotorua, Queenstown, Milford Sound. PDF gratuit."
   },
   "hero": null,
   "summary": "La Nouvelle-Zélande se visite de novembre à avril, pendant l'été austral ; l'hiver est réservé au ski. Pas de visa pour moins de 90 jours, mais l'autorisation électronique NZeTA, qui inclut une taxe touristique, est obligatoire. Le pays est sûr ; attention aux vols dans les vans. L'île du Nord volcanique et l'île du Sud alpine se découvrent en road trip.",
@@ -24,40 +24,66 @@
     "flight": "Environ 24 h depuis Paris pour Auckland, avec une ou deux escales"
   },
   "months": [
-    { "rating": 2, "note": "Plein été, haute saison." },
-    { "rating": 2, "note": "Le mois le plus chaud et sec." },
-    { "rating": 2, "note": "Fin d'été, moins de monde." },
-    { "rating": 2, "note": "Automne doré à Queenstown et Wanaka." },
-    { "rating": 1, "note": "Frais, certains sentiers ferment." },
-    { "rating": 1, "note": "Début de la saison de ski." },
-    { "rating": 1, "note": "Ski, fjords sous la neige." },
-    { "rating": 1, "note": "Ski." },
-    { "rating": 1, "note": "Printemps, agneaux dans les prés." },
-    { "rating": 2, "note": "Printemps, moins de monde." },
-    { "rating": 2, "note": "Les grandes randonnées ouvrent." },
-    { "rating": 2, "note": "Début de l'été." }
+    {
+      "rating": 2,
+      "note": "Plein été, haute saison."
+    },
+    {
+      "rating": 2,
+      "note": "Le mois le plus chaud et sec."
+    },
+    {
+      "rating": 2,
+      "note": "Fin d'été, moins de monde."
+    },
+    {
+      "rating": 2,
+      "note": "Automne doré à Queenstown et Wanaka."
+    },
+    {
+      "rating": 1,
+      "note": "Frais, certains sentiers ferment."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison de ski."
+    },
+    {
+      "rating": 1,
+      "note": "Ski, fjords sous la neige."
+    },
+    {
+      "rating": 1,
+      "note": "Ski."
+    },
+    {
+      "rating": 1,
+      "note": "Printemps, agneaux dans les prés."
+    },
+    {
+      "rating": 2,
+      "note": "Printemps, moins de monde."
+    },
+    {
+      "rating": 2,
+      "note": "Les grandes randonnées ouvrent."
+    },
+    {
+      "rating": 2,
+      "note": "Début de l'été."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en dollars néo-zélandais, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      { "label": "Hébergement (camping, auberge, motel)", "solo": "80 à 220 NZ$", "duo": "50 à 140 NZ$" },
-      { "label": "Repas", "solo": "40 à 90 NZ$", "duo": "40 à 90 NZ$" },
-      { "label": "Van ou voiture et essence", "solo": "70 à 160 NZ$", "duo": "35 à 80 NZ$" },
-      { "label": "Activités", "solo": "20 à 150 NZ$", "duo": "20 à 150 NZ$" }
-    ],
-    "totalSolo": "210 à 620 NZ$",
-    "totalDuo": "145 à 460 NZ$",
-    "note": "Le van aménagé (« campervan ») est la formule reine et se partage. Les activités (croisière à Milford Sound, sauts, glaciers) pèsent lourd.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour moins de 90 jours. Il faut un passeport valide, l'autorisation électronique NZeTA, un billet retour ou de continuation et des moyens suffisants pour le séjour.",
     "points": [
       "La NZeTA inclut une taxe touristique pour la préservation de la nature ; elle est valable 2 ans.",
       "Elle est aussi nécessaire pour un simple transit."
     ],
-    "source": { "label": "France Diplomatie, Nouvelle-Zélande, Entrée / séjour (mise à jour du 2 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nouvelle-zelande/" },
+    "source": {
+      "label": "France Diplomatie, Nouvelle-Zélande, Entrée / séjour (mise à jour du 2 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nouvelle-zelande/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -66,7 +92,10 @@
       "Protège-toi du soleil, très intense, et du froid en montagne.",
       "Assurance santé et rapatriement indispensable."
     ],
-    "source": { "label": "France Diplomatie, Nouvelle-Zélande, Santé (mise à jour du 2 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nouvelle-zelande/" },
+    "source": {
+      "label": "France Diplomatie, Nouvelle-Zélande, Santé (mise à jour du 2 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nouvelle-zelande/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -75,7 +104,10 @@
       "Des gangs sont présents à Wellington, Christchurch et surtout Auckland ; ils ne visent en général pas les étrangers. Évite les confrontations et signale tout comportement menaçant (111 ou 105).",
       "Vols fréquents dans les véhicules, notamment les vans : ne laisse rien de visible ni de valeur à l'intérieur."
     ],
-    "source": { "label": "France Diplomatie, Nouvelle-Zélande, Sécurité (mise à jour du 2 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nouvelle-zelande/" },
+    "source": {
+      "label": "France Diplomatie, Nouvelle-Zélande, Sécurité (mise à jour du 2 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nouvelle-zelande/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -83,16 +115,31 @@
       "slug": "auckland-northland",
       "name": "Auckland et le Northland",
       "nights": "3 nuits",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "summary": "La ville des voiles, ses volcans endormis, et au nord la baie des Îles et les kauris géants.",
       "sleep": "À Ponsonby ou dans le centre ; à Paihia dans la baie des Îles.",
       "see": [
-        { "name": "Le mont Eden", "note": "Un cratère avec vue sur la ville." },
-        { "name": "L'île de Waiheke", "note": "Vignobles et plages en ferry." },
-        { "name": "La baie des Îles", "note": "Dauphins et site historique de Waitangi." }
+        {
+          "name": "Le mont Eden",
+          "note": "Un cratère avec vue sur la ville."
+        },
+        {
+          "name": "L'île de Waiheke",
+          "note": "Vignobles et plages en ferry."
+        },
+        {
+          "name": "La baie des Îles",
+          "note": "Dauphins et site historique de Waitangi."
+        }
       ],
       "hidden": [
-        { "name": "La forêt de Waipoua", "note": "Tāne Mahuta, le plus grand kauri vivant." }
+        {
+          "name": "La forêt de Waipoua",
+          "note": "Tāne Mahuta, le plus grand kauri vivant."
+        }
       ],
       "eat": "Les fish and chips et le pavlova.",
       "getAround": "Bus et ferries ; voiture pour le Northland.",
@@ -102,16 +149,31 @@
       "slug": "rotorua-tongariro",
       "name": "Rotorua et Tongariro",
       "nights": "3 nuits",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "summary": "Geysers, boues bouillonnantes, culture maorie et la plus belle randonnée d'une journée du pays.",
       "sleep": "À Rotorua et National Park ou Taupō.",
       "see": [
-        { "name": "Wai-O-Tapu", "note": "Bassins colorés et geyser Lady Knox." },
-        { "name": "Une soirée culturelle maorie", "note": "Hangi (repas cuit sous terre) et haka." },
-        { "name": "La Tongariro Alpine Crossing", "note": "19 km entre volcans et lacs émeraude." }
+        {
+          "name": "Wai-O-Tapu",
+          "note": "Bassins colorés et geyser Lady Knox."
+        },
+        {
+          "name": "Une soirée culturelle maorie",
+          "note": "Hangi (repas cuit sous terre) et haka."
+        },
+        {
+          "name": "La Tongariro Alpine Crossing",
+          "note": "19 km entre volcans et lacs émeraude."
+        }
       ],
       "hidden": [
-        { "name": "Hobbiton", "note": "Le décor de film, sur réservation près de Matamata." }
+        {
+          "name": "Hobbiton",
+          "note": "Le décor de film, sur réservation près de Matamata."
+        }
       ],
       "eat": "Le hangi maori.",
       "getAround": "Voiture.",
@@ -121,16 +183,31 @@
       "slug": "queenstown-fiordland",
       "name": "Queenstown et le Fiordland",
       "nights": "4 nuits",
-      "for": ["energique", "explorateur"],
+      "for": [
+        "energique",
+        "explorateur"
+      ],
       "summary": "La capitale de l'aventure au bord d'un lac alpin, et les fjords spectaculaires de Milford Sound.",
       "sleep": "À Queenstown, Wanaka et Te Anau.",
       "see": [
-        { "name": "Milford Sound", "note": "En croisière, falaises et cascades." },
-        { "name": "Le Skyline de Queenstown", "note": "Télécabine et luge." },
-        { "name": "Wanaka", "note": "L'arbre dans le lac et le Roys Peak." }
+        {
+          "name": "Milford Sound",
+          "note": "En croisière, falaises et cascades."
+        },
+        {
+          "name": "Le Skyline de Queenstown",
+          "note": "Télécabine et luge."
+        },
+        {
+          "name": "Wanaka",
+          "note": "L'arbre dans le lac et le Roys Peak."
+        }
       ],
       "hidden": [
-        { "name": "Doubtful Sound", "note": "Un fjord plus sauvage et plus calme." }
+        {
+          "name": "Doubtful Sound",
+          "note": "Un fjord plus sauvage et plus calme."
+        }
       ],
       "eat": "Le burger de Fergburger et le pinot noir de Central Otago.",
       "getAround": "Voiture ; route de Milford longue (environ 4 h depuis Queenstown).",
@@ -140,16 +217,31 @@
       "slug": "cote-ouest-mont-cook",
       "name": "La côte ouest et Aoraki / Mont Cook",
       "nights": "3 nuits",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "Des glaciers qui descendent vers la forêt tropicale, et le plus haut sommet du pays au-dessus de lacs turquoise.",
       "sleep": "À Franz Josef et au village du Mont Cook.",
       "see": [
-        { "name": "Le Hooker Valley Track", "note": "Une randonnée facile face au mont Cook." },
-        { "name": "Le lac Tekapo", "note": "Eau turquoise et ciel étoilé protégé." },
-        { "name": "Les glaciers Fox et Franz Josef", "note": "En héliportage ou depuis les belvédères." }
+        {
+          "name": "Le Hooker Valley Track",
+          "note": "Une randonnée facile face au mont Cook."
+        },
+        {
+          "name": "Le lac Tekapo",
+          "note": "Eau turquoise et ciel étoilé protégé."
+        },
+        {
+          "name": "Les glaciers Fox et Franz Josef",
+          "note": "En héliportage ou depuis les belvédères."
+        }
       ],
       "hidden": [
-        { "name": "Les Pancake Rocks", "note": "Des rochers feuilletés à Punakaiki." }
+        {
+          "name": "Les Pancake Rocks",
+          "note": "Des rochers feuilletés à Punakaiki."
+        }
       ],
       "eat": "Le saumon du lac Tekapo.",
       "getAround": "Voiture.",
@@ -160,32 +252,87 @@
     {
       "days": 21,
       "title": "Les deux îles en van",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Auckland", "note": "Arrivée." },
-        { "days": "Jours 4 à 7", "place": "Rotorua et Tongariro", "note": "Volcans." },
-        { "days": "Jours 8 et 9", "place": "Wellington", "note": "Ferry vers l'île du Sud." },
-        { "days": "Jours 10 à 13", "place": "Côte ouest", "note": "Glaciers." },
-        { "days": "Jours 14 à 18", "place": "Queenstown et Fiordland", "note": "Milford Sound." },
-        { "days": "Jours 19 à 21", "place": "Mont Cook et Tekapo", "note": "Retour depuis Christchurch." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Auckland",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 4 à 7",
+          "place": "Rotorua et Tongariro",
+          "note": "Volcans."
+        },
+        {
+          "days": "Jours 8 et 9",
+          "place": "Wellington",
+          "note": "Ferry vers l'île du Sud."
+        },
+        {
+          "days": "Jours 10 à 13",
+          "place": "Côte ouest",
+          "note": "Glaciers."
+        },
+        {
+          "days": "Jours 14 à 18",
+          "place": "Queenstown et Fiordland",
+          "note": "Milford Sound."
+        },
+        {
+          "days": "Jours 19 à 21",
+          "place": "Mont Cook et Tekapo",
+          "note": "Retour depuis Christchurch."
+        }
       ]
     },
     {
       "days": 12,
       "title": "L'île du Sud",
-      "for": ["energique", "lent"],
+      "for": [
+        "energique",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Christchurch", "note": "Arrivée." },
-        { "days": "Jours 3 et 4", "place": "Tekapo et Mont Cook", "note": "Lacs et sommets." },
-        { "days": "Jours 5 à 9", "place": "Queenstown et Fiordland", "note": "Fjords." },
-        { "days": "Jours 10 à 12", "place": "Wanaka", "note": "Retour depuis Queenstown." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Christchurch",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Tekapo et Mont Cook",
+          "note": "Lacs et sommets."
+        },
+        {
+          "days": "Jours 5 à 9",
+          "place": "Queenstown et Fiordland",
+          "note": "Fjords."
+        },
+        {
+          "days": "Jours 10 à 12",
+          "place": "Wanaka",
+          "note": "Retour depuis Queenstown."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "En van ou voiture", "text": "Conduite à gauche, routes sinueuses : les temps de trajet sont plus longs qu'annoncé." },
-    { "title": "Le ferry Interislander", "text": "Entre Wellington et Picton, à réserver en été." },
-    { "title": "Les vols intérieurs", "text": "Pour gagner du temps entre les deux îles." }
+    {
+      "title": "En van ou voiture",
+      "text": "Conduite à gauche, routes sinueuses : les temps de trajet sont plus longs qu'annoncé."
+    },
+    {
+      "title": "Le ferry Interislander",
+      "text": "Entre Wellington et Picton, à réserver en été."
+    },
+    {
+      "title": "Les vols intérieurs",
+      "text": "Pour gagner du temps entre les deux îles."
+    }
   ],
   "culture": [
     "Le respect de la nature est une règle : camping libre uniquement aux endroits autorisés, avec un van « self-contained ».",
@@ -193,9 +340,21 @@
     "Les contrôles de biosécurité à l'arrivée sont stricts (nourriture, chaussures de randonnée sales)."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Kia ora", "say": "kia ora" },
-    { "fr": "Merci", "local": "Cheers", "say": "tchiers" },
-    { "fr": "Super", "local": "Sweet as", "say": "souït az" }
+    {
+      "fr": "Bonjour",
+      "local": "Kia ora",
+      "say": "kia ora"
+    },
+    {
+      "fr": "Merci",
+      "local": "Cheers",
+      "say": "tchiers"
+    },
+    {
+      "fr": "Super",
+      "local": "Sweet as",
+      "say": "souït az"
+    }
   ],
   "checklist": [
     "Passeport valide et NZeTA",
@@ -206,9 +365,17 @@
     "Chaussures de randonnée propres (biosécurité)"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour la Nouvelle-Zélande ?", "a": "Non pour moins de 90 jours, mais la NZeTA (autorisation électronique avec taxe touristique) est obligatoire, avec un billet retour." },
-    { "q": "La Nouvelle-Zélande est-elle sûre ?", "a": "Oui, la criminalité est faible. Le principal risque pour les voyageurs est le vol dans les vans et voitures." },
-    { "q": "Quand partir en Nouvelle-Zélande ?", "a": "De novembre à avril, pendant l'été austral ; de juin à septembre pour le ski." },
-    { "q": "Quel budget pour trois semaines en Nouvelle-Zélande ?", "a": "Compte environ 210 à 620 NZ$ par jour seul et 145 à 460 NZ$ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour la Nouvelle-Zélande ?",
+      "a": "Non pour moins de 90 jours, mais la NZeTA (autorisation électronique avec taxe touristique) est obligatoire, avec un billet retour."
+    },
+    {
+      "q": "La Nouvelle-Zélande est-elle sûre ?",
+      "a": "Oui, la criminalité est faible. Le principal risque pour les voyageurs est le vol dans les vans et voitures."
+    },
+    {
+      "q": "Quand partir en Nouvelle-Zélande ?",
+      "a": "De novembre à avril, pendant l'été austral ; de juin à septembre pour le ski."
+    }
   ]
 }

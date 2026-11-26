@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Kazakhstan : Almaty, canyons, lacs, visa",
-    "description": "Préparer un voyage au Kazakhstan : 30 jours sans visa, zones réglementées, meilleure saison, budget, Almaty, Charyn, Kolsai, Astana. Guide PDF gratuit."
+    "description": "Préparer un voyage au Kazakhstan : 30 jours sans visa, zones réglementées, meilleure saison, Almaty, Charyn, Kolsai, Astana. Guide PDF gratuit."
   },
   "hero": null,
   "summary": "Le Kazakhstan se visite de mai à septembre, pour les montagnes autour d'Almaty, les canyons et les lacs alpins. Pas de visa pour 30 jours à chaque visite ; l'hôtel déclare ton arrivée à la police de l'immigration. Le pays est en vigilance renforcée, avec des zones à accès restreint et l'ancien site d'essais nucléaires de Semipalatinsk, formellement déconseillé.",
@@ -24,40 +24,66 @@
     "flight": "Environ 7 h depuis Paris pour Almaty, souvent avec une escale"
   },
   "months": [
-    { "rating": 1, "note": "Grand froid ; ski à Shymbulak près d'Almaty." },
-    { "rating": 1, "note": "Comme en janvier." },
-    { "rating": 0, "note": "Fin de l'hiver ; Nauryz le 22 mars." },
-    { "rating": 1, "note": "Printemps, tulipes sauvages dans les steppes." },
-    { "rating": 2, "note": "Vert et fleuri." },
-    { "rating": 2, "note": "Idéal pour les lacs et la montagne." },
-    { "rating": 2, "note": "Chaud en plaine, parfait en altitude." },
-    { "rating": 2, "note": "Comme en juillet." },
-    { "rating": 2, "note": "Couleurs d'automne, pommes d'Almaty." },
-    { "rating": 1, "note": "Frais." },
-    { "rating": 0, "note": "Froid." },
-    { "rating": 1, "note": "Hiver, ski." }
+    {
+      "rating": 1,
+      "note": "Grand froid ; ski à Shymbulak près d'Almaty."
+    },
+    {
+      "rating": 1,
+      "note": "Comme en janvier."
+    },
+    {
+      "rating": 0,
+      "note": "Fin de l'hiver ; Nauryz le 22 mars."
+    },
+    {
+      "rating": 1,
+      "note": "Printemps, tulipes sauvages dans les steppes."
+    },
+    {
+      "rating": 2,
+      "note": "Vert et fleuri."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal pour les lacs et la montagne."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud en plaine, parfait en altitude."
+    },
+    {
+      "rating": 2,
+      "note": "Comme en juillet."
+    },
+    {
+      "rating": 2,
+      "note": "Couleurs d'automne, pommes d'Almaty."
+    },
+    {
+      "rating": 1,
+      "note": "Frais."
+    },
+    {
+      "rating": 0,
+      "note": "Froid."
+    },
+    {
+      "rating": 1,
+      "note": "Hiver, ski."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en tengués, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      { "label": "Hébergement (guesthouse ou hôtel simple)", "solo": "15 000 à 40 000 ₸", "duo": "9 000 à 25 000 ₸" },
-      { "label": "Repas", "solo": "8 000 à 18 000 ₸", "duo": "8 000 à 18 000 ₸" },
-      { "label": "Transports (VTC, chauffeur, train)", "solo": "3 000 à 25 000 ₸", "duo": "2 000 à 15 000 ₸" },
-      { "label": "Parcs et activités", "solo": "1 500 à 8 000 ₸", "duo": "1 500 à 8 000 ₸" }
-    ],
-    "totalSolo": "27 500 à 91 000 ₸",
-    "totalDuo": "20 500 à 66 000 ₸",
-    "note": "Almaty est abordable. Un chauffeur ou une excursion organisée est le moyen le plus simple d'atteindre Charyn et les lacs.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour de 30 jours maximum à chaque visite, le nombre de visites étant illimité (au total 90 jours maximum sur 180 jours).",
     "points": [
       "L'hôtel ou la personne qui t'accueille doit déclarer ton arrivée à la police de l'immigration sous 3 jours ouvrables, puis chaque changement d'adresse.",
       "Un visa pour un pays de la CEI ne permet pas de transiter par les autres : un document en règle est nécessaire pour chaque destination."
     ],
-    "source": { "label": "France Diplomatie, Kazakhstan, Entrée / séjour (mise à jour du 19 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kazakhstan/" },
+    "source": {
+      "label": "France Diplomatie, Kazakhstan, Entrée / séjour (mise à jour du 19 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kazakhstan/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -67,7 +93,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Assurance santé et rapatriement indispensable."
     ],
-    "source": { "label": "France Diplomatie, Kazakhstan, Santé (mise à jour du 19 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kazakhstan/" },
+    "source": {
+      "label": "France Diplomatie, Kazakhstan, Santé (mise à jour du 19 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kazakhstan/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -77,7 +106,10 @@
       "Circulation restreinte pour les étrangers dans plusieurs zones, dont Baïkonour, le sud-ouest de la province du Kazakhstan occidental, certaines rives du lac Balkhach et une portion de la province de Jambyl.",
       "Vérifie que ton itinéraire ne traverse pas une zone réglementée."
     ],
-    "source": { "label": "France Diplomatie, Kazakhstan, Sécurité (mise à jour du 19 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kazakhstan/" },
+    "source": {
+      "label": "France Diplomatie, Kazakhstan, Sécurité (mise à jour du 19 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kazakhstan/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -85,17 +117,35 @@
       "slug": "almaty",
       "name": "Almaty",
       "nights": "3 nuits",
-      "for": ["tous", "energique"],
+      "for": [
+        "tous",
+        "energique"
+      ],
       "summary": "L'ancienne capitale, verte et animée, au pied des sommets enneigés du Tian Shan.",
       "sleep": "Dans le centre, près de la rue Panfilov.",
       "see": [
-        { "name": "La cathédrale Zenkov", "note": "Une cathédrale en bois dans le parc Panfilov." },
-        { "name": "Le Kok Tobe", "note": "Téléphérique et vue sur la ville." },
-        { "name": "Le Grand lac d'Almaty", "note": "Un lac turquoise de montagne, à 1 h." }
+        {
+          "name": "La cathédrale Zenkov",
+          "note": "Une cathédrale en bois dans le parc Panfilov."
+        },
+        {
+          "name": "Le Kok Tobe",
+          "note": "Téléphérique et vue sur la ville."
+        },
+        {
+          "name": "Le Grand lac d'Almaty",
+          "note": "Un lac turquoise de montagne, à 1 h."
+        }
       ],
       "hidden": [
-        { "name": "Le bazar vert", "note": "Fruits secs, viandes et épices." },
-        { "name": "Medeu et Shymbulak", "note": "La patinoire d'altitude et la station de montagne." }
+        {
+          "name": "Le bazar vert",
+          "note": "Fruits secs, viandes et épices."
+        },
+        {
+          "name": "Medeu et Shymbulak",
+          "note": "La patinoire d'altitude et la station de montagne."
+        }
       ],
       "eat": "Le beshbarmak, le plov et les pommes, symbole de la ville.",
       "getAround": "Métro, bus et VTC.",
@@ -105,16 +155,31 @@
       "slug": "charyn-kolsai",
       "name": "Le canyon de Charyn et les lacs de Kolsai",
       "nights": "2 à 3 nuits",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "Un canyon rouge comparé au Grand Canyon, puis des lacs alpins et un lac aux troncs immergés.",
       "sleep": "En guesthouse à Saty.",
       "see": [
-        { "name": "La vallée des Châteaux de Charyn", "note": "Une marche au fond du canyon." },
-        { "name": "Les lacs de Kolsai", "note": "Randonnée entre trois lacs étagés." },
-        { "name": "Le lac Kaindy", "note": "Des troncs d'épicéas qui sortent de l'eau." }
+        {
+          "name": "La vallée des Châteaux de Charyn",
+          "note": "Une marche au fond du canyon."
+        },
+        {
+          "name": "Les lacs de Kolsai",
+          "note": "Randonnée entre trois lacs étagés."
+        },
+        {
+          "name": "Le lac Kaindy",
+          "note": "Des troncs d'épicéas qui sortent de l'eau."
+        }
       ],
       "hidden": [
-        { "name": "Le parc d'Altyn-Emel", "note": "Une dune chantante et des montagnes colorées." }
+        {
+          "name": "Le parc d'Altyn-Emel",
+          "note": "Une dune chantante et des montagnes colorées."
+        }
       ],
       "eat": "Les repas des familles d'accueil à Saty.",
       "getAround": "Chauffeur ou excursion de 2 jours depuis Almaty.",
@@ -124,13 +189,25 @@
       "slug": "astana",
       "name": "Astana",
       "nights": "2 nuits",
-      "for": ["stratege", "energique"],
+      "for": [
+        "stratege",
+        "energique"
+      ],
       "summary": "La capitale futuriste sortie de la steppe, avec ses architectures audacieuses.",
       "sleep": "Sur la rive gauche, près des monuments.",
       "see": [
-        { "name": "La tour Baïterek", "note": "Le symbole de la ville, avec vue panoramique." },
-        { "name": "Le Khan Shatyr", "note": "Une tente géante de Norman Foster." },
-        { "name": "La mosquée Hazret Sultan", "note": "L'une des plus grandes d'Asie centrale." }
+        {
+          "name": "La tour Baïterek",
+          "note": "Le symbole de la ville, avec vue panoramique."
+        },
+        {
+          "name": "Le Khan Shatyr",
+          "note": "Une tente géante de Norman Foster."
+        },
+        {
+          "name": "La mosquée Hazret Sultan",
+          "note": "L'une des plus grandes d'Asie centrale."
+        }
       ],
       "hidden": [],
       "eat": "Le kazy (saucisse de cheval).",
@@ -142,28 +219,67 @@
     {
       "days": 8,
       "title": "Almaty et ses montagnes",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Almaty", "note": "Ville et Kok Tobe." },
-        { "days": "Jours 4 à 6", "place": "Charyn et Kolsai", "note": "Canyon et lacs." },
-        { "days": "Jours 7 et 8", "place": "Shymbulak et Medeu", "note": "Retour à Almaty." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Almaty",
+          "note": "Ville et Kok Tobe."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Charyn et Kolsai",
+          "note": "Canyon et lacs."
+        },
+        {
+          "days": "Jours 7 et 8",
+          "place": "Shymbulak et Medeu",
+          "note": "Retour à Almaty."
+        }
       ]
     },
     {
       "days": 14,
       "title": "Kazakhstan et Kirghizistan",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Almaty", "note": "Arrivée." },
-        { "days": "Jours 4 à 6", "place": "Charyn et Kolsai", "note": "Nature." },
-        { "days": "Jours 7 à 14", "place": "Kirghizistan", "note": "Karakol puis Bichkek." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Almaty",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Charyn et Kolsai",
+          "note": "Nature."
+        },
+        {
+          "days": "Jours 7 à 14",
+          "place": "Kirghizistan",
+          "note": "Karakol puis Bichkek."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les trains", "text": "Lents mais confortables, y compris de nuit." },
-    { "title": "Les vols intérieurs", "text": "Pour les très longues distances." },
-    { "title": "Chauffeur et VTC", "text": "Pratiques pour les excursions depuis Almaty." }
+    {
+      "title": "Les trains",
+      "text": "Lents mais confortables, y compris de nuit."
+    },
+    {
+      "title": "Les vols intérieurs",
+      "text": "Pour les très longues distances."
+    },
+    {
+      "title": "Chauffeur et VTC",
+      "text": "Pratiques pour les excursions depuis Almaty."
+    }
   ],
   "culture": [
     "L'hospitalité est très forte : le thé est servi à volonté.",
@@ -171,9 +287,21 @@
     "Garde avec toi les preuves d'enregistrement remises par les hôtels."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Сәлеметсіз бе", "say": "salémetsiz bé" },
-    { "fr": "Merci", "local": "Рақмет", "say": "rakhmet" },
-    { "fr": "Bonjour (russe)", "local": "Здравствуйте", "say": "zdrastvouïtié" }
+    {
+      "fr": "Bonjour",
+      "local": "Сәлеметсіз бе",
+      "say": "salémetsiz bé"
+    },
+    {
+      "fr": "Merci",
+      "local": "Рақмет",
+      "say": "rakhmet"
+    },
+    {
+      "fr": "Bonjour (russe)",
+      "local": "Здравствуйте",
+      "say": "zdrastvouïtié"
+    }
   ],
   "checklist": [
     "Passeport valide (30 jours sans visa par visite)",
@@ -183,9 +311,17 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour le Kazakhstan ?", "a": "Non pour 30 jours à chaque visite. L'hôtel doit déclarer ton arrivée à la police de l'immigration." },
-    { "q": "Le Kazakhstan est-il sûr ?", "a": "Le pays est en vigilance renforcée. L'ancien site nucléaire de Semipalatinsk est formellement déconseillé et plusieurs zones sont interdites aux étrangers." },
-    { "q": "Quand partir au Kazakhstan ?", "a": "De mai à septembre pour la montagne et les lacs ; l'hiver pour le ski près d'Almaty." },
-    { "q": "Quel budget pour une semaine au Kazakhstan ?", "a": "Compte environ 27 500 à 91 000 ₸ par jour seul et 20 500 à 66 000 ₸ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour le Kazakhstan ?",
+      "a": "Non pour 30 jours à chaque visite. L'hôtel doit déclarer ton arrivée à la police de l'immigration."
+    },
+    {
+      "q": "Le Kazakhstan est-il sûr ?",
+      "a": "Le pays est en vigilance renforcée. L'ancien site nucléaire de Semipalatinsk est formellement déconseillé et plusieurs zones sont interdites aux étrangers."
+    },
+    {
+      "q": "Quand partir au Kazakhstan ?",
+      "a": "De mai à septembre pour la montagne et les lacs ; l'hiver pour le ski près d'Almaty."
+    }
   ]
 }

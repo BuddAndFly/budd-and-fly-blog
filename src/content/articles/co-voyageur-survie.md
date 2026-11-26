@@ -27,8 +27,6 @@ Fixez un budget quotidien hors vols et un plafond pour les « folies ». Choisis
 - **une application de partage des dépenses**, où chacun note ce qu'il avance ;
 - **chacun paie sa part** au fur et à mesure, plus simple mais plus fastidieux.
 
-Nos guides donnent un budget « seul » et « à deux » pour chaque pays : un bon point de départ pour discuter.
-
 ## 2. Le rythme
 
 Trois visites par jour ou une visite et une sieste ? Lever pour le soleil ou grasse matinée ? Mettez-vous d'accord sur une journée type, et prévoyez des journées « off ».

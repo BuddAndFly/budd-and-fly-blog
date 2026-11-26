@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Bosnie-Herzégovine : Sarajevo, Mostar, mines",
-    "description": "Préparer un voyage en Bosnie-Herzégovine : papiers, mines, meilleure saison, budget, Sarajevo, Mostar, les cascades de Kravica. Guide PDF gratuit."
+    "description": "Préparer un voyage en Bosnie-Herzégovine : papiers, mines, meilleure saison, Sarajevo, Mostar, les cascades de Kravica. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/bosnie-herzegovine/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Froid."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en marks convertibles (KM), par jour et par personne, hors vols. Convertis au taux du jour (1 € ≈ 1,96 KM, parité fixe).",
-    "rows": [
-      {
-        "label": "Hébergement (guesthouse ou petit hôtel)",
-        "solo": "60 à 130 KM",
-        "duo": "40 à 80 KM"
-      },
-      {
-        "label": "Repas",
-        "solo": "30 à 60 KM",
-        "duo": "30 à 60 KM"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "5 à 25 KM",
-        "duo": "5 à 20 KM"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "5 à 25 KM",
-        "duo": "5 à 25 KM"
-      }
-    ],
-    "totalSolo": "100 à 240 KM",
-    "totalDuo": "80 à 185 KM",
-    "note": "Très abordable. Mostar est plus chère en été, quand les excursions depuis la côte croate affluent.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour 90 jours. Passeport valable 3 mois après le retour, ou carte d'identité valable pendant tout le séjour.",
     "points": [
@@ -354,10 +325,6 @@
     {
       "q": "Quand partir en Bosnie-Herzégovine ?",
       "a": "De mai à octobre ; mai-juin et septembre évitent la chaleur de l'Herzégovine."
-    },
-    {
-      "q": "Quel budget pour une semaine en Bosnie-Herzégovine ?",
-      "a": "Compte environ 100 à 240 KM par jour seul et 80 à 185 KM par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

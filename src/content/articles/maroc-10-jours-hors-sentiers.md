@@ -1,7 +1,7 @@
 ---
 title: "Maroc en 10 jours : médinas, Haut Atlas et désert"
 seoTitle: "Maroc en 10 jours : itinéraire médinas, Atlas et désert"
-description: "Un itinéraire de 10 jours au Maroc, de Marrakech au désert par le Haut Atlas et les vallées, avec la meilleure saison, le budget et les formalités."
+description: "Un itinéraire de 10 jours au Maroc, de Marrakech au désert par le Haut Atlas et les vallées, avec la meilleure saison et les formalités."
 category: "Idées de voyage"
 status: "brouillon"
 publishedAt: "2026-11-25"
@@ -51,9 +51,5 @@ Si tu préfères un rythme lent, supprime le désert et ajoute **Essaouira** : u
 - **Voiture avec chauffeur** : la solution la plus confortable pour le sud.
 - **Location de voiture** : possible, routes de montagne sinueuses.
 - **Bus et trains** entre les grandes villes.
-
-## Le budget
-
-Notre guide détaille un budget quotidien seul et à deux. Le chauffeur et l'excursion dans le désert sont les gros postes : à deux ou plus, ils se partagent.
 
 Télécharge le [guide PDF du Maroc](/destinations/maroc/) pour avoir l'itinéraire, la carte des saisons et les contacts utiles sous la main.

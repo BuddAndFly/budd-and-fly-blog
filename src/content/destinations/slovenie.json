@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Slovénie : quand partir, budget, Ljubljana, Bled",
-    "description": "Préparer un voyage en Slovénie : meilleure saison, budget seul ou à deux, Ljubljana, le lac de Bled, Bohinj, la vallée de la Soča, Piran. Guide PDF gratuit."
+    "title": "Guide Slovénie : quand partir, Ljubljana, Bled",
+    "description": "Préparer un voyage en Slovénie : meilleure saison, Ljubljana, le lac de Bled, Bohinj, la vallée de la Soča, Piran. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/slovenie/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Ljubljana illuminée et marchés de Noël."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou guesthouse)",
-        "solo": "60 à 120 €",
-        "duo": "40 à 75 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "25 à 40 €",
-        "duo": "25 à 40 €"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "5 à 15 €",
-        "duo": "5 à 15 €"
-      },
-      {
-        "label": "Visites et activités",
-        "solo": "10 à 35 €",
-        "duo": "10 à 35 €"
-      }
-    ],
-    "totalSolo": "100 à 210 €",
-    "totalDuo": "80 à 165 €",
-    "note": "Bled en été est la zone la plus chère. Les grottes (Postojna, Škocjan) et les activités (rafting, canyoning) pèsent sur le budget. Vignette d'autoroute obligatoire si tu conduis.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa, quelle que soit la durée du séjour. Une carte d'identité ou un passeport en cours de validité est obligatoire, y compris pour les enfants.",
     "points": [
@@ -452,10 +423,6 @@
     {
       "q": "Bled ou Bohinj ?",
       "a": "Bled pour l'image de carte postale avec son île et son château, Bohinj pour un lac plus grand, plus sauvage et plus calme. Ils sont à 30 minutes l'un de l'autre : fais les deux."
-    },
-    {
-      "q": "Quel budget pour une semaine en Slovénie ?",
-      "a": "Compte environ 100 à 210 € par jour seul et 80 à 165 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

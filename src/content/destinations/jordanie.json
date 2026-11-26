@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Jordanie : sécurité, visa, Petra, quand partir",
-    "description": "Préparer un voyage en Jordanie : situation sécuritaire, visa et Jordan Pass, meilleure saison, budget, Amman, Petra, Wadi Rum, la mer Morte. PDF gratuit."
+    "description": "Préparer un voyage en Jordanie : situation sécuritaire, visa et Jordan Pass, meilleure saison, Amman, Petra, Wadi Rum, la mer Morte. PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/jordanie/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Frais, pluies possibles."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en dinars jordaniens, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou camp)",
-        "solo": "40 à 80 JD",
-        "duo": "25 à 50 JD"
-      },
-      {
-        "label": "Repas",
-        "solo": "15 à 30 JD",
-        "duo": "15 à 30 JD"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "5 à 20 JD",
-        "duo": "5 à 15 JD"
-      },
-      {
-        "label": "Visites (avec le Jordan Pass)",
-        "solo": "5 à 15 JD",
-        "duo": "5 à 15 JD"
-      }
-    ],
-    "totalSolo": "65 à 145 JD",
-    "totalDuo": "50 à 110 JD",
-    "note": "Le Jordan Pass, acheté en ligne avant de partir, inclut le visa et l'entrée de Petra et d'une quarantaine de sites : il est presque toujours rentable si tu restes au moins 3 nuits. Une voiture ou un chauffeur se partagent : à deux, la différence est nette.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Visa obligatoire, en ligne ou à l'arrivée. Le passeport doit être valable au moins 6 mois à la date d'arrivée.",
     "points": [
@@ -425,10 +396,6 @@
     {
       "q": "Le Jordan Pass est-il rentable ?",
       "a": "Presque toujours : il inclut le visa (si tu restes au moins 3 nuits) et l'entrée de Petra, qui coûte à elle seule une bonne partie du prix du pass."
-    },
-    {
-      "q": "Quel budget pour une semaine en Jordanie ?",
-      "a": "Compte environ 65 à 145 JD par jour seul et 50 à 110 JD par personne à deux, hors vols et Jordan Pass. Ces montants sont des estimations à vérifier."
     }
   ]
 }

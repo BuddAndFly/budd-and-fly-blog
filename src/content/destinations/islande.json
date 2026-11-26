@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Islande : quand partir, budget, road trip, aurores",
-    "description": "Préparer un voyage en Islande : été ou hiver, aurores boréales, budget seul ou à deux, Reykjavik, côte sud, glaciers, Mývatn. Guide PDF gratuit."
+    "title": "Guide Islande : quand partir, road trip, aurores",
+    "description": "Préparer un voyage en Islande : été ou hiver, aurores boréales, Reykjavik, côte sud, glaciers, Mývatn. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/islande/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Journées très courtes, ambiance de Noël à Reykjavik. Conduite hivernale exigeante."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en couronnes islandaises, par jour et par personne, hors vols et location de voiture. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (guesthouse ou hôtel simple)",
-        "solo": "25 000 à 45 000 kr",
-        "duo": "16 000 à 28 000 kr"
-      },
-      {
-        "label": "Repas",
-        "solo": "7 000 à 12 000 kr",
-        "duo": "7 000 à 12 000 kr"
-      },
-      {
-        "label": "Carburant et transports",
-        "solo": "2 000 à 5 000 kr",
-        "duo": "1 000 à 3 000 kr"
-      },
-      {
-        "label": "Visites et bains chauds",
-        "solo": "2 000 à 8 000 kr",
-        "duo": "2 000 à 8 000 kr"
-      }
-    ],
-    "totalSolo": "36 000 à 70 000 kr",
-    "totalDuo": "26 000 à 51 000 kr",
-    "note": "L'Islande est très chère : courses au supermarché et pique-niques font baisser la note. La location de voiture (souvent indispensable) s'ajoute et se partage. Les grands lagons géothermiques coûtent cher ; les piscines municipales, elles, sont bon marché.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "L'Islande fait partie de l'espace Schengen : une carte d'identité ou un passeport valable pendant tout le séjour suffit pour moins de trois mois.",
     "points": [
@@ -483,10 +454,6 @@
     {
       "q": "Quand voir des aurores boréales en Islande ?",
       "a": "De septembre à mars, par nuit noire et ciel dégagé, loin des lumières des villes. Il faut de la patience : elles ne sont jamais garanties."
-    },
-    {
-      "q": "Quel budget pour une semaine en Islande ?",
-      "a": "Compte environ 36 000 à 70 000 kr par jour seul et 26 000 à 51 000 kr par personne à deux, hors vols et voiture. C'est l'une des destinations les plus chères d'Europe. Ces montants sont des estimations à vérifier."
     },
     {
       "q": "Faut-il un 4x4 en Islande ?",

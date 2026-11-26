@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Bulgarie : Sofia, Rila, mer Noire, budget",
-    "description": "Préparer un voyage en Bulgarie : formalités, meilleure saison, budget seul ou à deux, Sofia, monastère de Rila, Plovdiv, Veliko Tarnovo, mer Noire. PDF gratuit."
+    "title": "Guide Bulgarie : Sofia, Rila, mer Noire",
+    "description": "Préparer un voyage en Bulgarie : formalités, meilleure saison, Sofia, monastère de Rila, Plovdiv, Veliko Tarnovo, mer Noire. PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/bulgarie/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Froid, début de la saison de ski."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
-    "rows": [
-      {
-        "label": "Hébergement (guesthouse ou petit hôtel)",
-        "solo": "35 à 70 €",
-        "duo": "22 à 45 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "18 à 35 €",
-        "duo": "18 à 35 €"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "5 à 15 €",
-        "duo": "4 à 12 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "5 à 15 €",
-        "duo": "5 à 15 €"
-      }
-    ],
-    "totalSolo": "63 à 135 €",
-    "totalDuo": "49 à 107 €",
-    "note": "L'un des pays les moins chers de l'Union européenne. Sur la mer Noire, les prix montent en juillet-août.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pays de l'Union européenne : passeport ou carte d'identité en cours de validité, sans formalité pour moins de 3 mois.",
     "points": [
@@ -425,10 +396,6 @@
     {
       "q": "Quand partir en Bulgarie ?",
       "a": "De mai à octobre. Juillet-août pour la mer Noire, mai-juin et septembre pour les villes, les monastères et la randonnée."
-    },
-    {
-      "q": "Quel budget pour une semaine en Bulgarie ?",
-      "a": "Compte environ 63 à 135 € par jour seul et 49 à 107 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

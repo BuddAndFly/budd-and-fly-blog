@@ -1,7 +1,7 @@
 ---
 title: "Bali ou Thaïlande ? 10 duels de destinations pour choisir"
 seoTitle: "Bali ou Thaïlande, Pérou ou Mexique : 10 duels pour choisir"
-description: "Bali ou Thaïlande, Pérou ou Mexique, Islande ou Norvège : dix duels de destinations pour choisir selon ton style de voyage, la saison et le budget."
+description: "Bali ou Thaïlande, Pérou ou Mexique, Islande ou Norvège : dix duels de destinations pour choisir selon ton style de voyage et la saison."
 category: "Idées de voyage"
 status: "brouillon"
 publishedAt: "2026-11-25"
@@ -17,7 +17,7 @@ hero:
 destinations: ["indonesie", "thailande", "perou", "mexique", "islande", "norvege", "vietnam", "cambodge", "portugal", "espagne", "kenya", "tanzanie", "japon", "coree-du-sud", "croatie", "grece", "costa-rica", "panama", "maldives", "seychelles"]
 ---
 
-**Deux destinations te font envie et tu n'arrives pas à trancher ?** Voici dix duels classiques, avec ce qui fait la différence. Pour les formalités, la sécurité et le budget détaillé, chaque destination a son guide.
+**Deux destinations te font envie et tu n'arrives pas à trancher ?** Voici dix duels classiques, avec ce qui fait la différence. Pour les formalités et la sécurité, chaque destination a son guide.
 
 ## 1. Bali ou la Thaïlande ?
 - **[Bali (Indonésie)](/destinations/indonesie/)** : rizières, temples hindous, yoga et surf sur une seule île. Visa à l'arrivée payant.

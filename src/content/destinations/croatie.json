@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Croatie : quand partir, budget, villes et îles",
-    "description": "Préparer un voyage en Croatie : meilleure saison, budget seul ou à deux, Dubrovnik, Split, Plitvice, l'Istrie, Zagreb et itinéraires. Guide PDF gratuit."
+    "title": "Guide Croatie : quand partir, villes et îles",
+    "description": "Préparer un voyage en Croatie : meilleure saison, Dubrovnik, Split, Plitvice, l'Istrie, Zagreb et itinéraires. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/croatie/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Le marché de l'Avent de Zagreb, l'un des plus réputés d'Europe. La côte reste calme."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors trajet depuis la France.",
-    "rows": [
-      {
-        "label": "Hébergement (chambre ou appartement simple)",
-        "solo": "60 à 120 €",
-        "duo": "40 à 75 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "25 à 45 €",
-        "duo": "25 à 45 €"
-      },
-      {
-        "label": "Transports locaux et ferries",
-        "solo": "5 à 20 €",
-        "duo": "5 à 20 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "10 à 35 €",
-        "duo": "10 à 35 €"
-      }
-    ],
-    "totalSolo": "100 à 220 €",
-    "totalDuo": "80 à 175 €",
-    "note": "Dubrovnik et Hvar en été sont parmi les destinations les plus chères de la Méditerranée. Les entrées de Plitvice et des remparts de Dubrovnik sont plus chères en haute saison. La location d'appartements (« sobe ») reste avantageuse à deux.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "La Croatie est dans l'Union européenne et l'espace Schengen : une carte d'identité ou un passeport en cours de validité suffit. Les contrôles aux frontières restent systématiques, y compris pour les Européens.",
     "points": [
@@ -495,10 +466,6 @@
     {
       "q": "Quand partir en Croatie ?",
       "a": "En mai-juin et en septembre : mer agréable, météo stable, et beaucoup moins de monde et de prix élevés qu'en juillet-août."
-    },
-    {
-      "q": "Quel budget pour une semaine en Croatie ?",
-      "a": "Compte environ 100 à 220 € par jour seul et 80 à 175 € par personne à deux, hors trajet. Dubrovnik et Hvar sont les plus chères en été. Ces montants sont des estimations à vérifier."
     }
   ]
 }

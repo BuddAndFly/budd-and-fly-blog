@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Afrique du Sud : Le Cap, Kruger, sécurité",
-    "description": "Préparer un voyage en Afrique du Sud : formalités, déclaration en ligne, sécurité, meilleure saison, budget, Le Cap, la Route des jardins, Kruger. PDF gratuit."
+    "description": "Préparer un voyage en Afrique du Sud : formalités, déclaration en ligne, sécurité, meilleure saison, Le Cap, la Route des jardins, Kruger. PDF gratuit."
   },
   "hero": null,
   "summary": "L'Afrique du Sud se visite toute l'année : mai à septembre (hiver austral) pour les safaris, novembre à mars pour Le Cap et la côte. Pas de visa pour 90 jours ; depuis juillet 2026, une déclaration en ligne des biens et devises est obligatoire à l'entrée et à la sortie. Tout le pays est en vigilance renforcée, avec une criminalité élevée dans certaines villes.",
@@ -24,40 +24,66 @@
     "flight": "Environ 11 h 30 en vol direct depuis Paris pour Johannesburg"
   },
   "months": [
-    { "rating": 2, "note": "Été : idéal au Cap et sur la côte." },
-    { "rating": 2, "note": "Chaud et sec au Cap." },
-    { "rating": 2, "note": "Vendanges dans les Winelands." },
-    { "rating": 2, "note": "Automne doux, bon partout." },
-    { "rating": 2, "note": "Début de la saison sèche pour les safaris." },
-    { "rating": 1, "note": "Hiver : pluvieux au Cap, safaris idéaux." },
-    { "rating": 1, "note": "Comme en juin ; baleines à Hermanus." },
-    { "rating": 2, "note": "Fleurs du Namaqualand, baleines, safaris." },
-    { "rating": 2, "note": "Baleines, printemps, excellents safaris." },
-    { "rating": 2, "note": "Excellent partout." },
-    { "rating": 2, "note": "Début de l'été." },
-    { "rating": 2, "note": "Haute saison des fêtes au Cap." }
+    {
+      "rating": 2,
+      "note": "Été : idéal au Cap et sur la côte."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud et sec au Cap."
+    },
+    {
+      "rating": 2,
+      "note": "Vendanges dans les Winelands."
+    },
+    {
+      "rating": 2,
+      "note": "Automne doux, bon partout."
+    },
+    {
+      "rating": 2,
+      "note": "Début de la saison sèche pour les safaris."
+    },
+    {
+      "rating": 1,
+      "note": "Hiver : pluvieux au Cap, safaris idéaux."
+    },
+    {
+      "rating": 1,
+      "note": "Comme en juin ; baleines à Hermanus."
+    },
+    {
+      "rating": 2,
+      "note": "Fleurs du Namaqualand, baleines, safaris."
+    },
+    {
+      "rating": 2,
+      "note": "Baleines, printemps, excellents safaris."
+    },
+    {
+      "rating": 2,
+      "note": "Excellent partout."
+    },
+    {
+      "rating": 2,
+      "note": "Début de l'été."
+    },
+    {
+      "rating": 2,
+      "note": "Haute saison des fêtes au Cap."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en rands, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      { "label": "Hébergement (guesthouse ou lodge simple)", "solo": "900 à 2 200 R", "duo": "550 à 1 300 R" },
-      { "label": "Repas", "solo": "350 à 700 R", "duo": "350 à 700 R" },
-      { "label": "Voiture et essence", "solo": "400 à 900 R", "duo": "200 à 450 R" },
-      { "label": "Parcs, safaris et visites", "solo": "200 à 1 200 R", "duo": "200 à 1 200 R" }
-    ],
-    "totalSolo": "1 850 à 5 000 R",
-    "totalDuo": "1 300 à 3 650 R",
-    "note": "La voiture est indispensable et se partage. Les lodges privés de safari sont très chers ; les camps des parcs nationaux (SANParks) sont plus abordables.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour touristique de moins de 90 jours avec un passeport français.",
     "points": [
       "Depuis le 1er juillet 2026, tout voyageur entrant ou sortant doit déclarer en ligne les marchandises et devises en sa possession (les enfants aussi, via un parent).",
       "Pour toute question, renseigne-toi auprès de la section consulaire de l'ambassade d'Afrique du Sud à Paris."
     ],
-    "source": { "label": "France Diplomatie, Afrique du Sud, Entrée / séjour (mise à jour du 4 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/afrique-du-sud/" },
+    "source": {
+      "label": "France Diplomatie, Afrique du Sud, Entrée / séjour (mise à jour du 4 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/afrique-du-sud/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -67,7 +93,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Assurance santé et rapatriement indispensable : les cliniques privées sont chères."
     ],
-    "source": { "label": "France Diplomatie, Afrique du Sud, Santé (mise à jour du 4 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/afrique-du-sud/" },
+    "source": {
+      "label": "France Diplomatie, Afrique du Sud, Santé (mise à jour du 4 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/afrique-du-sud/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -77,7 +106,10 @@
       "À Soweto, limite-toi aux visites organisées (maisons de Mandela et Tutu, musée Hector Pieterson).",
       "Fraude à la carte bancaire fréquente : ne quitte jamais ta carte des yeux lors des paiements."
     ],
-    "source": { "label": "France Diplomatie, Afrique du Sud, Sécurité (mise à jour du 4 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/afrique-du-sud/" },
+    "source": {
+      "label": "France Diplomatie, Afrique du Sud, Sécurité (mise à jour du 4 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/afrique-du-sud/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -85,17 +117,35 @@
       "slug": "le-cap",
       "name": "Le Cap et la péninsule",
       "nights": "4 nuits",
-      "for": ["tous", "energique"],
+      "for": [
+        "tous",
+        "energique"
+      ],
       "summary": "Une ville entre océan et montagne de la Table, ses quartiers colorés et le cap de Bonne-Espérance.",
       "sleep": "À Sea Point, Gardens ou au V&A Waterfront.",
       "see": [
-        { "name": "La montagne de la Table", "note": "En téléphérique ou à pied par temps clair." },
-        { "name": "Le cap de Bonne-Espérance", "note": "Et les manchots de Boulders Beach." },
-        { "name": "Robben Island", "note": "La prison de Nelson Mandela, réservation à l'avance." }
+        {
+          "name": "La montagne de la Table",
+          "note": "En téléphérique ou à pied par temps clair."
+        },
+        {
+          "name": "Le cap de Bonne-Espérance",
+          "note": "Et les manchots de Boulders Beach."
+        },
+        {
+          "name": "Robben Island",
+          "note": "La prison de Nelson Mandela, réservation à l'avance."
+        }
       ],
       "hidden": [
-        { "name": "Bo-Kaap", "note": "Le quartier aux maisons colorées, en journée." },
-        { "name": "Chapman's Peak Drive", "note": "Une route côtière spectaculaire." }
+        {
+          "name": "Bo-Kaap",
+          "note": "Le quartier aux maisons colorées, en journée."
+        },
+        {
+          "name": "Chapman's Peak Drive",
+          "note": "Une route côtière spectaculaire."
+        }
       ],
       "eat": "Le bobotie (gratin épicé) et les poissons grillés.",
       "getAround": "VTC en ville, voiture pour la péninsule.",
@@ -105,13 +155,25 @@
       "slug": "winelands",
       "name": "Les Winelands",
       "nights": "2 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Des domaines viticoles au pied des montagnes, dans des maisons de style hollandais du Cap.",
       "sleep": "À Franschhoek ou Stellenbosch.",
       "see": [
-        { "name": "Franschhoek", "note": "Le « coin des Français » huguenots." },
-        { "name": "Stellenbosch", "note": "Ville universitaire et chênes centenaires." },
-        { "name": "Le Wine Tram", "note": "Un tram de dégustation à Franschhoek." }
+        {
+          "name": "Franschhoek",
+          "note": "Le « coin des Français » huguenots."
+        },
+        {
+          "name": "Stellenbosch",
+          "note": "Ville universitaire et chênes centenaires."
+        },
+        {
+          "name": "Le Wine Tram",
+          "note": "Un tram de dégustation à Franschhoek."
+        }
       ],
       "hidden": [],
       "eat": "Les accords mets-vins des domaines.",
@@ -122,16 +184,31 @@
       "slug": "route-des-jardins",
       "name": "La Route des jardins",
       "nights": "4 nuits",
-      "for": ["explorateur", "tous"],
+      "for": [
+        "explorateur",
+        "tous"
+      ],
       "summary": "Lagunes, forêts et plages entre Mossel Bay et le parc de Tsitsikamma.",
       "sleep": "À Knysna ou Plettenberg Bay.",
       "see": [
-        { "name": "Le parc de Tsitsikamma", "note": "Pont suspendu au-dessus de l'embouchure." },
-        { "name": "La lagune de Knysna", "note": "Et ses falaises, les Heads." },
-        { "name": "Hermanus", "note": "Les baleines depuis la côte, de juillet à novembre." }
+        {
+          "name": "Le parc de Tsitsikamma",
+          "note": "Pont suspendu au-dessus de l'embouchure."
+        },
+        {
+          "name": "La lagune de Knysna",
+          "note": "Et ses falaises, les Heads."
+        },
+        {
+          "name": "Hermanus",
+          "note": "Les baleines depuis la côte, de juillet à novembre."
+        }
       ],
       "hidden": [
-        { "name": "Robberg", "note": "Une péninsule aux otaries près de Plettenberg Bay." }
+        {
+          "name": "Robberg",
+          "note": "Une péninsule aux otaries près de Plettenberg Bay."
+        }
       ],
       "eat": "Les huîtres de Knysna.",
       "getAround": "Voiture depuis Le Cap.",
@@ -141,13 +218,25 @@
       "slug": "kruger",
       "name": "Le parc Kruger",
       "nights": "3 à 4 nuits",
-      "for": ["explorateur", "tous"],
+      "for": [
+        "explorateur",
+        "tous"
+      ],
       "summary": "L'un des plus grands parcs d'Afrique, où voir les « Big Five » en voiture.",
       "sleep": "Dans les camps du parc (Skukuza, Satara, Lower Sabie) ou en réserve privée.",
       "see": [
-        { "name": "Le safari en voiture", "note": "À ton rythme, sur les routes du parc." },
-        { "name": "Le safari à l'aube avec un ranger", "note": "Au départ des camps." },
-        { "name": "Le canyon de la Blyde River", "note": "Sur la route panoramique, à l'ouest du parc." }
+        {
+          "name": "Le safari en voiture",
+          "note": "À ton rythme, sur les routes du parc."
+        },
+        {
+          "name": "Le safari à l'aube avec un ranger",
+          "note": "Au départ des camps."
+        },
+        {
+          "name": "Le canyon de la Blyde River",
+          "note": "Sur la route panoramique, à l'ouest du parc."
+        }
       ],
       "hidden": [],
       "eat": "Le braai (barbecue) dans les camps.",
@@ -159,29 +248,72 @@
     {
       "days": 15,
       "title": "Le Cap, la côte et le Kruger",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Le Cap", "note": "Arrivée." },
-        { "days": "Jours 5 et 6", "place": "Winelands", "note": "Domaines." },
-        { "days": "Jours 7 à 10", "place": "Route des jardins", "note": "En voiture, retour depuis Port Elizabeth." },
-        { "days": "Jours 11 à 15", "place": "Kruger", "note": "Vol, puis Johannesburg." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Le Cap",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 5 et 6",
+          "place": "Winelands",
+          "note": "Domaines."
+        },
+        {
+          "days": "Jours 7 à 10",
+          "place": "Route des jardins",
+          "note": "En voiture, retour depuis Port Elizabeth."
+        },
+        {
+          "days": "Jours 11 à 15",
+          "place": "Kruger",
+          "note": "Vol, puis Johannesburg."
+        }
       ]
     },
     {
       "days": 8,
       "title": "Le Cap et ses environs",
-      "for": ["lent", "energique"],
+      "for": [
+        "lent",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Le Cap", "note": "Ville et péninsule." },
-        { "days": "Jours 5 et 6", "place": "Winelands", "note": "Dégustations." },
-        { "days": "Jours 7 et 8", "place": "Hermanus", "note": "Baleines, retour au Cap." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Le Cap",
+          "note": "Ville et péninsule."
+        },
+        {
+          "days": "Jours 5 et 6",
+          "place": "Winelands",
+          "note": "Dégustations."
+        },
+        {
+          "days": "Jours 7 et 8",
+          "place": "Hermanus",
+          "note": "Baleines, retour au Cap."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "En voiture", "text": "Indispensable. Conduite à gauche, ne roule pas de nuit." },
-    { "title": "Les vols intérieurs", "text": "Le Cap, Johannesburg et le Kruger sont bien reliés." },
-    { "title": "Les VTC", "text": "À privilégier en ville." }
+    {
+      "title": "En voiture",
+      "text": "Indispensable. Conduite à gauche, ne roule pas de nuit."
+    },
+    {
+      "title": "Les vols intérieurs",
+      "text": "Le Cap, Johannesburg et le Kruger sont bien reliés."
+    },
+    {
+      "title": "Les VTC",
+      "text": "À privilégier en ville."
+    }
   ],
   "culture": [
     "Le pourboire de 10 à 15 % est attendu ; les gardiens de parking en attendent aussi un petit.",
@@ -189,9 +321,21 @@
     "On dit « now now » pour « bientôt », et « just now » pour « plus tard »."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Hello / Howzit", "say": "haouzit" },
-    { "fr": "Merci (afrikaans)", "local": "Dankie", "say": "danki" },
-    { "fr": "Bonjour (zoulou)", "local": "Sawubona", "say": "saoubona" }
+    {
+      "fr": "Bonjour",
+      "local": "Hello / Howzit",
+      "say": "haouzit"
+    },
+    {
+      "fr": "Merci (afrikaans)",
+      "local": "Dankie",
+      "say": "danki"
+    },
+    {
+      "fr": "Bonjour (zoulou)",
+      "local": "Sawubona",
+      "say": "saoubona"
+    }
   ],
   "checklist": [
     "Passeport valide",
@@ -202,9 +346,17 @@
     "Adaptateur de prise"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour l'Afrique du Sud ?", "a": "Non pour moins de 90 jours. Depuis juillet 2026, une déclaration en ligne des biens et devises est obligatoire à l'entrée et à la sortie." },
-    { "q": "L'Afrique du Sud est-elle sûre ?", "a": "Le pays est en vigilance renforcée. Organise tes transferts, évite certains quartiers de Johannesburg et ne roule pas de nuit." },
-    { "q": "Quand faire un safari en Afrique du Sud ?", "a": "De mai à octobre, en saison sèche : la végétation est moins dense et les animaux se regroupent près des points d'eau." },
-    { "q": "Quel budget pour deux semaines en Afrique du Sud ?", "a": "Compte environ 1 850 à 5 000 R par jour seul et 1 300 à 3 650 R par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour l'Afrique du Sud ?",
+      "a": "Non pour moins de 90 jours. Depuis juillet 2026, une déclaration en ligne des biens et devises est obligatoire à l'entrée et à la sortie."
+    },
+    {
+      "q": "L'Afrique du Sud est-elle sûre ?",
+      "a": "Le pays est en vigilance renforcée. Organise tes transferts, évite certains quartiers de Johannesburg et ne roule pas de nuit."
+    },
+    {
+      "q": "Quand faire un safari en Afrique du Sud ?",
+      "a": "De mai à octobre, en saison sèche : la végétation est moins dense et les animaux se regroupent près des points d'eau."
+    }
   ]
 }

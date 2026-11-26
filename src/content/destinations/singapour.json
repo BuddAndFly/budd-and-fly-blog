@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Singapour : quartiers, escale, budget",
-    "description": "Préparer un voyage ou une escale à Singapour : passeport 6 mois, règles locales, meilleure saison, budget, Marina Bay, Chinatown, Little India. PDF gratuit."
+    "title": "Guide Singapour : quartiers, escale",
+    "description": "Préparer un voyage ou une escale à Singapour : passeport 6 mois, règles locales, meilleure saison, Marina Bay, Chinatown, Little India. PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/singapour/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Pluvieux, illuminations de Noël sur Orchard Road."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en dollars de Singapour, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou capsule)",
-        "solo": "120 à 250 S$",
-        "duo": "75 à 150 S$"
-      },
-      {
-        "label": "Repas",
-        "solo": "25 à 70 S$",
-        "duo": "25 à 70 S$"
-      },
-      {
-        "label": "Transports (métro, bus)",
-        "solo": "5 à 15 S$",
-        "duo": "5 à 15 S$"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "20 à 60 S$",
-        "duo": "20 à 60 S$"
-      }
-    ],
-    "totalSolo": "170 à 395 S$",
-    "totalDuo": "125 à 295 S$",
-    "note": "L'hébergement est cher, mais les hawker centres (food courts populaires) offrent d'excellents repas pour quelques dollars. Beaucoup de sites sont gratuits.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour touristique. Le passeport doit être valable 6 mois après le départ de Singapour, avec un billet retour ou de continuation.",
     "points": [
@@ -359,10 +330,6 @@
     {
       "q": "Combien de jours à Singapour ?",
       "a": "Trois jours pour l'essentiel, cinq pour prendre le temps."
-    },
-    {
-      "q": "Quel budget pour Singapour ?",
-      "a": "Compte environ 170 à 395 S$ par jour seul et 125 à 295 S$ par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

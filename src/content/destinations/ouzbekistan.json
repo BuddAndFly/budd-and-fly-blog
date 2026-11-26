@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Ouzbékistan : Route de la soie, visa, budget",
-    "description": "Préparer un voyage en Ouzbékistan : 30 jours sans visa, enregistrement, meilleure saison, budget, Tachkent, Samarcande, Boukhara, Khiva. Guide PDF gratuit."
+    "title": "Guide Ouzbékistan : Route de la soie, visa",
+    "description": "Préparer un voyage en Ouzbékistan : 30 jours sans visa, enregistrement, meilleure saison, Tachkent, Samarcande, Boukhara, Khiva. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/ouzbekistan/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Froid."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en soums, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (maison d'hôtes ou petit hôtel)",
-        "solo": "400 000 à 900 000 soums",
-        "duo": "250 000 à 550 000 soums"
-      },
-      {
-        "label": "Repas",
-        "solo": "150 000 à 350 000 soums",
-        "duo": "150 000 à 350 000 soums"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "30 000 à 150 000 soums",
-        "duo": "30 000 à 120 000 soums"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "50 000 à 200 000 soums",
-        "duo": "50 000 à 200 000 soums"
-      }
-    ],
-    "totalSolo": "630 000 à 1 600 000 soums",
-    "totalDuo": "480 000 à 1 220 000 soums",
-    "note": "Les trains rapides entre les villes sont abordables mais se réservent tôt. Les maisons d'hôtes familiales dans les vieilles villes sont la meilleure option.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour de 30 jours maximum. Le passeport doit être valable au moins 6 mois après la date de retour.",
     "points": [
@@ -426,10 +397,6 @@
     {
       "q": "Quand partir en Ouzbékistan ?",
       "a": "En avril-mai et en septembre-octobre. L'été dépasse souvent 40 °C et l'hiver est très froid."
-    },
-    {
-      "q": "Quel budget pour une semaine en Ouzbékistan ?",
-      "a": "Compte environ 630 000 à 1 600 000 soums par jour seul et 480 000 à 1 220 000 soums par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

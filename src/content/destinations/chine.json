@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Chine : sans visa 30 jours, Pékin, Xi'an",
-    "description": "Préparer un voyage en Chine : exemption de visa 30 jours, applications utiles, meilleure saison, budget, Pékin, Xi'an, Shanghai, Guilin. Guide PDF gratuit."
+    "description": "Préparer un voyage en Chine : exemption de visa 30 jours, applications utiles, meilleure saison, Pékin, Xi'an, Shanghai, Guilin. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/chine/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Froid au nord."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en yuans, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou boutique-hôtel)",
-        "solo": "300 à 700 ¥",
-        "duo": "180 à 420 ¥"
-      },
-      {
-        "label": "Repas",
-        "solo": "100 à 250 ¥",
-        "duo": "100 à 250 ¥"
-      },
-      {
-        "label": "Transports (train, métro)",
-        "solo": "50 à 250 ¥",
-        "duo": "50 à 250 ¥"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "50 à 200 ¥",
-        "duo": "50 à 200 ¥"
-      }
-    ],
-    "totalSolo": "500 à 1 400 ¥",
-    "totalDuo": "380 à 1 120 ¥",
-    "note": "Les trains à grande vitesse sont bon marché mais se réservent avec le passeport. Les grands sites (Cité interdite, guerriers de Xi'an) exigent souvent une réservation nominative.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Jusqu'au 31 décembre 2026, pas de visa pour un séjour de 30 jours maximum avec un passeport ordinaire français, pour le tourisme, les affaires, une visite familiale ou un transit.",
     "points": [
@@ -403,10 +374,6 @@
     {
       "q": "Quand partir en Chine ?",
       "a": "Au printemps et à l'automne. Évite le Nouvel An chinois et la semaine nationale début octobre."
-    },
-    {
-      "q": "Quel budget pour deux semaines en Chine ?",
-      "a": "Compte environ 500 à 1 400 ¥ par jour seul et 380 à 1 120 ¥ par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

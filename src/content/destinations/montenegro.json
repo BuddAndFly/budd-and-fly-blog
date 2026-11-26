@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Monténégro : quand partir, budget, Kotor, Durmitor",
-    "description": "Préparer un voyage au Monténégro : carte d'identité ou passeport, meilleure saison, budget, les bouches de Kotor, Budva, le Durmitor, le lac de Skadar."
+    "title": "Guide Monténégro : quand partir, Kotor, Durmitor",
+    "description": "Préparer un voyage au Monténégro : carte d'identité ou passeport, meilleure saison, les bouches de Kotor, Budva, le Durmitor, le lac de Skadar."
   },
   "hero": {
     "src": "/images/destinations/montenegro/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Hiver, illuminations à Kotor et Budva."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
-    "rows": [
-      {
-        "label": "Hébergement (chambre ou appartement simple)",
-        "solo": "45 à 90 €",
-        "duo": "30 à 60 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "20 à 35 €",
-        "duo": "20 à 35 €"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "3 à 10 €",
-        "duo": "3 à 10 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "5 à 15 €",
-        "duo": "5 à 15 €"
-      }
-    ],
-    "totalSolo": "73 à 150 €",
-    "totalDuo": "58 à 120 €",
-    "note": "Kotor et Budva sont nettement plus chères en juillet-août que le reste du pays. Une taxe de séjour s'ajoute par nuit. Les bus sont bon marché, mais une voiture facilite la découverte du nord.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour moins de 90 jours. Une carte d'identité valide suffit pour un séjour de moins de 30 jours ; au-delà, il faut un passeport.",
     "points": [
@@ -413,10 +384,6 @@
     {
       "q": "Quand partir au Monténégro ?",
       "a": "En mai-juin et en septembre : mer agréable, montagnes ouvertes et beaucoup moins de monde qu'en juillet-août."
-    },
-    {
-      "q": "Quel budget pour une semaine au Monténégro ?",
-      "a": "Compte environ 73 à 150 € par jour seul et 58 à 120 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

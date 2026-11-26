@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Nicaragua : Granada, Ometepe, León, sécurité",
-    "description": "Préparer un voyage au Nicaragua : formulaire d'entrée, contexte politique, meilleure saison, budget, Granada, León, Ometepe, San Juan del Sur. PDF gratuit."
+    "description": "Préparer un voyage au Nicaragua : formulaire d'entrée, contexte politique, meilleure saison, Granada, León, Ometepe, San Juan del Sur. PDF gratuit."
   },
   "hero": null,
   "summary": "Le Nicaragua se visite de décembre à avril, en saison sèche. Pas de visa pour 90 jours (espace C4 avec le Guatemala, le Honduras et le Salvador), mais un formulaire doit être envoyé aux autorités avant l'entrée. La situation politique reste instable et l'ambassade n'a plus de section consulaire : renseigne-toi bien avant de partir. Volcans, lacs et villes coloniales y sont superbes.",
@@ -24,33 +24,56 @@
     "flight": "Environ 14 h depuis Paris pour Managua, avec une escale"
   },
   "months": [
-    { "rating": 2, "note": "Saison sèche, haute saison." },
-    { "rating": 2, "note": "Idéal." },
-    { "rating": 2, "note": "Sec et chaud." },
-    { "rating": 1, "note": "Très chaud ; semaine sainte très suivie." },
-    { "rating": 1, "note": "Début des pluies, dengue en hausse." },
-    { "rating": 1, "note": "Pluies, paysages verts." },
-    { "rating": 1, "note": "Accalmie relative (« canícula »)." },
-    { "rating": 1, "note": "Pluies." },
-    { "rating": 0, "note": "Fortes pluies." },
-    { "rating": 0, "note": "Le mois le plus pluvieux." },
-    { "rating": 1, "note": "Fin des pluies." },
-    { "rating": 2, "note": "Retour du sec ; fête de la Purísima." }
+    {
+      "rating": 2,
+      "note": "Saison sèche, haute saison."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Très chaud ; semaine sainte très suivie."
+    },
+    {
+      "rating": 1,
+      "note": "Début des pluies, dengue en hausse."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies, paysages verts."
+    },
+    {
+      "rating": 1,
+      "note": "Accalmie relative (« canícula »)."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Fortes pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Le mois le plus pluvieux."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Retour du sec ; fête de la Purísima."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols.",
-    "rows": [
-      { "label": "Hébergement (guesthouse ou petit hôtel)", "solo": "25 à 70 $", "duo": "15 à 45 $" },
-      { "label": "Repas", "solo": "12 à 30 $", "duo": "12 à 30 $" },
-      { "label": "Transports (bus, navettes)", "solo": "5 à 25 $", "duo": "5 à 20 $" },
-      { "label": "Excursions", "solo": "10 à 50 $", "duo": "10 à 50 $" }
-    ],
-    "totalSolo": "52 à 175 $",
-    "totalDuo": "42 à 145 $",
-    "note": "L'un des pays les moins chers d'Amérique centrale. Prévois des dollars en espèces.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un court séjour de 90 jours maximum. Avant l'entrée, un formulaire doit être rempli et envoyé aux autorités (ou complété en ligne).",
     "points": [
@@ -58,7 +81,10 @@
       "Les autorités peuvent demander des compléments d'information.",
       "Être en règle pour la vaccination contre la fièvre jaune si tu viens d'un pays à risque, même en escale."
     ],
-    "source": { "label": "France Diplomatie, Nicaragua, Entrée / séjour (mise à jour du 21 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nicaragua/" },
+    "source": {
+      "label": "France Diplomatie, Nicaragua, Entrée / séjour (mise à jour du 21 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nicaragua/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -68,7 +94,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Assurance couvrant hospitalisation et évacuation indispensable."
     ],
-    "source": { "label": "France Diplomatie, Nicaragua, Santé (mise à jour du 21 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nicaragua/" },
+    "source": {
+      "label": "France Diplomatie, Nicaragua, Santé (mise à jour du 21 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nicaragua/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -79,7 +108,10 @@
       "L'ambassade de France n'a plus de section consulaire : en cas de perte de passeport, elle délivre seulement un laissez-passer pour rentrer directement en France, sans transit par les États-Unis.",
       "Inscris-toi sur Ariane."
     ],
-    "source": { "label": "France Diplomatie, Nicaragua, Sécurité (mise à jour du 21 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nicaragua/" },
+    "source": {
+      "label": "France Diplomatie, Nicaragua, Sécurité (mise à jour du 21 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nicaragua/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -87,16 +119,31 @@
       "slug": "granada",
       "name": "Granada",
       "nights": "3 nuits",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "summary": "Une ville coloniale colorée au bord du lac Nicaragua, au pied du volcan Mombacho.",
       "sleep": "Dans le centre historique.",
       "see": [
-        { "name": "La cathédrale et le parc central", "note": "Le cœur coloré de la ville." },
-        { "name": "Les isletas", "note": "365 îlots en bateau sur le lac." },
-        { "name": "Le volcan Masaya", "note": "On voit la lave rougeoyer au fond du cratère, le soir." }
+        {
+          "name": "La cathédrale et le parc central",
+          "note": "Le cœur coloré de la ville."
+        },
+        {
+          "name": "Les isletas",
+          "note": "365 îlots en bateau sur le lac."
+        },
+        {
+          "name": "Le volcan Masaya",
+          "note": "On voit la lave rougeoyer au fond du cratère, le soir."
+        }
       ],
       "hidden": [
-        { "name": "La lagune d'Apoyo", "note": "Un lac de cratère pour se baigner." }
+        {
+          "name": "La lagune d'Apoyo",
+          "note": "Un lac de cratère pour se baigner."
+        }
       ],
       "eat": "Le vigorón (yucca, porc croustillant, salade de chou) et le gallo pinto.",
       "getAround": "À pied ; navettes vers les autres villes.",
@@ -106,16 +153,31 @@
       "slug": "ometepe",
       "name": "L'île d'Ometepe",
       "nights": "3 nuits",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "Deux volcans reliés par un isthme au milieu du lac Nicaragua.",
       "sleep": "À Moyogalpa ou près de l'isthme.",
       "see": [
-        { "name": "L'ascension du Concepción", "note": "Volcan actif, journée exigeante avec guide." },
-        { "name": "La cascade de San Ramón", "note": "Sur les flancs du Maderas." },
-        { "name": "L'Ojo de Agua", "note": "Une source naturelle pour se baigner." }
+        {
+          "name": "L'ascension du Concepción",
+          "note": "Volcan actif, journée exigeante avec guide."
+        },
+        {
+          "name": "La cascade de San Ramón",
+          "note": "Sur les flancs du Maderas."
+        },
+        {
+          "name": "L'Ojo de Agua",
+          "note": "Une source naturelle pour se baigner."
+        }
       ],
       "hidden": [
-        { "name": "Les pétroglyphes", "note": "Gravures précolombiennes dans les champs." }
+        {
+          "name": "Les pétroglyphes",
+          "note": "Gravures précolombiennes dans les champs."
+        }
       ],
       "eat": "Le poisson du lac.",
       "getAround": "Ferry depuis San Jorge, puis scooter ou vélo.",
@@ -125,16 +187,31 @@
       "slug": "leon",
       "name": "León",
       "nights": "2 nuits",
-      "for": ["energique", "stratege"],
+      "for": [
+        "energique",
+        "stratege"
+      ],
       "summary": "La ville universitaire et révolutionnaire, sa cathédrale blanche et le surf sur les pentes d'un volcan.",
       "sleep": "Dans le centre.",
       "see": [
-        { "name": "La cathédrale de León", "note": "Classée à l'Unesco, avec la balade sur son toit blanc." },
-        { "name": "Le volcano boarding au Cerro Negro", "note": "Descente en luge sur la cendre." },
-        { "name": "Les ruines de León Viejo", "note": "La ville coloniale d'origine." }
+        {
+          "name": "La cathédrale de León",
+          "note": "Classée à l'Unesco, avec la balade sur son toit blanc."
+        },
+        {
+          "name": "Le volcano boarding au Cerro Negro",
+          "note": "Descente en luge sur la cendre."
+        },
+        {
+          "name": "Les ruines de León Viejo",
+          "note": "La ville coloniale d'origine."
+        }
       ],
       "hidden": [
-        { "name": "Las Peñitas", "note": "Une plage du Pacifique à 30 minutes." }
+        {
+          "name": "Las Peñitas",
+          "note": "Une plage du Pacifique à 30 minutes."
+        }
       ],
       "eat": "Le quesillo (tortilla, fromage et crème).",
       "getAround": "À pied ; bus et navettes.",
@@ -145,28 +222,66 @@
     {
       "days": 10,
       "title": "Volcans, lac et villes coloniales",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "León", "note": "Arrivée par Managua." },
-        { "days": "Jours 3 à 5", "place": "Granada", "note": "Masaya et isletas." },
-        { "days": "Jours 6 à 8", "place": "Ometepe", "note": "Volcans." },
-        { "days": "Jours 9 et 10", "place": "San Juan del Sur", "note": "Plages, retour vers Managua." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "León",
+          "note": "Arrivée par Managua."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Granada",
+          "note": "Masaya et isletas."
+        },
+        {
+          "days": "Jours 6 à 8",
+          "place": "Ometepe",
+          "note": "Volcans."
+        },
+        {
+          "days": "Jours 9 et 10",
+          "place": "San Juan del Sur",
+          "note": "Plages, retour vers Managua."
+        }
       ]
     },
     {
       "days": 6,
       "title": "Granada et Ometepe",
-      "for": ["lent"],
+      "for": [
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Granada", "note": "Arrivée." },
-        { "days": "Jours 4 à 6", "place": "Ometepe", "note": "Retour par Managua." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Granada",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Ometepe",
+          "note": "Retour par Managua."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les navettes touristiques", "text": "Pratiques et plus sûres entre les villes." },
-    { "title": "Les « chicken buses »", "text": "Bon marché, bondés." },
-    { "title": "Les ferries", "text": "Vers Ometepe depuis San Jorge." }
+    {
+      "title": "Les navettes touristiques",
+      "text": "Pratiques et plus sûres entre les villes."
+    },
+    {
+      "title": "Les « chicken buses »",
+      "text": "Bon marché, bondés."
+    },
+    {
+      "title": "Les ferries",
+      "text": "Vers Ometepe depuis San Jorge."
+    }
   ],
   "culture": [
     "Le contexte politique est sensible : reste discret sur le sujet et ne photographie pas les manifestations.",
@@ -174,9 +289,21 @@
     "La semaine sainte et les fêtes patronales sont des moments forts."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Buenos días", "say": "bouénos dias" },
-    { "fr": "Merci", "local": "Gracias", "say": "grassias" },
-    { "fr": "Super !", "local": "¡Tuani!", "say": "touani" }
+    {
+      "fr": "Bonjour",
+      "local": "Buenos días",
+      "say": "bouénos dias"
+    },
+    {
+      "fr": "Merci",
+      "local": "Gracias",
+      "say": "grassias"
+    },
+    {
+      "fr": "Super !",
+      "local": "¡Tuani!",
+      "say": "touani"
+    }
   ],
   "checklist": [
     "Passeport valide et formulaire d'entrée envoyé",
@@ -187,9 +314,17 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour le Nicaragua ?", "a": "Non pour 90 jours (espace C4), mais un formulaire doit être envoyé aux autorités avant l'entrée." },
-    { "q": "Le Nicaragua est-il sûr ?", "a": "La situation politique et sociale reste instable et la sécurité publique dégradée. Bluefields est déconseillé sauf raison impérative. Renseigne-toi avant le départ." },
-    { "q": "Quand partir au Nicaragua ?", "a": "De décembre à avril, en saison sèche." },
-    { "q": "Quel budget pour 10 jours au Nicaragua ?", "a": "Compte environ 52 à 175 $ par jour seul et 42 à 145 $ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour le Nicaragua ?",
+      "a": "Non pour 90 jours (espace C4), mais un formulaire doit être envoyé aux autorités avant l'entrée."
+    },
+    {
+      "q": "Le Nicaragua est-il sûr ?",
+      "a": "La situation politique et sociale reste instable et la sécurité publique dégradée. Bluefields est déconseillé sauf raison impérative. Renseigne-toi avant le départ."
+    },
+    {
+      "q": "Quand partir au Nicaragua ?",
+      "a": "De décembre à avril, en saison sèche."
+    }
   ]
 }

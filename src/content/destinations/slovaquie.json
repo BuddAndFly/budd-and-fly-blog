@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Slovaquie : Bratislava, Tatras, châteaux",
-    "description": "Préparer un voyage en Slovaquie : papiers, ours, meilleure saison, budget, Bratislava, les Hautes Tatras, le Paradis slovaque, Spiš. Guide PDF gratuit."
+    "description": "Préparer un voyage en Slovaquie : papiers, ours, meilleure saison, Bratislava, les Hautes Tatras, le Paradis slovaque, Spiš. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/slovaquie/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Marché de Noël de Bratislava, début du ski."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
-    "rows": [
-      {
-        "label": "Hébergement (pension ou petit hôtel)",
-        "solo": "45 à 90 €",
-        "duo": "28 à 55 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "18 à 35 €",
-        "duo": "18 à 35 €"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "5 à 15 €",
-        "duo": "4 à 12 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "8 à 20 €",
-        "duo": "8 à 20 €"
-      }
-    ],
-    "totalSolo": "76 à 160 €",
-    "totalDuo": "58 à 122 €",
-    "note": "La Slovaquie est nettement moins chère que l'Autriche voisine. Les refuges de montagne (chata) sont une option économique.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pays de l'Union européenne : un passeport ou une carte d'identité valable pendant tout le séjour suffit pour moins de 90 jours.",
     "points": [
@@ -354,10 +325,6 @@
     {
       "q": "Quand partir en Slovaquie ?",
       "a": "De mi-juin à septembre pour la haute montagne, de mai à octobre pour le reste, et l'hiver pour le ski."
-    },
-    {
-      "q": "Quel budget pour une semaine en Slovaquie ?",
-      "a": "Compte environ 76 à 160 € par jour seul et 58 à 122 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

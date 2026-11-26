@@ -1,7 +1,7 @@
 ---
 title: "Voyage en couple : 8 destinations pour partir à deux"
 seoTitle: "Voyage en couple : 8 destinations romantiques et faciles"
-description: "8 destinations pour un voyage en couple, de la Slovénie aux Seychelles, avec la meilleure saison et un budget par personne à deux."
+description: "8 destinations pour un voyage en couple, de la Slovénie aux Seychelles, avec la meilleure saison et ce qui les rend idéales à deux."
 category: "Partir à deux"
 status: "brouillon"
 publishedAt: "2026-11-25"
@@ -17,7 +17,7 @@ hero:
 destinations: ["slovenie", "portugal", "grece", "japon", "seychelles", "sri-lanka", "ile-maurice", "nouvelle-zelande"]
 ---
 
-**Un bon voyage en couple mélange des moments forts et du temps pour soi, dans un pays facile à vivre.** Voici huit destinations très différentes, avec la meilleure saison et ce qui les rend idéales à deux. Les budgets détaillés, les formalités et la sécurité sont dans chaque guide.
+**Un bon voyage en couple mélange des moments forts et du temps pour soi, dans un pays facile à vivre.** Voici huit destinations très différentes, avec la meilleure saison et ce qui les rend idéales à deux. Les formalités et la sécurité sont dans chaque guide.
 
 ## 1. La Slovénie, pour un premier voyage proche
 

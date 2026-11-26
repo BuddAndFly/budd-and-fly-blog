@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Antarctique : croisière, saison, budget, sécurité",
-    "description": "Préparer un voyage en Antarctique : formalités, opérateurs agréés, sécurité, meilleure saison, budget, péninsule Antarctique, Shetland du Sud. PDF gratuit."
+    "title": "Guide Antarctique : croisière, saison, sécurité",
+    "description": "Préparer un voyage en Antarctique : formalités, opérateurs agréés, sécurité, meilleure saison, péninsule Antarctique, Shetland du Sud. PDF gratuit."
   },
   "hero": null,
   "summary": "L'Antarctique se visite de novembre à mars, pendant l'été austral, presque toujours en croisière d'expédition au départ d'Ushuaia. Aucun passeport ni visa n'est requis pour le continent lui-même, mais il en faut pour les pays de transit. Il n'existe aucun service d'urgence : passe par un opérateur agréé, idéalement membre de l'IAATO. C'est le voyage d'une vie, et l'un des plus chers.",
@@ -24,39 +24,66 @@
     "flight": "Environ 17 h depuis Paris pour Ushuaia (via Buenos Aires), puis 2 jours de navigation"
   },
   "months": [
-    { "rating": 2, "note": "Plein été : poussins de manchots, longues journées." },
-    { "rating": 2, "note": "Baleines nombreuses, glace plus ouverte vers le sud." },
-    { "rating": 1, "note": "Fin de saison, baleines, couchers de soleil." },
-    { "rating": 0, "note": "Pas de croisières touristiques." },
-    { "rating": 0, "note": "Hiver austral." },
-    { "rating": 0, "note": "Hiver austral, nuit polaire au sud." },
-    { "rating": 0, "note": "Hiver austral." },
-    { "rating": 0, "note": "Hiver austral." },
-    { "rating": 0, "note": "Hiver austral." },
-    { "rating": 0, "note": "Hiver austral." },
-    { "rating": 2, "note": "Ouverture de la saison : neige immaculée, parades des manchots." },
-    { "rating": 2, "note": "Été, éclosions, 20 h de jour." }
+    {
+      "rating": 2,
+      "note": "Plein été : poussins de manchots, longues journées."
+    },
+    {
+      "rating": 2,
+      "note": "Baleines nombreuses, glace plus ouverte vers le sud."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de saison, baleines, couchers de soleil."
+    },
+    {
+      "rating": 0,
+      "note": "Pas de croisières touristiques."
+    },
+    {
+      "rating": 0,
+      "note": "Hiver austral."
+    },
+    {
+      "rating": 0,
+      "note": "Hiver austral, nuit polaire au sud."
+    },
+    {
+      "rating": 0,
+      "note": "Hiver austral."
+    },
+    {
+      "rating": 0,
+      "note": "Hiver austral."
+    },
+    {
+      "rating": 0,
+      "note": "Hiver austral."
+    },
+    {
+      "rating": 0,
+      "note": "Hiver austral."
+    },
+    {
+      "rating": 2,
+      "note": "Ouverture de la saison : neige immaculée, parades des manchots."
+    },
+    {
+      "rating": 2,
+      "note": "Été, éclosions, 20 h de jour."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par personne, pour une croisière de 10 à 12 jours au départ d'Ushuaia, hors vols.",
-    "rows": [
-      { "label": "Croisière en cabine partagée (triple ou quadruple)", "solo": "7 000 à 10 000 €", "duo": "7 000 à 10 000 €" },
-      { "label": "Croisière en cabine double", "solo": "10 000 à 16 000 € (supplément individuel)", "duo": "8 000 à 13 000 €" },
-      { "label": "Activités optionnelles (kayak, camping)", "solo": "500 à 1 500 €", "duo": "500 à 1 500 €" }
-    ],
-    "totalSolo": "7 000 à 17 500 € le voyage",
-    "totalDuo": "7 500 à 14 500 € par personne le voyage",
-    "note": "Les départs de dernière minute depuis Ushuaia sont parfois moins chers. Les croisières qui incluent la Géorgie du Sud et les Malouines durent environ 3 semaines et coûtent bien plus.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Aucune formalité de passeport ou de visa n'est requise pour l'Antarctique. Elles peuvent l'être pour les pays d'escale ou de transit (Argentine, Chili).",
     "points": [
       "Passe par un opérateur titulaire d'un permis délivré par une partie consultative du Traité sur l'Antarctique ; les membres de l'IAATO respectent en principe les règles.",
       "Un voyageur indépendant doit obtenir une autorisation d'activité avant le départ ; pour la France, l'autorité compétente est l'administration des Terres australes et antarctiques françaises (TAAF)."
     ],
-    "source": { "label": "France Diplomatie, Antarctique, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/antarctique/" },
+    "source": {
+      "label": "France Diplomatie, Antarctique, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/antarctique/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -66,7 +93,10 @@
       "Contrat d'assistance ou assurance couvrant l'hospitalisation et l'évacuation.",
       "Consulte ton médecin avant le départ (mal de mer au passage de Drake)."
     ],
-    "source": { "label": "France Diplomatie, Antarctique, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/antarctique/" },
+    "source": {
+      "label": "France Diplomatie, Antarctique, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/antarctique/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -76,7 +106,10 @@
       "Il est déconseillé de voyager seul ; évite toute prise de risque inutile.",
       "Télécommunications quasi inexistantes hors des bases, surtout au sud du 70e parallèle."
     ],
-    "source": { "label": "France Diplomatie, Antarctique, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/antarctique/" },
+    "source": {
+      "label": "France Diplomatie, Antarctique, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/antarctique/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -84,16 +117,31 @@
       "slug": "peninsule",
       "name": "La péninsule Antarctique",
       "nights": "5 à 6 nuits à bord",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "summary": "Des baies de glace, des colonies de manchots et des débarquements en zodiac au pied des glaciers.",
       "sleep": "À bord du navire d'expédition.",
       "see": [
-        { "name": "Le canal Lemaire", "note": "Un passage étroit entre des falaises de glace." },
-        { "name": "Paradise Bay", "note": "Débarquement sur le continent et kayak parmi les icebergs." },
-        { "name": "Port Lockroy", "note": "Une ancienne base britannique devenue musée et bureau de poste." }
+        {
+          "name": "Le canal Lemaire",
+          "note": "Un passage étroit entre des falaises de glace."
+        },
+        {
+          "name": "Paradise Bay",
+          "note": "Débarquement sur le continent et kayak parmi les icebergs."
+        },
+        {
+          "name": "Port Lockroy",
+          "note": "Une ancienne base britannique devenue musée et bureau de poste."
+        }
       ],
       "hidden": [
-        { "name": "Une nuit en camping sur la glace", "note": "Proposée par certains opérateurs." }
+        {
+          "name": "Une nuit en camping sur la glace",
+          "note": "Proposée par certains opérateurs."
+        }
       ],
       "eat": "Les repas du bord.",
       "getAround": "Zodiacs depuis le navire, selon la météo.",
@@ -103,13 +151,25 @@
       "slug": "shetland-du-sud",
       "name": "Les îles Shetland du Sud",
       "nights": "1 à 2 nuits à bord",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "Le premier contact avec l'Antarctique : volcans, manchots à jugulaire et éléphants de mer.",
       "sleep": "À bord.",
       "see": [
-        { "name": "Deception Island", "note": "Une caldeira volcanique où l'on entre en bateau." },
-        { "name": "Half Moon Island", "note": "Colonie de manchots à jugulaire." },
-        { "name": "Les éléphants de mer", "note": "Sur les plages de galets." }
+        {
+          "name": "Deception Island",
+          "note": "Une caldeira volcanique où l'on entre en bateau."
+        },
+        {
+          "name": "Half Moon Island",
+          "note": "Colonie de manchots à jugulaire."
+        },
+        {
+          "name": "Les éléphants de mer",
+          "note": "Sur les plages de galets."
+        }
       ],
       "hidden": [],
       "eat": "Les repas du bord.",
@@ -120,13 +180,24 @@
       "slug": "ushuaia-drake",
       "name": "Ushuaia et le passage de Drake",
       "nights": "1 à 2 nuits à Ushuaia, 2 jours en mer",
-      "for": ["tous"],
+      "for": [
+        "tous"
+      ],
       "summary": "La ville du bout du monde, puis la traversée mythique de la mer la plus agitée du globe.",
       "sleep": "À Ushuaia avant l'embarquement.",
       "see": [
-        { "name": "Le parc national de la Terre de Feu", "note": "Sentiers au bord du canal Beagle." },
-        { "name": "Le canal Beagle", "note": "Lions de mer et cormorans." },
-        { "name": "Les albatros du passage de Drake", "note": "Qui suivent le navire." }
+        {
+          "name": "Le parc national de la Terre de Feu",
+          "note": "Sentiers au bord du canal Beagle."
+        },
+        {
+          "name": "Le canal Beagle",
+          "note": "Lions de mer et cormorans."
+        },
+        {
+          "name": "Les albatros du passage de Drake",
+          "note": "Qui suivent le navire."
+        }
       ],
       "hidden": [],
       "eat": "Le centolla (crabe royal) à Ushuaia.",
@@ -138,29 +209,73 @@
     {
       "days": 12,
       "title": "La péninsule classique",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Ushuaia", "note": "Arrivée et embarquement." },
-        { "days": "Jours 3 et 4", "place": "Passage de Drake", "note": "Conférences à bord." },
-        { "days": "Jours 5 à 9", "place": "Shetland du Sud et péninsule", "note": "Débarquements." },
-        { "days": "Jours 10 à 12", "place": "Retour", "note": "Drake puis Ushuaia." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Ushuaia",
+          "note": "Arrivée et embarquement."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Passage de Drake",
+          "note": "Conférences à bord."
+        },
+        {
+          "days": "Jours 5 à 9",
+          "place": "Shetland du Sud et péninsule",
+          "note": "Débarquements."
+        },
+        {
+          "days": "Jours 10 à 12",
+          "place": "Retour",
+          "note": "Drake puis Ushuaia."
+        }
       ]
     },
     {
       "days": 21,
       "title": "Malouines, Géorgie du Sud et Antarctique",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Ushuaia et Malouines", "note": "Embarquement." },
-        { "days": "Jours 5 à 10", "place": "Géorgie du Sud", "note": "Colonies de manchots royaux." },
-        { "days": "Jours 11 à 18", "place": "Péninsule Antarctique", "note": "Débarquements." },
-        { "days": "Jours 19 à 21", "place": "Retour", "note": "Ushuaia." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Ushuaia et Malouines",
+          "note": "Embarquement."
+        },
+        {
+          "days": "Jours 5 à 10",
+          "place": "Géorgie du Sud",
+          "note": "Colonies de manchots royaux."
+        },
+        {
+          "days": "Jours 11 à 18",
+          "place": "Péninsule Antarctique",
+          "note": "Débarquements."
+        },
+        {
+          "days": "Jours 19 à 21",
+          "place": "Retour",
+          "note": "Ushuaia."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "La croisière d'expédition", "text": "Navires de moins de 500 passagers pour pouvoir débarquer (au plus 100 personnes à terre en même temps)." },
-    { "title": "Le « fly and cruise »", "text": "Vol depuis Punta Arenas vers les Shetland du Sud pour éviter le passage de Drake, plus cher." }
+    {
+      "title": "La croisière d'expédition",
+      "text": "Navires de moins de 500 passagers pour pouvoir débarquer (au plus 100 personnes à terre en même temps)."
+    },
+    {
+      "title": "Le « fly and cruise »",
+      "text": "Vol depuis Punta Arenas vers les Shetland du Sud pour éviter le passage de Drake, plus cher."
+    }
   ],
   "culture": [
     "Le Traité sur l'Antarctique consacre le continent à la paix et à la science.",
@@ -168,9 +283,21 @@
     "Les bottes et vêtements sont désinfectés avant chaque débarquement."
   ],
   "phrases": [
-    { "fr": "Manchot", "local": "Penguin", "say": "penn-gouinn" },
-    { "fr": "Baleine", "local": "Whale", "say": "ouéïl" },
-    { "fr": "Iceberg", "local": "Iceberg", "say": "aïss-beurg" }
+    {
+      "fr": "Manchot",
+      "local": "Penguin",
+      "say": "penn-gouinn"
+    },
+    {
+      "fr": "Baleine",
+      "local": "Whale",
+      "say": "ouéïl"
+    },
+    {
+      "fr": "Iceberg",
+      "local": "Iceberg",
+      "say": "aïss-beurg"
+    }
   ],
   "checklist": [
     "Passeport et formalités pour l'Argentine ou le Chili",
@@ -181,9 +308,21 @@
     "Arrivée à Ushuaia la veille du départ"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour l'Antarctique ?", "a": "Non, aucune formalité de passeport ou de visa n'est requise pour le continent, mais il en faut pour les pays de transit comme l'Argentine ou le Chili." },
-    { "q": "Peut-on aller seul en Antarctique ?", "a": "C'est déconseillé : il n'y a aucun service d'urgence. Un voyageur indépendant doit obtenir une autorisation d'activité préalable (les TAAF pour la France)." },
-    { "q": "Quand partir en Antarctique ?", "a": "De novembre à mars, pendant l'été austral." },
-    { "q": "Combien coûte un voyage en Antarctique ?", "a": "Compte environ 7 000 à 17 500 € par personne pour une croisière de 10 à 12 jours, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour l'Antarctique ?",
+      "a": "Non, aucune formalité de passeport ou de visa n'est requise pour le continent, mais il en faut pour les pays de transit comme l'Argentine ou le Chili."
+    },
+    {
+      "q": "Peut-on aller seul en Antarctique ?",
+      "a": "C'est déconseillé : il n'y a aucun service d'urgence. Un voyageur indépendant doit obtenir une autorisation d'activité préalable (les TAAF pour la France)."
+    },
+    {
+      "q": "Quand partir en Antarctique ?",
+      "a": "De novembre à mars, pendant l'été austral."
+    },
+    {
+      "q": "Combien coûte un voyage en Antarctique ?",
+      "a": "Compte environ 7 000 à 17 500 € par personne pour une croisière de 10 à 12 jours, hors vols. Ces montants sont des estimations à vérifier."
+    }
   ]
 }

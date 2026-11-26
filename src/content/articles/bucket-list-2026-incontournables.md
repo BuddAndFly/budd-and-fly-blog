@@ -41,4 +41,4 @@ destinations: ["perou", "cambodge", "jordanie", "etats-unis", "finlande", "japon
 
 ## Préparer chaque voyage
 
-Pour chacun de ces lieux, le guide du pays détaille les formalités, la sécurité, le budget et un itinéraire autour du site. Télécharge le PDF gratuit pour l'avoir avec toi.
+Pour chacun de ces lieux, le guide du pays détaille les formalités, la sécurité et un itinéraire autour du site. Télécharge le PDF gratuit pour l'avoir avec toi.

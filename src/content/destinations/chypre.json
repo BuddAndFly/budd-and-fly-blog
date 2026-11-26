@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Chypre : quand partir, budget, Paphos, Nicosie, nord",
-    "description": "Préparer un voyage à Chypre : meilleure saison, budget seul ou à deux, Paphos, Nicosie, Larnaca, le Troodos, et ce qu'il faut savoir sur la partie nord."
+    "title": "Guide Chypre : quand partir, Paphos, Nicosie, nord",
+    "description": "Préparer un voyage à Chypre : meilleure saison, Paphos, Nicosie, Larnaca, le Troodos, et ce qu'il faut savoir sur la partie nord."
   },
   "hero": {
     "src": "/images/destinations/chypre/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Hiver doux sur la côte."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols et location de voiture.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou appartement)",
-        "solo": "60 à 120 €",
-        "duo": "40 à 75 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "25 à 40 €",
-        "duo": "25 à 40 €"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "5 à 20 €",
-        "duo": "5 à 15 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "5 à 20 €",
-        "duo": "5 à 20 €"
-      }
-    ],
-    "totalSolo": "95 à 200 €",
-    "totalDuo": "75 à 150 €",
-    "note": "Une voiture de location est souvent indispensable et se partage. Le meze, repas de petits plats partagés, est plus avantageux à plusieurs.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Chypre est dans l'Union européenne : une carte d'identité ou un passeport en cours de validité suffit. Les mêmes documents permettent de séjourner jusqu'à 90 jours dans la partie nord.",
     "points": [
@@ -415,10 +386,6 @@
     {
       "q": "Quand partir à Chypre ?",
       "a": "D'avril à juin et en septembre-octobre : il fait chaud sans excès et la mer est agréable. Juillet et août sont très chauds."
-    },
-    {
-      "q": "Quel budget pour une semaine à Chypre ?",
-      "a": "Compte environ 95 à 200 € par jour seul et 75 à 150 € par personne à deux, hors vols et voiture. Ces montants sont des estimations à vérifier."
     }
   ]
 }

@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Arménie : Erevan, monastères, lac Sevan",
-    "description": "Préparer un voyage en Arménie : sans visa, zones déconseillées, meilleure saison, budget, Erevan, Garni, Gueghard, le lac Sevan, Dilijan. Guide PDF gratuit."
+    "description": "Préparer un voyage en Arménie : sans visa, zones déconseillées, meilleure saison, Erevan, Garni, Gueghard, le lac Sevan, Dilijan. Guide PDF gratuit."
   },
   "hero": null,
   "summary": "L'Arménie se visite de mai à octobre. Pas de visa pour moins de 6 mois, avec un passeport valide pendant le séjour. Les zones frontalières avec l'Azerbaïdjan sont formellement déconseillées et la province du Syunik l'est sauf raison impérative : le circuit Erevan, Garni-Gueghard, Sevan et Dilijan reste en vigilance renforcée.",
@@ -24,40 +24,66 @@
     "flight": "Environ 4 h 30 en vol direct depuis Paris pour Erevan"
   },
   "months": [
-    { "rating": 0, "note": "Froid et neigeux ; ski à Tsaghkadzor." },
-    { "rating": 0, "note": "Comme en janvier." },
-    { "rating": 1, "note": "Fin de l'hiver." },
-    { "rating": 1, "note": "Abricotiers en fleurs." },
-    { "rating": 2, "note": "Printemps, idéal." },
-    { "rating": 2, "note": "Vert et doux en montagne." },
-    { "rating": 1, "note": "Très chaud à Erevan, frais à Sevan ; fête de l'eau Vardavar." },
-    { "rating": 1, "note": "Chaud en plaine." },
-    { "rating": 2, "note": "Vendanges, températures idéales." },
-    { "rating": 2, "note": "Couleurs d'automne et grenades." },
-    { "rating": 1, "note": "Frais." },
-    { "rating": 0, "note": "Hiver." }
+    {
+      "rating": 0,
+      "note": "Froid et neigeux ; ski à Tsaghkadzor."
+    },
+    {
+      "rating": 0,
+      "note": "Comme en janvier."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de l'hiver."
+    },
+    {
+      "rating": 1,
+      "note": "Abricotiers en fleurs."
+    },
+    {
+      "rating": 2,
+      "note": "Printemps, idéal."
+    },
+    {
+      "rating": 2,
+      "note": "Vert et doux en montagne."
+    },
+    {
+      "rating": 1,
+      "note": "Très chaud à Erevan, frais à Sevan ; fête de l'eau Vardavar."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud en plaine."
+    },
+    {
+      "rating": 2,
+      "note": "Vendanges, températures idéales."
+    },
+    {
+      "rating": 2,
+      "note": "Couleurs d'automne et grenades."
+    },
+    {
+      "rating": 1,
+      "note": "Frais."
+    },
+    {
+      "rating": 0,
+      "note": "Hiver."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en drams, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      { "label": "Hébergement (guesthouse ou petit hôtel)", "solo": "15 000 à 40 000 AMD", "duo": "10 000 à 25 000 AMD" },
-      { "label": "Repas", "solo": "8 000 à 18 000 AMD", "duo": "8 000 à 18 000 AMD" },
-      { "label": "Transports (marchroutka, taxi, chauffeur)", "solo": "2 000 à 15 000 AMD", "duo": "1 500 à 10 000 AMD" },
-      { "label": "Visites et entrées", "solo": "1 000 à 5 000 AMD", "duo": "1 000 à 5 000 AMD" }
-    ],
-    "totalSolo": "26 000 à 78 000 AMD",
-    "totalDuo": "20 500 à 58 000 AMD",
-    "note": "Très abordable. Beaucoup de monastères sont gratuits. Un chauffeur à la journée depuis Erevan se partage facilement.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour de moins de 6 mois. Il faut un passeport valide pour toute la durée du séjour.",
     "points": [
       "Un passeport qui expire avant le départ entraîne une amende.",
       "Il est impossible de se rendre en Azerbaïdjan (Haut-Karabagh compris) depuis l'Arménie."
     ],
-    "source": { "label": "France Diplomatie, Arménie, Entrée / séjour (mise à jour du 24 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/armenie/" },
+    "source": {
+      "label": "France Diplomatie, Arménie, Entrée / séjour (mise à jour du 24 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/armenie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -68,7 +94,10 @@
       "Protège-toi des moustiques l'été : la fièvre du Nil occidental circule.",
       "Assurance santé et rapatriement indispensable."
     ],
-    "source": { "label": "France Diplomatie, Arménie, Santé (mise à jour du 24 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/armenie/" },
+    "source": {
+      "label": "France Diplomatie, Arménie, Santé (mise à jour du 24 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/armenie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -80,7 +109,10 @@
       "Toute tentative de rejoindre l'Azerbaïdjan (Haut-Karabagh compris) est formellement déconseillée.",
       "Zone sismique."
     ],
-    "source": { "label": "France Diplomatie, Arménie, Sécurité (mise à jour du 24 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/armenie/" },
+    "source": {
+      "label": "France Diplomatie, Arménie, Sécurité (mise à jour du 24 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/armenie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -88,17 +120,35 @@
       "slug": "erevan",
       "name": "Erevan",
       "nights": "3 nuits",
-      "for": ["tous", "energique"],
+      "for": [
+        "tous",
+        "energique"
+      ],
       "summary": "La « ville rose » de tuf volcanique, face au mont Ararat, vivante et chaleureuse.",
       "sleep": "Dans le centre, autour de la place de la République.",
       "see": [
-        { "name": "La Cascade", "note": "Escaliers géants, art contemporain et vue sur l'Ararat." },
-        { "name": "Le mémorial du génocide de Tsitsernakaberd", "note": "Et son musée." },
-        { "name": "Le Matenadaran", "note": "Une collection de manuscrits anciens." }
+        {
+          "name": "La Cascade",
+          "note": "Escaliers géants, art contemporain et vue sur l'Ararat."
+        },
+        {
+          "name": "Le mémorial du génocide de Tsitsernakaberd",
+          "note": "Et son musée."
+        },
+        {
+          "name": "Le Matenadaran",
+          "note": "Une collection de manuscrits anciens."
+        }
       ],
       "hidden": [
-        { "name": "Le marché Vernissage", "note": "Artisanat et tapis le week-end." },
-        { "name": "Etchmiadzine", "note": "Le siège de l'Église apostolique arménienne, à 20 km." }
+        {
+          "name": "Le marché Vernissage",
+          "note": "Artisanat et tapis le week-end."
+        },
+        {
+          "name": "Etchmiadzine",
+          "note": "Le siège de l'Église apostolique arménienne, à 20 km."
+        }
       ],
       "eat": "Le khorovats (barbecue), le lavash (pain classé à l'Unesco) et le brandy arménien.",
       "getAround": "À pied, métro et taxis par application.",
@@ -108,16 +158,31 @@
       "slug": "garni-gueghard",
       "name": "Garni, Gueghard et Khor Virap",
       "nights": "Excursions depuis Erevan",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "summary": "Un temple gréco-romain, un monastère taillé dans la roche et une vue mythique sur l'Ararat.",
       "sleep": "À Erevan.",
       "see": [
-        { "name": "Le temple de Garni", "note": "Et la « symphonie des pierres », orgues basaltiques." },
-        { "name": "Le monastère de Gueghard", "note": "Creusé dans la falaise, classé à l'Unesco." },
-        { "name": "Khor Virap", "note": "Le monastère face à l'Ararat." }
+        {
+          "name": "Le temple de Garni",
+          "note": "Et la « symphonie des pierres », orgues basaltiques."
+        },
+        {
+          "name": "Le monastère de Gueghard",
+          "note": "Creusé dans la falaise, classé à l'Unesco."
+        },
+        {
+          "name": "Khor Virap",
+          "note": "Le monastère face à l'Ararat."
+        }
       ],
       "hidden": [
-        { "name": "Noravank", "note": "Un monastère dans une gorge de roche rouge." }
+        {
+          "name": "Noravank",
+          "note": "Un monastère dans une gorge de roche rouge."
+        }
       ],
       "eat": "Le lavash cuit au tonir chez l'habitant à Garni.",
       "getAround": "Taxi ou chauffeur à la journée.",
@@ -127,16 +192,31 @@
       "slug": "sevan-dilijan",
       "name": "Le lac Sevan et Dilijan",
       "nights": "3 nuits",
-      "for": ["lent", "explorateur"],
+      "for": [
+        "lent",
+        "explorateur"
+      ],
       "summary": "Un grand lac d'altitude bordé de monastères, puis les forêts de la « Suisse arménienne ».",
       "sleep": "Au bord du lac et à Dilijan.",
       "see": [
-        { "name": "Le monastère de Sevanavank", "note": "Sur une presqu'île au-dessus du lac." },
-        { "name": "Le parc national de Dilijan", "note": "Forêts et sentiers." },
-        { "name": "Les monastères de Haghartsin et Goshavank", "note": "Dans la forêt." }
+        {
+          "name": "Le monastère de Sevanavank",
+          "note": "Sur une presqu'île au-dessus du lac."
+        },
+        {
+          "name": "Le parc national de Dilijan",
+          "note": "Forêts et sentiers."
+        },
+        {
+          "name": "Les monastères de Haghartsin et Goshavank",
+          "note": "Dans la forêt."
+        }
       ],
       "hidden": [
-        { "name": "Haghpat et Sanahin", "note": "Deux monastères classés à l'Unesco dans le nord." }
+        {
+          "name": "Haghpat et Sanahin",
+          "note": "Deux monastères classés à l'Unesco dans le nord."
+        }
       ],
       "eat": "Les écrevisses et le poisson du lac.",
       "getAround": "Marchroutka ou chauffeur.",
@@ -147,28 +227,67 @@
     {
       "days": 7,
       "title": "L'Arménie essentielle",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Erevan", "note": "Et Etchmiadzine." },
-        { "days": "Jour 4", "place": "Garni et Gueghard", "note": "Excursion." },
-        { "days": "Jours 5 à 7", "place": "Sevan et Dilijan", "note": "Retour à Erevan." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Erevan",
+          "note": "Et Etchmiadzine."
+        },
+        {
+          "days": "Jour 4",
+          "place": "Garni et Gueghard",
+          "note": "Excursion."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Sevan et Dilijan",
+          "note": "Retour à Erevan."
+        }
       ]
     },
     {
       "days": 12,
       "title": "Arménie et Géorgie",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Erevan", "note": "Et excursions." },
-        { "days": "Jours 5 à 7", "place": "Sevan, Dilijan, Haghpat", "note": "Vers le nord." },
-        { "days": "Jours 8 à 12", "place": "Tbilissi (Géorgie)", "note": "Par Vanadzor et la frontière de Bagratashen." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Erevan",
+          "note": "Et excursions."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Sevan, Dilijan, Haghpat",
+          "note": "Vers le nord."
+        },
+        {
+          "days": "Jours 8 à 12",
+          "place": "Tbilissi (Géorgie)",
+          "note": "Par Vanadzor et la frontière de Bagratashen."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les marchroutkas", "text": "Minibus bon marché depuis Erevan." },
-    { "title": "Chauffeur à la journée", "text": "Pratique et abordable pour les monastères." },
-    { "title": "Le train", "text": "Erevan-Tbilissi en train de nuit, une alternative à la route M16." }
+    {
+      "title": "Les marchroutkas",
+      "text": "Minibus bon marché depuis Erevan."
+    },
+    {
+      "title": "Chauffeur à la journée",
+      "text": "Pratique et abordable pour les monastères."
+    },
+    {
+      "title": "Le train",
+      "text": "Erevan-Tbilissi en train de nuit, une alternative à la route M16."
+    }
   ],
   "culture": [
     "L'Arménie a été le premier État chrétien (301) : les monastères sont partout.",
@@ -176,9 +295,21 @@
     "Les sujets liés au génocide et au conflit avec l'Azerbaïdjan sont très sensibles."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Բարև", "say": "barév" },
-    { "fr": "Merci", "local": "Շնորհակալություն", "say": "chnorhakaloutsioun" },
-    { "fr": "Merci (familier)", "local": "Մերսի", "say": "merci" }
+    {
+      "fr": "Bonjour",
+      "local": "Բարև",
+      "say": "barév"
+    },
+    {
+      "fr": "Merci",
+      "local": "Շնորհակալություն",
+      "say": "chnorhakaloutsioun"
+    },
+    {
+      "fr": "Merci (familier)",
+      "local": "Մերսի",
+      "say": "merci"
+    }
   ],
   "checklist": [
     "Passeport valide pendant tout le séjour",
@@ -188,9 +319,17 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour l'Arménie ?", "a": "Non pour moins de 6 mois, avec un passeport valide pendant tout le séjour." },
-    { "q": "L'Arménie est-elle sûre ?", "a": "Le pays est en vigilance renforcée. Les frontières avec l'Azerbaïdjan sont formellement déconseillées et le Syunik l'est sauf raison impérative." },
-    { "q": "Quand partir en Arménie ?", "a": "De mai à juin et de septembre à octobre ; l'été est très chaud à Erevan." },
-    { "q": "Quel budget pour une semaine en Arménie ?", "a": "Compte environ 26 000 à 78 000 AMD par jour seul et 20 500 à 58 000 AMD par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour l'Arménie ?",
+      "a": "Non pour moins de 6 mois, avec un passeport valide pendant tout le séjour."
+    },
+    {
+      "q": "L'Arménie est-elle sûre ?",
+      "a": "Le pays est en vigilance renforcée. Les frontières avec l'Azerbaïdjan sont formellement déconseillées et le Syunik l'est sauf raison impérative."
+    },
+    {
+      "q": "Quand partir en Arménie ?",
+      "a": "De mai à juin et de septembre à octobre ; l'été est très chaud à Erevan."
+    }
   ]
 }

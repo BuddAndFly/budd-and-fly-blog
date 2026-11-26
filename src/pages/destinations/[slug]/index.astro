@@ -17,7 +17,7 @@ const g = d.data;
 const draft = isDraft(d);
 const url = new URL(`/destinations/${d.id}/`, SITE.url).href;
 const updated = frDate(g.updatedAt);
-const budgetChecked = frDate(g.budget.checkedAt);
+const budgetChecked = g.budget ? frDate(g.budget.checkedAt) : null;
 const missing = missingChecks(d);
 
 const jsonLd = [
@@ -52,7 +52,7 @@ const jsonLd = [
 
 const essentials = [
   ['Meilleure période', g.essentials.bestPeriod],
-  ['Budget par jour', `${g.budget.totalSolo} seul · ${g.budget.totalDuo} à deux`],
+  ...(g.budget ? [['Budget par jour', `${g.budget.totalSolo} seul · ${g.budget.totalDuo} à deux`]] : []),
   ['Entrée (Français)', g.entry.text.split('.')[0]],
   ['Langue', g.essentials.languages],
   ['Monnaie', g.essentials.currency],
@@ -131,7 +131,7 @@ const essentials = [
         </section>
       )}
 
-      <section id="budget" class="block">
+      {g.budget && <section id="budget" class="block">
         <h2>Budget : seul ou à deux</h2>
         <p class="muted">{g.budget.currencyNote}</p>
         <div class="table-wrap">
@@ -148,7 +148,7 @@ const essentials = [
           {budgetChecked ? <>Prix relevés le {budgetChecked}</> : <span class="verify">Estimation à vérifier</span>}
           {g.budget.sources.length > 0 && <> · Sources : {g.budget.sources.map((s, i) => <>{i > 0 && ', '}<a href={s.url} rel="noopener">{s.label}</a></>)}</>}
         </p>
-      </section>
+      </section>}
 
       <div class="block"><Sourced id="formalites" title="Entrée et formalités" block={g.entry} /></div>
       <div class="block"><Sourced id="sante" title="Santé" block={g.health} /></div>
@@ -213,7 +213,7 @@ const essentials = [
         <span class="kicker kicker--ink">Sommaire</span>
         <a href="#essentiel">L'essentiel</a><a href="#quand-partir">Quand partir</a><a href="#villes">Les villes</a>
         {g.itineraries.length > 0 && <a href="#itineraires">Itinéraires</a>}
-        <a href="#budget">Budget</a><a href="#formalites">Entrée et formalités</a><a href="#sante">Santé</a>{g.safety && <a href="#securite">Sécurité</a>}<a href="#transports">Se déplacer</a><a href="#faq">Questions fréquentes</a>
+        {g.budget && <a href="#budget">Budget</a>}<a href="#formalites">Entrée et formalités</a><a href="#sante">Santé</a>{g.safety && <a href="#securite">Sécurité</a>}<a href="#transports">Se déplacer</a><a href="#faq">Questions fréquentes</a>
       </nav>
 
       <div class="app">

@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Allemagne : Berlin, Munich, Bavière, budget",
-    "description": "Préparer un voyage en Allemagne : papiers, meilleure saison, budget seul ou à deux, Berlin, Munich, la Bavière, Hambourg, la vallée du Rhin. Guide PDF gratuit."
+    "title": "Guide Allemagne : Berlin, Munich, Bavière",
+    "description": "Préparer un voyage en Allemagne : papiers, meilleure saison, Berlin, Munich, la Bavière, Hambourg, la vallée du Rhin. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/allemagne/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Les marchés de Noël : Nuremberg, Cologne, Dresde, Munich."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors trajet aller-retour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou auberge)",
-        "solo": "70 à 140 €",
-        "duo": "45 à 90 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "30 à 60 €",
-        "duo": "30 à 60 €"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "8 à 20 €",
-        "duo": "8 à 20 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "10 à 30 €",
-        "duo": "10 à 30 €"
-      }
-    ],
-    "totalSolo": "118 à 250 €",
-    "totalDuo": "93 à 200 €",
-    "note": "Berlin reste plus abordable que Munich. Les billets de train réservés tôt sur les grandes lignes sont bien moins chers ; un abonnement mensuel national donne accès aux trains régionaux et aux transports urbains.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pays de l'Union européenne : un passeport ou une carte d'identité suffit, sans autre formalité.",
     "points": [
@@ -461,10 +432,6 @@
     {
       "q": "Quand partir en Allemagne ?",
       "a": "De mai à septembre pour les villes et les paysages, et en décembre pour les marchés de Noël."
-    },
-    {
-      "q": "Quel budget pour une semaine en Allemagne ?",
-      "a": "Compte environ 118 à 250 € par jour seul et 93 à 200 € par personne à deux, hors trajet aller-retour. Ces montants sont des estimations à vérifier."
     }
   ]
 }

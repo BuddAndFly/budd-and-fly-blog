@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Grèce : quand partir, budget, îles, itinéraires",
-    "description": "Préparer un voyage en Grèce : meilleure saison, budget seul ou à deux, Athènes, Santorin, Naxos, la Crète, les Météores et itinéraires. Guide PDF gratuit."
+    "title": "Guide Grèce : quand partir, îles, itinéraires",
+    "description": "Préparer un voyage en Grèce : meilleure saison, Athènes, Santorin, Naxos, la Crète, les Météores et itinéraires. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/grece/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Hiver doux à Athènes, îles fermées. Ambiance de Noël dans la capitale."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors trajet depuis la France.",
-    "rows": [
-      {
-        "label": "Hébergement (chambre simple ou studio)",
-        "solo": "50 à 110 €",
-        "duo": "35 à 70 €"
-      },
-      {
-        "label": "Repas (tavernes)",
-        "solo": "25 à 45 €",
-        "duo": "25 à 45 €"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "5 à 15 €",
-        "duo": "5 à 15 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "10 à 25 €",
-        "duo": "10 à 25 €"
-      }
-    ],
-    "totalSolo": "90 à 195 €",
-    "totalDuo": "75 à 155 €",
-    "note": "Santorin et Mykonos coûtent beaucoup plus cher que les autres îles. Les ferries entre îles s'ajoutent : de quelques dizaines d'euros (bateau lent) à beaucoup plus (bateau rapide). Les prix montent fortement en juillet-août.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "La Grèce est dans l'Union européenne : une carte d'identité ou un passeport en cours de validité suffit, sans visa, pour un séjour de moins de trois mois.",
     "points": [
@@ -482,10 +453,6 @@
     {
       "q": "Quand partir en Grèce ?",
       "a": "En mai-juin et en septembre-début octobre : mer agréable, soleil, beaucoup moins de monde et des prix plus bas qu'en juillet-août. De novembre à mars, la plupart des îles sont fermées."
-    },
-    {
-      "q": "Quel budget pour une semaine en Grèce ?",
-      "a": "Compte environ 90 à 195 € par jour seul et 75 à 155 € par personne à deux, hors vols et ferries. Santorin et Mykonos sont beaucoup plus chères. Ces montants sont des estimations à vérifier."
     },
     {
       "q": "Quelles îles choisir pour un premier voyage ?",

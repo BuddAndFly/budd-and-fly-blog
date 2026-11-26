@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Costa Rica : quand partir, budget, parcs, itinéraires",
-    "description": "Préparer un voyage au Costa Rica : saison sèche, entrée, budget seul ou à deux, Arenal, Monteverde, Manuel Antonio, Tortuguero, Osa. Guide PDF gratuit."
+    "title": "Guide Costa Rica : quand partir, parcs, itinéraires",
+    "description": "Préparer un voyage au Costa Rica : saison sèche, entrée, Arenal, Monteverde, Manuel Antonio, Tortuguero, Osa. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/costa-rica/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Retour du temps sec, mais fêtes de fin d'année très chères."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols internationaux. Les prix touristiques sont souvent affichés en dollars.",
-    "rows": [
-      {
-        "label": "Hébergement (lodge ou hôtel simple)",
-        "solo": "50 à 110 $",
-        "duo": "35 à 70 $"
-      },
-      {
-        "label": "Repas",
-        "solo": "20 à 40 $",
-        "duo": "20 à 40 $"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "10 à 30 $",
-        "duo": "10 à 20 $"
-      },
-      {
-        "label": "Parcs nationaux et activités",
-        "solo": "15 à 50 $",
-        "duo": "15 à 50 $"
-      }
-    ],
-    "totalSolo": "95 à 230 $",
-    "totalDuo": "80 à 180 $",
-    "note": "Le Costa Rica est l'un des pays les plus chers d'Amérique centrale. La location d'un 4x4, souvent indispensable, se partage : à deux, la différence est nette. Les « sodas », petits restaurants locaux, servent un plat du jour (casado) bon marché.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour les Français. À l'arrivée, il faut un passeport en parfait état, un billet de sortie du pays, une preuve d'hébergement et des ressources suffisantes.",
     "points": [
@@ -489,10 +460,6 @@
     {
       "q": "Le Costa Rica est-il sûr ?",
       "a": "Le pays est en vigilance renforcée : la criminalité augmente. Les touristes sont surtout victimes de vols sur les plages, dans les bus et les voitures de location. Ne laisse rien sans surveillance et évite les quartiers isolés la nuit."
-    },
-    {
-      "q": "Quel budget pour deux semaines au Costa Rica ?",
-      "a": "Compte environ 95 à 230 $ par jour seul et 80 à 180 $ par personne à deux, hors vols et location de voiture. C'est l'un des pays les plus chers d'Amérique centrale. Ces montants sont des estimations à vérifier."
     }
   ]
 }

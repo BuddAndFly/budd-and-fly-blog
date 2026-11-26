@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Inde : visa, Rajasthan, Kerala, budget",
-    "description": "Préparer un voyage en Inde : visa, e-Arrival Card, zones déconseillées, meilleure saison, budget, Rajasthan, Agra, Varanasi, Kerala, Goa. Guide PDF gratuit."
+    "title": "Guide Inde : visa, Rajasthan, Kerala",
+    "description": "Préparer un voyage en Inde : visa, e-Arrival Card, zones déconseillées, meilleure saison, Rajasthan, Agra, Varanasi, Kerala, Goa. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/inde/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Idéal ; haute saison à Goa."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en roupies, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (guesthouse ou hôtel de charme)",
-        "solo": "2 000 à 6 000 ₹",
-        "duo": "1 200 à 3 500 ₹"
-      },
-      {
-        "label": "Repas",
-        "solo": "600 à 1 800 ₹",
-        "duo": "600 à 1 800 ₹"
-      },
-      {
-        "label": "Transports (train, chauffeur)",
-        "solo": "500 à 3 000 ₹",
-        "duo": "300 à 1 800 ₹"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "300 à 1 500 ₹",
-        "duo": "300 à 1 500 ₹"
-      }
-    ],
-    "totalSolo": "3 400 à 12 300 ₹",
-    "totalDuo": "2 400 à 8 600 ₹",
-    "note": "Les tarifs d'entrée des monuments sont plus élevés pour les étrangers. Une voiture avec chauffeur au Rajasthan se partage et reste abordable.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Un visa est obligatoire, à obtenir avant le départ. Pour l'obtenir, le passeport doit être valable au moins 6 mois après la fin du visa et avoir deux pages vierges.",
     "points": [
@@ -411,10 +382,6 @@
     {
       "q": "Quand partir en Inde ?",
       "a": "D'octobre à mars pour la plupart des régions. De juin à septembre, la mousson ; seul le Ladakh est alors idéal."
-    },
-    {
-      "q": "Quel budget pour deux semaines en Inde ?",
-      "a": "Compte environ 3 400 à 12 300 ₹ par jour seul et 2 400 à 8 600 ₹ par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

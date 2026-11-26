@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Albanie : quand partir, budget, riviera, montagnes",
-    "description": "Préparer un voyage en Albanie : meilleure saison, budget seul ou à deux, Tirana, Berat, Gjirokastër, la riviera, les Alpes albanaises. Guide PDF gratuit."
+    "title": "Guide Albanie : quand partir, riviera, montagnes",
+    "description": "Préparer un voyage en Albanie : meilleure saison, Tirana, Berat, Gjirokastër, la riviera, les Alpes albanaises. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/albanie/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Hiver, illuminations à Tirana."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
-    "rows": [
-      {
-        "label": "Hébergement (guesthouse ou petit hôtel)",
-        "solo": "35 à 70 €",
-        "duo": "22 à 45 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "15 à 30 €",
-        "duo": "15 à 30 €"
-      },
-      {
-        "label": "Transports locaux (furgon, bus)",
-        "solo": "3 à 10 €",
-        "duo": "3 à 10 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "3 à 10 €",
-        "duo": "3 à 10 €"
-      }
-    ],
-    "totalSolo": "56 à 120 €",
-    "totalDuo": "43 à 95 €",
-    "note": "L'Albanie reste l'un des pays les moins chers d'Europe, mais les prix montent vite sur la riviera en été. Les guesthouses familiales des montagnes incluent souvent le dîner.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour de 90 jours maximum. Une carte d'identité ou un passeport suffit, valable au moins 3 mois après la date de retour.",
     "points": [
@@ -473,10 +444,6 @@
     {
       "q": "L'Albanie est-elle sûre ?",
       "a": "Oui, tout le pays est en vigilance normale. Le vrai danger est la route : conduite dangereuse et routes de montagne difficiles de nuit."
-    },
-    {
-      "q": "Quel budget pour une semaine en Albanie ?",
-      "a": "Compte environ 56 à 120 € par jour seul et 43 à 95 € par personne à deux, hors vols. C'est l'un des pays les moins chers d'Europe, sauf sur la riviera en août. Ces montants sont des estimations à vérifier."
     }
   ]
 }

@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Uruguay : Montevideo, Colonia, Cabo Polonio",
-    "description": "Préparer un voyage en Uruguay : formalités, sécurité, meilleure saison, budget, Montevideo, Colonia del Sacramento, Punta del Este, Cabo Polonio. PDF gratuit."
+    "description": "Préparer un voyage en Uruguay : formalités, sécurité, meilleure saison, Montevideo, Colonia del Sacramento, Punta del Este, Cabo Polonio. PDF gratuit."
   },
   "hero": null,
   "summary": "L'Uruguay se visite de novembre à avril, pendant l'été austral, idéal pour la côte atlantique. Pas de visa pour 90 jours : un passeport valide suffit. Le pays est calme ; seuls les départements de Montevideo et Canelones sont en vigilance renforcée. Colonia coloniale, Montevideo, les plages de Punta del Este et le village hors du temps de Cabo Polonio se combinent facilement avec Buenos Aires.",
@@ -24,40 +24,66 @@
     "flight": "Environ 14 h depuis Paris pour Montevideo, avec une escale (souvent via Buenos Aires ou Madrid)"
   },
   "months": [
-    { "rating": 2, "note": "Plein été, plages animées." },
-    { "rating": 2, "note": "Carnaval, le plus long du monde." },
-    { "rating": 2, "note": "Fin de l'été, vendanges." },
-    { "rating": 1, "note": "Automne doux, calme." },
-    { "rating": 1, "note": "Frais." },
-    { "rating": 0, "note": "Hiver, humide et venteux." },
-    { "rating": 0, "note": "Hiver." },
-    { "rating": 0, "note": "Hiver ; baleines à partir de juillet sur la côte de Rocha." },
-    { "rating": 1, "note": "Printemps, baleines franches." },
-    { "rating": 1, "note": "Baleines, doux." },
-    { "rating": 2, "note": "Début de la belle saison." },
-    { "rating": 2, "note": "Été, fêtes." }
+    {
+      "rating": 2,
+      "note": "Plein été, plages animées."
+    },
+    {
+      "rating": 2,
+      "note": "Carnaval, le plus long du monde."
+    },
+    {
+      "rating": 2,
+      "note": "Fin de l'été, vendanges."
+    },
+    {
+      "rating": 1,
+      "note": "Automne doux, calme."
+    },
+    {
+      "rating": 1,
+      "note": "Frais."
+    },
+    {
+      "rating": 0,
+      "note": "Hiver, humide et venteux."
+    },
+    {
+      "rating": 0,
+      "note": "Hiver."
+    },
+    {
+      "rating": 0,
+      "note": "Hiver ; baleines à partir de juillet sur la côte de Rocha."
+    },
+    {
+      "rating": 1,
+      "note": "Printemps, baleines franches."
+    },
+    {
+      "rating": 1,
+      "note": "Baleines, doux."
+    },
+    {
+      "rating": 2,
+      "note": "Début de la belle saison."
+    },
+    {
+      "rating": 2,
+      "note": "Été, fêtes."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols.",
-    "rows": [
-      { "label": "Hébergement (posada ou hôtel simple)", "solo": "50 à 130 $", "duo": "32 à 80 $" },
-      { "label": "Repas", "solo": "25 à 55 $", "duo": "25 à 55 $" },
-      { "label": "Transports (bus, voiture)", "solo": "10 à 40 $", "duo": "8 à 30 $" },
-      { "label": "Visites et activités", "solo": "5 à 30 $", "duo": "5 à 30 $" }
-    ],
-    "totalSolo": "90 à 255 $",
-    "totalDuo": "70 à 195 $",
-    "note": "L'Uruguay est l'un des pays les plus chers d'Amérique du Sud. Punta del Este flambe en janvier ; les bus sont confortables et abordables.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour de 90 jours maximum : un passeport en cours de validité suffit.",
     "points": [
       "Prolongation possible jusqu'à 180 jours auprès de la direction nationale des migrations.",
       "Les Français de moins de 30 ans peuvent demander un visa vacances-travail."
     ],
-    "source": { "label": "France Diplomatie, Uruguay, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/uruguay/" },
+    "source": {
+      "label": "France Diplomatie, Uruguay, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/uruguay/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -67,7 +93,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Assurance santé et rapatriement indispensable."
     ],
-    "source": { "label": "France Diplomatie, Uruguay, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/uruguay/" },
+    "source": {
+      "label": "France Diplomatie, Uruguay, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/uruguay/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -77,7 +106,10 @@
       "Au Cerro, ne t'éloigne pas de l'accès principal de la forteresse, de jour.",
       "Prudence le soir dans le port, la vieille ville et le centre, notamment en arrivant en bateau."
     ],
-    "source": { "label": "France Diplomatie, Uruguay, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/uruguay/" },
+    "source": {
+      "label": "France Diplomatie, Uruguay, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/uruguay/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -85,16 +117,31 @@
       "slug": "montevideo",
       "name": "Montevideo",
       "nights": "2 nuits",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "summary": "Une capitale tranquille le long d'une immense rambla, entre Art déco et parrilla.",
       "sleep": "À Pocitos ou Punta Carretas.",
       "see": [
-        { "name": "La Rambla", "note": "22 km de promenade en bord de Rio de la Plata." },
-        { "name": "Le Mercado del Puerto", "note": "Les grills de la vieille ville, à midi." },
-        { "name": "Le palais Salvo", "note": "Un gratte-ciel Art déco emblématique." }
+        {
+          "name": "La Rambla",
+          "note": "22 km de promenade en bord de Rio de la Plata."
+        },
+        {
+          "name": "Le Mercado del Puerto",
+          "note": "Les grills de la vieille ville, à midi."
+        },
+        {
+          "name": "Le palais Salvo",
+          "note": "Un gratte-ciel Art déco emblématique."
+        }
       ],
       "hidden": [
-        { "name": "Le marché de Tristán Narvaja", "note": "La grande brocante du dimanche." }
+        {
+          "name": "Le marché de Tristán Narvaja",
+          "note": "La grande brocante du dimanche."
+        }
       ],
       "eat": "Le chivito (sandwich géant) et l'asado.",
       "getAround": "Bus et VTC.",
@@ -104,16 +151,31 @@
       "slug": "colonia",
       "name": "Colonia del Sacramento",
       "nights": "1 à 2 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Un quartier historique portugais et espagnol pavé, classé à l'Unesco, face à Buenos Aires.",
       "sleep": "Dans le barrio histórico.",
       "see": [
-        { "name": "La Calle de los Suspiros", "note": "La ruelle la plus photographiée." },
-        { "name": "Le phare", "note": "Vue sur la vieille ville et le fleuve." },
-        { "name": "Le coucher du soleil sur le Rio de la Plata", "note": "Depuis les remparts." }
+        {
+          "name": "La Calle de los Suspiros",
+          "note": "La ruelle la plus photographiée."
+        },
+        {
+          "name": "Le phare",
+          "note": "Vue sur la vieille ville et le fleuve."
+        },
+        {
+          "name": "Le coucher du soleil sur le Rio de la Plata",
+          "note": "Depuis les remparts."
+        }
       ],
       "hidden": [
-        { "name": "Les caves de Carmelo", "note": "Le vin tannat, à 1 h." }
+        {
+          "name": "Les caves de Carmelo",
+          "note": "Le vin tannat, à 1 h."
+        }
       ],
       "eat": "Le dulce de leche et le vin tannat.",
       "getAround": "Ferry depuis Buenos Aires ; bus depuis Montevideo (2 h 30).",
@@ -123,16 +185,31 @@
       "slug": "cote-rocha",
       "name": "La côte de Rocha (Cabo Polonio, Punta del Diablo)",
       "nights": "4 nuits",
-      "for": ["lent", "explorateur"],
+      "for": [
+        "lent",
+        "explorateur"
+      ],
       "summary": "Des villages de pêcheurs, des dunes et un hameau sans électricité ni route, au milieu des lions de mer.",
       "sleep": "À Cabo Polonio, José Ignacio ou Punta del Diablo.",
       "see": [
-        { "name": "Cabo Polonio", "note": "Accessible en camion tout-terrain à travers les dunes." },
-        { "name": "Les lions de mer", "note": "Une grande colonie autour du phare." },
-        { "name": "Punta del Este", "note": "La station chic et la sculpture de la main dans le sable." }
+        {
+          "name": "Cabo Polonio",
+          "note": "Accessible en camion tout-terrain à travers les dunes."
+        },
+        {
+          "name": "Les lions de mer",
+          "note": "Une grande colonie autour du phare."
+        },
+        {
+          "name": "Punta del Este",
+          "note": "La station chic et la sculpture de la main dans le sable."
+        }
       ],
       "hidden": [
-        { "name": "Le parc Santa Teresa", "note": "Une forteresse et des plages sauvages." }
+        {
+          "name": "Le parc Santa Teresa",
+          "note": "Une forteresse et des plages sauvages."
+        }
       ],
       "eat": "Le poisson frais et les buñuelos d'algues.",
       "getAround": "Bus le long de la côte, ou voiture.",
@@ -143,27 +220,61 @@
     {
       "days": 8,
       "title": "Colonia, Montevideo et la côte",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Colonia", "note": "En ferry depuis Buenos Aires." },
-        { "days": "Jours 3 et 4", "place": "Montevideo", "note": "En bus." },
-        { "days": "Jours 5 à 8", "place": "Côte de Rocha", "note": "Retour par Montevideo." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Colonia",
+          "note": "En ferry depuis Buenos Aires."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Montevideo",
+          "note": "En bus."
+        },
+        {
+          "days": "Jours 5 à 8",
+          "place": "Côte de Rocha",
+          "note": "Retour par Montevideo."
+        }
       ]
     },
     {
       "days": 4,
       "title": "Escapade depuis Buenos Aires",
-      "for": ["energique"],
+      "for": [
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Colonia", "note": "Ferry." },
-        { "days": "Jours 3 et 4", "place": "Montevideo", "note": "Retour en ferry depuis Montevideo." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Colonia",
+          "note": "Ferry."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Montevideo",
+          "note": "Retour en ferry depuis Montevideo."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les bus", "text": "Confortables et fréquents dans tout le pays." },
-    { "title": "Les ferries", "text": "Buenos Aires vers Colonia et Montevideo." },
-    { "title": "En voiture", "text": "Routes calmes, parfait pour la côte." }
+    {
+      "title": "Les bus",
+      "text": "Confortables et fréquents dans tout le pays."
+    },
+    {
+      "title": "Les ferries",
+      "text": "Buenos Aires vers Colonia et Montevideo."
+    },
+    {
+      "title": "En voiture",
+      "text": "Routes calmes, parfait pour la côte."
+    }
   ],
   "culture": [
     "Le maté est partout : les Uruguayens se promènent avec leur thermos.",
@@ -171,9 +282,21 @@
     "Le candombe, musique de tambours afro-uruguayenne, résonne le dimanche à Montevideo."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Buen día", "say": "bouén dia" },
-    { "fr": "Merci", "local": "Gracias", "say": "grassias" },
-    { "fr": "D'accord", "local": "Ta", "say": "ta" }
+    {
+      "fr": "Bonjour",
+      "local": "Buen día",
+      "say": "bouén dia"
+    },
+    {
+      "fr": "Merci",
+      "local": "Gracias",
+      "say": "grassias"
+    },
+    {
+      "fr": "D'accord",
+      "local": "Ta",
+      "say": "ta"
+    }
   ],
   "checklist": [
     "Passeport valide",
@@ -182,9 +305,17 @@
     "Assurance santé et rapatriement"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour l'Uruguay ?", "a": "Non pour 90 jours : un passeport valide suffit." },
-    { "q": "L'Uruguay est-il sûr ?", "a": "Oui, le pays est en vigilance normale, sauf Montevideo et Canelones en vigilance renforcée : évite certains quartiers et prends un VTC le soir." },
-    { "q": "Quand partir en Uruguay ?", "a": "De novembre à avril pour la côte ; de juillet à novembre pour les baleines." },
-    { "q": "Quel budget pour une semaine en Uruguay ?", "a": "Compte environ 90 à 255 $ par jour seul et 70 à 195 $ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour l'Uruguay ?",
+      "a": "Non pour 90 jours : un passeport valide suffit."
+    },
+    {
+      "q": "L'Uruguay est-il sûr ?",
+      "a": "Oui, le pays est en vigilance normale, sauf Montevideo et Canelones en vigilance renforcée : évite certains quartiers et prends un VTC le soir."
+    },
+    {
+      "q": "Quand partir en Uruguay ?",
+      "a": "De novembre à avril pour la côte ; de juillet à novembre pour les baleines."
+    }
   ]
 }

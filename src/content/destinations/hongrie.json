@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Hongrie : quand partir, budget, Budapest, Balaton",
-    "description": "Préparer un voyage en Hongrie : meilleure saison, budget seul ou à deux, Budapest et ses bains, le lac Balaton, Eger, Pécs. Guide PDF gratuit."
+    "title": "Guide Hongrie : quand partir, Budapest, Balaton",
+    "description": "Préparer un voyage en Hongrie : meilleure saison, Budapest et ses bains, le lac Balaton, Eger, Pécs. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/hongrie/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Marchés de Noël à Budapest, parmi les plus réputés d'Europe."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en forints, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou appartement)",
-        "solo": "25 000 à 50 000 Ft",
-        "duo": "16 000 à 32 000 Ft"
-      },
-      {
-        "label": "Repas",
-        "solo": "10 000 à 20 000 Ft",
-        "duo": "10 000 à 20 000 Ft"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "1 500 à 4 000 Ft",
-        "duo": "1 500 à 4 000 Ft"
-      },
-      {
-        "label": "Visites et bains",
-        "solo": "3 000 à 12 000 Ft",
-        "duo": "3 000 à 12 000 Ft"
-      }
-    ],
-    "totalSolo": "39 500 à 86 000 Ft",
-    "totalDuo": "30 500 à 68 000 Ft",
-    "note": "Les grands bains thermaux (Széchenyi, Gellért) sont parmi les postes les plus chers d'une journée. La carte bancaire est acceptée presque partout. Taxe de séjour par nuit à Budapest.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "La Hongrie est dans l'Union européenne : une carte d'identité ou un passeport en cours de validité suffit pour moins de trois mois.",
     "points": [
@@ -414,10 +385,6 @@
     {
       "q": "Quand partir à Budapest ?",
       "a": "D'avril à juin et en septembre-octobre pour la douceur, en décembre pour les marchés de Noël. L'été est chaud mais animé."
-    },
-    {
-      "q": "Quel budget pour un week-end à Budapest ?",
-      "a": "Compte environ 39 500 à 86 000 Ft par jour seul et 30 500 à 68 000 Ft par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     },
     {
       "q": "Quel bain thermal choisir à Budapest ?",

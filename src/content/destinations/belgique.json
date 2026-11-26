@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Belgique : Bruxelles, Bruges, Gand, budget",
-    "description": "Préparer un voyage en Belgique : papiers (attention aux cartes prolongées), meilleure saison, budget, Bruxelles, Bruges, Gand, Anvers. Guide PDF gratuit."
+    "title": "Guide Belgique : Bruxelles, Bruges, Gand",
+    "description": "Préparer un voyage en Belgique : papiers (attention aux cartes prolongées), meilleure saison, Bruxelles, Bruges, Gand, Anvers. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/belgique/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Marchés de Noël et Plaisirs d'hiver à Bruxelles."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors trajet aller-retour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou auberge)",
-        "solo": "75 à 150 €",
-        "duo": "50 à 100 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "30 à 60 €",
-        "duo": "30 à 60 €"
-      },
-      {
-        "label": "Transports (train, tram)",
-        "solo": "8 à 25 €",
-        "duo": "8 à 25 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "10 à 30 €",
-        "duo": "10 à 30 €"
-      }
-    ],
-    "totalSolo": "123 à 265 €",
-    "totalDuo": "98 à 215 €",
-    "note": "Bruges est la plus chère pour dormir ; Gand est une base plus abordable. Les trains belges proposent des billets à prix réduit le week-end.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pays de l'Union européenne : il suffit d'une carte d'identité ou d'un passeport en cours de validité.",
     "points": [
@@ -396,10 +367,6 @@
     {
       "q": "Bruges ou Gand ?",
       "a": "Bruges pour le charme intact, Gand pour une ville vivante et moins touristique. Elles sont à 25 minutes de train : fais les deux."
-    },
-    {
-      "q": "Quel budget pour une semaine en Belgique ?",
-      "a": "Compte environ 123 à 265 € par jour seul et 98 à 215 € par personne à deux, hors trajet aller-retour. Ces montants sont des estimations à vérifier."
     }
   ]
 }

@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Oman : sécurité, visa, quand partir, road trip",
-    "description": "Préparer un voyage à Oman : visa gratuit 14 jours, zones déconseillées, meilleure saison, budget, Mascate, Nizwa, le désert, les wadis. Guide PDF gratuit."
+    "description": "Préparer un voyage à Oman : visa gratuit 14 jours, zones déconseillées, meilleure saison, Mascate, Nizwa, le désert, les wadis. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/oman/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Doux et ensoleillé, haute saison."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en rials omanais, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou camp)",
-        "solo": "30 à 60 OMR",
-        "duo": "20 à 40 OMR"
-      },
-      {
-        "label": "Repas",
-        "solo": "8 à 20 OMR",
-        "duo": "8 à 20 OMR"
-      },
-      {
-        "label": "Transports (voiture, carburant)",
-        "solo": "10 à 25 OMR",
-        "duo": "5 à 15 OMR"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "2 à 10 OMR",
-        "duo": "2 à 10 OMR"
-      }
-    ],
-    "totalSolo": "50 à 115 OMR",
-    "totalDuo": "35 à 85 OMR",
-    "note": "Une voiture, souvent un 4x4 pour le désert et la montagne, est indispensable et se partage : à deux, la différence est importante. Le carburant est bon marché.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Un visa gratuit de 14 jours est accordé à l'arrivée, par un simple tampon. Le passeport doit être valable 6 mois après la date de sortie.",
     "points": [
@@ -428,10 +399,6 @@
     {
       "q": "Quand partir à Oman ?",
       "a": "D'octobre à mars. De mai à septembre, la chaleur est extrême dans la plupart du pays."
-    },
-    {
-      "q": "Quel budget pour une semaine à Oman ?",
-      "a": "Compte environ 50 à 115 OMR par jour seul et 35 à 85 OMR par personne à deux, hors vols. La voiture représente une grosse part du budget et se partage. Ces montants sont des estimations à vérifier."
     }
   ]
 }

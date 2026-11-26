@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Namibie : visa, Sossusvlei, Etosha, road trip",
-    "description": "Préparer un voyage en Namibie : visa obligatoire depuis 2025, sécurité, meilleure saison, budget, Sossusvlei, Swakopmund, Etosha. Guide PDF gratuit."
+    "description": "Préparer un voyage en Namibie : visa obligatoire depuis 2025, sécurité, meilleure saison, Sossusvlei, Swakopmund, Etosha. Guide PDF gratuit."
   },
   "hero": null,
   "summary": "La Namibie se visite de mai à octobre, en saison sèche, idéale pour Etosha. Depuis le 1er avril 2025, les Français ont besoin d'un visa, obtenu en ligne ou à l'arrivée. Le pays se parcourt en 4x4 sur de longues pistes : dunes rouges de Sossusvlei, côte des Squelettes et animaux d'Etosha. L'ambassade a des capacités d'aide limitées : prévois une bonne assurance.",
@@ -24,40 +24,66 @@
     "flight": "Environ 11 h depuis Paris pour Windhoek, avec une escale"
   },
   "months": [
-    { "rating": 1, "note": "Chaud, orages en fin de journée." },
-    { "rating": 1, "note": "Pluies au nord, paysages verts." },
-    { "rating": 1, "note": "Fin des pluies." },
-    { "rating": 2, "note": "Doux, désert verdoyant." },
-    { "rating": 2, "note": "Début de la saison sèche." },
-    { "rating": 2, "note": "Nuits froides, ciel limpide." },
-    { "rating": 2, "note": "Excellent pour Etosha, nuits glaciales dans le désert." },
-    { "rating": 2, "note": "Haute saison." },
-    { "rating": 2, "note": "Animaux regroupés aux points d'eau." },
-    { "rating": 2, "note": "Chaud, fin de la saison sèche." },
-    { "rating": 1, "note": "Très chaud." },
-    { "rating": 1, "note": "Chaud, premières pluies." }
+    {
+      "rating": 1,
+      "note": "Chaud, orages en fin de journée."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies au nord, paysages verts."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Doux, désert verdoyant."
+    },
+    {
+      "rating": 2,
+      "note": "Début de la saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Nuits froides, ciel limpide."
+    },
+    {
+      "rating": 2,
+      "note": "Excellent pour Etosha, nuits glaciales dans le désert."
+    },
+    {
+      "rating": 2,
+      "note": "Haute saison."
+    },
+    {
+      "rating": 2,
+      "note": "Animaux regroupés aux points d'eau."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud, fin de la saison sèche."
+    },
+    {
+      "rating": 1,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud, premières pluies."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en dollars namibiens, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      { "label": "Hébergement (lodge, guesthouse ou camping)", "solo": "900 à 2 500 N$", "duo": "550 à 1 500 N$" },
-      { "label": "Repas", "solo": "300 à 600 N$", "duo": "300 à 600 N$" },
-      { "label": "4x4 et essence", "solo": "1 500 à 2 800 N$", "duo": "750 à 1 400 N$" },
-      { "label": "Parcs et activités", "solo": "150 à 600 N$", "duo": "150 à 600 N$" }
-    ],
-    "totalSolo": "2 850 à 6 500 N$",
-    "totalDuo": "1 750 à 4 100 N$",
-    "note": "La location du 4x4 (souvent avec tente de toit) est le gros poste : à deux ou plus, le budget baisse beaucoup. Les lodges proches des parcs se réservent très tôt.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Depuis le 1er avril 2025, un visa est obligatoire pour un court séjour. Il s'obtient à l'arrivée aux aéroports de Windhoek et Walvis Bay et à certains postes-frontières, ou en ligne sur le site officiel.",
     "points": [
       "En ligne, choisis l'option « visa on arrival » (et non « holiday visa »).",
       "Les postes-frontières secondaires, mal couverts par le réseau, ne délivrent pas toujours le visa à l'arrivée."
     ],
-    "source": { "label": "France Diplomatie, Namibie, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/namibie/" },
+    "source": {
+      "label": "France Diplomatie, Namibie, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/namibie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -67,7 +93,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Assurance avec évacuation sanitaire indispensable : les distances sont immenses."
     ],
-    "source": { "label": "France Diplomatie, Namibie, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/namibie/" },
+    "source": {
+      "label": "France Diplomatie, Namibie, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/namibie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -78,7 +107,10 @@
       "Le camping sauvage est interdit (isolement, animaux sauvages, braconniers).",
       "En cas de perte de passeport, l'ambassade ne délivre qu'un laissez-passer pour la France."
     ],
-    "source": { "label": "France Diplomatie, Namibie, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/namibie/" },
+    "source": {
+      "label": "France Diplomatie, Namibie, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/namibie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -86,16 +118,31 @@
       "slug": "sossusvlei",
       "name": "Sossusvlei",
       "nights": "2 nuits",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "summary": "Parmi les plus hautes dunes du monde, rouges au lever du soleil, et les arbres morts de Deadvlei.",
       "sleep": "Dans le parc (Sesriem) pour entrer avant le lever du soleil.",
       "see": [
-        { "name": "La dune 45", "note": "Au lever du soleil." },
-        { "name": "Deadvlei", "note": "Des acacias morts sur un sol blanc." },
-        { "name": "Le canyon de Sesriem", "note": "Une gorge étroite." }
+        {
+          "name": "La dune 45",
+          "note": "Au lever du soleil."
+        },
+        {
+          "name": "Deadvlei",
+          "note": "Des acacias morts sur un sol blanc."
+        },
+        {
+          "name": "Le canyon de Sesriem",
+          "note": "Une gorge étroite."
+        }
       ],
       "hidden": [
-        { "name": "Big Daddy", "note": "Une des plus hautes dunes, ascension exigeante." }
+        {
+          "name": "Big Daddy",
+          "note": "Une des plus hautes dunes, ascension exigeante."
+        }
       ],
       "eat": "Le gibier grillé (oryx, koudou) au lodge.",
       "getAround": "4x4 ; navette pour les derniers kilomètres de sable.",
@@ -105,16 +152,31 @@
       "slug": "swakopmund",
       "name": "Swakopmund et la côte",
       "nights": "2 nuits",
-      "for": ["energique", "lent"],
+      "for": [
+        "energique",
+        "lent"
+      ],
       "summary": "Une ville coloniale allemande entre désert et océan, base des activités de la côte.",
       "sleep": "En ville.",
       "see": [
-        { "name": "Sandwich Harbour", "note": "Les dunes plongeant dans l'océan, en 4x4 guidé." },
-        { "name": "Les otaries de Cape Cross", "note": "Une immense colonie." },
-        { "name": "Les flamants de Walvis Bay", "note": "Dans la lagune." }
+        {
+          "name": "Sandwich Harbour",
+          "note": "Les dunes plongeant dans l'océan, en 4x4 guidé."
+        },
+        {
+          "name": "Les otaries de Cape Cross",
+          "note": "Une immense colonie."
+        },
+        {
+          "name": "Les flamants de Walvis Bay",
+          "note": "Dans la lagune."
+        }
       ],
       "hidden": [
-        { "name": "La côte des Squelettes", "note": "Épaves et brumes, plus au nord." }
+        {
+          "name": "La côte des Squelettes",
+          "note": "Épaves et brumes, plus au nord."
+        }
       ],
       "eat": "Les huîtres de Walvis Bay et les pâtisseries allemandes.",
       "getAround": "4x4 ; excursions guidées pour les dunes côtières.",
@@ -124,13 +186,25 @@
       "slug": "damaraland",
       "name": "Le Damaraland",
       "nights": "2 nuits",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "Des paysages minéraux, des gravures rupestres et des éléphants adaptés au désert.",
       "sleep": "En lodge ou camping aménagé.",
       "see": [
-        { "name": "Twyfelfontein", "note": "Gravures rupestres classées à l'Unesco." },
-        { "name": "Le Spitzkoppe", "note": "Des inselbergs de granit." },
-        { "name": "Les éléphants du désert", "note": "Avec un guide local." }
+        {
+          "name": "Twyfelfontein",
+          "note": "Gravures rupestres classées à l'Unesco."
+        },
+        {
+          "name": "Le Spitzkoppe",
+          "note": "Des inselbergs de granit."
+        },
+        {
+          "name": "Les éléphants du désert",
+          "note": "Avec un guide local."
+        }
       ],
       "hidden": [],
       "eat": "Les braais (barbecues) au camping.",
@@ -141,13 +215,25 @@
       "slug": "etosha",
       "name": "Le parc d'Etosha",
       "nights": "3 nuits",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "summary": "Un immense pan de sel blanc et des points d'eau où défilent éléphants, lions et rhinocéros.",
       "sleep": "Dans les camps du parc (Okaukuejo, Halali, Namutoni).",
       "see": [
-        { "name": "Le point d'eau éclairé d'Okaukuejo", "note": "Rhinocéros la nuit." },
-        { "name": "Le pan d'Etosha", "note": "Un désert de sel à perte de vue." },
-        { "name": "Le safari en voiture", "note": "À ton rythme entre les points d'eau." }
+        {
+          "name": "Le point d'eau éclairé d'Okaukuejo",
+          "note": "Rhinocéros la nuit."
+        },
+        {
+          "name": "Le pan d'Etosha",
+          "note": "Un désert de sel à perte de vue."
+        },
+        {
+          "name": "Le safari en voiture",
+          "note": "À ton rythme entre les points d'eau."
+        }
       ],
       "hidden": [],
       "eat": "Les repas des camps.",
@@ -159,29 +245,72 @@
     {
       "days": 14,
       "title": "La grande boucle",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Windhoek", "note": "Arrivée et 4x4." },
-        { "days": "Jours 3 et 4", "place": "Sossusvlei", "note": "Dunes." },
-        { "days": "Jours 5 à 7", "place": "Swakopmund", "note": "Côte." },
-        { "days": "Jours 8 et 9", "place": "Damaraland", "note": "Gravures et éléphants." },
-        { "days": "Jours 10 à 14", "place": "Etosha", "note": "Retour vers Windhoek." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Windhoek",
+          "note": "Arrivée et 4x4."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Sossusvlei",
+          "note": "Dunes."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Swakopmund",
+          "note": "Côte."
+        },
+        {
+          "days": "Jours 8 et 9",
+          "place": "Damaraland",
+          "note": "Gravures et éléphants."
+        },
+        {
+          "days": "Jours 10 à 14",
+          "place": "Etosha",
+          "note": "Retour vers Windhoek."
+        }
       ]
     },
     {
       "days": 8,
       "title": "Désert et océan",
-      "for": ["energique"],
+      "for": [
+        "energique"
+      ],
       "steps": [
-        { "days": "Jour 1", "place": "Windhoek", "note": "Arrivée." },
-        { "days": "Jours 2 à 4", "place": "Sossusvlei", "note": "Dunes." },
-        { "days": "Jours 5 à 8", "place": "Swakopmund", "note": "Retour par Windhoek." }
+        {
+          "days": "Jour 1",
+          "place": "Windhoek",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 2 à 4",
+          "place": "Sossusvlei",
+          "note": "Dunes."
+        },
+        {
+          "days": "Jours 5 à 8",
+          "place": "Swakopmund",
+          "note": "Retour par Windhoek."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "En 4x4", "text": "Indispensable. Pistes de gravier : roule à vitesse modérée, crevaisons fréquentes." },
-    { "title": "Vols légers", "text": "Des vols privés relient lodges et parcs, à prix élevé." }
+    {
+      "title": "En 4x4",
+      "text": "Indispensable. Pistes de gravier : roule à vitesse modérée, crevaisons fréquentes."
+    },
+    {
+      "title": "Vols légers",
+      "text": "Des vols privés relient lodges et parcs, à prix élevé."
+    }
   ],
   "culture": [
     "Le pays est très peu peuplé : respecte les communautés himba et herero en passant par des visites encadrées.",
@@ -189,9 +318,21 @@
     "Le rand sud-africain est accepté partout, mais le dollar namibien ne l'est pas en Afrique du Sud."
   ],
   "phrases": [
-    { "fr": "Bonjour (afrikaans)", "local": "Goeie dag", "say": "khouyé dakh" },
-    { "fr": "Merci (afrikaans)", "local": "Dankie", "say": "danki" },
-    { "fr": "Bonjour (anglais)", "local": "Hello", "say": "hello" }
+    {
+      "fr": "Bonjour (afrikaans)",
+      "local": "Goeie dag",
+      "say": "khouyé dakh"
+    },
+    {
+      "fr": "Merci (afrikaans)",
+      "local": "Dankie",
+      "say": "danki"
+    },
+    {
+      "fr": "Bonjour (anglais)",
+      "local": "Hello",
+      "say": "hello"
+    }
   ],
   "checklist": [
     "Passeport valide et visa (en ligne ou à l'arrivée)",
@@ -202,9 +343,17 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour la Namibie ?", "a": "Oui, depuis le 1er avril 2025. Il s'obtient en ligne (option « visa on arrival ») ou à l'arrivée aux aéroports de Windhoek et Walvis Bay." },
-    { "q": "La Namibie est-elle sûre ?", "a": "Le pays ne présente pas de zone déconseillée, mais l'ambassade a des capacités d'aide limitées. Les principaux risques sont routiers et liés à l'isolement." },
-    { "q": "Quand partir en Namibie ?", "a": "De mai à octobre, en saison sèche, idéale pour Etosha." },
-    { "q": "Quel budget pour deux semaines en Namibie ?", "a": "Compte environ 2 850 à 6 500 N$ par jour seul et 1 750 à 4 100 N$ par personne à deux, 4x4 compris, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour la Namibie ?",
+      "a": "Oui, depuis le 1er avril 2025. Il s'obtient en ligne (option « visa on arrival ») ou à l'arrivée aux aéroports de Windhoek et Walvis Bay."
+    },
+    {
+      "q": "La Namibie est-elle sûre ?",
+      "a": "Le pays ne présente pas de zone déconseillée, mais l'ambassade a des capacités d'aide limitées. Les principaux risques sont routiers et liés à l'isolement."
+    },
+    {
+      "q": "Quand partir en Namibie ?",
+      "a": "De mai à octobre, en saison sèche, idéale pour Etosha."
+    }
   ]
 }

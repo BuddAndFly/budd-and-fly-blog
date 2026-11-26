@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Cap-Vert : formalités, quand partir, budget, îles",
-    "description": "Préparer un voyage au Cap-Vert : pré-enregistrement et taxe d'aéroport, meilleure saison, budget, Santo Antão, Mindelo, Sal, Boa Vista, Fogo. PDF gratuit."
+    "title": "Guide Cap-Vert : formalités, quand partir, îles",
+    "description": "Préparer un voyage au Cap-Vert : pré-enregistrement et taxe d'aéroport, meilleure saison, Santo Antão, Mindelo, Sal, Boa Vista, Fogo. PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/cap-vert/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Sec et ensoleillé, le vent revient. Fêtes de fin d'année très prisées."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols. L'escudo est à parité fixe avec l'euro.",
-    "rows": [
-      {
-        "label": "Hébergement (pension ou petit hôtel)",
-        "solo": "45 à 100 €",
-        "duo": "30 à 65 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "20 à 35 €",
-        "duo": "20 à 35 €"
-      },
-      {
-        "label": "Transports locaux (aluguer, taxi)",
-        "solo": "5 à 20 €",
-        "duo": "5 à 15 €"
-      },
-      {
-        "label": "Visites et activités",
-        "solo": "5 à 20 €",
-        "duo": "5 à 20 €"
-      }
-    ],
-    "totalSolo": "75 à 175 €",
-    "totalDuo": "60 à 135 €",
-    "note": "Les vols et ferries entre les îles s'ajoutent et peuvent peser lourd ; les ferries sont parfois annulés. Sal et Boa Vista, très tournées vers les clubs, coûtent plus cher que Santo Antão ou Santiago. Ajoute la taxe de sécurité aéroportuaire.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Passeport obligatoire, valable au moins 3 mois après la fin du séjour. Un pré-enregistrement en ligne, avec une taxe de sécurité aéroportuaire, est obligatoire au moins 5 jours avant l'arrivée.",
     "points": [
@@ -441,10 +412,6 @@
     {
       "q": "Le Cap-Vert est-il sûr ?",
       "a": "Les agressions à main armée progressent, surtout à Praia et sur certains sentiers. Reste vigilant, garde le minimum sur toi et randonne accompagné hors des zones fréquentées."
-    },
-    {
-      "q": "Quel budget pour une semaine au Cap-Vert ?",
-      "a": "Compte environ 75 à 175 € par jour seul et 60 à 135 € par personne à deux, hors vols et trajets entre îles. Ces montants sont des estimations à vérifier."
     }
   ]
 }

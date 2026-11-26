@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Panama : canal, San Blas, Bocas del Toro",
-    "description": "Préparer un voyage au Panama : formalités, zones déconseillées, meilleure saison, budget, Panama City, le canal, San Blas, Bocas del Toro, Boquete. PDF gratuit."
+    "description": "Préparer un voyage au Panama : formalités, zones déconseillées, meilleure saison, Panama City, le canal, San Blas, Bocas del Toro, Boquete. PDF gratuit."
   },
   "hero": null,
   "summary": "Le Panama se visite de décembre à avril, en saison sèche côté Pacifique. Pas de visa pour 90 jours, avec un billet retour et la preuve d'au moins 500 dollars de ressources. Le Darién et la frontière colombienne sont formellement déconseillés, Colón aussi sauf raison impérative : Panama City, le canal, les îles San Blas de l'ouest et Bocas del Toro composent le voyage.",
@@ -24,39 +24,65 @@
     "flight": "Environ 11 h en vol direct depuis Paris pour Panama City"
   },
   "months": [
-    { "rating": 2, "note": "Saison sèche côté Pacifique." },
-    { "rating": 2, "note": "Idéal ; carnaval." },
-    { "rating": 2, "note": "Sec et chaud." },
-    { "rating": 2, "note": "Fin de la saison sèche." },
-    { "rating": 1, "note": "Début des pluies." },
-    { "rating": 1, "note": "Pluies l'après-midi." },
-    { "rating": 1, "note": "Pluies ; Bocas del Toro souvent plus sec." },
-    { "rating": 1, "note": "Comme en juillet." },
-    { "rating": 1, "note": "Bocas en saison, pluies ailleurs." },
-    { "rating": 0, "note": "Le mois le plus pluvieux." },
-    { "rating": 0, "note": "Pluies abondantes." },
-    { "rating": 1, "note": "Retour du sec en fin de mois." }
+    {
+      "rating": 2,
+      "note": "Saison sèche côté Pacifique."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal ; carnaval."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et chaud."
+    },
+    {
+      "rating": 2,
+      "note": "Fin de la saison sèche."
+    },
+    {
+      "rating": 1,
+      "note": "Début des pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies l'après-midi."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies ; Bocas del Toro souvent plus sec."
+    },
+    {
+      "rating": 1,
+      "note": "Comme en juillet."
+    },
+    {
+      "rating": 1,
+      "note": "Bocas en saison, pluies ailleurs."
+    },
+    {
+      "rating": 0,
+      "note": "Le mois le plus pluvieux."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies abondantes."
+    },
+    {
+      "rating": 1,
+      "note": "Retour du sec en fin de mois."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols.",
-    "rows": [
-      { "label": "Hébergement (hôtel simple ou guesthouse)", "solo": "50 à 120 $", "duo": "30 à 75 $" },
-      { "label": "Repas", "solo": "20 à 45 $", "duo": "20 à 45 $" },
-      { "label": "Transports", "solo": "10 à 40 $", "duo": "8 à 30 $" },
-      { "label": "Visites et excursions", "solo": "15 à 60 $", "duo": "15 à 60 $" }
-    ],
-    "totalSolo": "95 à 265 $",
-    "totalDuo": "73 à 210 $",
-    "note": "Panama City est chère ; Boquete et Bocas restent plus abordables. Les séjours à San Blas se paient en forfait (bateau, nuit, repas).",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour moins de 90 jours, avec un billet retour ou de continuation et la preuve d'au moins 500 dollars de ressources (ou carte de crédit).",
     "points": [
       "La loi exige un passeport valable 3 mois à l'arrivée, mais 6 mois sont vivement conseillés car parfois demandés."
     ],
-    "source": { "label": "France Diplomatie, Panama, Entrée / séjour (mise à jour du 6 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/panama/" },
+    "source": {
+      "label": "France Diplomatie, Panama, Entrée / séjour (mise à jour du 6 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/panama/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -66,7 +92,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Assurance santé et rapatriement indispensable."
     ],
-    "source": { "label": "France Diplomatie, Panama, Santé (mise à jour du 6 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/panama/" },
+    "source": {
+      "label": "France Diplomatie, Panama, Santé (mise à jour du 6 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/panama/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -76,7 +105,10 @@
       "Déconseillés sauf raison impérative : le reste du Darién, l'extrême est de Guna Yala (San Blas), le golfe des Moustiques et la ville de Colón.",
       "Déconseillées sauf raison impérative autour de Panama City : Cristóbal, San Miguelito, Pedregal, Tocumen, Arraiján (hors Panama Pacifico), La Chorrera, Las Cumbres."
     ],
-    "source": { "label": "France Diplomatie, Panama, Sécurité (mise à jour du 6 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/panama/" },
+    "source": {
+      "label": "France Diplomatie, Panama, Sécurité (mise à jour du 6 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/panama/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -84,17 +116,35 @@
       "slug": "panama-city",
       "name": "Panama City et le canal",
       "nights": "3 nuits",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "summary": "Une skyline futuriste, un quartier colonial classé et l'un des grands ouvrages du monde.",
       "sleep": "Dans le Casco Viejo.",
       "see": [
-        { "name": "Les écluses de Miraflores", "note": "Le passage des navires." },
-        { "name": "Le Casco Viejo", "note": "Le quartier colonial classé à l'Unesco." },
-        { "name": "La Calzada de Amador", "note": "Une digue avec vue sur la ville et le canal." }
+        {
+          "name": "Les écluses de Miraflores",
+          "note": "Le passage des navires."
+        },
+        {
+          "name": "Le Casco Viejo",
+          "note": "Le quartier colonial classé à l'Unesco."
+        },
+        {
+          "name": "La Calzada de Amador",
+          "note": "Une digue avec vue sur la ville et le canal."
+        }
       ],
       "hidden": [
-        { "name": "Le parc métropolitain", "note": "Une forêt tropicale dans la ville." },
-        { "name": "Le Biomuseo", "note": "Dessiné par Frank Gehry." }
+        {
+          "name": "Le parc métropolitain",
+          "note": "Une forêt tropicale dans la ville."
+        },
+        {
+          "name": "Le Biomuseo",
+          "note": "Dessiné par Frank Gehry."
+        }
       ],
       "eat": "Le sancocho (soupe de poulet) et le ceviche du marché aux poissons.",
       "getAround": "Métro, VTC.",
@@ -104,13 +154,25 @@
       "slug": "san-blas",
       "name": "Les îles San Blas (Guna Yala)",
       "nights": "2 nuits",
-      "for": ["lent", "explorateur"],
+      "for": [
+        "lent",
+        "explorateur"
+      ],
       "summary": "Un archipel de petites îles de sable blanc gérées par le peuple guna.",
       "sleep": "En cabane simple sur une île, en forfait.",
       "see": [
-        { "name": "Les îles de l'ouest de l'archipel", "note": "Accessibles depuis la côte de Carti." },
-        { "name": "La piscine naturelle", "note": "Une étendue d'eau peu profonde avec des étoiles de mer." },
-        { "name": "Les molas", "note": "Les textiles brodés des femmes guna." }
+        {
+          "name": "Les îles de l'ouest de l'archipel",
+          "note": "Accessibles depuis la côte de Carti."
+        },
+        {
+          "name": "La piscine naturelle",
+          "note": "Une étendue d'eau peu profonde avec des étoiles de mer."
+        },
+        {
+          "name": "Les molas",
+          "note": "Les textiles brodés des femmes guna."
+        }
       ],
       "hidden": [],
       "eat": "Le poisson et la langouste pêchés sur place.",
@@ -121,16 +183,31 @@
       "slug": "bocas-del-toro",
       "name": "Bocas del Toro",
       "nights": "3 nuits",
-      "for": ["energique", "lent"],
+      "for": [
+        "energique",
+        "lent"
+      ],
       "summary": "Un archipel caribéen décontracté : plages, maisons sur pilotis, dauphins et plongée.",
       "sleep": "Sur l'île Colón ou Bastimentos.",
       "see": [
-        { "name": "Starfish Beach", "note": "Des étoiles de mer dans l'eau claire." },
-        { "name": "Le parc marin de Bastimentos", "note": "Snorkeling et plages sauvages." },
-        { "name": "La baie des Dauphins", "note": "En bateau." }
+        {
+          "name": "Starfish Beach",
+          "note": "Des étoiles de mer dans l'eau claire."
+        },
+        {
+          "name": "Le parc marin de Bastimentos",
+          "note": "Snorkeling et plages sauvages."
+        },
+        {
+          "name": "La baie des Dauphins",
+          "note": "En bateau."
+        }
       ],
       "hidden": [
-        { "name": "Red Frog Beach", "note": "Petites grenouilles rouges dans la forêt." }
+        {
+          "name": "Red Frog Beach",
+          "note": "Petites grenouilles rouges dans la forêt."
+        }
       ],
       "eat": "Le rondón, ragoût caribéen au lait de coco.",
       "getAround": "Bateaux-taxis entre les îles.",
@@ -140,13 +217,25 @@
       "slug": "boquete",
       "name": "Boquete",
       "nights": "2 nuits",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "La fraîcheur des montagnes, les plantations de café et le volcan Barú.",
       "sleep": "Au village.",
       "see": [
-        { "name": "Une plantation de café geisha", "note": "Parmi les plus chers du monde." },
-        { "name": "Le sentier du Quetzal", "note": "Pour apercevoir l'oiseau." },
-        { "name": "Le volcan Barú", "note": "Lever du soleil sur les deux océans, par temps clair." }
+        {
+          "name": "Une plantation de café geisha",
+          "note": "Parmi les plus chers du monde."
+        },
+        {
+          "name": "Le sentier du Quetzal",
+          "note": "Pour apercevoir l'oiseau."
+        },
+        {
+          "name": "Le volcan Barú",
+          "note": "Lever du soleil sur les deux océans, par temps clair."
+        }
       ],
       "hidden": [],
       "eat": "Le café local.",
@@ -158,29 +247,71 @@
     {
       "days": 12,
       "title": "Canal, montagnes et îles",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Panama City", "note": "Canal et Casco Viejo." },
-        { "days": "Jours 4 et 5", "place": "San Blas", "note": "Forfait de deux nuits." },
-        { "days": "Jours 6 et 7", "place": "Boquete", "note": "Par David." },
-        { "days": "Jours 8 à 11", "place": "Bocas del Toro", "note": "Îles caribéennes." },
-        { "days": "Jour 12", "place": "Retour", "note": "Vol vers Panama City." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Panama City",
+          "note": "Canal et Casco Viejo."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "San Blas",
+          "note": "Forfait de deux nuits."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Boquete",
+          "note": "Par David."
+        },
+        {
+          "days": "Jours 8 à 11",
+          "place": "Bocas del Toro",
+          "note": "Îles caribéennes."
+        },
+        {
+          "days": "Jour 12",
+          "place": "Retour",
+          "note": "Vol vers Panama City."
+        }
       ]
     },
     {
       "days": 6,
       "title": "Panama express",
-      "for": ["energique"],
+      "for": [
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Panama City", "note": "Arrivée." },
-        { "days": "Jours 4 à 6", "place": "San Blas", "note": "Retour à Panama City." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Panama City",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "San Blas",
+          "note": "Retour à Panama City."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les bus", "text": "Bon marché entre les villes." },
-    { "title": "Les vols intérieurs", "text": "Vers Bocas del Toro et David." },
-    { "title": "Les bateaux", "text": "Indispensables à San Blas et Bocas." }
+    {
+      "title": "Les bus",
+      "text": "Bon marché entre les villes."
+    },
+    {
+      "title": "Les vols intérieurs",
+      "text": "Vers Bocas del Toro et David."
+    },
+    {
+      "title": "Les bateaux",
+      "text": "Indispensables à San Blas et Bocas."
+    }
   ],
   "culture": [
     "Les Guna gèrent leur territoire de façon autonome : respecte leurs règles et demande avant de photographier.",
@@ -188,9 +319,21 @@
     "Tenue décontractée, mais correcte en ville."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Buenos días", "say": "bouénos dias" },
-    { "fr": "Merci", "local": "Gracias", "say": "grassias" },
-    { "fr": "D'accord", "local": "Ok, dale", "say": "dalé" }
+    {
+      "fr": "Bonjour",
+      "local": "Buenos días",
+      "say": "bouénos dias"
+    },
+    {
+      "fr": "Merci",
+      "local": "Gracias",
+      "say": "grassias"
+    },
+    {
+      "fr": "D'accord",
+      "local": "Ok, dale",
+      "say": "dalé"
+    }
   ],
   "checklist": [
     "Passeport valable 6 mois (conseillé), billet retour",
@@ -200,9 +343,17 @@
     "Éviter le Darién et Colón"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour le Panama ?", "a": "Non pour moins de 90 jours, avec un billet retour et la preuve de 500 dollars de ressources. Un passeport valable 6 mois est conseillé." },
-    { "q": "Le Panama est-il sûr ?", "a": "Panama City est en vigilance renforcée. Le Darién, la frontière colombienne et Colón sont à éviter." },
-    { "q": "Quand partir au Panama ?", "a": "De décembre à avril. Bocas del Toro a sa propre météo, souvent plus sèche en septembre-octobre." },
-    { "q": "Quel budget pour 10 jours au Panama ?", "a": "Compte environ 95 à 265 $ par jour seul et 73 à 210 $ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour le Panama ?",
+      "a": "Non pour moins de 90 jours, avec un billet retour et la preuve de 500 dollars de ressources. Un passeport valable 6 mois est conseillé."
+    },
+    {
+      "q": "Le Panama est-il sûr ?",
+      "a": "Panama City est en vigilance renforcée. Le Darién, la frontière colombienne et Colón sont à éviter."
+    },
+    {
+      "q": "Quand partir au Panama ?",
+      "a": "De décembre à avril. Bocas del Toro a sa propre météo, souvent plus sèche en septembre-octobre."
+    }
   ]
 }

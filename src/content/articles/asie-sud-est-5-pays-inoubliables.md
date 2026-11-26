@@ -1,7 +1,7 @@
 ---
 title: "Asie du Sud-Est : combiner 5 pays en un voyage"
-seoTitle: "Asie du Sud-Est : itinéraire 5 pays, saisons et budget"
-description: "Thaïlande, Laos, Vietnam, Cambodge, Malaisie : comment combiner cinq pays d'Asie du Sud-Est, dans quel ordre, avec quelles formalités et quel budget."
+seoTitle: "Asie du Sud-Est : itinéraire 5 pays, saisons et formalités"
+description: "Thaïlande, Laos, Vietnam, Cambodge, Malaisie : comment combiner cinq pays d'Asie du Sud-Est, dans quel ordre et avec quelles formalités."
 category: "Idées de voyage"
 status: "brouillon"
 publishedAt: "2026-11-25"
@@ -52,10 +52,6 @@ Les zones touristiques sont accessibles, mais chaque pays a ses zones déconseil
 ## Se déplacer
 
 Bus de nuit, trains, ferries et vols régionaux à bas prix. Les passages de frontière terrestres sont possibles, mais tous ne délivrent pas de visa à l'arrivée : vérifie avant.
-
-## Le budget
-
-C'est l'une des régions les moins chères du monde pour voyager longtemps. Les tableaux « seul » et « à deux » de nos guides donnent des ordres de grandeur par pays.
 
 ## Une version courte
 

@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Pays-Bas : Amsterdam, tulipes, vélo, budget",
-    "description": "Préparer un voyage aux Pays-Bas : papiers, meilleure saison, budget seul ou à deux, Amsterdam, Rotterdam, Utrecht, Haarlem, les tulipes. Guide PDF gratuit."
+    "title": "Guide Pays-Bas : Amsterdam, tulipes, vélo",
+    "description": "Préparer un voyage aux Pays-Bas : papiers, meilleure saison, Amsterdam, Rotterdam, Utrecht, Haarlem, les tulipes. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/pays-bas/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Illuminations et Festival des lumières d'Amsterdam."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors trajet aller-retour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou auberge)",
-        "solo": "90 à 180 €",
-        "duo": "60 à 120 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "35 à 65 €",
-        "duo": "35 à 65 €"
-      },
-      {
-        "label": "Transports (train, vélo)",
-        "solo": "10 à 25 €",
-        "duo": "10 à 25 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "15 à 40 €",
-        "duo": "15 à 40 €"
-      }
-    ],
-    "totalSolo": "150 à 310 €",
-    "totalDuo": "120 à 250 €",
-    "note": "Amsterdam est chère pour dormir : loger à Haarlem, Utrecht ou Leyde, à 15-30 minutes de train, fait baisser le budget. Les grands musées se réservent à l'avance.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pays de l'Union européenne : un passeport ou une carte d'identité en cours de validité suffit.",
     "points": [
@@ -357,10 +328,6 @@
     {
       "q": "Amsterdam est-elle sûre ?",
       "a": "Oui, le pays est en vigilance normale. Méfie-toi des pickpockets dans le centre, près de la gare et à Schiphol."
-    },
-    {
-      "q": "Quel budget pour une semaine aux Pays-Bas ?",
-      "a": "Compte environ 150 à 310 € par jour seul et 120 à 250 € par personne à deux, hors trajet aller-retour. Ces montants sont des estimations à vérifier."
     }
   ]
 }

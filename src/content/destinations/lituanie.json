@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Lituanie : Vilnius, Trakai, isthme de Courlande",
-    "description": "Préparer un voyage en Lituanie : papiers, sécurité, meilleure saison, budget, Vilnius, Trakai, Kaunas, l'isthme de Courlande. Guide PDF gratuit."
+    "description": "Préparer un voyage en Lituanie : papiers, sécurité, meilleure saison, Vilnius, Trakai, Kaunas, l'isthme de Courlande. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/lituanie/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Sapin et marché de Noël de la cathédrale de Vilnius."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou guesthouse)",
-        "solo": "45 à 90 €",
-        "duo": "28 à 58 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "20 à 40 €",
-        "duo": "20 à 40 €"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "5 à 15 €",
-        "duo": "4 à 12 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "8 à 20 €",
-        "duo": "8 à 20 €"
-      }
-    ],
-    "totalSolo": "78 à 165 €",
-    "totalDuo": "60 à 130 €",
-    "note": "Un des pays les plus abordables du nord de l'Europe. Nida est plus chère en juillet-août.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pays de l'Union européenne : un passeport ou une carte d'identité en cours de validité suffit pour moins de 3 mois.",
     "points": [
@@ -357,10 +328,6 @@
     {
       "q": "Quand partir en Lituanie ?",
       "a": "De mai à septembre, juillet-août pour la côte et les dunes."
-    },
-    {
-      "q": "Quel budget pour une semaine en Lituanie ?",
-      "a": "Compte environ 78 à 165 € par jour seul et 60 à 130 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

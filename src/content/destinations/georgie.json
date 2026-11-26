@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Géorgie : quand partir, budget, Tbilissi, Caucase",
-    "description": "Préparer un voyage en Géorgie : sans visa, meilleure saison, budget seul ou à deux, Tbilissi, Kazbegi, la Kakhétie, la Svanétie, zones à éviter. PDF gratuit."
+    "title": "Guide Géorgie : quand partir, Tbilissi, Caucase",
+    "description": "Préparer un voyage en Géorgie : sans visa, meilleure saison, Tbilissi, Kazbegi, la Kakhétie, la Svanétie, zones à éviter. PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/georgie/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Hiver, ambiance de fêtes à Tbilissi."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en laris, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (guesthouse ou petit hôtel)",
-        "solo": "100 à 200 ₾",
-        "duo": "60 à 120 ₾"
-      },
-      {
-        "label": "Repas",
-        "solo": "40 à 80 ₾",
-        "duo": "40 à 80 ₾"
-      },
-      {
-        "label": "Transports locaux (marchroutka, taxi)",
-        "solo": "10 à 40 ₾",
-        "duo": "10 à 30 ₾"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "5 à 30 ₾",
-        "duo": "5 à 30 ₾"
-      }
-    ],
-    "totalSolo": "155 à 350 ₾",
-    "totalDuo": "115 à 260 ₾",
-    "note": "La Géorgie reste très abordable. Les maisons d'hôtes familiales des montagnes incluent souvent le dîner. Un chauffeur pour la journée se partage facilement.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour d'un an maximum. Il faut un passeport ou une carte d'identité sécurisée, valable pendant tout le séjour.",
     "points": [
@@ -425,10 +396,6 @@
     {
       "q": "Quand partir en Géorgie ?",
       "a": "De mai à octobre. Juillet et août pour la haute montagne (Svanétie), septembre-octobre pour les vendanges en Kakhétie."
-    },
-    {
-      "q": "Quel budget pour une semaine en Géorgie ?",
-      "a": "Compte environ 155 à 350 ₾ par jour seul et 115 à 260 ₾ par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

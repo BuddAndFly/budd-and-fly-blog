@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Royaume-Uni : ETA, passeport, budget, Londres, Écosse",
-    "description": "Préparer un voyage au Royaume-Uni : passeport et ETA obligatoires, meilleure saison, budget, Londres, Édimbourg, les Highlands, Bath, York. PDF gratuit."
+    "title": "Guide Royaume-Uni : ETA, passeport, Londres, Écosse",
+    "description": "Préparer un voyage au Royaume-Uni : passeport et ETA obligatoires, meilleure saison, Londres, Édimbourg, les Highlands, Bath, York. PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/royaume-uni/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Illuminations et marchés de Noël à Londres et Édimbourg. Nouvel An (Hogmanay) très festif à Édimbourg."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en livres sterling, par jour et par personne, hors trajet depuis la France.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou B&B)",
-        "solo": "90 à 200 £",
-        "duo": "60 à 120 £"
-      },
-      {
-        "label": "Repas",
-        "solo": "35 à 60 £",
-        "duo": "35 à 60 £"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "8 à 20 £",
-        "duo": "8 à 20 £"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "0 à 40 £",
-        "duo": "0 à 40 £"
-      }
-    ],
-    "totalSolo": "135 à 320 £",
-    "totalDuo": "105 à 240 £",
-    "note": "Londres est l'une des villes les plus chères d'Europe ; le reste du pays est plus abordable. Bonne nouvelle : les grands musées nationaux (British Museum, National Gallery, Tate…) sont gratuits. Les trains réservés à l'avance coûtent beaucoup moins cher. Ajoute le prix de l'ETA.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Passeport obligatoire, et autorisation électronique de voyage (ETA) à demander en ligne avant le départ. Pas de visa pour un séjour touristique de 6 mois maximum.",
     "points": [
@@ -461,10 +432,6 @@
     {
       "q": "Qu'est-ce que l'ETA pour le Royaume-Uni ?",
       "a": "Une autorisation électronique de voyage obligatoire pour les Français, à demander en ligne avant le départ. Elle coûte 20 £ et est valable deux ans (ou jusqu'à l'expiration du passeport) pour des séjours de 6 mois maximum."
-    },
-    {
-      "q": "Quel budget pour une semaine à Londres ?",
-      "a": "Compte environ 135 à 320 £ par jour seul et 105 à 240 £ par personne à deux, hors trajet. Les grands musées nationaux sont gratuits, ce qui aide beaucoup. Ces montants sont des estimations à vérifier."
     },
     {
       "q": "Quand partir en Écosse ?",

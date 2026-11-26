@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Dubaï et Émirats : visa, sécurité, budget",
-    "description": "Préparer un voyage à Dubaï et aux Émirats : sans visa 90 jours, contexte régional, meilleure saison, budget, Dubaï, Abou Dabi, le désert. Guide PDF gratuit."
+    "title": "Guide Dubaï et Émirats : visa, sécurité",
+    "description": "Préparer un voyage à Dubaï et aux Émirats : sans visa 90 jours, contexte régional, meilleure saison, Dubaï, Abou Dabi, le désert. Guide PDF gratuit."
   },
   "hero": null,
   "summary": "Les Émirats se visitent de novembre à mars ; de mai à septembre, la chaleur est écrasante. Pas de visa : un tampon à l'arrivée autorise 90 jours sur 180, avec un passeport valable 6 mois. Le pays est en vigilance renforcée en raison des tensions régionales : suis l'actualité avant et pendant le séjour. Dubaï, Abou Dabi et le désert font une escale ou un court séjour très complet.",
@@ -24,39 +24,65 @@
     "flight": "Environ 7 h en vol direct depuis Paris pour Dubaï ou Abou Dabi"
   },
   "months": [
-    { "rating": 2, "note": "Doux et ensoleillé, haute saison." },
-    { "rating": 2, "note": "Idéal." },
-    { "rating": 2, "note": "Agréable, la chaleur monte en fin de mois." },
-    { "rating": 1, "note": "Chaud." },
-    { "rating": 0, "note": "Très chaud." },
-    { "rating": 0, "note": "Chaleur extrême." },
-    { "rating": 0, "note": "Plus de 40 °C." },
-    { "rating": 0, "note": "Comme en juillet." },
-    { "rating": 0, "note": "Encore très chaud." },
-    { "rating": 1, "note": "La chaleur retombe en fin de mois." },
-    { "rating": 2, "note": "Début de la belle saison." },
-    { "rating": 2, "note": "Doux, festivals." }
+    {
+      "rating": 2,
+      "note": "Doux et ensoleillé, haute saison."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable, la chaleur monte en fin de mois."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Chaleur extrême."
+    },
+    {
+      "rating": 0,
+      "note": "Plus de 40 °C."
+    },
+    {
+      "rating": 0,
+      "note": "Comme en juillet."
+    },
+    {
+      "rating": 0,
+      "note": "Encore très chaud."
+    },
+    {
+      "rating": 1,
+      "note": "La chaleur retombe en fin de mois."
+    },
+    {
+      "rating": 2,
+      "note": "Début de la belle saison."
+    },
+    {
+      "rating": 2,
+      "note": "Doux, festivals."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en dirhams, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      { "label": "Hébergement (hôtel simple)", "solo": "350 à 800 AED", "duo": "200 à 450 AED" },
-      { "label": "Repas", "solo": "120 à 300 AED", "duo": "120 à 300 AED" },
-      { "label": "Transports (métro, taxi)", "solo": "30 à 120 AED", "duo": "25 à 90 AED" },
-      { "label": "Visites et activités", "solo": "100 à 400 AED", "duo": "100 à 400 AED" }
-    ],
-    "totalSolo": "600 à 1 620 AED",
-    "totalDuo": "445 à 1 240 AED",
-    "note": "Les hôtels sont moins chers en été. Les restaurants indiens et pakistanais des vieux quartiers sont très abordables, l'alcool très cher.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa : un tampon apposé à l'arrivée aux aéroports de Dubaï, Abou Dabi et Sharjah autorise 90 jours sur 180 jours. Le passeport doit être en bon état et valable au moins 6 mois.",
     "points": [
       "Le passeport d'urgence n'est pas reconnu : risque de refus d'entrée."
     ],
-    "source": { "label": "France Diplomatie, Émirats arabes unis, Entrée / séjour (mise à jour du 23 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/emirats-arabes-unis/" },
+    "source": {
+      "label": "France Diplomatie, Émirats arabes unis, Entrée / séjour (mise à jour du 23 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/emirats-arabes-unis/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -66,7 +92,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Les soins sont excellents mais chers : assurance santé indispensable."
     ],
-    "source": { "label": "France Diplomatie, Émirats arabes unis, Santé (mise à jour du 23 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/emirats-arabes-unis/" },
+    "source": {
+      "label": "France Diplomatie, Émirats arabes unis, Santé (mise à jour du 23 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/emirats-arabes-unis/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -76,7 +105,10 @@
       "Formellement déconseillées : les îles Grande et Petite Tomb et Abou Moussa (contentieux territorial, risque d'arraisonnement et d'arrestation, y compris en excursion ou à la pêche).",
       "La menace terroriste régionale persiste."
     ],
-    "source": { "label": "France Diplomatie, Émirats arabes unis, Sécurité (mise à jour du 23 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/emirats-arabes-unis/" },
+    "source": {
+      "label": "France Diplomatie, Émirats arabes unis, Sécurité (mise à jour du 23 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/emirats-arabes-unis/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -84,17 +116,35 @@
       "slug": "dubai",
       "name": "Dubaï",
       "nights": "3 à 4 nuits",
-      "for": ["tous", "energique"],
+      "for": [
+        "tous",
+        "energique"
+      ],
       "summary": "Des tours record, des souks traditionnels et des plages, entre démesure et vieux Dubaï.",
       "sleep": "À Downtown pour les tours, ou près de la crique pour le vieux Dubaï.",
       "see": [
-        { "name": "Burj Khalifa", "note": "La plus haute tour du monde, billet à réserver." },
-        { "name": "La crique et les souks", "note": "Traversée en abra (bateau-taxi), souks de l'or et des épices." },
-        { "name": "Le quartier d'Al Fahidi", "note": "Maisons à tours à vent." }
+        {
+          "name": "Burj Khalifa",
+          "note": "La plus haute tour du monde, billet à réserver."
+        },
+        {
+          "name": "La crique et les souks",
+          "note": "Traversée en abra (bateau-taxi), souks de l'or et des épices."
+        },
+        {
+          "name": "Le quartier d'Al Fahidi",
+          "note": "Maisons à tours à vent."
+        }
       ],
       "hidden": [
-        { "name": "Alserkal Avenue", "note": "Galeries d'art dans d'anciens entrepôts." },
-        { "name": "Hatta", "note": "Montagnes et kayak sur un barrage, à 1 h 30." }
+        {
+          "name": "Alserkal Avenue",
+          "note": "Galeries d'art dans d'anciens entrepôts."
+        },
+        {
+          "name": "Hatta",
+          "note": "Montagnes et kayak sur un barrage, à 1 h 30."
+        }
       ],
       "eat": "Les shawarmas, le machboos (riz épicé) et les dattes.",
       "getAround": "Métro, abra et taxis.",
@@ -104,16 +154,31 @@
       "slug": "abou-dabi",
       "name": "Abou Dabi",
       "nights": "2 nuits",
-      "for": ["stratege", "lent"],
+      "for": [
+        "stratege",
+        "lent"
+      ],
       "summary": "La capitale, sa grande mosquée blanche et le Louvre Abou Dabi sous son dôme de lumière.",
       "sleep": "Sur la corniche ou l'île de Saadiyat.",
       "see": [
-        { "name": "La grande mosquée Cheikh Zayed", "note": "Tenue couvrante, entrée gratuite sur réservation." },
-        { "name": "Le Louvre Abou Dabi", "note": "Le dôme et sa « pluie de lumière »." },
-        { "name": "Qasr Al Watan", "note": "Le palais présidentiel ouvert au public." }
+        {
+          "name": "La grande mosquée Cheikh Zayed",
+          "note": "Tenue couvrante, entrée gratuite sur réservation."
+        },
+        {
+          "name": "Le Louvre Abou Dabi",
+          "note": "Le dôme et sa « pluie de lumière »."
+        },
+        {
+          "name": "Qasr Al Watan",
+          "note": "Le palais présidentiel ouvert au public."
+        }
       ],
       "hidden": [
-        { "name": "La mangrove d'Abou Dabi", "note": "En kayak." }
+        {
+          "name": "La mangrove d'Abou Dabi",
+          "note": "En kayak."
+        }
       ],
       "eat": "Le luqaimat (beignets au sirop de dattes).",
       "getAround": "Taxi ou bus depuis Dubaï (environ 1 h 30).",
@@ -123,13 +188,25 @@
       "slug": "desert",
       "name": "Le désert",
       "nights": "1 nuit",
-      "for": ["explorateur", "tous"],
+      "for": [
+        "explorateur",
+        "tous"
+      ],
       "summary": "Les dunes orange, un camp sous les étoiles et le silence, à une heure des tours.",
       "sleep": "Dans un camp ou un hôtel du désert.",
       "see": [
-        { "name": "Le coucher du soleil sur les dunes", "note": "Depuis une crête." },
-        { "name": "La réserve de Dubai Desert Conservation", "note": "Oryx et gazelles." },
-        { "name": "Le désert de Liwa", "note": "Les dunes géantes, au sud d'Abou Dabi." }
+        {
+          "name": "Le coucher du soleil sur les dunes",
+          "note": "Depuis une crête."
+        },
+        {
+          "name": "La réserve de Dubai Desert Conservation",
+          "note": "Oryx et gazelles."
+        },
+        {
+          "name": "Le désert de Liwa",
+          "note": "Les dunes géantes, au sud d'Abou Dabi."
+        }
       ],
       "hidden": [],
       "eat": "Le dîner au camp.",
@@ -141,27 +218,61 @@
     {
       "days": 5,
       "title": "Dubaï, désert et Abou Dabi",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Dubaï", "note": "Tours, crique, souks." },
-        { "days": "Jour 4", "place": "Désert", "note": "Nuit en camp." },
-        { "days": "Jour 5", "place": "Abou Dabi", "note": "Mosquée et Louvre, vol retour." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Dubaï",
+          "note": "Tours, crique, souks."
+        },
+        {
+          "days": "Jour 4",
+          "place": "Désert",
+          "note": "Nuit en camp."
+        },
+        {
+          "days": "Jour 5",
+          "place": "Abou Dabi",
+          "note": "Mosquée et Louvre, vol retour."
+        }
       ]
     },
     {
       "days": 3,
       "title": "L'escale à Dubaï",
-      "for": ["energique"],
+      "for": [
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Dubaï", "note": "L'essentiel." },
-        { "days": "Jour 3", "place": "Désert", "note": "Excursion du soir avant le vol." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Dubaï",
+          "note": "L'essentiel."
+        },
+        {
+          "days": "Jour 3",
+          "place": "Désert",
+          "note": "Excursion du soir avant le vol."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le métro de Dubaï", "text": "Climatisé et pratique ; wagons réservés aux femmes et aux enfants." },
-    { "title": "Les taxis et VTC", "text": "Nombreux et abordables." },
-    { "title": "Les bus interurbains", "text": "Entre Dubaï et Abou Dabi." }
+    {
+      "title": "Le métro de Dubaï",
+      "text": "Climatisé et pratique ; wagons réservés aux femmes et aux enfants."
+    },
+    {
+      "title": "Les taxis et VTC",
+      "text": "Nombreux et abordables."
+    },
+    {
+      "title": "Les bus interurbains",
+      "text": "Entre Dubaï et Abou Dabi."
+    }
   ],
   "culture": [
     "Tenue couvrante dans les lieux publics hors des plages et des piscines.",
@@ -170,9 +281,21 @@
     "Pendant le ramadan, ne mange pas et ne bois pas en public dans la journée."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "السلام عليكم", "say": "salam aleikoum" },
-    { "fr": "Merci", "local": "شكرا", "say": "choukran" },
-    { "fr": "S'il vous plaît", "local": "من فضلك", "say": "min fadlak" }
+    {
+      "fr": "Bonjour",
+      "local": "السلام عليكم",
+      "say": "salam aleikoum"
+    },
+    {
+      "fr": "Merci",
+      "local": "شكرا",
+      "say": "choukran"
+    },
+    {
+      "fr": "S'il vous plaît",
+      "local": "من فضلك",
+      "say": "min fadlak"
+    }
   ],
   "checklist": [
     "Passeport en bon état, valable 6 mois (pas de passeport d'urgence)",
@@ -182,9 +305,17 @@
     "Suivi de l'actualité régionale et inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour Dubaï ?", "a": "Non : un tampon à l'arrivée autorise 90 jours sur 180, avec un passeport valable 6 mois. Le passeport d'urgence n'est pas reconnu." },
-    { "q": "Dubaï est-elle sûre ?", "a": "Les Émirats sont en vigilance renforcée en raison des tensions régionales. Tiens-toi informé et inscris-toi sur Ariane." },
-    { "q": "Quand partir à Dubaï ?", "a": "De novembre à mars. De mai à septembre, la chaleur dépasse souvent 40 °C." },
-    { "q": "Quel budget pour 5 jours à Dubaï ?", "a": "Compte environ 600 à 1 620 AED par jour seul et 445 à 1 240 AED par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour Dubaï ?",
+      "a": "Non : un tampon à l'arrivée autorise 90 jours sur 180, avec un passeport valable 6 mois. Le passeport d'urgence n'est pas reconnu."
+    },
+    {
+      "q": "Dubaï est-elle sûre ?",
+      "a": "Les Émirats sont en vigilance renforcée en raison des tensions régionales. Tiens-toi informé et inscris-toi sur Ariane."
+    },
+    {
+      "q": "Quand partir à Dubaï ?",
+      "a": "De novembre à mars. De mai à septembre, la chaleur dépasse souvent 40 °C."
+    }
   ]
 }

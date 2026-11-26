@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Tanzanie : Serengeti, Zanzibar, Kilimandjaro",
-    "description": "Préparer un voyage en Tanzanie : visa, zones déconseillées, meilleure saison, budget, Serengeti, Ngorongoro, Kilimandjaro, Zanzibar. Guide PDF gratuit."
+    "description": "Préparer un voyage en Tanzanie : visa, zones déconseillées, meilleure saison, Serengeti, Ngorongoro, Kilimandjaro, Zanzibar. Guide PDF gratuit."
   },
   "hero": null,
   "summary": "La Tanzanie se visite de juin à octobre (saison sèche, idéale pour les safaris) et de janvier à février (naissances dans le Serengeti). Le visa est obligatoire, en ligne ou à l'arrivée, avec un passeport valable plus de 6 mois. Le sud-est, près du Mozambique, est formellement déconseillé : le circuit nord (Serengeti, Ngorongoro, Kilimandjaro) et Zanzibar sont en vigilance renforcée.",
@@ -24,40 +24,66 @@
     "flight": "Environ 10 h depuis Paris pour le Kilimandjaro ou Zanzibar, avec une escale"
   },
   "months": [
-    { "rating": 2, "note": "Naissances des gnous dans le sud du Serengeti." },
-    { "rating": 2, "note": "Comme en janvier, chaud et sec." },
-    { "rating": 1, "note": "Début des grandes pluies." },
-    { "rating": 0, "note": "Grandes pluies, certains camps fermés." },
-    { "rating": 0, "note": "Pluies." },
-    { "rating": 2, "note": "Début de la saison sèche." },
-    { "rating": 2, "note": "Migration au nord du Serengeti, Zanzibar idéal." },
-    { "rating": 2, "note": "Traversées de la rivière Mara." },
-    { "rating": 2, "note": "Saison sèche, excellents safaris." },
-    { "rating": 2, "note": "Fin de la saison sèche." },
-    { "rating": 1, "note": "Petites pluies." },
-    { "rating": 1, "note": "Petites pluies puis retour du sec." }
+    {
+      "rating": 2,
+      "note": "Naissances des gnous dans le sud du Serengeti."
+    },
+    {
+      "rating": 2,
+      "note": "Comme en janvier, chaud et sec."
+    },
+    {
+      "rating": 1,
+      "note": "Début des grandes pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Grandes pluies, certains camps fermés."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Début de la saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Migration au nord du Serengeti, Zanzibar idéal."
+    },
+    {
+      "rating": 2,
+      "note": "Traversées de la rivière Mara."
+    },
+    {
+      "rating": 2,
+      "note": "Saison sèche, excellents safaris."
+    },
+    {
+      "rating": 2,
+      "note": "Fin de la saison sèche."
+    },
+    {
+      "rating": 1,
+      "note": "Petites pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Petites pluies puis retour du sec."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols : safaris et parcs sont facturés en dollars.",
-    "rows": [
-      { "label": "Hébergement (camp, lodge ou guesthouse)", "solo": "80 à 300 $", "duo": "50 à 200 $" },
-      { "label": "Repas", "solo": "20 à 50 $", "duo": "20 à 50 $" },
-      { "label": "Safari (4x4, chauffeur-guide)", "solo": "120 à 300 $", "duo": "70 à 180 $" },
-      { "label": "Droits d'entrée des parcs", "solo": "70 à 250 $", "duo": "70 à 250 $" }
-    ],
-    "totalSolo": "290 à 900 $",
-    "totalDuo": "210 à 680 $",
-    "note": "Les droits des parcs du nord (Serengeti, cratère du Ngorongoro) sont parmi les plus élevés d'Afrique. Zanzibar est bien plus abordable.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Le visa est obligatoire. Il se demande en ligne sur le site du gouvernement tanzanien, ou à l'arrivée dans les aéroports de Dar es Salam, Zanzibar et Kilimandjaro. Le passeport doit être valable plus de 6 mois à l'arrivée.",
     "points": [
       "Le visa touristique coûte 50 € ou 50 USD.",
       "Vérifie la durée accordée après le passage à l'immigration : elle peut être réduite par rapport à celle obtenue en ligne."
     ],
-    "source": { "label": "France Diplomatie, Tanzanie, Entrée / séjour (mise à jour du 21 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tanzanie/" },
+    "source": {
+      "label": "France Diplomatie, Tanzanie, Entrée / séjour (mise à jour du 21 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tanzanie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -68,7 +94,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Assurance avec évacuation sanitaire indispensable, surtout pour le Kilimandjaro."
     ],
-    "source": { "label": "France Diplomatie, Tanzanie, Santé (mise à jour du 21 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tanzanie/" },
+    "source": {
+      "label": "France Diplomatie, Tanzanie, Santé (mise à jour du 21 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tanzanie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -79,7 +108,10 @@
       "Au nord (Arusha, Kilimandjaro), suis scrupuleusement les consignes des opérateurs ; forte insécurité routière sur l'axe Arusha-Nairobi.",
       "À Zanzibar, agressions dans les zones touristiques (Stone Town, Nungwi, Paje, Jambiani) et cambriolages nocturnes de chambres à Paje et Jambiani."
     ],
-    "source": { "label": "France Diplomatie, Tanzanie, Sécurité (mise à jour du 21 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tanzanie/" },
+    "source": {
+      "label": "France Diplomatie, Tanzanie, Sécurité (mise à jour du 21 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tanzanie/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -87,13 +119,25 @@
       "slug": "serengeti",
       "name": "Le Serengeti",
       "nights": "3 nuits",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "summary": "Des plaines sans fin, la grande migration et une densité de prédateurs exceptionnelle.",
       "sleep": "En camp de toile, idéalement mobile selon la saison de migration.",
       "see": [
-        { "name": "La grande migration", "note": "Sud en janvier-février, nord de juillet à octobre." },
-        { "name": "Les kopjes de Seronera", "note": "Rochers où se reposent les lions." },
-        { "name": "Un vol en montgolfière", "note": "À l'aube au-dessus de la savane." }
+        {
+          "name": "La grande migration",
+          "note": "Sud en janvier-février, nord de juillet à octobre."
+        },
+        {
+          "name": "Les kopjes de Seronera",
+          "note": "Rochers où se reposent les lions."
+        },
+        {
+          "name": "Un vol en montgolfière",
+          "note": "À l'aube au-dessus de la savane."
+        }
       ],
       "hidden": [],
       "eat": "Les repas du camp.",
@@ -104,16 +148,31 @@
       "slug": "ngorongoro-tarangire",
       "name": "Le Ngorongoro et Tarangire",
       "nights": "3 nuits",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "summary": "Un cratère volcanique peuplé d'animaux, et un parc aux baobabs et aux grands troupeaux d'éléphants.",
       "sleep": "Sur le rebord du cratère ou à Karatu.",
       "see": [
-        { "name": "Le cratère du Ngorongoro", "note": "Rhinocéros noirs, lions, flamants." },
-        { "name": "Le parc de Tarangire", "note": "Baobabs et éléphants, surtout en saison sèche." },
-        { "name": "Le lac Manyara", "note": "Oiseaux et lions grimpeurs." }
+        {
+          "name": "Le cratère du Ngorongoro",
+          "note": "Rhinocéros noirs, lions, flamants."
+        },
+        {
+          "name": "Le parc de Tarangire",
+          "note": "Baobabs et éléphants, surtout en saison sèche."
+        },
+        {
+          "name": "Le lac Manyara",
+          "note": "Oiseaux et lions grimpeurs."
+        }
       ],
       "hidden": [
-        { "name": "Les gorges d'Olduvai", "note": "Un site majeur des origines de l'humanité." }
+        {
+          "name": "Les gorges d'Olduvai",
+          "note": "Un site majeur des origines de l'humanité."
+        }
       ],
       "eat": "Le café des plantations de Karatu.",
       "getAround": "Safari en 4x4 depuis Arusha.",
@@ -123,16 +182,31 @@
       "slug": "kilimandjaro",
       "name": "Le Kilimandjaro",
       "nights": "6 à 8 nuits",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "summary": "Le toit de l'Afrique (5 895 m), accessible sans technique d'alpinisme mais exigeant.",
       "sleep": "En refuge ou sous tente selon la voie.",
       "see": [
-        { "name": "La voie Machame", "note": "Paysages variés, 6 à 7 jours." },
-        { "name": "La voie Lemosho", "note": "Plus longue, meilleure acclimatation." },
-        { "name": "Le sommet Uhuru Peak", "note": "Au lever du soleil." }
+        {
+          "name": "La voie Machame",
+          "note": "Paysages variés, 6 à 7 jours."
+        },
+        {
+          "name": "La voie Lemosho",
+          "note": "Plus longue, meilleure acclimatation."
+        },
+        {
+          "name": "Le sommet Uhuru Peak",
+          "note": "Au lever du soleil."
+        }
       ],
       "hidden": [
-        { "name": "Moshi", "note": "La ville de départ, ses plantations de café." }
+        {
+          "name": "Moshi",
+          "note": "La ville de départ, ses plantations de café."
+        }
       ],
       "eat": "Les repas des cuisiniers d'expédition.",
       "getAround": "Ascension obligatoirement encadrée par une agence et un guide agréés.",
@@ -142,16 +216,31 @@
       "slug": "zanzibar",
       "name": "Zanzibar",
       "nights": "4 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Une île swahilie aux plages blanches, aux épices et à la vieille ville de Stone Town.",
       "sleep": "À Stone Town, puis sur la côte nord ou est.",
       "see": [
-        { "name": "Stone Town", "note": "Classée à l'Unesco, ses portes sculptées et ses ruelles." },
-        { "name": "Une ferme aux épices", "note": "Girofle, vanille, cannelle." },
-        { "name": "La forêt de Jozani", "note": "Les colobes roux, endémiques." }
+        {
+          "name": "Stone Town",
+          "note": "Classée à l'Unesco, ses portes sculptées et ses ruelles."
+        },
+        {
+          "name": "Une ferme aux épices",
+          "note": "Girofle, vanille, cannelle."
+        },
+        {
+          "name": "La forêt de Jozani",
+          "note": "Les colobes roux, endémiques."
+        }
       ],
       "hidden": [
-        { "name": "Mnemba", "note": "Snorkeling dans un atoll protégé." }
+        {
+          "name": "Mnemba",
+          "note": "Snorkeling dans un atoll protégé."
+        }
       ],
       "eat": "La pizza de Zanzibar au marché de Forodhani et les poissons au coco.",
       "getAround": "Ferry ou vol depuis Dar es Salam ou Arusha, puis taxi.",
@@ -162,29 +251,72 @@
     {
       "days": 12,
       "title": "Safari nord et Zanzibar",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jour 1", "place": "Arusha", "note": "Arrivée au Kilimandjaro." },
-        { "days": "Jours 2 à 4", "place": "Tarangire et Ngorongoro", "note": "Safari." },
-        { "days": "Jours 5 à 7", "place": "Serengeti", "note": "Safari." },
-        { "days": "Jours 8 à 12", "place": "Zanzibar", "note": "Vol depuis le Serengeti ou Arusha." }
+        {
+          "days": "Jour 1",
+          "place": "Arusha",
+          "note": "Arrivée au Kilimandjaro."
+        },
+        {
+          "days": "Jours 2 à 4",
+          "place": "Tarangire et Ngorongoro",
+          "note": "Safari."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Serengeti",
+          "note": "Safari."
+        },
+        {
+          "days": "Jours 8 à 12",
+          "place": "Zanzibar",
+          "note": "Vol depuis le Serengeti ou Arusha."
+        }
       ]
     },
     {
       "days": 10,
       "title": "Le Kilimandjaro",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Moshi", "note": "Arrivée et préparation." },
-        { "days": "Jours 3 à 9", "place": "Kilimandjaro", "note": "Voie Machame ou Lemosho." },
-        { "days": "Jour 10", "place": "Retour", "note": "Ou suite en safari." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Moshi",
+          "note": "Arrivée et préparation."
+        },
+        {
+          "days": "Jours 3 à 9",
+          "place": "Kilimandjaro",
+          "note": "Voie Machame ou Lemosho."
+        },
+        {
+          "days": "Jour 10",
+          "place": "Retour",
+          "note": "Ou suite en safari."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le safari organisé", "text": "4x4 avec chauffeur-guide : la norme dans les parcs du nord." },
-    { "title": "Les vols intérieurs", "text": "Entre Arusha, les parcs et Zanzibar." },
-    { "title": "Les ferries", "text": "Dar es Salam-Zanzibar, choisis les compagnies rapides reconnues." }
+    {
+      "title": "Le safari organisé",
+      "text": "4x4 avec chauffeur-guide : la norme dans les parcs du nord."
+    },
+    {
+      "title": "Les vols intérieurs",
+      "text": "Entre Arusha, les parcs et Zanzibar."
+    },
+    {
+      "title": "Les ferries",
+      "text": "Dar es Salam-Zanzibar, choisis les compagnies rapides reconnues."
+    }
   ],
   "culture": [
     "À Zanzibar, majoritairement musulmane, tenue couvrante hors des plages.",
@@ -192,9 +324,21 @@
     "« Pole pole » (doucement) est la devise, notamment au Kilimandjaro."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Jambo / Habari", "say": "djambo / habari" },
-    { "fr": "Merci", "local": "Asante sana", "say": "assanté sana" },
-    { "fr": "Pas de problème", "local": "Hakuna matata", "say": "hakouna matata" }
+    {
+      "fr": "Bonjour",
+      "local": "Jambo / Habari",
+      "say": "djambo / habari"
+    },
+    {
+      "fr": "Merci",
+      "local": "Asante sana",
+      "say": "assanté sana"
+    },
+    {
+      "fr": "Pas de problème",
+      "local": "Hakuna matata",
+      "say": "hakouna matata"
+    }
   ],
   "checklist": [
     "Passeport valable plus de 6 mois",
@@ -205,9 +349,17 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour la Tanzanie ?", "a": "Oui, en ligne ou à l'arrivée dans les principaux aéroports. Il coûte 50 € ou 50 USD ; le passeport doit être valable plus de 6 mois." },
-    { "q": "La Tanzanie est-elle sûre ?", "a": "Le sud-est près du Mozambique est formellement déconseillé. Le nord et Zanzibar sont en vigilance renforcée : suis les consignes des opérateurs." },
-    { "q": "Quand voir la grande migration ?", "a": "De juillet à octobre au nord du Serengeti, et en janvier-février au sud pour les naissances." },
-    { "q": "Quel budget pour un safari en Tanzanie ?", "a": "Compte environ 290 à 900 $ par jour seul et 210 à 680 $ par personne à deux, safari et parcs compris, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour la Tanzanie ?",
+      "a": "Oui, en ligne ou à l'arrivée dans les principaux aéroports. Il coûte 50 € ou 50 USD ; le passeport doit être valable plus de 6 mois."
+    },
+    {
+      "q": "La Tanzanie est-elle sûre ?",
+      "a": "Le sud-est près du Mozambique est formellement déconseillé. Le nord et Zanzibar sont en vigilance renforcée : suis les consignes des opérateurs."
+    },
+    {
+      "q": "Quand voir la grande migration ?",
+      "a": "De juillet à octobre au nord du Serengeti, et en janvier-février au sud pour les naissances."
+    }
   ]
 }

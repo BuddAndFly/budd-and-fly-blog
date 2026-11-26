@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide République tchèque : Prague, Český Krumlov",
-    "description": "Préparer un voyage en République tchèque : papiers, meilleure saison, budget seul ou à deux, Prague, Český Krumlov, Kutná Hora, la Moravie. Guide PDF gratuit."
+    "description": "Préparer un voyage en République tchèque : papiers, meilleure saison, Prague, Český Krumlov, Kutná Hora, la Moravie. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/republique-tcheque/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Marchés de Noël de la place de la Vieille-Ville."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en couronnes, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou pension)",
-        "solo": "1 600 à 3 200 Kč",
-        "duo": "1 000 à 2 000 Kč"
-      },
-      {
-        "label": "Repas",
-        "solo": "600 à 1 200 Kč",
-        "duo": "600 à 1 200 Kč"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "120 à 300 Kč",
-        "duo": "120 à 300 Kč"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "200 à 600 Kč",
-        "duo": "200 à 600 Kč"
-      }
-    ],
-    "totalSolo": "2 520 à 5 300 Kč",
-    "totalDuo": "1 920 à 4 100 Kč",
-    "note": "Prague est nettement plus chère que le reste du pays. Évite les bureaux de change de rue : retire en couronnes à un distributeur de banque et refuse la conversion en euros.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pays de l'Union européenne et de l'espace Schengen : une carte d'identité ou un passeport en cours de validité suffit pour moins de 3 mois.",
     "points": [
@@ -385,10 +356,6 @@
     {
       "q": "Quand partir en République tchèque ?",
       "a": "Au printemps (avril-juin) et à l'automne (septembre-octobre). Décembre pour les marchés de Noël."
-    },
-    {
-      "q": "Quel budget pour une semaine en République tchèque ?",
-      "a": "Compte environ 2 520 à 5 300 Kč par jour seul et 1 920 à 4 100 Kč par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Danemark : quand partir, budget, Copenhague",
-    "description": "Préparer un voyage au Danemark : meilleure saison, budget seul ou à deux, Copenhague, Aarhus, Odense, Skagen et itinéraires. Guide PDF gratuit."
+    "title": "Guide Danemark : quand partir, Copenhague",
+    "description": "Préparer un voyage au Danemark : meilleure saison, Copenhague, Aarhus, Odense, Skagen et itinéraires. Guide PDF gratuit."
   },
   "hero": null,
   "summary": "Le Danemark se visite de mai à septembre, quand les journées sont longues et les terrasses ouvertes ; décembre a aussi son charme avec les marchés de Noël. Une carte d'identité suffit. Copenhague mérite trois jours, et le pays se parcourt facilement en train jusqu'à Aarhus et la pointe de Skagen.",
@@ -73,36 +73,7 @@
       "note": "Marchés de Noël et Tivoli illuminé."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en couronnes danoises, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple)",
-        "solo": "900 à 1 600 kr",
-        "duo": "600 à 1 000 kr"
-      },
-      {
-        "label": "Repas",
-        "solo": "300 à 550 kr",
-        "duo": "300 à 550 kr"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "50 à 150 kr",
-        "duo": "50 à 150 kr"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "50 à 200 kr",
-        "duo": "50 à 200 kr"
-      }
-    ],
-    "totalSolo": "1 300 à 2 500 kr",
-    "totalDuo": "1 000 à 1 900 kr",
-    "note": "Le Danemark est cher, surtout Copenhague. Les food courts (Reffen, Torvehallerne) et les vélos en libre-service aident à tenir le budget.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Le Danemark est dans l'Union européenne : une carte d'identité ou un passeport en cours de validité suffit, y compris pour les îles Féroé.",
     "points": [
@@ -389,10 +360,6 @@
     {
       "q": "Quand partir au Danemark ?",
       "a": "De mai à septembre pour les longues journées, le vélo et les terrasses. Décembre est aussi très agréable pour les marchés de Noël."
-    },
-    {
-      "q": "Quel budget pour un week-end à Copenhague ?",
-      "a": "Compte environ 1 300 à 2 500 kr par jour seul et 1 000 à 1 900 kr par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     },
     {
       "q": "Peut-on payer en euros au Danemark ?",

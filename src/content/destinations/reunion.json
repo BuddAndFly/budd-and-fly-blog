@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide La Réunion : volcan, cirques, randonnées, budget",
-    "description": "Préparer un voyage à La Réunion : papiers, santé, meilleure saison, budget, le piton de la Fournaise, Mafate, Cilaos, Salazie, le lagon. Guide PDF gratuit."
+    "title": "Guide La Réunion : volcan, cirques, randonnées",
+    "description": "Préparer un voyage à La Réunion : papiers, santé, meilleure saison, le piton de la Fournaise, Mafate, Cilaos, Salazie, le lagon. Guide PDF gratuit."
   },
   "hero": null,
   "summary": "La Réunion se visite d'avril à novembre, pendant l'hiver austral, sec et idéal pour la randonnée ; de décembre à mars, c'est la saison chaude et cyclonique. Une carte d'identité suffit pour un vol direct. Volcan actif, cirques classés à l'Unesco et lagon : l'île est un paradis de la randonnée.",
@@ -73,36 +73,7 @@
       "note": "Début de la saison chaude."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
-    "rows": [
-      {
-        "label": "Hébergement (gîte, chambre d'hôtes)",
-        "solo": "60 à 130 €",
-        "duo": "40 à 80 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "25 à 50 €",
-        "duo": "25 à 50 €"
-      },
-      {
-        "label": "Voiture et essence",
-        "solo": "30 à 50 €",
-        "duo": "15 à 25 €"
-      },
-      {
-        "label": "Activités",
-        "solo": "0 à 60 €",
-        "duo": "0 à 60 €"
-      }
-    ],
-    "totalSolo": "115 à 290 €",
-    "totalDuo": "80 à 215 €",
-    "note": "Les randonnées sont gratuites ; les gîtes de montagne de Mafate se réservent à l'avance. Le survol en hélicoptère est le gros poste optionnel.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pour un majeur français, une carte nationale d'identité ou un passeport en cours de validité suffit pour voyager à La Réunion.",
     "points": [
@@ -349,10 +320,6 @@
     {
       "q": "Y a-t-il du paludisme à La Réunion ?",
       "a": "Non, l'île est certifiée exempte de paludisme depuis 1979. Il faut toutefois se protéger des moustiques."
-    },
-    {
-      "q": "Quel budget pour 10 jours à La Réunion ?",
-      "a": "Compte environ 115 à 290 € par jour seul et 80 à 215 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

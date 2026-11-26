@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Estonie : Tallinn, îles, forêts, budget",
-    "description": "Préparer un voyage en Estonie : papiers, alertes de sécurité, meilleure saison, budget, Tallinn, Tartu, Lahemaa, l'île de Saaremaa. Guide PDF gratuit."
+    "title": "Guide Estonie : Tallinn, îles, forêts",
+    "description": "Préparer un voyage en Estonie : papiers, alertes de sécurité, meilleure saison, Tallinn, Tartu, Lahemaa, l'île de Saaremaa. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/estonie/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Marché de Noël de la place de l'Hôtel-de-Ville."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou guesthouse)",
-        "solo": "55 à 110 €",
-        "duo": "35 à 70 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "25 à 50 €",
-        "duo": "25 à 50 €"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "5 à 20 €",
-        "duo": "5 à 15 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "10 à 25 €",
-        "duo": "10 à 25 €"
-      }
-    ],
-    "totalSolo": "95 à 205 €",
-    "totalDuo": "75 à 160 €",
-    "note": "Tallinn est plus chère que le reste du pays. Les transports publics de Tallinn sont bon marché, et les bus interurbains confortables.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pays de l'Union européenne : une carte d'identité ou un passeport valable pendant tout le séjour suffit pour moins de 3 mois.",
     "points": [
@@ -391,10 +362,6 @@
     {
       "q": "Quand partir en Estonie ?",
       "a": "De mai à septembre, avec des journées très longues en juin. Décembre pour le marché de Noël de Tallinn."
-    },
-    {
-      "q": "Quel budget pour une semaine en Estonie ?",
-      "a": "Compte environ 95 à 205 € par jour seul et 75 à 160 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

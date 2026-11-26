@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Serbie : Belgrade, Novi Sad, monastères",
-    "description": "Préparer un voyage en Serbie : papiers, meilleure saison, budget seul ou à deux, Belgrade, Novi Sad, le parc de Tara, les monastères. Guide PDF gratuit."
+    "description": "Préparer un voyage en Serbie : papiers, meilleure saison, Belgrade, Novi Sad, le parc de Tara, les monastères. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/serbie/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Froid, ambiance de fêtes."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en dinars, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (guesthouse ou petit hôtel)",
-        "solo": "4 500 à 9 000 RSD",
-        "duo": "2 800 à 5 500 RSD"
-      },
-      {
-        "label": "Repas",
-        "solo": "2 000 à 4 000 RSD",
-        "duo": "2 000 à 4 000 RSD"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "500 à 1 500 RSD",
-        "duo": "400 à 1 200 RSD"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "500 à 1 500 RSD",
-        "duo": "500 à 1 500 RSD"
-      }
-    ],
-    "totalSolo": "7 500 à 16 000 RSD",
-    "totalDuo": "5 700 à 12 200 RSD",
-    "note": "La Serbie est très abordable, notamment pour les repas, copieux. Retire des dinars à un distributeur de banque.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour moins de 90 jours : un passeport ou une carte d'identité valable pendant tout le séjour suffit.",
     "points": [
@@ -363,10 +334,6 @@
     {
       "q": "Quand partir en Serbie ?",
       "a": "D'avril à juin et en septembre-octobre. L'été est chaud mais animé (festivals)."
-    },
-    {
-      "q": "Quel budget pour une semaine en Serbie ?",
-      "a": "Compte environ 7 500 à 16 000 RSD par jour seul et 5 700 à 12 200 RSD par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

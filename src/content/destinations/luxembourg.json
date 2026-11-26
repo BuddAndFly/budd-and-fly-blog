@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Luxembourg : la ville, Vianden, Mullerthal",
-    "description": "Préparer un voyage au Luxembourg : papiers, transports gratuits, meilleure saison, budget, Luxembourg-ville, Vianden, le Mullerthal. Guide PDF gratuit."
+    "description": "Préparer un voyage au Luxembourg : papiers, transports gratuits, meilleure saison, Luxembourg-ville, Vianden, le Mullerthal. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/luxembourg/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Marchés de Noël de la capitale."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors trajet aller-retour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou auberge)",
-        "solo": "90 à 180 €",
-        "duo": "60 à 115 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "35 à 70 €",
-        "duo": "35 à 70 €"
-      },
-      {
-        "label": "Transports",
-        "solo": "0 €",
-        "duo": "0 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "5 à 25 €",
-        "duo": "5 à 25 €"
-      }
-    ],
-    "totalSolo": "130 à 275 €",
-    "totalDuo": "100 à 210 €",
-    "note": "L'hébergement et les restaurants sont chers, mais les transports publics gratuits compensent. Les auberges de jeunesse sont bien situées.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pays de l'Union européenne : un passeport ou une carte d'identité en cours de validité suffit pour moins de 3 mois.",
     "points": [
@@ -348,10 +319,6 @@
     {
       "q": "Combien de jours au Luxembourg ?",
       "a": "Trois jours suffisent pour la capitale et un château ; cinq pour ajouter la randonnée dans le Mullerthal."
-    },
-    {
-      "q": "Quel budget pour un séjour au Luxembourg ?",
-      "a": "Compte environ 130 à 275 € par jour seul et 100 à 210 € par personne à deux, hors trajet aller-retour. Ces montants sont des estimations à vérifier."
     }
   ]
 }

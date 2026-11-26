@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Maldives : îles locales, visa, budget malin",
-    "description": "Préparer un voyage aux Maldives : visa gratuit à l'arrivée, sécurité, meilleure saison, budget, Malé, îles locales, resorts, plongée. Guide PDF gratuit."
+    "title": "Guide Maldives : îles locales, visa malin",
+    "description": "Préparer un voyage aux Maldives : visa gratuit à l'arrivée, sécurité, meilleure saison, Malé, îles locales, resorts, plongée. Guide PDF gratuit."
   },
   "hero": null,
   "summary": "Les Maldives se visitent de décembre à avril, pendant la saison sèche. Le visa de 30 jours est gratuit à l'arrivée, avec un passeport valable 6 mois après le séjour, un billet retour et une réservation d'hébergement. Tout le pays est en vigilance renforcée. Depuis l'ouverture des guesthouses sur les îles locales, il est possible d'y voyager sans le budget d'un resort.",
@@ -24,40 +24,66 @@
     "flight": "Environ 10 à 12 h depuis Paris pour Malé, avec une escale"
   },
   "months": [
-    { "rating": 2, "note": "Saison sèche, mer calme." },
-    { "rating": 2, "note": "Le meilleur mois." },
-    { "rating": 2, "note": "Sec, excellente visibilité pour la plongée." },
-    { "rating": 2, "note": "Chaud, fin de la saison sèche." },
-    { "rating": 1, "note": "Arrivée de la mousson du sud-ouest." },
-    { "rating": 1, "note": "Averses, prix plus bas." },
-    { "rating": 1, "note": "Mousson, mais souvent du soleil entre les averses." },
-    { "rating": 1, "note": "Raies manta à Hanifaru (atoll de Baa)." },
-    { "rating": 1, "note": "Fin de la mousson, mantas." },
-    { "rating": 1, "note": "Transition, mer plus calme." },
-    { "rating": 1, "note": "Transition vers la saison sèche." },
-    { "rating": 2, "note": "Retour du sec, haute saison des fêtes." }
+    {
+      "rating": 2,
+      "note": "Saison sèche, mer calme."
+    },
+    {
+      "rating": 2,
+      "note": "Le meilleur mois."
+    },
+    {
+      "rating": 2,
+      "note": "Sec, excellente visibilité pour la plongée."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud, fin de la saison sèche."
+    },
+    {
+      "rating": 1,
+      "note": "Arrivée de la mousson du sud-ouest."
+    },
+    {
+      "rating": 1,
+      "note": "Averses, prix plus bas."
+    },
+    {
+      "rating": 1,
+      "note": "Mousson, mais souvent du soleil entre les averses."
+    },
+    {
+      "rating": 1,
+      "note": "Raies manta à Hanifaru (atoll de Baa)."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la mousson, mantas."
+    },
+    {
+      "rating": 1,
+      "note": "Transition, mer plus calme."
+    },
+    {
+      "rating": 1,
+      "note": "Transition vers la saison sèche."
+    },
+    {
+      "rating": 2,
+      "note": "Retour du sec, haute saison des fêtes."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols : le tourisme se paie en dollars.",
-    "rows": [
-      { "label": "Hébergement (guesthouse sur île locale)", "solo": "70 à 180 $", "duo": "45 à 110 $" },
-      { "label": "Repas", "solo": "25 à 60 $", "duo": "25 à 60 $" },
-      { "label": "Transferts (ferry, speedboat)", "solo": "10 à 80 $", "duo": "10 à 80 $" },
-      { "label": "Excursions et plongée", "solo": "30 à 150 $", "duo": "30 à 150 $" }
-    ],
-    "totalSolo": "135 à 470 $",
-    "totalDuo": "110 à 400 $",
-    "note": "Ces montants concernent les îles locales ; un resort coûte souvent plusieurs centaines de dollars par nuit. Les transferts en hydravion sont très chers.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa préalable pour moins de 30 jours : il est délivré gratuitement à l'arrivée.",
     "points": [
       "Il faut un passeport valable au moins 6 mois après la fin du séjour, un billet de départ et une réservation d'hôtel (ou des ressources suffisantes).",
       "Consulte les sites de l'immigration maldivienne et de l'ambassade des Maldives à Londres, compétente pour la France."
     ],
-    "source": { "label": "France Diplomatie, Maldives, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/maldives/" },
+    "source": {
+      "label": "France Diplomatie, Maldives, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/maldives/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -67,7 +93,10 @@
       "Soleil tropical intense : protection solaire respectueuse des coraux.",
       "Assurance santé couvrant les évacuations : les îles sont éloignées des hôpitaux."
     ],
-    "source": { "label": "France Diplomatie, Maldives, Santé et Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/maldives/" },
+    "source": {
+      "label": "France Diplomatie, Maldives, Santé et Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/maldives/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -78,7 +107,10 @@
       "Gangs présents, surtout à Malé : vigilance en ville.",
       "Moussons parfois violentes, risque sismique et de tsunami : suis la météo."
     ],
-    "source": { "label": "France Diplomatie, Maldives, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/maldives/" },
+    "source": {
+      "label": "France Diplomatie, Maldives, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/maldives/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -86,16 +118,31 @@
       "slug": "iles-locales",
       "name": "Les îles locales (Maafushi, Thoddoo, Ukulhas)",
       "nights": "6 à 8 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Des îles habitées avec guesthouses et « bikini beaches », pour découvrir les Maldives à petit budget.",
       "sleep": "En guesthouse.",
       "see": [
-        { "name": "Les bancs de sable", "note": "Excursions à la demi-journée." },
-        { "name": "Le snorkeling avec raies et tortues", "note": "Directement depuis certaines plages." },
-        { "name": "La vie de village", "note": "Mosquée, école, port de pêche." }
+        {
+          "name": "Les bancs de sable",
+          "note": "Excursions à la demi-journée."
+        },
+        {
+          "name": "Le snorkeling avec raies et tortues",
+          "note": "Directement depuis certaines plages."
+        },
+        {
+          "name": "La vie de village",
+          "note": "Mosquée, école, port de pêche."
+        }
       ],
       "hidden": [
-        { "name": "Thoddoo", "note": "Une île agricole aux plantations de pastèques et de papayes." }
+        {
+          "name": "Thoddoo",
+          "note": "Une île agricole aux plantations de pastèques et de papayes."
+        }
       ],
       "eat": "Le mas huni (thon, coco, oignon) au petit-déjeuner et le garudhiya (soupe de poisson).",
       "getAround": "Ferries publics bon marché ou speedboats.",
@@ -105,13 +152,24 @@
       "slug": "male",
       "name": "Malé",
       "nights": "1 nuit",
-      "for": ["stratege"],
+      "for": [
+        "stratege"
+      ],
       "summary": "Une capitale minuscule et dense, avec sa vieille mosquée de corail et son marché aux poissons.",
       "sleep": "À Malé ou Hulhumalé, près de l'aéroport.",
       "see": [
-        { "name": "La vieille mosquée du Vendredi", "note": "Construite en blocs de corail sculptés." },
-        { "name": "Le marché aux poissons", "note": "L'arrivée des thoniers en fin de journée." },
-        { "name": "Le parc du Sultan", "note": "Un îlot de verdure." }
+        {
+          "name": "La vieille mosquée du Vendredi",
+          "note": "Construite en blocs de corail sculptés."
+        },
+        {
+          "name": "Le marché aux poissons",
+          "note": "L'arrivée des thoniers en fin de journée."
+        },
+        {
+          "name": "Le parc du Sultan",
+          "note": "Un îlot de verdure."
+        }
       ],
       "hidden": [],
       "eat": "Les « short eats », bouchées salées des cafés locaux.",
@@ -122,13 +180,25 @@
       "slug": "resort",
       "name": "Une île-hôtel (resort)",
       "nights": "2 à 4 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Une île entière pour un seul hôtel : villas sur pilotis, récif privé et calme absolu.",
       "sleep": "Dans le resort choisi, souvent en pension complète.",
       "see": [
-        { "name": "Le récif maison", "note": "Snorkeling depuis la villa." },
-        { "name": "Une plongée avec les requins-baleines", "note": "Dans l'atoll d'Ari." },
-        { "name": "Le coucher du soleil en dhoni", "note": "Bateau traditionnel." }
+        {
+          "name": "Le récif maison",
+          "note": "Snorkeling depuis la villa."
+        },
+        {
+          "name": "Une plongée avec les requins-baleines",
+          "note": "Dans l'atoll d'Ari."
+        },
+        {
+          "name": "Le coucher du soleil en dhoni",
+          "note": "Bateau traditionnel."
+        }
       ],
       "hidden": [],
       "eat": "Les restaurants du resort.",
@@ -140,27 +210,62 @@
     {
       "days": 10,
       "title": "Îles locales et resort",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jour 1", "place": "Malé", "note": "Arrivée." },
-        { "days": "Jours 2 à 7", "place": "Îles locales", "note": "Maafushi ou Ukulhas, excursions." },
-        { "days": "Jours 8 à 10", "place": "Resort", "note": "Fin du séjour, retour à l'aéroport." }
+        {
+          "days": "Jour 1",
+          "place": "Malé",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 2 à 7",
+          "place": "Îles locales",
+          "note": "Maafushi ou Ukulhas, excursions."
+        },
+        {
+          "days": "Jours 8 à 10",
+          "place": "Resort",
+          "note": "Fin du séjour, retour à l'aéroport."
+        }
       ]
     },
     {
       "days": 8,
       "title": "Plongée dans l'atoll d'Ari",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jour 1", "place": "Malé", "note": "Arrivée." },
-        { "days": "Jours 2 à 8", "place": "Atoll d'Ari", "note": "Requins-baleines et raies manta." }
+        {
+          "days": "Jour 1",
+          "place": "Malé",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 2 à 8",
+          "place": "Atoll d'Ari",
+          "note": "Requins-baleines et raies manta."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les ferries publics", "text": "Très bon marché mais peu fréquents ; vérifie les horaires." },
-    { "title": "Les speedboats", "text": "Plus rapides, entre Malé et les atolls proches." },
-    { "title": "Les hydravions", "text": "Pour les atolls lointains, chers et uniquement de jour." }
+    {
+      "title": "Les ferries publics",
+      "text": "Très bon marché mais peu fréquents ; vérifie les horaires."
+    },
+    {
+      "title": "Les speedboats",
+      "text": "Plus rapides, entre Malé et les atolls proches."
+    },
+    {
+      "title": "Les hydravions",
+      "text": "Pour les atolls lointains, chers et uniquement de jour."
+    }
   ],
   "culture": [
     "Pays musulman : tenue couvrante sur les îles locales, hors des plages dédiées.",
@@ -168,9 +273,21 @@
     "Il est interdit d'importer de l'alcool, du porc et des articles religieux non musulmans."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Assalaamu alaikum", "say": "assalamou aleikoum" },
-    { "fr": "Merci", "local": "Shukuriyaa", "say": "choukouriya" },
-    { "fr": "Comment ça va ?", "local": "Haalu kihineh?", "say": "halou kihiné" }
+    {
+      "fr": "Bonjour",
+      "local": "Assalaamu alaikum",
+      "say": "assalamou aleikoum"
+    },
+    {
+      "fr": "Merci",
+      "local": "Shukuriyaa",
+      "say": "choukouriya"
+    },
+    {
+      "fr": "Comment ça va ?",
+      "local": "Haalu kihineh?",
+      "say": "halou kihiné"
+    }
   ],
   "checklist": [
     "Passeport valable 6 mois après le séjour",
@@ -181,9 +298,13 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour les Maldives ?", "a": "Non : un visa de 30 jours est délivré gratuitement à l'arrivée, avec un passeport valable 6 mois après le séjour, un billet retour et une réservation." },
-    { "q": "Peut-on aller aux Maldives avec un petit budget ?", "a": "Oui, grâce aux guesthouses des îles locales et aux ferries publics. Les resorts et les hydravions restent très chers." },
-    { "q": "Quand partir aux Maldives ?", "a": "De décembre à avril. La mousson de mai à novembre apporte des averses, mais aussi des prix plus bas et les raies manta." },
-    { "q": "Quel budget pour 10 jours aux Maldives ?", "a": "Compte environ 135 à 470 $ par jour seul et 110 à 400 $ par personne à deux en îles locales, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour les Maldives ?",
+      "a": "Non : un visa de 30 jours est délivré gratuitement à l'arrivée, avec un passeport valable 6 mois après le séjour, un billet retour et une réservation."
+    },
+    {
+      "q": "Quand partir aux Maldives ?",
+      "a": "De décembre à avril. La mousson de mai à novembre apporte des averses, mais aussi des prix plus bas et les raies manta."
+    }
   ]
 }

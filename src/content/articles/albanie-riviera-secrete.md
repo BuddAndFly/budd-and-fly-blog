@@ -1,7 +1,7 @@
 ---
 title: "La Riviera albanaise : plages, villages et conseils pratiques"
 seoTitle: "Riviera albanaise : plages, saison et conseils pratiques"
-description: "Ksamil, Himarë, Dhërmi, Butrint : découvrir la Riviera albanaise, la meilleure saison, l'itinéraire, le budget et les formalités pour un Français."
+description: "Ksamil, Himarë, Dhërmi, Butrint : découvrir la Riviera albanaise, la meilleure saison, l'itinéraire et les formalités pour un Français."
 category: "Idées de voyage"
 status: "brouillon"
 publishedAt: "2026-11-25"
@@ -45,10 +45,6 @@ Prolonge vers **Gjirokastër**, ville de pierre classée à l'Unesco, à environ
 ## Les formalités
 
 Les règles d'entrée pour un Français (papiers acceptés, durée du séjour) sont détaillées dans notre guide, avec la date de vérification sur France Diplomatie. Pense à la carte verte d'assurance si tu viens en voiture.
-
-## Le budget
-
-L'Albanie reste l'un des pays les plus abordables d'Europe, sauf en plein été sur la côte. Le tableau « seul » et « à deux » de notre guide donne des ordres de grandeur.
 
 ## Nos conseils
 

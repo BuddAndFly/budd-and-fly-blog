@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Martinique : plages, montagne Pelée, budget",
-    "description": "Préparer un voyage en Martinique : papiers, santé, meilleure saison, budget, Les Anses-d'Arlet, Saint-Pierre, la montagne Pelée, le sud. Guide PDF gratuit."
+    "title": "Guide Martinique : plages, montagne Pelée",
+    "description": "Préparer un voyage en Martinique : papiers, santé, meilleure saison, Les Anses-d'Arlet, Saint-Pierre, la montagne Pelée, le sud. Guide PDF gratuit."
   },
   "hero": null,
   "summary": "La Martinique se visite de décembre à avril, pendant la saison sèche ; de juin à novembre, c'est la saison des pluies et des cyclones. Une carte d'identité suffit pour un vol direct. Plages du sud, forêt et montagne Pelée au nord, distilleries et culture créole : l'île est variée et facile à parcourir.",
@@ -73,36 +73,7 @@
       "note": "Retour du sec."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
-    "rows": [
-      {
-        "label": "Hébergement (gîte, bungalow, hôtel)",
-        "solo": "70 à 150 €",
-        "duo": "45 à 95 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "25 à 55 €",
-        "duo": "25 à 55 €"
-      },
-      {
-        "label": "Voiture et essence",
-        "solo": "30 à 50 €",
-        "duo": "15 à 25 €"
-      },
-      {
-        "label": "Activités",
-        "solo": "5 à 50 €",
-        "duo": "5 à 50 €"
-      }
-    ],
-    "totalSolo": "130 à 305 €",
-    "totalDuo": "90 à 225 €",
-    "note": "La vie est chère sur place : les gîtes avec cuisine et les snacks locaux allègent le budget.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pour un majeur français, une carte nationale d'identité ou un passeport en cours de validité suffit pour voyager en Martinique.",
     "points": [
@@ -328,10 +299,6 @@
     {
       "q": "Quelle est la meilleure plage de Martinique ?",
       "a": "Les Salines au sud, et les Anses-d'Arlet pour nager avec les tortues."
-    },
-    {
-      "q": "Quel budget pour 10 jours en Martinique ?",
-      "a": "Compte environ 130 à 305 € par jour seul et 90 à 225 € par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

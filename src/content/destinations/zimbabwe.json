@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Zimbabwe : chutes Victoria, Hwange, visa",
-    "description": "Préparer un voyage au Zimbabwe : visa, sécurité, meilleure saison, budget, les chutes Victoria, Hwange, Mana Pools, Grand Zimbabwe. Guide PDF gratuit."
+    "description": "Préparer un voyage au Zimbabwe : visa, sécurité, meilleure saison, les chutes Victoria, Hwange, Mana Pools, Grand Zimbabwe. Guide PDF gratuit."
   },
   "hero": null,
   "summary": "Le Zimbabwe se visite de mai à octobre, en saison sèche, idéale pour les safaris ; les chutes Victoria sont au plus fort de février à mai. Un visa est obligatoire, en ligne ou à l'arrivée, payable en dollars. Seules la zone diamantifère de Marange et la frontière nord avec le Mozambique sont déconseillées. Chutes Victoria, Hwange et Mana Pools comptent parmi les plus beaux sites d'Afrique australe.",
@@ -24,40 +24,66 @@
     "flight": "Environ 13 h depuis Paris pour Victoria Falls ou Harare, avec une escale"
   },
   "months": [
-    { "rating": 1, "note": "Saison des pluies, paysages verts." },
-    { "rating": 1, "note": "Pluies ; chutes qui grossissent." },
-    { "rating": 1, "note": "Chutes impressionnantes, beaucoup d'embruns." },
-    { "rating": 2, "note": "Chutes à leur maximum." },
-    { "rating": 2, "note": "Début du sec, chutes encore puissantes." },
-    { "rating": 2, "note": "Sec et frais, excellent pour les safaris." },
-    { "rating": 2, "note": "Haute saison des safaris." },
-    { "rating": 2, "note": "Animaux concentrés aux points d'eau." },
-    { "rating": 2, "note": "Excellent à Mana Pools et Hwange." },
-    { "rating": 1, "note": "Très chaud, chutes au plus bas côté zambien." },
-    { "rating": 1, "note": "Chaleur et premières pluies." },
-    { "rating": 1, "note": "Pluies." }
+    {
+      "rating": 1,
+      "note": "Saison des pluies, paysages verts."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies ; chutes qui grossissent."
+    },
+    {
+      "rating": 1,
+      "note": "Chutes impressionnantes, beaucoup d'embruns."
+    },
+    {
+      "rating": 2,
+      "note": "Chutes à leur maximum."
+    },
+    {
+      "rating": 2,
+      "note": "Début du sec, chutes encore puissantes."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et frais, excellent pour les safaris."
+    },
+    {
+      "rating": 2,
+      "note": "Haute saison des safaris."
+    },
+    {
+      "rating": 2,
+      "note": "Animaux concentrés aux points d'eau."
+    },
+    {
+      "rating": 2,
+      "note": "Excellent à Mana Pools et Hwange."
+    },
+    {
+      "rating": 1,
+      "note": "Très chaud, chutes au plus bas côté zambien."
+    },
+    {
+      "rating": 1,
+      "note": "Chaleur et premières pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols : le tourisme se paie en dollars.",
-    "rows": [
-      { "label": "Hébergement (lodge, guesthouse ou camping)", "solo": "50 à 400 $", "duo": "35 à 300 $" },
-      { "label": "Repas", "solo": "20 à 50 $", "duo": "20 à 50 $" },
-      { "label": "Safaris et transports", "solo": "60 à 250 $", "duo": "40 à 180 $" },
-      { "label": "Entrées des parcs et activités", "solo": "30 à 150 $", "duo": "30 à 150 $" }
-    ],
-    "totalSolo": "160 à 850 $",
-    "totalDuo": "125 à 680 $",
-    "note": "Prévois des dollars en espèces, en petites coupures : les cartes ne passent pas partout et les distributeurs sont peu fiables.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Un visa est obligatoire. Il s'obtient en ligne sur le site officiel du e-visa ou à l'arrivée (à titre indicatif 30 USD en entrée simple, 45 USD en double entrée, en espèces).",
     "points": [
       "Le pré-enregistrement en ligne est fortement recommandé.",
       "Les tarifs peuvent changer à tout moment."
     ],
-    "source": { "label": "France Diplomatie, Zimbabwe, Entrée / séjour (mise à jour du 14 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/zimbabwe/" },
+    "source": {
+      "label": "France Diplomatie, Zimbabwe, Entrée / séjour (mise à jour du 14 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/zimbabwe/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -68,7 +94,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Assurance avec évacuation sanitaire indispensable."
     ],
-    "source": { "label": "France Diplomatie, Zimbabwe, Santé (mise à jour du 14 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/zimbabwe/" },
+    "source": {
+      "label": "France Diplomatie, Zimbabwe, Santé (mise à jour du 14 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/zimbabwe/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -78,7 +107,10 @@
       "N'achète jamais de diamants à des vendeurs non agréés : les peines sont sévères.",
       "Évite les rassemblements et les lieux très fréquentés la nuit, et respecte les consignes des autorités."
     ],
-    "source": { "label": "France Diplomatie, Zimbabwe, Sécurité (mise à jour du 14 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/zimbabwe/" },
+    "source": {
+      "label": "France Diplomatie, Zimbabwe, Sécurité (mise à jour du 14 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/zimbabwe/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -86,16 +118,31 @@
       "slug": "chutes-victoria",
       "name": "Les chutes Victoria",
       "nights": "3 nuits",
-      "for": ["tous", "energique"],
+      "for": [
+        "tous",
+        "energique"
+      ],
       "summary": "« La fumée qui gronde » : un rideau d'eau de 1,7 km de large, classé à l'Unesco.",
       "sleep": "À Victoria Falls, la ville.",
       "see": [
-        { "name": "Le sentier des chutes", "note": "Une quinzaine de points de vue, imperméable indispensable." },
-        { "name": "La croisière au coucher du soleil sur le Zambèze", "note": "Hippopotames et éléphants." },
-        { "name": "Le survol en hélicoptère", "note": "La vue d'ensemble des gorges." }
+        {
+          "name": "Le sentier des chutes",
+          "note": "Une quinzaine de points de vue, imperméable indispensable."
+        },
+        {
+          "name": "La croisière au coucher du soleil sur le Zambèze",
+          "note": "Hippopotames et éléphants."
+        },
+        {
+          "name": "Le survol en hélicoptère",
+          "note": "La vue d'ensemble des gorges."
+        }
       ],
       "hidden": [
-        { "name": "Le parc national du Zambèze", "note": "Safari tout près de la ville." }
+        {
+          "name": "Le parc national du Zambèze",
+          "note": "Safari tout près de la ville."
+        }
       ],
       "eat": "Le sadza (bouillie de maïs) avec du ragoût, et la viande de gibier.",
       "getAround": "À pied et en taxi ; les chutes sont à 10 minutes de la ville.",
@@ -105,13 +152,25 @@
       "slug": "hwange",
       "name": "Le parc national de Hwange",
       "nights": "3 nuits",
-      "for": ["explorateur", "tous"],
+      "for": [
+        "explorateur",
+        "tous"
+      ],
       "summary": "Le plus grand parc du pays, célèbre pour ses immenses troupeaux d'éléphants.",
       "sleep": "En camp de toile ou dans les camps du parc.",
       "see": [
-        { "name": "Les points d'eau", "note": "Éléphants par centaines en saison sèche." },
-        { "name": "Les lions et lycaons", "note": "Avec un guide expérimenté." },
-        { "name": "Le safari à pied", "note": "Avec des guides professionnels réputés." }
+        {
+          "name": "Les points d'eau",
+          "note": "Éléphants par centaines en saison sèche."
+        },
+        {
+          "name": "Les lions et lycaons",
+          "note": "Avec un guide expérimenté."
+        },
+        {
+          "name": "Le safari à pied",
+          "note": "Avec des guides professionnels réputés."
+        }
       ],
       "hidden": [],
       "eat": "Les repas du camp.",
@@ -122,16 +181,31 @@
       "slug": "mana-pools",
       "name": "Mana Pools et le lac Kariba",
       "nights": "3 nuits",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "Les berges sauvages du Zambèze, classées à l'Unesco, explorées en canoë ou à pied.",
       "sleep": "En camp de toile.",
       "see": [
-        { "name": "Le canoë sur le Zambèze", "note": "Avec un guide agréé." },
-        { "name": "Les éléphants dressés sur leurs pattes arrière", "note": "Pour atteindre les gousses d'acacia." },
-        { "name": "Le lac Kariba", "note": "Arbres morts dans l'eau et couchers de soleil." }
+        {
+          "name": "Le canoë sur le Zambèze",
+          "note": "Avec un guide agréé."
+        },
+        {
+          "name": "Les éléphants dressés sur leurs pattes arrière",
+          "note": "Pour atteindre les gousses d'acacia."
+        },
+        {
+          "name": "Le lac Kariba",
+          "note": "Arbres morts dans l'eau et couchers de soleil."
+        }
       ],
       "hidden": [
-        { "name": "Le Grand Zimbabwe", "note": "Les ruines de pierre d'un royaume médiéval, au sud du pays." }
+        {
+          "name": "Le Grand Zimbabwe",
+          "note": "Les ruines de pierre d'un royaume médiéval, au sud du pays."
+        }
       ],
       "eat": "Les poissons kapenta du lac Kariba.",
       "getAround": "Vol léger, ou 4x4 en saison sèche.",
@@ -142,26 +216,58 @@
     {
       "days": 9,
       "title": "Chutes et safaris",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Chutes Victoria", "note": "Arrivée." },
-        { "days": "Jours 4 à 6", "place": "Hwange", "note": "Éléphants." },
-        { "days": "Jours 7 à 9", "place": "Mana Pools", "note": "Vol léger, retour par Harare." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Chutes Victoria",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Hwange",
+          "note": "Éléphants."
+        },
+        {
+          "days": "Jours 7 à 9",
+          "place": "Mana Pools",
+          "note": "Vol léger, retour par Harare."
+        }
       ]
     },
     {
       "days": 6,
       "title": "Chutes Victoria et Chobe",
-      "for": ["energique", "lent"],
+      "for": [
+        "energique",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Chutes Victoria", "note": "Arrivée." },
-        { "days": "Jours 4 à 6", "place": "Chobe (Botswana)", "note": "À 1 h 30 de route." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Chutes Victoria",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Chobe (Botswana)",
+          "note": "À 1 h 30 de route."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Vols légers et transferts", "text": "Pour rejoindre les parcs isolés." },
-    { "title": "En voiture", "text": "Possible ; carburant parfois difficile à trouver, ne roule pas de nuit." }
+    {
+      "title": "Vols légers et transferts",
+      "text": "Pour rejoindre les parcs isolés."
+    },
+    {
+      "title": "En voiture",
+      "text": "Possible ; carburant parfois difficile à trouver, ne roule pas de nuit."
+    }
   ],
   "culture": [
     "Les Zimbabwéens sont réputés pour leur accueil et leur niveau d'anglais.",
@@ -169,9 +275,21 @@
     "Le pourboire est apprécié."
   ],
   "phrases": [
-    { "fr": "Bonjour (shona)", "local": "Mhoro", "say": "mhoro" },
-    { "fr": "Merci (shona)", "local": "Ndatenda", "say": "ndatenda" },
-    { "fr": "Bonjour (ndébélé)", "local": "Sawubona", "say": "saoubona" }
+    {
+      "fr": "Bonjour (shona)",
+      "local": "Mhoro",
+      "say": "mhoro"
+    },
+    {
+      "fr": "Merci (shona)",
+      "local": "Ndatenda",
+      "say": "ndatenda"
+    },
+    {
+      "fr": "Bonjour (ndébélé)",
+      "local": "Sawubona",
+      "say": "saoubona"
+    }
   ],
   "checklist": [
     "Passeport valide et visa (en ligne ou à l'arrivée)",
@@ -181,9 +299,17 @@
     "Assurance avec évacuation sanitaire"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour le Zimbabwe ?", "a": "Oui, en ligne ou à l'arrivée (environ 30 USD en entrée simple, en espèces). Le pré-enregistrement en ligne est fortement recommandé." },
-    { "q": "Le Zimbabwe est-il sûr ?", "a": "Les zones touristiques ne sont pas déconseillées. Évite Marange, la frontière nord avec le Mozambique et les rassemblements." },
-    { "q": "Quand voir les chutes Victoria ?", "a": "Au plus fort de février à mai (beaucoup d'embruns) ; de juin à septembre pour la meilleure vue." },
-    { "q": "Quel budget pour un voyage au Zimbabwe ?", "a": "Compte environ 160 à 850 $ par jour seul et 125 à 680 $ par personne à deux selon le confort, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour le Zimbabwe ?",
+      "a": "Oui, en ligne ou à l'arrivée (environ 30 USD en entrée simple, en espèces). Le pré-enregistrement en ligne est fortement recommandé."
+    },
+    {
+      "q": "Le Zimbabwe est-il sûr ?",
+      "a": "Les zones touristiques ne sont pas déconseillées. Évite Marange, la frontière nord avec le Mozambique et les rassemblements."
+    },
+    {
+      "q": "Quand voir les chutes Victoria ?",
+      "a": "Au plus fort de février à mai (beaucoup d'embruns) ; de juin à septembre pour la meilleure vue."
+    }
   ]
 }

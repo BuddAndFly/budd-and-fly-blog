@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide République dominicaine : Samaná, Punta Cana",
-    "description": "Préparer un voyage en République dominicaine : e-ticket obligatoire, sécurité, meilleure saison, budget, Saint-Domingue, Samaná, Punta Cana. PDF gratuit."
+    "description": "Préparer un voyage en République dominicaine : e-ticket obligatoire, sécurité, meilleure saison, Saint-Domingue, Samaná, Punta Cana. PDF gratuit."
   },
   "hero": null,
   "summary": "La République dominicaine se visite de décembre à avril, en saison sèche, et de janvier à mars pour les baleines de Samaná. Le formulaire e-ticket (QR code gratuit) est obligatoire à l'entrée et à la sortie. Tout le pays est en vigilance renforcée : au-delà des complexes hôteliers, la péninsule de Samaná et Saint-Domingue colonial valent le détour.",
@@ -24,33 +24,56 @@
     "flight": "Environ 9 h depuis Paris pour Punta Cana ou Saint-Domingue"
   },
   "months": [
-    { "rating": 2, "note": "Sec ; baleines à Samaná." },
-    { "rating": 2, "note": "Baleines, carnaval." },
-    { "rating": 2, "note": "Fin de la saison des baleines." },
-    { "rating": 2, "note": "Sec et chaud." },
-    { "rating": 1, "note": "Premières pluies." },
-    { "rating": 1, "note": "Chaud, averses, début de la saison cyclonique." },
-    { "rating": 1, "note": "Chaud, cyclones possibles." },
-    { "rating": 0, "note": "Cyclones." },
-    { "rating": 0, "note": "Pic de la saison cyclonique." },
-    { "rating": 0, "note": "Cyclones encore possibles, pluies." },
-    { "rating": 1, "note": "Fin de la saison cyclonique." },
-    { "rating": 2, "note": "Retour du sec." }
+    {
+      "rating": 2,
+      "note": "Sec ; baleines à Samaná."
+    },
+    {
+      "rating": 2,
+      "note": "Baleines, carnaval."
+    },
+    {
+      "rating": 2,
+      "note": "Fin de la saison des baleines."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Premières pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud, averses, début de la saison cyclonique."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud, cyclones possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Cyclones."
+    },
+    {
+      "rating": 0,
+      "note": "Pic de la saison cyclonique."
+    },
+    {
+      "rating": 0,
+      "note": "Cyclones encore possibles, pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison cyclonique."
+    },
+    {
+      "rating": 2,
+      "note": "Retour du sec."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en pesos dominicains, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      { "label": "Hébergement (guesthouse ou hôtel simple)", "solo": "3 000 à 7 000 RD$", "duo": "1 800 à 4 200 RD$" },
-      { "label": "Repas", "solo": "1 500 à 3 500 RD$", "duo": "1 500 à 3 500 RD$" },
-      { "label": "Transports", "solo": "500 à 2 500 RD$", "duo": "400 à 1 800 RD$" },
-      { "label": "Excursions", "solo": "1 000 à 4 000 RD$", "duo": "1 000 à 4 000 RD$" }
-    ],
-    "totalSolo": "6 000 à 17 000 RD$",
-    "totalDuo": "4 700 à 13 500 RD$",
-    "note": "Les complexes « tout compris » ont leur propre logique de prix. En voyage indépendant, les bus Caribe Tours et Metro Tours sont bon marché.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Toute entrée et sortie du territoire exige un formulaire en ligne gratuit (e-ticket) qui génère un QR code, à remplir avant le départ ou à l'arrivée.",
     "points": [
@@ -58,7 +81,10 @@
       "Les frontières terrestres, aériennes et maritimes avec Haïti sont actuellement fermées.",
       "Signale ta présence sur Ariane."
     ],
-    "source": { "label": "France Diplomatie, République dominicaine, Entrée / séjour (mise à jour du 15 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-dominicaine/" },
+    "source": {
+      "label": "France Diplomatie, République dominicaine, Entrée / séjour (mise à jour du 15 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-dominicaine/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -68,7 +94,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Assurance santé et rapatriement indispensable."
     ],
-    "source": { "label": "France Diplomatie, République dominicaine, Santé (mise à jour du 15 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-dominicaine/" },
+    "source": {
+      "label": "France Diplomatie, République dominicaine, Santé (mise à jour du 15 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-dominicaine/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -78,7 +107,10 @@
       "Évite de circuler la nuit sauf raison impérieuse ; la saison des pluies rend les routes dangereuses.",
       "Verrouille portes et vitres du véhicule, même pour un court arrêt."
     ],
-    "source": { "label": "France Diplomatie, République dominicaine, Sécurité (mise à jour du 15 octobre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-dominicaine/" },
+    "source": {
+      "label": "France Diplomatie, République dominicaine, Sécurité (mise à jour du 15 octobre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-dominicaine/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -86,16 +118,31 @@
       "slug": "saint-domingue",
       "name": "Saint-Domingue",
       "nights": "2 nuits",
-      "for": ["stratege", "tous"],
+      "for": [
+        "stratege",
+        "tous"
+      ],
       "summary": "La première ville coloniale des Amériques, avec sa cathédrale et ses rues pavées.",
       "sleep": "Dans la Zona Colonial.",
       "see": [
-        { "name": "La Zona Colonial", "note": "Classée à l'Unesco." },
-        { "name": "La cathédrale Santa María la Menor", "note": "La plus ancienne des Amériques." },
-        { "name": "L'Alcázar de Colón", "note": "Le palais du fils de Christophe Colomb." }
+        {
+          "name": "La Zona Colonial",
+          "note": "Classée à l'Unesco."
+        },
+        {
+          "name": "La cathédrale Santa María la Menor",
+          "note": "La plus ancienne des Amériques."
+        },
+        {
+          "name": "L'Alcázar de Colón",
+          "note": "Le palais du fils de Christophe Colomb."
+        }
       ],
       "hidden": [
-        { "name": "Los Tres Ojos", "note": "Des lacs souterrains dans des grottes." }
+        {
+          "name": "Los Tres Ojos",
+          "note": "Des lacs souterrains dans des grottes."
+        }
       ],
       "eat": "La bandera dominicana (riz, haricots, viande) et le mangú.",
       "getAround": "À pied dans la Zona Colonial, VTC ailleurs.",
@@ -105,16 +152,31 @@
       "slug": "samana",
       "name": "La péninsule de Samaná",
       "nights": "4 nuits",
-      "for": ["lent", "explorateur"],
+      "for": [
+        "lent",
+        "explorateur"
+      ],
       "summary": "Plages sauvages, cocotiers et, de janvier à mars, les baleines à bosse.",
       "sleep": "À Las Terrenas ou Las Galeras.",
       "see": [
-        { "name": "L'observation des baleines", "note": "De mi-janvier à mars, avec un opérateur agréé." },
-        { "name": "La cascade El Limón", "note": "À pied ou à cheval." },
-        { "name": "La plage Rincón", "note": "Une des plus belles du pays." }
+        {
+          "name": "L'observation des baleines",
+          "note": "De mi-janvier à mars, avec un opérateur agréé."
+        },
+        {
+          "name": "La cascade El Limón",
+          "note": "À pied ou à cheval."
+        },
+        {
+          "name": "La plage Rincón",
+          "note": "Une des plus belles du pays."
+        }
       ],
       "hidden": [
-        { "name": "Le parc Los Haitises", "note": "Mangroves et îlots en bateau." }
+        {
+          "name": "Le parc Los Haitises",
+          "note": "Mangroves et îlots en bateau."
+        }
       ],
       "eat": "Le poisson à la noix de coco (pescado con coco).",
       "getAround": "Bus depuis Saint-Domingue, puis motos-taxis ou voiture.",
@@ -124,13 +186,25 @@
       "slug": "punta-cana",
       "name": "Punta Cana et l'est",
       "nights": "3 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Les grandes plages de sable blanc et l'île de Saona.",
       "sleep": "À Bávaro ou Bayahibe, plus authentique.",
       "see": [
-        { "name": "L'île de Saona", "note": "En excursion depuis Bayahibe." },
-        { "name": "La plage de Bávaro", "note": "Une immense plage de sable blanc." },
-        { "name": "Altos de Chavón", "note": "Une réplique de village méditerranéen." }
+        {
+          "name": "L'île de Saona",
+          "note": "En excursion depuis Bayahibe."
+        },
+        {
+          "name": "La plage de Bávaro",
+          "note": "Une immense plage de sable blanc."
+        },
+        {
+          "name": "Altos de Chavón",
+          "note": "Une réplique de village méditerranéen."
+        }
       ],
       "hidden": [],
       "eat": "Les fruits de mer des petits restaurants de Bayahibe.",
@@ -142,27 +216,61 @@
     {
       "days": 10,
       "title": "Ville, baleines et plages",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Saint-Domingue", "note": "Arrivée." },
-        { "days": "Jours 3 à 6", "place": "Samaná", "note": "Baleines et plages." },
-        { "days": "Jours 7 à 10", "place": "Bayahibe", "note": "Île de Saona, retour depuis Punta Cana." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Saint-Domingue",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 3 à 6",
+          "place": "Samaná",
+          "note": "Baleines et plages."
+        },
+        {
+          "days": "Jours 7 à 10",
+          "place": "Bayahibe",
+          "note": "Île de Saona, retour depuis Punta Cana."
+        }
       ]
     },
     {
       "days": 7,
       "title": "Samaná sauvage",
-      "for": ["explorateur"],
+      "for": [
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Saint-Domingue", "note": "Arrivée." },
-        { "days": "Jours 3 à 7", "place": "Samaná et Los Haitises", "note": "Retour par Saint-Domingue." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Saint-Domingue",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 3 à 7",
+          "place": "Samaná et Los Haitises",
+          "note": "Retour par Saint-Domingue."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les bus", "text": "Caribe Tours et Metro Tours relient les villes, confortables et bon marché." },
-    { "title": "Les guaguas", "text": "Minibus locaux, très bon marché mais bondés." },
-    { "title": "En voiture", "text": "Conduite dangereuse ; évite les routes de nuit." }
+    {
+      "title": "Les bus",
+      "text": "Caribe Tours et Metro Tours relient les villes, confortables et bon marché."
+    },
+    {
+      "title": "Les guaguas",
+      "text": "Minibus locaux, très bon marché mais bondés."
+    },
+    {
+      "title": "En voiture",
+      "text": "Conduite dangereuse ; évite les routes de nuit."
+    }
   ],
   "culture": [
     "La musique (merengue, bachata) est partout.",
@@ -170,9 +278,21 @@
     "Tenue correcte hors des plages, notamment dans les églises."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Buenos días", "say": "bouénos dias" },
-    { "fr": "Merci", "local": "Gracias", "say": "grassias" },
-    { "fr": "Ça va ?", "local": "¿Qué lo que?", "say": "ké lo ké" }
+    {
+      "fr": "Bonjour",
+      "local": "Buenos días",
+      "say": "bouénos dias"
+    },
+    {
+      "fr": "Merci",
+      "local": "Gracias",
+      "say": "grassias"
+    },
+    {
+      "fr": "Ça va ?",
+      "local": "¿Qué lo que?",
+      "say": "ké lo ké"
+    }
   ],
   "checklist": [
     "Passeport valide",
@@ -182,9 +302,17 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Quelles formalités pour la République dominicaine ?", "a": "Un passeport valide et le formulaire en ligne e-ticket (gratuit, QR code) pour l'entrée et la sortie." },
-    { "q": "La République dominicaine est-elle sûre ?", "a": "Le pays est en vigilance renforcée. Évite de circuler la nuit et méfie-toi des arnaques visant les étrangers." },
-    { "q": "Quand voir les baleines à Samaná ?", "a": "De mi-janvier à mars, avec un opérateur agréé." },
-    { "q": "Quel budget pour 10 jours en République dominicaine ?", "a": "Compte environ 6 000 à 17 000 RD$ par jour seul et 4 700 à 13 500 RD$ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Quelles formalités pour la République dominicaine ?",
+      "a": "Un passeport valide et le formulaire en ligne e-ticket (gratuit, QR code) pour l'entrée et la sortie."
+    },
+    {
+      "q": "La République dominicaine est-elle sûre ?",
+      "a": "Le pays est en vigilance renforcée. Évite de circuler la nuit et méfie-toi des arnaques visant les étrangers."
+    },
+    {
+      "q": "Quand voir les baleines à Samaná ?",
+      "a": "De mi-janvier à mars, avec un opérateur agréé."
+    }
   ]
 }

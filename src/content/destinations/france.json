@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide France : où partir, saisons, budget, itinéraires",
-    "description": "Voyager en France : meilleure saison par région, budget seul ou à deux, Paris, la Provence, la Bretagne, les Alpes, le Pays basque. Guide PDF gratuit."
+    "title": "Guide France : où partir, saisons, itinéraires",
+    "description": "Voyager en France : meilleure saison par région, Paris, la Provence, la Bretagne, les Alpes, le Pays basque. Guide PDF gratuit."
   },
   "hero": null,
   "summary": "La France se visite toute l'année : le printemps et septembre sont idéaux partout, l'été pour la mer et la montagne, l'hiver pour le ski. Pour un voyage en France, une carte d'identité, un passeport ou même un permis de conduire suffit en avion. Paris, la Provence, la Bretagne, les Alpes et le Pays basque se relient très bien en train.",
@@ -73,36 +73,7 @@
       "note": "Marchés de Noël (Strasbourg, Colmar), début du ski."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors trajet aller-retour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple, chambre d'hôtes, auberge)",
-        "solo": "70 à 150 €",
-        "duo": "45 à 95 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "30 à 60 €",
-        "duo": "30 à 60 €"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "5 à 30 €",
-        "duo": "5 à 25 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "10 à 30 €",
-        "duo": "10 à 30 €"
-      }
-    ],
-    "totalSolo": "115 à 270 €",
-    "totalDuo": "90 à 210 €",
-    "note": "Paris et la Côte d'Azur en été sont nettement plus chères. Les billets de train réservés tôt et les cartes de réduction font baisser le coût des trajets.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pour un vol en France, un Français doit présenter un document d'identité avec photo : carte d'identité, passeport, titre de séjour ou permis de conduire (si l'on est reconnaissable sur la photo).",
     "points": [
@@ -404,10 +375,6 @@
     {
       "q": "Où partir en France pour une semaine ?",
       "a": "Paris et la Provence, la Bretagne, les Alpes ou le Pays basque : chaque région tient en une semaine."
-    },
-    {
-      "q": "Quel budget pour une semaine en France ?",
-      "a": "Compte environ 115 à 270 € par jour seul et 90 à 210 € par personne à deux, hors trajet. Ces montants sont des estimations à vérifier."
     }
   ]
 }

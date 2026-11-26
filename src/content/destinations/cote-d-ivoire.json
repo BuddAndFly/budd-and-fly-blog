@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Côte d'Ivoire : Abidjan, Grand-Bassam, Assinie",
-    "description": "Préparer un voyage en Côte d'Ivoire : visa biométrique, fièvre jaune, zones déconseillées, meilleure saison, budget, Abidjan, Grand-Bassam. PDF gratuit."
+    "description": "Préparer un voyage en Côte d'Ivoire : visa biométrique, fièvre jaune, zones déconseillées, meilleure saison, Abidjan, Grand-Bassam. PDF gratuit."
   },
   "hero": null,
   "summary": "La Côte d'Ivoire se visite de novembre à mars, en saison sèche. Le visa biométrique (e-visa) et la vaccination contre la fièvre jaune sont obligatoires, avec un passeport valable plus de 6 mois. Le nord, près du Mali et du Burkina Faso, est formellement déconseillé ; Abidjan, la ville coloniale de Grand-Bassam, les plages d'Assinie et Yamoussoukro sont en vigilance renforcée.",
@@ -24,40 +24,66 @@
     "flight": "Environ 6 h 30 en vol direct depuis Paris pour Abidjan"
   },
   "months": [
-    { "rating": 2, "note": "Saison sèche, harmattan." },
-    { "rating": 2, "note": "Sec et chaud." },
-    { "rating": 2, "note": "Chaud." },
-    { "rating": 1, "note": "Début des pluies ; festival des musiques urbaines d'Anoumabo (Femua) certaines années." },
-    { "rating": 0, "note": "Grandes pluies sur la côte." },
-    { "rating": 0, "note": "Le mois le plus pluvieux à Abidjan." },
-    { "rating": 1, "note": "Fin des grandes pluies." },
-    { "rating": 1, "note": "Petite saison sèche." },
-    { "rating": 1, "note": "Petite saison sèche." },
-    { "rating": 1, "note": "Petites pluies." },
-    { "rating": 2, "note": "Retour du sec." },
-    { "rating": 2, "note": "Sec, fêtes." }
+    {
+      "rating": 2,
+      "note": "Saison sèche, harmattan."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et chaud."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud."
+    },
+    {
+      "rating": 1,
+      "note": "Début des pluies ; festival des musiques urbaines d'Anoumabo (Femua) certaines années."
+    },
+    {
+      "rating": 0,
+      "note": "Grandes pluies sur la côte."
+    },
+    {
+      "rating": 0,
+      "note": "Le mois le plus pluvieux à Abidjan."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des grandes pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Petite saison sèche."
+    },
+    {
+      "rating": 1,
+      "note": "Petite saison sèche."
+    },
+    {
+      "rating": 1,
+      "note": "Petites pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Retour du sec."
+    },
+    {
+      "rating": 2,
+      "note": "Sec, fêtes."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en francs CFA, par jour et par personne, hors vols (1 € = 655,957 F CFA).",
-    "rows": [
-      { "label": "Hébergement (hôtel simple ou résidence)", "solo": "30 000 à 80 000 F CFA", "duo": "18 000 à 50 000 F CFA" },
-      { "label": "Repas", "solo": "8 000 à 25 000 F CFA", "duo": "8 000 à 25 000 F CFA" },
-      { "label": "Transports (VTC, chauffeur)", "solo": "5 000 à 30 000 F CFA", "duo": "3 000 à 18 000 F CFA" },
-      { "label": "Visites et loisirs", "solo": "2 000 à 15 000 F CFA", "duo": "2 000 à 15 000 F CFA" }
-    ],
-    "totalSolo": "45 000 à 150 000 F CFA",
-    "totalDuo": "31 000 à 108 000 F CFA",
-    "note": "Abidjan est chère pour la région, surtout le Plateau et Cocody. Les maquis (restaurants populaires) permettent de bien manger pour peu.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Un visa biométrique est obligatoire, ainsi que la vaccination contre la fièvre jaune. Le passeport doit être valable plus de 6 mois.",
     "points": [
       "Le visa se demande au consulat de Côte d'Ivoire à Paris ou en ligne sur le site officiel ; l'e-visa est ensuite finalisé à l'arrivée.",
       "Le carnet de vaccination est systématiquement contrôlé à l'arrivée."
     ],
-    "source": { "label": "France Diplomatie, Côte d'Ivoire, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cote-d-ivoire/" },
+    "source": {
+      "label": "France Diplomatie, Côte d'Ivoire, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cote-d-ivoire/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -68,7 +94,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Assurance santé avec évacuation indispensable."
     ],
-    "source": { "label": "France Diplomatie, Côte d'Ivoire, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cote-d-ivoire/" },
+    "source": {
+      "label": "France Diplomatie, Côte d'Ivoire, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cote-d-ivoire/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -79,7 +108,10 @@
       "Ailleurs, reste sur les axes principaux, circule en convoi de deux véhicules le jour et jamais de nuit.",
       "À Abidjan, la nuit, ne va pas seul dans certaines communes (Adjamé, Yopougon, Abobo…)."
     ],
-    "source": { "label": "France Diplomatie, Côte d'Ivoire, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cote-d-ivoire/" },
+    "source": {
+      "label": "France Diplomatie, Côte d'Ivoire, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/cote-d-ivoire/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -87,16 +119,31 @@
       "slug": "abidjan",
       "name": "Abidjan",
       "nights": "3 nuits",
-      "for": ["energique", "tous"],
+      "for": [
+        "energique",
+        "tous"
+      ],
       "summary": "La métropole économique de l'Afrique de l'Ouest, ses lagunes, ses tours du Plateau et sa vie nocturne.",
       "sleep": "À Cocody, au Plateau ou en zone 4 (Marcory).",
       "see": [
-        { "name": "La cathédrale Saint-Paul", "note": "Une architecture audacieuse face à la lagune." },
-        { "name": "Le parc national du Banco", "note": "Une forêt primaire en pleine ville." },
-        { "name": "Le marché de Treichville", "note": "Tissus et ambiance." }
+        {
+          "name": "La cathédrale Saint-Paul",
+          "note": "Une architecture audacieuse face à la lagune."
+        },
+        {
+          "name": "Le parc national du Banco",
+          "note": "Une forêt primaire en pleine ville."
+        },
+        {
+          "name": "Le marché de Treichville",
+          "note": "Tissus et ambiance."
+        }
       ],
       "hidden": [
-        { "name": "Les maquis de Marcory", "note": "Poisson braisé et musique le soir, en VTC." }
+        {
+          "name": "Les maquis de Marcory",
+          "note": "Poisson braisé et musique le soir, en VTC."
+        }
       ],
       "eat": "L'attiéké-poisson braisé, l'alloco (bananes plantains frites) et le garba.",
       "getAround": "VTC ; évite les taxis non officiels la nuit.",
@@ -106,16 +153,31 @@
       "slug": "grand-bassam-assinie",
       "name": "Grand-Bassam et Assinie",
       "nights": "3 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "L'ancienne capitale coloniale classée à l'Unesco, puis une langue de sable entre lagune et océan.",
       "sleep": "À Grand-Bassam ou dans un lodge d'Assinie.",
       "see": [
-        { "name": "Le quartier France de Grand-Bassam", "note": "Bâtiments coloniaux classés à l'Unesco." },
-        { "name": "Le musée national du Costume", "note": "À Grand-Bassam." },
-        { "name": "Les plages d'Assinie", "note": "Entre lagune et océan." }
+        {
+          "name": "Le quartier France de Grand-Bassam",
+          "note": "Bâtiments coloniaux classés à l'Unesco."
+        },
+        {
+          "name": "Le musée national du Costume",
+          "note": "À Grand-Bassam."
+        },
+        {
+          "name": "Les plages d'Assinie",
+          "note": "Entre lagune et océan."
+        }
       ],
       "hidden": [
-        { "name": "Le village artisanal de Grand-Bassam", "note": "Masques et tissus." }
+        {
+          "name": "Le village artisanal de Grand-Bassam",
+          "note": "Masques et tissus."
+        }
       ],
       "eat": "Les poissons grillés en bord de lagune.",
       "getAround": "Route depuis Abidjan (40 min pour Bassam, 1 h 30 pour Assinie).",
@@ -125,13 +187,24 @@
       "slug": "yamoussoukro",
       "name": "Yamoussoukro",
       "nights": "1 nuit",
-      "for": ["stratege"],
+      "for": [
+        "stratege"
+      ],
       "summary": "La capitale politique et sa basilique Notre-Dame-de-la-Paix, l'une des plus grandes églises du monde.",
       "sleep": "En ville.",
       "see": [
-        { "name": "La basilique Notre-Dame-de-la-Paix", "note": "Inspirée de Saint-Pierre de Rome." },
-        { "name": "Le lac aux crocodiles", "note": "Près de l'ancien palais présidentiel." },
-        { "name": "La grande mosquée", "note": "Architecture moderne." }
+        {
+          "name": "La basilique Notre-Dame-de-la-Paix",
+          "note": "Inspirée de Saint-Pierre de Rome."
+        },
+        {
+          "name": "Le lac aux crocodiles",
+          "note": "Près de l'ancien palais présidentiel."
+        },
+        {
+          "name": "La grande mosquée",
+          "note": "Architecture moderne."
+        }
       ],
       "hidden": [],
       "eat": "Le foutou banane sauce graine.",
@@ -143,28 +216,67 @@
     {
       "days": 7,
       "title": "Abidjan et la côte",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Abidjan", "note": "Arrivée." },
-        { "days": "Jours 4 et 5", "place": "Grand-Bassam", "note": "Patrimoine." },
-        { "days": "Jours 6 et 7", "place": "Assinie", "note": "Plages, retour à Abidjan." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Abidjan",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Grand-Bassam",
+          "note": "Patrimoine."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Assinie",
+          "note": "Plages, retour à Abidjan."
+        }
       ]
     },
     {
       "days": 9,
       "title": "Côte et capitale",
-      "for": ["stratege", "energique"],
+      "for": [
+        "stratege",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Abidjan", "note": "Arrivée." },
-        { "days": "Jours 4 et 5", "place": "Yamoussoukro", "note": "Basilique." },
-        { "days": "Jours 6 à 9", "place": "Grand-Bassam et Assinie", "note": "Retour par Abidjan." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Abidjan",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Yamoussoukro",
+          "note": "Basilique."
+        },
+        {
+          "days": "Jours 6 à 9",
+          "place": "Grand-Bassam et Assinie",
+          "note": "Retour par Abidjan."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les VTC", "text": "La solution la plus sûre à Abidjan." },
-    { "title": "Voiture avec chauffeur", "text": "Pour sortir d'Abidjan, de jour uniquement." },
-    { "title": "Les bateaux-bus", "text": "Sur la lagune Ébrié à Abidjan." }
+    {
+      "title": "Les VTC",
+      "text": "La solution la plus sûre à Abidjan."
+    },
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "Pour sortir d'Abidjan, de jour uniquement."
+    },
+    {
+      "title": "Les bateaux-bus",
+      "text": "Sur la lagune Ébrié à Abidjan."
+    }
   ],
   "culture": [
     "Le français ivoirien a ses expressions (le « nouchi ») : « on dit quoi ? » pour « ça va ? ».",
@@ -172,9 +284,21 @@
     "Le coupé-décalé et le zouglou animent les nuits d'Abidjan."
   ],
   "phrases": [
-    { "fr": "Ça va ?", "local": "On dit quoi ?", "say": "on di koi" },
-    { "fr": "Merci (dioula)", "local": "I ni ce", "say": "i ni tché" },
-    { "fr": "Bonne arrivée", "local": "Akwaba (baoulé)", "say": "akouaba" }
+    {
+      "fr": "Ça va ?",
+      "local": "On dit quoi ?",
+      "say": "on di koi"
+    },
+    {
+      "fr": "Merci (dioula)",
+      "local": "I ni ce",
+      "say": "i ni tché"
+    },
+    {
+      "fr": "Bonne arrivée",
+      "local": "Akwaba (baoulé)",
+      "say": "akouaba"
+    }
   ],
   "checklist": [
     "Passeport valable plus de 6 mois",
@@ -185,9 +309,17 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour la Côte d'Ivoire ?", "a": "Oui, un visa biométrique (e-visa), avec un passeport valable plus de 6 mois et la vaccination contre la fièvre jaune." },
-    { "q": "La Côte d'Ivoire est-elle sûre ?", "a": "Le nord, près du Mali et du Burkina Faso, est formellement déconseillé. Abidjan et la côte sont en vigilance renforcée : VTC et pas de route de nuit." },
-    { "q": "Quand partir en Côte d'Ivoire ?", "a": "De novembre à mars, en saison sèche." },
-    { "q": "Quel budget pour une semaine en Côte d'Ivoire ?", "a": "Compte environ 45 000 à 150 000 F CFA par jour seul et 31 000 à 108 000 F CFA par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour la Côte d'Ivoire ?",
+      "a": "Oui, un visa biométrique (e-visa), avec un passeport valable plus de 6 mois et la vaccination contre la fièvre jaune."
+    },
+    {
+      "q": "La Côte d'Ivoire est-elle sûre ?",
+      "a": "Le nord, près du Mali et du Burkina Faso, est formellement déconseillé. Abidjan et la côte sont en vigilance renforcée : VTC et pas de route de nuit."
+    },
+    {
+      "q": "Quand partir en Côte d'Ivoire ?",
+      "a": "De novembre à mars, en saison sèche."
+    }
   ]
 }

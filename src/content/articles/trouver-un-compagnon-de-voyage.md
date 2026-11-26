@@ -23,7 +23,7 @@ destinations: []
 
 Voyager seul a ses charmes, mais partir à deux change beaucoup de choses :
 
-- **Le budget** : une chambre double, un taxi ou une voiture de location partagés coûtent nettement moins cher par personne. Selon les pays, l'hébergement représente souvent la moitié du budget quotidien.
+- **Le budget** : une chambre double, un taxi ou une voiture de location partagés coûtent nettement moins cher par personne.
 - **La sécurité** : à deux, on surveille les affaires de l'autre, on évite certaines situations et on a quelqu'un en cas de pépin de santé.
 - **Les destinations** : certains voyages sont plus simples ou plus rassurants à plusieurs, comme un trek, un road trip ou un pays dont on ne parle pas la langue.
 - **Les souvenirs** : partager un coucher de soleil ou une galère, ça crée des liens.

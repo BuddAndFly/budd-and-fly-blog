@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Maroc : quand partir, budget, villes, itinéraires",
-    "description": "Préparer un voyage au Maroc : passeport obligatoire, meilleure saison, budget seul ou à deux, Marrakech, Fès, le désert, Essaouira et itinéraires. PDF gratuit."
+    "title": "Guide Maroc : quand partir, villes, itinéraires",
+    "description": "Préparer un voyage au Maroc : passeport obligatoire, meilleure saison, Marrakech, Fès, le désert, Essaouira et itinéraires. PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/maroc/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Doux en journée, froid la nuit. Fêtes de fin d'année très fréquentées à Marrakech."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en dirhams, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (riad ou petit hôtel)",
-        "solo": "400 à 900 DH",
-        "duo": "250 à 550 DH"
-      },
-      {
-        "label": "Repas",
-        "solo": "150 à 350 DH",
-        "duo": "150 à 350 DH"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "50 à 150 DH",
-        "duo": "40 à 120 DH"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "50 à 150 DH",
-        "duo": "50 à 150 DH"
-      }
-    ],
-    "totalSolo": "650 à 1 550 DH",
-    "totalDuo": "490 à 1 170 DH",
-    "note": "Les excursions dans le désert (transport, nuit en bivouac, dîner) s'ajoutent et varient beaucoup selon le confort. Négocier fait partie de la culture dans les souks, pas dans les restaurants à prix affichés.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Passeport obligatoire, valide pendant toute la durée du séjour : la carte d'identité seule n'est plus acceptée. Pas de visa pour un séjour touristique de moins de 90 jours.",
     "points": [
@@ -503,10 +474,6 @@
     {
       "q": "Le Maroc est-il sûr pour une femme seule ?",
       "a": "Les femmes y voyagent seules, mais doivent s'attendre à une attention insistante, parfois à du harcèlement. Une tenue ample et couvrante, un hébergement bien noté et des déplacements en journée limitent les désagréments. Évite les lieux isolés la nuit."
-    },
-    {
-      "q": "Quel budget pour une semaine au Maroc ?",
-      "a": "Compte environ 650 à 1 550 DH par jour seul et 490 à 1 170 DH par personne à deux, hors vols et excursion dans le désert. Ces montants sont des estimations à vérifier."
     }
   ]
 }

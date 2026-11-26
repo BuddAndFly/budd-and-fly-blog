@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Philippines : Palawan, Bohol, Siargao",
-    "description": "Préparer un voyage aux Philippines : eTravel, zones déconseillées, typhons, meilleure saison, budget, El Nido, Coron, Bohol, Siargao. Guide PDF gratuit."
+    "description": "Préparer un voyage aux Philippines : eTravel, zones déconseillées, typhons, meilleure saison, El Nido, Coron, Bohol, Siargao. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/philippines/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Retour du sec, Noël très fêté."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en pesos, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (guesthouse ou bungalow)",
-        "solo": "1 800 à 4 500 ₱",
-        "duo": "1 100 à 2 800 ₱"
-      },
-      {
-        "label": "Repas",
-        "solo": "700 à 1 500 ₱",
-        "duo": "700 à 1 500 ₱"
-      },
-      {
-        "label": "Transports (ferries, vans)",
-        "solo": "300 à 1 500 ₱",
-        "duo": "300 à 1 500 ₱"
-      },
-      {
-        "label": "Excursions en bateau",
-        "solo": "1 200 à 3 000 ₱",
-        "duo": "1 200 à 3 000 ₱"
-      }
-    ],
-    "totalSolo": "4 000 à 10 500 ₱",
-    "totalDuo": "3 300 à 8 800 ₱",
-    "note": "Les vols intérieurs et les excursions en bateau (island hopping) sont les gros postes. Prévois des espèces : les distributeurs sont rares sur les petites îles.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour touristique : le tampon d'entrée autorise 30 jours, avec un billet retour ou de continuation. L'« eTravel Card » est obligatoire.",
     "points": [
@@ -362,10 +333,6 @@
     {
       "q": "Quand partir aux Philippines ?",
       "a": "De décembre à mai. De juin à novembre, les typhons sont fréquents."
-    },
-    {
-      "q": "Quel budget pour deux semaines aux Philippines ?",
-      "a": "Compte environ 4 000 à 10 500 ₱ par jour seul et 3 300 à 8 800 ₱ par personne à deux, hors vols internationaux. Ces montants sont des estimations à vérifier."
     }
   ]
 }

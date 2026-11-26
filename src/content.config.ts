@@ -73,7 +73,7 @@ const destinations = defineCollection({
       note: z.string(),
       sources: z.array(z.object({ label: z.string(), url: z.url() })).default([]),
       checkedAt: z.string().nullable().default(null),
-    }),
+    }).nullable().default(null),
     entry: sourced,
     health: sourced,
     safety: sourced.nullable().default(null),
@@ -88,7 +88,7 @@ const destinations = defineCollection({
     culture: z.array(z.string()).default([]),
     phrases: z.array(z.object({ fr: z.string(), local: z.string(), say: z.string().optional() })).default([]),
     checklist: z.array(z.string()).default([]),
-    faq: z.array(z.object({ q: z.string(), a: z.string() })).min(3),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).min(2),
   }),
 });
 

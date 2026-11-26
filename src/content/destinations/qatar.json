@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Qatar : Doha, escale, visa, sécurité",
-    "description": "Préparer une escale au Qatar : sans visa 90 jours, contexte régional, meilleure saison, budget, Doha, le musée d'Art islamique, le désert. PDF gratuit."
+    "description": "Préparer une escale au Qatar : sans visa 90 jours, contexte régional, meilleure saison, Doha, le musée d'Art islamique, le désert. PDF gratuit."
   },
   "hero": null,
   "summary": "Le Qatar se visite de novembre à mars ; l'été est extrêmement chaud. Pas de visa pour moins de 90 jours, avec un passeport valable plus de 6 mois, un billet retour et un justificatif d'hébergement. La criminalité est parmi les plus faibles du monde, mais la situation régionale reste très instable : suis les mises à jour de France Diplomatie. Doha se prête bien à une escale de 2 ou 3 jours.",
@@ -24,40 +24,66 @@
     "flight": "Environ 6 h 30 en vol direct depuis Paris pour Doha"
   },
   "months": [
-    { "rating": 2, "note": "Doux et ensoleillé." },
-    { "rating": 2, "note": "Idéal." },
-    { "rating": 2, "note": "Agréable." },
-    { "rating": 1, "note": "La chaleur monte." },
-    { "rating": 0, "note": "Très chaud." },
-    { "rating": 0, "note": "Chaleur extrême." },
-    { "rating": 0, "note": "Comme en juin, très humide." },
-    { "rating": 0, "note": "Comme en juillet." },
-    { "rating": 0, "note": "Encore très chaud." },
-    { "rating": 1, "note": "La chaleur baisse." },
-    { "rating": 2, "note": "Début de la belle saison." },
-    { "rating": 2, "note": "Doux ; fête nationale le 18 décembre." }
+    {
+      "rating": 2,
+      "note": "Doux et ensoleillé."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable."
+    },
+    {
+      "rating": 1,
+      "note": "La chaleur monte."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud."
+    },
+    {
+      "rating": 0,
+      "note": "Chaleur extrême."
+    },
+    {
+      "rating": 0,
+      "note": "Comme en juin, très humide."
+    },
+    {
+      "rating": 0,
+      "note": "Comme en juillet."
+    },
+    {
+      "rating": 0,
+      "note": "Encore très chaud."
+    },
+    {
+      "rating": 1,
+      "note": "La chaleur baisse."
+    },
+    {
+      "rating": 2,
+      "note": "Début de la belle saison."
+    },
+    {
+      "rating": 2,
+      "note": "Doux ; fête nationale le 18 décembre."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en riyals qatariens, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      { "label": "Hébergement (hôtel)", "solo": "300 à 700 QAR", "duo": "180 à 400 QAR" },
-      { "label": "Repas", "solo": "80 à 250 QAR", "duo": "80 à 250 QAR" },
-      { "label": "Transports (métro, VTC)", "solo": "20 à 80 QAR", "duo": "15 à 60 QAR" },
-      { "label": "Visites et excursions", "solo": "0 à 300 QAR", "duo": "0 à 300 QAR" }
-    ],
-    "totalSolo": "400 à 1 330 QAR",
-    "totalDuo": "275 à 1 010 QAR",
-    "note": "Plusieurs grands musées et sites sont gratuits ou peu chers. L'excursion dans le désert est le principal poste.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour de moins de 90 jours. Le passeport doit être valable plus de 6 mois, avec un billet retour ou de continuation et un justificatif d'hébergement.",
     "points": [
       "Pour un séjour de plus d'un mois, une assurance maladie souscrite auprès d'une compagnie agréée par le Qatar est obligatoire.",
       "Une assurance médicale et rapatriement est de toute façon vivement recommandée."
     ],
-    "source": { "label": "France Diplomatie, Qatar, Entrée / séjour (mise à jour du 2 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/qatar/" },
+    "source": {
+      "label": "France Diplomatie, Qatar, Entrée / séjour (mise à jour du 2 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/qatar/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -67,7 +93,10 @@
       "Protège-toi des moustiques.",
       "Assurance santé et rapatriement vivement recommandée."
     ],
-    "source": { "label": "France Diplomatie, Qatar, Santé (mise à jour du 2 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/qatar/" },
+    "source": {
+      "label": "France Diplomatie, Qatar, Santé (mise à jour du 2 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/qatar/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -77,7 +106,10 @@
       "Il est interdit de photographier des bâtiments publics et des installations militaires.",
       "Ne photographie pas de Qatariens sans leur accord."
     ],
-    "source": { "label": "France Diplomatie, Qatar, Sécurité (mise à jour du 2 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/qatar/" },
+    "source": {
+      "label": "France Diplomatie, Qatar, Sécurité (mise à jour du 2 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/qatar/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -85,17 +117,35 @@
       "slug": "doha",
       "name": "Doha",
       "nights": "2 à 3 nuits",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "summary": "Une capitale de musées d'exception, d'un souk restauré et d'une corniche face aux tours.",
       "sleep": "Près du souk Waqif ou à West Bay.",
       "see": [
-        { "name": "Le musée d'Art islamique", "note": "Dessiné par I. M. Pei, face à la baie." },
-        { "name": "Le musée national du Qatar", "note": "En forme de rose des sables, par Jean Nouvel." },
-        { "name": "Le souk Waqif", "note": "Épices, faucons et cafés le soir." }
+        {
+          "name": "Le musée d'Art islamique",
+          "note": "Dessiné par I. M. Pei, face à la baie."
+        },
+        {
+          "name": "Le musée national du Qatar",
+          "note": "En forme de rose des sables, par Jean Nouvel."
+        },
+        {
+          "name": "Le souk Waqif",
+          "note": "Épices, faucons et cafés le soir."
+        }
       ],
       "hidden": [
-        { "name": "La bibliothèque nationale", "note": "Une architecture spectaculaire, gratuite." },
-        { "name": "Msheireb", "note": "Un quartier qui réinvente l'architecture traditionnelle." }
+        {
+          "name": "La bibliothèque nationale",
+          "note": "Une architecture spectaculaire, gratuite."
+        },
+        {
+          "name": "Msheireb",
+          "note": "Un quartier qui réinvente l'architecture traditionnelle."
+        }
       ],
       "eat": "Le machboos et le karak (thé au lait épicé).",
       "getAround": "Métro moderne et VTC.",
@@ -105,16 +155,31 @@
       "slug": "desert-qatar",
       "name": "Le désert et la mer intérieure",
       "nights": "Excursion à la journée",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "summary": "Des dunes qui plongent dans la mer intérieure de Khor Al Adaid, classée par l'Unesco.",
       "sleep": "Depuis Doha, ou en camp.",
       "see": [
-        { "name": "Khor Al Adaid", "note": "Où le désert rencontre la mer." },
-        { "name": "Les dunes de Sealine", "note": "Coucher du soleil." },
-        { "name": "Le fort de Zubarah", "note": "Ancienne ville de pêcheurs de perles, classée à l'Unesco." }
+        {
+          "name": "Khor Al Adaid",
+          "note": "Où le désert rencontre la mer."
+        },
+        {
+          "name": "Les dunes de Sealine",
+          "note": "Coucher du soleil."
+        },
+        {
+          "name": "Le fort de Zubarah",
+          "note": "Ancienne ville de pêcheurs de perles, classée à l'Unesco."
+        }
       ],
       "hidden": [
-        { "name": "La sculpture East-West/West-East", "note": "De Richard Serra, en plein désert." }
+        {
+          "name": "La sculpture East-West/West-East",
+          "note": "De Richard Serra, en plein désert."
+        }
       ],
       "eat": "Le dîner en camp.",
       "getAround": "Excursion organisée en 4x4.",
@@ -125,27 +190,62 @@
     {
       "days": 3,
       "title": "L'escale à Doha",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Doha", "note": "Musées, corniche, souk." },
-        { "days": "Jour 3", "place": "Désert", "note": "Excursion avant le vol." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Doha",
+          "note": "Musées, corniche, souk."
+        },
+        {
+          "days": "Jour 3",
+          "place": "Désert",
+          "note": "Excursion avant le vol."
+        }
       ]
     },
     {
       "days": 4,
       "title": "Doha et le nord",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Doha", "note": "Arrivée." },
-        { "days": "Jour 3", "place": "Zubarah et le nord", "note": "Fort et mangroves." },
-        { "days": "Jour 4", "place": "Khor Al Adaid", "note": "Dunes, retour pour le vol." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Doha",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jour 3",
+          "place": "Zubarah et le nord",
+          "note": "Fort et mangroves."
+        },
+        {
+          "days": "Jour 4",
+          "place": "Khor Al Adaid",
+          "note": "Dunes, retour pour le vol."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le métro de Doha", "text": "Moderne, climatisé, relié à l'aéroport." },
-    { "title": "Les VTC", "text": "Abordables et pratiques." },
-    { "title": "En voiture", "text": "Possible, mais le désert se fait avec un guide." }
+    {
+      "title": "Le métro de Doha",
+      "text": "Moderne, climatisé, relié à l'aéroport."
+    },
+    {
+      "title": "Les VTC",
+      "text": "Abordables et pratiques."
+    },
+    {
+      "title": "En voiture",
+      "text": "Possible, mais le désert se fait avec un guide."
+    }
   ],
   "culture": [
     "Tenue couvrant épaules et genoux dans les lieux publics.",
@@ -154,9 +254,21 @@
     "Pas de démonstrations d'affection en public."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "مرحبا", "say": "marhaba" },
-    { "fr": "Merci", "local": "شكرا", "say": "choukran" },
-    { "fr": "Au revoir", "local": "مع السلامة", "say": "ma'a salama" }
+    {
+      "fr": "Bonjour",
+      "local": "مرحبا",
+      "say": "marhaba"
+    },
+    {
+      "fr": "Merci",
+      "local": "شكرا",
+      "say": "choukran"
+    },
+    {
+      "fr": "Au revoir",
+      "local": "مع السلامة",
+      "say": "ma'a salama"
+    }
   ],
   "checklist": [
     "Passeport valable plus de 6 mois",
@@ -167,9 +279,17 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour le Qatar ?", "a": "Non pour moins de 90 jours, avec un passeport valable plus de 6 mois, un billet retour et un justificatif d'hébergement." },
-    { "q": "Le Qatar est-il sûr ?", "a": "La criminalité est très faible, mais la situation régionale est très instable : consulte les mises à jour de France Diplomatie et inscris-toi sur Ariane." },
-    { "q": "Quand partir au Qatar ?", "a": "De novembre à mars ; l'été dépasse souvent 40 °C." },
-    { "q": "Quel budget pour une escale à Doha ?", "a": "Compte environ 400 à 1 330 QAR par jour seul et 275 à 1 010 QAR par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour le Qatar ?",
+      "a": "Non pour moins de 90 jours, avec un passeport valable plus de 6 mois, un billet retour et un justificatif d'hébergement."
+    },
+    {
+      "q": "Le Qatar est-il sûr ?",
+      "a": "La criminalité est très faible, mais la situation régionale est très instable : consulte les mises à jour de France Diplomatie et inscris-toi sur Ariane."
+    },
+    {
+      "q": "Quand partir au Qatar ?",
+      "a": "De novembre à mars ; l'été dépasse souvent 40 °C."
+    }
   ]
 }

@@ -10,9 +10,17 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Guatemala : Antigua, Atitlán, Tikal, sécurité",
-    "description": "Préparer un voyage au Guatemala : formalités, zones déconseillées, meilleure saison, budget, Antigua, le lac Atitlán, Tikal, Semuc Champey. PDF gratuit."
+    "description": "Préparer un voyage au Guatemala : formalités, zones déconseillées, meilleure saison, Antigua, le lac Atitlán, Tikal, Semuc Champey. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/guatemala/hero.jpg",
+    "alt": "Le lac Atitlán et ses volcans",
+    "credit": {
+      "author": "Epiovesan: Emilio Piovesan",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Atitlan_Lake.jpg"
+    }
+  },
   "summary": "Le Guatemala se visite de novembre à avril, en saison sèche. Pas de visa pour moins de 3 mois, mais la déclaration de douane en ligne (QR code) est obligatoire à l'entrée et à la sortie. Le pays est en vigilance renforcée, avec des zones frontalières et des quartiers de la capitale déconseillés : Antigua, le lac Atitlán et Tikal forment le circuit classique.",
   "essentials": {
     "bestPeriod": "Novembre à avril",
@@ -24,39 +32,65 @@
     "flight": "Environ 13 h depuis Paris pour Guatemala Ciudad, avec une escale"
   },
   "months": [
-    { "rating": 2, "note": "Saison sèche, frais le matin en altitude." },
-    { "rating": 2, "note": "Idéal." },
-    { "rating": 2, "note": "Sec ; semaine sainte d'Antigua (selon le calendrier)." },
-    { "rating": 2, "note": "Chaud, fin du sec." },
-    { "rating": 1, "note": "Début des pluies." },
-    { "rating": 1, "note": "Pluies l'après-midi." },
-    { "rating": 1, "note": "Comme en juin, accalmie possible." },
-    { "rating": 1, "note": "Pluies." },
-    { "rating": 0, "note": "Le mois le plus pluvieux." },
-    { "rating": 1, "note": "Fin des pluies." },
-    { "rating": 2, "note": "Retour du sec ; cerfs-volants géants le 1er novembre." },
-    { "rating": 2, "note": "Sec et agréable." }
+    {
+      "rating": 2,
+      "note": "Saison sèche, frais le matin en altitude."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal."
+    },
+    {
+      "rating": 2,
+      "note": "Sec ; semaine sainte d'Antigua (selon le calendrier)."
+    },
+    {
+      "rating": 2,
+      "note": "Chaud, fin du sec."
+    },
+    {
+      "rating": 1,
+      "note": "Début des pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies l'après-midi."
+    },
+    {
+      "rating": 1,
+      "note": "Comme en juin, accalmie possible."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies."
+    },
+    {
+      "rating": 0,
+      "note": "Le mois le plus pluvieux."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Retour du sec ; cerfs-volants géants le 1er novembre."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et agréable."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en quetzales, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      { "label": "Hébergement (guesthouse ou petit hôtel)", "solo": "250 à 600 Q", "duo": "150 à 380 Q" },
-      { "label": "Repas", "solo": "120 à 250 Q", "duo": "120 à 250 Q" },
-      { "label": "Transports (navettes touristiques)", "solo": "60 à 250 Q", "duo": "60 à 250 Q" },
-      { "label": "Visites et entrées", "solo": "30 à 150 Q", "duo": "30 à 150 Q" }
-    ],
-    "totalSolo": "460 à 1 250 Q",
-    "totalDuo": "360 à 1 030 Q",
-    "note": "Les navettes touristiques sont plus sûres que les bus locaux. Tikal et Semuc Champey demandent des trajets longs ou un vol intérieur.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour de moins de 3 mois : il faut un passeport en cours de validité.",
     "points": [
       "À l'entrée comme à la sortie, la déclaration de douane en ligne (« declaración jurada ») est obligatoire pour obtenir un QR code."
     ],
-    "source": { "label": "France Diplomatie, Guatemala, Entrée / séjour (mise à jour du 16 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guatemala/" },
+    "source": {
+      "label": "France Diplomatie, Guatemala, Entrée / séjour (mise à jour du 16 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guatemala/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -67,7 +101,10 @@
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale.",
       "Assurance santé et rapatriement indispensable."
     ],
-    "source": { "label": "France Diplomatie, Guatemala, Santé (mise à jour du 16 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guatemala/" },
+    "source": {
+      "label": "France Diplomatie, Guatemala, Santé (mise à jour du 16 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guatemala/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -78,7 +115,10 @@
       "Dans la capitale, évite les transports publics (sauf le Transmetro) ; préfère les radiotaxis, taxis jaunes ou VTC, jamais un taxi blanc hélé dans la rue.",
       "Vigilance dans les cars, sur les marchés de Chichicastenango et d'Antigua et dans les stations-service."
     ],
-    "source": { "label": "France Diplomatie, Guatemala, Sécurité (mise à jour du 16 novembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guatemala/" },
+    "source": {
+      "label": "France Diplomatie, Guatemala, Sécurité (mise à jour du 16 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guatemala/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -86,16 +126,31 @@
       "slug": "antigua",
       "name": "Antigua",
       "nights": "3 nuits",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "summary": "Une ville coloniale aux façades colorées, au pied de trois volcans.",
       "sleep": "Dans le centre historique.",
       "see": [
-        { "name": "L'arche de Santa Catalina", "note": "Avec le volcan Agua en fond." },
-        { "name": "Le cerro de la Cruz", "note": "Vue sur la ville." },
-        { "name": "L'ascension du volcan Acatenango", "note": "Nuit en altitude face au Fuego en éruption, avec une agence sérieuse." }
+        {
+          "name": "L'arche de Santa Catalina",
+          "note": "Avec le volcan Agua en fond."
+        },
+        {
+          "name": "Le cerro de la Cruz",
+          "note": "Vue sur la ville."
+        },
+        {
+          "name": "L'ascension du volcan Acatenango",
+          "note": "Nuit en altitude face au Fuego en éruption, avec une agence sérieuse."
+        }
       ],
       "hidden": [
-        { "name": "Les ruines de couvents", "note": "Comme le couvent des Capuchinas." }
+        {
+          "name": "Les ruines de couvents",
+          "note": "Comme le couvent des Capuchinas."
+        }
       ],
       "eat": "Le pepián (ragoût épicé) et le café des plantations voisines.",
       "getAround": "À pied ; navettes vers les autres villes.",
@@ -105,16 +160,31 @@
       "slug": "atitlan",
       "name": "Le lac Atitlán",
       "nights": "3 nuits",
-      "for": ["lent", "explorateur"],
+      "for": [
+        "lent",
+        "explorateur"
+      ],
       "summary": "Un lac entouré de volcans et de villages mayas, chacun avec son ambiance.",
       "sleep": "À San Marcos, San Juan ou Santa Cruz la Laguna.",
       "see": [
-        { "name": "Les villages du lac", "note": "En lancha (bateau-taxi)." },
-        { "name": "San Juan la Laguna", "note": "Coopératives de tissage." },
-        { "name": "Le marché de Chichicastenango", "note": "Le jeudi et le dimanche, à 1 h 30." }
+        {
+          "name": "Les villages du lac",
+          "note": "En lancha (bateau-taxi)."
+        },
+        {
+          "name": "San Juan la Laguna",
+          "note": "Coopératives de tissage."
+        },
+        {
+          "name": "Le marché de Chichicastenango",
+          "note": "Le jeudi et le dimanche, à 1 h 30."
+        }
       ],
       "hidden": [
-        { "name": "Le nez de l'Indien (Indian Nose)", "note": "Lever du soleil sur le lac, avec un guide local." }
+        {
+          "name": "Le nez de l'Indien (Indian Nose)",
+          "note": "Lever du soleil sur le lac, avec un guide local."
+        }
       ],
       "eat": "Les tortillas et les plats des comedores.",
       "getAround": "Lanchas entre les villages, en journée.",
@@ -124,16 +194,31 @@
       "slug": "tikal",
       "name": "Tikal et Flores",
       "nights": "2 nuits",
-      "for": ["explorateur", "stratege"],
+      "for": [
+        "explorateur",
+        "stratege"
+      ],
       "summary": "La grande cité maya au cœur de la jungle, ses temples émergeant de la canopée.",
       "sleep": "À Flores, sur une île du lac Petén Itzá.",
       "see": [
-        { "name": "Le Grand Jaguar", "note": "Le temple I de la Gran Plaza." },
-        { "name": "Le temple IV", "note": "Vue au-dessus de la jungle." },
-        { "name": "Les singes hurleurs et les toucans", "note": "Tôt le matin." }
+        {
+          "name": "Le Grand Jaguar",
+          "note": "Le temple I de la Gran Plaza."
+        },
+        {
+          "name": "Le temple IV",
+          "note": "Vue au-dessus de la jungle."
+        },
+        {
+          "name": "Les singes hurleurs et les toucans",
+          "note": "Tôt le matin."
+        }
       ],
       "hidden": [
-        { "name": "Yaxhá", "note": "Un autre site maya, plus calme, au bord d'une lagune." }
+        {
+          "name": "Yaxhá",
+          "note": "Un autre site maya, plus calme, au bord d'une lagune."
+        }
       ],
       "eat": "Le poisson du lac à Flores.",
       "getAround": "Vol intérieur ou bus de nuit jusqu'à Flores.",
@@ -143,13 +228,25 @@
       "slug": "semuc-champey",
       "name": "Semuc Champey",
       "nights": "2 nuits",
-      "for": ["energique", "explorateur"],
+      "for": [
+        "energique",
+        "explorateur"
+      ],
       "summary": "Des vasques turquoise naturelles sur un pont de calcaire, au fond de la jungle.",
       "sleep": "Dans un lodge à Lanquín.",
       "see": [
-        { "name": "Les vasques de Semuc Champey", "note": "Baignade." },
-        { "name": "Le mirador", "note": "La vue d'ensemble." },
-        { "name": "La grotte de Kan'Ba", "note": "À la bougie, avec un guide." }
+        {
+          "name": "Les vasques de Semuc Champey",
+          "note": "Baignade."
+        },
+        {
+          "name": "Le mirador",
+          "note": "La vue d'ensemble."
+        },
+        {
+          "name": "La grotte de Kan'Ba",
+          "note": "À la bougie, avec un guide."
+        }
       ],
       "hidden": [],
       "eat": "Les repas des lodges.",
@@ -161,28 +258,66 @@
     {
       "days": 12,
       "title": "Le Guatemala classique",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Antigua", "note": "Arrivée par la capitale." },
-        { "days": "Jours 4 à 6", "place": "Lac Atitlán", "note": "Et Chichicastenango." },
-        { "days": "Jours 7 à 9", "place": "Semuc Champey", "note": "Par la route." },
-        { "days": "Jours 10 à 12", "place": "Flores et Tikal", "note": "Vol retour vers la capitale." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Antigua",
+          "note": "Arrivée par la capitale."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Lac Atitlán",
+          "note": "Et Chichicastenango."
+        },
+        {
+          "days": "Jours 7 à 9",
+          "place": "Semuc Champey",
+          "note": "Par la route."
+        },
+        {
+          "days": "Jours 10 à 12",
+          "place": "Flores et Tikal",
+          "note": "Vol retour vers la capitale."
+        }
       ]
     },
     {
       "days": 7,
       "title": "Antigua et le lac",
-      "for": ["lent"],
+      "for": [
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Antigua", "note": "Volcans et ville coloniale." },
-        { "days": "Jours 5 à 7", "place": "Lac Atitlán", "note": "Retour par Antigua." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Antigua",
+          "note": "Volcans et ville coloniale."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Lac Atitlán",
+          "note": "Retour par Antigua."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Les navettes touristiques", "text": "Plus sûres et pratiques que les bus locaux (chicken buses)." },
-    { "title": "Les vols intérieurs", "text": "Guatemala Ciudad-Flores pour Tikal." },
-    { "title": "Les lanchas", "text": "Sur le lac Atitlán, en journée." }
+    {
+      "title": "Les navettes touristiques",
+      "text": "Plus sûres et pratiques que les bus locaux (chicken buses)."
+    },
+    {
+      "title": "Les vols intérieurs",
+      "text": "Guatemala Ciudad-Flores pour Tikal."
+    },
+    {
+      "title": "Les lanchas",
+      "text": "Sur le lac Atitlán, en journée."
+    }
   ],
   "culture": [
     "Plus de 40 % de la population est maya : demande toujours avant de photographier.",
@@ -190,9 +325,21 @@
     "Un minimum d'espagnol facilite beaucoup les échanges."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Buenos días", "say": "bouénos dias" },
-    { "fr": "Merci", "local": "Gracias", "say": "grassias" },
-    { "fr": "Puis-je prendre une photo ?", "local": "¿Puedo tomar una foto?", "say": "pouédo tomar ouna foto" }
+    {
+      "fr": "Bonjour",
+      "local": "Buenos días",
+      "say": "bouénos dias"
+    },
+    {
+      "fr": "Merci",
+      "local": "Gracias",
+      "say": "grassias"
+    },
+    {
+      "fr": "Puis-je prendre une photo ?",
+      "local": "¿Puedo tomar una foto?",
+      "say": "pouédo tomar ouna foto"
+    }
   ],
   "checklist": [
     "Passeport valide",
@@ -202,9 +349,17 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour le Guatemala ?", "a": "Non pour moins de 3 mois. Un passeport valide et la déclaration de douane en ligne (QR code) sont obligatoires." },
-    { "q": "Le Guatemala est-il sûr ?", "a": "Le pays est en vigilance renforcée. Les frontières mexicaine et hondurienne et certaines zones de la capitale sont déconseillées sauf raison impérative. Le circuit Antigua-Atitlán-Tikal se fait avec prudence." },
-    { "q": "Quand partir au Guatemala ?", "a": "De novembre à avril, en saison sèche." },
-    { "q": "Quel budget pour deux semaines au Guatemala ?", "a": "Compte environ 460 à 1 250 Q par jour seul et 360 à 1 030 Q par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour le Guatemala ?",
+      "a": "Non pour moins de 3 mois. Un passeport valide et la déclaration de douane en ligne (QR code) sont obligatoires."
+    },
+    {
+      "q": "Le Guatemala est-il sûr ?",
+      "a": "Le pays est en vigilance renforcée. Les frontières mexicaine et hondurienne et certaines zones de la capitale sont déconseillées sauf raison impérative. Le circuit Antigua-Atitlán-Tikal se fait avec prudence."
+    },
+    {
+      "q": "Quand partir au Guatemala ?",
+      "a": "De novembre à avril, en saison sèche."
+    }
   ]
 }

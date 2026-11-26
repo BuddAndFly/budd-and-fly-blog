@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Cambodge : visa, Angkor, quand partir, budget",
-    "description": "Préparer un voyage au Cambodge : visa, temples d'Angkor, meilleure saison, budget seul ou à deux, Phnom Penh, Kampot, les îles, zones à éviter. PDF gratuit."
+    "title": "Guide Cambodge : visa, Angkor, quand partir",
+    "description": "Préparer un voyage au Cambodge : visa, temples d'Angkor, meilleure saison, Phnom Penh, Kampot, les îles, zones à éviter. PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/cambodge/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Sec et agréable, haute saison."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols et visa. Le dollar est utilisé partout, la monnaie est rendue en riels.",
-    "rows": [
-      {
-        "label": "Hébergement (guesthouse ou petit hôtel)",
-        "solo": "20 à 50 $",
-        "duo": "13 à 30 $"
-      },
-      {
-        "label": "Repas",
-        "solo": "10 à 20 $",
-        "duo": "10 à 20 $"
-      },
-      {
-        "label": "Transports (tuk-tuk, bus)",
-        "solo": "5 à 15 $",
-        "duo": "4 à 10 $"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "5 à 25 $",
-        "duo": "5 à 25 $"
-      }
-    ],
-    "totalSolo": "40 à 110 $",
-    "totalDuo": "32 à 85 $",
-    "note": "Le pass pour les temples d'Angkor (1, 3 ou 7 jours) est le poste le plus important. Un tuk-tuk avec chauffeur à la journée pour Angkor se partage : à deux, c'est nettement plus avantageux.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Un visa est obligatoire. Le passeport doit être valable au moins 6 mois après la fin du visa, et une assurance hospitalisation et rapatriement est indispensable.",
     "points": [
@@ -467,10 +438,6 @@
     {
       "q": "Le Cambodge est-il sûr ?",
       "a": "Les zones touristiques sont accessibles, avec une prudence particulière la nuit dans les villes. La bande de 30 km le long de la frontière thaïlandaise est formellement déconseillée."
-    },
-    {
-      "q": "Quel budget pour deux semaines au Cambodge ?",
-      "a": "Compte environ 40 à 110 $ par jour seul et 32 à 85 $ par personne à deux, hors vols, visa et pass d'Angkor. Ces montants sont des estimations à vérifier."
     }
   ]
 }

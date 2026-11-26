@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Jamaïque : Negril, Blue Mountains, sécurité",
-    "description": "Préparer un voyage en Jamaïque : formulaire C5, zones déconseillées, meilleure saison, budget, Negril, Port Antonio, les Blue Mountains. Guide PDF gratuit."
+    "description": "Préparer un voyage en Jamaïque : formulaire C5, zones déconseillées, meilleure saison, Negril, Port Antonio, les Blue Mountains. Guide PDF gratuit."
   },
   "hero": null,
   "summary": "La Jamaïque se visite de décembre à avril, en dehors de la saison cyclonique. Pas de visa pour 30 jours, mais le formulaire gratuit C5 est obligatoire avant le départ. L'ensemble du pays est en vigilance renforcée et Spanish Town est formellement déconseillée ; l'ambassade a des capacités d'aide limitées. Plages de Negril, côte verte de Port Antonio et café des Blue Mountains.",
@@ -24,39 +24,65 @@
     "flight": "Environ 11 h depuis Paris pour Montego Bay, avec une escale"
   },
   "months": [
-    { "rating": 2, "note": "Sec et ensoleillé." },
-    { "rating": 2, "note": "Idéal ; mois de Bob Marley (anniversaire le 6 février)." },
-    { "rating": 2, "note": "Sec." },
-    { "rating": 2, "note": "Fin de la haute saison." },
-    { "rating": 1, "note": "Premières pluies." },
-    { "rating": 1, "note": "Début de la saison cyclonique." },
-    { "rating": 1, "note": "Chaud, festival Reggae Sumfest." },
-    { "rating": 1, "note": "Cyclones possibles." },
-    { "rating": 0, "note": "Pic de la saison cyclonique." },
-    { "rating": 0, "note": "Pluies et cyclones." },
-    { "rating": 1, "note": "Fin des pluies." },
-    { "rating": 2, "note": "Retour du sec." }
+    {
+      "rating": 2,
+      "note": "Sec et ensoleillé."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal ; mois de Bob Marley (anniversaire le 6 février)."
+    },
+    {
+      "rating": 2,
+      "note": "Sec."
+    },
+    {
+      "rating": 2,
+      "note": "Fin de la haute saison."
+    },
+    {
+      "rating": 1,
+      "note": "Premières pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Début de la saison cyclonique."
+    },
+    {
+      "rating": 1,
+      "note": "Chaud, festival Reggae Sumfest."
+    },
+    {
+      "rating": 1,
+      "note": "Cyclones possibles."
+    },
+    {
+      "rating": 0,
+      "note": "Pic de la saison cyclonique."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies et cyclones."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Retour du sec."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols.",
-    "rows": [
-      { "label": "Hébergement (guesthouse ou petit hôtel)", "solo": "60 à 160 $", "duo": "40 à 100 $" },
-      { "label": "Repas", "solo": "20 à 50 $", "duo": "20 à 50 $" },
-      { "label": "Transports (taxi, chauffeur)", "solo": "20 à 70 $", "duo": "12 à 40 $" },
-      { "label": "Excursions et entrées", "solo": "15 à 60 $", "duo": "15 à 60 $" }
-    ],
-    "totalSolo": "115 à 340 $",
-    "totalDuo": "87 à 250 $",
-    "note": "Hors des complexes « tout compris », la Jamaïque reste abordable. Les taxis officiels (plaque rouge « PP ») et les chauffeurs recommandés par ton hébergement sont la solution la plus sûre.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour touristique jusqu'à 30 jours. Le formulaire d'immigration et de douane C5 est obligatoire avant le départ.",
     "points": [
       "Le formulaire C5 est gratuit : méfie-toi des sites qui le font payer et utilise le site officiel jamaïcain."
     ],
-    "source": { "label": "France Diplomatie, Jamaïque, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/jamaique/" },
+    "source": {
+      "label": "France Diplomatie, Jamaïque, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/jamaique/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -65,7 +91,10 @@
       "Dengue : protection contre les moustiques.",
       "Assurance couvrant hospitalisation et évacuation indispensable : l'ambassade ne peut pas prendre en charge les frais."
     ],
-    "source": { "label": "France Diplomatie, Jamaïque, Santé et Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/jamaique/" },
+    "source": {
+      "label": "France Diplomatie, Jamaïque, Santé et Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/jamaique/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -75,7 +104,10 @@
       "À Kingston, ne marche pas de nuit, même à New Kingston, et évite les quartiers du bas de la ville (Trench Town, Tivoli Gardens, Denham Town, etc.).",
       "En cas de perte de passeport, l'ambassade délivre seulement un laissez-passer pour la France, qui ne permet pas de transiter par les États-Unis."
     ],
-    "source": { "label": "France Diplomatie, Jamaïque, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/jamaique/" },
+    "source": {
+      "label": "France Diplomatie, Jamaïque, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/jamaique/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -83,16 +115,31 @@
       "slug": "negril",
       "name": "Negril",
       "nights": "4 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Une plage de 11 km de sable blanc et des falaises d'où l'on plonge au coucher du soleil.",
       "sleep": "Sur Seven Mile Beach ou sur les falaises (West End).",
       "see": [
-        { "name": "Seven Mile Beach", "note": "La plage emblématique." },
-        { "name": "Le Rick's Café", "note": "Plongeons depuis les falaises au coucher du soleil." },
-        { "name": "Les YS Falls", "note": "Des cascades en paliers, dans le sud-ouest." }
+        {
+          "name": "Seven Mile Beach",
+          "note": "La plage emblématique."
+        },
+        {
+          "name": "Le Rick's Café",
+          "note": "Plongeons depuis les falaises au coucher du soleil."
+        },
+        {
+          "name": "Les YS Falls",
+          "note": "Des cascades en paliers, dans le sud-ouest."
+        }
       ],
       "hidden": [
-        { "name": "Treasure Beach", "note": "Un village de pêcheurs calme sur la côte sud." }
+        {
+          "name": "Treasure Beach",
+          "note": "Un village de pêcheurs calme sur la côte sud."
+        }
       ],
       "eat": "Le jerk chicken (poulet mariné épicé) et l'ackee and saltfish.",
       "getAround": "Taxis officiels et chauffeurs.",
@@ -102,16 +149,31 @@
       "slug": "port-antonio",
       "name": "Port Antonio et la côte nord-est",
       "nights": "3 nuits",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "La côte la plus verte et la plus sauvage, ses lagons et ses rivières.",
       "sleep": "Autour de Port Antonio.",
       "see": [
-        { "name": "Le Blue Lagoon", "note": "Un lagon profond aux eaux turquoise." },
-        { "name": "Frenchman's Cove", "note": "Une crique où une rivière rejoint la mer." },
-        { "name": "La descente du Rio Grande en radeau de bambou", "note": "Avec un raftman local." }
+        {
+          "name": "Le Blue Lagoon",
+          "note": "Un lagon profond aux eaux turquoise."
+        },
+        {
+          "name": "Frenchman's Cove",
+          "note": "Une crique où une rivière rejoint la mer."
+        },
+        {
+          "name": "La descente du Rio Grande en radeau de bambou",
+          "note": "Avec un raftman local."
+        }
       ],
       "hidden": [
-        { "name": "Les Reach Falls", "note": "Des cascades au cœur de la forêt." }
+        {
+          "name": "Les Reach Falls",
+          "note": "Des cascades au cœur de la forêt."
+        }
       ],
       "eat": "Le jerk de Boston Bay, berceau de cette cuisine.",
       "getAround": "Chauffeur ou voiture ; route longue depuis Montego Bay.",
@@ -121,13 +183,25 @@
       "slug": "blue-mountains",
       "name": "Les Blue Mountains",
       "nights": "2 nuits",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "summary": "Des montagnes de brume et de café, avec l'ascension nocturne du Blue Mountain Peak.",
       "sleep": "En guesthouse dans les montagnes.",
       "see": [
-        { "name": "Le Blue Mountain Peak", "note": "Départ de nuit pour le lever du soleil." },
-        { "name": "Une plantation de café", "note": "Le célèbre Blue Mountain coffee." },
-        { "name": "Le jardin botanique de Holywell", "note": "Sentiers dans la forêt." }
+        {
+          "name": "Le Blue Mountain Peak",
+          "note": "Départ de nuit pour le lever du soleil."
+        },
+        {
+          "name": "Une plantation de café",
+          "note": "Le célèbre Blue Mountain coffee."
+        },
+        {
+          "name": "Le jardin botanique de Holywell",
+          "note": "Sentiers dans la forêt."
+        }
       ],
       "hidden": [],
       "eat": "Le café Blue Mountain.",
@@ -139,27 +213,61 @@
     {
       "days": 10,
       "title": "Ouest et nord-est",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Negril", "note": "Arrivée à Montego Bay." },
-        { "days": "Jours 5 et 6", "place": "Treasure Beach", "note": "La côte sud." },
-        { "days": "Jours 7 à 10", "place": "Port Antonio", "note": "Retour vers l'aéroport." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Negril",
+          "note": "Arrivée à Montego Bay."
+        },
+        {
+          "days": "Jours 5 et 6",
+          "place": "Treasure Beach",
+          "note": "La côte sud."
+        },
+        {
+          "days": "Jours 7 à 10",
+          "place": "Port Antonio",
+          "note": "Retour vers l'aéroport."
+        }
       ]
     },
     {
       "days": 7,
       "title": "Montagnes et côte verte",
-      "for": ["explorateur"],
+      "for": [
+        "explorateur"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Blue Mountains", "note": "Par Kingston en taxi." },
-        { "days": "Jours 3 à 7", "place": "Port Antonio", "note": "Lagons et rivières." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Blue Mountains",
+          "note": "Par Kingston en taxi."
+        },
+        {
+          "days": "Jours 3 à 7",
+          "place": "Port Antonio",
+          "note": "Lagons et rivières."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Taxis officiels et chauffeurs", "text": "La solution la plus sûre ; négocie ou fais-toi recommander par ton hôtel." },
-    { "title": "Les bus Knutsford Express", "text": "Confortables entre les principales villes." },
-    { "title": "En voiture", "text": "Conduite à gauche, routes sinueuses ; ne roule pas de nuit." }
+    {
+      "title": "Taxis officiels et chauffeurs",
+      "text": "La solution la plus sûre ; négocie ou fais-toi recommander par ton hôtel."
+    },
+    {
+      "title": "Les bus Knutsford Express",
+      "text": "Confortables entre les principales villes."
+    },
+    {
+      "title": "En voiture",
+      "text": "Conduite à gauche, routes sinueuses ; ne roule pas de nuit."
+    }
   ],
   "culture": [
     "« Irie » (tout va bien) et « no problem » résument l'ambiance.",
@@ -167,9 +275,21 @@
     "Le cannabis reste encadré par la loi : ne te mets pas en danger."
   ],
   "phrases": [
-    { "fr": "Bonjour, ça va ?", "local": "Wah gwaan?", "say": "oua gouane" },
-    { "fr": "Tout va bien", "local": "Everyting irie", "say": "évritinn aïri" },
-    { "fr": "Merci", "local": "Respect", "say": "rispèkt" }
+    {
+      "fr": "Bonjour, ça va ?",
+      "local": "Wah gwaan?",
+      "say": "oua gouane"
+    },
+    {
+      "fr": "Tout va bien",
+      "local": "Everyting irie",
+      "say": "évritinn aïri"
+    },
+    {
+      "fr": "Merci",
+      "local": "Respect",
+      "say": "rispèkt"
+    }
   ],
   "checklist": [
     "Passeport valide",
@@ -179,9 +299,17 @@
     "Inscription sur Ariane"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour la Jamaïque ?", "a": "Non pour 30 jours de tourisme, mais le formulaire C5, gratuit, est obligatoire avant le départ." },
-    { "q": "La Jamaïque est-elle sûre ?", "a": "Le pays est en vigilance renforcée ; Spanish Town est formellement déconseillée et certains quartiers de Kingston à éviter. Ne marche pas de nuit." },
-    { "q": "Quand partir en Jamaïque ?", "a": "De décembre à avril, hors saison cyclonique." },
-    { "q": "Quel budget pour 10 jours en Jamaïque ?", "a": "Compte environ 115 à 340 $ par jour seul et 87 à 250 $ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour la Jamaïque ?",
+      "a": "Non pour 30 jours de tourisme, mais le formulaire C5, gratuit, est obligatoire avant le départ."
+    },
+    {
+      "q": "La Jamaïque est-elle sûre ?",
+      "a": "Le pays est en vigilance renforcée ; Spanish Town est formellement déconseillée et certains quartiers de Kingston à éviter. Ne marche pas de nuit."
+    },
+    {
+      "q": "Quand partir en Jamaïque ?",
+      "a": "De décembre à avril, hors saison cyclonique."
+    }
   ]
 }

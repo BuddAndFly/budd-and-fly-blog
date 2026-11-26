@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide États-Unis : ESTA, budget, quand partir, itinéraires",
-    "description": "Préparer un voyage aux États-Unis : ESTA, passeport, meilleure saison, budget seul ou à deux, New York, la Californie, les parcs de l'Ouest. Guide PDF gratuit."
+    "title": "Guide États-Unis : ESTA, quand partir, itinéraires",
+    "description": "Préparer un voyage aux États-Unis : ESTA, passeport, meilleure saison, New York, la Californie, les parcs de l'Ouest. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/etats-unis/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Ambiance de Noël à New York, mais froid. Le sud et Hawaï restent doux."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en dollars, par jour et par personne, hors vols et location de voiture. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel ou motel simple)",
-        "solo": "130 à 250 $",
-        "duo": "80 à 150 $"
-      },
-      {
-        "label": "Repas (pourboire compris)",
-        "solo": "50 à 90 $",
-        "duo": "50 à 90 $"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "10 à 40 $",
-        "duo": "10 à 30 $"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "20 à 50 $",
-        "duo": "20 à 50 $"
-      }
-    ],
-    "totalSolo": "210 à 430 $",
-    "totalDuo": "160 à 320 $",
-    "note": "Les prix affichés sont hors taxes, ajoutées à la caisse, et le pourboire (18 à 20 % au restaurant) est attendu. New York, San Francisco et Hawaï sont les plus chères. Pour un road trip, la voiture se partage : c'est là que voyager à deux fait la plus grande différence.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour touristique de 90 jours maximum, mais une autorisation électronique ESTA est obligatoire, à demander en ligne avant le départ, avec un passeport électronique ou biométrique.",
     "points": [
@@ -479,10 +450,6 @@
     {
       "q": "Qui ne peut pas avoir d'ESTA ?",
       "a": "Les personnes allées à Cuba depuis le 12 janvier 2021, ou en Iran, Irak, Syrie, Libye, Somalie, Yémen ou au Soudan depuis le 1er mars 2011, doivent demander un visa. C'est plus long : anticipe."
-    },
-    {
-      "q": "Quel budget pour deux semaines aux États-Unis ?",
-      "a": "Compte environ 210 à 430 $ par jour seul et 160 à 320 $ par personne à deux, hors vols et voiture. Les taxes et les pourboires s'ajoutent aux prix affichés. Ces montants sont des estimations à vérifier."
     },
     {
       "q": "Quelle assurance pour les États-Unis ?",

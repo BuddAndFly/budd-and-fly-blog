@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Bhoutan : visa, Paro, Thimphou, Punakha",
-    "description": "Préparer un voyage au Bhoutan : visa par tour-opérateur agréé, sécurité, meilleure saison, budget, Paro, le Nid du Tigre, Thimphou, Punakha. Guide PDF gratuit."
+    "description": "Préparer un voyage au Bhoutan : visa par tour-opérateur agréé, sécurité, meilleure saison, Paro, le Nid du Tigre, Thimphou, Punakha. Guide PDF gratuit."
   },
   "hero": null,
   "summary": "Le Bhoutan se visite au printemps (mars-mai) et à l'automne (septembre-novembre), quand l'Himalaya est dégagé. Le visa se demande au moins 15 jours avant le départ, obligatoirement via un tour-opérateur agréé. Le royaume est sûr et limite volontairement le tourisme : monastères-forteresses, festivals masqués et le monastère du Nid du Tigre accroché à sa falaise.",
@@ -24,33 +24,56 @@
     "flight": "Environ 14 h depuis Paris pour Paro, avec escale à Delhi, Calcutta ou Bangkok"
   },
   "months": [
-    { "rating": 1, "note": "Froid mais ciel clair, vallées calmes." },
-    { "rating": 1, "note": "Comme en janvier ; festival de Punakha (selon le calendrier lunaire)." },
-    { "rating": 2, "note": "Printemps, rhododendrons ; festival de Paro (selon les années)." },
-    { "rating": 2, "note": "Fleurs et montagnes dégagées." },
-    { "rating": 2, "note": "Agréable, avant la mousson." },
-    { "rating": 1, "note": "Arrivée de la mousson." },
-    { "rating": 0, "note": "Mousson, routes coupées." },
-    { "rating": 0, "note": "Mousson." },
-    { "rating": 1, "note": "Fin de la mousson ; festival de Thimphou (selon les années)." },
-    { "rating": 2, "note": "Le meilleur mois, ciel limpide." },
-    { "rating": 2, "note": "Sec, frais, vue sur les sommets." },
-    { "rating": 1, "note": "Froid, ciel clair." }
+    {
+      "rating": 1,
+      "note": "Froid mais ciel clair, vallées calmes."
+    },
+    {
+      "rating": 1,
+      "note": "Comme en janvier ; festival de Punakha (selon le calendrier lunaire)."
+    },
+    {
+      "rating": 2,
+      "note": "Printemps, rhododendrons ; festival de Paro (selon les années)."
+    },
+    {
+      "rating": 2,
+      "note": "Fleurs et montagnes dégagées."
+    },
+    {
+      "rating": 2,
+      "note": "Agréable, avant la mousson."
+    },
+    {
+      "rating": 1,
+      "note": "Arrivée de la mousson."
+    },
+    {
+      "rating": 0,
+      "note": "Mousson, routes coupées."
+    },
+    {
+      "rating": 0,
+      "note": "Mousson."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la mousson ; festival de Thimphou (selon les années)."
+    },
+    {
+      "rating": 2,
+      "note": "Le meilleur mois, ciel limpide."
+    },
+    {
+      "rating": 2,
+      "note": "Sec, frais, vue sur les sommets."
+    },
+    {
+      "rating": 1,
+      "note": "Froid, ciel clair."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en dollars américains, par jour et par personne, hors vols.",
-    "rows": [
-      { "label": "Taxe de développement durable (par nuit)", "solo": "Montant fixé par l'État, à vérifier", "duo": "Montant fixé par l'État, à vérifier" },
-      { "label": "Hébergement (hôtel agréé)", "solo": "80 à 250 $", "duo": "50 à 150 $" },
-      { "label": "Guide et chauffeur (obligatoires)", "solo": "80 à 150 $", "duo": "40 à 75 $" },
-      { "label": "Repas et entrées", "solo": "30 à 60 $", "duo": "30 à 60 $" }
-    ],
-    "totalSolo": "190 à 460 $ + taxe journalière",
-    "totalDuo": "120 à 285 $ + taxe journalière",
-    "note": "Le Bhoutan applique une taxe journalière de développement durable par personne, qui change selon la politique du gouvernement : c'est le premier poste du budget. Le tour-opérateur l'inclut dans son devis.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Un visa est obligatoire. Il ne se demande pas directement : il faut passer, au moins 15 jours avant le départ, par un tour-opérateur agréé au Bhoutan ou son représentant, qui gère aussi les billets d'avion.",
     "points": [
@@ -58,7 +81,10 @@
       "Les tour-opérateurs agréés sont regroupés au sein de l'association ABTO.",
       "Aucun transit n'est possible depuis la Chine ; le sud-est n'est pas accessible par l'Assam (Inde)."
     ],
-    "source": { "label": "France Diplomatie, Bhoutan, Entrée / séjour et Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bhoutan/" },
+    "source": {
+      "label": "France Diplomatie, Bhoutan, Entrée / séjour et Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bhoutan/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -69,7 +95,10 @@
       "Altitude : monte progressivement pour les treks.",
       "Assurance avec évacuation sanitaire indispensable."
     ],
-    "source": { "label": "France Diplomatie, Bhoutan, Santé et Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bhoutan/" },
+    "source": {
+      "label": "France Diplomatie, Bhoutan, Santé et Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bhoutan/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -80,7 +109,10 @@
       "Zone sismique.",
       "Attention aux pickpockets malgré tout."
     ],
-    "source": { "label": "France Diplomatie, Bhoutan, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bhoutan/" },
+    "source": {
+      "label": "France Diplomatie, Bhoutan, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bhoutan/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -88,16 +120,31 @@
       "slug": "paro",
       "name": "Paro",
       "nights": "3 nuits",
-      "for": ["tous", "explorateur"],
+      "for": [
+        "tous",
+        "explorateur"
+      ],
       "summary": "Une vallée de rizières dominée par un dzong et par le célèbre monastère du Nid du Tigre.",
       "sleep": "Dans la vallée de Paro.",
       "see": [
-        { "name": "Le monastère de Taktsang (Nid du Tigre)", "note": "Accroché à 900 m au-dessus de la vallée, randonnée de 5 à 6 h aller-retour." },
-        { "name": "Le Rinpung Dzong", "note": "Forteresse-monastère et cour du festival." },
-        { "name": "Le temple de Kyichu Lhakhang", "note": "L'un des plus anciens du pays." }
+        {
+          "name": "Le monastère de Taktsang (Nid du Tigre)",
+          "note": "Accroché à 900 m au-dessus de la vallée, randonnée de 5 à 6 h aller-retour."
+        },
+        {
+          "name": "Le Rinpung Dzong",
+          "note": "Forteresse-monastère et cour du festival."
+        },
+        {
+          "name": "Le temple de Kyichu Lhakhang",
+          "note": "L'un des plus anciens du pays."
+        }
       ],
       "hidden": [
-        { "name": "Le col de Chele La", "note": "Le plus haut col routier du pays, vue sur l'Himalaya." }
+        {
+          "name": "Le col de Chele La",
+          "note": "Le plus haut col routier du pays, vue sur l'Himalaya."
+        }
       ],
       "eat": "L'ema datshi (piments au fromage), plat national.",
       "getAround": "Avec guide et chauffeur (obligatoires).",
@@ -107,16 +154,31 @@
       "slug": "thimphou",
       "name": "Thimphou",
       "nights": "2 nuits",
-      "for": ["stratege", "tous"],
+      "for": [
+        "stratege",
+        "tous"
+      ],
       "summary": "La seule capitale au monde sans feux de circulation, entre tradition et modernité.",
       "sleep": "Dans le centre.",
       "see": [
-        { "name": "Le Bouddha Dordenma", "note": "Une statue géante dominant la vallée." },
-        { "name": "Le Tashichho Dzong", "note": "Siège du gouvernement et du clergé." },
-        { "name": "Le Memorial Chorten", "note": "Où les habitants tournent les moulins à prières." }
+        {
+          "name": "Le Bouddha Dordenma",
+          "note": "Une statue géante dominant la vallée."
+        },
+        {
+          "name": "Le Tashichho Dzong",
+          "note": "Siège du gouvernement et du clergé."
+        },
+        {
+          "name": "Le Memorial Chorten",
+          "note": "Où les habitants tournent les moulins à prières."
+        }
       ],
       "hidden": [
-        { "name": "Le marché du week-end", "note": "Produits locaux et artisanat." }
+        {
+          "name": "Le marché du week-end",
+          "note": "Produits locaux et artisanat."
+        }
       ],
       "eat": "Les momos et le thé au beurre (suja).",
       "getAround": "Avec guide et chauffeur.",
@@ -126,16 +188,31 @@
       "slug": "punakha",
       "name": "Punakha",
       "nights": "2 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Une vallée chaude au confluent de deux rivières et le plus beau dzong du pays.",
       "sleep": "Dans la vallée.",
       "see": [
-        { "name": "Le Punakha Dzong", "note": "Au confluent du Pho Chhu et du Mo Chhu." },
-        { "name": "Le col de Dochu La", "note": "108 chortens et vue sur l'Himalaya, sur la route." },
-        { "name": "Le pont suspendu de Punakha", "note": "L'un des plus longs du pays." }
+        {
+          "name": "Le Punakha Dzong",
+          "note": "Au confluent du Pho Chhu et du Mo Chhu."
+        },
+        {
+          "name": "Le col de Dochu La",
+          "note": "108 chortens et vue sur l'Himalaya, sur la route."
+        },
+        {
+          "name": "Le pont suspendu de Punakha",
+          "note": "L'un des plus longs du pays."
+        }
       ],
       "hidden": [
-        { "name": "Le Chimi Lhakhang", "note": "Le temple du « fou divin », réputé pour la fertilité." }
+        {
+          "name": "Le Chimi Lhakhang",
+          "note": "Le temple du « fou divin », réputé pour la fertilité."
+        }
       ],
       "eat": "Le riz rouge du Bhoutan.",
       "getAround": "Avec guide et chauffeur.",
@@ -146,29 +223,73 @@
     {
       "days": 7,
       "title": "Les vallées de l'ouest",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jour 1", "place": "Paro", "note": "Arrivée." },
-        { "days": "Jours 2 et 3", "place": "Thimphou", "note": "Capitale." },
-        { "days": "Jours 4 et 5", "place": "Punakha", "note": "Par Dochu La." },
-        { "days": "Jours 6 et 7", "place": "Paro", "note": "Nid du Tigre, départ." }
+        {
+          "days": "Jour 1",
+          "place": "Paro",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 2 et 3",
+          "place": "Thimphou",
+          "note": "Capitale."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Punakha",
+          "note": "Par Dochu La."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Paro",
+          "note": "Nid du Tigre, départ."
+        }
       ]
     },
     {
       "days": 12,
       "title": "Ouest et centre",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Paro et Thimphou", "note": "Arrivée." },
-        { "days": "Jours 4 et 5", "place": "Punakha", "note": "Dzong." },
-        { "days": "Jours 6 à 9", "place": "Vallée de Phobjikha et Bumthang", "note": "Grues à cou noir en hiver, temples anciens." },
-        { "days": "Jours 10 à 12", "place": "Paro", "note": "Nid du Tigre, départ." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Paro et Thimphou",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Punakha",
+          "note": "Dzong."
+        },
+        {
+          "days": "Jours 6 à 9",
+          "place": "Vallée de Phobjikha et Bumthang",
+          "note": "Grues à cou noir en hiver, temples anciens."
+        },
+        {
+          "days": "Jours 10 à 12",
+          "place": "Paro",
+          "note": "Nid du Tigre, départ."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Guide et chauffeur", "text": "Obligatoires pour la plupart des visiteurs, organisés par le tour-opérateur." },
-    { "title": "Vols", "text": "Druk Air et Bhutan Airlines, seules compagnies desservant Paro." }
+    {
+      "title": "Guide et chauffeur",
+      "text": "Obligatoires pour la plupart des visiteurs, organisés par le tour-opérateur."
+    },
+    {
+      "title": "Vols",
+      "text": "Druk Air et Bhutan Airlines, seules compagnies desservant Paro."
+    }
   ],
   "culture": [
     "Le pays mesure le « Bonheur national brut ».",
@@ -177,9 +298,21 @@
     "Photos souvent interdites à l'intérieur des temples."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Kuzuzangpo la", "say": "kouzouzangpo la" },
-    { "fr": "Merci", "local": "Kadrinchey la", "say": "kadrinchè la" },
-    { "fr": "Au revoir", "local": "Lasho", "say": "lacho" }
+    {
+      "fr": "Bonjour",
+      "local": "Kuzuzangpo la",
+      "say": "kouzouzangpo la"
+    },
+    {
+      "fr": "Merci",
+      "local": "Kadrinchey la",
+      "say": "kadrinchè la"
+    },
+    {
+      "fr": "Au revoir",
+      "local": "Lasho",
+      "say": "lacho"
+    }
   ],
   "checklist": [
     "Passeport valable 6 mois à l'entrée",
@@ -189,9 +322,17 @@
     "Assurance avec évacuation sanitaire"
   ],
   "faq": [
-    { "q": "Comment obtenir un visa pour le Bhoutan ?", "a": "Uniquement via un tour-opérateur agréé, au moins 15 jours avant le départ ; il gère aussi les vols. Le passeport doit être valable 6 mois." },
-    { "q": "Peut-on voyager seul au Bhoutan ?", "a": "On peut voyager à titre individuel, mais avec un guide et un chauffeur, et en passant par un tour-opérateur agréé." },
-    { "q": "Quand partir au Bhoutan ?", "a": "Au printemps (mars-mai) et à l'automne (septembre-novembre)." },
-    { "q": "Quel budget pour une semaine au Bhoutan ?", "a": "Compte environ 190 à 460 $ par jour seul et 120 à 285 $ par personne à deux, plus la taxe journalière de développement durable, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Comment obtenir un visa pour le Bhoutan ?",
+      "a": "Uniquement via un tour-opérateur agréé, au moins 15 jours avant le départ ; il gère aussi les vols. Le passeport doit être valable 6 mois."
+    },
+    {
+      "q": "Peut-on voyager seul au Bhoutan ?",
+      "a": "On peut voyager à titre individuel, mais avec un guide et un chauffeur, et en passant par un tour-opérateur agréé."
+    },
+    {
+      "q": "Quand partir au Bhoutan ?",
+      "a": "Au printemps (mars-mai) et à l'automne (septembre-novembre)."
+    }
   ]
 }

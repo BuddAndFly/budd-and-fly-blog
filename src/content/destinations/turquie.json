@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Turquie : quand partir, budget, Istanbul, Cappadoce",
-    "description": "Préparer un voyage en Turquie : sans visa avec la carte d'identité, meilleure saison, budget, Istanbul, la Cappadoce, Éphèse, la côte. Guide PDF gratuit."
+    "title": "Guide Turquie : quand partir, Istanbul, Cappadoce",
+    "description": "Préparer un voyage en Turquie : sans visa avec la carte d'identité, meilleure saison, Istanbul, la Cappadoce, Éphèse, la côte. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/turquie/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Hiver à Istanbul, froid en Cappadoce."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols. La livre turque varie beaucoup : les prix locaux sont souvent affichés ou calculés en euros dans les lieux touristiques.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou pension)",
-        "solo": "50 à 110 €",
-        "duo": "35 à 70 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "20 à 40 €",
-        "duo": "20 à 40 €"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "5 à 15 €",
-        "duo": "5 à 15 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "15 à 40 €",
-        "duo": "15 à 40 €"
-      }
-    ],
-    "totalSolo": "90 à 205 €",
-    "totalDuo": "75 à 165 €",
-    "note": "Les grands sites (Sainte-Sophie pour les étrangers, palais de Topkapı, Éphèse) ont des entrées élevées. Le vol en montgolfière en Cappadoce s'ajoute et coûte cher. Les bus longue distance et les vols intérieurs sont bon marché.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Les Français n'ont pas besoin de visa pour un séjour touristique de 90 jours sur une période de 180 jours. Une carte d'identité ou un passeport suffit, à condition d'être valable assez longtemps.",
     "points": [
@@ -482,10 +453,6 @@
     {
       "q": "La Turquie est-elle sûre ?",
       "a": "Les régions touristiques sont en vigilance renforcée, comme la majeure partie du pays. Le sud-est, près des frontières syrienne et irakienne, est déconseillé. Évite les rassemblements et inscris-toi sur Ariane."
-    },
-    {
-      "q": "Quel budget pour une semaine en Turquie ?",
-      "a": "Compte environ 90 à 205 € par jour seul et 75 à 165 € par personne à deux, hors vols et montgolfière. Ces montants sont des estimations à vérifier."
     }
   ]
 }

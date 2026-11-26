@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Finlande : Laponie, aurores, Helsinki, budget",
-    "description": "Préparer un voyage en Finlande : Laponie en hiver, lacs en été, budget seul ou à deux, Helsinki, Rovaniemi, la région des lacs. Guide PDF gratuit."
+    "title": "Guide Finlande : Laponie, aurores, Helsinki",
+    "description": "Préparer un voyage en Finlande : Laponie en hiver, lacs en été, Helsinki, Rovaniemi, la région des lacs. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/finlande/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Rovaniemi et la magie de Noël, mais très fréquenté et cher."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou chalet)",
-        "solo": "90 à 160 €",
-        "duo": "60 à 100 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "30 à 50 €",
-        "duo": "30 à 50 €"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "5 à 20 €",
-        "duo": "5 à 20 €"
-      },
-      {
-        "label": "Visites",
-        "solo": "10 à 40 €",
-        "duo": "10 à 40 €"
-      }
-    ],
-    "totalSolo": "135 à 270 €",
-    "totalDuo": "105 à 210 €",
-    "note": "Les activités en Laponie (traîneau à chiens ou à rennes, motoneige, chasse aux aurores) coûtent cher et s'ajoutent. Un chalet partagé avec sauna est souvent plus avantageux à plusieurs. Prix au plus haut autour de Noël.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "La Finlande est dans l'Union européenne : une carte d'identité ou un passeport en cours de validité suffit.",
     "points": [
@@ -391,10 +362,6 @@
     {
       "q": "Quand partir en Laponie ?",
       "a": "De décembre à mars pour la neige et les aurores ; février et mars offrent plus de lumière. Septembre est superbe pour les couleurs d'automne et les premières aurores."
-    },
-    {
-      "q": "Quel budget pour une semaine en Laponie ?",
-      "a": "Compte environ 135 à 270 € par jour seul et 105 à 210 € par personne à deux, hors vols et activités (traîneau, motoneige). Ces montants sont des estimations à vérifier."
     },
     {
       "q": "Rovaniemi ou Saariselkä ?",

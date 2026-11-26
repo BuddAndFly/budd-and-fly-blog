@@ -10,7 +10,7 @@
   "reviewer": null,
   "seo": {
     "title": "Guide Taïwan : Taipei, Taroko, Sun Moon Lake",
-    "description": "Préparer un voyage à Taïwan : sans visa 90 jours, carte d'arrivée en ligne, typhons, budget, Taipei, Taroko, Sun Moon Lake, Tainan. Guide PDF gratuit."
+    "description": "Préparer un voyage à Taïwan : sans visa 90 jours, carte d'arrivée en ligne, typhons, Taipei, Taroko, Sun Moon Lake, Tainan. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/taiwan/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Frais au nord."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en dollars taïwanais, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou guesthouse)",
-        "solo": "1 800 à 4 000 NT$",
-        "duo": "1 100 à 2 500 NT$"
-      },
-      {
-        "label": "Repas",
-        "solo": "600 à 1 400 NT$",
-        "duo": "600 à 1 400 NT$"
-      },
-      {
-        "label": "Transports",
-        "solo": "150 à 1 200 NT$",
-        "duo": "150 à 1 200 NT$"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "100 à 500 NT$",
-        "duo": "100 à 500 NT$"
-      }
-    ],
-    "totalSolo": "2 650 à 7 100 NT$",
-    "totalDuo": "1 950 à 5 600 NT$",
-    "note": "Les marchés de nuit permettent de très bien manger pour peu. Le train à grande vitesse est le poste le plus cher.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour de moins de 90 jours. Le passeport doit être valable plus de 6 mois à l'entrée, avec un billet retour ou vers un pays tiers.",
     "points": [
@@ -392,10 +363,6 @@
     {
       "q": "Quand partir à Taïwan ?",
       "a": "D'octobre à avril. L'été est chaud et exposé aux typhons."
-    },
-    {
-      "q": "Quel budget pour 10 jours à Taïwan ?",
-      "a": "Compte environ 2 650 à 7 100 NT$ par jour seul et 1 950 à 5 600 NT$ par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

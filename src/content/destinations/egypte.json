@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Égypte : visa, quand partir, budget, Nil, pyramides",
-    "description": "Préparer un voyage en Égypte : visa et carte d'identité, meilleure saison, budget, Le Caire, Louxor, Assouan, la mer Rouge, zones à éviter. Guide PDF gratuit."
+    "title": "Guide Égypte : visa, quand partir, Nil, pyramides",
+    "description": "Préparer un voyage en Égypte : visa et carte d'identité, meilleure saison, Le Caire, Louxor, Assouan, la mer Rouge, zones à éviter. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/egypte/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Doux et ensoleillé, mais très fréquenté pendant les fêtes."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols. La livre égyptienne varie beaucoup : les prix touristiques sont souvent fixés en euros ou en dollars.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple)",
-        "solo": "30 à 70 €",
-        "duo": "20 à 45 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "10 à 25 €",
-        "duo": "10 à 25 €"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "5 à 15 €",
-        "duo": "5 à 10 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "15 à 40 €",
-        "duo": "15 à 40 €"
-      }
-    ],
-    "totalSolo": "60 à 150 €",
-    "totalDuo": "50 à 120 €",
-    "note": "Les entrées des grands sites (pyramides, Vallée des Rois, Abou Simbel, Grand Musée égyptien) sont élevées pour les étrangers. Une croisière sur le Nil s'ajoute et varie beaucoup selon le bateau. Prévois aussi le visa et des petites coupures pour les pourboires.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Visa obligatoire. Les Français peuvent entrer avec un passeport ou une carte d'identité, valable au moins 6 mois après la date de retour en France.",
     "points": [
@@ -487,10 +458,6 @@
     {
       "q": "L'Égypte est-elle sûre ?",
       "a": "Les circuits classiques (Le Caire, Louxor, Assouan, mer Rouge) sont accessibles avec vigilance. Le nord du Sinaï, la frontière soudanaise et le désert vers la Libye sont formellement déconseillés."
-    },
-    {
-      "q": "Quel budget pour une semaine en Égypte ?",
-      "a": "Compte environ 60 à 150 € par jour seul et 50 à 120 € par personne à deux, hors vols, visa et croisière. Ces montants sont des estimations à vérifier."
     }
   ]
 }

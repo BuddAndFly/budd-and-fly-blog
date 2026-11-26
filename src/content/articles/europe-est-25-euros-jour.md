@@ -17,7 +17,7 @@ hero:
 destinations: ["bosnie-herzegovine", "montenegro", "albanie", "macedoine-du-nord", "serbie", "bulgarie", "roumanie"]
 ---
 
-**Les Balkans sont la région la plus abordable d'Europe pour voyager longtemps.** En dormant en guesthouse, en mangeant dans les tavernes et en circulant en bus, on peut y voyager avec un budget quotidien modeste, hors pics de l'été sur la côte. Voici un circuit de trois semaines.
+**Les Balkans se prêtent bien à un long voyage en bus, de guesthouse en guesthouse.** Voici un circuit de trois semaines, avec les formalités à vérifier et les pièges à éviter.
 
 ## Le circuit en 3 semaines
 

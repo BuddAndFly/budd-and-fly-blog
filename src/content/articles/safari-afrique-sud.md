@@ -1,7 +1,7 @@
 ---
 title: "Safari en Afrique du Sud : le parc Kruger en pratique"
-seoTitle: "Safari en Afrique du Sud : Kruger, saison, budget, sécurité"
-description: "Faire un safari au parc Kruger : meilleure saison, safari autonome ou guidé, camps, budget, santé et sécurité en Afrique du Sud."
+seoTitle: "Safari en Afrique du Sud : Kruger, saison, sécurité"
+description: "Faire un safari au parc Kruger : meilleure saison, safari autonome ou guidé, camps, santé et sécurité en Afrique du Sud."
 category: "Idées de voyage"
 status: "brouillon"
 publishedAt: "2026-11-25"
@@ -11,7 +11,7 @@ hero: null
 destinations: ["afrique-du-sud", "botswana", "namibie"]
 ---
 
-**Le parc Kruger est l'un des plus grands parcs d'Afrique, et l'un des plus accessibles : on peut y faire un safari au volant de sa propre voiture.** Voici comment l'organiser. Les formalités, la sécurité et le budget détaillé sont dans notre [guide de l'Afrique du Sud](/destinations/afrique-du-sud/).
+**Le parc Kruger est l'un des plus grands parcs d'Afrique, et l'un des plus accessibles : on peut y faire un safari au volant de sa propre voiture.** Voici comment l'organiser. Les formalités et la sécurité sont dans notre [guide de l'Afrique du Sud](/destinations/afrique-du-sud/).
 
 ## Quand partir
 

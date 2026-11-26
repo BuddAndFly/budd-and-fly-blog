@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Thaïlande : quand partir, budget, visa, itinéraires",
-    "description": "Préparer un voyage en Thaïlande : meilleure saison, visa (30 jours depuis 2026), budget seul ou à deux, villes, îles et itinéraires. Guide PDF gratuit."
+    "title": "Guide Thaïlande : quand partir, visa, itinéraires",
+    "description": "Préparer un voyage en Thaïlande : meilleure saison, visa (30 jours depuis 2026), villes, îles et itinéraires. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/thailande/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Sec et agréable partout sauf dans le sud du golfe. Fêtes de fin d'année : réserve tôt."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en bahts, par jour et par personne, hors vols internationaux. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (chambre simple, guesthouse ou petit hôtel)",
-        "solo": "800 à 1 500 ฿",
-        "duo": "500 à 1 000 ฿"
-      },
-      {
-        "label": "Repas (cuisine de rue et petits restaurants)",
-        "solo": "300 à 700 ฿",
-        "duo": "300 à 700 ฿"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "100 à 400 ฿",
-        "duo": "100 à 300 ฿"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "100 à 500 ฿",
-        "duo": "100 à 500 ฿"
-      }
-    ],
-    "totalSolo": "1 300 à 3 100 ฿",
-    "totalDuo": "1 000 à 2 500 ฿",
-    "note": "Les îles et Bangkok coûtent plus cher que le nord. En dortoir, compte plutôt 250 à 500 ฿ la nuit. Les trajets entre régions (train de nuit, bus ou vol intérieur) s'ajoutent.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Depuis le 15 septembre 2026, les Français peuvent séjourner 30 jours sans visa en Thaïlande pour du tourisme, contre 60 jours auparavant. Une carte d'arrivée en ligne est obligatoire.",
     "points": [
@@ -497,10 +468,6 @@
     {
       "q": "Quelle est la meilleure période pour partir en Thaïlande ?",
       "a": "De novembre à février pour la plus grande partie du pays : temps sec et chaleur supportable. En juillet et août, préfère les îles du golfe (Koh Samui, Koh Tao), moins touchées par la pluie que la côte d'Andaman."
-    },
-    {
-      "q": "Quel budget pour deux semaines en Thaïlande ?",
-      "a": "Compte environ 1 300 à 3 100 ฿ par jour seul et 1 000 à 2 500 ฿ par personne à deux, hors vols internationaux et trajets entre régions. Les îles et Bangkok coûtent plus cher que le nord. Ces montants sont des estimations à vérifier."
     },
     {
       "q": "Peut-on louer un scooter en Thaïlande ?",

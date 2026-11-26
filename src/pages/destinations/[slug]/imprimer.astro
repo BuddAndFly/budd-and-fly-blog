@@ -56,7 +56,7 @@ const chk = (s: string | null) => (s ? `vérifié le ${frDate(s)}` : 'à vérifi
       <div class="two">
         <dl class="kvs">
           <div><dt>Meilleure période</dt><dd>{g.essentials.bestPeriod}</dd></div>
-          <div><dt>Budget / jour</dt><dd>{g.budget.totalSolo} seul<br />{g.budget.totalDuo} à deux</dd></div>
+          {g.budget && <div><dt>Budget / jour</dt><dd>{g.budget.totalSolo} seul<br />{g.budget.totalDuo} à deux</dd></div>}
           <div><dt>Langue</dt><dd>{g.essentials.languages}</dd></div>
           <div><dt>Monnaie</dt><dd>{g.essentials.currency}</dd></div>
           <div><dt>Décalage</dt><dd>{g.essentials.timeDiff}</dd></div>
@@ -102,17 +102,19 @@ const chk = (s: string | null) => (s ? `vérifié le ${frDate(s)}` : 'à vérifi
 
     <!-- Budget + transports -->
     <section class="page">
-      <header class="ph"><span>{g.name}</span><span>Budget · Se déplacer</span></header>
-      <h2>Budget, seul ou à deux</h2>
-      <p class="small">{g.budget.currencyNote}</p>
-      <table class="budget">
-        <thead><tr><th>Par jour et par personne</th><th>Seul</th><th>À deux</th></tr></thead>
-        <tbody>
-          {g.budget.rows.map((r) => <tr><td>{r.label}</td><td>{r.solo}</td><td>{r.duo}</td></tr>)}
-          <tr class="total"><td>Total</td><td>{g.budget.totalSolo}</td><td>{g.budget.totalDuo}</td></tr>
-        </tbody>
-      </table>
-      <p class="small">{g.budget.note} ({g.budget.checkedAt ? `prix relevés le ${frDate(g.budget.checkedAt)}` : 'estimation à vérifier'})</p>
+      <header class="ph"><span>{g.name}</span><span>{g.budget ? 'Budget · Se déplacer' : 'Se déplacer'}</span></header>
+      {g.budget && <>
+        <h2>Budget, seul ou à deux</h2>
+        <p class="small">{g.budget.currencyNote}</p>
+        <table class="budget">
+          <thead><tr><th>Par jour et par personne</th><th>Seul</th><th>À deux</th></tr></thead>
+          <tbody>
+            {g.budget.rows.map((r) => <tr><td>{r.label}</td><td>{r.solo}</td><td>{r.duo}</td></tr>)}
+            <tr class="total"><td>Total</td><td>{g.budget.totalSolo}</td><td>{g.budget.totalDuo}</td></tr>
+          </tbody>
+        </table>
+        <p class="small">{g.budget.note} ({g.budget.checkedAt ? `prix relevés le ${frDate(g.budget.checkedAt)}` : 'estimation à vérifier'})</p>
+      </>}
       <h2>Se déplacer</h2>
       {g.transport.map((t) => <div class="titem"><h3>{t.title}</h3><p>{t.text}</p></div>)}
     </section>

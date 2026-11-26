@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Pologne : quand partir, budget, Cracovie, Varsovie",
-    "description": "Préparer un voyage en Pologne : meilleure saison, budget seul ou à deux, Cracovie, Varsovie, Gdańsk, Wrocław, les Tatras. Guide PDF gratuit."
+    "title": "Guide Pologne : quand partir, Cracovie, Varsovie",
+    "description": "Préparer un voyage en Pologne : meilleure saison, Cracovie, Varsovie, Gdańsk, Wrocław, les Tatras. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/pologne/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Marchés de Noël à Cracovie, Wrocław et Gdańsk : très atmosphériques."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en złotys, par jour et par personne, hors vols. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple ou appartement)",
-        "solo": "250 à 450 zł",
-        "duo": "160 à 300 zł"
-      },
-      {
-        "label": "Repas",
-        "solo": "100 à 180 zł",
-        "duo": "100 à 180 zł"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "15 à 40 zł",
-        "duo": "15 à 40 zł"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "30 à 100 zł",
-        "duo": "30 à 100 zł"
-      }
-    ],
-    "totalSolo": "395 à 770 zł",
-    "totalDuo": "305 à 620 zł",
-    "note": "La Pologne reste plus abordable que l'Europe de l'Ouest, surtout pour les repas. Les « bar mleczny » (bars à lait), cantines populaires, servent des plats polonais pour très peu cher. Trains rapides à réserver tôt pour les meilleurs prix.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "La Pologne est dans l'Union européenne : une carte d'identité ou un passeport en cours de validité suffit.",
     "points": [
@@ -450,10 +421,6 @@
     {
       "q": "Comment visiter Auschwitz-Birkenau ?",
       "a": "Le mémorial et musée est à environ 1 h 30 de Cracovie. Réserve gratuitement ou en visite guidée sur le site officiel, plusieurs semaines à l'avance en saison."
-    },
-    {
-      "q": "Quel budget pour une semaine en Pologne ?",
-      "a": "Compte environ 395 à 770 zł par jour seul et 305 à 620 zł par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
     }
   ]
 }

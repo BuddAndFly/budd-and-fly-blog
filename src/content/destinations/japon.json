@@ -9,13 +9,17 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Japon : quand partir, budget, itinéraires (PDF)",
-    "description": "Préparer un voyage au Japon : meilleure saison, budget réel seul ou à deux, formalités vérifiées, villes, itinéraires 7 à 14 jours. Guide PDF gratuit."
+    "title": "Guide Japon : quand partir, itinéraires (PDF)",
+    "description": "Préparer un voyage au Japon : meilleure saison réel seul ou à deux, formalités vérifiées, villes, itinéraires 7 à 14 jours. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/japon/hero.jpg",
     "alt": "La pagode Chureito et le mont Fuji au coucher du soleil",
-    "credit": { "author": "Supanut Arunoprayote", "license": "CC BY 4.0", "url": "https://commons.wikimedia.org/wiki/File:Chureito_Pagoda_and_Mount_Fuji_20241022.jpg" }
+    "credit": {
+      "author": "Supanut Arunoprayote",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Chureito_Pagoda_and_Mount_Fuji_20241022.jpg"
+    }
   },
   "summary": "Le Japon se visite idéalement au printemps (mars à mai) ou à l'automne (octobre-novembre). Les Français n'ont pas besoin de visa pour un séjour touristique de moins de 90 jours. Pour un premier voyage de 10 jours, Tokyo, Kyoto et une nuit dans une ville thermale suffisent largement.",
   "essentials": {
@@ -28,33 +32,56 @@
     "flight": "Environ 14 h en vol direct depuis Paris"
   },
   "months": [
-    { "rating": 1, "note": "Froid et sec, ciel souvent clair. Peu de monde après les fêtes du Nouvel An, saison de ski à Hokkaido et dans les Alpes japonaises." },
-    { "rating": 1, "note": "Le mois le plus froid, mais lumineux et calme. Festivals de neige dans le nord, prix bas." },
-    { "rating": 2, "note": "La douceur revient. Les cerisiers commencent à fleurir en fin de mois à Tokyo et Kyoto, avec l'affluence qui va avec." },
-    { "rating": 2, "note": "Cerisiers en début de mois : magnifique mais très fréquenté, réserve tôt. La Golden Week, fin avril, remplit les trains et les hôtels." },
-    { "rating": 2, "note": "Doux et vert, idéal pour marcher. Évite la Golden Week, les premiers jours du mois." },
-    { "rating": 0, "note": "Saison des pluies sur la majeure partie du pays, de début juin à mi-juillet environ. Hokkaido y échappe." },
-    { "rating": 0, "note": "Chaud et humide après la saison des pluies. Bien pour la montagne, Hokkaido et l'ascension du Fuji (saison officielle en été)." },
-    { "rating": 0, "note": "Très chaud et humide. Vacances japonaises à la mi-août (Obon) : transports pleins. Risque de typhons." },
-    { "rating": 0, "note": "Encore chaud, et cœur de la saison des typhons. Les prix baissent." },
-    { "rating": 2, "note": "Temps doux et stable, peu de pluie : l'un des meilleurs mois pour tout le pays." },
-    { "rating": 2, "note": "Couleurs d'automne à Kyoto, Nikko et Hakone. Aussi recherché que le printemps : réserve tôt." },
-    { "rating": 1, "note": "Froid sec, illuminations dans les villes. Calme jusqu'aux fêtes de fin d'année, où tout ferme quelques jours." }
+    {
+      "rating": 1,
+      "note": "Froid et sec, ciel souvent clair. Peu de monde après les fêtes du Nouvel An, saison de ski à Hokkaido et dans les Alpes japonaises."
+    },
+    {
+      "rating": 1,
+      "note": "Le mois le plus froid, mais lumineux et calme. Festivals de neige dans le nord, prix bas."
+    },
+    {
+      "rating": 2,
+      "note": "La douceur revient. Les cerisiers commencent à fleurir en fin de mois à Tokyo et Kyoto, avec l'affluence qui va avec."
+    },
+    {
+      "rating": 2,
+      "note": "Cerisiers en début de mois : magnifique mais très fréquenté, réserve tôt. La Golden Week, fin avril, remplit les trains et les hôtels."
+    },
+    {
+      "rating": 2,
+      "note": "Doux et vert, idéal pour marcher. Évite la Golden Week, les premiers jours du mois."
+    },
+    {
+      "rating": 0,
+      "note": "Saison des pluies sur la majeure partie du pays, de début juin à mi-juillet environ. Hokkaido y échappe."
+    },
+    {
+      "rating": 0,
+      "note": "Chaud et humide après la saison des pluies. Bien pour la montagne, Hokkaido et l'ascension du Fuji (saison officielle en été)."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud et humide. Vacances japonaises à la mi-août (Obon) : transports pleins. Risque de typhons."
+    },
+    {
+      "rating": 0,
+      "note": "Encore chaud, et cœur de la saison des typhons. Les prix baissent."
+    },
+    {
+      "rating": 2,
+      "note": "Temps doux et stable, peu de pluie : l'un des meilleurs mois pour tout le pays."
+    },
+    {
+      "rating": 2,
+      "note": "Couleurs d'automne à Kyoto, Nikko et Hakone. Aussi recherché que le printemps : réserve tôt."
+    },
+    {
+      "rating": 1,
+      "note": "Froid sec, illuminations dans les villes. Calme jusqu'aux fêtes de fin d'année, où tout ferme quelques jours."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en yens, par jour et par personne, hors vols internationaux. Convertis au taux du jour.",
-    "rows": [
-      { "label": "Hébergement (hôtel simple)", "solo": "8 000 à 14 000 ¥", "duo": "6 000 à 10 000 ¥" },
-      { "label": "Repas", "solo": "3 000 à 6 000 ¥", "duo": "3 000 à 6 000 ¥" },
-      { "label": "Transports en ville", "solo": "1 000 à 2 000 ¥", "duo": "1 000 à 2 000 ¥" },
-      { "label": "Visites et entrées", "solo": "1 000 à 3 000 ¥", "duo": "1 000 à 3 000 ¥" }
-    ],
-    "totalSolo": "13 000 à 25 000 ¥",
-    "totalDuo": "11 000 à 21 000 ¥",
-    "note": "À deux, la chambre double fait l'essentiel de l'économie. En auberge de jeunesse, compte plutôt 3 000 à 5 000 ¥ la nuit en dortoir. Les grands trajets en shinkansen s'ajoutent : environ 14 000 ¥ l'aller simple Tokyo-Kyoto.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa pour un séjour touristique de 90 jours maximum pour les ressortissants français. Au-delà, un visa est obligatoire.",
     "points": [
@@ -64,7 +91,10 @@
       "Empreintes digitales et photo sont prises à l'arrivée.",
       "Interdit d'apporter de la charcuterie ou tout produit à base de viande, même sous vide, ainsi que fruits, graines et plantes sans certificat sanitaire."
     ],
-    "source": { "label": "France Diplomatie, Japon, Entrée / séjour (mise à jour du 24 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/japon/conseils-aux-voyageurs-entree-sejour" },
+    "source": {
+      "label": "France Diplomatie, Japon, Entrée / séjour (mise à jour du 24 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/japon/conseils-aux-voyageurs-entree-sejour"
+    },
     "checkedAt": "2026-11-22"
   },
   "health": {
@@ -76,7 +106,10 @@
       "Les médicaments contenant de la codéine, de la morphine ou de l'oxycodone demandent une autorisation préalable (délai d'un mois minimum). La méthadone est interdite.",
       "Consulte ton médecin ou un centre de vaccinations internationales avant le départ."
     ],
-    "source": { "label": "France Diplomatie, Japon, Santé (mise à jour du 24 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/japon/conseils-aux-voyageurs-sante" },
+    "source": {
+      "label": "France Diplomatie, Japon, Santé (mise à jour du 24 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/japon/conseils-aux-voyageurs-sante"
+    },
     "checkedAt": "2026-11-22"
   },
   "safety": {
@@ -90,7 +123,10 @@
       "Seule la zone autour de la centrale de Fukushima est interdite.",
       "En cas de problème, adresse-toi à un « koban », le petit poste de police de quartier. Assistance touristique en anglais 24 h/24 : 050-3816-2787."
     ],
-    "source": { "label": "France Diplomatie, Japon, Sécurité (mise à jour du 24 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/japon/conseils-aux-voyageurs-securite" },
+    "source": {
+      "label": "France Diplomatie, Japon, Sécurité (mise à jour du 24 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/japon/conseils-aux-voyageurs-securite"
+    },
     "checkedAt": "2026-11-22"
   },
   "cities": [
@@ -98,23 +134,49 @@
       "slug": "tokyo",
       "name": "Tokyo",
       "nights": "3 à 4 nuits",
-      "for": ["energique", "explorateur", "stratege"],
+      "for": [
+        "energique",
+        "explorateur",
+        "stratege"
+      ],
       "summary": "Une ville immense mais simple à parcourir, faite de quartiers très différents. Commence ou termine ton voyage ici.",
       "photo": {
         "src": "/images/destinations/japon/tokyo.jpg",
         "alt": "Le carrefour de Shibuya la nuit",
-        "credit": { "author": "Joli Rumi", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Shibuya_crossing_at_night,_Tokyo,_Japan.jpg" }
+        "credit": {
+          "author": "Joli Rumi",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Shibuya_crossing_at_night,_Tokyo,_Japan.jpg"
+        }
       },
       "sleep": "Shinjuku pour les sorties et les connexions, Ueno ou Asakusa pour des prix plus doux et une ambiance plus traditionnelle.",
       "see": [
-        { "name": "Senso-ji, à Asakusa", "note": "Le plus vieux temple de Tokyo. Viens tôt le matin, avant les groupes." },
-        { "name": "Meiji-jingu et Harajuku", "note": "Un sanctuaire dans la forêt, puis les rues animées de Harajuku juste à côté." },
-        { "name": "Le carrefour de Shibuya", "note": "Plus impressionnant à la tombée de la nuit, vu d'en haut depuis un café ou une terrasse." },
-        { "name": "Le marché extérieur de Tsukiji", "note": "Pour un petit déjeuner de poisson et des brochettes, le matin." }
+        {
+          "name": "Senso-ji, à Asakusa",
+          "note": "Le plus vieux temple de Tokyo. Viens tôt le matin, avant les groupes."
+        },
+        {
+          "name": "Meiji-jingu et Harajuku",
+          "note": "Un sanctuaire dans la forêt, puis les rues animées de Harajuku juste à côté."
+        },
+        {
+          "name": "Le carrefour de Shibuya",
+          "note": "Plus impressionnant à la tombée de la nuit, vu d'en haut depuis un café ou une terrasse."
+        },
+        {
+          "name": "Le marché extérieur de Tsukiji",
+          "note": "Pour un petit déjeuner de poisson et des brochettes, le matin."
+        }
       ],
       "hidden": [
-        { "name": "Yanaka", "note": "Le vieux Tokyo : ruelles, petits temples, chats et ateliers d'artisans." },
-        { "name": "Shimokitazawa", "note": "Friperies, cafés et petites salles de concert, loin de la foule." }
+        {
+          "name": "Yanaka",
+          "note": "Le vieux Tokyo : ruelles, petits temples, chats et ateliers d'artisans."
+        },
+        {
+          "name": "Shimokitazawa",
+          "note": "Friperies, cafés et petites salles de concert, loin de la foule."
+        }
       ],
       "eat": "Ramen au comptoir, izakaya (bistrots japonais) le soir, et les sous-sols alimentaires des grands magasins pour un pique-nique de qualité.",
       "getAround": "Métro et trains JR, avec une carte de transport rechargeable (Suica ou PASMO, aussi dans le téléphone). La ligne JR Yamanote fait le tour des grands quartiers.",
@@ -124,23 +186,49 @@
       "slug": "kyoto",
       "name": "Kyoto",
       "nights": "3 nuits",
-      "for": ["lent", "stratege", "tous"],
+      "for": [
+        "lent",
+        "stratege",
+        "tous"
+      ],
       "summary": "L'ancienne capitale : temples, jardins et ruelles de bois. La ville se mérite tôt le matin, avant l'arrivée des groupes.",
       "photo": {
         "src": "/images/destinations/japon/kyoto.jpg",
         "alt": "Le temple Kiyomizu-dera à Kyoto en automne",
-        "credit": { "author": "Martin Falbisoner", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-01.jpg" }
+        "credit": {
+          "author": "Martin Falbisoner",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-01.jpg"
+        }
       },
       "sleep": "Autour de la gare pour les trajets, ou à Higashiyama et Gion pour vivre la vieille ville à pied.",
       "see": [
-        { "name": "Fushimi Inari", "note": "Des milliers de portiques rouges dans la montagne. Arrive avant 8 h ou monte au-delà de la mi-parcours pour être tranquille." },
-        { "name": "Kiyomizu-dera", "note": "Le temple sur pilotis, avec vue sur la ville. Superbe en fin de journée." },
-        { "name": "La bambouseraie d'Arashiyama", "note": "Très fréquentée : viens au lever du jour, puis marche le long de la rivière." },
-        { "name": "Kinkaku-ji, le Pavillon d'or", "note": "Le plus célèbre des temples de Kyoto, à combiner avec Ryoan-ji et son jardin de pierres." }
+        {
+          "name": "Fushimi Inari",
+          "note": "Des milliers de portiques rouges dans la montagne. Arrive avant 8 h ou monte au-delà de la mi-parcours pour être tranquille."
+        },
+        {
+          "name": "Kiyomizu-dera",
+          "note": "Le temple sur pilotis, avec vue sur la ville. Superbe en fin de journée."
+        },
+        {
+          "name": "La bambouseraie d'Arashiyama",
+          "note": "Très fréquentée : viens au lever du jour, puis marche le long de la rivière."
+        },
+        {
+          "name": "Kinkaku-ji, le Pavillon d'or",
+          "note": "Le plus célèbre des temples de Kyoto, à combiner avec Ryoan-ji et son jardin de pierres."
+        }
       ],
       "hidden": [
-        { "name": "Le chemin de la Philosophie", "note": "Une promenade au bord d'un canal, entre petits temples." },
-        { "name": "Kurama et Kibune", "note": "Une randonnée en forêt entre deux villages, à 30 minutes de train du centre." }
+        {
+          "name": "Le chemin de la Philosophie",
+          "note": "Une promenade au bord d'un canal, entre petits temples."
+        },
+        {
+          "name": "Kurama et Kibune",
+          "note": "Une randonnée en forêt entre deux villages, à 30 minutes de train du centre."
+        }
       ],
       "eat": "Le marché de Nishiki pour goûter de tout, le tofu sous toutes ses formes, et un repas kaiseki (cuisine de saison en plusieurs plats) pour une occasion.",
       "getAround": "Les bus sont pratiques mais saturés. Combine métro, train et marche, ou loue un vélo : la ville est plate.",
@@ -150,22 +238,44 @@
       "slug": "osaka",
       "name": "Osaka",
       "nights": "2 nuits",
-      "for": ["energique", "explorateur"],
+      "for": [
+        "energique",
+        "explorateur"
+      ],
       "summary": "La ville de la cuisine de rue et de la vie nocturne, plus décontractée que Tokyo. Bonne base pour Nara.",
       "photo": {
         "src": "/images/destinations/japon/osaka.jpg",
         "alt": "Les enseignes lumineuses de Dotonbori à Osaka",
-        "credit": { "author": "DXR", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Dotonbori_Neon_Sign,_Osaka_20190415_1.jpg" }
+        "credit": {
+          "author": "DXR",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Dotonbori_Neon_Sign,_Osaka_20190415_1.jpg"
+        }
       },
       "sleep": "Namba ou Shinsaibashi pour sortir à pied, Umeda pour les trains.",
       "see": [
-        { "name": "Dotonbori", "note": "Le canal et ses enseignes géantes, à voir le soir en mangeant dans la rue." },
-        { "name": "Le château d'Osaka", "note": "Surtout pour son parc, très beau au printemps." },
-        { "name": "Nara, à 45 minutes", "note": "Le grand Bouddha du Todai-ji et les daims en liberté dans le parc. Une journée suffit." }
+        {
+          "name": "Dotonbori",
+          "note": "Le canal et ses enseignes géantes, à voir le soir en mangeant dans la rue."
+        },
+        {
+          "name": "Le château d'Osaka",
+          "note": "Surtout pour son parc, très beau au printemps."
+        },
+        {
+          "name": "Nara, à 45 minutes",
+          "note": "Le grand Bouddha du Todai-ji et les daims en liberté dans le parc. Une journée suffit."
+        }
       ],
       "hidden": [
-        { "name": "Shinsekai", "note": "Un quartier rétro, ses brochettes frites et ses salles de jeux d'un autre temps." },
-        { "name": "Nakazakicho", "note": "Petites maisons anciennes transformées en cafés et boutiques." }
+        {
+          "name": "Shinsekai",
+          "note": "Un quartier rétro, ses brochettes frites et ses salles de jeux d'un autre temps."
+        },
+        {
+          "name": "Nakazakicho",
+          "note": "Petites maisons anciennes transformées en cafés et boutiques."
+        }
       ],
       "eat": "Takoyaki (boulettes au poulpe), okonomiyaki (galette garnie) et kushikatsu (brochettes panées).",
       "getAround": "Métro et trains. Les cartes Suica ou ICOCA fonctionnent partout.",
@@ -175,21 +285,39 @@
       "slug": "kanazawa",
       "name": "Kanazawa",
       "nights": "2 nuits",
-      "for": ["lent"],
+      "for": [
+        "lent"
+      ],
       "summary": "Un Kyoto en miniature, avec beaucoup moins de monde : jardins, maisons de thé et artisanat.",
       "photo": {
         "src": "/images/destinations/japon/kanazawa.jpg",
         "alt": "Le jardin Kenroku-en à Kanazawa",
-        "credit": { "author": "663highland", "license": "CC BY 2.5", "url": "https://commons.wikimedia.org/wiki/File:131109_Kenrokuen_Kanazawa_Ishikawa_pref_Japan05s3.jpg" }
+        "credit": {
+          "author": "663highland",
+          "license": "CC BY 2.5",
+          "url": "https://commons.wikimedia.org/wiki/File:131109_Kenrokuen_Kanazawa_Ishikawa_pref_Japan05s3.jpg"
+        }
       },
       "sleep": "Près de la gare pour les trajets, ou dans le quartier de Higashi Chaya pour le charme.",
       "see": [
-        { "name": "Kenroku-en", "note": "L'un des trois plus beaux jardins du Japon, à visiter à l'ouverture." },
-        { "name": "Higashi Chaya", "note": "Le quartier des maisons de thé, en bois sombre, très photogénique." },
-        { "name": "Le marché d'Omicho", "note": "Poissons et fruits de mer de la mer du Japon, à déguster sur place." }
+        {
+          "name": "Kenroku-en",
+          "note": "L'un des trois plus beaux jardins du Japon, à visiter à l'ouverture."
+        },
+        {
+          "name": "Higashi Chaya",
+          "note": "Le quartier des maisons de thé, en bois sombre, très photogénique."
+        },
+        {
+          "name": "Le marché d'Omicho",
+          "note": "Poissons et fruits de mer de la mer du Japon, à déguster sur place."
+        }
       ],
       "hidden": [
-        { "name": "Nagamachi", "note": "L'ancien quartier des samouraïs, ses murs de terre et ses canaux." }
+        {
+          "name": "Nagamachi",
+          "note": "L'ancien quartier des samouraïs, ses murs de terre et ses canaux."
+        }
       ],
       "eat": "Les bols de poisson cru d'Omicho, et une glace à la feuille d'or, spécialité locale.",
       "getAround": "À pied et en bus urbain. Accès depuis Tokyo en shinkansen, environ 2 h 30 à 3 h.",
@@ -199,21 +327,39 @@
       "slug": "hakone",
       "name": "Hakone",
       "nights": "1 nuit",
-      "for": ["tous"],
+      "for": [
+        "tous"
+      ],
       "summary": "La montagne à 1 h 30 de Tokyo : bains chauds, lac et, par temps clair, vue sur le mont Fuji.",
       "photo": {
         "src": "/images/destinations/japon/hakone.jpg",
         "alt": "Le lac Ashi, le mont Fuji et le portique du sanctuaire de Hakone",
-        "credit": { "author": "Charlie fong", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg" }
+        "credit": {
+          "author": "Charlie fong",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg"
+        }
       },
       "sleep": "Dans un ryokan (auberge traditionnelle) avec bain : c'est tout l'intérêt de l'étape.",
       "see": [
-        { "name": "Le lac Ashi", "note": "En bateau, avec le portique du sanctuaire de Hakone au bord de l'eau." },
-        { "name": "Owakudani", "note": "Une vallée volcanique fumante, accessible en téléphérique. Fermée quand l'activité volcanique augmente : vérifie avant." },
-        { "name": "Le musée en plein air", "note": "Des sculptures dans un parc de montagne, avec un bain de pieds." }
+        {
+          "name": "Le lac Ashi",
+          "note": "En bateau, avec le portique du sanctuaire de Hakone au bord de l'eau."
+        },
+        {
+          "name": "Owakudani",
+          "note": "Une vallée volcanique fumante, accessible en téléphérique. Fermée quand l'activité volcanique augmente : vérifie avant."
+        },
+        {
+          "name": "Le musée en plein air",
+          "note": "Des sculptures dans un parc de montagne, avec un bain de pieds."
+        }
       ],
       "hidden": [
-        { "name": "L'ancienne route du Tokaido", "note": "Un chemin pavé de cèdres, entre le lac et une ancienne maison de thé." }
+        {
+          "name": "L'ancienne route du Tokaido",
+          "note": "Un chemin pavé de cèdres, entre le lac et une ancienne maison de thé."
+        }
       ],
       "eat": "Le dîner servi au ryokan, souvent compris dans la nuit.",
       "getAround": "Un forfait local regroupe train, funiculaire, téléphérique et bateau pour faire la boucle.",
@@ -224,45 +370,125 @@
     {
       "days": 7,
       "title": "Premier voyage, l'essentiel",
-      "for": ["energique", "stratege"],
+      "for": [
+        "energique",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Tokyo", "note": "Asakusa, Harajuku, Shibuya, une soirée à Shinjuku." },
-        { "days": "Jours 4 à 6", "place": "Kyoto", "note": "Fushimi Inari, Higashiyama, Arashiyama, et une journée à Nara." },
-        { "days": "Jour 7", "place": "Retour", "note": "Vol depuis Osaka (Kansai), ou retour à Tokyo en shinkansen." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Tokyo",
+          "note": "Asakusa, Harajuku, Shibuya, une soirée à Shinjuku."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Kyoto",
+          "note": "Fushimi Inari, Higashiyama, Arashiyama, et une journée à Nara."
+        },
+        {
+          "days": "Jour 7",
+          "place": "Retour",
+          "note": "Vol depuis Osaka (Kansai), ou retour à Tokyo en shinkansen."
+        }
       ]
     },
     {
       "days": 10,
       "title": "Prendre son temps",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Tokyo", "note": "Un quartier par jour, sans courir." },
-        { "days": "Jour 4", "place": "Hakone", "note": "Lac, bains chauds, nuit en ryokan." },
-        { "days": "Jours 5 à 7", "place": "Kyoto", "note": "Les temples tôt le matin, l'après-midi au calme." },
-        { "days": "Jours 8 et 9", "place": "Kanazawa", "note": "Jardins et maisons de thé, loin des foules." },
-        { "days": "Jour 10", "place": "Retour à Tokyo", "note": "En shinkansen direct, environ 2 h 30 à 3 h." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Tokyo",
+          "note": "Un quartier par jour, sans courir."
+        },
+        {
+          "days": "Jour 4",
+          "place": "Hakone",
+          "note": "Lac, bains chauds, nuit en ryokan."
+        },
+        {
+          "days": "Jours 5 à 7",
+          "place": "Kyoto",
+          "note": "Les temples tôt le matin, l'après-midi au calme."
+        },
+        {
+          "days": "Jours 8 et 9",
+          "place": "Kanazawa",
+          "note": "Jardins et maisons de thé, loin des foules."
+        },
+        {
+          "days": "Jour 10",
+          "place": "Retour à Tokyo",
+          "note": "En shinkansen direct, environ 2 h 30 à 3 h."
+        }
       ]
     },
     {
       "days": 14,
       "title": "Le grand tour",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Tokyo", "note": "Avec une journée à Nikko ou Kamakura." },
-        { "days": "Jour 5", "place": "Hakone", "note": "Une nuit en ryokan." },
-        { "days": "Jours 6 à 8", "place": "Kyoto", "note": "Et la randonnée Kurama-Kibune." },
-        { "days": "Jours 9 et 10", "place": "Osaka et Nara", "note": "Cuisine de rue et grand Bouddha." },
-        { "days": "Jours 11 et 12", "place": "Hiroshima et Miyajima", "note": "Le mémorial de la Paix et le portique dans la mer." },
-        { "days": "Jours 13 et 14", "place": "Retour", "note": "Vol depuis Osaka (Kansai) ou Tokyo." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Tokyo",
+          "note": "Avec une journée à Nikko ou Kamakura."
+        },
+        {
+          "days": "Jour 5",
+          "place": "Hakone",
+          "note": "Une nuit en ryokan."
+        },
+        {
+          "days": "Jours 6 à 8",
+          "place": "Kyoto",
+          "note": "Et la randonnée Kurama-Kibune."
+        },
+        {
+          "days": "Jours 9 et 10",
+          "place": "Osaka et Nara",
+          "note": "Cuisine de rue et grand Bouddha."
+        },
+        {
+          "days": "Jours 11 et 12",
+          "place": "Hiroshima et Miyajima",
+          "note": "Le mémorial de la Paix et le portique dans la mer."
+        },
+        {
+          "days": "Jours 13 et 14",
+          "place": "Retour",
+          "note": "Vol depuis Osaka (Kansai) ou Tokyo."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le shinkansen", "text": "Le train à grande vitesse relie les grandes villes, rapide et ponctuel mais cher. Réserve ta place aux périodes chargées." },
-    { "title": "Le Japan Rail Pass", "text": "Son prix a fortement augmenté en 2023. Additionne tes trajets avant de l'acheter : pour un circuit Tokyo-Kyoto aller-retour, il n'est souvent plus rentable. Il n'est pas valable sur tous les trains (par exemple les « Nozomi »)." },
-    { "title": "Les cartes de transport", "text": "Suica, PASMO ou ICOCA se rechargent et servent dans le métro, les bus, les trains locaux et beaucoup de supérettes." },
-    { "title": "Envoyer ses bagages", "text": "Le service de livraison de bagages (« takkyubin ») envoie ta valise d'un hôtel à l'autre pour la veille de ton arrivée. Idéal pour voyager léger en train." },
-    { "title": "Conduire", "text": "Le permis international n'est pas reconnu pour les Français : il faut ton permis français accompagné d'une traduction officielle de la JAF. On roule à gauche, et l'alcool au volant est interdit (0 g/L)." }
+    {
+      "title": "Le shinkansen",
+      "text": "Le train à grande vitesse relie les grandes villes, rapide et ponctuel mais cher. Réserve ta place aux périodes chargées."
+    },
+    {
+      "title": "Le Japan Rail Pass",
+      "text": "Son prix a fortement augmenté en 2023. Additionne tes trajets avant de l'acheter : pour un circuit Tokyo-Kyoto aller-retour, il n'est souvent plus rentable. Il n'est pas valable sur tous les trains (par exemple les « Nozomi »)."
+    },
+    {
+      "title": "Les cartes de transport",
+      "text": "Suica, PASMO ou ICOCA se rechargent et servent dans le métro, les bus, les trains locaux et beaucoup de supérettes."
+    },
+    {
+      "title": "Envoyer ses bagages",
+      "text": "Le service de livraison de bagages (« takkyubin ») envoie ta valise d'un hôtel à l'autre pour la veille de ton arrivée. Idéal pour voyager léger en train."
+    },
+    {
+      "title": "Conduire",
+      "text": "Le permis international n'est pas reconnu pour les Français : il faut ton permis français accompagné d'une traduction officielle de la JAF. On roule à gauche, et l'alcool au volant est interdit (0 g/L)."
+    }
   ],
   "culture": [
     "On se déchausse à l'entrée des maisons, de nombreux temples, des ryokan et de certains restaurants.",
@@ -273,13 +499,41 @@
     "La carte bancaire est très répandue, mais garde un peu d'espèces pour les petits commerces et la campagne. Les distributeurs des supérettes acceptent les cartes étrangères."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "こんにちは", "say": "konnichiwa" },
-    { "fr": "Merci beaucoup", "local": "ありがとうございます", "say": "arigatō gozaimasu" },
-    { "fr": "Excusez-moi / pardon", "local": "すみません", "say": "sumimasen" },
-    { "fr": "Combien ça coûte ?", "local": "これはいくらですか", "say": "kore wa ikura desu ka" },
-    { "fr": "L'addition, s'il vous plaît", "local": "お会計お願いします", "say": "o-kaikei onegaishimasu" },
-    { "fr": "Où sont les toilettes ?", "local": "トイレはどこですか", "say": "toire wa doko desu ka" },
-    { "fr": "Avez-vous un menu en anglais ?", "local": "英語のメニューはありますか", "say": "eigo no menyū wa arimasu ka" }
+    {
+      "fr": "Bonjour",
+      "local": "こんにちは",
+      "say": "konnichiwa"
+    },
+    {
+      "fr": "Merci beaucoup",
+      "local": "ありがとうございます",
+      "say": "arigatō gozaimasu"
+    },
+    {
+      "fr": "Excusez-moi / pardon",
+      "local": "すみません",
+      "say": "sumimasen"
+    },
+    {
+      "fr": "Combien ça coûte ?",
+      "local": "これはいくらですか",
+      "say": "kore wa ikura desu ka"
+    },
+    {
+      "fr": "L'addition, s'il vous plaît",
+      "local": "お会計お願いします",
+      "say": "o-kaikei onegaishimasu"
+    },
+    {
+      "fr": "Où sont les toilettes ?",
+      "local": "トイレはどこですか",
+      "say": "toire wa doko desu ka"
+    },
+    {
+      "fr": "Avez-vous un menu en anglais ?",
+      "local": "英語のメニューはありますか",
+      "say": "eigo no menyū wa arimasu ka"
+    }
   ],
   "checklist": [
     "Passeport valide pendant tout le séjour, jamais déclaré perdu ou volé",
@@ -295,11 +549,25 @@
     "Inscription sur Ariane, le service de France Diplomatie"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour aller au Japon ?", "a": "Non, pas pour un séjour touristique de 90 jours maximum si tu es français. Il faut un passeport valide pendant tout le séjour. Remplis aussi le formulaire Visit Japan Web avant de partir pour gagner du temps à l'arrivée." },
-    { "q": "Quel budget pour 10 jours au Japon ?", "a": "Compte environ 13 000 à 25 000 ¥ par jour en voyageant seul, et 11 000 à 21 000 ¥ par personne à deux, hors vols. Ajoute les grands trajets en train, environ 14 000 ¥ l'aller Tokyo-Kyoto. Ces montants sont des estimations à vérifier selon le taux de change." },
-    { "q": "Quand voir les cerisiers en fleur ?", "a": "Selon les années, de fin mars à début avril à Tokyo et Kyoto, un peu plus tard dans le nord. C'est la période la plus chère et la plus fréquentée : réserve plusieurs mois à l'avance." },
-    { "q": "Le Japan Rail Pass est-il rentable ?", "a": "Moins qu'avant : son prix a fortement augmenté en 2023. Additionne le prix de tes trajets en train avant de l'acheter. Pour un simple aller-retour Tokyo-Kyoto, des billets à l'unité reviennent souvent moins cher." },
-    { "q": "Le Japon est-il sûr pour voyager seule ?", "a": "Oui, c'est l'un des pays les plus sûrs, de jour comme de nuit. Reste vigilante dans les quartiers de bars de Tokyo, où des cas de boissons droguées sont signalés, et suis les consignes en cas de séisme ou de typhon." },
-    { "q": "Peut-on payer par carte partout ?", "a": "Presque partout dans les villes. Garde des espèces pour les petits restaurants, les temples et la campagne. Les distributeurs des supérettes (konbini) acceptent les cartes étrangères." }
+    {
+      "q": "Faut-il un visa pour aller au Japon ?",
+      "a": "Non, pas pour un séjour touristique de 90 jours maximum si tu es français. Il faut un passeport valide pendant tout le séjour. Remplis aussi le formulaire Visit Japan Web avant de partir pour gagner du temps à l'arrivée."
+    },
+    {
+      "q": "Quand voir les cerisiers en fleur ?",
+      "a": "Selon les années, de fin mars à début avril à Tokyo et Kyoto, un peu plus tard dans le nord. C'est la période la plus chère et la plus fréquentée : réserve plusieurs mois à l'avance."
+    },
+    {
+      "q": "Le Japan Rail Pass est-il rentable ?",
+      "a": "Moins qu'avant : son prix a fortement augmenté en 2023. Additionne le prix de tes trajets en train avant de l'acheter. Pour un simple aller-retour Tokyo-Kyoto, des billets à l'unité reviennent souvent moins cher."
+    },
+    {
+      "q": "Le Japon est-il sûr pour voyager seule ?",
+      "a": "Oui, c'est l'un des pays les plus sûrs, de jour comme de nuit. Reste vigilante dans les quartiers de bars de Tokyo, où des cas de boissons droguées sont signalés, et suis les consignes en cas de séisme ou de typhon."
+    },
+    {
+      "q": "Peut-on payer par carte partout ?",
+      "a": "Presque partout dans les villes. Garde des espèces pour les petits restaurants, les temples et la campagne. Les distributeurs des supérettes (konbini) acceptent les cartes étrangères."
+    }
   ]
 }

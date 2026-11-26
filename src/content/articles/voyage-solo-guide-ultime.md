@@ -47,8 +47,6 @@ En solo, l'hébergement est le poste qui change le plus : une chambre double co�
 - **Les maisons d'hôtes**, où l'on dîne souvent à la table familiale.
 - **Les excursions partagées** : un chauffeur ou une sortie en bateau se partagent avec d'autres voyageurs rencontrés sur place.
 
-Dans nos guides, le tableau du budget donne toujours deux colonnes, « seul » et « à deux », pour voir l'écart.
-
 ## Rencontrer du monde
 
 - **Dors en auberge ou en guesthouse**, au moins quelques nuits.

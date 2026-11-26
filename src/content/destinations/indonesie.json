@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Indonésie et Bali : visa, budget, quand partir",
-    "description": "Préparer un voyage en Indonésie : visa à l'arrivée, taxe de Bali, meilleure saison, budget seul ou à deux, Ubud, les Gili, Java, Komodo. Guide PDF gratuit."
+    "title": "Guide Indonésie et Bali : visa, quand partir",
+    "description": "Préparer un voyage en Indonésie : visa à l'arrivée, taxe de Bali, meilleure saison, Ubud, les Gili, Java, Komodo. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/indonesie/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Saison des pluies et vacances de fin d'année : beaucoup de monde à Bali malgré la météo."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en roupies, par jour et par personne, hors vols internationaux. Convertis au taux du jour.",
-    "rows": [
-      {
-        "label": "Hébergement (guesthouse ou petit hôtel)",
-        "solo": "350 000 à 900 000 Rp",
-        "duo": "200 000 à 550 000 Rp"
-      },
-      {
-        "label": "Repas (warung et restaurants)",
-        "solo": "150 000 à 400 000 Rp",
-        "duo": "150 000 à 400 000 Rp"
-      },
-      {
-        "label": "Transports locaux (chauffeur ou scooter)",
-        "solo": "100 000 à 350 000 Rp",
-        "duo": "60 000 à 200 000 Rp"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "50 000 à 200 000 Rp",
-        "duo": "50 000 à 200 000 Rp"
-      }
-    ],
-    "totalSolo": "650 000 à 1 850 000 Rp",
-    "totalDuo": "460 000 à 1 350 000 Rp",
-    "note": "Louer un chauffeur pour la journée est courant à Bali et se partage : à deux, la différence est nette. Ajoute le visa à l'arrivée, la taxe de Bali, les ferries et les vols entre îles.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Les Français obtiennent à l'aéroport un visa à l'arrivée de 30 jours, payant, pour du tourisme. Un formulaire en ligne et un billet de sortie du territoire sont exigés.",
     "points": [
@@ -495,10 +466,6 @@
     {
       "q": "Quand partir à Bali ?",
       "a": "Pendant la saison sèche, de mai à septembre. Juillet et août sont les plus beaux mais les plus fréquentés ; mai, juin et septembre offrent un bon compromis."
-    },
-    {
-      "q": "Quel budget pour deux semaines en Indonésie ?",
-      "a": "Compte environ 650 000 à 1 850 000 Rp par jour seul et 460 000 à 1 350 000 Rp par personne à deux, hors vols, visa et excursions. Ces montants sont des estimations à vérifier."
     }
   ]
 }

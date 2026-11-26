@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Irlande : quand partir, budget, Dublin, road trip",
-    "description": "Préparer un voyage en Irlande : meilleure saison, budget seul ou à deux, Dublin, Galway, le Connemara, l'anneau du Kerry, les falaises de Moher. PDF gratuit."
+    "title": "Guide Irlande : quand partir, Dublin, road trip",
+    "description": "Préparer un voyage en Irlande : meilleure saison, Dublin, Galway, le Connemara, l'anneau du Kerry, les falaises de Moher. PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/irlande/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Ambiance de Noël dans les pubs et les villes."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors vols et location de voiture.",
-    "rows": [
-      {
-        "label": "Hébergement (B&B ou hôtel simple)",
-        "solo": "90 à 170 €",
-        "duo": "60 à 110 €"
-      },
-      {
-        "label": "Repas",
-        "solo": "35 à 55 €",
-        "duo": "35 à 55 €"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "8 à 20 €",
-        "duo": "8 à 20 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "10 à 30 €",
-        "duo": "10 à 30 €"
-      }
-    ],
-    "totalSolo": "143 à 275 €",
-    "totalDuo": "113 à 215 €",
-    "note": "Dublin est l'une des villes les plus chères d'Europe pour se loger. Les B&B de la campagne sont plus abordables et le petit-déjeuner irlandais y est copieux. La voiture se partage : à deux, le road trip devient nettement plus abordable.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Pas de visa. Une carte d'identité ou un passeport en cours de validité, et valable pendant tout le séjour, suffit.",
     "points": [
@@ -449,10 +420,6 @@
     {
       "q": "Quand partir en Irlande ?",
       "a": "De mai à septembre pour les longues journées et le road trip. Mai et septembre sont souvent un peu plus secs et moins fréquentés que l'été."
-    },
-    {
-      "q": "Quel budget pour une semaine en Irlande ?",
-      "a": "Compte environ 143 à 275 € par jour seul et 113 à 215 € par personne à deux, hors vols et voiture. Dublin est particulièrement chère pour se loger. Ces montants sont des estimations à vérifier."
     },
     {
       "q": "Faut-il louer une voiture en Irlande ?",

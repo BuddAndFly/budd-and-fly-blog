@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Espagne : quand partir, budget, villes, itinéraires",
-    "description": "Préparer un voyage en Espagne : meilleure saison, budget seul ou à deux, Madrid, Barcelone, Séville, Grenade, Valence et itinéraires. Guide PDF gratuit."
+    "title": "Guide Espagne : quand partir, villes, itinéraires",
+    "description": "Préparer un voyage en Espagne : meilleure saison, Madrid, Barcelone, Séville, Grenade, Valence et itinéraires. Guide PDF gratuit."
   },
   "hero": {
     "src": "/images/destinations/espagne/hero.jpg",
@@ -81,36 +81,7 @@
       "note": "Marchés de Noël, illuminations. Le sud et les Canaries restent agréables."
     }
   ],
-  "budget": {
-    "currencyNote": "Montants en euros, par jour et par personne, hors trajet depuis la France.",
-    "rows": [
-      {
-        "label": "Hébergement (hôtel simple)",
-        "solo": "60 à 120 €",
-        "duo": "40 à 75 €"
-      },
-      {
-        "label": "Repas (tapas, menu du jour à midi)",
-        "solo": "25 à 45 €",
-        "duo": "25 à 45 €"
-      },
-      {
-        "label": "Transports locaux",
-        "solo": "5 à 10 €",
-        "duo": "5 à 10 €"
-      },
-      {
-        "label": "Visites et entrées",
-        "solo": "10 à 25 €",
-        "duo": "10 à 25 €"
-      }
-    ],
-    "totalSolo": "100 à 200 €",
-    "totalDuo": "80 à 155 €",
-    "note": "Le « menu del día » du midi (entrée, plat, dessert, boisson) est la meilleure affaire du pays. Barcelone, Madrid et les Baléares sont les plus chères. Taxe de séjour par nuit en Catalogne et aux Baléares.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "L'Espagne est dans l'Union européenne : une carte d'identité ou un passeport en cours de validité suffit.",
     "points": [
@@ -497,10 +468,6 @@
     {
       "q": "Quelle est la meilleure période pour l'Espagne ?",
       "a": "Avril à juin et septembre-octobre. En juillet et août, l'intérieur et l'Andalousie sont brûlants : préfère alors le nord (Pays basque, Galice, Asturies), les côtes et les îles. L'hiver, les Canaries restent douces."
-    },
-    {
-      "q": "Quel budget pour une semaine en Espagne ?",
-      "a": "Compte environ 100 à 200 € par jour seul et 80 à 155 € par personne à deux, hors trajet. Le menu du jour à midi permet de bien manger pour peu cher. Ces montants sont des estimations à vérifier."
     },
     {
       "q": "Faut-il réserver l'Alhambra à l'avance ?",

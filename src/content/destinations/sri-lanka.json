@@ -9,8 +9,8 @@
   "author": null,
   "reviewer": null,
   "seo": {
-    "title": "Guide Sri Lanka : ETA gratuite, quand partir, budget, itinéraire",
-    "description": "Préparer un voyage au Sri Lanka : ETA gratuite pour les Français, moussons, budget seul ou à deux, Sigiriya, Kandy, Ella, Galle. Guide PDF gratuit."
+    "title": "Guide Sri Lanka : ETA gratuite, quand partir, itinéraire",
+    "description": "Préparer un voyage au Sri Lanka : ETA gratuite pour les Français, moussons, Sigiriya, Kandy, Ella, Galle. Guide PDF gratuit."
   },
   "hero": null,
   "summary": "Le Sri Lanka a deux moussons : la meilleure période pour l'ouest, le sud et les montagnes va de décembre à avril ; la côte est se visite plutôt de mai à septembre. Depuis le 25 mai 2026, l'autorisation électronique (ETA) est gratuite pour les Français, mais toujours obligatoire. En deux semaines : rocher de Sigiriya, Kandy, le train des plantations de thé jusqu'à Ella, puis les plages du sud.",
@@ -24,33 +24,56 @@
     "flight": "Pas de vol direct : compte 13 à 15 h avec une escale"
   },
   "months": [
-    { "rating": 2, "note": "Saison sèche à l'ouest, au sud et dans les montagnes. La côte est reçoit encore la mousson du nord-est." },
-    { "rating": 2, "note": "Idéal pour le triangle culturel, les plantations et les plages du sud." },
-    { "rating": 2, "note": "Toujours sec, chaleur en hausse." },
-    { "rating": 1, "note": "Très chaud et humide. Mi-avril, le Nouvel An cinghalais et tamoul : beaucoup de commerces ferment." },
-    { "rating": 1, "note": "Arrivée de la mousson du sud-ouest sur l'ouest et le sud. La côte est devient la bonne option." },
-    { "rating": 1, "note": "Pluies sur l'ouest et le sud, soleil sur la côte est (Trincomalee, Arugam Bay)." },
-    { "rating": 1, "note": "Comme en juin. Fête de l'Esala Perahera à Kandy selon le calendrier lunaire (juillet ou août)." },
-    { "rating": 1, "note": "Bonne saison pour la côte est et le surf à Arugam Bay." },
-    { "rating": 1, "note": "Fin de la saison sur la côte est, mousson qui faiblit à l'ouest." },
-    { "rating": 0, "note": "Période entre les deux moussons : orages sur une grande partie de l'île." },
-    { "rating": 0, "note": "Pluies fréquentes, arrivée de la mousson du nord-est." },
-    { "rating": 1, "note": "Le sud et l'ouest redeviennent secs, l'est est sous la pluie. Début de la haute saison." }
+    {
+      "rating": 2,
+      "note": "Saison sèche à l'ouest, au sud et dans les montagnes. La côte est reçoit encore la mousson du nord-est."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal pour le triangle culturel, les plantations et les plages du sud."
+    },
+    {
+      "rating": 2,
+      "note": "Toujours sec, chaleur en hausse."
+    },
+    {
+      "rating": 1,
+      "note": "Très chaud et humide. Mi-avril, le Nouvel An cinghalais et tamoul : beaucoup de commerces ferment."
+    },
+    {
+      "rating": 1,
+      "note": "Arrivée de la mousson du sud-ouest sur l'ouest et le sud. La côte est devient la bonne option."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies sur l'ouest et le sud, soleil sur la côte est (Trincomalee, Arugam Bay)."
+    },
+    {
+      "rating": 1,
+      "note": "Comme en juin. Fête de l'Esala Perahera à Kandy selon le calendrier lunaire (juillet ou août)."
+    },
+    {
+      "rating": 1,
+      "note": "Bonne saison pour la côte est et le surf à Arugam Bay."
+    },
+    {
+      "rating": 1,
+      "note": "Fin de la saison sur la côte est, mousson qui faiblit à l'ouest."
+    },
+    {
+      "rating": 0,
+      "note": "Période entre les deux moussons : orages sur une grande partie de l'île."
+    },
+    {
+      "rating": 0,
+      "note": "Pluies fréquentes, arrivée de la mousson du nord-est."
+    },
+    {
+      "rating": 1,
+      "note": "Le sud et l'ouest redeviennent secs, l'est est sous la pluie. Début de la haute saison."
+    }
   ],
-  "budget": {
-    "currencyNote": "Montants en roupies srilankaises, par jour et par personne, hors vols internationaux. Convertis au taux du jour.",
-    "rows": [
-      { "label": "Hébergement (guesthouse ou petit hôtel)", "solo": "8 000 à 18 000 Rs", "duo": "5 000 à 11 000 Rs" },
-      { "label": "Repas", "solo": "3 000 à 7 000 Rs", "duo": "3 000 à 7 000 Rs" },
-      { "label": "Transports (train, bus, chauffeur partagé)", "solo": "2 000 à 8 000 Rs", "duo": "1 500 à 5 000 Rs" },
-      { "label": "Visites et entrées", "solo": "2 000 à 10 000 Rs", "duo": "2 000 à 10 000 Rs" }
-    ],
-    "totalSolo": "15 000 à 43 000 Rs",
-    "totalDuo": "11 500 à 33 000 Rs",
-    "note": "Les grands sites (Sigiriya, Polonnaruwa, safaris dans les parcs) ont des entrées élevées pour les étrangers. Louer une voiture avec chauffeur est courant et se partage : à deux, c'est nettement plus avantageux.",
-    "sources": [],
-    "checkedAt": null
-  },
+  "budget": null,
   "entry": {
     "text": "Une autorisation électronique de voyage (ETA) est obligatoire avant l'arrivée. Depuis le 25 mai 2026, elle est gratuite pour les Français, pour un séjour touristique de 30 jours.",
     "points": [
@@ -60,7 +83,10 @@
       "Si tu combines Inde, Sri Lanka puis à nouveau Inde, vérifie que ton visa indien permet plusieurs entrées.",
       "Transformer sur place un visa touristique en visa de résident est illégal."
     ],
-    "source": { "label": "France Diplomatie, Sri Lanka, Entrée / séjour (mise à jour du 27 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/sri-lanka/" },
+    "source": {
+      "label": "France Diplomatie, Sri Lanka, Entrée / séjour (mise à jour du 27 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/sri-lanka/"
+    },
     "checkedAt": "2026-11-24"
   },
   "health": {
@@ -72,7 +98,10 @@
       "Dengue et chikungunya : répulsif, vêtements couvrants, moustiquaire.",
       "Assurance santé et rapatriement indispensable."
     ],
-    "source": { "label": "France Diplomatie, Sri Lanka, Santé (mise à jour du 27 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/sri-lanka/" },
+    "source": {
+      "label": "France Diplomatie, Sri Lanka, Santé (mise à jour du 27 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/sri-lanka/"
+    },
     "checkedAt": "2026-11-24"
   },
   "safety": {
@@ -84,7 +113,10 @@
       "Harcèlement de rue fréquent envers les femmes, et agressions signalées : vigilance particulière dans les transports et près des gares et des ports.",
       "À Sigiriya, des attaques de frelons ont lieu : renseigne-toi sur place avant de monter."
     ],
-    "source": { "label": "France Diplomatie, Sri Lanka, Sécurité (mise à jour du 27 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/sri-lanka/" },
+    "source": {
+      "label": "France Diplomatie, Sri Lanka, Sécurité (mise à jour du 27 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/sri-lanka/"
+    },
     "checkedAt": "2026-11-24"
   },
   "cities": [
@@ -92,16 +124,31 @@
       "slug": "sigiriya",
       "name": "Sigiriya et le triangle culturel",
       "nights": "3 nuits",
-      "for": ["stratege", "tous"],
+      "for": [
+        "stratege",
+        "tous"
+      ],
       "summary": "Le rocher-forteresse de Sigiriya, les grottes de Dambulla et les cités royales en ruines d'Anuradhapura et Polonnaruwa.",
       "sleep": "Autour de Sigiriya ou de Habarana, au centre du triangle.",
       "see": [
-        { "name": "Le rocher de Sigiriya", "note": "Fresques et jardins, puis 1 200 marches. À l'ouverture, avant la chaleur." },
-        { "name": "Les grottes de Dambulla", "note": "Cinq temples-grottes remplis de statues et de peintures." },
-        { "name": "Polonnaruwa", "note": "Une cité royale médiévale, à visiter à vélo." }
+        {
+          "name": "Le rocher de Sigiriya",
+          "note": "Fresques et jardins, puis 1 200 marches. À l'ouverture, avant la chaleur."
+        },
+        {
+          "name": "Les grottes de Dambulla",
+          "note": "Cinq temples-grottes remplis de statues et de peintures."
+        },
+        {
+          "name": "Polonnaruwa",
+          "note": "Une cité royale médiévale, à visiter à vélo."
+        }
       ],
       "hidden": [
-        { "name": "Le rocher de Pidurangala", "note": "Juste en face de Sigiriya, avec la meilleure vue sur lui au lever du soleil." }
+        {
+          "name": "Le rocher de Pidurangala",
+          "note": "Juste en face de Sigiriya, avec la meilleure vue sur lui au lever du soleil."
+        }
       ],
       "eat": "Le rice and curry, servi avec plusieurs petits currys de légumes.",
       "getAround": "Chauffeur ou tuk-tuk avec conducteur. Safari éléphants dans les parcs de Minneriya ou Kaudulla.",
@@ -111,16 +158,31 @@
       "slug": "kandy",
       "name": "Kandy",
       "nights": "2 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "L'ancienne capitale royale autour d'un lac, avec le temple de la Dent du Bouddha, haut lieu du bouddhisme.",
       "sleep": "Sur les hauteurs autour du lac, au calme.",
       "see": [
-        { "name": "Le temple de la Dent", "note": "Assiste à une cérémonie (puja) le matin ou le soir." },
-        { "name": "Le jardin botanique de Peradeniya", "note": "Orchidées, allée de palmiers royaux, figuier géant." },
-        { "name": "Le lac de Kandy", "note": "Une promenade au coucher du soleil." }
+        {
+          "name": "Le temple de la Dent",
+          "note": "Assiste à une cérémonie (puja) le matin ou le soir."
+        },
+        {
+          "name": "Le jardin botanique de Peradeniya",
+          "note": "Orchidées, allée de palmiers royaux, figuier géant."
+        },
+        {
+          "name": "Le lac de Kandy",
+          "note": "Une promenade au coucher du soleil."
+        }
       ],
       "hidden": [
-        { "name": "Le temple d'Embekke", "note": "Des piliers de bois sculptés, à 30 minutes." }
+        {
+          "name": "Le temple d'Embekke",
+          "note": "Des piliers de bois sculptés, à 30 minutes."
+        }
       ],
       "eat": "Les petits restaurants locaux autour du marché.",
       "getAround": "Tuk-tuk au compteur ou par application. Train vers les montagnes.",
@@ -130,17 +192,35 @@
       "slug": "ella",
       "name": "Ella et les plantations de thé",
       "nights": "2 à 3 nuits",
-      "for": ["lent", "explorateur"],
+      "for": [
+        "lent",
+        "explorateur"
+      ],
       "summary": "Un village de montagne frais au milieu des plantations, et l'un des plus beaux trajets en train du monde pour y arriver.",
       "sleep": "Dans le village ou une guesthouse avec vue sur la vallée.",
       "see": [
-        { "name": "Le train Kandy-Ella", "note": "6 à 7 heures entre plantations, cascades et tunnels." },
-        { "name": "Le pont des Neuf Arches", "note": "Un viaduc colonial dans la jungle, au passage d'un train." },
-        { "name": "Little Adam's Peak", "note": "Une randonnée facile au lever du soleil." }
+        {
+          "name": "Le train Kandy-Ella",
+          "note": "6 à 7 heures entre plantations, cascades et tunnels."
+        },
+        {
+          "name": "Le pont des Neuf Arches",
+          "note": "Un viaduc colonial dans la jungle, au passage d'un train."
+        },
+        {
+          "name": "Little Adam's Peak",
+          "note": "Une randonnée facile au lever du soleil."
+        }
       ],
       "hidden": [
-        { "name": "Nuwara Eliya et les fabriques de thé", "note": "Visite d'une plantation et dégustation." },
-        { "name": "Horton Plains", "note": "Un plateau et la falaise du « bout du monde », tôt le matin." }
+        {
+          "name": "Nuwara Eliya et les fabriques de thé",
+          "note": "Visite d'une plantation et dégustation."
+        },
+        {
+          "name": "Horton Plains",
+          "note": "Un plateau et la falaise du « bout du monde », tôt le matin."
+        }
       ],
       "eat": "Le thé de Ceylan, évidemment, et les rotis.",
       "getAround": "À pied et en tuk-tuk.",
@@ -150,16 +230,31 @@
       "slug": "galle",
       "name": "Galle",
       "nights": "2 nuits",
-      "for": ["lent", "stratege"],
+      "for": [
+        "lent",
+        "stratege"
+      ],
       "summary": "Un fort colonial hollandais au bord de l'océan, ruelles, églises et galeries, classé à l'Unesco.",
       "sleep": "À l'intérieur du fort pour le charme.",
       "see": [
-        { "name": "Les remparts du fort", "note": "Au coucher du soleil, avec les joueurs de cricket." },
-        { "name": "Les ruelles du fort", "note": "Maisons coloniales, cafés et boutiques." },
-        { "name": "Le phare", "note": "Le symbole de la ville." }
+        {
+          "name": "Les remparts du fort",
+          "note": "Au coucher du soleil, avec les joueurs de cricket."
+        },
+        {
+          "name": "Les ruelles du fort",
+          "note": "Maisons coloniales, cafés et boutiques."
+        },
+        {
+          "name": "Le phare",
+          "note": "Le symbole de la ville."
+        }
       ],
       "hidden": [
-        { "name": "La plage de Jungle Beach", "note": "Une crique abritée près d'Unawatuna." }
+        {
+          "name": "La plage de Jungle Beach",
+          "note": "Une crique abritée près d'Unawatuna."
+        }
       ],
       "eat": "Les currys de poisson et les fruits de mer.",
       "getAround": "À pied dans le fort ; train côtier vers Colombo.",
@@ -169,16 +264,31 @@
       "slug": "mirissa",
       "name": "Mirissa et la côte sud",
       "nights": "3 nuits",
-      "for": ["energique", "lent"],
+      "for": [
+        "energique",
+        "lent"
+      ],
       "summary": "Plages de sable doré, surf et observation des baleines bleues.",
       "sleep": "À Mirissa pour l'ambiance, à Tangalle pour le calme.",
       "see": [
-        { "name": "L'observation des baleines", "note": "De novembre à avril. Choisis un opérateur respectueux des animaux." },
-        { "name": "Coconut Tree Hill", "note": "La colline de cocotiers au-dessus de l'océan." },
-        { "name": "Les spots de surf", "note": "Weligama pour débuter." }
+        {
+          "name": "L'observation des baleines",
+          "note": "De novembre à avril. Choisis un opérateur respectueux des animaux."
+        },
+        {
+          "name": "Coconut Tree Hill",
+          "note": "La colline de cocotiers au-dessus de l'océan."
+        },
+        {
+          "name": "Les spots de surf",
+          "note": "Weligama pour débuter."
+        }
       ],
       "hidden": [
-        { "name": "Le parc national de Yala", "note": "Léopards et éléphants, à environ 2 h à l'est." }
+        {
+          "name": "Le parc national de Yala",
+          "note": "Léopards et éléphants, à environ 2 h à l'est."
+        }
       ],
       "eat": "Poissons grillés sur la plage le soir.",
       "getAround": "Tuk-tuk et bus côtiers.",
@@ -189,41 +299,105 @@
     {
       "days": 14,
       "title": "Le grand classique",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 à 4", "place": "Le triangle culturel", "note": "Sigiriya, Dambulla, Polonnaruwa, safari éléphants." },
-        { "days": "Jours 5 et 6", "place": "Kandy", "note": "Temple de la Dent, jardin botanique." },
-        { "days": "Jours 7 à 9", "place": "Ella", "note": "En train à travers les plantations." },
-        { "days": "Jours 10 à 12", "place": "Mirissa", "note": "Avec un safari à Yala en route." },
-        { "days": "Jours 13 et 14", "place": "Galle", "note": "Retour à Colombo en train côtier." }
+        {
+          "days": "Jours 1 à 4",
+          "place": "Le triangle culturel",
+          "note": "Sigiriya, Dambulla, Polonnaruwa, safari éléphants."
+        },
+        {
+          "days": "Jours 5 et 6",
+          "place": "Kandy",
+          "note": "Temple de la Dent, jardin botanique."
+        },
+        {
+          "days": "Jours 7 à 9",
+          "place": "Ella",
+          "note": "En train à travers les plantations."
+        },
+        {
+          "days": "Jours 10 à 12",
+          "place": "Mirissa",
+          "note": "Avec un safari à Yala en route."
+        },
+        {
+          "days": "Jours 13 et 14",
+          "place": "Galle",
+          "note": "Retour à Colombo en train côtier."
+        }
       ]
     },
     {
       "days": 10,
       "title": "Montagnes et plages",
-      "for": ["lent"],
+      "for": [
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Kandy", "note": "Depuis l'aéroport en voiture." },
-        { "days": "Jours 4 à 6", "place": "Ella et Nuwara Eliya", "note": "Train et thé." },
-        { "days": "Jours 7 à 10", "place": "Galle et Mirissa", "note": "Retour à Colombo." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Kandy",
+          "note": "Depuis l'aéroport en voiture."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Ella et Nuwara Eliya",
+          "note": "Train et thé."
+        },
+        {
+          "days": "Jours 7 à 10",
+          "place": "Galle et Mirissa",
+          "note": "Retour à Colombo."
+        }
       ]
     },
     {
       "days": 10,
       "title": "La côte est en été",
-      "for": ["explorateur", "energique"],
+      "for": [
+        "explorateur",
+        "energique"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Le triangle culturel", "note": "Sigiriya et Polonnaruwa." },
-        { "days": "Jours 4 à 6", "place": "Trincomalee", "note": "Plages et snorkeling, de mai à septembre." },
-        { "days": "Jours 7 à 10", "place": "Arugam Bay", "note": "Surf. Reste sur les axes principaux." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Le triangle culturel",
+          "note": "Sigiriya et Polonnaruwa."
+        },
+        {
+          "days": "Jours 4 à 6",
+          "place": "Trincomalee",
+          "note": "Plages et snorkeling, de mai à septembre."
+        },
+        {
+          "days": "Jours 7 à 10",
+          "place": "Arugam Bay",
+          "note": "Surf. Reste sur les axes principaux."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le train", "text": "Lent mais magnifique, notamment Kandy-Ella et Colombo-Galle. Réserve les places en haute saison." },
-    { "title": "Voiture avec chauffeur", "text": "La solution la plus sûre et la plus souple, recommandée par France Diplomatie. Vérifie que le chauffeur est habilité et le véhicule assuré." },
-    { "title": "Le bus", "text": "Très bon marché, mais conduite rapide et bondé." },
-    { "title": "Le tuk-tuk", "text": "Pour les courtes distances. Utilise les applications ou négocie avant de partir." }
+    {
+      "title": "Le train",
+      "text": "Lent mais magnifique, notamment Kandy-Ella et Colombo-Galle. Réserve les places en haute saison."
+    },
+    {
+      "title": "Voiture avec chauffeur",
+      "text": "La solution la plus sûre et la plus souple, recommandée par France Diplomatie. Vérifie que le chauffeur est habilité et le véhicule assuré."
+    },
+    {
+      "title": "Le bus",
+      "text": "Très bon marché, mais conduite rapide et bondé."
+    },
+    {
+      "title": "Le tuk-tuk",
+      "text": "Pour les courtes distances. Utilise les applications ou négocie avant de partir."
+    }
   ],
   "culture": [
     "Dans les temples, épaules et genoux couverts, chaussures et chapeau retirés.",
@@ -233,10 +407,26 @@
     "Le hochement de tête latéral veut souvent dire « oui »."
   ],
   "phrases": [
-    { "fr": "Bonjour (en cinghalais)", "local": "ආයුබෝවන්", "say": "ayoubovan" },
-    { "fr": "Merci", "local": "ස්තූතියි", "say": "stoutiyi" },
-    { "fr": "Bonjour (en tamoul)", "local": "வணக்கம்", "say": "vanakkam" },
-    { "fr": "Combien ?", "local": "කීයද?", "say": "kiyada" }
+    {
+      "fr": "Bonjour (en cinghalais)",
+      "local": "ආයුබෝවන්",
+      "say": "ayoubovan"
+    },
+    {
+      "fr": "Merci",
+      "local": "ස්තූතියි",
+      "say": "stoutiyi"
+    },
+    {
+      "fr": "Bonjour (en tamoul)",
+      "local": "வணக்கம்",
+      "say": "vanakkam"
+    },
+    {
+      "fr": "Combien ?",
+      "local": "කීයද?",
+      "say": "kiyada"
+    }
   ],
   "checklist": [
     "ETA gratuite demandée sur le site officiel avant le départ",
@@ -249,9 +439,17 @@
     "Tenue couvrante pour les temples, adaptateur type G ou D"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour le Sri Lanka ?", "a": "Il faut une autorisation électronique de voyage (ETA) avant l'arrivée. Depuis le 25 mai 2026, elle est gratuite pour les Français, pour 30 jours de tourisme. Demande-la uniquement sur le site officiel du gouvernement srilankais." },
-    { "q": "Quand partir au Sri Lanka ?", "a": "De décembre à avril pour l'ouest, le sud et les montagnes. De mai à septembre, préfère la côte est (Trincomalee, Arugam Bay). Octobre et novembre sont les mois les plus pluvieux." },
-    { "q": "Quel budget pour deux semaines au Sri Lanka ?", "a": "Compte environ 15 000 à 43 000 Rs par jour seul et 11 500 à 33 000 Rs par personne à deux, hors vols. Les entrées des grands sites sont élevées pour les étrangers. Ces montants sont des estimations à vérifier." },
-    { "q": "Peut-on louer un scooter au Sri Lanka ?", "a": "France Diplomatie le déconseille : la circulation est dangereuse et la majorité des accidents impliquent deux-roues et tuk-tuks. Préfère une voiture avec chauffeur." }
+    {
+      "q": "Faut-il un visa pour le Sri Lanka ?",
+      "a": "Il faut une autorisation électronique de voyage (ETA) avant l'arrivée. Depuis le 25 mai 2026, elle est gratuite pour les Français, pour 30 jours de tourisme. Demande-la uniquement sur le site officiel du gouvernement srilankais."
+    },
+    {
+      "q": "Quand partir au Sri Lanka ?",
+      "a": "De décembre à avril pour l'ouest, le sud et les montagnes. De mai à septembre, préfère la côte est (Trincomalee, Arugam Bay). Octobre et novembre sont les mois les plus pluvieux."
+    },
+    {
+      "q": "Peut-on louer un scooter au Sri Lanka ?",
+      "a": "France Diplomatie le déconseille : la circulation est dangereuse et la majorité des accidents impliquent deux-roues et tuk-tuks. Préfère une voiture avec chauffeur."
+    }
   ]
 }
