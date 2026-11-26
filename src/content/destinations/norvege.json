@@ -12,7 +12,15 @@
     "title": "Guide Norvège : fjords, aurores, budget, quand partir",
     "description": "Préparer un voyage en Norvège : fjords en été, aurores en hiver, budget seul ou à deux, Oslo, Bergen, les fjords, les Lofoten, Tromsø. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/norvege/hero.jpg",
+    "alt": "Le village de Reine aux Lofoten",
+    "credit": {
+      "author": "Jörg Hempel",
+      "license": "CC BY-SA 2.0 de",
+      "url": "https://commons.wikimedia.org/wiki/File:Reine_i_Lofoten_LC0148.jpg"
+    }
+  },
   "summary": "La Norvège se visite de juin à août pour les fjords et le soleil de minuit, ou de septembre à mars au nord pour les aurores boréales. Attention : la Norvège ne reconnaît pas les cartes d'identité prolongées de 5 ans, il faut alors un passeport. C'est une destination chère, où voyager à deux allège nettement la note.",
   "essentials": {
     "bestPeriod": "Juin à août (aurores au nord de septembre à mars)",
@@ -24,26 +32,78 @@
     "flight": "Environ 2 h 10 depuis Paris pour Oslo"
   },
   "months": [
-    { "rating": 1, "note": "Nuit polaire au nord, aurores boréales à Tromsø et aux Lofoten. Ski partout." },
-    { "rating": 1, "note": "Toujours l'hiver, journées qui rallongent. Bon pour les aurores." },
-    { "rating": 1, "note": "L'un des meilleurs mois pour les aurores : nuits noires mais journées plus longues." },
-    { "rating": 1, "note": "Le printemps arrive au sud, encore la neige en montagne." },
-    { "rating": 1, "note": "Cascades en crue, fête nationale le 17 mai. Routes de montagne encore fermées." },
-    { "rating": 2, "note": "Soleil de minuit au nord, fjords au vert, routes ouvertes." },
-    { "rating": 2, "note": "Le plus doux et le plus fréquenté. Réserve longtemps à l'avance." },
-    { "rating": 2, "note": "Encore beau, un peu moins de monde en fin de mois." },
-    { "rating": 1, "note": "Couleurs d'automne, retour des aurores au nord." },
-    { "rating": 1, "note": "Journées plus courtes, pluie à Bergen." },
-    { "rating": 1, "note": "Sombre, aurores au nord, observation des baleines vers Tromsø selon les années." },
-    { "rating": 1, "note": "Marchés de Noël, aurores au nord." }
+    {
+      "rating": 1,
+      "note": "Nuit polaire au nord, aurores boréales à Tromsø et aux Lofoten. Ski partout."
+    },
+    {
+      "rating": 1,
+      "note": "Toujours l'hiver, journées qui rallongent. Bon pour les aurores."
+    },
+    {
+      "rating": 1,
+      "note": "L'un des meilleurs mois pour les aurores : nuits noires mais journées plus longues."
+    },
+    {
+      "rating": 1,
+      "note": "Le printemps arrive au sud, encore la neige en montagne."
+    },
+    {
+      "rating": 1,
+      "note": "Cascades en crue, fête nationale le 17 mai. Routes de montagne encore fermées."
+    },
+    {
+      "rating": 2,
+      "note": "Soleil de minuit au nord, fjords au vert, routes ouvertes."
+    },
+    {
+      "rating": 2,
+      "note": "Le plus doux et le plus fréquenté. Réserve longtemps à l'avance."
+    },
+    {
+      "rating": 2,
+      "note": "Encore beau, un peu moins de monde en fin de mois."
+    },
+    {
+      "rating": 1,
+      "note": "Couleurs d'automne, retour des aurores au nord."
+    },
+    {
+      "rating": 1,
+      "note": "Journées plus courtes, pluie à Bergen."
+    },
+    {
+      "rating": 1,
+      "note": "Sombre, aurores au nord, observation des baleines vers Tromsø selon les années."
+    },
+    {
+      "rating": 1,
+      "note": "Marchés de Noël, aurores au nord."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en couronnes norvégiennes, par jour et par personne, hors vols. Convertis au taux du jour.",
     "rows": [
-      { "label": "Hébergement (hôtel simple ou chalet)", "solo": "1 400 à 2 500 kr", "duo": "900 à 1 600 kr" },
-      { "label": "Repas", "solo": "500 à 900 kr", "duo": "500 à 900 kr" },
-      { "label": "Transports locaux", "solo": "100 à 400 kr", "duo": "100 à 300 kr" },
-      { "label": "Visites et activités", "solo": "100 à 400 kr", "duo": "100 à 400 kr" }
+      {
+        "label": "Hébergement (hôtel simple ou chalet)",
+        "solo": "1 400 à 2 500 kr",
+        "duo": "900 à 1 600 kr"
+      },
+      {
+        "label": "Repas",
+        "solo": "500 à 900 kr",
+        "duo": "500 à 900 kr"
+      },
+      {
+        "label": "Transports locaux",
+        "solo": "100 à 400 kr",
+        "duo": "100 à 300 kr"
+      },
+      {
+        "label": "Visites et activités",
+        "solo": "100 à 400 kr",
+        "duo": "100 à 400 kr"
+      }
     ],
     "totalSolo": "2 100 à 4 200 kr",
     "totalDuo": "1 600 à 3 200 kr",
@@ -58,7 +118,10 @@
       "L'archipel du Svalbard ne fait pas partie de l'espace Schengen : une pièce d'identité valide est contrôlée à l'aller et au retour.",
       "Certains organismes, comme les banques, demandent un passeport pour leurs démarches."
     ],
-    "source": { "label": "France Diplomatie, Norvège, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/norvege/" },
+    "source": {
+      "label": "France Diplomatie, Norvège, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/norvege/"
+    },
     "checkedAt": "2026-11-24"
   },
   "health": {
@@ -68,7 +131,10 @@
       "Encéphalite à tiques : à discuter si tu randonnes ou campes au printemps et en été, surtout sur la côte sud.",
       "Pour la randonnée et le Grand Nord, une assurance couvrant les secours est indispensable."
     ],
-    "source": { "label": "France Diplomatie, Norvège, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/norvege/" },
+    "source": {
+      "label": "France Diplomatie, Norvège, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/norvege/"
+    },
     "checkedAt": "2026-11-24"
   },
   "safety": {
@@ -79,7 +145,10 @@
       "Cambriolages et vols à la tire en hausse pendant les vacances (Noël, Pâques, juillet). À Oslo, vigilance à la gare centrale et dans les quartiers à l'est (Grønland, Gamlebyen…).",
       "Le risque terroriste est jugé modéré par les autorités."
     ],
-    "source": { "label": "France Diplomatie, Norvège, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/norvege/" },
+    "source": {
+      "label": "France Diplomatie, Norvège, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/norvege/"
+    },
     "checkedAt": "2026-11-24"
   },
   "cities": [
@@ -87,16 +156,31 @@
       "slug": "oslo",
       "name": "Oslo",
       "nights": "2 nuits",
-      "for": ["stratege", "tous"],
+      "for": [
+        "stratege",
+        "tous"
+      ],
       "summary": "Une capitale moderne au fond d'un fjord, avec des musées de premier plan et une architecture audacieuse.",
       "sleep": "Dans le centre, près d'Aker Brygge ou de Grünerløkka.",
       "see": [
-        { "name": "L'opéra", "note": "On marche sur son toit en pente jusqu'au-dessus du fjord." },
-        { "name": "Le musée Munch", "note": "Le Cri et l'œuvre d'Edvard Munch." },
-        { "name": "Le parc Vigeland", "note": "Plus de 200 sculptures en plein air, gratuit." }
+        {
+          "name": "L'opéra",
+          "note": "On marche sur son toit en pente jusqu'au-dessus du fjord."
+        },
+        {
+          "name": "Le musée Munch",
+          "note": "Le Cri et l'œuvre d'Edvard Munch."
+        },
+        {
+          "name": "Le parc Vigeland",
+          "note": "Plus de 200 sculptures en plein air, gratuit."
+        }
       ],
       "hidden": [
-        { "name": "Les saunas flottants", "note": "Sauna puis plongeon dans le fjord, toute l'année." }
+        {
+          "name": "Les saunas flottants",
+          "note": "Sauna puis plongeon dans le fjord, toute l'année."
+        }
       ],
       "eat": "Les sandwiches ouverts au saumon et les cafés de Grünerløkka.",
       "getAround": "Métro, tram et ferries vers les îles du fjord.",
@@ -106,16 +190,31 @@
       "slug": "bergen",
       "name": "Bergen",
       "nights": "2 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "La porte des fjords, avec ses maisons de bois colorées sur le port hanséatique.",
       "sleep": "Près du port de Bryggen.",
       "see": [
-        { "name": "Bryggen", "note": "Les entrepôts en bois classés à l'Unesco." },
-        { "name": "Le mont Fløyen", "note": "En funiculaire, pour la vue sur la ville et les fjords." },
-        { "name": "Le marché aux poissons", "note": "Crabe royal et saumon sur le port." }
+        {
+          "name": "Bryggen",
+          "note": "Les entrepôts en bois classés à l'Unesco."
+        },
+        {
+          "name": "Le mont Fløyen",
+          "note": "En funiculaire, pour la vue sur la ville et les fjords."
+        },
+        {
+          "name": "Le marché aux poissons",
+          "note": "Crabe royal et saumon sur le port."
+        }
       ],
       "hidden": [
-        { "name": "Le mont Ulriken", "note": "La randonnée entre Fløyen et Ulriken, par beau temps." }
+        {
+          "name": "Le mont Ulriken",
+          "note": "La randonnée entre Fløyen et Ulriken, par beau temps."
+        }
       ],
       "eat": "Les fruits de mer et le fiskesuppe, soupe de poisson.",
       "getAround": "À pied ; bateaux vers les fjords.",
@@ -125,17 +224,36 @@
       "slug": "fjords",
       "name": "Les fjords (Geiranger, Nærøyfjord)",
       "nights": "3 nuits",
-      "for": ["tous", "explorateur", "lent"],
+      "for": [
+        "tous",
+        "explorateur",
+        "lent"
+      ],
       "summary": "Des falaises vertigineuses plongeant dans l'eau, des cascades et des villages accrochés aux rives.",
       "sleep": "Dans les villages de Flåm, Geiranger ou Balestrand, dans des cabanes ou petits hôtels.",
       "see": [
-        { "name": "Le Nærøyfjord", "note": "En bateau depuis Flåm, l'un des plus étroits du monde." },
-        { "name": "Le train de Flåm", "note": "Une descente spectaculaire entre montagnes et cascades." },
-        { "name": "Le Geirangerfjord", "note": "Les cascades des Sept Sœurs, depuis le ferry." }
+        {
+          "name": "Le Nærøyfjord",
+          "note": "En bateau depuis Flåm, l'un des plus étroits du monde."
+        },
+        {
+          "name": "Le train de Flåm",
+          "note": "Une descente spectaculaire entre montagnes et cascades."
+        },
+        {
+          "name": "Le Geirangerfjord",
+          "note": "Les cascades des Sept Sœurs, depuis le ferry."
+        }
       ],
       "hidden": [
-        { "name": "Le Preikestolen", "note": "La « chaire du prêcheur », une falaise au-dessus du Lysefjord, près de Stavanger." },
-        { "name": "La route des Trolls", "note": "Onze lacets, ouverte seulement en été." }
+        {
+          "name": "Le Preikestolen",
+          "note": "La « chaire du prêcheur », une falaise au-dessus du Lysefjord, près de Stavanger."
+        },
+        {
+          "name": "La route des Trolls",
+          "note": "Onze lacets, ouverte seulement en été."
+        }
       ],
       "eat": "Le saumon, la viande de renne et le brunost (fromage brun).",
       "getAround": "Voiture et ferries, ou formule « Norway in a Nutshell » en train et bateau.",
@@ -145,16 +263,31 @@
       "slug": "lofoten",
       "name": "Les îles Lofoten",
       "nights": "3 à 4 nuits",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "summary": "Des montagnes abruptes au-dessus de l'océan, des cabanes de pêcheurs rouges et des plages blanches au-delà du cercle polaire.",
       "sleep": "Dans une rorbu, cabane de pêcheur sur pilotis.",
       "see": [
-        { "name": "Reine", "note": "Le village le plus photographié de l'archipel." },
-        { "name": "Le sommet du Reinebringen", "note": "Un escalier sherpa jusqu'à une vue exceptionnelle." },
-        { "name": "La plage d'Haukland", "note": "Sable blanc et eau turquoise, sous le soleil de minuit." }
+        {
+          "name": "Reine",
+          "note": "Le village le plus photographié de l'archipel."
+        },
+        {
+          "name": "Le sommet du Reinebringen",
+          "note": "Un escalier sherpa jusqu'à une vue exceptionnelle."
+        },
+        {
+          "name": "La plage d'Haukland",
+          "note": "Sable blanc et eau turquoise, sous le soleil de minuit."
+        }
       ],
       "hidden": [
-        { "name": "Nusfjord", "note": "Un ancien village de pêcheurs préservé." }
+        {
+          "name": "Nusfjord",
+          "note": "Un ancien village de pêcheurs préservé."
+        }
       ],
       "eat": "Le stockfish (morue séchée) et la morue fraîche en hiver.",
       "getAround": "Voiture indispensable ; vol ou ferry depuis Bodø.",
@@ -164,16 +297,31 @@
       "slug": "tromso",
       "name": "Tromsø",
       "nights": "3 nuits",
-      "for": ["energique", "explorateur"],
+      "for": [
+        "energique",
+        "explorateur"
+      ],
       "summary": "La capitale de l'Arctique norvégien, base idéale pour chasser les aurores boréales en hiver.",
       "sleep": "Dans le centre, pour partir facilement en excursion.",
       "see": [
-        { "name": "Les aurores boréales", "note": "De septembre à mars, en excursion loin des lumières." },
-        { "name": "La cathédrale arctique", "note": "Une église triangulaire emblématique." },
-        { "name": "Le téléphérique de Fjellheisen", "note": "La vue sur la ville et les montagnes." }
+        {
+          "name": "Les aurores boréales",
+          "note": "De septembre à mars, en excursion loin des lumières."
+        },
+        {
+          "name": "La cathédrale arctique",
+          "note": "Une église triangulaire emblématique."
+        },
+        {
+          "name": "Le téléphérique de Fjellheisen",
+          "note": "La vue sur la ville et les montagnes."
+        }
       ],
       "hidden": [
-        { "name": "Le chien de traîneau", "note": "Une sortie en attelage dans la neige." }
+        {
+          "name": "Le chien de traîneau",
+          "note": "Une sortie en attelage dans la neige."
+        }
       ],
       "eat": "Le renne et le poisson arctique.",
       "getAround": "Bus en ville, excursions organisées pour les aurores.",
@@ -184,38 +332,91 @@
     {
       "days": 7,
       "title": "Oslo, Bergen et les fjords",
-      "for": ["tous", "stratege"],
+      "for": [
+        "tous",
+        "stratege"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Oslo", "note": "Opéra, Munch, Vigeland." },
-        { "days": "Jours 3 à 5", "place": "Les fjords", "note": "Train d'Oslo vers Myrdal, train de Flåm, bateau sur le Nærøyfjord." },
-        { "days": "Jours 6 et 7", "place": "Bergen", "note": "Retour en avion depuis Bergen." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Oslo",
+          "note": "Opéra, Munch, Vigeland."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Les fjords",
+          "note": "Train d'Oslo vers Myrdal, train de Flåm, bateau sur le Nærøyfjord."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Bergen",
+          "note": "Retour en avion depuis Bergen."
+        }
       ]
     },
     {
       "days": 10,
       "title": "Fjords et Lofoten",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Bergen", "note": "Arrivée." },
-        { "days": "Jours 3 à 5", "place": "Les fjords", "note": "En voiture, Geiranger et la route des Trolls." },
-        { "days": "Jours 6 à 10", "place": "Lofoten", "note": "Vol vers Bodø puis ferry. Randonnées." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Bergen",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 3 à 5",
+          "place": "Les fjords",
+          "note": "En voiture, Geiranger et la route des Trolls."
+        },
+        {
+          "days": "Jours 6 à 10",
+          "place": "Lofoten",
+          "note": "Vol vers Bodø puis ferry. Randonnées."
+        }
       ]
     },
     {
       "days": 5,
       "title": "Aurores en hiver",
-      "for": ["energique", "lent"],
+      "for": [
+        "energique",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 3", "place": "Tromsø", "note": "Ville, téléphérique et premières sorties aurores." },
-        { "days": "Jours 4 et 5", "place": "Fjords autour de Tromsø", "note": "Traîneau à chiens, fjords enneigés, et des soirs de marge pour la météo." }
+        {
+          "days": "Jours 1 à 3",
+          "place": "Tromsø",
+          "note": "Ville, téléphérique et premières sorties aurores."
+        },
+        {
+          "days": "Jours 4 et 5",
+          "place": "Fjords autour de Tromsø",
+          "note": "Traîneau à chiens, fjords enneigés, et des soirs de marge pour la météo."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le train", "text": "Oslo-Bergen et le train de Flåm sont des trajets inoubliables. Réserve tôt pour les meilleurs prix." },
-    { "title": "En voiture", "text": "Idéale pour les fjords et les Lofoten, mais péages et ferries s'additionnent. En hiver, pneus adaptés et prudence." },
-    { "title": "Les ferries et l'Hurtigruten", "text": "Les ferries font partie du réseau routier. L'express côtier longe la côte jusqu'au cap Nord." },
-    { "title": "Les vols intérieurs", "text": "Indispensables pour le nord : Bodø, Tromsø, les Lofoten." }
+    {
+      "title": "Le train",
+      "text": "Oslo-Bergen et le train de Flåm sont des trajets inoubliables. Réserve tôt pour les meilleurs prix."
+    },
+    {
+      "title": "En voiture",
+      "text": "Idéale pour les fjords et les Lofoten, mais péages et ferries s'additionnent. En hiver, pneus adaptés et prudence."
+    },
+    {
+      "title": "Les ferries et l'Hurtigruten",
+      "text": "Les ferries font partie du réseau routier. L'express côtier longe la côte jusqu'au cap Nord."
+    },
+    {
+      "title": "Les vols intérieurs",
+      "text": "Indispensables pour le nord : Bodø, Tromsø, les Lofoten."
+    }
   ],
   "culture": [
     "Le droit d'accès à la nature (allemannsretten) permet de camper presque partout, avec respect et à distance des habitations.",
@@ -224,9 +425,21 @@
     "Le pourboire n'est pas attendu."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "Hei / God dag", "say": "haï / gou dag" },
-    { "fr": "Merci", "local": "Takk", "say": "tak" },
-    { "fr": "Santé !", "local": "Skål!", "say": "skaul" }
+    {
+      "fr": "Bonjour",
+      "local": "Hei / God dag",
+      "say": "haï / gou dag"
+    },
+    {
+      "fr": "Merci",
+      "local": "Takk",
+      "say": "tak"
+    },
+    {
+      "fr": "Santé !",
+      "local": "Skål!",
+      "say": "skaul"
+    }
   ],
   "checklist": [
     "Carte d'identité valide ou passeport (obligatoire si ta carte prolongée affiche une date dépassée)",
@@ -236,9 +449,21 @@
     "Assurance couvrant les secours pour la randonnée et le Grand Nord"
   ],
   "faq": [
-    { "q": "Peut-on aller en Norvège avec une carte d'identité ?", "a": "Oui, si elle est en cours de validité. Mais la Norvège ne reconnaît pas la prolongation de 5 ans des cartes délivrées entre 2004 et 2013 : si la date inscrite est dépassée, il faut un passeport." },
-    { "q": "Quand voir les aurores boréales en Norvège ?", "a": "De septembre à mars dans le nord du pays (Tromsø, Lofoten, Alta), par nuit noire et ciel dégagé." },
-    { "q": "Quand partir pour les fjords ?", "a": "De juin à août, quand les routes de montagne sont ouvertes et les journées très longues. Mai et septembre sont plus calmes mais certaines routes peuvent être fermées." },
-    { "q": "Quel budget pour une semaine en Norvège ?", "a": "Compte environ 2 100 à 4 200 kr par jour seul et 1 600 à 3 200 kr par personne à deux, hors vols. C'est l'un des pays les plus chers d'Europe. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Peut-on aller en Norvège avec une carte d'identité ?",
+      "a": "Oui, si elle est en cours de validité. Mais la Norvège ne reconnaît pas la prolongation de 5 ans des cartes délivrées entre 2004 et 2013 : si la date inscrite est dépassée, il faut un passeport."
+    },
+    {
+      "q": "Quand voir les aurores boréales en Norvège ?",
+      "a": "De septembre à mars dans le nord du pays (Tromsø, Lofoten, Alta), par nuit noire et ciel dégagé."
+    },
+    {
+      "q": "Quand partir pour les fjords ?",
+      "a": "De juin à août, quand les routes de montagne sont ouvertes et les journées très longues. Mai et septembre sont plus calmes mais certaines routes peuvent être fermées."
+    },
+    {
+      "q": "Quel budget pour une semaine en Norvège ?",
+      "a": "Compte environ 2 100 à 4 200 kr par jour seul et 1 600 à 3 200 kr par personne à deux, hors vols. C'est l'un des pays les plus chers d'Europe. Ces montants sont des estimations à vérifier."
+    }
   ]
 }

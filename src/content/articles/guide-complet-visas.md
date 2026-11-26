@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/etats-unis/hero.jpg"
+  alt: "Le Grand Canyon depuis la rive sud"
+  credit:
+    author: "Mgimelfarb"
+    license: "CC0"
+    url: "https://commons.wikimedia.org/wiki/File:Grand_Canyon_South_Rim_at_Sunset.jpg"
 destinations: ["etats-unis", "royaume-uni", "canada", "australie", "nouvelle-zelande", "coree-du-sud", "sri-lanka", "kenya", "thailande", "vietnam", "inde", "chine"]
 ---
 

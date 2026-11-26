@@ -12,15 +12,7 @@
     "title": "Guide Pologne : quand partir, budget, Cracovie, Varsovie",
     "description": "Préparer un voyage en Pologne : meilleure saison, budget seul ou à deux, Cracovie, Varsovie, Gdańsk, Wrocław, les Tatras. Guide PDF gratuit."
   },
-  "hero": {
-    "src": "/images/destinations/pologne/hero.jpg",
-    "alt": "La place du Marché de Cracovie",
-    "credit": {
-      "author": "Igor123121",
-      "license": "CC BY 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Anti-Ukrainian_protest_Krakow,_Main_Market_square,_Old_Town,_Krak%C3%B3w,_Poland.jpg"
-    }
-  },
+  "hero": null,
   "summary": "La Pologne se visite de mai à septembre pour la douceur, et en décembre pour ses marchés de Noël. Une carte d'identité suffit. C'est une destination de villes : Cracovie en premier, puis Varsovie, Gdańsk ou Wrocław, toutes reliées par de bons trains.",
   "essentials": {
     "bestPeriod": "Mai à septembre",

@@ -12,15 +12,7 @@
     "title": "Guide Danemark : quand partir, budget, Copenhague",
     "description": "Préparer un voyage au Danemark : meilleure saison, budget seul ou à deux, Copenhague, Aarhus, Odense, Skagen et itinéraires. Guide PDF gratuit."
   },
-  "hero": {
-    "src": "/images/destinations/danemark/hero.jpg",
-    "alt": "Le port de Nyhavn à Copenhague",
-    "credit": {
-      "author": "Dietmar Rabich",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Kopenhagen_(DK),_Nyhavn_--_2017_--_1711.jpg"
-    }
-  },
+  "hero": null,
   "summary": "Le Danemark se visite de mai à septembre, quand les journées sont longues et les terrasses ouvertes ; décembre a aussi son charme avec les marchés de Noël. Une carte d'identité suffit. Copenhague mérite trois jours, et le pays se parcourt facilement en train jusqu'à Aarhus et la pointe de Skagen.",
   "essentials": {
     "bestPeriod": "Mai à septembre",

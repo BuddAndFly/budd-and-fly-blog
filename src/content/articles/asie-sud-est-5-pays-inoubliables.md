@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/thailande/hero.jpg"
+  alt: "Le temple Wat Arun au bord du Chao Phraya, à Bangkok"
+  credit:
+    author: "Diego Delso"
+    license: "CC BY-SA 3.0"
+    url: "https://commons.wikimedia.org/wiki/File:Templo_Wat_Arun,_Bangkok,_Tailandia,_2013-08-22,_DD_30.jpg"
 destinations: ["thailande", "laos", "vietnam", "cambodge", "malaisie"]
 ---
 

@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/espagne/hero.jpg"
+  alt: "L'Alhambra de Grenade et la Sierra Nevada"
+  credit:
+    author: "Diego Delso"
+    license: "CC BY-SA 4.0"
+    url: "https://commons.wikimedia.org/wiki/File:Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg"
 destinations: ["espagne", "pays-bas", "irlande", "royaume-uni", "japon", "singapour", "australie", "canada"]
 ---
 

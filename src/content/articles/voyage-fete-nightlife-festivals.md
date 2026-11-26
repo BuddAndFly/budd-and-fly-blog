@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/allemagne/hero.jpg"
+  alt: "Le château de Neuschwanstein en Bavière"
+  credit:
+    author: "Wilfredor"
+    license: "CC0"
+    url: "https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_2024-02.jpg"
 destinations: ["allemagne", "hongrie", "serbie", "espagne", "argentine", "bresil", "coree-du-sud", "thailande", "colombie", "pays-bas"]
 ---
 

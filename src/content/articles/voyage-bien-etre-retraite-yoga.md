@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/indonesie/hero.jpg"
+  alt: "Les rizières en terrasses de Bali"
+  credit:
+    author: "Vyacheslav Argenberg"
+    license: "CC BY 4.0"
+    url: "https://commons.wikimedia.org/wiki/File:Rice_terraces,_Bali.jpg"
 destinations: ["indonesie", "inde", "sri-lanka", "thailande", "japon", "finlande", "islande", "hongrie", "portugal", "costa-rica", "bhoutan", "maroc"]
 ---
 

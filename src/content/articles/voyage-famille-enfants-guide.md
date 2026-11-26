@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/portugal/hero.jpg"
+  alt: "Les toits de l'Alfama à Lisbonne"
+  credit:
+    author: "Matti Blume"
+    license: "CC BY-SA 4.0"
+    url: "https://commons.wikimedia.org/wiki/File:Alfama,_Lisbon_(DSC03371).jpg"
 destinations: ["portugal", "espagne", "croatie", "japon", "costa-rica", "ile-maurice", "canada"]
 ---
 

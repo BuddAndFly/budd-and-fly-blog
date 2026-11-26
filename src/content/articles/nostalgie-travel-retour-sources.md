@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/belgique/hero.jpg"
+  alt: "Le quai du Rosaire à Bruges"
+  credit:
+    author: "Ank Kumar"
+    license: "CC BY-SA 4.0"
+    url: "https://commons.wikimedia.org/wiki/File:Rozenhoedkaai_(canal)_and_Belfry_of_Bruges,_Bruges,_Belgium_(Ank_Kumar,_Infosys_Limited)_09.jpg"
 destinations: ["belgique", "luxembourg", "suisse", "pays-bas"]
 ---
 

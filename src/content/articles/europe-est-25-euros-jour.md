@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/bosnie-herzegovine/hero.jpg"
+  alt: "Le vieux pont de Mostar"
+  credit:
+    author: "Ramirez"
+    license: "CC BY-SA 4.0"
+    url: "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg"
 destinations: ["bosnie-herzegovine", "montenegro", "albanie", "macedoine-du-nord", "serbie", "bulgarie", "roumanie"]
 ---
 

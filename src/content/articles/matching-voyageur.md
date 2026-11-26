@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/blog/compagnon-de-voyage.jpg"
+  alt: "Deux randonneuses sur un sentier de montagne"
+  credit:
+    author: "US Forest Service – Northern Region"
+    license: "Domaine public"
+    url: "https://commons.wikimedia.org/wiki/File:Two_hikers_on_the_Grotto_Falls_trail_-432_Custer_Gallatin_NF_3W6A3459_(53255614730).jpg"
 destinations: []
 ---
 

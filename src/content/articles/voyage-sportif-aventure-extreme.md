@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/perou/hero.jpg"
+  alt: "Le site inca du Machu Picchu"
+  credit:
+    author: "Diego Delso"
+    license: "CC BY-SA 4.0"
+    url: "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_47.JPG"
 destinations: ["nepal", "perou", "kirghizistan", "georgie", "nouvelle-zelande", "islande", "norvege", "costa-rica", "indonesie", "philippines", "egypte", "belize", "portugal", "chili", "tanzanie"]
 ---
 

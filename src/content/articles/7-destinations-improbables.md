@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/ouzbekistan/hero.jpg"
+  alt: "Le Registan de Samarcande"
+  credit:
+    author: "Stomac"
+    license: "CC BY-SA 2.0 fr"
+    url: "https://commons.wikimedia.org/wiki/File:Registan_Samarkand_Uzbekistan.JPG"
 destinations: ["ouzbekistan", "bhoutan", "mongolie", "kirghizistan", "oman", "namibie", "benin"]
 ---
 

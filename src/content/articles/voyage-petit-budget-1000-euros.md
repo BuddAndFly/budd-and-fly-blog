@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/vietnam/hero.jpg"
+  alt: "La baie d'Ha Long et ses pitons calcaires"
+  credit:
+    author: "Thomas Hirsch / User:Ravn"
+    license: "CC BY-SA 3.0"
+    url: "https://commons.wikimedia.org/wiki/File:Halong_Bay_in_Vietnam.jpg"
 destinations: ["vietnam", "laos", "cambodge", "nepal", "inde", "bolivie", "kirghizistan", "georgie", "albanie", "nicaragua"]
 ---
 

@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/albanie/hero.jpg"
+  alt: "Des parasols de paille sur une plage de la Riviera albanaise"
+  credit:
+    author: "Pudelek (Marcin Szala)"
+    license: "CC BY-SA 3.0"
+    url: "https://commons.wikimedia.org/wiki/File:Ksamil,_Albania_-_beach.JPG"
 destinations: ["albanie", "montenegro", "macedoine-du-nord", "bosnie-herzegovine", "serbie", "roumanie", "bulgarie", "slovaquie", "slovenie", "estonie", "lettonie", "lituanie"]
 ---
 

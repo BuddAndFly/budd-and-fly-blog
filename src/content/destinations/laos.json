@@ -12,7 +12,15 @@
     "title": "Guide Laos : Luang Prabang, Mékong, visa, budget",
     "description": "Préparer un voyage au Laos : visa, munitions non explosées, meilleure saison, budget, Luang Prabang, Vang Vieng, les 4 000 îles. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/laos/hero.jpg",
+    "alt": "Les cascades de Kuang Si près de Luang Prabang",
+    "credit": {
+      "author": "Basile Morin",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kuang_Si_Falls_and_a_turquoise_water_pool_in_Luang_Prabang_province_Laos.jpg"
+    }
+  },
   "summary": "Le Laos se visite de novembre à mars, en saison sèche et plus fraîche. Un visa est obligatoire (en ligne, à l'arrivée ou à l'ambassade) et le passeport doit être valable 6 mois après la sortie. Le pays est paisible mais en vigilance renforcée ; des munitions non explosées subsistent dans les campagnes. Luang Prabang, le Mékong et les 4 000 îles invitent à ralentir.",
   "essentials": {
     "bestPeriod": "Novembre à mars",
@@ -24,26 +32,78 @@
     "flight": "Environ 14 h depuis Paris pour Luang Prabang ou Vientiane, avec une escale"
   },
   "months": [
-    { "rating": 2, "note": "Sec et doux, frais le matin dans le nord." },
-    { "rating": 2, "note": "Idéal." },
-    { "rating": 1, "note": "Chaleur montante, brûlis agricoles (fumées) dans le nord." },
-    { "rating": 0, "note": "Très chaud ; Nouvel An lao (Pi Mai) mi-avril." },
-    { "rating": 0, "note": "Chaud, début des pluies." },
-    { "rating": 1, "note": "Saison des pluies, paysages verts." },
-    { "rating": 1, "note": "Pluies, cascades spectaculaires." },
-    { "rating": 1, "note": "Comme en juillet." },
-    { "rating": 1, "note": "Fin des pluies." },
-    { "rating": 2, "note": "Fête des pirogues, paysages verdoyants." },
-    { "rating": 2, "note": "Début de la belle saison ; fête du That Luang." },
-    { "rating": 2, "note": "Sec et agréable." }
+    {
+      "rating": 2,
+      "note": "Sec et doux, frais le matin dans le nord."
+    },
+    {
+      "rating": 2,
+      "note": "Idéal."
+    },
+    {
+      "rating": 1,
+      "note": "Chaleur montante, brûlis agricoles (fumées) dans le nord."
+    },
+    {
+      "rating": 0,
+      "note": "Très chaud ; Nouvel An lao (Pi Mai) mi-avril."
+    },
+    {
+      "rating": 0,
+      "note": "Chaud, début des pluies."
+    },
+    {
+      "rating": 1,
+      "note": "Saison des pluies, paysages verts."
+    },
+    {
+      "rating": 1,
+      "note": "Pluies, cascades spectaculaires."
+    },
+    {
+      "rating": 1,
+      "note": "Comme en juillet."
+    },
+    {
+      "rating": 1,
+      "note": "Fin des pluies."
+    },
+    {
+      "rating": 2,
+      "note": "Fête des pirogues, paysages verdoyants."
+    },
+    {
+      "rating": 2,
+      "note": "Début de la belle saison ; fête du That Luang."
+    },
+    {
+      "rating": 2,
+      "note": "Sec et agréable."
+    }
   ],
   "budget": {
     "currencyNote": "Montants en kips, par jour et par personne, hors vols. Convertis au taux du jour.",
     "rows": [
-      { "label": "Hébergement (guesthouse)", "solo": "400 000 à 1 000 000 ₭", "duo": "250 000 à 600 000 ₭" },
-      { "label": "Repas", "solo": "200 000 à 450 000 ₭", "duo": "200 000 à 450 000 ₭" },
-      { "label": "Transports", "solo": "100 000 à 500 000 ₭", "duo": "100 000 à 400 000 ₭" },
-      { "label": "Visites et excursions", "solo": "50 000 à 300 000 ₭", "duo": "50 000 à 300 000 ₭" }
+      {
+        "label": "Hébergement (guesthouse)",
+        "solo": "400 000 à 1 000 000 ₭",
+        "duo": "250 000 à 600 000 ₭"
+      },
+      {
+        "label": "Repas",
+        "solo": "200 000 à 450 000 ₭",
+        "duo": "200 000 à 450 000 ₭"
+      },
+      {
+        "label": "Transports",
+        "solo": "100 000 à 500 000 ₭",
+        "duo": "100 000 à 400 000 ₭"
+      },
+      {
+        "label": "Visites et excursions",
+        "solo": "50 000 à 300 000 ₭",
+        "duo": "50 000 à 300 000 ₭"
+      }
     ],
     "totalSolo": "750 000 à 2 250 000 ₭",
     "totalDuo": "600 000 à 1 750 000 ₭",
@@ -57,7 +117,10 @@
       "Le visa s'obtient auprès d'une ambassade, en ligne, ou à l'arrivée dans certains postes-frontières seulement : vérifie la liste officielle avant un passage terrestre.",
       "Vérifie que la date d'entrée est bien tamponnée sur ton passeport : sinon, amende d'au moins 200 USD pour séjour illégal."
     ],
-    "source": { "label": "France Diplomatie, Laos, Entrée / séjour (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/laos/" },
+    "source": {
+      "label": "France Diplomatie, Laos, Entrée / séjour (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/laos/"
+    },
     "checkedAt": "2026-11-25"
   },
   "health": {
@@ -66,7 +129,10 @@
       "Dengue : protection contre les moustiques.",
       "Rage : recommandé pour les jeunes enfants et les séjours en zone rurale."
     ],
-    "source": { "label": "France Diplomatie, Laos, Santé (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/laos/" },
+    "source": {
+      "label": "France Diplomatie, Laos, Santé (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/laos/"
+    },
     "checkedAt": "2026-11-25"
   },
   "safety": {
@@ -77,7 +143,10 @@
       "Les principaux risques sont les transports et la petite délinquance en hausse.",
       "Drogue sévèrement réprimée. À Vang Vieng, accidents graves fréquents lors des activités (tyroliennes, tubing)."
     ],
-    "source": { "label": "France Diplomatie, Laos, Sécurité (mise à jour du 15 septembre 2026)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/laos/" },
+    "source": {
+      "label": "France Diplomatie, Laos, Sécurité (mise à jour du 15 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/laos/"
+    },
     "checkedAt": "2026-11-25"
   },
   "cities": [
@@ -85,16 +154,31 @@
       "slug": "luang-prabang",
       "name": "Luang Prabang",
       "nights": "4 nuits",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "summary": "L'ancienne capitale royale, ses temples dorés et ses maisons coloniales au confluent du Mékong.",
       "sleep": "Sur la presqu'île historique.",
       "see": [
-        { "name": "Le Vat Xieng Thong", "note": "Le plus beau temple de la ville." },
-        { "name": "Le mont Phousi", "note": "Au coucher du soleil sur le Mékong." },
-        { "name": "Les cascades de Kuang Si", "note": "Des bassins turquoise à 30 km." }
+        {
+          "name": "Le Vat Xieng Thong",
+          "note": "Le plus beau temple de la ville."
+        },
+        {
+          "name": "Le mont Phousi",
+          "note": "Au coucher du soleil sur le Mékong."
+        },
+        {
+          "name": "Les cascades de Kuang Si",
+          "note": "Des bassins turquoise à 30 km."
+        }
       ],
       "hidden": [
-        { "name": "Les grottes de Pak Ou", "note": "Des milliers de statues de Bouddha, en bateau sur le Mékong." }
+        {
+          "name": "Les grottes de Pak Ou",
+          "note": "Des milliers de statues de Bouddha, en bateau sur le Mékong."
+        }
       ],
       "eat": "Le laap (salade de viande hachée), le riz gluant et les marchés de nuit.",
       "getAround": "À pied ou à vélo ; train rapide depuis Vientiane.",
@@ -104,13 +188,25 @@
       "slug": "vang-vieng",
       "name": "Vang Vieng",
       "nights": "2 nuits",
-      "for": ["energique", "explorateur"],
+      "for": [
+        "energique",
+        "explorateur"
+      ],
       "summary": "Des pitons karstiques, des lagons bleus et des activités de plein air.",
       "sleep": "Au bord de la rivière Nam Song.",
       "see": [
-        { "name": "Les lagons bleus", "note": "Des bassins pour se baigner." },
-        { "name": "Le kayak sur la Nam Song", "note": "Au milieu des pains de sucre." },
-        { "name": "Le point de vue de Nam Xay", "note": "Une montée raide pour une vue spectaculaire." }
+        {
+          "name": "Les lagons bleus",
+          "note": "Des bassins pour se baigner."
+        },
+        {
+          "name": "Le kayak sur la Nam Song",
+          "note": "Au milieu des pains de sucre."
+        },
+        {
+          "name": "Le point de vue de Nam Xay",
+          "note": "Une montée raide pour une vue spectaculaire."
+        }
       ],
       "hidden": [],
       "eat": "Les restaurants au bord de la rivière.",
@@ -121,16 +217,31 @@
       "slug": "4000-iles",
       "name": "Les 4 000 îles (Si Phan Don)",
       "nights": "3 nuits",
-      "for": ["lent", "tous"],
+      "for": [
+        "lent",
+        "tous"
+      ],
       "summary": "Un archipel sur le Mékong, ses hamacs, ses chutes et ses rares dauphins d'eau douce.",
       "sleep": "Sur Don Det ou Don Khon.",
       "see": [
-        { "name": "Les chutes de Khone Phapheng", "note": "Les plus larges d'Asie du Sud-Est." },
-        { "name": "Les chutes de Li Phi", "note": "Sur Don Khon, à vélo." },
-        { "name": "Le Vat Phou", "note": "Un temple khmer classé à l'Unesco, près de Champassak." }
+        {
+          "name": "Les chutes de Khone Phapheng",
+          "note": "Les plus larges d'Asie du Sud-Est."
+        },
+        {
+          "name": "Les chutes de Li Phi",
+          "note": "Sur Don Khon, à vélo."
+        },
+        {
+          "name": "Le Vat Phou",
+          "note": "Un temple khmer classé à l'Unesco, près de Champassak."
+        }
       ],
       "hidden": [
-        { "name": "Le plateau des Bolovens", "note": "Cascades et plantations de café." }
+        {
+          "name": "Le plateau des Bolovens",
+          "note": "Cascades et plantations de café."
+        }
       ],
       "eat": "Le poisson du Mékong grillé.",
       "getAround": "Vol vers Paksé, puis bus et bateau.",
@@ -141,30 +252,77 @@
     {
       "days": 10,
       "title": "Le Laos du nord",
-      "for": ["tous", "lent"],
+      "for": [
+        "tous",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 et 2", "place": "Vientiane", "note": "Arrivée." },
-        { "days": "Jours 3 et 4", "place": "Vang Vieng", "note": "En train rapide." },
-        { "days": "Jours 5 à 9", "place": "Luang Prabang", "note": "Temples, Kuang Si, Pak Ou." },
-        { "days": "Jour 10", "place": "Retour", "note": "Vol depuis Luang Prabang." }
+        {
+          "days": "Jours 1 et 2",
+          "place": "Vientiane",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 3 et 4",
+          "place": "Vang Vieng",
+          "note": "En train rapide."
+        },
+        {
+          "days": "Jours 5 à 9",
+          "place": "Luang Prabang",
+          "note": "Temples, Kuang Si, Pak Ou."
+        },
+        {
+          "days": "Jour 10",
+          "place": "Retour",
+          "note": "Vol depuis Luang Prabang."
+        }
       ]
     },
     {
       "days": 15,
       "title": "Le Laos du nord au sud",
-      "for": ["explorateur", "lent"],
+      "for": [
+        "explorateur",
+        "lent"
+      ],
       "steps": [
-        { "days": "Jours 1 à 5", "place": "Luang Prabang", "note": "Arrivée." },
-        { "days": "Jours 6 et 7", "place": "Vang Vieng", "note": "Train." },
-        { "days": "Jour 8", "place": "Vientiane", "note": "Vol vers Paksé." },
-        { "days": "Jours 9 à 15", "place": "Bolovens et 4 000 îles", "note": "Retour via Paksé." }
+        {
+          "days": "Jours 1 à 5",
+          "place": "Luang Prabang",
+          "note": "Arrivée."
+        },
+        {
+          "days": "Jours 6 et 7",
+          "place": "Vang Vieng",
+          "note": "Train."
+        },
+        {
+          "days": "Jour 8",
+          "place": "Vientiane",
+          "note": "Vol vers Paksé."
+        },
+        {
+          "days": "Jours 9 à 15",
+          "place": "Bolovens et 4 000 îles",
+          "note": "Retour via Paksé."
+        }
       ]
     }
   ],
   "transport": [
-    { "title": "Le train rapide", "text": "Vientiane-Vang Vieng-Luang Prabang en quelques heures ; billets à réserver à l'avance." },
-    { "title": "Les bus et minivans", "text": "Lents sur les routes de montagne." },
-    { "title": "Le bateau sur le Mékong", "text": "La descente lente depuis la Thaïlande en 2 jours." }
+    {
+      "title": "Le train rapide",
+      "text": "Vientiane-Vang Vieng-Luang Prabang en quelques heures ; billets à réserver à l'avance."
+    },
+    {
+      "title": "Les bus et minivans",
+      "text": "Lents sur les routes de montagne."
+    },
+    {
+      "title": "Le bateau sur le Mékong",
+      "text": "La descente lente depuis la Thaïlande en 2 jours."
+    }
   ],
   "culture": [
     "Le bouddhisme rythme la vie : tenue couvrante et chaussures enlevées dans les temples.",
@@ -173,9 +331,21 @@
     "« Bo pen nyang » (pas de souci) résume la philosophie locale."
   ],
   "phrases": [
-    { "fr": "Bonjour", "local": "ສະບາຍດີ", "say": "sabaïdi" },
-    { "fr": "Merci", "local": "ຂອບໃຈ", "say": "khop tchaï" },
-    { "fr": "Pas de souci", "local": "ບໍ່ເປັນຫຍັງ", "say": "bo pen nyang" }
+    {
+      "fr": "Bonjour",
+      "local": "ສະບາຍດີ",
+      "say": "sabaïdi"
+    },
+    {
+      "fr": "Merci",
+      "local": "ຂອບໃຈ",
+      "say": "khop tchaï"
+    },
+    {
+      "fr": "Pas de souci",
+      "local": "ບໍ່ເປັນຫຍັງ",
+      "say": "bo pen nyang"
+    }
   ],
   "checklist": [
     "Passeport valable 6 mois après la sortie",
@@ -186,9 +356,21 @@
     "Répulsif anti-moustiques"
   ],
   "faq": [
-    { "q": "Faut-il un visa pour le Laos ?", "a": "Oui. Il s'obtient en ligne, à l'ambassade ou à l'arrivée dans certains postes-frontières. Le passeport doit être valable 6 mois après la sortie." },
-    { "q": "Le Laos est-il sûr ?", "a": "Le pays est en vigilance renforcée mais globalement sûr. Évite la frontière birmane et ne quitte pas les routes en campagne sans guide, à cause des munitions non explosées." },
-    { "q": "Quand partir au Laos ?", "a": "De novembre à février. Mars-avril est très chaud et enfumé dans le nord ; la saison des pluies rend les paysages très verts." },
-    { "q": "Quel budget pour 10 jours au Laos ?", "a": "Compte environ 750 000 à 2 250 000 ₭ par jour seul et 600 000 à 1 750 000 ₭ par personne à deux, hors vols. Ces montants sont des estimations à vérifier." }
+    {
+      "q": "Faut-il un visa pour le Laos ?",
+      "a": "Oui. Il s'obtient en ligne, à l'ambassade ou à l'arrivée dans certains postes-frontières. Le passeport doit être valable 6 mois après la sortie."
+    },
+    {
+      "q": "Le Laos est-il sûr ?",
+      "a": "Le pays est en vigilance renforcée mais globalement sûr. Évite la frontière birmane et ne quitte pas les routes en campagne sans guide, à cause des munitions non explosées."
+    },
+    {
+      "q": "Quand partir au Laos ?",
+      "a": "De novembre à février. Mars-avril est très chaud et enfumé dans le nord ; la saison des pluies rend les paysages très verts."
+    },
+    {
+      "q": "Quel budget pour 10 jours au Laos ?",
+      "a": "Compte environ 750 000 à 2 250 000 ₭ par jour seul et 600 000 à 1 750 000 ₭ par personne à deux, hors vols. Ces montants sont des estimations à vérifier."
+    }
   ]
 }

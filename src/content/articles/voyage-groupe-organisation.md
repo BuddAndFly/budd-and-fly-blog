@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/croatie/hero.jpg"
+  alt: "Les remparts et la vieille ville de Dubrovnik"
+  credit:
+    author: "kallerna"
+    license: "CC BY-SA 4.0"
+    url: "https://commons.wikimedia.org/wiki/File:Dubrovnik_Old_Town_1.jpg"
 destinations: ["croatie", "portugal", "islande", "maroc"]
 ---
 

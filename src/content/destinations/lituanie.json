@@ -12,15 +12,7 @@
     "title": "Guide Lituanie : Vilnius, Trakai, isthme de Courlande",
     "description": "Préparer un voyage en Lituanie : papiers, sécurité, meilleure saison, budget, Vilnius, Trakai, Kaunas, l'isthme de Courlande. Guide PDF gratuit."
   },
-  "hero": {
-    "src": "/images/destinations/lituanie/hero.jpg",
-    "alt": "Le château de Trakai sur son lac",
-    "credit": {
-      "author": "Diliff",
-      "license": "CC BY-SA 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Trakai_Island_Castle_Chapel,_Lithuania_-_Diliff.jpg"
-    }
-  },
+  "hero": null,
   "summary": "La Lituanie se visite de mai à septembre. Une carte d'identité suffit. Vilnius et sa vieille ville baroque, le château sur l'eau de Trakai et les dunes de l'isthme de Courlande forment un voyage varié. Attention : la moitié sud de l'isthme appartient à la Russie (Kaliningrad), en zone formellement déconseillée.",
   "essentials": {
     "bestPeriod": "Mai à septembre",

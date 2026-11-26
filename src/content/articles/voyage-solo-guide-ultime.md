@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/japon/hero.jpg"
+  alt: "La pagode Chureito et le mont Fuji au coucher du soleil"
+  credit:
+    author: "Supanut Arunoprayote"
+    license: "CC BY 4.0"
+    url: "https://commons.wikimedia.org/wiki/File:Chureito_Pagoda_and_Mount_Fuji_20241022.jpg"
 destinations: ["japon", "portugal", "thailande", "vietnam", "nouvelle-zelande"]
 ---
 

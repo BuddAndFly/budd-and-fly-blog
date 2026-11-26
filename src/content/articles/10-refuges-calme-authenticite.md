@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/slovenie/hero.jpg"
+  alt: "Le lac de Bled au crépuscule"
+  credit:
+    author: "Mihael Grmek"
+    license: "CC BY-SA 3.0"
+    url: "https://commons.wikimedia.org/wiki/File:Panorama_Bled_01.jpg"
 destinations: ["slovenie", "georgie", "laos", "cap-vert", "estonie", "sri-lanka", "fidji", "bhoutan", "uruguay", "ile-maurice"]
 ---
 

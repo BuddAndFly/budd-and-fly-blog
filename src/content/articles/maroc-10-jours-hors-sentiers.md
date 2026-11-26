@@ -7,7 +7,13 @@ status: "brouillon"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/maroc/hero.jpg"
+  alt: "Une ruelle bleue de Chefchaouen"
+  credit:
+    author: "Fbrandao.1963"
+    license: "CC BY-SA 4.0"
+    url: "https://commons.wikimedia.org/wiki/File:2018_01_(Blue)_-_Chaouen.jpg"
 destinations: ["maroc"]
 ---
 

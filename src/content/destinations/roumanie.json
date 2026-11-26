@@ -12,15 +12,7 @@
     "title": "Guide Roumanie : Transylvanie, budget, quand partir",
     "description": "Préparer un voyage en Roumanie : formalités, meilleure saison, budget, Bucarest, Brasov, Sibiu, Maramures, Bucovine. Guide PDF gratuit."
   },
-  "hero": {
-    "src": "/images/destinations/roumanie/hero.jpg",
-    "alt": "Le château de Bran en Transylvanie",
-    "credit": {
-      "author": "Myrabella",
-      "license": "CC BY-SA 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Bran_seen_from_Bran_Castle.jpg"
-    }
-  },
+  "hero": null,
   "summary": "La Roumanie se visite de mai à octobre, quand les Carpates sont accessibles et les villages fleuris. Pays de l'Union européenne : la carte d'identité suffit, mais un passeport est conseillé si ta carte a été prolongée de 5 ans. Les villes saxonnes de Transylvanie, les églises en bois du Maramureș et les monastères peints de Bucovine composent un voyage authentique et abordable.",
   "essentials": {
     "bestPeriod": "Mai à octobre",
