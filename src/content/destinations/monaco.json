@@ -108,6 +108,10 @@
     },
     "checkedAt": "2026-11-26"
   },
+  "freeTip": {
+    "title": "La relève de la garde devant le palais",
+    "text": "Chaque jour en fin de matinée, les carabiniers du prince assurent la relève sur la place du Palais, en accès libre."
+  },
   "cities": [
     {
       "slug": "monaco-ville",

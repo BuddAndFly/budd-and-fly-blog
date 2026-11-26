@@ -119,6 +119,10 @@
     },
     "checkedAt": "2026-11-24"
   },
+  "freeTip": {
+    "title": "Les jardins d'Upper Barrakka à La Valette",
+    "text": "Ces jardins dominent le Grand Port et les Trois Cités. À midi, on y assiste au tir du canon de la batterie du Salut, juste en contrebas."
+  },
   "cities": [
     {
       "slug": "la-valette",

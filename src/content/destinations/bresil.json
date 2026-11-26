@@ -121,6 +121,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "L'escalier Selarón à Rio",
+    "text": "Un escalier recouvert de carreaux de céramique du monde entier, entre les quartiers de Lapa et de Santa Teresa. Viens tôt pour l'avoir presque pour toi."
+  },
   "cities": [
     {
       "slug": "rio-de-janeiro",

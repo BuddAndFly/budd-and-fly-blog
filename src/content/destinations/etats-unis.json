@@ -125,6 +125,10 @@
     },
     "checkedAt": "2026-11-23"
   },
+  "freeTip": {
+    "title": "Le ferry de Staten Island à New York",
+    "text": "Ce ferry gratuit traverse la baie et passe devant la statue de la Liberté et la pointe de Manhattan."
+  },
   "cities": [
     {
       "slug": "new-york",

@@ -118,6 +118,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "La balade côtière de Bondi à Coogee",
+    "text": "À Sydney, un sentier en bord de falaise relie plusieurs plages et piscines naturelles. Le plus beau se fait tôt le matin."
+  },
   "cities": [
     {
       "slug": "sydney",

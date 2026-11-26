@@ -121,6 +121,10 @@
     },
     "checkedAt": "2026-11-23"
   },
+  "freeTip": {
+    "title": "Le mirador de San Nicolás à Grenade",
+    "text": "Dans le quartier de l'Albaicín, cette place offre la plus belle vue sur l'Alhambra et la Sierra Nevada, surtout au coucher du soleil."
+  },
   "cities": [
     {
       "slug": "barcelone",

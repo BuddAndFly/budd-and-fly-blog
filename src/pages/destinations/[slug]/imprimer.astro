@@ -115,6 +115,12 @@ const chk = (s: string | null) => (s ? `vérifié le ${frDate(s)}` : 'à vérifi
         </table>
         <p class="small">{g.budget.note} ({g.budget.checkedAt ? `prix relevés le ${frDate(g.budget.checkedAt)}` : 'estimation à vérifier'})</p>
       </>}
+      {g.freeTip && (
+        <div class="sbox freetip">
+          <h3>Le bon plan gratuit · {g.freeTip.title}</h3>
+          <p>{g.freeTip.text}</p>
+        </div>
+      )}
       <h2>Se déplacer</h2>
       {g.transport.map((t) => <div class="titem"><h3>{t.title}</h3><p>{t.text}</p></div>)}
     </section>

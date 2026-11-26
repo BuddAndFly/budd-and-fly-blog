@@ -118,6 +118,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "La baignade dans le Rhin à Bâle",
+    "text": "L'été, les Bâlois se laissent porter par le courant du Rhin, leurs affaires dans un sac étanche. Respecte les consignes de sécurité locales."
+  },
   "cities": [
     {
       "slug": "lucerne",

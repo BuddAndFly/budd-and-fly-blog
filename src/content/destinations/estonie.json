@@ -118,6 +118,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "Les points de vue de la colline de Toompea à Tallinn",
+    "text": "Les belvédères Kohtuotsa et Patkuli donnent une vue sur les toits rouges de la vieille ville et le port."
+  },
   "cities": [
     {
       "slug": "tallinn",

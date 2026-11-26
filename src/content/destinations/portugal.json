@@ -120,6 +120,10 @@
     },
     "checkedAt": "2026-11-23"
   },
+  "freeTip": {
+    "title": "Les miradouros de Lisbonne",
+    "text": "Lisbonne compte de nombreux belvédères publics, comme ceux de Senhora do Monte ou de Santa Luzia, avec des vues sur les toits et le Tage."
+  },
   "cities": [
     {
       "slug": "lisbonne",

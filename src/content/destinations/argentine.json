@@ -119,6 +119,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "La Reserva Ecológica Costanera Sur à Buenos Aires",
+    "text": "Un grand espace naturel au bord du Río de la Plata, à quelques minutes de Puerto Madero : sentiers, lagunes et oiseaux, en accès libre."
+  },
   "cities": [
     {
       "slug": "buenos-aires",

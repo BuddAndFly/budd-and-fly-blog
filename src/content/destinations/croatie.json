@@ -123,6 +123,10 @@
     },
     "checkedAt": "2026-11-24"
   },
+  "freeTip": {
+    "title": "Le coucher de soleil au mont Srđ, à pied",
+    "text": "Au-dessus de Dubrovnik, un sentier en lacets monte jusqu'au sommet du mont Srđ : la vue sur la vieille ville est la même que depuis le téléphérique."
+  },
   "cities": [
     {
       "slug": "dubrovnik",

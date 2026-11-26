@@ -121,6 +121,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "La randonnée urbaine sur la muraille de Séoul",
+    "text": "Les anciens remparts de la ville se suivent sur des sentiers balisés, avec des vues sur les palais et les tours de Séoul."
+  },
   "cities": [
     {
       "slug": "seoul",

@@ -120,6 +120,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "Le marché des sorcières à La Paz",
+    "text": "Dans les ruelles proches de la calle Linares, des étals vendent plantes, amulettes et offrandes traditionnelles à la Pachamama. La promenade ne coûte rien."
+  },
   "cities": [
     {
       "slug": "la-paz",

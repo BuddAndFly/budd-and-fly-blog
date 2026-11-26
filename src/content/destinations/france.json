@@ -104,6 +104,10 @@
     "checkedAt": "2026-11-26"
   },
   "safety": null,
+  "freeTip": {
+    "title": "Le sentier des douaniers (GR 34) en Bretagne",
+    "text": "Le long de la côte bretonne, ce sentier côtier balisé longe falaises, criques et phares. On peut en marcher une portion de quelques heures."
+  },
   "cities": [
     {
       "slug": "paris",

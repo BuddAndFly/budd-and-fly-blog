@@ -120,6 +120,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "Le Malecón de La Havane au coucher du soleil",
+    "text": "La promenade du front de mer est le salon des Havanais : musiciens, pêcheurs et couples s'y retrouvent chaque soir."
+  },
   "cities": [
     {
       "slug": "la-havane",

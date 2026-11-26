@@ -113,6 +113,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "Les ruelles de Sidi Bou Saïd",
+    "text": "Ce village blanc et bleu au-dessus du golfe de Tunis se découvre à pied, jusqu'aux points de vue sur la mer."
+  },
   "cities": [
     {
       "slug": "tunis",

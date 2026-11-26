@@ -119,6 +119,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "L'aumône des moines à Luang Prabang",
+    "text": "À l'aube, les moines défilent dans les rues pour recevoir le riz des habitants. Observe en silence et à distance, sans flash, et ne participe que si tu respectes la tradition."
+  },
   "cities": [
     {
       "slug": "luang-prabang",

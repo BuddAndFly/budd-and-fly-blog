@@ -111,6 +111,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "La Rambla de Montevideo",
+    "text": "Une promenade de plusieurs kilomètres le long du Río de la Plata, où les habitants se retrouvent autour du maté au coucher du soleil."
+  },
   "cities": [
     {
       "slug": "montevideo",

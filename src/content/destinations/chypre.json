@@ -121,6 +121,10 @@
     },
     "checkedAt": "2026-11-24"
   },
+  "freeTip": {
+    "title": "Passer la Ligne verte à pied à Nicosie",
+    "text": "Au bout de la rue Ledra, un point de passage piéton permet de passer dans la partie nord de la ville, passeport ou carte d'identité en main. Une expérience unique dans une capitale divisée."
+  },
   "cities": [
     {
       "slug": "paphos",

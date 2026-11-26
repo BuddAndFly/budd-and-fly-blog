@@ -127,6 +127,10 @@
     },
     "checkedAt": "2026-11-23"
   },
+  "freeTip": {
+    "title": "Les rues piétonnes du lac Hoan Kiem à Hanoï",
+    "text": "Le week-end, les rues autour du lac sont fermées aux voitures : familles, musiciens et jeux traditionnels envahissent la chaussée."
+  },
   "cities": [
     {
       "slug": "hanoi",

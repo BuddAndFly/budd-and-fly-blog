@@ -118,6 +118,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "Le cimetière central de Vienne",
+    "text": "Un immense cimetière-parc où reposent Beethoven, Schubert ou Brahms, avec un mémorial à Mozart. On s'y promène librement, avec ses chevreuils et ses allées arborées."
+  },
   "cities": [
     {
       "slug": "vienne",

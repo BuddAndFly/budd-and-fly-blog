@@ -123,6 +123,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "Le Bund de Shanghai, de jour comme de nuit",
+    "text": "La promenade le long du fleuve Huangpu fait face aux gratte-ciel de Pudong ; le soir, les deux rives s'illuminent."
+  },
   "cities": [
     {
       "slug": "pekin",

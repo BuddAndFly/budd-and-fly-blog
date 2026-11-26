@@ -121,6 +121,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "La marche dans le parc de Vitosha depuis Sofia",
+    "text": "La montagne de Vitosha domine la capitale : les sentiers partent à la sortie de la ville, avec des panoramas sur Sofia."
+  },
   "cities": [
     {
       "slug": "sofia",

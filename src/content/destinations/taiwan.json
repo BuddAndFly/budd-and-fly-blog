@@ -118,6 +118,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "La randonnée de l'Elephant Mountain à Taipei",
+    "text": "Un escalier dans la forêt mène à un point de vue sur la tour Taipei 101 et toute la ville, en une petite demi-heure."
+  },
   "cities": [
     {
       "slug": "taipei",

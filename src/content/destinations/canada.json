@@ -112,6 +112,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "Le belvédère du mont Royal à Montréal",
+    "text": "Une montée à pied dans le parc du mont Royal mène au belvédère Kondiaronk, avec la vue la plus célèbre sur le centre-ville."
+  },
   "cities": [
     {
       "slug": "montreal-quebec",

@@ -121,6 +121,10 @@
     },
     "checkedAt": "2026-11-24"
   },
+  "freeTip": {
+    "title": "Le toit de l'opéra d'Oslo",
+    "text": "Le toit en marbre blanc de l'opéra descend jusqu'au fjord : on y marche librement, avec vue sur le port et la ville."
+  },
   "cities": [
     {
       "slug": "oslo",

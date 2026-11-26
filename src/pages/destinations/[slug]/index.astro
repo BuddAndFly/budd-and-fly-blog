@@ -103,6 +103,14 @@ const essentials = [
         <MonthPicker months={g.months} name={g.name} prep={g.prep} />
       </section>
 
+      {g.freeTip && (
+        <aside class="freetip" aria-label="Le bon plan gratuit">
+          <span class="freetip__kicker">Le bon plan gratuit</span>
+          <p class="freetip__title">{g.freeTip.title}</p>
+          <p class="freetip__text">{g.freeTip.text}</p>
+        </aside>
+      )}
+
       <section id="villes" class="block">
         <h2>Les villes à ne pas manquer</h2>
         <div class="cities">
@@ -227,6 +235,10 @@ const essentials = [
 </Base>
 
 <style>
+  .freetip { margin: 40px 0 8px; padding: 24px 26px; background: var(--sand); border-left: 4px solid var(--accent); }
+  .freetip__kicker { font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+  .freetip__title { font-family: var(--serif); font-size: 26px; line-height: 1.2; margin: 8px 0 6px; color: var(--ink); }
+  .freetip__text { margin: 0; color: var(--ink-soft); }
   .crumbs { font-size: 13px; font-weight: 600; letter-spacing: .22em; text-transform: uppercase; }
   .crumbs a { color: inherit; text-decoration: none; }
   .review { margin-top: 24px; font-size: 14px; background: #fbefe2; color: #6b3a0e; }

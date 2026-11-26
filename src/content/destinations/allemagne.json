@@ -118,6 +118,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "La coupole du Reichstag à Berlin",
+    "text": "La coupole de verre du Parlement se visite sans payer, sur inscription préalable en ligne. Vue à 360° sur Berlin et sur l'hémicycle en dessous."
+  },
   "cities": [
     {
       "slug": "berlin",

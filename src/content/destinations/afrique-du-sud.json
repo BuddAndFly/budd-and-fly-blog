@@ -111,6 +111,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "L'ascension de Lion's Head au Cap",
+    "text": "Une randonnée de quelques heures jusqu'au sommet, avec une vue sur la montagne de la Table, l'océan et la ville. Pars en groupe et de jour."
+  },
   "cities": [
     {
       "slug": "le-cap",

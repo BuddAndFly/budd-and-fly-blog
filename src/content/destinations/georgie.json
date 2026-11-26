@@ -122,6 +122,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "La forteresse de Narikala à Tbilissi, à pied",
+    "text": "On y monte à pied depuis la vieille ville pour une vue sur toute la capitale et le jardin botanique voisin."
+  },
   "cities": [
     {
       "slug": "tbilissi",

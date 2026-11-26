@@ -123,6 +123,10 @@
     },
     "checkedAt": "2026-11-23"
   },
+  "freeTip": {
+    "title": "Le trou de la serrure de l'Aventin à Rome",
+    "text": "Sur la colline de l'Aventin, par la serrure du portail de l'ordre de Malte, on aperçoit la coupole de Saint-Pierre parfaitement cadrée. Juste à côté, le jardin des Orangers offre une vue sur la ville."
+  },
   "cities": [
     {
       "slug": "rome",

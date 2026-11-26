@@ -114,6 +114,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "La Cascade d'Erevan",
+    "text": "Un immense escalier monumental orné de sculptures, avec une vue sur la ville et, par temps clair, sur le mont Ararat."
+  },
   "cities": [
     {
       "slug": "erevan",

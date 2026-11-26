@@ -121,6 +121,10 @@
     },
     "checkedAt": "2026-11-24"
   },
+  "freeTip": {
+    "title": "La National Gallery of Ireland à Dublin",
+    "text": "Le musée national des beaux-arts présente ses collections permanentes en accès libre, de Caravage aux peintres irlandais."
+  },
   "cities": [
     {
       "slug": "dublin",

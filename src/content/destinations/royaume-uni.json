@@ -122,6 +122,10 @@
     },
     "checkedAt": "2026-11-24"
   },
+  "freeTip": {
+    "title": "Les grands musées nationaux de Londres",
+    "text": "Le British Museum, la National Gallery ou la Tate Modern ont des collections permanentes en accès libre."
+  },
   "cities": [
     {
       "slug": "londres",

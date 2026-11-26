@@ -122,6 +122,10 @@
     },
     "checkedAt": "2026-11-24"
   },
+  "freeTip": {
+    "title": "La rivière chaude de Reykjadalur",
+    "text": "Près de Hveragerði, une randonnée d'environ une heure mène à une rivière d'eau chaude où l'on se baigne en pleine nature. Le sentier est libre d'accès ; le parking est payant."
+  },
   "cities": [
     {
       "slug": "reykjavik",

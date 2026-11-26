@@ -118,6 +118,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "L'île-forteresse de Suomenlinna",
+    "text": "Cette forteresse classée à l'Unesco, à quelques minutes d'Helsinki, se visite librement ; seul le ferry public est payant."
+  },
   "cities": [
     {
       "slug": "helsinki",

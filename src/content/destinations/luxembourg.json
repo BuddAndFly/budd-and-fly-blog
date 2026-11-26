@@ -117,6 +117,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "Les transports publics gratuits dans tout le pays",
+    "text": "Depuis 2020, bus, trains et tramways sont gratuits pour tous au Luxembourg (hors première classe en train)."
+  },
   "cities": [
     {
       "slug": "luxembourg-ville",

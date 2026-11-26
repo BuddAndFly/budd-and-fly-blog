@@ -108,6 +108,10 @@
     },
     "checkedAt": "2026-11-26"
   },
+  "freeTip": {
+    "title": "Le sentier de la vallée du Madriu",
+    "text": "La vallée classée à l'Unesco se parcourt à pied depuis Escaldes-Engordany, sans route goudronnée, entre bergeries et terrasses de pierre."
+  },
   "cities": [
     {
       "slug": "andorre-la-vieille",

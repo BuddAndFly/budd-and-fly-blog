@@ -118,6 +118,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "Le marché central de Riga",
+    "text": "Installé dans d'anciens hangars à zeppelins, ce grand marché classé à l'Unesco se parcourt librement : poissons fumés, pains de seigle et produits de saison."
+  },
   "cities": [
     {
       "slug": "riga",

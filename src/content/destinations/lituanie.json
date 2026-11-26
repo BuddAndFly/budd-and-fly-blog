@@ -118,6 +118,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "La Constitution de la république d'Užupis",
+    "text": "Dans le quartier bohème de Vilnius, une rue affiche les articles humoristiques de la « république » d'Užupis, traduits en de nombreuses langues, dont le français."
+  },
   "cities": [
     {
       "slug": "vilnius",

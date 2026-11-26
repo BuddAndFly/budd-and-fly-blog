@@ -128,6 +128,10 @@
     },
     "checkedAt": "2026-11-22"
   },
+  "freeTip": {
+    "title": "Les observatoires de la mairie de Tokyo",
+    "text": "À Shinjuku, les tours du gouvernement métropolitain ont des observatoires ouverts au public, avec vue sur la ville et, par temps clair, sur le mont Fuji."
+  },
   "cities": [
     {
       "slug": "tokyo",

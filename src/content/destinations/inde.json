@@ -121,6 +121,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "Le langar du Temple d'or d'Amritsar",
+    "text": "La cuisine communautaire du temple sikh sert des repas à tous les visiteurs, chaque jour, gratuitement. On s'assoit par terre avec les pèlerins ; tête couverte et pieds nus."
+  },
   "cities": [
     {
       "slug": "rajasthan",

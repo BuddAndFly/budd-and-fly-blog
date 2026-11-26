@@ -108,6 +108,10 @@
     },
     "checkedAt": "2026-11-26"
   },
+  "freeTip": {
+    "title": "Les mosquées de la capitale",
+    "text": "Les grandes mosquées de Bandar Seri Begawan se visitent en dehors des heures de prière, en tenue couvrante. Des robes sont parfois prêtées à l'entrée."
+  },
   "cities": [
     {
       "slug": "bandar-seri-begawan",

@@ -119,6 +119,10 @@
     },
     "checkedAt": "2026-11-24"
   },
+  "freeTip": {
+    "title": "La colline Gellért à Budapest",
+    "text": "Une montée à pied jusqu'au sommet donne une vue sur le Danube, le Parlement et les ponts de la ville."
+  },
   "cities": [
     {
       "slug": "budapest",

@@ -119,6 +119,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "La forteresse de Kalemegdan à Belgrade",
+    "text": "Un grand parc autour de la forteresse, au confluent de la Save et du Danube. Le coucher de soleil depuis les remparts est un rituel des Belgradois."
+  },
   "cities": [
     {
       "slug": "belgrade",

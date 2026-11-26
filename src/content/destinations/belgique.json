@@ -118,6 +118,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "Les parcours BD de Bruxelles",
+    "text": "Des dizaines de fresques de bande dessinée couvrent les façades du centre-ville. Un parcours se fait à pied, carte en main."
+  },
   "cities": [
     {
       "slug": "bruxelles",

@@ -121,6 +121,10 @@
     },
     "checkedAt": "2026-11-23"
   },
+  "freeTip": {
+    "title": "La colline de Philopappos à Athènes",
+    "text": "Face à l'Acropole, cette colline boisée offre l'une des plus belles vues sur le Parthénon, surtout au coucher du soleil."
+  },
   "cities": [
     {
       "slug": "athenes",

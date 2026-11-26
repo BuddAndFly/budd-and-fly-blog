@@ -110,6 +110,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "Le spectacle des fontaines de Dubaï",
+    "text": "Au pied de la Burj Khalifa, les fontaines dansent en musique chaque soir. Le spectacle se regarde depuis la promenade, sans payer."
+  },
   "cities": [
     {
       "slug": "dubai",

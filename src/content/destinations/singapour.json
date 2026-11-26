@@ -119,6 +119,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "Le spectacle de lumière des Supertrees",
+    "text": "Chaque soir, aux Gardens by the Bay, les arbres géants s'illuminent en musique. Le spectacle se regarde depuis le jardin, en accès libre."
+  },
   "cities": [
     {
       "slug": "marina-bay",

@@ -121,6 +121,10 @@
     },
     "checkedAt": "2026-11-24"
   },
+  "freeTip": {
+    "title": "Le pont ottoman de Kadiut, près de Benja",
+    "text": "Près de Përmet, un vieux pont de pierre enjambe la rivière Lengarica, à côté des sources chaudes de Benja, où l'on se baigne en plein air."
+  },
   "cities": [
     {
       "slug": "tirana",

@@ -116,6 +116,10 @@
     },
     "checkedAt": "2026-11-25"
   },
+  "freeTip": {
+    "title": "Le parc de Letná à Prague",
+    "text": "Ce parc sur les hauteurs offre une vue sur les ponts de la Vltava et la vieille ville, avec un grand jardin à bière l'été."
+  },
   "cities": [
     {
       "slug": "prague",

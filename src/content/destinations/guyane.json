@@ -101,6 +101,10 @@
     "checkedAt": "2026-11-26"
   },
   "safety": null,
+  "freeTip": {
+    "title": "La ponte des tortues à Awala-Yalimapo",
+    "text": "En saison, les tortues luth viennent pondre sur les plages d'Awala-Yalimapo. Observe-les de nuit, à distance, sans lampe ni flash, en suivant les consignes locales."
+  },
   "cities": [
     {
       "slug": "cayenne",
