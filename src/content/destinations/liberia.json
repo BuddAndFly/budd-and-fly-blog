@@ -12,7 +12,15 @@
     "title": "Guide Libéria : Monrovia, surf à Robertsport, forêts",
     "description": "Préparer un voyage au Libéria : visa obligatoire, fièvre jaune, paludisme, Monrovia, surf à Robertsport, parc national de Sapo. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/liberia/hero.jpg",
+    "alt": "La baie de Robertsport, au Liberia",
+    "credit": {
+      "author": "Juan Freire",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/12538656@N00/3269841787"
+    }
+  },
   "summary": "Le Libéria se visite de novembre à avril, en saison sèche. Un visa est obligatoire, et la vaccination contre la fièvre jaune est une condition d'entrée. Le pays est en vigilance renforcée, sauf certaines zones frontalières déconseillées. Monrovia, les vagues de Robertsport et les forêts du parc de Sapo sont les temps forts.",
   "essentials": {
     "bestPeriod": "Novembre à avril",
