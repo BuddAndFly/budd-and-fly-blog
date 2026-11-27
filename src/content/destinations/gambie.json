@@ -12,7 +12,15 @@
     "title": "Guide Gambie : plages, fleuve Gambie, oiseaux",
     "description": "Préparer un voyage en Gambie : visa gratuit à l'arrivée, fièvre jaune recommandée, paludisme, plages, réserves d'oiseaux, fleuve Gambie. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/gambie/hero.jpg",
+    "alt": "Le fleuve Gambie",
+    "credit": {
+      "author": "300td.org",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/18832004@N07/3518416654"
+    }
+  },
   "summary": "La Gambie se visite de novembre à mai, en saison sèche. Un visa gratuit de quinze jours, renouvelable, est délivré à l'arrivée. Tout le pays est en vigilance renforcée. Les plages de la côte atlantique, les réserves d'oiseaux et la remontée du fleuve Gambie sont les temps forts.",
   "essentials": {
     "bestPeriod": "Novembre à mai",

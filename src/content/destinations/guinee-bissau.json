@@ -12,7 +12,15 @@
     "title": "Guide Guinée-Bissau : archipel des Bijagos, Bissau",
     "description": "Préparer un voyage en Guinée-Bissau : visa obligatoire, fièvre jaune obligatoire, paludisme, Bissau, archipel des Bijagos. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/guinee-bissau/hero.jpg",
+    "alt": "Une plage de Canhabaque, dans l'archipel des Bijagos",
+    "credit": {
+      "author": "silver darling",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/51002488@N08/13801412614"
+    }
+  },
   "summary": "La Guinée-Bissau se visite de décembre à mai, en saison sèche. Un visa est obligatoire, à demander à l'ambassade, et la vaccination contre la fièvre jaune aussi. Le pays est en vigilance renforcée, et la frontière avec le Sénégal est déconseillée sauf raison impérative. L'archipel des Bijagos, réserve de biosphère, en est le joyau.",
   "essentials": {
     "bestPeriod": "Décembre à mai",

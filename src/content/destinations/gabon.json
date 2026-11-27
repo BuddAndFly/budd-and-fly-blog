@@ -12,7 +12,15 @@
     "title": "Guide Gabon : parcs de Loango et de la Lopé, Libreville",
     "description": "Préparer un voyage au Gabon : visa et fièvre jaune obligatoires, paludisme, Libreville, parcs nationaux de Loango, de la Lopé et de Pongara. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/gabon/hero.jpg",
+    "alt": "La plage du cap Estérias, près de Libreville",
+    "credit": {
+      "author": "D-Stanley",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/79721788@N00/45470981194"
+    }
+  },
   "summary": "Le Gabon se visite surtout de juin à septembre, pendant la grande saison sèche. Un visa et la vaccination contre la fièvre jaune sont obligatoires, avec des contrôles systématiques à l'arrivée. Le pays est couvert de forêts : ses parcs nationaux, comme Loango et la Lopé, sont le cœur du voyage.",
   "essentials": {
     "bestPeriod": "Juin à septembre",

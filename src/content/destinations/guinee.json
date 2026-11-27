@@ -12,7 +12,15 @@
     "title": "Guide Guinée : Fouta-Djalon, Conakry, îles de Loos",
     "description": "Préparer un voyage en Guinée : e-visa, fièvre jaune obligatoire, paludisme, Conakry, îles de Loos, randonnées du Fouta-Djalon. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/guinee/hero.jpg",
+    "alt": "Les paysages du Fouta-Djalon, en Guinée",
+    "credit": {
+      "author": "Maarten van der Bent",
+      "license": "CC BY-SA 2.0",
+      "url": "https://www.flickr.com/photos/76233712@N05/14582291826"
+    }
+  },
   "summary": "La Guinée se visite de novembre à mars, en saison sèche. Le visa se demande en ligne avant le départ, et la vaccination contre la fièvre jaune est une condition d'entrée. Le pays est en vigilance renforcée, sauf les frontières avec le Mali et la Côte d'Ivoire, déconseillées. Les cascades et plateaux du Fouta-Djalon et les îles de Loos sont les temps forts.",
   "essentials": {
     "bestPeriod": "Novembre à mars",
