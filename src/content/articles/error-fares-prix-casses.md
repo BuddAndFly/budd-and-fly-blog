@@ -7,7 +7,13 @@ status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/blog/error-fares-prix-casses-hero.jpg"
+  alt: "L'aile d'un avion au-dessus des nuages, au coucher du soleil"
+  credit:
+    author: "rumpleteaser from Nagoya, Japan"
+    license: "CC BY 2.0"
+    url: "https://commons.wikimedia.org/wiki/File:Airplane_sky_(6088628530).jpg"
 destinations: []
 images: []
 enBref: ["Une error fare est un tarif aérien publié par erreur, très en dessous du prix normal.", "Elles sont rares, courtes et corrigées vite.", "Réserve vite, puis n'engage rien de non remboursable avant l'émission du billet."]

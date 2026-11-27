@@ -7,7 +7,13 @@ status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/blog/albanie-riviera-secrete-hero.jpg"
+  alt: "Une rue fleurie de la vieille ville de Gjirokastër, en Albanie"
+  credit:
+    author: "Jocelyn Erskine-Kellie"
+    license: "CC BY-SA 4.0"
+    url: "https://commons.wikimedia.org/wiki/File:Gjirokaster,_Street_in_the_Old_Town.jpg"
 destinations: ["albanie"]
 images: []
 enBref: ["La Riviera albanaise s'étend de Vlora à Saranda, sur la mer Ionienne.", "Juin et septembre sont les meilleurs mois : mer chaude, prix raisonnables.", "En une semaine : col de Llogara, Dhërmi, Himarë, puis Saranda et Ksamil.", "Prolonge vers Gjirokastër, classée à l'Unesco."]

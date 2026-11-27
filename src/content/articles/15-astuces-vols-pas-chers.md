@@ -7,7 +7,13 @@ status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/blog/15-astuces-vols-pas-chers-hero.jpg"
+  alt: "Le tableau des départs d'un aéroport"
+  credit:
+    author: "Bobby Hidy"
+    license: "CC BY-SA 2.0"
+    url: "https://commons.wikimedia.org/wiki/File:Departures_board_at_Miami_Airport_in_Florida,_US.jpg"
 destinations: []
 images: []
 enBref: ["La flexibilité sur les dates et la destination est le levier le plus efficace.", "Compare plusieurs comparateurs, puis vérifie le prix sur le site de la compagnie.", "Vérifie toujours le prix final : bagages et options s'ajoutent vite.", "Effacer ses cookies ou viser un « jour magique » ne marche pas vraiment."]
