@@ -15,7 +15,7 @@ hero:
     license: "CC BY-SA 4.0"
     url: "https://commons.wikimedia.org/wiki/File:Alfama,_Lisbon_(DSC03371).jpg"
 destinations: ["portugal", "japon", "canada"]
-images: [{"src": "/images/destinations/japon/hero.jpg", "alt": "La pagode Chureito et le mont Fuji au coucher du soleil", "credit": {"author": "Supanut Arunoprayote", "license": "CC BY 4.0", "url": "https://commons.wikimedia.org/wiki/File:Chureito_Pagoda_and_Mount_Fuji_20241022.jpg"}}]
+images: [{"src": "/images/destinations/japon/hero.jpg", "alt": "La pagode Chureito et le mont Fuji au coucher du soleil", "credit": {"author": "Supanut Arunoprayote", "license": "CC BY 4.0", "url": "https://commons.wikimedia.org/wiki/File:Chureito_Pagoda_and_Mount_Fuji_20241022.jpg"}}, {"src": "/images/destinations/canada/hero.jpg", "alt": "Le lac Moraine dans les Rocheuses canadiennes", "credit": {"author": "Gorgo", "license": "Public domain", "url": "https://commons.wikimedia.org/wiki/File:Moraine_Lake_17092005.jpg"}}]
 enBref: ["Trois itinéraires d'une semaine : Portugal, Japon et Québec.", "La règle : deux ou trois étapes au maximum, avec des trajets courts.", "Le train relie les étapes au Portugal comme au Japon."]
 conseil: "Arrive tôt le premier jour et repars tard le dernier : tu gagnes presque une journée de voyage."
 faq: [{"q": "Que faire en une semaine au Japon ?", "a": "Tokyo pendant trois jours, une journée à Hakone, puis trois jours à Kyoto avec une demi-journée à Nara."}, {"q": "Que faire en une semaine au Québec ?", "a": "Montréal, puis la ville de Québec et les chutes Montmorency, et enfin Charlevoix et Tadoussac pour les baleines de juin à octobre."}]

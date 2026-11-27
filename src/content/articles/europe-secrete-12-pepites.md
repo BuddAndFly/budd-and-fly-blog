@@ -8,14 +8,14 @@ publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
 hero:
-  src: "/images/destinations/albanie/hero.jpg"
-  alt: "Des parasols de paille sur une plage de la Riviera albanaise"
+  src: "/images/destinations/montenegro/hero.jpg"
+  alt: "La baie de Kotor au Monténégro"
   credit:
     author: "Pudelek (Marcin Szala)"
     license: "CC BY-SA 3.0"
-    url: "https://commons.wikimedia.org/wiki/File:Ksamil,_Albania_-_beach.JPG"
+    url: "https://commons.wikimedia.org/wiki/File:Kotor_and_Boka_kotorska_-_view_from_city_wall.jpg"
 destinations: ["albanie", "montenegro", "macedoine-du-nord", "bosnie-herzegovine", "serbie", "roumanie", "bulgarie", "slovaquie", "slovenie", "estonie", "lettonie", "lituanie"]
-images: [{"src": "/images/destinations/montenegro/hero.jpg", "alt": "La baie de Kotor au Monténégro", "credit": {"author": "Pudelek (Marcin Szala)", "license": "CC BY-SA 3.0", "url": "https://commons.wikimedia.org/wiki/File:Kotor_and_Boka_kotorska_-_view_from_city_wall.jpg"}}, {"src": "/images/destinations/bulgarie/hero.jpg", "alt": "Une fresque du monastère de Rila", "credit": {"author": "Νικόλαος Κυριακάκης", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Religious_fresco_in_Rila_Monastery.jpg"}}, {"src": "/images/destinations/lituanie/hero.jpg", "alt": "Le château de Trakai sur son lac", "credit": {"author": "Scotch Mist", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Trakai_Island_11.jpg"}}]
+images: [{"src": "/images/destinations/macedoine-du-nord/hero.jpg", "alt": "L'église Saint-Jean de Kaneo au-dessus du lac d'Ohrid", "credit": {"author": "kallerna", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Church_of_St._John_at_Kaneo_6.jpg"}}, {"src": "/images/destinations/slovaquie/hero.jpg", "alt": "Le lac Štrbské Pleso dans les Hautes Tatras", "credit": {"author": "Ingo Mehling", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Strbske_Pleso_-_Mountains.jpg"}}, {"src": "/images/destinations/lituanie/hero.jpg", "alt": "Le château de Trakai sur son lac", "credit": {"author": "Scotch Mist", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Trakai_Island_11.jpg"}}]
 enBref: ["Douze destinations européennes méconnues, des Balkans aux pays baltes.", "Villes ottomanes, lacs, montagnes et vieilles villes classées.", "Plusieurs pays sont hors Union européenne : le passeport est le choix le plus sûr."]
 conseil: "Pour combiner plusieurs de ces étapes dans les Balkans, suis notre circuit en bus de trois semaines."
 faq: [{"q": "Quelles destinations méconnues en Europe ?", "a": "Berat et Gjirokastër en Albanie, la baie de Kotor, Ohrid, Mostar, Novi Sad, Sibiu, Plovdiv, les Hautes Tatras, la vallée de la Soča, Tallinn, Riga et l'isthme de Courlande."}, {"q": "La carte d'identité suffit-elle ?", "a": "Pas toujours : certains pays n'acceptent pas les cartes d'identité prolongées de 5 ans. Le passeport est le choix le plus sûr."}]

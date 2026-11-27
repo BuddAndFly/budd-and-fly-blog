@@ -12,7 +12,15 @@
     "title": "Guide Malawi : lac Malawi, safaris, visa et sécurité",
     "description": "Préparer un voyage au Malawi : visa obligatoire depuis 2026, paludisme, prudence routière, lac Malawi, Cape Maclear, Liwonde, Zomba. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/malawi/hero.jpg",
+    "alt": "Le lac Malawi à Cape Maclear",
+    "credit": {
+      "author": "Joachim Huber",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Haliaeetus_vocifer_-Cape_Maclear,_Malawi_-fishing-8.jpg"
+    }
+  },
   "summary": "Le Malawi se visite de mai à octobre, en saison sèche. Depuis janvier 2026, un visa est obligatoire pour les Français, en ligne ou à l'arrivée à l'aéroport. Tout le pays est en vigilance renforcée, surtout à cause du risque routier. Le lac Malawi, ses plages et ses villages sont le cœur du voyage.",
   "essentials": {
     "bestPeriod": "Mai à octobre",

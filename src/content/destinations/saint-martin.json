@@ -12,7 +12,15 @@
     "title": "Guide Saint-Martin : plages, Grand-Case, île Pinel",
     "description": "Préparer un voyage à Saint-Martin : passeport si transit par Sint Maarten, ouragans, Marigot, Grand-Case, Orient Bay, île Pinel. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/saint-martin/hero.jpg",
+    "alt": "La baie Orientale, à Saint-Martin",
+    "credit": {
+      "author": "Clavius66",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Orient_Bay,_SXM_island_in_the_Caribbean.JPG"
+    }
+  },
   "summary": "Saint-Martin se visite de décembre à avril. L'île est partagée entre la partie française et Sint Maarten, néerlandaise et hors Union européenne : Service-public indique qu'un passeport est nécessaire pour aller à Saint-Martin quand on transite par un pays étranger. Plages, gastronomie de Grand-Case et îlots sont les temps forts.",
   "essentials": {
     "bestPeriod": "Décembre à avril",

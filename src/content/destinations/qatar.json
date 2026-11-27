@@ -12,7 +12,15 @@
     "title": "Guide Qatar : Doha, escale, visa, sécurité",
     "description": "Préparer une escale au Qatar : sans visa 90 jours, contexte régional, meilleure saison, Doha, le musée d'Art islamique, le désert. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/qatar/hero.jpg",
+    "alt": "Le musée d'Art islamique de Doha",
+    "credit": {
+      "author": "Alex Sergeev (www.asergeev.com)",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:View_of_the_Persian_Gulf_and_the_Museum_of_Islamic_Art_in_Qatar_at_dusk.jpg"
+    }
+  },
   "summary": "Le Qatar se visite de novembre à mars ; l'été est extrêmement chaud. Pas de visa pour moins de 90 jours, avec un passeport valable plus de 6 mois, un billet retour et un justificatif d'hébergement. La criminalité est parmi les plus faibles du monde, mais la situation régionale reste très instable : suis les mises à jour de France Diplomatie. Doha se prête bien à une escale de 2 ou 3 jours.",
   "essentials": {
     "bestPeriod": "Novembre à mars",

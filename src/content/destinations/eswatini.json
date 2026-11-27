@@ -12,7 +12,15 @@
     "title": "Guide Eswatini : réserves, rhinocéros, vallée d'Ezulwini",
     "description": "Préparer un voyage en Eswatini : sans visa 30 jours, paludisme à l'est, réserves de Mlilwane, Hlane et Mkhaya, vallée d'Ezulwini. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/eswatini/hero.jpg",
+    "alt": "La réserve de Mlilwane, en Eswatini",
+    "credit": {
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Mlilwane_Wildlife_Sanctuary_02.jpg"
+    }
+  },
   "summary": "L'Eswatini (ex-Swaziland) se visite de mai à septembre, en saison sèche, idéale pour les safaris. Pas de visa pour les Français jusqu'à 30 jours, avec un passeport valable plus de 6 mois. Le pays, en vigilance renforcée, est considéré comme globalement sûr. Petit et facile à parcourir, il combine réserves animalières et culture swazie, souvent avec l'Afrique du Sud.",
   "essentials": {
     "bestPeriod": "Mai à septembre",

@@ -7,13 +7,7 @@ status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero:
-  src: "/images/destinations/albanie/hero.jpg"
-  alt: "Des parasols de paille sur une plage de la Riviera albanaise"
-  credit:
-    author: "Pudelek (Marcin Szala)"
-    license: "CC BY-SA 3.0"
-    url: "https://commons.wikimedia.org/wiki/File:Ksamil,_Albania_-_beach.JPG"
+hero: null
 destinations: ["albanie"]
 images: []
 enBref: ["La Riviera albanaise s'étend de Vlora à Saranda, sur la mer Ionienne.", "Juin et septembre sont les meilleurs mois : mer chaude, prix raisonnables.", "En une semaine : col de Llogara, Dhërmi, Himarë, puis Saranda et Ksamil.", "Prolonge vers Gjirokastër, classée à l'Unesco."]

@@ -12,7 +12,15 @@
     "title": "Guide Antarctique : croisière, saison, sécurité",
     "description": "Préparer un voyage en Antarctique : formalités, opérateurs agréés, sécurité, meilleure saison, péninsule Antarctique, Shetland du Sud. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/antarctique/hero.jpg",
+    "alt": "Des icebergs dans la péninsule Antarctique",
+    "credit": {
+      "author": "W. Bulach",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:00_1187_Antarctic_Peninsula,_Paradise_Harbor.jpg"
+    }
+  },
   "summary": "L'Antarctique se visite de novembre à mars, pendant l'été austral, presque toujours en croisière d'expédition au départ d'Ushuaia. Aucun passeport ni visa n'est requis pour le continent lui-même, mais il en faut pour les pays de transit. Il n'existe aucun service d'urgence : passe par un opérateur agréé, idéalement membre de l'IAATO. C'est le voyage d'une vie, et l'un des plus chers.",
   "essentials": {
     "bestPeriod": "Novembre à mars",

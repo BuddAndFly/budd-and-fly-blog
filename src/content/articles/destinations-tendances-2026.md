@@ -8,14 +8,14 @@ publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
 hero:
-  src: "/images/destinations/albanie/hero.jpg"
-  alt: "Des parasols de paille sur une plage de la Riviera albanaise"
+  src: "/images/destinations/ouzbekistan/hero.jpg"
+  alt: "Le Registan de Samarcande"
   credit:
-    author: "Pudelek (Marcin Szala)"
-    license: "CC BY-SA 3.0"
-    url: "https://commons.wikimedia.org/wiki/File:Ksamil,_Albania_-_beach.JPG"
+    author: "Stomac"
+    license: "CC BY-SA 2.0 fr"
+    url: "https://commons.wikimedia.org/wiki/File:Registan_Samarkand_Uzbekistan.JPG"
 destinations: ["albanie", "ouzbekistan", "georgie", "japon", "cap-vert", "sri-lanka", "colombie", "kirghizistan"]
-images: [{"src": "/images/destinations/ouzbekistan/hero.jpg", "alt": "Le Registan de Samarcande", "credit": {"author": "Stomac", "license": "CC BY-SA 2.0 fr", "url": "https://commons.wikimedia.org/wiki/File:Registan_Samarkand_Uzbekistan.JPG"}}, {"src": "/images/destinations/japon/hero.jpg", "alt": "La pagode Chureito et le mont Fuji au coucher du soleil", "credit": {"author": "Supanut Arunoprayote", "license": "CC BY 4.0", "url": "https://commons.wikimedia.org/wiki/File:Chureito_Pagoda_and_Mount_Fuji_20241022.jpg"}}, {"src": "/images/destinations/cap-vert/hero.jpg", "alt": "Des barques de pêcheurs colorées au Cap-Vert", "credit": {"author": "Christof46", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Santo_Antao_Fischerboote_IMG_4319a.jpg"}}]
+images: [{"src": "/images/destinations/japon/hero.jpg", "alt": "La pagode Chureito et le mont Fuji au coucher du soleil", "credit": {"author": "Supanut Arunoprayote", "license": "CC BY 4.0", "url": "https://commons.wikimedia.org/wiki/File:Chureito_Pagoda_and_Mount_Fuji_20241022.jpg"}}, {"src": "/images/destinations/cap-vert/hero.jpg", "alt": "Des barques de pêcheurs colorées au Cap-Vert", "credit": {"author": "Christof46", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Santo_Antao_Fischerboote_IMG_4319a.jpg"}}, {"src": "/images/destinations/sri-lanka/hero.jpg", "alt": "Le pont des Neuf Arches à Ella", "credit": {"author": "Ishan shanuka", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Nine_arch_bridge,_Ella,_Sri_lanka.jpg"}}]
 enBref: ["Les destinations qui montent : Albanie, Ouzbékistan, Géorgie, Japon des régions, Cap-Vert, Sri Lanka, Colombie et Kirghizistan.", "Leur succès vient de meilleures liaisons et de formalités simplifiées.", "Pars hors saison pour éviter la saturation."]
 conseil: "Dans un pays qui s'ouvre au tourisme, vérifie les formalités juste avant le départ : elles changent souvent."
 faq: [{"q": "Quelles sont les destinations tendance ?", "a": "L'Albanie, l'Ouzbékistan, la Géorgie, les régions du Japon, le Cap-Vert, le Sri Lanka, la Colombie et le Kirghizistan."}, {"q": "Comment visiter une destination à la mode sans la foule ?", "a": "Pars hors saison, choisis des hébergements locaux et sors des itinéraires les plus partagés sur les réseaux sociaux."}]

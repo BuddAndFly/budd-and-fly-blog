@@ -12,7 +12,15 @@
     "title": "Guide Guyana : chutes de Kaieteur, Rupununi, Georgetown",
     "description": "Préparer un voyage au Guyana : passeport 6 mois, formulaire en ligne, paludisme, chutes de Kaieteur, forêt d'Iwokrama, savanes du Rupununi. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/guyana/hero.jpg",
+    "alt": "Les chutes de Kaieteur, au Guyana",
+    "credit": {
+      "author": "Bill Cameron",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kaieteur_Falls_Guyana_(2)_2007.jpg"
+    }
+  },
   "summary": "Le Guyana se visite surtout de septembre à novembre et de février à avril, hors des saisons des pluies. Pas de visa pour les Français jusqu'à 90 jours, mais un formulaire en ligne est obligatoire à chaque entrée et sortie. Le pays est couvert de forêt tropicale : les chutes de Kaieteur et les savanes du Rupununi en sont les temps forts. Georgetown demande de la vigilance.",
   "essentials": {
     "bestPeriod": "Septembre à novembre, février à avril",

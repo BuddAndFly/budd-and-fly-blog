@@ -12,15 +12,7 @@
     "title": "Guide Guatemala : Antigua, Atitlán, Tikal, sécurité",
     "description": "Préparer un voyage au Guatemala : formalités, zones déconseillées, meilleure saison, Antigua, le lac Atitlán, Tikal, Semuc Champey. PDF gratuit."
   },
-  "hero": {
-    "src": "/images/destinations/guatemala/hero.jpg",
-    "alt": "Le lac Atitlán et ses volcans",
-    "credit": {
-      "author": "Epiovesan: Emilio Piovesan",
-      "license": "CC BY 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Atitlan_Lake.jpg"
-    }
-  },
+  "hero": null,
   "summary": "Le Guatemala se visite de novembre à avril, en saison sèche. Pas de visa pour moins de 3 mois, mais la déclaration de douane en ligne (QR code) est obligatoire à l'entrée et à la sortie. Le pays est en vigilance renforcée, avec des zones frontalières et des quartiers de la capitale déconseillés : Antigua, le lac Atitlán et Tikal forment le circuit classique.",
   "essentials": {
     "bestPeriod": "Novembre à avril",

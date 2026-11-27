@@ -12,7 +12,15 @@
     "title": "Guide Guinée équatoriale : Malabo, Bioko, tortues",
     "description": "Préparer un voyage en Guinée équatoriale : visa avant le départ, fièvre jaune, paludisme, Malabo, île de Bioko, plages de tortues. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/guinee-equatoriale/hero.jpg",
+    "alt": "La cathédrale de Malabo, en Guinée équatoriale",
+    "credit": {
+      "author": "Ben Sutherland from Crystal Palace, London, UK",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Malabo_(16513094965).jpg"
+    }
+  },
   "summary": "La Guinée équatoriale se visite plutôt de décembre à février, pendant la saison sèche sur l'île de Bioko. Un visa est obligatoire et doit être obtenu avant le départ : il n'est pas délivré à l'arrivée. Tout le pays est en vigilance renforcée. Malabo et la nature de l'île de Bioko sont les temps forts.",
   "essentials": {
     "bestPeriod": "Décembre à février",

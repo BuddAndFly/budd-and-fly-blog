@@ -12,15 +12,7 @@
     "title": "Guide Norvège : fjords, aurores, quand partir",
     "description": "Préparer un voyage en Norvège : fjords en été, aurores en hiver, Oslo, Bergen, les fjords, les Lofoten, Tromsø. Guide PDF gratuit."
   },
-  "hero": {
-    "src": "/images/destinations/norvege/hero.jpg",
-    "alt": "Le village de Reine aux Lofoten",
-    "credit": {
-      "author": "Jörg Hempel",
-      "license": "CC BY-SA 2.0 de",
-      "url": "https://commons.wikimedia.org/wiki/File:Reine_i_Lofoten_LC0148.jpg"
-    }
-  },
+  "hero": null,
   "summary": "La Norvège se visite de juin à août pour les fjords et le soleil de minuit, ou de septembre à mars au nord pour les aurores boréales. Attention : la Norvège ne reconnaît pas les cartes d'identité prolongées de 5 ans, il faut alors un passeport. C'est une destination chère, où voyager à deux allège nettement la note.",
   "essentials": {
     "bestPeriod": "Juin à août (aurores au nord de septembre à mars)",

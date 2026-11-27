@@ -7,9 +7,15 @@ status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/namibie/hero.jpg"
+  alt: "Un acacia mort à Deadvlei, en Namibie"
+  credit:
+    author: "Giles Laurent"
+    license: "CC BY-SA 4.0"
+    url: "https://commons.wikimedia.org/wiki/File:054e_Dead_camel_thorn_tree_in_Deadvlei_Photo_by_Giles_Laurent.jpg"
 destinations: ["afrique-du-sud", "botswana", "namibie"]
-images: [{"src": "/images/destinations/botswana/hero.jpg", "alt": "Un jabiru d'Afrique dans le delta de l'Okavango", "credit": {"author": "Diego Delso", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Jabir%C3%BA_africano_(Ephippiorhynchus_senegalensis),_delta_del_Okavango,_Botsuana,_2018-07-31,_DD_11.jpg"}}, {"src": "/images/destinations/namibie/hero.jpg", "alt": "Un acacia mort à Deadvlei, en Namibie", "credit": {"author": "Giles Laurent", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:054e_Dead_camel_thorn_tree_in_Deadvlei_Photo_by_Giles_Laurent.jpg"}}]
+images: []
 enBref: ["Le parc Kruger permet un safari au volant de sa propre voiture.", "De mai à octobre, la saison sèche est la meilleure pour observer les animaux.", "Le mieux : quelques jours en autonomie et un ou deux safaris guidés.", "Paludisme dans certaines zones du nord-est : demande conseil à un médecin."]
 conseil: "Les portes des camps du Kruger ferment à heure fixe : prévois large pour ne pas être surpris par la nuit."
 faq: [{"q": "Quand faire un safari au Kruger ?", "a": "De mai à octobre, en saison sèche, quand les animaux se regroupent autour des points d'eau."}, {"q": "Peut-on faire un safari sans guide en Afrique du Sud ?", "a": "Oui, au Kruger, on peut conduire soi-même sur les routes du parc, en respectant les règles : ne jamais descendre de voiture hors des zones autorisées."}]

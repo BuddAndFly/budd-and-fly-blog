@@ -12,7 +12,15 @@
     "title": "Guide Saint-Vincent-et-les-Grenadines : îles et voile",
     "description": "Préparer un voyage à Saint-Vincent-et-les-Grenadines : passeport, ouragans, volcan de la Soufrière, Bequia, Tobago Cays. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/saint-vincent-et-les-grenadines/hero.jpg",
+    "alt": "Les îlots des Tobago Cays",
+    "credit": {
+      "author": "FishSpeaker",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tobago_Cays_Rainbow_-_panoramio.jpg"
+    }
+  },
   "summary": "Saint-Vincent-et-les-Grenadines se visite de décembre à avril. Pas de visa pour moins de 6 mois, mais le passeport est obligatoire, valable 6 mois après le retour. Le pays est en vigilance renforcée. Entre le volcan de la Soufrière, Bequia et les îlots des Tobago Cays, c'est une destination idéale pour la voile et le snorkeling.",
   "essentials": {
     "bestPeriod": "Décembre à avril",

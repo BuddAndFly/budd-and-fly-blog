@@ -12,7 +12,15 @@
     "title": "Guide Saint-Marin : le mont Titano et ses trois tours",
     "description": "Préparer un séjour à Saint-Marin : carte d'identité, meilleure saison, les trois tours du mont Titano, la vieille ville et Borgo Maggiore. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/saint-marin/hero.jpg",
+    "alt": "La tour Guaita sur le mont Titano, à Saint-Marin",
+    "credit": {
+      "author": "Max_Ryazanov",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Fortress_of_Guaita_2013-09-19.jpg"
+    }
+  },
   "summary": "Saint-Marin se visite d'avril à octobre, en une journée ou un week-end depuis la côte adriatique. Pas de visa : une carte d'identité ou un passeport valides suffisent, et la frontière avec l'Italie est ouverte. Tout le pays est en vigilance normale. La vieille ville et les trois tours du mont Titano, classées à l'Unesco, dominent la plaine jusqu'à la mer.",
   "essentials": {
     "bestPeriod": "Avril à octobre",

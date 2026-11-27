@@ -12,7 +12,15 @@
     "title": "Guide Saint-Kitts-et-Nevis : forteresse, plages, Nevis",
     "description": "Préparer un voyage à Saint-Christophe-et-Niévès : passeport, autorisation électronique, forteresse de Brimstone Hill, Basseterre, Nevis. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/saint-christophe-et-nieves/hero.jpg",
+    "alt": "La forteresse de Brimstone Hill, à Saint-Kitts",
+    "credit": {
+      "author": "Martin Falbisoner",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Saint_Kitts_-_Brimstone_Hill_Fortress_04.JPG"
+    }
+  },
   "summary": "Saint-Christophe-et-Niévès (Saint-Kitts-et-Nevis) se visite de décembre à avril. Le passeport est indispensable, et depuis mai 2025 une autorisation électronique de voyage (AVE) est obligatoire pour qui arrive en avion ou passe une nuit sur place. Le pays est en vigilance renforcée. La forteresse de Brimstone Hill et l'île de Nevis sont les temps forts.",
   "essentials": {
     "bestPeriod": "Décembre à avril",

@@ -12,15 +12,7 @@
     "title": "Guide Côte d'Ivoire : Abidjan, Grand-Bassam, Assinie",
     "description": "Préparer un voyage en Côte d'Ivoire : visa biométrique, fièvre jaune, zones déconseillées, meilleure saison, Abidjan, Grand-Bassam. PDF gratuit."
   },
-  "hero": {
-    "src": "/images/destinations/cote-d-ivoire/hero.jpg",
-    "alt": "La colonnade de la basilique Notre-Dame-de-la-Paix de Yamoussoukro",
-    "credit": {
-      "author": "Didierwiki",
-      "license": "CC0",
-      "url": "https://commons.wikimedia.org/wiki/File:Basilique_notre_Dame_de_la_Paix_de_Yamoussoukro_9.jpg"
-    }
-  },
+  "hero": null,
   "summary": "La Côte d'Ivoire se visite de novembre à mars, en saison sèche. Le visa biométrique (e-visa) et la vaccination contre la fièvre jaune sont obligatoires, avec un passeport valable plus de 6 mois. Le nord, près du Mali et du Burkina Faso, est formellement déconseillé ; Abidjan, la ville coloniale de Grand-Bassam, les plages d'Assinie et Yamoussoukro sont en vigilance renforcée.",
   "essentials": {
     "bestPeriod": "Novembre à mars",

@@ -8,14 +8,14 @@ publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
 hero:
-  src: "/images/destinations/slovenie/hero.jpg"
-  alt: "Le lac de Bled au crépuscule"
+  src: "/images/destinations/laos/hero.jpg"
+  alt: "Les cascades de Kuang Si près de Luang Prabang"
   credit:
-    author: "Mihael Grmek"
-    license: "CC BY-SA 3.0"
-    url: "https://commons.wikimedia.org/wiki/File:Panorama_Bled_01.jpg"
+    author: "Basile Morin"
+    license: "CC BY-SA 4.0"
+    url: "https://commons.wikimedia.org/wiki/File:Kuang_Si_Falls_and_a_turquoise_water_pool_in_Luang_Prabang_province_Laos.jpg"
 destinations: ["slovenie", "georgie", "laos", "cap-vert", "estonie", "sri-lanka", "fidji", "bhoutan", "uruguay", "ile-maurice"]
-images: [{"src": "/images/destinations/laos/hero.jpg", "alt": "Les cascades de Kuang Si près de Luang Prabang", "credit": {"author": "Basile Morin", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Kuang_Si_Falls_and_a_turquoise_water_pool_in_Luang_Prabang_province_Laos.jpg"}}, {"src": "/images/destinations/estonie/hero.jpg", "alt": "La vieille ville de Tallinn", "credit": {"author": "Ivar Leidus", "license": "CC BY-SA 3.0 ee", "url": "https://commons.wikimedia.org/wiki/File:Tallinn_Toompea_Upper_Old_Town_2013.jpg"}}, {"src": "/images/destinations/georgie/hero.jpg", "alt": "L'église de la Trinité de Guergueti face au Kazbek", "credit": {"author": "Vyacheslav Argenberg", "license": "CC BY 4.0", "url": "https://commons.wikimedia.org/wiki/File:Gergeti_Trinity_Church,_Mountain_pasture,_Georgia.jpg"}}]
+images: [{"src": "/images/destinations/cap-vert/hero.jpg", "alt": "Des barques de pêcheurs colorées au Cap-Vert", "credit": {"author": "Christof46", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Santo_Antao_Fischerboote_IMG_4319a.jpg"}}, {"src": "/images/destinations/sri-lanka/hero.jpg", "alt": "Le pont des Neuf Arches à Ella", "credit": {"author": "Ishan shanuka", "license": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Nine_arch_bridge,_Ella,_Sri_lanka.jpg"}}, {"src": "/images/destinations/ile-maurice/hero.jpg", "alt": "Le Morne Brabant à l'île Maurice", "credit": {"author": "\"dronepicr\"", "license": "CC BY 2.0", "url": "https://commons.wikimedia.org/wiki/File:Le_Morne_Peninsula_in_Mauritius_(53697779236).jpg"}}]
 enBref: ["Dix destinations pour ralentir : paysages apaisants, maisons d'hôtes et rythme tranquille.", "De la Slovénie au Bhoutan, en passant par le Cap-Vert, l'Uruguay et la Géorgie.", "Idéal pour le profil « voyageur lent » du Visa voyageur."]
 conseil: "Reste au moins trois nuits par étape et laisse des journées vides dans ton itinéraire : c'est ce qui transforme un voyage en vraie pause."
 faq: [{"q": "Comment voyager lentement ?", "a": "Reste au moins trois nuits par étape, choisis des maisons d'hôtes où l'on partage les repas, visite les grands sites tôt le matin et garde des journées sans programme."}, {"q": "Quelles destinations pour un voyage au calme ?", "a": "Par exemple la Slovénie et ses lacs, le Laos et le Mékong, le Cap-Vert, l'Estonie, les montagnes du Sri Lanka, les Fidji, le Bhoutan, l'Uruguay, le sud de l'île Maurice ou la Kakhétie en Géorgie."}]

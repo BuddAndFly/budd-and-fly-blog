@@ -12,7 +12,15 @@
     "title": "Guide Nicaragua : Granada, Ometepe, León, sécurité",
     "description": "Préparer un voyage au Nicaragua : formulaire d'entrée, contexte politique, meilleure saison, Granada, León, Ometepe, San Juan del Sur. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/nicaragua/hero.jpg",
+    "alt": "La cathédrale de Granada au Nicaragua",
+    "credit": {
+      "author": "ruben i",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Catedral_de_Granada,_Nicaragua_2.jpg"
+    }
+  },
   "summary": "Le Nicaragua se visite de décembre à avril, en saison sèche. Pas de visa pour 90 jours (espace C4 avec le Guatemala, le Honduras et le Salvador), mais un formulaire doit être envoyé aux autorités avant l'entrée. La situation politique reste instable et l'ambassade n'a plus de section consulaire : renseigne-toi bien avant de partir. Volcans, lacs et villes coloniales y sont superbes.",
   "essentials": {
     "bestPeriod": "Décembre à avril",

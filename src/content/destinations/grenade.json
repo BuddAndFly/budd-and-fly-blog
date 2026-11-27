@@ -12,7 +12,15 @@
     "title": "Guide Grenade : l'île aux épices, plages, Carriacou",
     "description": "Préparer un voyage à la Grenade : passeport obligatoire, ouragans, Saint-George's, Grand Anse, parc de sculptures sous-marines, Carriacou. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/grenade/hero.jpg",
+    "alt": "La plage de Grand Anse, à la Grenade",
+    "credit": {
+      "author": "dpursoo",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Grenada_(Grand_Anse_Beach)_2.JPG"
+    }
+  },
   "summary": "La Grenade, « l'île aux épices », se visite de décembre à avril. Le passeport est obligatoire, valable 6 mois après la sortie ; pas de visa pour moins de 90 jours. Le pays est en vigilance renforcée. Saint-George's, la plage de Grand Anse, la forêt de Grand Etang et l'île de Carriacou composent le séjour.",
   "essentials": {
     "bestPeriod": "Décembre à avril",

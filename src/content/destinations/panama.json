@@ -12,15 +12,7 @@
     "title": "Guide Panama : canal, San Blas, Bocas del Toro",
     "description": "Préparer un voyage au Panama : formalités, zones déconseillées, meilleure saison, Panama City, le canal, San Blas, Bocas del Toro, Boquete. PDF gratuit."
   },
-  "hero": {
-    "src": "/images/destinations/panama/hero.jpg",
-    "alt": "Une danse guna dans l'archipel des San Blas, au Panama",
-    "credit": {
-      "author": "Langlois, Bruno",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:San_Blas,_Panama,_Indiens_Guna_dansant.jpg"
-    }
-  },
+  "hero": null,
   "summary": "Le Panama se visite de décembre à avril, en saison sèche côté Pacifique. Pas de visa pour 90 jours, avec un billet retour et la preuve d'au moins 500 dollars de ressources. Le Darién et la frontière colombienne sont formellement déconseillés, Colón aussi sauf raison impérative : Panama City, le canal, les îles San Blas de l'ouest et Bocas del Toro composent le voyage.",
   "essentials": {
     "bestPeriod": "Décembre à avril",
