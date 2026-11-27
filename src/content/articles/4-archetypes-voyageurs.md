@@ -21,7 +21,7 @@ conseil: "Avant de partir à deux, faites chacun le Visa voyageur et comparez vo
 faq: [{"q": "Quels sont les quatre profils de voyageurs ?", "a": "L'explorateur, l'énergique, le lent et le stratège. Aucun n'est meilleur qu'un autre."}, {"q": "Quels profils voyagent bien ensemble ?", "a": "Deux profils identiques s'entendent facilement mais amplifient leurs travers ; un stratège et un explorateur se complètent ; un énergique et un lent doivent prévoir du temps séparé."}]
 ---
 
-**On ne voyage pas tous de la même façon, et c'est souvent là que naissent les malentendus entre compagnons de route.** Le [Visa voyageur](/visa-voyageur/) de Budd&Fly classe les voyageurs en quatre profils, à partir de six jauges. Aucun n'est meilleur qu'un autre : l'important est de se connaître et de bien choisir avec qui partir.
+**Explorateur, énergique, lent ou stratège : quel voyageur es-tu ?** C'est souvent là que naissent les malentendus entre compagnons de route. Le [Visa voyageur](/visa-voyageur/) classe les voyageurs en quatre profils, à partir de six jauges. Aucun n'est meilleur qu'un autre : l'important, c'est de se connaître, et de bien choisir avec qui partir.
 
 ## L'explorateur
 

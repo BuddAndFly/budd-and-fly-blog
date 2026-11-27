@@ -21,7 +21,7 @@ conseil: "Pour ces destinations, prends une assurance qui couvre l'évacuation s
 faq: [{"q": "Faut-il un visa pour ces destinations ?", "a": "Ça dépend : l'Ouzbékistan et le Kirghizistan sont sans visa pour 30 jours, Oman délivre un visa à l'arrivée, la Namibie demande un visa, le Bhoutan passe par un tour-opérateur agréé et le Bénin par un e-visa. Les détails sont dans chaque guide."}, {"q": "Ces pays sont-ils sûrs ?", "a": "Certaines régions sont déconseillées, par exemple le nord du Bénin ou plusieurs zones d'Oman. Consulte la fiche sécurité de chaque guide juste avant le départ."}]
 ---
 
-**Certains pays surprennent tous ceux qui y vont : on les connaît mal, et c'est justement ce qui les rend inoubliables.** Voici sept destinations à part, avec l'essentiel des formalités et des précautions, tirées de nos guides.
+**Sept pays que tes amis ne situent pas sur une carte. Et dont tu reviendras transformé.** On les connaît mal, et c'est justement ce qui les rend inoubliables. Voici l'essentiel des formalités et des précautions, tiré de nos guides.
 
 ## 1. L'Ouzbékistan, la Route de la soie
 

@@ -21,7 +21,7 @@ conseil: "Choisis des prestataires sérieux : France Diplomatie signale des acci
 faq: [{"q": "Mon assurance couvre-t-elle les sports extrêmes ?", "a": "Pas toujours : beaucoup de contrats excluent certaines activités ou l'altitude au-delà d'un seuil. Lis bien ton contrat."}, {"q": "Quels treks pour une première aventure ?", "a": "Le Kirghizistan de lac en lac, la Svanétie en Géorgie ou le trek du W au Chili, par exemple."}]
 ---
 
-**Certains voyages se vivent à la force des jambes ou des bras.** Voici quinze destinations pour les voyageurs qui aiment l'effort et l'adrénaline, classées par activité. Avant de partir, vérifie toujours que ton assurance couvre l'activité pratiquée et les secours, souvent payants et très coûteux.
+**Pour ceux qui aiment rentrer de vacances avec des courbatures.** Voici quinze destinations pour l'effort et l'adrénaline, classées par activité. Avant de partir, vérifie que ton assurance couvre l'activité et les secours, souvent payants et très coûteux.
 
 ## Trek et haute montagne
 

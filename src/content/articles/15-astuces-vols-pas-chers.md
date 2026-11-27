@@ -15,7 +15,7 @@ conseil: "Crée une alerte de prix sur ton itinéraire avec des dates souples, e
 faq: [{"q": "Quand réserver un vol long-courrier ?", "a": "Ni trop tôt ni trop tard : quelques mois à l'avance reste en général une bonne fenêtre. La flexibilité sur les dates compte davantage que le jour de réservation."}, {"q": "Effacer ses cookies fait-il baisser le prix des billets ?", "a": "Cet effet n'a jamais été démontré de façon convaincante. Les prix dépendent surtout de la demande et des places restantes."}, {"q": "A-t-on droit à une indemnisation en cas de retard ?", "a": "Pour un vol au départ de l'Union européenne, un retard important ou une annulation ouvrent souvent droit à une indemnisation selon le règlement européen."}]
 ---
 
-**Le vol représente souvent la plus grosse dépense d'un voyage lointain.** Il n'existe pas de recette miracle ni de « jour magique » pour réserver, mais quelques habitudes font vraiment baisser la facture. Voici les quinze qui marchent le mieux.
+**Le billet d'avion, c'est souvent la plus grosse ligne du budget. Et c'est là qu'on peut le plus économiser.** Pas de recette miracle ni de « jour magique », mais quinze habitudes qui font vraiment baisser la facture.
 
 ## Chercher
 

@@ -21,7 +21,7 @@ conseil: "Si tu hésites encore entre deux pays voisins, regarde si tu peux les 
 faq: [{"q": "Bali ou la Thaïlande ?", "a": "Bali pour un voyage centré et lent, la Thaïlande pour bouger entre Bangkok, le nord et les îles."}, {"q": "Maldives ou Seychelles ?", "a": "Les Maldives pour la mer et la plongée, les Seychelles pour varier entre plages, randonnées et forêts."}]
 ---
 
-**Deux destinations te font envie et tu n'arrives pas à trancher ?** Voici dix duels classiques, avec ce qui fait la différence. Pour les formalités et la sécurité, chaque destination a son guide.
+**Deux destinations te font envie et tu n'arrives pas à trancher ? On t'aide.** Voici dix duels classiques, avec ce qui fait vraiment la différence. Pour les formalités et la sécurité, chaque destination a son guide.
 
 ## 1. Bali ou la Thaïlande ?
 - **[Bali (Indonésie)](/destinations/indonesie/)** : rizières, temples hindous, yoga et surf sur une seule île. Visa à l'arrivée payant.

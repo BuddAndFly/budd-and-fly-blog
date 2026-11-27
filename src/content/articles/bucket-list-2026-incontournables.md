@@ -21,7 +21,7 @@ conseil: "De plus en plus de grands sites fonctionnent avec des créneaux horair
 faq: [{"q": "Comment voir les grands sites sans la foule ?", "a": "Arrive à l'ouverture ou reste jusqu'à la fermeture, évite les vacances scolaires, dors à proximité et réserve en ligne."}, {"q": "Quand voir les chutes Victoria ?", "a": "De juin à septembre pour la meilleure vue ; de février à mai, le débit est maximal mais les embruns gênent la vue."}]
 ---
 
-**Certains lieux méritent le voyage à eux seuls.** Voici dix incontournables, avec la meilleure période pour y aller et une astuce pour les voir dans les meilleures conditions.
+**Dix lieux qui valent le voyage à eux seuls.** Pour chacun : la meilleure période, et l'astuce pour le voir sans la foule.
 
 | Lieu | Pays | Meilleure période | L'astuce |
 |---|---|---|---|

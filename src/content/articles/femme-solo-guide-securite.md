@@ -21,7 +21,7 @@ conseil: "Pour ton premier voyage seule, choisis un pays en vigilance normale et
 faq: [{"q": "Quelles destinations pour un premier voyage seule ?", "a": "Des pays en vigilance normale, comme le Portugal, la Slovénie, l'Irlande, l'Islande ou Taïwan, et des itinéraires fréquentés par d'autres voyageurs."}, {"q": "Comment rester en sécurité en voyageant seule ?", "a": "Inscris-toi sur Ariane, donne ton itinéraire à un proche, arrive de jour, ne dis pas où tu dors à des inconnus et fais confiance à ton instinct."}]
 ---
 
-**Voyager seule est une expérience formidable, et la grande majorité des voyages se passent sans problème.** Quelques précautions, choisies sans tomber dans la paranoïa, permettent de profiter pleinement. Voici les conseils les plus utiles, issus de l'expérience de voyageuses et des recommandations officielles.
+**Voyager seule est une aventure formidable. Et la grande majorité des voyages se passent sans aucun problème.** Quelques précautions bien choisies, sans tomber dans la paranoïa, suffisent pour en profiter pleinement. Voici les plus utiles, issues de l'expérience de voyageuses et des recommandations officielles.
 
 ## Choisir sa destination
 

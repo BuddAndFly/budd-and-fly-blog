@@ -21,7 +21,7 @@ conseil: "Laisse les enfants choisir une activité du voyage : un enfant qui a p
 faq: [{"q": "Quels papiers pour voyager avec un enfant ?", "a": "Chaque enfant a besoin de son propre document. Un mineur qui voyage sans ses parents doit avoir une autorisation de sortie du territoire, et certains pays demandent des documents en plus si un seul parent voyage."}, {"q": "Quelles destinations faciles avec des enfants ?", "a": "Le Portugal, l'Espagne ou la Croatie pour commencer, avec un trajet court et des plages calmes."}]
 ---
 
-**Voyager avec des enfants, c'est voyager autrement : moins d'étapes, plus de temps, et beaucoup de souvenirs.** Le secret est de choisir une destination adaptée à leur âge et de garder un rythme qu'ils peuvent suivre. Voici l'essentiel.
+**Avec des enfants, on voyage autrement : moins d'étapes, plus de temps, et des souvenirs pour toute la vie.** Le secret : une destination adaptée à leur âge et un rythme qu'ils peuvent suivre. Voici l'essentiel.
 
 ## Choisir la destination
 

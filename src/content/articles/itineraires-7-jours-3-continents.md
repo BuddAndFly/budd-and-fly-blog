@@ -21,7 +21,7 @@ conseil: "Arrive tôt le premier jour et repars tard le dernier : tu gagnes pres
 faq: [{"q": "Que faire en une semaine au Japon ?", "a": "Tokyo pendant trois jours, une journée à Hakone, puis trois jours à Kyoto avec une demi-journée à Nara."}, {"q": "Que faire en une semaine au Québec ?", "a": "Montréal, puis la ville de Québec et les chutes Montmorency, et enfin Charlevoix et Tadoussac pour les baleines de juin à octobre."}]
 ---
 
-**Une semaine, c'est court, mais largement suffisant pour un vrai voyage si l'itinéraire est bien construit.** La règle : deux ou trois étapes au maximum, et des trajets courts. Voici trois itinéraires d'une semaine sur trois continents, tirés de nos guides.
+**Une semaine suffit pour un vrai voyage. À une condition : un itinéraire bien construit.** La règle : deux ou trois étapes au maximum, des trajets courts. Voici trois semaines parfaites sur trois continents, tirées de nos guides.
 
 ## En Europe : le Portugal, de Lisbonne à Porto
 

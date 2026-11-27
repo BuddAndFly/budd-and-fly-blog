@@ -15,7 +15,7 @@ conseil: "Évite Ksamil en milieu de journée en été et mange dans les taverne
 faq: [{"q": "Quand aller sur la Riviera albanaise ?", "a": "En juin et en septembre pour la mer chaude sans la foule ; juillet et août sont très chauds et bondés."}, {"q": "Comment se déplacer sur la Riviera albanaise ?", "a": "En voiture pour plus de liberté, avec prudence sur la route côtière, ou en bus, aux horaires approximatifs. Saranda est reliée à Corfou en ferry."}]
 ---
 
-**La Riviera albanaise, entre Vlora et Saranda, aligne criques turquoise, villages perchés et montagnes plongeant dans la mer Ionienne.** Elle est devenue très populaire : bien choisir sa saison et ses étapes fait toute la différence. Toutes les infos pratiques sont dans notre [guide de l'Albanie](/destinations/albanie/).
+**Des criques turquoise, des villages perchés, des montagnes qui plongent dans la mer : bienvenue sur la Riviera albanaise.** Entre Vlora et Saranda, elle est devenue très populaire, et tout se joue sur la saison et les étapes. Toutes les infos pratiques sont dans notre [guide de l'Albanie](/destinations/albanie/).
 
 ## Quand y aller
 

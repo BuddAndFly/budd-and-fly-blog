@@ -21,7 +21,7 @@ conseil: "Ne suis jamais un inconnu dans un second bar « plus sympa » et ne qu
 faq: [{"q": "Comment rencontrer du monde en voyageant seul ?", "a": "Choisis des auberges avec espaces communs, fais du sport ou des treks en petit groupe, prends des cours ou utilise une application de voyageurs."}, {"q": "Quelles arnaques visent les hommes seuls ?", "a": "La rencontre trop facile suivie d'une addition exorbitante ou d'un verre drogué, le chantage après une rencontre en ligne, et le faux policier."}]
 ---
 
-**Un homme qui voyage seul passe souvent inaperçu, ce qui est une force… et parfois un piège.** On l'aborde moins spontanément qu'une voyageuse, et il est la cible privilégiée de certaines arnaques. Voici comment transformer la solitude en liberté.
+**En voyage, un homme seul passe inaperçu. C'est une liberté… et parfois un piège.** On l'aborde moins spontanément, et il est la cible de certaines arnaques. Voici comment transformer la solitude en vraie liberté.
 
 ## Pourquoi on se sent parfois seul
 

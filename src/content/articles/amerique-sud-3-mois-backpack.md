@@ -21,7 +21,7 @@ conseil: "Fais le point sur la fièvre jaune avant de partir : certains pays l'e
 faq: [{"q": "Faut-il un visa pour un tour d'Amérique du Sud ?", "a": "Non, pour un Français, dans ces six pays et pour un séjour touristique de 90 jours ou moins. Le Brésil limite le séjour à 90 jours sur 180 et la Bolivie demande un passeport valable 6 mois."}, {"q": "Comment gérer l'altitude ?", "a": "Monte progressivement, prévois des jours de repos et consulte un médecin avant le départ."}]
 ---
 
-**Trois mois, c'est le temps idéal pour traverser l'Amérique du Sud du nord au sud sans courir.** Voici un itinéraire classique, du Pérou à la Patagonie, pensé pour profiter de la meilleure saison en Patagonie (octobre à avril).
+**Trois mois, sac au dos, du Pérou à la Patagonie : le voyage d'une vie.** C'est le temps idéal pour traverser l'Amérique du Sud sans courir. Voici l'itinéraire, pensé pour arriver en Patagonie à la meilleure saison (octobre à avril).
 
 ## Le parcours
 

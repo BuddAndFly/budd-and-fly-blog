@@ -21,7 +21,7 @@ conseil: "Fixez le budget maximum avant de parler de destination : les écarts d
 faq: [{"q": "Comment organiser un voyage entre amis ?", "a": "Désignez un ou deux organisateurs, fixez dates, budget et type de voyage, votez entre trois destinations, puis réservez vite avec un acompte de chacun."}, {"q": "Comment gérer l'argent dans un groupe ?", "a": "Une application de partage des dépenses, une cagnotte commune pour les courses et l'essence, et les dépenses personnelles à la charge de chacun."}]
 ---
 
-**Plus on est nombreux, plus un voyage devient économique… et compliqué à organiser.** La clé : un organisateur, des règles claires et des décisions prises tôt. Voici la méthode, étape par étape.
+**À dix, le voyage coûte moins cher. Mais il s'organise beaucoup plus difficilement.** La clé : un organisateur, des règles claires et des décisions prises tôt. Voici la méthode, étape par étape.
 
 ## 1. Désigner un ou deux organisateurs
 

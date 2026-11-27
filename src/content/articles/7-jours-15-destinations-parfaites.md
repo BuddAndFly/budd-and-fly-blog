@@ -21,7 +21,7 @@ conseil: "En une semaine, limite-toi à deux étapes proches : chaque changement
 faq: [{"q": "Où partir une semaine au printemps ?", "a": "Par exemple au Portugal, au Japon pour les cerisiers, aux Pays-Bas pour les tulipes ou en Jordanie, en vérifiant les zones déconseillées."}, {"q": "Où partir une semaine en hiver ?", "a": "Oman, l'Égypte ou le Cap-Vert offrent du soleil de décembre à février."}]
 ---
 
-**Une semaine, c'est le format de voyage le plus courant… et celui où le choix de la destination compte le plus.** Il faut un vol raisonnable, un pays agréable à la bonne saison et un itinéraire compact. Voici quinze idées, classées par saison. Retrouve toutes les destinations mois par mois sur notre [carte « Où partir »](/ou-partir/).
+**Une semaine de vacances ? Tout se joue sur le choix de la destination.** Un vol raisonnable, la bonne saison, un itinéraire compact : voici quinze idées qui cochent les trois cases, classées par saison. Toutes les destinations mois par mois sont sur notre [carte « Où partir »](/ou-partir/).
 
 ## Au printemps (mars à mai)
 

@@ -21,7 +21,7 @@ conseil: "Réserve le vol et la première nuit, puis le reste au fil de l'eau : 
 faq: [{"q": "Comment trouver un voyage pas cher en dernière minute ?", "a": "Utilise la recherche « partout » d'un comparateur depuis ton aéroport, note les trois vols les moins chers, puis compare les prix de l'hébergement sur place."}, {"q": "La carte d'identité suffit-elle en Europe ?", "a": "Dans l'Union européenne, oui, mais certains pays ne reconnaissent pas les cartes prolongées de 5 ans, comme la Belgique, la Roumanie ou la Slovaquie."}]
 ---
 
-**Partir en dernière minute n'est pas forcément cher, à condition d'être flexible sur la destination.** Voici une méthode pour trouver une destination européenne de dernière minute sans exploser son budget.
+**Partir la semaine prochaine sans se ruiner ? Oui, si tu laisses le prix choisir la destination.** Voici une méthode simple pour trouver une escapade européenne de dernière minute sans exploser ton budget.
 
 ## La méthode en 4 étapes
 

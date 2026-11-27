@@ -15,7 +15,7 @@ conseil: "Fais des copies numériques de tous tes papiers et emporte deux cartes
 faq: [{"q": "Que mettre dans sa trousse de voyage ?", "a": "Antidouleur, pansements, désinfectant, antidiarrhéique et ton traitement habituel avec l'ordonnance."}, {"q": "Quels papiers emporter en voyage ?", "a": "Passeport ou carte d'identité selon le pays, visa ou autorisation électronique, attestation d'assurance avec le numéro d'assistance, et des copies numériques."}]
 ---
 
-**Une bonne liste de bagages, c'est une base commune à tous les voyages, puis quelques ajouts selon la destination.** Voici les deux. Chaque guide Budd&Fly contient aussi une check-list propre au pays (formalités, santé, tenue).
+**Oublier son adaptateur, c'est agaçant. Oublier son passeport, c'est fini.** Voici une liste de bagages en deux temps : la base de tout voyage, puis les ajouts selon la destination. Chaque guide Budd&Fly ajoute sa check-list propre au pays (formalités, santé, tenue).
 
 ## La base de tout voyage
 

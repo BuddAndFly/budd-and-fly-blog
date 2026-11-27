@@ -21,7 +21,7 @@ conseil: "Garde un jour de transport tous les trois jours : les trajets en bus s
 faq: [{"q": "Faut-il un passeport pour les Balkans ?", "a": "C'est le plus simple : la Bosnie-Herzégovine n'accepte pas les cartes d'identité prolongées et demande un passeport valable 3 mois après le retour."}, {"q": "Comment voyager pas cher dans les Balkans ?", "a": "Dors chez l'habitant, mange le plat du jour dans les tavernes et voyage en bus. À deux, la chambre double réduit beaucoup le coût par personne."}]
 ---
 
-**Les Balkans se prêtent bien à un long voyage en bus, de guesthouse en guesthouse.** Voici un circuit de trois semaines, avec les formalités à vérifier et les pièges à éviter.
+**Trois semaines de bus, de guesthouses et de vieilles villes : les Balkans sans se ruiner.** Voici un circuit complet, avec les formalités à vérifier et les pièges à éviter.
 
 ## Le circuit en 3 semaines
 

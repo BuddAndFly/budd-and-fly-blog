@@ -21,7 +21,7 @@ conseil: "Méfie-toi des sites non officiels qui revendent les autorisations él
 faq: [{"q": "Quelle différence entre un visa et une autorisation électronique ?", "a": "L'autorisation électronique (ESTA, ETA, AVE…) n'est pas un visa : c'est une autorisation à demander en ligne avant l'embarquement, plus simple et plus rapide."}, {"q": "Faut-il un ESTA pour une escale aux États-Unis ?", "a": "Oui, même sans sortir de l'aéroport."}, {"q": "La carte d'identité suffit-elle hors de l'Union européenne ?", "a": "Dans certains pays seulement, comme la Turquie ou l'Égypte. Le Maroc exige désormais le passeport."}]
 ---
 
-**Les formalités changent souvent, et une erreur peut te coûter l'embarquement.** Cet article explique les grandes familles de formalités et donne des exemples tirés de nos guides, eux-mêmes vérifiés sur France Diplomatie (la date de vérification figure dans chaque guide). Avant de partir, vérifie toujours la page officielle du pays.
+**Une erreur de formalité, et c'est l'embarquement refusé.** Visa, autorisation électronique, carte d'arrivée : voici les grandes familles de formalités, avec des exemples tirés de nos guides vérifiés sur France Diplomatie. Avant de partir, vérifie toujours la page officielle du pays.
 
 ## Les 5 grandes familles de formalités
 

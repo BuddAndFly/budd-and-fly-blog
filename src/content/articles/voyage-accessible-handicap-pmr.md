@@ -21,7 +21,7 @@ conseil: "Garde tes médicaments et ton matériel essentiel en cabine, avec les 
 faq: [{"q": "Comment demander l'assistance à l'aéroport ?", "a": "Au moment de la réservation, ou au plus tard 48 heures avant le vol. Dans l'Union européenne, l'assistance est gratuite."}, {"q": "Comment vérifier qu'un hôtel est vraiment accessible ?", "a": "Demande des photos de la chambre et de la salle de bains, la largeur des portes et la présence d'une douche de plain-pied, et lis les avis d'autres voyageurs."}]
 ---
 
-**Voyager avec un handicap demande plus de préparation, mais de plus en plus de destinations et de transporteurs s'adaptent.** Voici les points à anticiper pour un voyage serein, quel que soit le type de handicap.
+**Voyager avec un handicap, c'est plus de préparation. Mais de plus en plus de portes s'ouvrent.** Destinations et transporteurs s'adaptent. Voici les points à anticiper pour un voyage serein, quel que soit le type de handicap.
 
 ## Les transports
 

@@ -21,7 +21,7 @@ conseil: "Les portes des camps du Kruger ferment à heure fixe : prévois large 
 faq: [{"q": "Quand faire un safari au Kruger ?", "a": "De mai à octobre, en saison sèche, quand les animaux se regroupent autour des points d'eau."}, {"q": "Peut-on faire un safari sans guide en Afrique du Sud ?", "a": "Oui, au Kruger, on peut conduire soi-même sur les routes du parc, en respectant les règles : ne jamais descendre de voiture hors des zones autorisées."}]
 ---
 
-**Le parc Kruger est l'un des plus grands parcs d'Afrique, et l'un des plus accessibles : on peut y faire un safari au volant de sa propre voiture.** Voici comment l'organiser. Les formalités et la sécurité sont dans notre [guide de l'Afrique du Sud](/destinations/afrique-du-sud/).
+**Un safari au volant de ta propre voiture ? Au parc Kruger, c'est possible.** C'est l'un des plus grands parcs d'Afrique, et l'un des plus accessibles. Voici comment l'organiser ; les formalités et la sécurité sont dans notre [guide de l'Afrique du Sud](/destinations/afrique-du-sud/).
 
 ## Quand partir
 

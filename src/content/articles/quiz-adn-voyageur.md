@@ -15,7 +15,7 @@ conseil: "Si tu pars à deux, faites le test chacun de votre côté : les jauges
 faq: [{"q": "Combien de questions compte le Visa voyageur ?", "a": "Dix questions concrètes, sur des situations de voyage."}, {"q": "Quelles sont les six jauges ?", "a": "Le rythme, l'organisation, le confort, la vie en groupe, les horaires et les soirées."}]
 ---
 
-**Le Visa voyageur est un test gratuit de dix questions qui décrit ta façon de voyager.** Il ne te range pas dans une case pour toujours : il te donne des repères pour choisir tes destinations, ton itinéraire et tes compagnons de route.
+**Dix questions, deux minutes, et tu sais enfin quel voyageur tu es.** Le Visa voyageur est un test gratuit qui ne te range pas dans une case : il te donne des repères pour choisir tes destinations, ton itinéraire et tes compagnons de route.
 
 ## Comment fonctionne le test
 

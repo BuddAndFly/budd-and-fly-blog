@@ -21,7 +21,7 @@ conseil: "Dans un pays qui s'ouvre au tourisme, vérifie les formalités juste a
 faq: [{"q": "Quelles sont les destinations tendance ?", "a": "L'Albanie, l'Ouzbékistan, la Géorgie, les régions du Japon, le Cap-Vert, le Sri Lanka, la Colombie et le Kirghizistan."}, {"q": "Comment visiter une destination à la mode sans la foule ?", "a": "Pars hors saison, choisis des hébergements locaux et sors des itinéraires les plus partagés sur les réseaux sociaux."}]
 ---
 
-**Chaque année, quelques destinations sortent de l'ombre.** Meilleures liaisons aériennes, formalités simplifiées, bouche-à-oreille : elles attirent de plus en plus de voyageurs. Voici celles qui montent, et comment les découvrir avant qu'elles ne changent trop.
+**Elles étaient confidentielles il y a peu. Elles sont en train d'exploser.** Meilleures liaisons aériennes, formalités simplifiées, bouche-à-oreille : voici les destinations qui montent, et comment les découvrir avant qu'elles ne changent trop.
 
 ## L'Albanie
 

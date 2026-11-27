@@ -21,7 +21,7 @@ conseil: "Garde ton indépendance financière : un moyen de paiement à toi seul
 faq: [{"q": "Où trouver un compagnon de voyage ?", "a": "Dans ton entourage, dans des groupes de voyageurs en ligne, sur une application dédiée qui vérifie les profils, ou sur place dans les auberges et visites en groupe."}, {"q": "Comment savoir si on est compatibles ?", "a": "Parlez du rythme, du budget, de l'organisation, des horaires et du besoin de solitude. Le Visa voyageur mesure ces points sur six jauges."}]
 ---
 
-**Pour trouver un compagnon de voyage, l'important n'est pas de trouver quelqu'un de sympathique, mais quelqu'un qui voyage comme toi.** Même rythme, budget proche, même façon de gérer l'imprévu. Ce guide t'explique où chercher, comment vérifier que vous êtes compatibles, et quoi régler avant le départ pour que le voyage reste un bon souvenir.
+**Le bon compagnon de voyage n'est pas le plus sympathique. C'est celui qui voyage comme toi.** Même rythme, budget proche, même façon de gérer l'imprévu. Voici où chercher, comment vérifier que vous êtes compatibles, et quoi régler avant le départ pour que le voyage reste un bon souvenir.
 
 ## Pourquoi partir avec quelqu'un
 

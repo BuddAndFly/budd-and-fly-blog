@@ -21,7 +21,7 @@ conseil: "Ne quitte jamais ton verre des yeux et n'accepte pas un verre que tu n
 faq: [{"q": "Quelles sont les meilleures villes pour faire la fête ?", "a": "Berlin, Budapest, Belgrade, Barcelone et Madrid, Amsterdam, Buenos Aires, Rio, Medellín, Séoul et Bangkok."}, {"q": "Comment faire la fête en sécurité à l'étranger ?", "a": "Sors à plusieurs, surveille ton verre, rentre en VTC, ne garde que le nécessaire sur toi et respecte la loi locale."}]
 ---
 
-**Certaines villes ne dorment jamais vraiment.** Voici dix destinations réputées pour leur vie nocturne, du clubbing berlinois aux barges de Belgrade, avec les réflexes indispensables pour faire la fête en sécurité.
+**Certaines villes ne dorment jamais vraiment.** Du clubbing berlinois aux barges de Belgrade, voici dix destinations réputées pour leur vie nocturne, et les réflexes indispensables pour faire la fête en sécurité.
 
 ## Les 10 villes
 

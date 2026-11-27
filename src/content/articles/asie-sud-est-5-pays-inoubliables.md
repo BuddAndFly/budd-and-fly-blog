@@ -21,7 +21,7 @@ conseil: "Vérifie avant chaque passage de frontière terrestre si le poste dél
 faq: [{"q": "Quels pays d'Asie du Sud-Est combiner ?", "a": "Thaïlande et Laos, ou Vietnam et Cambodge, pour trois semaines ; les cinq pays pour deux mois."}, {"q": "Quelle est la meilleure saison en Asie du Sud-Est ?", "a": "De novembre à mars pour la majeure partie de la région, sauf la côte est de la Malaisie et certaines îles thaïlandaises, en mousson à cette période."}]
 ---
 
-**L'Asie du Sud-Est se prête parfaitement aux grands voyages : les pays sont proches, bien reliés et abordables.** Voici comment combiner cinq pays en deux mois, ou en choisir deux ou trois pour un voyage plus court.
+**Cinq pays, deux mois, un seul sac à dos.** L'Asie du Sud-Est est faite pour les grands voyages : des pays proches, bien reliés et abordables. Voici comment les combiner, ou en choisir deux ou trois pour un voyage plus court.
 
 ## Le circuit en 8 semaines
 

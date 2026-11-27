@@ -15,7 +15,7 @@ conseil: "Ne mets jamais tout au même endroit : répartis papiers, cartes et ar
 faq: [{"q": "Que faire en cas de perte ou de vol de passeport ?", "a": "Déclare-le à la police locale, puis contacte l'ambassade ou le consulat de France, qui peut délivrer un passeport d'urgence ou un laissez-passer."}, {"q": "Que faire si on perd sa carte bancaire à l'étranger ?", "a": "Fais opposition immédiatement depuis l'application de ta banque, puis utilise ta seconde carte."}]
 ---
 
-**La plupart des galères de voyage se préparent… avant de partir.** Une copie des papiers, deux moyens de paiement, une bonne assurance et quelques réflexes suffisent à transformer une catastrophe en simple contretemps. Voici le protocole.
+**La plupart des galères de voyage se règlent… avant de partir.** Une copie des papiers, deux moyens de paiement, une bonne assurance et quelques réflexes transforment une catastrophe en simple contretemps. Voici le protocole.
 
 ## Avant le départ
 

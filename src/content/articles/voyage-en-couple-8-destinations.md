@@ -21,7 +21,7 @@ conseil: "Réservez une ou deux nuits d'exception et restez simples le reste du 
 faq: [{"q": "Où partir en couple pour un premier voyage ?", "a": "La Slovénie ou le Portugal, proches et faciles, sont idéaux pour commencer."}, {"q": "Quelle destination pour un voyage de noces ?", "a": "Les Seychelles pour la plage, le Japon pour la découverte, la Nouvelle-Zélande pour un road trip, selon vos envies."}]
 ---
 
-**Un bon voyage en couple mélange des moments forts et du temps pour soi, dans un pays facile à vivre.** Voici huit destinations très différentes, avec la meilleure saison et ce qui les rend idéales à deux. Les formalités et la sécurité sont dans chaque guide.
+**À deux, le bon voyage mélange moments forts et temps pour soi.** Voici huit destinations très différentes, avec la meilleure saison et ce qui les rend idéales pour un couple. Les formalités et la sécurité sont dans chaque guide.
 
 ## 1. La Slovénie, pour un premier voyage proche
 

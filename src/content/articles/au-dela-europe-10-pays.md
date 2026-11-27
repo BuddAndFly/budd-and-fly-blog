@@ -21,7 +21,7 @@ conseil: "Avant de réserver un long-courrier, lis la rubrique sécurité du gui
 faq: [{"q": "Combien de temps partir pour un long-courrier ?", "a": "Au moins deux semaines, idéalement trois pour la Nouvelle-Zélande, le Chili ou le Pérou."}, {"q": "Quels pays voisins combiner ?", "a": "Par exemple le Pérou et la Bolivie, la Tanzanie et le Kenya, ou le Vietnam et le Cambodge."}]
 ---
 
-**Un long-courrier se justifie quand la destination offre quelque chose d'impossible à trouver plus près.** Voici dix pays qui valent chaque heure de vol, avec la durée minimale conseillée pour en profiter.
+**Douze heures d'avion ? Seulement si ça en vaut la peine.** Voici dix pays qui offrent ce qu'on ne trouve pas plus près, avec la durée minimale pour vraiment en profiter.
 
 | Pays | Pourquoi y aller | Durée conseillée | Meilleure saison |
 |---|---|---|---|

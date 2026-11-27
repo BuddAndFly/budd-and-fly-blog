@@ -15,7 +15,7 @@ conseil: "Utilise l'IA pour les idées et pour ajuster un itinéraire, mais jama
 faq: [{"q": "Peut-on faire confiance à une IA pour les visas ?", "a": "Non : une IA peut s'appuyer sur des informations périmées. Vérifie les visas, la sécurité et les vaccins sur France Diplomatie."}, {"q": "Quelles applications emporter en voyage ?", "a": "Une carte hors ligne, un traducteur avec reconnaissance de texte, une application de VTC, une eSIM et Ariane pour les alertes de sécurité."}]
 ---
 
-**Les outils numériques font gagner un temps énorme pour préparer un voyage, à condition de savoir à quoi ils servent… et où ils se trompent.** Voici une méthode en cinq étapes, et les règles pour ne pas se faire piéger.
+**L'IA peut te faire gagner des heures de préparation. Elle peut aussi te faire rater ton vol.** Tout dépend de savoir à quoi elle sert, et où elle se trompe. Voici une méthode en cinq étapes, et les règles pour ne pas se faire piéger.
 
 ## 1. Trouver l'inspiration
 

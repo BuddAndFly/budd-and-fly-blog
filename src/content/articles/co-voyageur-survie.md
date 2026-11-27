@@ -21,7 +21,7 @@ conseil: "Prévoyez explicitement des demi-journées où chacun fait ce qu'il ve
 faq: [{"q": "Comment éviter les disputes en voyage à deux ?", "a": "En parlant avant le départ du budget, du rythme, de l'organisation, du temps seul, des soirées, des décisions et des imprévus."}, {"q": "Comment partager les dépenses à deux ?", "a": "Avec une cagnotte commune, une application de partage des dépenses, ou chacun paie sa part au fur et à mesure."}]
 ---
 
-**La plupart des disputes en voyage ne viennent pas d'un mauvais caractère, mais de règles jamais discutées.** Qui paie quoi, à quelle heure on se lève, qui décide de l'itinéraire. Prendre une heure avant le départ pour en parler évite des jours de tension. Voici les huit points de ce « contrat », à adapter à votre duo.
+**En voyage à deux, on ne se dispute presque jamais pour de grandes raisons. On se dispute pour des règles jamais posées.** Qui paie quoi, à quelle heure on se lève, qui décide de l'itinéraire : une heure de discussion avant le départ évite des jours de tension. Voici les huit points de ce « contrat », à adapter à votre duo.
 
 ## 1. Le budget
 

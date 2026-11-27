@@ -21,7 +21,7 @@ conseil: "Garde des jours de marge dans ton programme : aux Açores, la météo 
 faq: [{"q": "Faut-il un passeport pour les Açores ?", "a": "Non : les Açores font partie du Portugal et de l'Union européenne. Une carte d'identité ou un passeport en cours de validité suffisent."}, {"q": "Quelles îles des Açores visiter ?", "a": "São Miguel pour ses lacs et ses sources chaudes, Pico pour son sommet et ses vignobles, Faial pour Horta et le volcan de Capelinhos, Flores pour sa nature sauvage."}]
 ---
 
-**Au milieu de l'Atlantique, les neuf îles des Açores offrent des lacs de cratère, des sources chaudes, des falaises vertes et des baleines.** Région autonome du Portugal, l'archipel se rejoint facilement depuis Lisbonne et se vit au rythme lent.
+**Des lacs de cratère, des sources chaudes et des baleines, à quelques heures de Paris.** Au milieu de l'Atlantique, les neuf îles des Açores, région autonome du Portugal, se rejoignent facilement depuis Lisbonne et se vivent au rythme lent.
 
 ## Les formalités
 

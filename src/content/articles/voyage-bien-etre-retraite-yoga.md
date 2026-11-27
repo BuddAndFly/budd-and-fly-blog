@@ -21,7 +21,7 @@ conseil: "Un voyage lent suffit souvent à se reposer : trois nuits minimum par 
 faq: [{"q": "Où faire une retraite de yoga ?", "a": "À Bali dans la région d'Ubud, en Inde, au Sri Lanka, dans le nord de la Thaïlande ou au Bhoutan, par exemple."}, {"q": "Comment choisir une retraite sérieuse ?", "a": "Vérifie les qualifications des enseignants, lis les avis détaillés, regarde ce qui est inclus et préviens d'éventuels problèmes de santé avant de réserver."}]
 ---
 
-**Un voyage peut aussi servir à se reposer vraiment : dormir, bouger doucement, manger sainement, couper les écrans.** Voici douze destinations où le bien-être fait partie de la culture, et nos conseils pour choisir une retraite sérieuse.
+**Des vacances qui reposent vraiment, ça existe.** Dormir, bouger doucement, bien manger, couper les écrans : voici douze destinations où le bien-être fait partie de la culture, et comment choisir une retraite sérieuse.
 
 ## Yoga et méditation
 

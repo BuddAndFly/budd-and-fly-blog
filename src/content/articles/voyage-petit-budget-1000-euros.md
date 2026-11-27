@@ -15,7 +15,7 @@ conseil: "Refuse toujours la conversion en euros proposée par les distributeurs
 faq: [{"q": "Comment voyager pas cher ?", "a": "Dors en dortoir ou en guesthouse, mange dans les cantines locales, prends bus et trains plutôt que vols intérieurs et taxis, et voyage lentement."}, {"q": "Sur quoi ne pas économiser en voyage ?", "a": "L'assurance avec assistance et rapatriement, les vaccins recommandés et un logement sûr, surtout en arrivant de nuit."}]
 ---
 
-**Voyager longtemps avec peu d'argent tient moins à la destination qu'à quelques habitudes.** Voici les règles qui font la plus grande différence, quel que soit le pays.
+**Voyager longtemps avec peu d'argent ? Ça tient moins à la destination qu'à quelques habitudes.** Voici les règles qui font la plus grande différence, quel que soit le pays.
 
 ## Les postes qui comptent
 

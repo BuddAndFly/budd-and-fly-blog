@@ -21,7 +21,7 @@ conseil: "Choisis un hébergement avec des espaces partagés, même en chambre p
 faq: [{"q": "Comment rencontrer d'autres voyageurs ?", "a": "Dors en auberge ou en guesthouse, suis une visite à pied, prends un cours, partage une excursion, mange aux tables communes ou utilise une application de voyageurs."}, {"q": "Comment rencontrer en sécurité en voyage ?", "a": "Retrouve-toi dans un lieu public, ne quitte pas ton verre des yeux, partage ta localisation avec un proche et ne pars pas seul avec quelqu'un que tu viens de rencontrer."}]
 ---
 
-**Les meilleures rencontres de voyage arrivent rarement par hasard : elles naissent dans des lieux et des situations qui les favorisent.** Voici douze méthodes testées par des voyageurs, de la plus simple à la plus engageante.
+**Les belles rencontres de voyage ne tombent pas du ciel : elles se provoquent.** Voici douze méthodes qui marchent, de la plus simple à la plus engageante, pour ne plus jamais dîner seul en voyage.
 
 ## 1. Dormir en auberge
 

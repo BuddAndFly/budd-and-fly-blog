@@ -21,7 +21,7 @@ conseil: "Pour le lac Ala-Kul, qui passe un col exigeant, pars avec un guide ou 
 faq: [{"q": "Quand faire un trek au Kirghizistan ?", "a": "De juin à septembre, quand les familles montent aux alpages et que les sentiers d'altitude sont dégagés."}, {"q": "Faut-il un visa pour le Kirghizistan ?", "a": "Non, pour 30 jours. Après 30 jours sur place, il faut attendre 30 jours avant de revenir sans visa."}]
 ---
 
-**Le Kirghizistan est l'un des meilleurs pays au monde pour un premier trek : des montagnes immenses, des lacs turquoise et l'hospitalité des familles nomades qui accueillent les randonneurs dans leurs yourtes.** Voici comment préparer ton aventure. Toutes les infos pratiques sont dans notre [guide du Kirghizistan](/destinations/kirghizistan/).
+**Des montagnes immenses, des lacs turquoise, et une nuit sous la yourte chez des familles nomades.** Le Kirghizistan est idéal pour un premier trek. Voici comment préparer ton aventure ; toutes les infos pratiques sont dans notre [guide du Kirghizistan](/destinations/kirghizistan/).
 
 ## Quand partir
 

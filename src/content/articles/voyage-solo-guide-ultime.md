@@ -21,7 +21,7 @@ conseil: "Réserve tes premières nuits dans une auberge animée : tu y trouvera
 faq: [{"q": "Où partir seul pour la première fois ?", "a": "Le Japon pour la sécurité et l'efficacité, le Portugal pour une première fois proche, ou des pays bien équipés pour les voyageurs."}, {"q": "Comment éviter la solitude en voyage ?", "a": "Prévois une activité de groupe dans les premiers jours, garde un rituel, change pour une auberge plus animée si besoin et ralentis."}]
 ---
 
-**Voyager seul, c'est choisir chaque étape, chaque rythme et chaque rencontre.** C'est aussi le meilleur moyen de rencontrer du monde : seul, on est plus abordable, plus curieux, plus disponible. Ce guide rassemble ce qu'il faut savoir pour un premier voyage solo réussi.
+**Partir seul, c'est choisir chaque étape, chaque rythme, chaque rencontre.** Et c'est paradoxalement le meilleur moyen de rencontrer du monde : seul, on est plus abordable, plus curieux, plus disponible. Voici tout ce qu'il faut savoir pour un premier voyage solo réussi.
 
 ## Pourquoi partir seul
 

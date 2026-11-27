@@ -21,7 +21,7 @@ conseil: "Teste la connexion de ton hébergement avant de réserver pour plusieu
 faq: [{"q": "Peut-on travailler à distance avec un visa touristique ?", "a": "Généralement non, selon les pays. Plusieurs pays proposent des visas pour nomades numériques, aux conditions changeantes : vérifie auprès de l'ambassade."}, {"q": "Quelle assurance pour un nomade numérique ?", "a": "Une assurance voyage classique couvre souvent des séjours limités ; pour plusieurs mois, choisis une assurance adaptée aux expatriés ou aux nomades."}]
 ---
 
-**Travailler en voyageant est devenu une réalité pour beaucoup.** Une connexion fiable, un coût de la vie raisonnable et une communauté de voyageurs : voici dix villes appréciées des nomades numériques, et les points à vérifier avant de partir.
+**Ton bureau avec vue sur la mer ? C'est possible, à condition de bien choisir.** Une connexion fiable, un coût de la vie raisonnable et une communauté de voyageurs : voici dix villes appréciées des nomades numériques, et ce qu'il faut vérifier avant de partir.
 
 ## Les 10 villes
 

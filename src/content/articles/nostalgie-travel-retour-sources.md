@@ -21,7 +21,7 @@ conseil: "Emporte de vieilles photos et cherche les mêmes cadrages : c'est la f
 faq: [{"q": "Où partir près de la France en train ?", "a": "En Belgique, au Luxembourg, en Suisse ou aux Pays-Bas, par exemple."}, {"q": "Pourquoi voyager plus près ?", "a": "Moins de logistique et de fatigue, une empreinte carbone réduite en train, et l'envie de repartir souvent."}]
 ---
 
-**On associe souvent le voyage à la distance. Pourtant, certains des plus beaux souvenirs se fabriquent à quelques heures de chez soi.** Revenir sur les lieux de son enfance, découvrir la région voisine, prendre un train plutôt qu'un avion : le voyage proche a ses propres trésors.
+**Et si ton plus beau voyage était à quelques heures de chez toi ?** Revenir sur les lieux de ton enfance, découvrir la région voisine, prendre le train plutôt que l'avion : le voyage proche a ses propres trésors.
 
 ## Revenir aux sources
 

@@ -21,7 +21,7 @@ conseil: "Passe par la messagerie, puis un appel vidéo, puis une rencontre dans
 faq: [{"q": "Comment fonctionne la compatibilité sur Budd&Fly ?", "a": "L'application compare les jauges du Visa voyageur et les voyages publiés, puis affiche un indice de compatibilité avec les écarts visibles."}, {"q": "Les profils sont-ils vérifiés ?", "a": "Chaque membre vérifie son profil par selfie. Cela réduit les faux profils, sans remplacer la prudence."}]
 ---
 
-**Trouver quelqu'un avec qui partir n'est pas difficile. Trouver quelqu'un avec qui l'on voyage bien, c'est une autre histoire.** C'est le problème que l'application Budd&Fly cherche à résoudre. Voici comment elle fonctionne, simplement.
+**Trouver quelqu'un avec qui partir, c'est facile. Trouver quelqu'un avec qui l'on voyage bien, c'est une autre histoire.** C'est exactement le problème que l'application Budd&Fly veut résoudre. Voici comment elle fonctionne.
 
 ## Le principe : voyager avec quelqu'un qui voyage comme toi
 

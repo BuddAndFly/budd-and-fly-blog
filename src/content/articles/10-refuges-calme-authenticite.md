@@ -21,7 +21,7 @@ conseil: "Reste au moins trois nuits par étape et laisse des journées vides da
 faq: [{"q": "Comment voyager lentement ?", "a": "Reste au moins trois nuits par étape, choisis des maisons d'hôtes où l'on partage les repas, visite les grands sites tôt le matin et garde des journées sans programme."}, {"q": "Quelles destinations pour un voyage au calme ?", "a": "Par exemple la Slovénie et ses lacs, le Laos et le Mékong, le Cap-Vert, l'Estonie, les montagnes du Sri Lanka, les Fidji, le Bhoutan, l'Uruguay, le sud de l'île Maurice ou la Kakhétie en Géorgie."}]
 ---
 
-**Certains voyages servent à tout voir, d'autres à ralentir.** Ces dix destinations sont parfaites pour le second : des paysages apaisants, des hébergements familiaux et un rythme qui invite à prendre son temps. Le profil « voyageur lent » du [Visa voyageur](/visa-voyageur/) s'y sentira chez lui.
+**Envie de tout ralentir ? Ces dix destinations sont faites pour ça.** Paysages apaisants, maisons d'hôtes familiales, journées sans réveil : ici, on prend enfin son temps. Le profil « voyageur lent » du [Visa voyageur](/visa-voyageur/) s'y sentira chez lui.
 
 ## 1. La Slovénie et ses lacs
 

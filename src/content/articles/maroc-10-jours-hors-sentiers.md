@@ -21,7 +21,7 @@ conseil: "Garde des étapes de deux nuits : les distances sont longues dans le s
 faq: [{"q": "Faut-il un passeport pour le Maroc ?", "a": "Oui, valable pendant tout le séjour : la carte d'identité seule n'est plus acceptée."}, {"q": "Quel itinéraire au Maroc en 10 jours ?", "a": "Marrakech, la vallée de l'Ourika ou Imlil, Aït-Ben-Haddou et les gorges du Dadès, le désert de Merzouga, puis retour vers Marrakech ou Fès."}]
 ---
 
-**Dix jours suffisent pour voir trois visages du Maroc : une grande médina, les montagnes berbères et le désert.** Voici un itinéraire équilibré, avec des étapes de deux nuits pour ne pas passer son voyage en voiture. Toutes les infos pratiques sont dans notre [guide du Maroc](/destinations/maroc/).
+**Une médina, les montagnes berbères et une nuit dans les dunes : trois Maroc en dix jours.** Voici un itinéraire équilibré, avec des étapes de deux nuits pour ne pas passer ton voyage en voiture. Toutes les infos pratiques sont dans notre [guide du Maroc](/destinations/maroc/).
 
 ## Avant de partir
 

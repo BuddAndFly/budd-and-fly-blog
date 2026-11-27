@@ -21,7 +21,7 @@ conseil: "Pour combiner plusieurs de ces étapes dans les Balkans, suis notre ci
 faq: [{"q": "Quelles destinations méconnues en Europe ?", "a": "Berat et Gjirokastër en Albanie, la baie de Kotor, Ohrid, Mostar, Novi Sad, Sibiu, Plovdiv, les Hautes Tatras, la vallée de la Soča, Tallinn, Riga et l'isthme de Courlande."}, {"q": "La carte d'identité suffit-elle ?", "a": "Pas toujours : certains pays n'acceptent pas les cartes d'identité prolongées de 5 ans. Le passeport est le choix le plus sûr."}]
 ---
 
-**Pas besoin de partir loin pour se sentir dépaysé.** À quelques heures de vol de Paris, ces douze destinations européennes offrent villes historiques, montagnes et côtes sauvages.
+**Pas besoin de partir au bout du monde pour être dépaysé.** À quelques heures de vol de Paris, ces douze destinations européennes offrent villes historiques, montagnes et côtes sauvages, loin des foules.
 
 ## Dans les Balkans
 

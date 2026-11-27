@@ -21,7 +21,7 @@ conseil: "Dans ces carrefours de voyageurs, choisis une auberge réputée pour s
 faq: [{"q": "Où rencontrer d'autres voyageurs ?", "a": "Dans les carrefours comme Bangkok, Hoi An, Pokhara, Cusco, Uyuni, le lac Atitlán, Lisbonne, les îles grecques ou Queenstown."}, {"q": "Comment trouver quelqu'un sur place aux mêmes dates ?", "a": "Publie ton voyage sur une application de voyageurs, avec tes dates et ta destination."}]
 ---
 
-**Certains endroits sont de vrais carrefours de voyageurs : on y arrive seul et on en repart avec des compagnons de route.** Voici vingt lieux, classés par région, où les rencontres sont presque inévitables. Avant de partir, vérifie toujours la fiche sécurité du pays dans nos guides.
+**On y arrive seul. On en repart avec des compagnons de route.** Voici vingt carrefours de voyageurs, classés par région, où les rencontres sont presque inévitables. Avant de partir, vérifie toujours la fiche sécurité du pays dans nos guides.
 
 ## En Asie
 

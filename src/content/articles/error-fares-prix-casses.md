@@ -15,7 +15,7 @@ conseil: "Une error fare est une belle surprise, pas une stratégie : pour un vo
 faq: [{"q": "Une compagnie peut-elle annuler une error fare ?", "a": "Oui : certaines honorent ces billets, d'autres les annulent et remboursent. Les règles varient selon le pays et le transporteur."}, {"q": "Comment trouver des error fares ?", "a": "Abonne-toi à des sites spécialisés dans les bons plans aériens, active des alertes de prix et reste flexible sur les dates et la destination."}]
 ---
 
-**Une « error fare » est un tarif aérien publié par erreur, bien en dessous du prix normal.** Erreur de conversion de devise, oubli d'une taxe, mauvaise saisie : pendant quelques heures, un long-courrier peut s'afficher à un prix très bas. Ces billets existent, mais ils demandent de la réactivité et un peu de prudence.
+**Un long-courrier à prix cassé, ça existe. Mais il faut être rapide.** Une « error fare » est un tarif publié par erreur : mauvaise conversion de devise, taxe oubliée, faute de saisie. Pendant quelques heures, le prix s'effondre. Voici comment en profiter sans prendre de risque.
 
 ## D'où viennent ces erreurs
 
