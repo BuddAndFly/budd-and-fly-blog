@@ -12,7 +12,15 @@
     "title": "Guide Colombie : sécurité, Carthagène, Medellín",
     "description": "Préparer un voyage en Colombie : Check-Mig, zones déconseillées, meilleure saison, Bogotá, Medellín, la zone du café, Carthagène. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/colombie/hero.jpg",
+    "alt": "Une guérite sur les remparts de Carthagène, en Colombie",
+    "credit": {
+      "author": "Igvir Ramirez",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Sunset-cartagena-tower-dewired.jpg"
+    }
+  },
   "summary": "La Colombie se visite de décembre à mars et en juillet-août, les périodes les plus sèches. Pas de visa pour 90 jours, mais le formulaire Check-Mig est obligatoire. Attention : la criminalité augmente fortement dans les grandes villes, et les zones frontalières sont formellement déconseillées. Bogotá, Medellín, la zone du café et Carthagène se relient en avion.",
   "essentials": {
     "bestPeriod": "Décembre à mars, juillet-août",

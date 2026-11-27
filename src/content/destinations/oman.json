@@ -12,7 +12,15 @@
     "title": "Guide Oman : sécurité, visa, quand partir, road trip",
     "description": "Préparer un voyage à Oman : visa gratuit 14 jours, zones déconseillées, meilleure saison, Mascate, Nizwa, le désert, les wadis. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/oman/hero.jpg",
+    "alt": "Le Wadi Shab, à Oman",
+    "credit": {
+      "author": "albinfo",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Wadi_Shab_2.jpg"
+    }
+  },
   "summary": "Oman se visite d'octobre à mars : le reste de l'année, la chaleur est extrême. Les Français obtiennent un visa gratuit de 14 jours à l'arrivée. Depuis juillet 2026, le contexte régional a fait classer Salalah, Douqm et la péninsule de Moussandam en zones déconseillées sauf raison impérative : le circuit classique Mascate, Nizwa, désert et wadis reste en vigilance renforcée.",
   "essentials": {
     "bestPeriod": "Octobre à mars",
