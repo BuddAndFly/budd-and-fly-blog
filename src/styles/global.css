@@ -186,3 +186,15 @@ details.faq p { margin-top: 10px; color: var(--ink-soft); }
 /* Badge « gratuit » mis en avant sur les guides */
 .free-badge { display: inline-block; align-self: flex-start; margin-bottom: 12px; padding: 6px 12px; border-radius: 999px; background: var(--accent); color: var(--accent-ink); font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; }
 .hero__inner .free-badge { align-self: center; }
+.cards--compact { grid-template-columns: repeat(auto-fill, minmax(min(170px, 100%), 1fr)); gap: 24px 20px; margin: 8px 0 12px; }
+
+/* Bons plans gratuits (accueil) */
+.deals { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr)); gap: 32px 28px; }
+.deal { display: flex; flex-direction: column; gap: 8px; color: inherit; text-decoration: none; min-width: 0; }
+.deal__img { position: relative; display: block; aspect-ratio: 3 / 2; overflow: hidden; border-radius: 6px; }
+.deal__img img { width: 100%; height: 100%; object-fit: cover; transition: transform .4s ease; }
+.deal:hover .deal__img img { transform: scale(1.04); }
+.deal__ribbon { position: absolute; top: 12px; left: 12px; padding: 5px 12px; border-radius: 999px; background: var(--accent); color: var(--accent-ink); font-size: 12px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+.deal__title { font-family: var(--serif); font-size: 22px; line-height: 1.2; }
+.deal__more { font-size: 14px; font-weight: 700; color: var(--accent); }
+.cards--compact .card__title { font-size: 22px; line-height: 1.15; }

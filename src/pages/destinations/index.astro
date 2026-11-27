@@ -3,6 +3,7 @@ import Base from '@/layouts/Base.astro';
 import GuideCard from '@/components/GuideCard.astro';
 import { getDestinations } from '@/lib/content';
 import { MONTHS, SITE } from '@/data/site';
+import { continentOf, CONTINENT_MIN } from '@/data/continents';
 
 const destinations = await getDestinations();
 const order = ['Europe', 'Asie', 'Moyen-Orient', 'Afrique', 'Amérique du Nord', 'Amérique centrale et Caraïbes', 'Amérique du Sud', 'Océanie', 'Antarctique'];
@@ -59,7 +60,7 @@ const norm = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCa
   <div class="wrap">
     {groups.map((g) => (
       <section class="section group" id={g.name} data-group>
-        <div class="rule-title"><h2>{g.name}</h2></div>
+        <div class="rule-title"><h2>{g.items.length >= CONTINENT_MIN ? <a href={`/guides-gratuits/${continentOf(g.name)!.slug}/`}>{g.name}</a> : g.name}</h2></div>
         <div class="cards">
           {g.items.map((d) => (
             <div data-item data-search={norm([d.data.name, ...d.data.cities.map((c) => c.name)].join(' '))} data-months={d.data.months.map((m) => m.rating).join('')}>

@@ -4,9 +4,12 @@ import Base from '@/layouts/Base.astro';
 import Credit from '@/components/Credit.astro';
 import MonthPicker from '@/components/MonthPicker.astro';
 import Sourced from '@/components/Sourced.astro';
+import Share from '@/components/Share.astro';
+import GuideCard from '@/components/GuideCard.astro';
 import { getArticles, getDestinations, isDraft, profileLabel, frDate, missingChecks, type Destination } from '@/lib/content';
 import { SITE } from '@/data/site';
 import { PROFILES } from '@/data/visa';
+import { continentOf, CONTINENT_MIN } from '@/data/continents';
 
 export async function getStaticPaths() {
   const all = await getDestinations();
@@ -27,6 +30,14 @@ const seoTitle = (() => {
   return base.length <= 50 ? base : `Guide ${g.name} gratuit (PDF)`;
 })();
 const seoDescription = /gratuit/i.test(g.seo.description) ? g.seo.description : `${g.seo.description.replace(/\.?$/, '.')} Guide PDF gratuit.`.slice(0, 160);
+const sameContinent = (await getDestinations()).filter((x) => x.data.continent === g.continent);
+const continentUrl = sameContinent.length >= CONTINENT_MIN ? `/guides-gratuits/${continentOf(g.continent)!.slug}/` : `/destinations/#${g.continent}`;
+// Guides voisins : les 4 suivants dans l'ordre alphabétique du continent (en boucle),
+// pour que chaque guide reçoive autant de liens internes.
+const alpha = sameContinent.filter((x) => !x.data.advisory || x.id === d.id).sort((a, b) => a.data.name.localeCompare(b.data.name, 'fr'));
+const at = alpha.findIndex((x) => x.id === d.id);
+const neighbours = alpha.length > 1 ? [1, 2, 3, 4].map((k) => alpha[(at + k) % alpha.length]!).filter((x, i, arr) => x.id !== d.id && arr.findIndex((y) => y.id === x.id) === i) : [];
+const continentIn = continentOf(g.continent)?.in ?? `en ${g.continent}`;
 const related = (await getArticles()).filter((a) => a.data.destinations.includes(d.id)).slice(0, 4);
 
 const jsonLd = [
@@ -49,8 +60,8 @@ const jsonLd = [
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Destinations', item: new URL('/destinations/', SITE.url).href },
-      { '@type': 'ListItem', position: 2, name: g.continent, item: new URL(`/destinations/#${g.continent}`, SITE.url).href },
+      { '@type': 'ListItem', position: 1, name: 'Guides gratuits', item: new URL('/destinations/', SITE.url).href },
+      { '@type': 'ListItem', position: 2, name: g.continent, item: new URL(continentUrl, SITE.url).href },
       { '@type': 'ListItem', position: 3, name: g.name, item: url },
     ],
   },
@@ -73,11 +84,11 @@ const essentials = [
   ...(g.essentials.emergency ? [['Urgences', g.essentials.emergency]] : []),
 ] as [string, string][];
 ---
-<Base title={seoTitle} description={seoDescription} image={g.hero?.src} imageAlt={g.hero?.alt} modified={g.updatedAt} draft={draft} jsonLd={jsonLd} type="article">
+<Base title={seoTitle} description={seoDescription} image={g.hero ? `/og/${d.id}.jpg` : undefined} imageAlt={g.hero?.alt} modified={g.updatedAt} draft={draft} jsonLd={jsonLd} type="article">
   <section class:list={['hero', { 'hero--plain': !g.hero }]}>
     {g.hero && <picture>{webpSet(g.hero.src) && <source type="image/webp" srcset={webpSet(g.hero.src)} sizes="100vw" />}<img src={g.hero.src} alt={g.hero.alt} width="1600" height="1067" fetchpriority="high" /></picture>}
     <div class="hero__inner">
-      <nav aria-label="Fil d'Ariane" class="crumbs"><a href="/destinations/">Destinations</a> / <a href={`/destinations/#${g.continent}`}>{g.continent}</a> / {g.name}</nav>
+      <nav aria-label="Fil d'Ariane" class="crumbs"><a href="/destinations/">Guides gratuits</a> / <a href={continentUrl}>{g.continent}</a> / {g.name}</nav>
       <span class="free-badge">100 % gratuit · PDF sans inscription</span>
       <h1>Guide de voyage {g.name} gratuit</h1>
       <p class="hero__date">Mis à jour le {updated}</p>
@@ -107,6 +118,7 @@ const essentials = [
           {g.reviewer && <> · Relu par {g.reviewer.name} le {frDate(g.reviewer.date)}</>}
         </p>
         <p class="lead">{g.summary}</p>
+        <Share url={url} text={`Guide de voyage ${g.name} gratuit en PDF`} pin={g.hero ? new URL(`/og/${d.id}-pin.jpg`, SITE.url).href : undefined} />
       </div>
 
       <section id="essentiel">
@@ -122,7 +134,7 @@ const essentials = [
       </section>
 
       {g.freeTip && (
-        <aside class="freetip" aria-label="Le bon plan gratuit">
+        <aside class="freetip" id="bon-plan" aria-label="Le bon plan gratuit">
           <span class="freetip__kicker">Le bon plan gratuit</span>
           <p class="freetip__title">{g.freeTip.title}</p>
           <p class="freetip__text">{g.freeTip.text}</p>
@@ -216,6 +228,13 @@ const essentials = [
         <section id="articles" class="block">
           <h2>Pour préparer ton voyage {g.prep}</h2>
           <ul class="related">{related.map((a) => <li><a href={`/blog/${a.id}/`}>{a.data.title}</a></li>)}</ul>
+        </section>
+      )}
+      {neighbours.length > 0 && (
+        <section id="autres-guides" class="block">
+          <h2>D'autres guides gratuits {continentIn}</h2>
+          <div class="cards cards--compact">{neighbours.map((x) => <GuideCard d={x} />)}</div>
+          <p><a class="small-link" href={continentUrl}>Tous les guides gratuits {continentIn} →</a></p>
         </section>
       )}
     </article>

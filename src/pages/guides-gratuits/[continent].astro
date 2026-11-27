@@ -1,0 +1,120 @@
+---
+import Base from '@/layouts/Base.astro';
+import GuideCard from '@/components/GuideCard.astro';
+import { getDestinations, type Destination } from '@/lib/content';
+import { MONTHS, SITE } from '@/data/site';
+import { CONTINENTS, CONTINENT_MIN } from '@/data/continents';
+
+export async function getStaticPaths() {
+  const all = await getDestinations();
+  return CONTINENTS.map((c) => ({
+    params: { continent: c.slug },
+    props: { c, items: all.filter((d) => d.data.continent === c.name).sort((a, b) => a.data.name.localeCompare(b.data.name, 'fr')) },
+  })).filter((p) => p.props.items.length >= CONTINENT_MIN);
+}
+
+type C = (typeof CONTINENTS)[number];
+const { c, items } = Astro.props as { c: C; items: Destination[] };
+const url = new URL(`/guides-gratuits/${c.slug}/`, SITE.url).href;
+const n = items.length;
+const all = await getDestinations();
+const others = CONTINENTS.filter((o) => o.slug !== c.slug && all.filter((d) => d.data.continent === o.name).length >= CONTINENT_MIN);
+
+// « Quand partir » : pour chaque mois, les guides notés « idéal » (hors destinations déconseillées).
+const byMonth = MONTHS.map((m, i) => ({
+  m,
+  ideal: items.filter((d) => !d.data.advisory && d.data.months[i]?.rating === 2).map((d) => d.data),
+}));
+const names = items.map((d) => d.data.name);
+const list = (a: string[]) => (a.length > 1 ? `${a.slice(0, -1).join(', ')} et ${a.at(-1)}` : a[0] ?? '');
+const bestMonths = byMonth.filter((x) => x.ideal.length > 0);
+
+const faq = [
+  { q: `Quels guides de voyage gratuits pour voyager ${c.in} ?`, a: `Budd&Fly propose ${n} guides gratuits ${c.in} : ${list(names)}. Chacun se lit en ligne ou se télécharge en PDF, sans inscription.` },
+  ...(bestMonths.length
+    ? [{ q: `Quand partir ${c.in} ?`, a: bestMonths.map((x) => `${x.m.name[0]!.toUpperCase() + x.m.name.slice(1)} : ${list(x.ideal.slice(0, 6).map((g) => g.name))}${x.ideal.length > 6 ? '…' : ''}`).join('. ') + '.' }]
+    : []),
+  { q: 'Les guides sont-ils vraiment gratuits ?', a: "Oui : lecture en ligne et PDF A4 gratuits, sans compte ni adresse e-mail. Les formalités sont résumées à partir de sources officielles et datées." },
+];
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: `Guides de voyage gratuits ${c.in}`,
+    url,
+    inLanguage: 'fr',
+    isAccessibleForFree: true,
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: n,
+      itemListElement: items.map((d, i) => ({ '@type': 'ListItem', position: i + 1, name: `Guide de voyage ${d.data.name} gratuit`, url: new URL(`/destinations/${d.id}/`, SITE.url).href })),
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Guides gratuits', item: new URL('/destinations/', SITE.url).href },
+      { '@type': 'ListItem', position: 2, name: c.name, item: url },
+    ],
+  },
+  { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+];
+const title = `Guides de voyage gratuits ${c.in} (PDF) : ${n} pays`;
+---
+<Base title={title.length <= 50 ? title : `Guides de voyage gratuits ${c.in}`} description={`${n} guides de voyage gratuits ${c.in}, en PDF sans inscription : formalités vérifiées, meilleure saison mois par mois, villes et itinéraires.`.slice(0, 160)} jsonLd={jsonLd} image={items[0]?.data.hero ? `/og/${items[0].id}.jpg` : undefined}>
+  <section class="hero hero--plain head">
+    <div class="hero__inner">
+      <nav aria-label="Fil d'Ariane" class="crumbs"><a href="/destinations/">Guides gratuits</a> / {c.name}</nav>
+      <span class="free-badge">100 % gratuit · sans inscription</span>
+      <h1>Guides de voyage gratuits {c.in}</h1>
+      <p class="muted">{n} destinations {c.in}, chacune avec son guide PDF gratuit : formalités vérifiées, meilleure saison, villes et itinéraires.</p>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <section class="section">
+      <div class="cards">{items.map((d) => <GuideCard d={d} />)}</div>
+    </section>
+
+    {bestMonths.length > 0 && (
+      <section class="section" id="quand-partir">
+        <div class="rule-title"><h2>Quand partir {c.in} ?</h2></div>
+        <p class="intro">Les destinations notées « idéal » dans nos guides, mois par mois.</p>
+        <dl class="months">
+          {byMonth.map((x) => (
+            <div class="months__row">
+              <dt><a href={`/ou-partir/${x.m.slug}/`}>{x.m.name[0]!.toUpperCase() + x.m.name.slice(1)}</a></dt>
+              <dd>{x.ideal.length ? <>{x.ideal.slice(0, 10).map((g, i) => <>{i > 0 && ', '}<a href={`/destinations/${items.find((d) => d.data === g)!.id}/`}>{g.name}</a></>)}{x.ideal.length > 10 && <> · <a href={`/ou-partir/${x.m.slug}/`}>+ {x.ideal.length - 10} autres</a></>}</> : <span class="muted">Pas de destination idéale ce mois-ci</span>}</dd>
+            </div>
+          ))}
+        </dl>
+      </section>
+    )}
+
+    <section class="section faq-hub" id="faq">
+      <div class="rule-title"><h2>Questions fréquentes</h2></div>
+      {faq.map((f) => <details class="faq-hub__item"><summary>{f.q}</summary><p>{f.a}</p></details>)}
+    </section>
+
+    <nav class="section others" aria-label="Autres continents">
+      <div class="rule-title"><h2>Les autres continents</h2></div>
+      <ul>{others.map((o) => <li><a href={`/guides-gratuits/${o.slug}/`}>Guides gratuits {o.in}</a></li>)}</ul>
+    </nav>
+  </div>
+</Base>
+
+<style>
+  .months { display: grid; gap: 0; max-width: 900px; }
+  .months__row { display: grid; grid-template-columns: 130px 1fr; gap: 16px; padding: 12px 0; border-bottom: 1px solid var(--line); }
+  .months__row dt { font-weight: 700; }
+  .months__row dd { margin: 0; color: var(--ink-soft); }
+  .faq-hub { max-width: 820px; }
+  .faq-hub__item { border-bottom: 1px solid var(--line); padding: 16px 0; }
+  .faq-hub__item summary { cursor: pointer; font-weight: 600; }
+  .faq-hub__item p { margin-top: 10px; color: var(--ink-soft); }
+  .others ul { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 10px; }
+  .others a { display: inline-block; padding: 8px 14px; border: 1px solid var(--line-strong); border-radius: 999px; text-decoration: none; color: var(--ink); }
+  @media (max-width: 600px) { .months__row { grid-template-columns: 1fr; gap: 4px; } }
+</style>

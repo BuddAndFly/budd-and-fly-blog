@@ -13,3 +13,6 @@ public/images/**/*-1600.webp
 public/images/blog/*-[0-9].jpg
 public/images/blog/*-[0-9]-800.webp
 public/images/blog/*-[0-9]-1600.webp
+
+# Images de partage générées au build (scripts/og.mjs)
+public/og/

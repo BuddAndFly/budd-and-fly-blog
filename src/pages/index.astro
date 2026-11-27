@@ -18,6 +18,15 @@ const goodNext = destinations
   .filter((d) => !d.data.advisory && d.data.months[next]!.rating === 2)
   .slice(0, 4);
 
+// Bons plans gratuits : vrais bons plans des guides, 6 tirés au sort selon le jour de la compilation.
+const day = Math.floor(Date.now() / 86400000);
+const tips = destinations
+  .filter((d) => d.data.freeTip && d.data.hero && !d.data.advisory)
+  .map((d, i) => ({ d, k: ((i + 1) * 2654435761 + day * 40503) % 4294967296 }))
+  .sort((a, b) => a.k - b.k)
+  .slice(0, 6)
+  .map((x) => x.d);
+
 const catSlug = (name: string) => CATEGORIES.find((c) => c.name === name)?.slug ?? '';
 
 // Le WebSite (avec SearchAction) est déclaré une seule fois dans Base.astro.
@@ -66,8 +75,28 @@ const jsonLd: object[] = [];
     <div class="rule-title"><h2>Nos guides de voyage gratuits en PDF</h2></div>
     <p class="intro">Un PDF par destination, sans inscription : papiers, santé, sécurité, meilleure saison, villes et itinéraires. Tout ce qu'il faut, rien de trop.</p>
     <div class="cards">{featured.map((d) => <GuideCard d={d} />)}</div>
-    <div class="center"><a href="/destinations/" class="btn btn--outline">Voir toutes les destinations</a></div>
+    <div class="center"><a href="/destinations/" class="btn btn--outline">Voir les {destinations.length} guides gratuits</a></div>
   </section>
+
+  {tips.length > 0 && (
+    <section class="wrap section">
+      <div class="rule-title"><h2>Bons plans gratuits et peu connus</h2></div>
+      <p class="intro">Une activité gratuite que peu de voyageurs connaissent, repérée dans chaque guide.</p>
+      <div class="deals">
+        {tips.map((d) => (
+          <a class="deal" href={`/destinations/${d.id}/#bon-plan`}>
+            <span class="deal__img">
+              <picture>{webpSet(d.data.hero!.src) && <source type="image/webp" srcset={webpSet(d.data.hero!.src)} sizes="(max-width: 700px) 100vw, 400px" />}<img src={d.data.hero!.src} alt={d.data.hero!.alt} loading="lazy" width="800" height="533" /></picture>
+              <span class="deal__ribbon">Gratuit</span>
+            </span>
+            <span class="kicker">{d.data.name}</span>
+            <span class="deal__title">{d.data.freeTip!.title}</span>
+            <span class="deal__more">Voir le bon plan →</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
 
   {goodNext.length > 0 && (
     <section class="wrap section split">

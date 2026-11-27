@@ -1,0 +1,45 @@
+---
+// Boutons de partage sans script tiers ni cookie : simples liens vers chaque réseau,
+// plus « Copier le lien » (et le partage natif du téléphone quand il existe).
+interface Props { url: string; text: string; pin?: string; label?: string; }
+const { url, text, pin, label = 'Partager ce guide' } = Astro.props;
+const e = encodeURIComponent;
+const links = [
+  pin && { name: 'Pinterest', href: `https://www.pinterest.com/pin/create/button/?url=${e(url)}&media=${e(pin)}&description=${e(text)}` },
+  { name: 'WhatsApp', href: `https://wa.me/?text=${e(`${text} ${url}`)}` },
+  { name: 'Facebook', href: `https://www.facebook.com/sharer/sharer.php?u=${e(url)}` },
+  { name: 'X', href: `https://x.com/intent/post?text=${e(text)}&url=${e(url)}` },
+].filter(Boolean) as { name: string; href: string }[];
+---
+<div class="share" data-share data-url={url} data-text={text}>
+  <span class="share__label">{label}</span>
+  <div class="share__btns">
+    {links.map((l) => <a class="share__btn" href={l.href} target="_blank" rel="noopener nofollow">{l.name}</a>)}
+    <button type="button" class="share__btn" data-copy>Copier le lien</button>
+  </div>
+</div>
+
+<script>
+  for (const box of document.querySelectorAll<HTMLElement>('[data-share]')) {
+    const btn = box.querySelector<HTMLButtonElement>('[data-copy]');
+    if (!btn) continue;
+    const { url = '', text = '' } = box.dataset;
+    if (navigator.share && matchMedia('(pointer: coarse)').matches) btn.textContent = 'Partager…';
+    btn.addEventListener('click', async () => {
+      try {
+        if (navigator.share && matchMedia('(pointer: coarse)').matches) { await navigator.share({ title: text, url }); return; }
+        await navigator.clipboard.writeText(url);
+        btn.textContent = 'Lien copié ✓';
+        setTimeout(() => (btn.textContent = 'Copier le lien'), 2000);
+      } catch { /* partage annulé ou presse-papiers refusé */ }
+    });
+  }
+</script>
+
+<style>
+  .share { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; padding: 14px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); margin: 24px 0; }
+  .share__label { font-size: 12px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+  .share__btns { display: flex; flex-wrap: wrap; gap: 8px; }
+  .share__btn { display: inline-flex; align-items: center; min-height: 36px; padding: 0 14px; border: 1px solid var(--line-strong); border-radius: 999px; background: var(--paper); color: var(--ink); font: 600 14px var(--sans); text-decoration: none; cursor: pointer; }
+  .share__btn:hover { border-color: var(--accent); color: var(--accent); }
+</style>

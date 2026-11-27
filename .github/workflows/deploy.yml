@@ -26,6 +26,12 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      # Images de partage (scripts/og.mjs) : réutilisées d'un déploiement à l'autre, seules les nouvelles sont générées.
+      - uses: actions/cache@v4
+        with:
+          path: public/og
+          key: og-${{ hashFiles('scripts/og.mjs', 'src/content/destinations/**', 'public/images/destinations/**') }}
+          restore-keys: og-
       - name: Compiler le site
         run: npm run build
         env:

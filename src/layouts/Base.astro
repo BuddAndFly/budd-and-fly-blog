@@ -74,6 +74,7 @@ const isHome = Astro.url.pathname === '/';
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={ogImage} />
     <meta property="og:image:alt" content={imageAlt ?? title} />
+    {ogImage.includes('/og/') && <><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="630" /></>}
     {type === 'article' && published && <meta property="article:published_time" content={published} />}
     {type === 'article' && modified && <meta property="article:modified_time" content={modified} />}
     <meta name="twitter:card" content="summary_large_image" />
