@@ -4,6 +4,7 @@ import Base from '@/layouts/Base.astro';
 import Credit from '@/components/Credit.astro';
 import { getDestinations, isDraft, profileLabel, frDate, type Destination } from '@/lib/content';
 import { SITE } from '@/data/site';
+import Share from '@/components/Share.astro';
 
 export async function getStaticPaths() {
   const all = await getDestinations();
@@ -14,31 +15,42 @@ type City = Destination['data']['cities'][number];
 const { d, c } = Astro.props as { d: Destination; c: City };
 const g = d.data;
 const others = g.cities.filter((x) => x.slug !== c.slug);
-const title = `Que faire à ${c.name} : quartiers, visites, où dormir`;
-const description = `${c.name} (${g.name}) : où dormir, que voir, nos lieux moins connus, où manger et comment se déplacer. ${c.nights} conseillées.`.slice(0, 158);
+// « à » + nom, avec contraction de l'article : au Serengeti, aux Alpes, à la côte ouest, à La Paz, à l'île de Pâques.
+const aName = (n: string) => {
+  if (/^Le /.test(n)) return `au ${n.slice(3)}`;
+  if (/^Les /.test(n)) return `aux ${n.slice(4)}`;
+  if (/^L['’]/.test(n)) return `à l'${n.slice(2)}`;
+  if (/^La [a-zà-ÿ]/.test(n)) return `à la ${n.slice(3)}`;
+  return `à ${n}`;
+};
+const at = aName(c.name);
+// Titre : la requête « que faire à … » d'abord, puis la gratuité si la place le permet (~60 caractères avec « | Budd&Fly »).
+const title = [`Que faire ${at} : visites, où dormir (guide gratuit)`, `Que faire ${at} : guide gratuit`, `Que faire ${at}`].find((t) => t.length <= 50) ?? `${c.name} : que faire, que voir`.replace(/ \(.*?\)/, '');
+const baseDesc = `${c.name} (${g.name}) : où dormir, que voir, nos lieux moins connus, où manger et comment se déplacer. ${c.nights} conseillées.`;
+const description = (baseDesc.length <= 140 ? `${baseDesc} Guide PDF gratuit.` : baseDesc).slice(0, 158);
 const url = new URL(`/destinations/${d.id}/${c.slug}/`, SITE.url).href;
 const jsonLd = [
   {
-    '@context': 'https://schema.org', '@type': 'Article', headline: title, description, inLanguage: 'fr', dateModified: g.updatedAt, mainEntityOfPage: url,
+    '@context': 'https://schema.org', '@type': 'Article', headline: title, description, inLanguage: 'fr', isAccessibleForFree: true, dateModified: g.updatedAt, mainEntityOfPage: url,
     image: c.photo ? new URL(c.photo.src, SITE.url).href : undefined,
     author: g.author ? { '@type': 'Person', name: g.author.name } : { '@type': 'Organization', name: SITE.name },
     about: { '@type': 'City', name: c.name, containedInPlace: { '@type': 'Country', name: g.name } },
   },
   {
     '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Destinations', item: new URL('/destinations/', SITE.url).href },
+      { '@type': 'ListItem', position: 1, name: 'Guides gratuits', item: new URL('/destinations/', SITE.url).href },
       { '@type': 'ListItem', position: 2, name: g.name, item: new URL(`/destinations/${d.id}/`, SITE.url).href },
       { '@type': 'ListItem', position: 3, name: c.name, item: url },
     ],
   },
 ];
 ---
-<Base title={title} description={description} image={c.photo?.src} draft={isDraft(d)} jsonLd={jsonLd} type="article">
+<Base title={title} description={description} image={c.photo?.src ?? (g.hero ? `/og/${d.id}.jpg` : undefined)} draft={isDraft(d)} jsonLd={jsonLd} type="article">
   <section class:list={['hero', { 'hero--plain': !c.photo }]}>
     {c.photo && <picture>{webpSet(c.photo.src) && <source type="image/webp" srcset={webpSet(c.photo.src)} sizes="100vw" />}<img src={c.photo.src} alt={c.photo.alt} width="1600" height="1067" fetchpriority="high" /></picture>}
     <div class="hero__inner">
-      <nav aria-label="Fil d'Ariane" class="crumbs"><a href="/destinations/">Destinations</a> / <a href={`/destinations/${d.id}/`}>{g.name}</a> / {c.name}</nav>
-      <h1>Que faire à {c.name}</h1>
+      <nav aria-label="Fil d'Ariane" class="crumbs"><a href="/destinations/">Guides gratuits</a> / <a href={`/destinations/${d.id}/`}>{g.name}</a> / {c.name}</nav>
+      <h1>Que faire {at}</h1>
       <p class="hero__date">{c.nights} · mis à jour le {frDate(g.updatedAt)}</p>
     </div>
     {c.photo && <Credit credit={c.photo.credit} />}
@@ -70,12 +82,14 @@ const jsonLd = [
       <p>{c.getAround}</p>
     </section>
 
+    <Share url={url} text={`Que faire ${at} : le guide gratuit Budd&Fly`} label="Partager cette page" />
+
     {c.tip && <blockquote class="tip"><span class="kicker">Notre conseil</span><p>{c.tip}</p></blockquote>}
 
     <div class="box back">
       <p class="serif">Préparer tout le voyage {g.prep}</p>
-      <p class="muted">Formalités vérifiées, meilleure saison et itinéraires : tout est dans le guide {g.name}, aussi en PDF.</p>
-      <a class="btn btn--accent" href={`/destinations/${d.id}/`}>Voir le guide {g.name}</a>
+      <p class="muted">Formalités vérifiées, meilleure saison et itinéraires : tout est dans le guide {g.name}, gratuit et téléchargeable en PDF sans inscription.</p>
+      <a class="btn btn--accent" href={`/destinations/${d.id}/#pdf`}>Télécharger le guide {g.name} gratuit</a>
     </div>
 
     {others.length > 0 && (

@@ -13,8 +13,9 @@ export const SITE = {
  * Codes de validation des outils pour webmasters (balise meta sur toutes les pages).
  * Google Search Console : méthode « Balise HTML », copier seulement la valeur de content.
  * Bing Webmaster Tools : méthode « Balise meta » (msvalidate.01).
+ * Pinterest : revendication du site (p:domain_verify).
  */
-export const VERIFY = { google: '', bing: '' } as const;
+export const VERIFY = { google: '', bing: '', pinterest: '' } as const;
 
 /**
  * Les brouillons sont visibles seulement quand SHOW_DRAFTS=true (aperçu de relecture).
