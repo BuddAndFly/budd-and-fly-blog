@@ -12,7 +12,15 @@
     "title": "Guide Monaco : le Rocher, Monte-Carlo, que voir",
     "description": "Préparer un séjour à Monaco : formalités, meilleure saison, le Rocher, le Musée océanographique, Monte-Carlo et le jardin exotique. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/monaco/hero.jpg",
+    "alt": "Monaco et le port Hercule vus depuis La Turbie",
+    "credit": {
+      "author": "Tobi 87",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Panorama_von_Monaco-La_Turbie.jpg"
+    }
+  },
   "summary": "Monaco se visite facilement en une journée ou un week-end, à toute saison. Les Français n'ont besoin d'aucun visa. Entre le Rocher, le palais princier, le Musée océanographique et Monte-Carlo, la principauté se parcourt à pied, avec beaucoup d'escaliers et d'ascenseurs publics.",
   "essentials": {
     "bestPeriod": "Avril à juin, septembre-octobre",

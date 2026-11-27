@@ -12,7 +12,15 @@
     "title": "Guide Jamaïque : Negril, Blue Mountains, sécurité",
     "description": "Préparer un voyage en Jamaïque : formulaire C5, zones déconseillées, meilleure saison, Negril, Port Antonio, les Blue Mountains. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/jamaique/hero.jpg",
+    "alt": "Les chutes de Dunn's River, en Jamaïque",
+    "credit": {
+      "author": "Dr. Thomas Liptak",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Jamaica_Ocho_Rios_Dunn%27s_River_Falls_1.jpg"
+    }
+  },
   "summary": "La Jamaïque se visite de décembre à avril, en dehors de la saison cyclonique. Pas de visa pour 30 jours, mais le formulaire gratuit C5 est obligatoire avant le départ. L'ensemble du pays est en vigilance renforcée et Spanish Town est formellement déconseillée ; l'ambassade a des capacités d'aide limitées. Plages de Negril, côte verte de Port Antonio et café des Blue Mountains.",
   "essentials": {
     "bestPeriod": "Décembre à avril",

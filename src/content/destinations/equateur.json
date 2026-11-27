@@ -12,7 +12,15 @@
     "title": "Guide Équateur : Galápagos, Quito, sécurité",
     "description": "Préparer un voyage en Équateur : formalités, zones déconseillées, meilleure saison, Quito, le Cotopaxi, Cuenca, les Galápagos. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/equateur/hero.jpg",
+    "alt": "Le volcan Cotopaxi en Équateur",
+    "credit": {
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Cotopaxi_01.jpg"
+    }
+  },
   "summary": "L'Équateur se visite toute l'année ; juin à septembre est la saison la plus sèche dans les Andes. Pas de visa pour 90 jours, mais le passeport doit être valable plus de 6 mois après la sortie. Attention : la violence a fortement augmenté sur la côte, déconseillée sauf raison impérative (Guayaquil compris). Les Andes et les Galápagos, en vigilance normale, restent le cœur du voyage.",
   "essentials": {
     "bestPeriod": "Juin à septembre (Andes), toute l'année (Galápagos)",

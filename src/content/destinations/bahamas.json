@@ -12,7 +12,15 @@
     "title": "Guide Bahamas : Exumas, Eleuthera, Nassau",
     "description": "Préparer un voyage aux Bahamas : passeport 6 mois, transit par les États-Unis, sécurité, meilleure saison, Nassau, Exumas, Eleuthera. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/bahamas/hero.jpg",
+    "alt": "Le phare du port de Nassau, aux Bahamas",
+    "credit": {
+      "author": "Kiran891",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Nassau_Harbour_Lighthouse,_near_Nassau_Cruise_Port,_Bahamas_(March_14,_2024)_02.jpg"
+    }
+  },
   "summary": "Les Bahamas se visitent de décembre à mai, hors saison cyclonique. Le passeport doit être valable 6 mois après le départ, et le transit par les États-Unis impose les formalités américaines. Tout l'archipel est en vigilance renforcée, avec une recrudescence de violences à Nassau et Freeport : les Out Islands, comme les Exumas et Eleuthera, offrent les plus belles eaux des Caraïbes.",
   "essentials": {
     "bestPeriod": "Décembre à mai",

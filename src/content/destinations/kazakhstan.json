@@ -12,7 +12,15 @@
     "title": "Guide Kazakhstan : Almaty, canyons, lacs, visa",
     "description": "Préparer un voyage au Kazakhstan : 30 jours sans visa, zones réglementées, meilleure saison, Almaty, Charyn, Kolsai, Astana. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/kazakhstan/hero.jpg",
+    "alt": "Le grand lac d'Almaty vu depuis le col",
+    "credit": {
+      "author": "BitLord~ruwiki",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Big_Almaty_Lake_from_pass.jpg"
+    }
+  },
   "summary": "Le Kazakhstan se visite de mai à septembre, pour les montagnes autour d'Almaty, les canyons et les lacs alpins. Pas de visa pour 30 jours à chaque visite ; l'hôtel déclare ton arrivée à la police de l'immigration. Le pays est en vigilance renforcée, avec des zones à accès restreint et l'ancien site d'essais nucléaires de Semipalatinsk, formellement déconseillé.",
   "essentials": {
     "bestPeriod": "Mai à septembre",

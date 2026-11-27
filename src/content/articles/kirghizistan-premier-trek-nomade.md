@@ -7,7 +7,13 @@ status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/destinations/kazakhstan/hero.jpg"
+  alt: "Le grand lac d'Almaty vu depuis le col"
+  credit:
+    author: "BitLord~ruwiki"
+    license: "CC BY-SA 4.0"
+    url: "https://commons.wikimedia.org/wiki/File:Big_Almaty_Lake_from_pass.jpg"
 destinations: ["kirghizistan", "kazakhstan"]
 images: []
 enBref: ["Le Kirghizistan est idéal pour un premier trek, de juin à septembre.", "Deux randonnées pour commencer : le lac Song-Kul et le lac Ala-Kul.", "30 jours sans visa pour les Français.", "Une assurance couvrant les secours en montagne est indispensable."]

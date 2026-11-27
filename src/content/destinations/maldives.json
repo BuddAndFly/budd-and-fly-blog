@@ -12,7 +12,15 @@
     "title": "Guide Maldives : îles locales, visa malin",
     "description": "Préparer un voyage aux Maldives : visa gratuit à l'arrivée, sécurité, meilleure saison, Malé, îles locales, resorts, plongée. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/maldives/hero.jpg",
+    "alt": "Un atoll des Maldives vu du ciel",
+    "credit": {
+      "author": "Hotel Kaesong",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Maldives_-_aerial_view4.jpg"
+    }
+  },
   "summary": "Les Maldives se visitent de décembre à avril, pendant la saison sèche. Le visa de 30 jours est gratuit à l'arrivée, avec un passeport valable 6 mois après le séjour, un billet retour et une réservation d'hébergement. Tout le pays est en vigilance renforcée. Depuis l'ouverture des guesthouses sur les îles locales, il est possible d'y voyager sans le budget d'un resort.",
   "essentials": {
     "bestPeriod": "Décembre à avril",

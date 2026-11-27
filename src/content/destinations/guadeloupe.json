@@ -12,7 +12,15 @@
     "title": "Guide Guadeloupe : îles, Soufrière, plages",
     "description": "Préparer un voyage en Guadeloupe : papiers, santé, meilleure saison, Basse-Terre, Grande-Terre, Marie-Galante, les Saintes. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/guadeloupe/hero.jpg",
+    "alt": "La plage de Grande Anse, en Guadeloupe",
+    "credit": {
+      "author": "LPLT",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Plage_de_Grande_Anse_vers_le_sud.JPG"
+    }
+  },
   "summary": "La Guadeloupe se visite de décembre à avril, pendant la saison sèche ; de juin à novembre, c'est la saison des pluies et des cyclones. Une carte d'identité suffit pour un vol direct. Volcan de la Soufrière, forêt tropicale de Basse-Terre, plages de Grande-Terre et petites îles : un archipel très varié.",
   "essentials": {
     "bestPeriod": "Décembre à avril",

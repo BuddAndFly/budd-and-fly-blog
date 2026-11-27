@@ -12,7 +12,15 @@
     "title": "Guide Belize : Caye Caulker, Blue Hole, Maya",
     "description": "Préparer un voyage au Belize : formalités, sécurité, meilleure saison, Caye Caulker, le Grand Trou bleu, San Ignacio, sites mayas. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/belize/hero.jpg",
+    "alt": "Caye Caulker au Belize",
+    "credit": {
+      "author": "dronepicr",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Caye_Caulker_Belize_aerial_(20688990128).jpg"
+    }
+  },
   "summary": "Le Belize se visite de décembre à avril, en saison sèche ; la saison cyclonique va de juin à novembre. Pas de visa pour moins de 30 jours, avec un passeport valable 6 mois et un billet retour. Tout le pays est en vigilance renforcée, avec une délinquance marquée à Belize City. Deuxième barrière de corail du monde, îles décontractées et sites mayas dans la jungle.",
   "essentials": {
     "bestPeriod": "Décembre à avril",

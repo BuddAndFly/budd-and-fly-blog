@@ -12,7 +12,15 @@
     "title": "Guide Géorgie : quand partir, Tbilissi, Caucase",
     "description": "Préparer un voyage en Géorgie : sans visa, meilleure saison, Tbilissi, Kazbegi, la Kakhétie, la Svanétie, zones à éviter. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/georgie/hero.jpg",
+    "alt": "Le mont Kazbek au-dessus de Stepantsminda, en Géorgie",
+    "credit": {
+      "author": "MaxBenidze",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kazbek,_Gergeti_Trinity_Church_2017.jpg"
+    }
+  },
   "summary": "La Géorgie se visite de mai à octobre, quand les routes de montagne du Caucase sont ouvertes ; septembre-octobre ajoute les vendanges. Pas de visa pour moins d'un an, avec un passeport ou une carte d'identité valable pendant tout le séjour. Tbilissi, les montagnes de Kazbegi et les vignobles de Kakhétie forment un premier voyage très complet.",
   "essentials": {
     "bestPeriod": "Mai à octobre",
