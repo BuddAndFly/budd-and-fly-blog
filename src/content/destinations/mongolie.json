@@ -12,7 +12,15 @@
     "title": "Guide Mongolie : Gobi, steppe, Naadam, sans visa",
     "description": "Préparer un voyage en Mongolie : 30 jours sans visa jusqu'à fin 2026, sécurité, meilleure saison, Oulan-Bator, Gobi, vallée de l'Orkhon. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/mongolie/hero.jpg",
+    "alt": "Une route dans la province de Bayan-Ölgii, en Mongolie",
+    "credit": {
+      "author": "Alexandr frolov",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Road_in_Mongolia_aimak_Bayan_Ulgiy_02.jpg"
+    }
+  },
   "summary": "La Mongolie se visite de juin à septembre ; l'hiver dure près de huit mois et peut descendre à -40 °C. Jusqu'au 31 décembre 2026, les touristes français peuvent y rester 30 jours sans visa. Le pays est en vigilance renforcée à cause des distances, des routes et de la faiblesse des structures médicales : une très bonne assurance est impérative.",
   "essentials": {
     "bestPeriod": "Juin à septembre",

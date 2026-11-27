@@ -12,7 +12,15 @@
     "title": "Guide Fidji : Yasawa, Mamanuca, Taveuni",
     "description": "Préparer un voyage aux Fidji : visa gratuit à l'arrivée, cyclones, meilleure saison, Nadi, les Mamanuca, les Yasawa, Taveuni. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/fidji/hero.jpg",
+    "alt": "Treasure Island, aux Fidji",
+    "credit": {
+      "author": "JaumeBG",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Treasure_Island_(Fiji).jpg"
+    }
+  },
   "summary": "Les Fidji se visitent de mai à octobre, en saison sèche ; de novembre à avril, c'est la saison des cyclones. Le visa de tourisme est gratuit à l'arrivée pour 4 mois maximum, avec un passeport valable 6 mois au-delà et un billet retour. Archipel de plus de 300 îles, l'accueil « bula » des villages et les récifs coralliens sont inoubliables.",
   "essentials": {
     "bestPeriod": "Mai à octobre",
