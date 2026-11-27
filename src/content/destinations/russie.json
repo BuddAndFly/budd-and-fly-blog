@@ -12,7 +12,15 @@
     "title": "Guide Russie : Moscou, Saint-Pétersbourg, visa",
     "description": "Préparer un voyage en Russie : visa, carte de migration, assurance, Moscou, Saint-Pétersbourg et ses nuits blanches. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/russie/hero.jpg",
+    "alt": "La cathédrale Saint-Basile et le Kremlin, à Moscou",
+    "credit": {
+      "author": "sussexbirder",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/9919745@N03/8606864868"
+    }
+  },
   "summary": "La Russie se visite de mai à septembre, avec les nuits blanches de Saint-Pétersbourg en juin. Un visa est obligatoire, ainsi qu'une assurance rapatriement, et une carte de migration est remise à l'entrée. Moscou et Saint-Pétersbourg concentrent l'essentiel des visites. France Diplomatie déconseille actuellement de s'y rendre : consulte sa fiche avant de partir.",
   "essentials": {
     "bestPeriod": "Mai à septembre",

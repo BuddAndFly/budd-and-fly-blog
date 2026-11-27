@@ -12,7 +12,15 @@
     "title": "Guide Moldavie : Chișinău, caves à vin, monastères",
     "description": "Préparer un voyage en Moldavie : papiers valables 6 mois, Transnistrie déconseillée, Chișinău, caves à vin, Orheiul Vechi. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/moldavie/hero.jpg",
+    "alt": "La vallée de la Răut à Orheiul Vechi, en Moldavie",
+    "credit": {
+      "author": "D-Stanley",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/79721788@N00/38136876625"
+    }
+  },
   "summary": "La Moldavie se visite de mai à octobre, notamment pendant les vendanges. Pas de visa pour les Français jusqu'à 90 jours, mais la carte d'identité ou le passeport doivent être valables 6 mois à l'entrée. La Transnistrie est déconseillée sauf raison impérative. Le pays est connu pour ses caves à vin et ses monastères.",
   "essentials": {
     "bestPeriod": "Mai à octobre",

@@ -12,7 +12,15 @@
     "title": "Guide Sénégal : Dakar, Saint-Louis, Sine Saloum",
     "description": "Préparer un voyage au Sénégal : passeport 6 mois, zones déconseillées, meilleure saison, Dakar, Gorée, Saint-Louis, le Sine Saloum. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/senegal/hero.jpg",
+    "alt": "La côte de Dakar, au Sénégal",
+    "credit": {
+      "author": "Jeff Attaway",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/33398364@N08/5274051599"
+    }
+  },
   "summary": "Le Sénégal se visite de novembre à mai, en saison sèche. Pas de visa pour moins de 3 mois, avec un passeport valable plus de 6 mois. Le pays est accueillant et proche de la France ; seules certaines zones frontalières (Mali, sud de la Mauritanie, une partie de la Casamance) sont déconseillées sauf raison impérative.",
   "essentials": {
     "bestPeriod": "Novembre à mai",

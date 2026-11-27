@@ -12,7 +12,15 @@
     "title": "Guide Mayotte : lagon, tortues, randonnées",
     "description": "Préparer un voyage à Mayotte : carte d'identité, paludisme, dengue, lagon, plage de N'Gouja et ses tortues, Petite-Terre. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/mayotte/hero.jpg",
+    "alt": "Le lagon de Mayotte",
+    "credit": {
+      "author": "dalbera",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/72746018@N00/34707734326"
+    }
+  },
   "summary": "Mayotte se visite de mai à octobre, pendant la saison sèche. Une carte d'identité suffit pour un Français. L'île est entourée de l'un des plus grands lagons du monde : tortues, baleines en saison et îlots de sable blanc sont les temps forts.",
   "essentials": {
     "bestPeriod": "Mai à octobre",

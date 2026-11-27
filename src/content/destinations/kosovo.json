@@ -12,7 +12,15 @@
     "title": "Guide Kosovo : Prizren, Pristina, montagnes de Rugova",
     "description": "Préparer un voyage au Kosovo : carte d'identité, déclaration de résidence, zones de vigilance, Prizren, Pristina, Peja et Rugova. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/kosovo/hero.jpg",
+    "alt": "Vue sur Prizren, au Kosovo",
+    "credit": {
+      "author": "FriaLOve",
+      "license": "CC BY-SA 2.0",
+      "url": "https://www.flickr.com/photos/24518795@N07/2751079762"
+    }
+  },
   "summary": "Le Kosovo se visite de mai à octobre. Les Français entrent avec une carte d'identité ou un passeport valides, et doivent déclarer leur lieu de résidence dans les 3 jours. La situation est globalement bonne ; le nord du pays demande une vigilance renforcée. Prizren, Pristina et les montagnes autour de Peja sont les étapes phares.",
   "essentials": {
     "bestPeriod": "Mai à octobre",
