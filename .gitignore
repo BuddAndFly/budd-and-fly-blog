@@ -8,3 +8,8 @@ dist/
 # Versions WebP générées au build (scripts/images.mjs)
 public/images/**/*-800.webp
 public/images/**/*-1600.webp
+
+# Photos d'articles en attente de vérification (renommées une fois validées)
+public/images/blog/*-[0-9].jpg
+public/images/blog/*-[0-9]-800.webp
+public/images/blog/*-[0-9]-1600.webp
