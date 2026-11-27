@@ -15,7 +15,7 @@ hero:
     license: "CC BY-SA 4.0"
     url: "https://commons.wikimedia.org/wiki/File:Alfama,_Lisbon_(DSC03371).jpg"
 destinations: ["portugal"]
-images: []
+images: [{"src": "/images/blog/acores-deconnexion-nature-img1.jpg", "alt": "Les lagunes de Sete Cidades, aux Açores", "credit": {"author": "Andrew Rusk", "license": "CC BY 2.0", "url": "https://www.flickr.com/photos/74098208@N00/14014081106"}}, {"src": "/images/blog/acores-deconnexion-nature-img2.jpg", "alt": "Un sentier en forêt à Furnas, aux Açores", "credit": {"author": "Andrew Rusk", "license": "CC BY 2.0", "url": "https://www.flickr.com/photos/74098208@N00/14037173315"}}]
 enBref: ["Neuf îles portugaises au milieu de l'Atlantique : lacs de cratère, sources chaudes et baleines.", "Carte d'identité ou passeport valide suffisent : c'est l'Union européenne.", "De mai à septembre pour le temps le plus stable.", "Compte au moins une semaine pour deux îles."]
 conseil: "Garde des jours de marge dans ton programme : aux Açores, la météo peut annuler un vol entre îles ou une sortie en mer."
 faq: [{"q": "Faut-il un passeport pour les Açores ?", "a": "Non : les Açores font partie du Portugal et de l'Union européenne. Une carte d'identité ou un passeport en cours de validité suffisent."}, {"q": "Quelles îles des Açores visiter ?", "a": "São Miguel pour ses lacs et ses sources chaudes, Pico pour son sommet et ses vignobles, Faial pour Horta et le volcan de Capelinhos, Flores pour sa nature sauvage."}]

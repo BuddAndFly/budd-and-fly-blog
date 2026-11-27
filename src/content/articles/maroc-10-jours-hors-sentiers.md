@@ -15,7 +15,7 @@ hero:
     license: "CC BY-SA 4.0"
     url: "https://commons.wikimedia.org/wiki/File:2018_01_(Blue)_-_Chaouen.jpg"
 destinations: ["maroc"]
-images: []
+images: [{"src": "/images/blog/maroc-10-jours-hors-sentiers-img1.jpg", "alt": "Le ksar d'Aït-Ben-Haddou, au Maroc", "credit": {"author": "amerune", "license": "CC BY 2.0", "url": "https://www.flickr.com/photos/72511054@N00/588071549"}}, {"src": "/images/blog/maroc-10-jours-hors-sentiers-img2.jpg", "alt": "Les dunes de Merzouga, au Maroc", "credit": {"author": "Mustang Joe", "license": "CC0", "url": "https://www.flickr.com/photos/63234672@N04/55223685205"}}]
 enBref: ["Dix jours pour trois visages du Maroc : Marrakech, le Haut Atlas et le désert.", "Le passeport est obligatoire ; pas de visa pour moins de 90 jours.", "Mars à mai et septembre à novembre sont les meilleures périodes.", "Une variante plus lente remplace le désert par Essaouira."]
 conseil: "Garde des étapes de deux nuits : les distances sont longues dans le sud, et changer d'hôtel chaque soir épuise."
 faq: [{"q": "Faut-il un passeport pour le Maroc ?", "a": "Oui, valable pendant tout le séjour : la carte d'identité seule n'est plus acceptée."}, {"q": "Quel itinéraire au Maroc en 10 jours ?", "a": "Marrakech, la vallée de l'Ourika ou Imlil, Aït-Ben-Haddou et les gorges du Dadès, le désert de Merzouga, puis retour vers Marrakech ou Fès."}]

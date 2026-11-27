@@ -7,7 +7,13 @@ status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/blog/quiz-adn-voyageur-hero.jpg"
+  alt: "Le Grand Canyon, aux États-Unis"
+  credit:
+    author: "Grand Canyon NPS"
+    license: "CC BY 2.0"
+    url: "https://www.flickr.com/photos/50693818@N08/5446674662"
 destinations: []
 images: []
 enBref: ["Le Visa voyageur est un test gratuit de dix questions.", "Il place ta façon de voyager sur six jauges et te rapproche d'un des quatre profils.", "Il sert à choisir une destination, composer un itinéraire, personnaliser ton PDF et trouver un compagnon de route."]

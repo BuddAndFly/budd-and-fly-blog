@@ -7,7 +7,13 @@ status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/blog/checklist-sur-mesure-hero.jpg"
+  alt: "Des valises anciennes empilées"
+  credit:
+    author: "marfis75"
+    license: "CC BY-SA 2.0"
+    url: "https://www.flickr.com/photos/45409431@N00/12185501694"
 destinations: []
 images: []
 enBref: ["Une base commune à tous les voyages : papiers, argent, santé, électronique.", "Des ajouts selon la destination : tropiques, montagne, grand froid, safari, plage.", "Presque tout s'achète sur place : voyage léger."]

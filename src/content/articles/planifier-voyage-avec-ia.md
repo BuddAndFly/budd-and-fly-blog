@@ -7,7 +7,13 @@ status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/blog/planifier-voyage-avec-ia-hero.jpg"
+  alt: "Une route vue dans un rétroviseur"
+  credit:
+    author: "cogdogblog"
+    license: "CC0"
+    url: "https://www.flickr.com/photos/37996646802@N01/2824428296"
 destinations: []
 images: []
 enBref: ["Les outils numériques et l'IA font gagner beaucoup de temps pour préparer un voyage.", "Une IA peut se tromper : vérifie toujours visas, sécurité et vaccins à la source.", "Les horaires et prix donnés par une IA sont souvent faux ou anciens."]

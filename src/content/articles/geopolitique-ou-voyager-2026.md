@@ -7,7 +7,13 @@ status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/blog/geopolitique-ou-voyager-2026-hero.jpg"
+  alt: "Le tableau des départs de l'aéroport de Singapour-Changi"
+  credit:
+    author: "Snipergirl"
+    license: "CC BY 2.0"
+    url: "https://www.flickr.com/photos/64885532@N00/2190339380"
 destinations: []
 images: []
 enBref: ["La fiche « Conseils aux voyageurs » de France Diplomatie reste la meilleure source.", "Quatre couleurs : vigilance normale, renforcée, déconseillé sauf raison impérative, formellement déconseillé.", "Les zones changent vite : relis la fiche juste avant de partir.", "Beaucoup d'assurances limitent leur couverture dans les zones formellement déconseillées."]

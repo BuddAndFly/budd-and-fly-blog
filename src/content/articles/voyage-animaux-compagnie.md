@@ -7,7 +7,13 @@ status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/blog/voyage-animaux-compagnie-hero.jpg"
+  alt: "Deux chiens installés en voiture pour un road trip"
+  credit:
+    author: "Dusty J"
+    license: "CC BY 2.0"
+    url: "https://www.flickr.com/photos/55608722@N06/15986992295"
 destinations: []
 images: []
 enBref: ["Voyager avec son animal est possible, avec de l'anticipation.", "Dans l'Union européenne : puce, vaccin antirabique et passeport européen pour animal.", "Hors Union européenne, les exigences peuvent être bien plus strictes.", "Réserve la place de l'animal en même temps que ton billet d'avion."]

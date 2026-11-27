@@ -7,7 +7,13 @@ status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-25"
 author: null
-hero: null
+hero:
+  src: "/images/blog/protocole-anti-galere-hero.jpg"
+  alt: "Des valises bouclées, prêtes au départ"
+  credit:
+    author: "kalleboo"
+    license: "CC BY 2.0"
+    url: "https://www.flickr.com/photos/82365211@N00/6623729071"
 destinations: []
 images: []
 enBref: ["La plupart des galères de voyage se préparent avant de partir.", "Copie des papiers, deux cartes bancaires, une bonne assurance et Ariane.", "Connais les arnaques les plus fréquentes : taxi sans compteur, faux policier, boisson droguée, faux sites de visa."]

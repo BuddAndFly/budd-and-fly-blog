@@ -7,7 +7,13 @@ status: "valide"
 publishedAt: "2026-11-25"
 updatedAt: "2026-11-26"
 author: null
-hero: null
+hero:
+  src: "/images/blog/voyage-petit-budget-1000-euros-hero.jpg"
+  alt: "Une auberge de jeunesse à Berat, en Albanie"
+  credit:
+    author: "flöschen"
+    license: "CC BY 2.0"
+    url: "https://www.flickr.com/photos/38678621@N06/8313029033"
 destinations: []
 images: []
 enBref: ["Voyager longtemps avec peu d'argent tient surtout à quelques habitudes.", "L'hébergement, les repas, les transports et le rythme sont les postes qui comptent.", "Ne rogne jamais sur l'assurance, les vaccins et un logement sûr."]
