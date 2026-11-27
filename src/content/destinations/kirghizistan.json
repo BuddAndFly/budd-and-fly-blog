@@ -12,7 +12,15 @@
     "title": "Guide Kirghizistan : yourtes, Issyk-Koul, trek",
     "description": "Préparer un voyage au Kirghizistan : 30 jours sans visa, sécurité, meilleure saison, Bichkek, Issyk-Koul, Karakol, Song-Kul, treks. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/kirghizistan/hero.jpg",
+    "alt": "Le lac Issyk-Koul, au Kirghizistan",
+    "credit": {
+      "author": "Bgag",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Lake_Issyk-Kul,_Kyrgyzstan.jpg"
+    }
+  },
   "summary": "Le Kirghizistan se visite de juin à septembre, quand les alpages et les lacs d'altitude sont accessibles. Pas de visa pour 30 jours (puis 30 jours d'attente avant de revenir). Le pays est en vigilance renforcée mais les risques sont limités ; l'ambassade n'a pas de service consulaire. Nuits en yourte, chevaux et lacs de montagne : la destination nomade par excellence.",
   "essentials": {
     "bestPeriod": "Juin à septembre",
