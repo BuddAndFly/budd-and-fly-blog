@@ -12,7 +12,15 @@
     "title": "Guide îles Salomon : plongée, lagon de Marovo, Honiara",
     "description": "Préparer un voyage aux îles Salomon : visa gratuit à l'arrivée, paludisme, Honiara, Gizo, Munda, lagon de Marovo et épaves. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/iles-salomon/hero.jpg",
+    "alt": "Le lagon de Marovo, aux îles Salomon",
+    "credit": {
+      "author": "Xplore Dive from Mooloolaba, Australia",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Marovo_Lagoon_(16_August_2008).jpg"
+    }
+  },
   "summary": "Les îles Salomon se visitent de mai à octobre, en saison sèche. Un visa gratuit de 90 jours est délivré à l'arrivée, avec un passeport valable 6 mois après le retour et un billet retour. Le pays est en vigilance renforcée ; hors de la capitale, les services essentiels ne sont pas toujours assurés. Plongée sur les épaves, lagons et villages sont les temps forts.",
   "essentials": {
     "bestPeriod": "Mai à octobre",

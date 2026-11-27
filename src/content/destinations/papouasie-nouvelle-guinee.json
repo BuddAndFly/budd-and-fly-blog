@@ -12,7 +12,15 @@
     "title": "Guide Papouasie-Nouvelle-Guinée : îles, plongée, cultures",
     "description": "Préparer un voyage en Papouasie-Nouvelle-Guinée : e-visa, paludisme, zones déconseillées, agences spécialisées, Rabaul et les îles. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/papouasie-nouvelle-guinee/hero.jpg",
+    "alt": "Le volcan Tavurvur en éruption, à Rabaul",
+    "credit": {
+      "author": "Taro Taylor edit by Richard Bartz",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tavurvur_volcano_edit.jpg"
+    }
+  },
   "summary": "La Papouasie-Nouvelle-Guinée se visite surtout de mai à octobre. Un e-visa est nécessaire, avec un passeport valable 6 mois. L'insécurité est forte dans les villes, et les Highlands et le Sepik sont fortement déconseillés sauf raison impérative ; France Diplomatie recommande de passer par des agences spécialisées. Plongée, volcans et cultures traditionnelles sont les temps forts.",
   "essentials": {
     "bestPeriod": "Mai à octobre",
