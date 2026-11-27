@@ -40,7 +40,7 @@ const url = new URL(`/blog/${a.id}/`, SITE.url).href;
 const toc = headings.filter((h) => h.depth === 2);
 const jsonLd = [
   {
-    '@context': 'https://schema.org', '@type': 'Article', headline: p.title, description: p.description, inLanguage: 'fr',
+    '@context': 'https://schema.org', '@type': 'Article', headline: p.title, description: p.description, inLanguage: 'fr', isAccessibleForFree: true,
     datePublished: p.publishedAt, dateModified: p.updatedAt, mainEntityOfPage: url,
     image: p.hero ? new URL(p.hero.src, SITE.url).href : undefined,
     author: p.author ? { '@type': 'Person', name: p.author.name } : { '@type': 'Organization', name: SITE.name },
