@@ -12,7 +12,15 @@
     "title": "Guide Brunei : mosquées, village sur l'eau, Temburong",
     "description": "Préparer un voyage au Brunei : sans visa 90 jours, e-Arrival card obligatoire, Bandar Seri Begawan, Kampong Ayer, parc d'Ulu Temburong. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/brunei/hero.jpg",
+    "alt": "La mosquée Omar Ali Saifuddien, au Brunei",
+    "credit": {
+      "author": "sam garza from Los Angeles, USA",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg"
+    }
+  },
   "summary": "Le Brunei se visite toute l'année, avec un peu moins de pluie de février à avril. Pas de visa pour les Français jusqu'à 90 jours, mais l'e-Arrival card en ligne est obligatoire avant l'arrivée. Tout le pays est en vigilance normale. Ses mosquées dorées, le village sur pilotis de Kampong Ayer et la forêt d'Ulu Temburong font une belle étape à Bornéo.",
   "essentials": {
     "bestPeriod": "Février à avril",

@@ -12,7 +12,15 @@
     "title": "Guide Guyane : îles du Salut, Kourou, fleuve Maroni",
     "description": "Préparer un voyage en Guyane : carte d'identité, fièvre jaune obligatoire, paludisme, Cayenne, îles du Salut, Kourou, marais de Kaw. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/guyane/hero.jpg",
+    "alt": "Le musée du bagne, sur l'île Royale",
+    "credit": {
+      "author": "Cayambe",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Ile_Royale_mus%C3%A9e_du_bagne.jpg"
+    }
+  },
   "summary": "La Guyane se visite surtout d'août à novembre, pendant la saison sèche. Une carte d'identité suffit pour un Français, mais la vaccination contre la fièvre jaune est exigée à l'entrée, quelle que soit la provenance. La forêt amazonienne couvre l'essentiel du territoire ; les îles du Salut, le Centre spatial de Kourou et le fleuve Maroni sont les temps forts.",
   "essentials": {
     "bestPeriod": "Août à novembre",

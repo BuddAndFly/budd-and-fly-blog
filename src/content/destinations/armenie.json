@@ -12,7 +12,15 @@
     "title": "Guide Arménie : Erevan, monastères, lac Sevan",
     "description": "Préparer un voyage en Arménie : sans visa, zones déconseillées, meilleure saison, Erevan, Garni, Gueghard, le lac Sevan, Dilijan. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/armenie/hero.jpg",
+    "alt": "Le monastère de Khor Virap face au mont Ararat",
+    "credit": {
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Monasterio_Khor_Virap,_Armenia,_2016-10-01,_DD_25.jpg"
+    }
+  },
   "summary": "L'Arménie se visite de mai à octobre. Pas de visa pour moins de 6 mois, avec un passeport valide pendant le séjour. Les zones frontalières avec l'Azerbaïdjan sont formellement déconseillées et la province du Syunik l'est sauf raison impérative : le circuit Erevan, Garni-Gueghard, Sevan et Dilijan reste en vigilance renforcée.",
   "essentials": {
     "bestPeriod": "Mai à octobre",

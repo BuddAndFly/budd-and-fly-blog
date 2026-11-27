@@ -12,7 +12,15 @@
     "title": "Guide La Réunion : volcan, cirques, randonnées",
     "description": "Préparer un voyage à La Réunion : papiers, santé, meilleure saison, le piton de la Fournaise, Mafate, Cilaos, Salazie, le lagon. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/reunion/hero.jpg",
+    "alt": "Le Piton de la Fournaise à La Réunion",
+    "credit": {
+      "author": "Alexandre Péribé",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Piton_de_La_Fournaise_-_Paysage_de_l%27%C3%AEle_de_La_R%C3%A9union.jpg"
+    }
+  },
   "summary": "La Réunion se visite d'avril à novembre, pendant l'hiver austral, sec et idéal pour la randonnée ; de décembre à mars, c'est la saison chaude et cyclonique. Une carte d'identité suffit pour un vol direct. Volcan actif, cirques classés à l'Unesco et lagon : l'île est un paradis de la randonnée.",
   "essentials": {
     "bestPeriod": "Avril à novembre",

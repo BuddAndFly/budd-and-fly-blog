@@ -12,7 +12,15 @@
     "title": "Guide Saint-Barthélemy : Gustavia, plages, que voir",
     "description": "Préparer un voyage à Saint-Barthélemy : papiers d'identité, santé, saison des ouragans, Gustavia, plages de Saline, Gouverneur et Colombier. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/saint-barthelemy/hero.jpg",
+    "alt": "Le port de Gustavia vu depuis le fort, à Saint-Barthélemy",
+    "credit": {
+      "author": "Kevin Gabbert - User: (WT-shared) Kevin James at wts wikivoyage",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Gustavia_Harbour_St_Barthelemy.JPG"
+    }
+  },
   "summary": "Saint-Barthélemy se visite de décembre à avril. Une carte d'identité suffit pour un Français, mais un passeport est obligatoire si le trajet transite par un pays étranger. Petite île escarpée, elle se découvre entre le port de Gustavia et une quinzaine de plages.",
   "essentials": {
     "bestPeriod": "Décembre à avril",

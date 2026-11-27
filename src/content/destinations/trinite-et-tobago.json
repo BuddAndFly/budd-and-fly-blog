@@ -12,7 +12,15 @@
     "title": "Guide Trinité-et-Tobago : Tobago, carnaval, sécurité",
     "description": "Préparer un voyage à Trinité-et-Tobago : sans visa, état d'urgence, zones à éviter, plages et récifs de Tobago, carnaval de Port-d'Espagne. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/trinite-et-tobago/hero.jpg",
+    "alt": "La plage de Pigeon Point, à Tobago",
+    "credit": {
+      "author": "Kp93",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Pigeon_Point_beach.jpg"
+    }
+  },
   "summary": "Trinité-et-Tobago se visite de janvier à mai, en saison sèche ; le carnaval de Port-d'Espagne a lieu juste avant le Carême. Pas de visa pour les Français jusqu'à 3 mois. L'état d'urgence est en vigueur : la violence touche surtout certains quartiers, mais plusieurs zones de l'île de la Trinité sont déconseillées. Tobago, plus calme, est idéale pour les plages et les récifs.",
   "essentials": {
     "bestPeriod": "Janvier à mai",

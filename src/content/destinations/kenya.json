@@ -12,7 +12,15 @@
     "title": "Guide Kenya : safari, Masai Mara, eTA, sécurité",
     "description": "Préparer un voyage au Kenya : eTA obligatoire, zones déconseillées, fièvre jaune, meilleure saison, Masai Mara, Amboseli, Diani. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/kenya/hero.jpg",
+    "alt": "Des zèbres traversant la rivière Mara, au Masai Mara",
+    "credit": {
+      "author": "Thomas Fuhrmann",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Masai_Mara_National_Reserve_20_-_Mara_river_crossing.jpg"
+    }
+  },
   "summary": "Le Kenya se visite de juillet à octobre, saison sèche et période de la grande migration au Masai Mara, et de janvier à mars. Une autorisation électronique de voyage (eTA) est obligatoire avant l'embarquement. Les zones frontalières avec la Somalie, l'Éthiopie et le Soudan du Sud sont formellement déconseillées ; les grands parcs et la côte sud forment le voyage classique.",
   "essentials": {
     "bestPeriod": "Juillet à octobre, janvier à mars",

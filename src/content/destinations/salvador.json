@@ -12,7 +12,15 @@
     "title": "Guide Salvador : volcans, Ruta de las Flores, surf",
     "description": "Préparer un voyage au Salvador : sans visa, état d'exception, volcan de Santa Ana, Ruta de las Flores, Suchitoto, plages de surf. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/salvador/hero.jpg",
+    "alt": "Le cratère du volcan de Santa Ana, au Salvador",
+    "credit": {
+      "author": "Emberlifi",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Crat%C3%A8re_du_Volcan_de_Santa_Ana,_Salvador.jpg"
+    }
+  },
   "summary": "Le Salvador se visite de novembre à avril, en saison sèche. Pas de visa pour les Français jusqu'à 90 jours (dans l'espace C4), avec un passeport valable 6 mois. Tout le pays est en vigilance renforcée : la sécurité s'est nettement améliorée, mais l'état d'exception donne de larges pouvoirs à la police. Volcans, villages de la Ruta de las Flores et plages de surf sont les temps forts.",
   "essentials": {
     "bestPeriod": "Novembre à avril",

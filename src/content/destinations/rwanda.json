@@ -12,7 +12,15 @@
     "title": "Guide Rwanda : gorilles, Kigali, lac Kivu",
     "description": "Préparer un voyage au Rwanda : visa gratuit à l'arrivée, sécurité, meilleure saison, Kigali, Volcans, Nyungwe, lac Kivu, Akagera. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/rwanda/hero.jpg",
+    "alt": "Le lac Kivu à l'aube",
+    "credit": {
+      "author": "Kisambira",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Lake_Kivu_at_dawn.jpg"
+    }
+  },
   "summary": "Le Rwanda se visite de juin à septembre et de décembre à février. Les Français obtiennent à l'arrivée un visa touristique gratuit de 30 jours. Tout le pays est en vigilance renforcée, surtout à cause des routes ; la prudence s'impose près des frontières congolaise et burundaise. Gorilles des Volcans, forêt de Nyungwe et lac Kivu tiennent dans un séjour compact.",
   "essentials": {
     "bestPeriod": "Juin à septembre, décembre à février",

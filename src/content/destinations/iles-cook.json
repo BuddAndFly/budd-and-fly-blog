@@ -12,7 +12,15 @@
     "title": "Guide îles Cook : Rarotonga, lagon d'Aitutaki, saisons",
     "description": "Préparer un voyage aux îles Cook : sans visa 31 jours, cyclones, Rarotonga, lagon de Muri, Aitutaki. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/iles-cook/hero.jpg",
+    "alt": "Le lagon d'Aitutaki et l'îlot de Maina",
+    "credit": {
+      "author": "Patrick Nunn",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Maina_Island,_Aitutaki_Lagoon,_Cook_Islands.jpg"
+    }
+  },
   "summary": "Les îles Cook se visitent de mai à octobre ; de novembre à avril, c'est la saison des cyclones. Pas de visa pour les Français jusqu'à 31 jours, avec un passeport valable 6 mois après le séjour, un billet retour et une preuve d'hébergement. Tout l'archipel est en vigilance normale. Rarotonga et le lagon d'Aitutaki sont les étapes phares.",
   "essentials": {
     "bestPeriod": "Mai à octobre",

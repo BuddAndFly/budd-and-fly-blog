@@ -12,7 +12,15 @@
     "title": "Guide Barbade : plages, Bridgetown, côte est sauvage",
     "description": "Préparer un voyage à la Barbade : sans visa, saison des ouragans, Bridgetown, plages de la côte ouest, côte est sauvage. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/barbade/hero.jpg",
+    "alt": "Les rochers de Bathsheba, à la Barbade",
+    "credit": {
+      "author": "Postdlf",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Bathsheba,_Barbados_20.jpg"
+    }
+  },
   "summary": "La Barbade se visite de décembre à mai, hors saison des ouragans. Pas de visa pour les Français pour moins de trois mois. L'île est en vigilance renforcée, avec des conditions de sécurité globalement bonnes. Bridgetown, les plages de la côte ouest et la côte est sauvage composent un séjour varié.",
   "essentials": {
     "bestPeriod": "Décembre à mai",

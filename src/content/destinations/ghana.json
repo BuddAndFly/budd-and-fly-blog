@@ -12,7 +12,15 @@
     "title": "Guide Ghana : Accra, Cape Coast, Kumasi, visa",
     "description": "Préparer un voyage au Ghana : visa avant le départ, zones déconseillées, meilleure saison, Accra, Cape Coast, Kakum, Kumasi. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/ghana/hero.jpg",
+    "alt": "Le château de Cape Coast",
+    "credit": {
+      "author": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Castle,_Cape_Coast_(P1100223).jpg"
+    }
+  },
   "summary": "Le Ghana se visite de novembre à mars, en saison sèche. Le visa doit être obtenu avant le départ à l'ambassade du Ghana, sous peine de refus d'entrée ; le tampon autorise 60 jours. La majorité du pays est en vigilance renforcée et la frontière nord avec le Burkina Faso est formellement déconseillée. Accra, les forts de la côte et la culture ashanti de Kumasi forment le voyage classique.",
   "essentials": {
     "bestPeriod": "Novembre à mars",

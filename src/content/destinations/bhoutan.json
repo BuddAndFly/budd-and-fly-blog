@@ -12,7 +12,15 @@
     "title": "Guide Bhoutan : visa, Paro, Thimphou, Punakha",
     "description": "Préparer un voyage au Bhoutan : visa par tour-opérateur agréé, sécurité, meilleure saison, Paro, le Nid du Tigre, Thimphou, Punakha. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/bhoutan/hero.jpg",
+    "alt": "Le monastère du Nid du Tigre au Bhoutan",
+    "credit": {
+      "author": "Original: Nina R from Africa Derivative work: UnpetitproleX",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Paro_Taktsang,_Bhutan_(edited).jpg"
+    }
+  },
   "summary": "Le Bhoutan se visite au printemps (mars-mai) et à l'automne (septembre-novembre), quand l'Himalaya est dégagé. Le visa se demande au moins 15 jours avant le départ, obligatoirement via un tour-opérateur agréé. Le royaume est sûr et limite volontairement le tourisme : monastères-forteresses, festivals masqués et le monastère du Nid du Tigre accroché à sa falaise.",
   "essentials": {
     "bestPeriod": "Mars à mai, septembre à novembre",

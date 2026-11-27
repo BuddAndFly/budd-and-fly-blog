@@ -12,7 +12,15 @@
     "title": "Guide Canada : AVE, Québec, Rocheuses",
     "description": "Préparer un voyage au Canada : AVE obligatoire, meilleure saison, Montréal, Québec, les Rocheuses, Vancouver. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/canada/hero.jpg",
+    "alt": "Le lac Moraine dans les Rocheuses canadiennes",
+    "credit": {
+      "author": "Gorgo",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Moraine_Lake_17092005.jpg"
+    }
+  },
   "summary": "Le Canada se visite de juin à septembre pour les grands espaces, en octobre pour l'été indien et l'hiver pour la neige. Pas de visa, mais l'autorisation de voyage électronique (AVE) est obligatoire en avion ; le passeport doit être valide pendant tout le séjour. Le Québec francophone et les Rocheuses de l'Ouest sont deux voyages à part entière.",
   "essentials": {
     "bestPeriod": "Juin à octobre",
