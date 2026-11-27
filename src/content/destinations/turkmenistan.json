@@ -12,7 +12,15 @@
     "title": "Guide Turkménistan : Achgabat, cratère de Darvaza, Merv",
     "description": "Préparer un voyage au Turkménistan : visa avec lettre d'invitation, Achgabat, cratère de Darvaza, sites de Merv et Konye-Urgench. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/turkmenistan/hero.jpg",
+    "alt": "Le cratère de gaz de Darvaza, au Turkménistan",
+    "credit": {
+      "author": "Benjamin Goetzinger",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Darvaza_gas_crater,_J%C3%A4hennem_derwezesi,_Door_to_Hell,_Gates_of_Hell,_Derweze,_Turkmenistan.jpg"
+    }
+  },
   "summary": "Le Turkménistan se visite au printemps et à l'automne. Un visa est obligatoire, avec une lettre d'invitation, généralement obtenue par une agence de voyage. Le pays est en vigilance renforcée, sauf la frontière afghane, formellement déconseillée. Achgabat et sa ville de marbre, le cratère de gaz de Darvaza et les cités anciennes de Merv et Konye-Urgench sont les temps forts.",
   "essentials": {
     "bestPeriod": "Avril-mai, septembre-octobre",
