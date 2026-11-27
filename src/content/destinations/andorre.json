@@ -12,7 +12,15 @@
     "title": "Guide Andorre : randonnée, ski, vallées des Pyrénées",
     "description": "Préparer un voyage en Andorre : carte d'identité ou passeport, saisons, randonnée, ski, Andorre-la-Vieille et vallée du Madriu. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/andorre/hero.jpg",
+    "alt": "Les montagnes d'Andorre",
+    "credit": {
+      "author": "Robert J Heath",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/67769979@N06/21788005408"
+    }
+  },
   "summary": "L'Andorre se visite en été pour la randonnée et en hiver pour le ski. Ce n'est pas un pays de l'espace Schengen : une carte d'identité ou un passeport en cours de validité sont contrôlés à la frontière. Au-delà des boutiques d'Andorre-la-Vieille, la principauté offre des vallées pyrénéennes, dont celle du Madriu, classée à l'Unesco.",
   "essentials": {
     "bestPeriod": "Juin à septembre (randonnée), décembre à avril (ski)",

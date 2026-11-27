@@ -12,7 +12,15 @@
     "title": "Guide Congo-Brazzaville : Brazzaville, Pointe-Noire, forêts",
     "description": "Préparer un voyage au Congo-Brazzaville : visa avant le départ, fièvre jaune, paludisme, Brazzaville, Pointe-Noire, Odzala. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/congo/hero.jpg",
+    "alt": "La gare de Pointe-Noire, au Congo",
+    "credit": {
+      "author": "D-Stanley",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/79721788@N00/19913391200"
+    }
+  },
   "summary": "Le Congo (Congo-Brazzaville) se visite de juin à septembre, pendant la saison sèche. Le visa doit être obtenu avant le départ, et la vaccination contre la fièvre jaune est obligatoire. Tout le pays est en vigilance renforcée, et les bandes frontalières sont déconseillées. Brazzaville, les plages de Pointe-Noire et les forêts d'Odzala, pour les gorilles, sont les temps forts.",
   "essentials": {
     "bestPeriod": "Juin à septembre",

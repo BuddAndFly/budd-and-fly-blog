@@ -12,7 +12,15 @@
     "title": "Guide Afrique du Sud : Le Cap, Kruger, sécurité",
     "description": "Préparer un voyage en Afrique du Sud : formalités, déclaration en ligne, sécurité, meilleure saison, Le Cap, la Route des jardins, Kruger. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/afrique-du-sud/hero.jpg",
+    "alt": "Le Waterfront et la montagne de la Table, au Cap",
+    "credit": {
+      "author": "www.hickey-fry.com",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/65973603@N00/9305249161"
+    }
+  },
   "summary": "L'Afrique du Sud se visite toute l'année : mai à septembre (hiver austral) pour les safaris, novembre à mars pour Le Cap et la côte. Pas de visa pour 90 jours ; depuis juillet 2026, une déclaration en ligne des biens et devises est obligatoire à l'entrée et à la sortie. Tout le pays est en vigilance renforcée, avec une criminalité élevée dans certaines villes.",
   "essentials": {
     "bestPeriod": "Toute l'année selon la région",
