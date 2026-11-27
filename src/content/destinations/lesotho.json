@@ -12,7 +12,15 @@
     "title": "Guide Lesotho : montagnes, Sani Pass, randonnée à cheval",
     "description": "Préparer un voyage au Lesotho : sans visa 14 jours, passeport 3 mois, routes de montagne, Sani Pass, Semonkong, randonnée à cheval. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/lesotho/hero.jpg",
+    "alt": "Les chutes de Maletsunyane, au Lesotho",
+    "credit": {
+      "author": "BagelBelt",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Maletsunyanefalls.JPG"
+    }
+  },
   "summary": "Le Lesotho, royaume de montagnes enclavé dans l'Afrique du Sud, se visite au printemps et à l'automne austral ; l'hiver apporte neige et froid. Pas de visa pour moins de 14 jours, avec un passeport valable 3 mois après la sortie. Le pays est en vigilance renforcée, surtout à cause des routes. Randonnée à pied ou à cheval, cascades et villages basotho sont les temps forts.",
   "essentials": {
     "bestPeriod": "Mars à mai, septembre à novembre",

@@ -12,7 +12,15 @@
     "title": "Guide Angola : Luanda, chutes de Kalandula, désert du Namibe",
     "description": "Préparer un voyage en Angola : sans visa 30 jours, paludisme, Luanda, chutes de Kalandula, Lubango, désert du Namibe. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/angola/hero.jpg",
+    "alt": "Les chutes de Kalandula, en Angola",
+    "credit": {
+      "author": "Paulo César Santos",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kalandula_waterfalls_of_the_Lucala-River_in_Malange,_Angola.JPG"
+    }
+  },
   "summary": "L'Angola se visite de mai à octobre, pendant la saison sèche. Depuis 2023, les Français sont exemptés de visa de tourisme pour 30 jours par entrée. Le pays est en vigilance renforcée, sauf les provinces de Lunda et de Cabinda, déconseillées ; la délinquance reste élevée à Luanda. Chutes de Kalandula, montagnes de Lubango et désert du Namibe sont les temps forts.",
   "essentials": {
     "bestPeriod": "Mai à octobre",

@@ -12,7 +12,15 @@
     "title": "Guide Burundi : lac Tanganyika, Gitega, tambours royaux",
     "description": "Préparer un voyage au Burundi : visa à l'arrivée sur demande en ligne, fièvre jaune, paludisme, lac Tanganyika, Gitega. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/burundi/hero.jpg",
+    "alt": "Le lac Tanganyika et Bujumbura, au Burundi",
+    "credit": {
+      "author": "Andreas31",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Bujumbura_%26_Lake_Tanganyika.JPG"
+    }
+  },
   "summary": "Le Burundi se visite de juin à août, pendant la grande saison sèche. Un visa est obligatoire : la demande se fait en ligne, puis il est délivré à l'aéroport. La vaccination contre la fièvre jaune est obligatoire. La frontière avec la RDC et plusieurs zones du nord-ouest sont déconseillées ; le reste du pays est en vigilance renforcée. Le lac Tanganyika et Gitega sont les temps forts.",
   "essentials": {
     "bestPeriod": "Juin à août",
