@@ -12,7 +12,15 @@
     "title": "Guide Vanuatu : volcan Yasur, Santo, Efate, saisons",
     "description": "Préparer un voyage au Vanuatu : visa à l'arrivée, cyclones, paludisme, Port-Vila, volcan Yasur à Tanna, Espiritu Santo. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/vanuatu/hero.jpg",
+    "alt": "L'éruption du volcan Yasur, à Tanna",
+    "credit": {
+      "author": "Romain Pontida",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Lava_trails_at_Mount_Yasur_Volcano,_Tanna,_Vanuatu_(49181693888).jpg"
+    }
+  },
   "summary": "Le Vanuatu se visite de mai à octobre ; de novembre à avril, c'est la saison des cyclones. Les Français reçoivent un visa de trois mois à l'arrivée, avec un passeport valable 6 mois après le séjour et un billet retour. L'archipel est en vigilance renforcée. Le volcan Yasur à Tanna, les plages d'Espiritu Santo et Port-Vila en sont les temps forts.",
   "essentials": {
     "bestPeriod": "Mai à octobre",

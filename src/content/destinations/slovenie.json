@@ -12,7 +12,15 @@
     "title": "Guide Slovénie : quand partir, Ljubljana, Bled",
     "description": "Préparer un voyage en Slovénie : meilleure saison, Ljubljana, le lac de Bled, Bohinj, la vallée de la Soča, Piran. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/slovenie/hero.jpg",
+    "alt": "Le lac de Bled et son île",
+    "credit": {
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Bled_Island_in_Lake_Bled,_Slovenia,_20240504_0901_8297.jpg"
+    }
+  },
   "summary": "La Slovénie est idéale de mai à septembre : lacs alpins, rivières émeraude et une capitale à taille humaine. Une carte d'identité suffit, mais voyager avec un document périmé ou sans papiers est lourdement sanctionné. En une semaine : Ljubljana, Bled et Bohinj, la vallée de la Soča et un bout de côte à Piran.",
   "essentials": {
     "bestPeriod": "Mai à septembre",

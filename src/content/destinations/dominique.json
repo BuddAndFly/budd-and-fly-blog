@@ -12,7 +12,15 @@
     "title": "Guide Dominique : randonnées, cascades, sources chaudes",
     "description": "Préparer un voyage à la Dominique : passeport, Boiling Lake, chutes de Trafalgar, Champagne Reef, sentier Waitukubuli. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/dominique/hero.jpg",
+    "alt": "Les chutes de Trafalgar, à la Dominique",
+    "credit": {
+      "author": "Reinhard Link from Germany",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Dominica_(Caribbean)_-_Trafalgar_Falls_-_double-falls_(32724044870).jpg"
+    }
+  },
   "summary": "La Dominique, entre la Guadeloupe et la Martinique, se visite de février à mai, en saison sèche. Pas de visa pour moins de 3 mois, avec un passeport ; la carte d'identité n'est acceptée que dans des cas limités, au départ des Antilles françaises. Île volcanique couverte de forêt, elle est faite pour la randonnée, les cascades et les sources chaudes.",
   "essentials": {
     "bestPeriod": "Février à mai",

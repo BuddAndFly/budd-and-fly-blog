@@ -12,7 +12,15 @@
     "title": "Guide Suriname : Paramaribo, plantations, forêt",
     "description": "Préparer un voyage au Suriname : droit d'entrée à payer avant le vol, Paramaribo, plantations de Commewijne, forêt. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/suriname/hero.jpg",
+    "alt": "L'intérieur en bois de la cathédrale de Paramaribo",
+    "credit": {
+      "author": "-JvL- from Netherlands",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Saint_Peter_and_Paul_Cathedral,_Paramaribo_(31165689386).jpg"
+    }
+  },
   "summary": "Le Suriname se visite de février à avril et d'août à novembre, pendant ses saisons sèches. Un droit d'entrée touristique doit être payé avant le départ et présenté à l'embarquement. Le pays est en vigilance renforcée. Paramaribo et son centre historique en bois, les plantations de Commewijne et la forêt de l'intérieur sont les temps forts.",
   "essentials": {
     "bestPeriod": "Février à avril, août à novembre",

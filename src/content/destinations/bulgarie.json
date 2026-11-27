@@ -12,7 +12,15 @@
     "title": "Guide Bulgarie : Sofia, Rila, mer Noire",
     "description": "Préparer un voyage en Bulgarie : formalités, meilleure saison, Sofia, monastère de Rila, Plovdiv, Veliko Tarnovo, mer Noire. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/bulgarie/hero.jpg",
+    "alt": "La cour du monastère de Rila, en Bulgarie",
+    "credit": {
+      "author": "Daniel Dimitrov",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Rila_Monastery_yard.jpg"
+    }
+  },
   "summary": "La Bulgarie se visite de mai à octobre : montagnes et monastères au printemps et à l'automne, mer Noire en juillet-août. Pays de l'Union européenne, entré dans la zone euro en 2026 : la carte d'identité suffit, à condition de ne jamais l'avoir déclarée perdue ou volée. Sofia, Rila, Plovdiv et Veliko Tarnovo se combinent en une semaine.",
   "essentials": {
     "bestPeriod": "Mai à octobre",

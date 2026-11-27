@@ -15,7 +15,7 @@ hero:
     license: "CC BY-SA 4.0"
     url: "https://commons.wikimedia.org/wiki/File:Gjirokaster,_Street_in_the_Old_Town.jpg"
 destinations: ["albanie"]
-images: []
+images: [{"src": "/images/destinations/albanie/hero.jpg", "alt": "Les maisons ottomanes de Berat, en Albanie", "credit": {"author": "Michel NOCTURE", "license": "CC BY-SA 2.0", "url": "https://commons.wikimedia.org/wiki/File:The_old_town_of_Berat_2019.jpg"}}]
 enBref: ["La Riviera albanaise s'étend de Vlora à Saranda, sur la mer Ionienne.", "Juin et septembre sont les meilleurs mois : mer chaude, prix raisonnables.", "En une semaine : col de Llogara, Dhërmi, Himarë, puis Saranda et Ksamil.", "Prolonge vers Gjirokastër, classée à l'Unesco."]
 conseil: "Évite Ksamil en milieu de journée en été et mange dans les tavernes de village, loin du front de mer."
 faq: [{"q": "Quand aller sur la Riviera albanaise ?", "a": "En juin et en septembre pour la mer chaude sans la foule ; juillet et août sont très chauds et bondés."}, {"q": "Comment se déplacer sur la Riviera albanaise ?", "a": "En voiture pour plus de liberté, avec prudence sur la route côtière, ou en bus, aux horaires approximatifs. Saranda est reliée à Corfou en ferry."}]
