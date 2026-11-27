@@ -12,7 +12,15 @@
     "title": "Guide Sri Lanka : ETA gratuite, quand partir, itinéraire",
     "description": "Préparer un voyage au Sri Lanka : ETA gratuite pour les Français, moussons, Sigiriya, Kandy, Ella, Galle. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/sri-lanka/hero.jpg",
+    "alt": "Le pont des Neuf Arches à Ella",
+    "credit": {
+      "author": "Ishan shanuka",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Nine_arch_bridge,_Ella,_Sri_lanka.jpg"
+    }
+  },
   "summary": "Le Sri Lanka a deux moussons : la meilleure période pour l'ouest, le sud et les montagnes va de décembre à avril ; la côte est se visite plutôt de mai à septembre. Depuis le 25 mai 2026, l'autorisation électronique (ETA) est gratuite pour les Français, mais toujours obligatoire. En deux semaines : rocher de Sigiriya, Kandy, le train des plantations de thé jusqu'à Ella, puis les plages du sud.",
   "essentials": {
     "bestPeriod": "Décembre à avril (côte est : mai à septembre)",
