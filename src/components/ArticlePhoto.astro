@@ -1,4 +1,5 @@
 ---
+import { webpSet } from '@/lib/img';
 /** Photo dans le texte d'un article, avec légende et crédit (obligatoire pour les licences CC BY / BY-SA). */
 interface Props {
   photo: { src: string; alt: string; credit: { author: string; license: string; url?: string | undefined } | null };
@@ -6,7 +7,7 @@ interface Props {
 const { photo } = Astro.props;
 ---
 <figure class="aphoto">
-  <img src={photo.src} alt={photo.alt} loading="lazy" decoding="async" width="1600" height="1067" />
+  <picture>{webpSet(photo.src) && <source type="image/webp" srcset={webpSet(photo.src)} sizes="(max-width: 760px) 100vw, 720px" />}<img src={photo.src} alt={photo.alt} loading="lazy" decoding="async" width="1600" height="1067" /></picture>
   <figcaption>
     {photo.alt}
     {photo.credit && <span class="aphoto__credit"> · Photo {photo.credit.url ? <a href={photo.credit.url} rel="noopener nofollow">{photo.credit.author}</a> : photo.credit.author}, {photo.credit.license}</span>}

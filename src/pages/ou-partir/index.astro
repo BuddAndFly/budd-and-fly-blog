@@ -29,7 +29,7 @@ const now = new Date().getMonth();
 
 <style>
   .head { min-height: 0; }
-  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); border-top: 1px solid var(--line); border-left: 1px solid var(--line); }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(220px, 100%), 1fr)); border-top: 1px solid var(--line); border-left: 1px solid var(--line); }
   .month { display: flex; flex-direction: column; gap: 6px; padding: 28px 24px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); text-decoration: none; }
   .month:hover { background: var(--sand); }
   .month.current { background: var(--sand); }

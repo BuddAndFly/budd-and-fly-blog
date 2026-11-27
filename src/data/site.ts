@@ -3,7 +3,7 @@ export const SITE = {
   url: 'https://buddandfly.com',
   tagline: 'Guides de voyage gratuits et vérifiés',
   description:
-    'Guides de voyage gratuits à télécharger en PDF : formalités vérifiées, meilleure saison, villes et itinéraires. Et une application pour trouver avec qui partir.',
+    'Guides de voyage gratuits en PDF : formalités vérifiées, meilleure saison, itinéraires. Et l’appli Budd&Fly pour rencontrer des voyageurs et partir à deux.',
   /** Toujours passer par /app : la redirection se change à un seul endroit (astro.config.mjs). */
   appPath: '/app',
   locale: 'fr_FR',

@@ -1,4 +1,6 @@
 ---
+import { EARLY_ACCESS } from '@/data/early-access.mjs';
+import { webpSet } from '@/lib/img';
 import Base from '@/layouts/Base.astro';
 import GuideCard from '@/components/GuideCard.astro';
 import { getDestinations, getArticles, frDate } from '@/lib/content';
@@ -29,13 +31,13 @@ const jsonLd = [
   },
 ];
 ---
-<Base title="Guides de voyage gratuits et fiables, à télécharger en PDF" description={SITE.description} jsonLd={jsonLd}>
+<Base title="Guides de voyage gratuits en PDF et rencontres entre voyageurs" description={SITE.description} jsonLd={jsonLd}>
   <section class="hero home-hero">
-    <img src="/images/home/hero.jpg" alt="Bateaux rabelos face à la Ribeira, à Porto" width="1600" height="1067" fetchpriority="high" />
+    <picture><source type="image/webp" srcset={webpSet("/images/home/hero.jpg")} sizes="100vw" /><img src="/images/home/hero.jpg" alt="Bateaux rabelos face à la Ribeira, à Porto" width="1600" height="1067" fetchpriority="high" /></picture>
     <div class="hero__inner">
-      <span class="kicker" style="color:#fff">Guides de voyage gratuits</span>
-      <h1>Des guides de voyage fiables, à emporter partout</h1>
-      <p class="hero__date">{destinations.length} destinations · PDF A4 · sources officielles</p>
+      <span class="kicker" style="color:#fff">{destinations.length} guides de voyage gratuits</span>
+      <h1>Pars mieux préparé, et pas forcément seul</h1>
+      <p class="hero__date">Formalités vérifiées · meilleure saison · itinéraires · PDF gratuit</p>
       <div class="hero__ctas">
         <a href="/destinations/" class="btn btn--light">Trouver mon guide</a>
         <a href="/visa-voyageur/" class="btn btn--ghost-light">Quel voyageur es-tu ?</a>
@@ -58,19 +60,19 @@ const jsonLd = [
   </div>
 
   <section class="wrap section">
-    <div class="rule-title"><h2>Par où commencer</h2></div>
+    <div class="rule-title"><h2>Quel voyage te ressemble ?</h2></div>
     <div class="tiles">
-      <a class="tile" href="/blog/categorie/voyager-seul/"><img src="/images/home/voyager-seul.jpg" alt="Randonneuse seule sur un sentier forestier" loading="lazy" width="800" height="533" /><span>Voyager seul</span></a>
-      <a class="tile" href="/blog/categorie/partir-a-deux/"><img src="/images/home/partir-a-deux.jpg" alt="Deux randonneuses sur un sentier" loading="lazy" width="800" height="533" /><span>Partir à deux</span></a>
-      <a class="tile" href="/blog/categorie/petits-budgets/"><img src="/images/home/petits-budgets.jpg" alt="Le tram 28 dans les rues de Lisbonne" loading="lazy" width="800" height="533" /><span>Petits budgets</span></a>
-      <a class="tile" href="/preparer/"><img src="/images/home/preparer.jpg" alt="Tampons d'entrée sur un passeport" loading="lazy" width="800" height="533" /><span>Préparer</span></a>
+      <a class="tile" href="/blog/categorie/voyager-seul/"><picture><source type="image/webp" srcset={webpSet("/images/home/voyager-seul.jpg")} sizes="(max-width: 700px) 100vw, 600px" /><img src="/images/home/voyager-seul.jpg" alt="Randonneuse seule sur un sentier forestier" loading="lazy" width="800" height="533" /></picture><span>Voyager seul</span></a>
+      <a class="tile" href="/blog/categorie/partir-a-deux/"><picture><source type="image/webp" srcset={webpSet("/images/home/partir-a-deux.jpg")} sizes="(max-width: 700px) 100vw, 600px" /><img src="/images/home/partir-a-deux.jpg" alt="Deux randonneuses sur un sentier" loading="lazy" width="800" height="533" /></picture><span>Partir à deux</span></a>
+      <a class="tile" href="/blog/categorie/petits-budgets/"><picture><source type="image/webp" srcset={webpSet("/images/home/petits-budgets.jpg")} sizes="(max-width: 700px) 100vw, 600px" /><img src="/images/home/petits-budgets.jpg" alt="Le tram 28 dans les rues de Lisbonne" loading="lazy" width="800" height="533" /></picture><span>Petits budgets</span></a>
+      <a class="tile" href="/preparer/"><picture><source type="image/webp" srcset={webpSet("/images/home/preparer.jpg")} sizes="(max-width: 700px) 100vw, 600px" /><img src="/images/home/preparer.jpg" alt="Tampons d'entrée sur un passeport" loading="lazy" width="800" height="533" /></picture><span>Préparer</span></a>
     </div>
     <p class="tile-credits">Photos : Stephan Vance (CC0) · US Forest Service, domaine public · Christine Zenino (CC BY 2.0) · Jon Evans (CC BY 2.0)</p>
   </section>
 
   <section class="wrap section">
-    <div class="rule-title"><h2>Les guides à télécharger</h2></div>
-    <p class="intro">Chaque guide tient en un PDF A4 : formalités vérifiées à la source, meilleure saison, villes et itinéraires. Gratuit, sans inscription.</p>
+    <div class="rule-title"><h2>Les guides incontournables</h2></div>
+    <p class="intro">Un PDF par destination, sans inscription : papiers, santé, sécurité, meilleure saison, villes et itinéraires. Tout ce qu'il faut, rien de trop.</p>
     <div class="cards">{featured.map((d) => <GuideCard d={d} />)}</div>
     <div class="center"><a href="/destinations/" class="btn btn--outline">Voir toutes les destinations</a></div>
   </section>
@@ -78,13 +80,13 @@ const jsonLd = [
   {goodNext.length > 0 && (
     <section class="wrap section split">
       <div class="split__img">
-        <img src="/images/home/ou-partir.jpg" alt="Église Saint-Jean de Kaneo au-dessus du lac d'Ohrid" loading="lazy" width="800" height="1000" />
+        <picture><source type="image/webp" srcset={webpSet("/images/home/ou-partir.jpg")} sizes="(max-width: 700px) 100vw, 600px" /><img src="/images/home/ou-partir.jpg" alt="Église Saint-Jean de Kaneo au-dessus du lac d'Ohrid" loading="lazy" width="800" height="1000" /></picture>
         <span class="credit">Ohrid · Diego Delso, CC BY-SA 3.0</span>
       </div>
       <div class="split__text">
         <span class="kicker">Où partir</span>
         <h2>Où partir en {MONTHS[next]!.name} ?</h2>
-        <p class="muted">Les destinations où la météo et l'affluence sont au rendez-vous ce mois-là.</p>
+        <p class="muted">Beau temps, moins de foule : les destinations idéales pour partir ce mois-ci.</p>
         <div class="rows">
           {goodNext.map((d) => (
             <a class="row" href={`/destinations/${d.id}/#quand-partir`}>
@@ -123,11 +125,11 @@ const jsonLd = [
 
   {articles.length > 0 && (
     <section class="wrap section">
-      <div class="rule-title"><h2>Articles récents</h2></div>
+      <div class="rule-title"><h2>À lire avant de partir</h2></div>
       <div class="posts">
         {articles.map((a) => (
           <a class="post" href={`/blog/${a.id}/`}>
-            {a.data.hero && <img src={a.data.hero.src} alt={a.data.hero.alt} loading="lazy" width="800" height="533" />}
+            {a.data.hero && <picture>{webpSet(a.data.hero.src) && <source type="image/webp" srcset={webpSet(a.data.hero.src)} sizes="(max-width: 700px) 100vw, 400px" />}<img src={a.data.hero.src} alt={a.data.hero.alt} loading="lazy" width="800" height="533" /></picture>}
             <span class="kicker">{a.data.category}</span>
             <span class="post__title">{a.data.title}</span>
             <span class="muted small">{frDate(a.data.updatedAt)}</span>
@@ -138,21 +140,21 @@ const jsonLd = [
   )}
 
   <section class="hero app-band">
-    <img src="/images/home/app.jpg" alt="Voyageur face à une mer de nuages au Vietnam" loading="lazy" width="1600" height="1067" />
+    <picture><source type="image/webp" srcset={webpSet("/images/home/app.jpg")} sizes="(max-width: 700px) 100vw, 600px" /><img src="/images/home/app.jpg" alt="Voyageur face à une mer de nuages au Vietnam" loading="lazy" width="1600" height="1067" /></picture>
     <div class="hero__inner">
       <img src="/logo-buddfly.png" alt="" width="60" height="60" class="app-logo" />
       <span class="kicker" style="color:#fff">L'application Budd&amp;Fly</span>
       <h2>Trouve avec qui partir</h2>
-      <p>Des voyages précis, des profils vérifiés par selfie, ta compatibilité calculée avec chaque voyageur. Gratuit.</p>
-      <a href="/app" class="btn btn--light">Tester l'application</a>
-      <span class="small">Bientôt sur iOS et Android</span>
+      <p>Publie ton voyage, découvre les voyageurs qui partent aux mêmes dates et ta compatibilité avec chacun. Profils vérifiés.</p>
+      <a href={EARLY_ACCESS.url} class="btn btn--light" target="_blank" rel="noopener">Devenir testeur en avant-première</a>
+      <span class="small">Accès anticipé gratuit · Places limitées</span>
     </div>
     <span class="credit">Tà Xùa, Vietnam · Linh Pham, CC0</span>
   </section>
 
   <section class="narrow section about">
     <span class="kicker">Comment on travaille</span>
-    <p class="about__title">Les formalités, la santé et la sécurité de chaque guide renvoient à leur source officielle, avec la date de vérification.</p>
+    <p class="about__title">Zéro information inventée : chaque formalité renvoie à sa source officielle, avec sa date de vérification.</p>
     <p class="muted">Formalités, santé et sécurité viennent des Conseils aux voyageurs de France Diplomatie. Les photos sont sous licence libre et créditées. Si une information a changé, écris-nous : on corrige.</p>
     <a href="/a-propos/#methode" class="more">Notre méthode</a>
   </section>
@@ -184,7 +186,7 @@ const jsonLd = [
   .pass__foot div { padding: 14px 22px; display: flex; flex-direction: column; }
   .pass__foot div + div { border-left: 1px solid var(--line); }
   .pass__foot span { font-size: 11px; letter-spacing: .18em; color: var(--muted); }
-  .posts { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 40px; }
+  .posts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 1fr)); gap: 40px; }
   .post { display: flex; flex-direction: column; gap: 12px; text-decoration: none; text-align: center; }
   .post img { width: 100%; height: 260px; object-fit: cover; margin-bottom: 6px; }
   .post__title { font-family: var(--serif); font-size: 26px; line-height: 1.2; }

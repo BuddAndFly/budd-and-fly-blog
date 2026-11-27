@@ -5,11 +5,12 @@ import { getArticles } from '@/lib/content';
 import { CATEGORIES } from '@/data/site';
 const articles = await getArticles();
 ---
-<Base title="Le blog voyage : conseils, idées et voyager à deux" description="Conseils pratiques, idées de voyage, voyager seul ou à deux, petits budgets : les articles Budd&Fly, vérifiés et mis à jour.">
+<Base title="Blog voyage : voyager seul, à deux, petit budget, idées" description="Voyager seul ou à deux, trouver un compagnon de voyage, partir petit budget, choisir sa destination : des conseils concrets, vérifiés et sans blabla.">
   <section class="hero hero--plain head">
     <div class="hero__inner">
       <span class="kicker">Le blog</span>
-      <h1>Conseils et idées de voyage</h1>
+      <h1>Des conseils de voyage qui servent vraiment</h1>
+      <p class="blog-intro">Voyager seul ou à deux, trouver avec qui partir, dépenser moins, choisir où aller : du concret, vérifié, sans blabla.</p>
       <nav class="cats" aria-label="Catégories">{CATEGORIES.map((c) => <a href={`/blog/categorie/${c.slug}/`}>{c.name}</a>)}</nav>
     </div>
   </section>
@@ -17,6 +18,7 @@ const articles = await getArticles();
 </Base>
 <style>
   .head { min-height: 0; }
+  .blog-intro { max-width: 620px; margin: 0 auto; color: var(--muted); font-size: 17px; }
   .cats { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
   .cats a { border: 1px solid var(--line-strong); padding: 8px 16px; text-decoration: none; font-size: 14px; font-weight: 600; }
   .cats a:hover { border-color: var(--ink); }

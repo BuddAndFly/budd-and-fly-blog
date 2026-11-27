@@ -21,6 +21,9 @@
 }
 
 *, *::before, *::after { box-sizing: border-box; }
+/* Les <picture> (WebP + JPEG) ne doivent pas changer la mise en page de l'image qu'ils contiennent. */
+picture { display: contents; }
+img { max-width: 100%; height: auto; }
 html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
 body {
   margin: 0;
@@ -65,7 +68,7 @@ p { margin: 0; }
 
 /* Grandes images en pleine largeur avec texte centré */
 .hero { position: relative; min-height: 560px; display: flex; align-items: center; justify-content: center; overflow: hidden; background: var(--night); color: #fff; text-align: center; }
-.hero > img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.hero > img, .hero > picture > img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 .hero::after { content: ''; position: absolute; inset: 0; background: linear-gradient(rgba(20,24,22,.22), rgba(20,24,22,.58)); }
 .hero__inner { position: relative; z-index: 1; max-width: 900px; padding: 80px var(--gutter); display: flex; flex-direction: column; align-items: center; gap: 20px; }
 .hero h1 { font-size: clamp(38px, 6vw, 74px); line-height: 1.05; }
@@ -77,19 +80,32 @@ p { margin: 0; }
 .credit a { color: #fff; }
 
 /* Tuiles photo encadrées d'un liseré blanc */
-.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 24px; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 1fr)); gap: 24px; }
 .tile { position: relative; display: block; height: 300px; overflow: hidden; text-decoration: none; background: var(--sand); }
 .tile img { width: 100%; height: 100%; object-fit: cover; transition: transform .6s ease; }
 .tile:hover img { transform: scale(1.04); }
+
 .tile::before { content: ''; position: absolute; inset: 14px; border: 1px solid rgba(255,255,255,.9); z-index: 1; }
 .tile span { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); z-index: 1; background: rgba(255,255,255,.94); color: var(--ink); padding: 10px 20px; font-size: 13px; font-weight: 600; letter-spacing: .2em; text-transform: uppercase; white-space: nowrap; }
-
+@media (max-width: 600px) {
+  .tiles { grid-template-columns: 1fr 1fr; gap: 12px; }
+  .tile { height: 150px; }
+  .tile::before { inset: 8px; }
+  .tile span { padding: 7px 10px; font-size: 11px; letter-spacing: .08em; white-space: normal; text-align: center; width: max-content; max-width: 85%; }
+}
 /* Cartes de guides */
-.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 40px 32px; }
-.card { display: flex; flex-direction: column; gap: 12px; text-decoration: none; color: var(--ink); }
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(250px, 100%), 1fr)); gap: 40px 32px; }
+.card { display: flex; flex-direction: column; gap: 12px; text-decoration: none; color: var(--ink); min-width: 0; overflow-wrap: anywhere; }
 .card__img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; background: var(--sand); }
 .card__img--empty { display: flex; align-items: center; justify-content: center; font-family: var(--serif); font-size: 44px; color: var(--accent); }
 .card__title { font-family: var(--serif); font-size: 30px; line-height: 1.1; }
+ @media (max-width: 600px) {
+  .cards { grid-template-columns: 1fr 1fr; gap: 28px 14px; }
+  .card { gap: 8px; }
+  .card__img { aspect-ratio: 1 / 1; }
+  .card__img--empty { font-size: 22px; padding: 8px; text-align: center; }
+  .card__title { font-size: 21px; }
+}
 .card:hover .card__title { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 6px; }
 
 /* Listes à filets */

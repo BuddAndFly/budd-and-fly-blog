@@ -1,4 +1,5 @@
 ---
+import { webpSet } from '@/lib/img';
 import { frDate, type Article } from '@/lib/content';
 interface Props { articles: Article[]; }
 const { articles } = Astro.props;
@@ -9,7 +10,7 @@ const { articles } = Astro.props;
   <div class="posts">
     {articles.map((a) => (
       <a class="post" href={`/blog/${a.id}/`}>
-        {a.data.hero ? <img src={a.data.hero.src} alt={a.data.hero.alt} loading="lazy" width="800" height="533" /> : <span class="post__empty"></span>}
+        {a.data.hero ? <picture>{webpSet(a.data.hero.src) && <source type="image/webp" srcset={webpSet(a.data.hero.src)} sizes="(max-width: 700px) 100vw, 400px" />}<img src={a.data.hero.src} alt={a.data.hero.alt} loading="lazy" width="800" height="533" /></picture> : <span class="post__empty"></span>}
         <span class="kicker">{a.data.category}</span>
         <span class="post__title">{a.data.title}</span>
         <span class="muted small">{frDate(a.data.updatedAt)}{a.data.status === 'brouillon' ? ' · brouillon' : ''}</span>
@@ -18,7 +19,9 @@ const { articles } = Astro.props;
   </div>
 )}
 <style>
-  .posts { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 48px 40px; }
+  .posts { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr)); gap: 48px 40px; }
+  .post { min-width: 0; }
+  @media (max-width: 480px) { .posts { gap: 36px; } .post img, .post__empty { height: 220px; } .post__title { font-size: 23px; } }
   .post { display: flex; flex-direction: column; gap: 12px; text-decoration: none; text-align: center; }
   .post img, .post__empty { width: 100%; height: 260px; object-fit: cover; margin-bottom: 6px; background: var(--sand); display: block; }
   .post__title { font-family: var(--serif); font-size: 26px; line-height: 1.2; }

@@ -1,6 +1,27 @@
-# Tous les moteurs de recherche et assistants IA sont les bienvenus.
+# Budd&Fly : moteurs de recherche et assistants IA sont les bienvenus.
 User-agent: *
 Allow: /
 Disallow: /destinations/*/imprimer/
 
+# Assistants IA (citation des guides avec leurs sources)
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: Bingbot
+Allow: /
+
 Sitemap: https://buddandfly.com/sitemap-index.xml
+# Résumé pour les IA : https://buddandfly.com/llms.txt

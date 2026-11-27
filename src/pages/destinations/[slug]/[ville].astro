@@ -1,4 +1,5 @@
 ---
+import { webpSet } from '@/lib/img';
 import Base from '@/layouts/Base.astro';
 import Credit from '@/components/Credit.astro';
 import { getDestinations, isDraft, profileLabel, frDate, type Destination } from '@/lib/content';
@@ -34,7 +35,7 @@ const jsonLd = [
 ---
 <Base title={title} description={description} image={c.photo?.src} draft={isDraft(d)} jsonLd={jsonLd} type="article">
   <section class:list={['hero', { 'hero--plain': !c.photo }]}>
-    {c.photo && <img src={c.photo.src} alt={c.photo.alt} width="1600" height="1067" fetchpriority="high" />}
+    {c.photo && <picture>{webpSet(c.photo.src) && <source type="image/webp" srcset={webpSet(c.photo.src)} sizes="100vw" />}<img src={c.photo.src} alt={c.photo.alt} width="1600" height="1067" fetchpriority="high" /></picture>}
     <div class="hero__inner">
       <nav aria-label="Fil d'Ariane" class="crumbs"><a href="/destinations/">Destinations</a> / <a href={`/destinations/${d.id}/`}>{g.name}</a> / {c.name}</nav>
       <h1>Que faire à {c.name}</h1>
@@ -96,7 +97,7 @@ const jsonLd = [
   .item { padding: 16px 0; border-bottom: 1px solid var(--line); }
   .item h3 { font-size: 22px; margin-bottom: 4px; }
   .item p, section > p { color: var(--ink-soft); }
-  .grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 40px; }
+  .grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr)); gap: 40px; }
   .tip { margin: 0; padding: 24px 26px; border: 1px solid var(--line); display: flex; flex-direction: column; gap: 8px; }
   .tip p { font-family: var(--serif); font-style: italic; font-size: 21px; line-height: 1.4; }
   .back { display: flex; flex-direction: column; gap: 12px; align-items: flex-start; }

@@ -1,9 +1,10 @@
 ---
+import { webpSet } from '@/lib/img';
 import Base from '@/layouts/Base.astro';
 import Credit from '@/components/Credit.astro';
 import MonthPicker from '@/components/MonthPicker.astro';
 import Sourced from '@/components/Sourced.astro';
-import { getDestinations, isDraft, profileLabel, frDate, missingChecks, type Destination } from '@/lib/content';
+import { getArticles, getDestinations, isDraft, profileLabel, frDate, missingChecks, type Destination } from '@/lib/content';
 import { SITE } from '@/data/site';
 import { PROFILES } from '@/data/visa';
 
@@ -19,6 +20,7 @@ const url = new URL(`/destinations/${d.id}/`, SITE.url).href;
 const updated = frDate(g.updatedAt);
 const budgetChecked = g.budget ? frDate(g.budget.checkedAt) : null;
 const missing = missingChecks(d);
+const related = (await getArticles()).filter((a) => a.data.destinations.includes(d.id)).slice(0, 4);
 
 const jsonLd = [
   {
@@ -32,7 +34,8 @@ const jsonLd = [
     image: g.hero ? new URL(g.hero.src, SITE.url).href : undefined,
     author: g.author ? { '@type': 'Person', name: g.author.name } : { '@type': 'Organization', name: SITE.name },
     publisher: { '@type': 'Organization', name: SITE.name, logo: { '@type': 'ImageObject', url: new URL('/logo-buddfly.png', SITE.url).href } },
-    about: { '@type': g.kind === 'pays' ? 'Country' : 'Place', name: g.name },
+    about: { '@type': 'TouristDestination', name: g.name, containedInPlace: { '@type': 'Place', name: g.continent }, touristType: ['Voyageurs solo', 'Couples', 'Petits budgets', 'Familles'] },
+    keywords: ['voyage ' + g.name, 'guide de voyage ' + g.name, 'que voir ' + g.prep, 'quand partir ' + g.prep, 'visa ' + g.name].join(', '),
   },
   {
     '@context': 'https://schema.org',
@@ -62,9 +65,9 @@ const essentials = [
   ...(g.essentials.emergency ? [['Urgences', g.essentials.emergency]] : []),
 ] as [string, string][];
 ---
-<Base title={g.seo.title} description={g.seo.description} image={g.hero?.src} draft={draft} jsonLd={jsonLd} type="article">
+<Base title={g.seo.title} description={g.seo.description} image={g.hero?.src} imageAlt={g.hero?.alt} modified={g.updatedAt} draft={draft} jsonLd={jsonLd} type="article">
   <section class:list={['hero', { 'hero--plain': !g.hero }]}>
-    {g.hero && <img src={g.hero.src} alt={g.hero.alt} width="1600" height="1067" fetchpriority="high" />}
+    {g.hero && <picture>{webpSet(g.hero.src) && <source type="image/webp" srcset={webpSet(g.hero.src)} sizes="100vw" />}<img src={g.hero.src} alt={g.hero.alt} width="1600" height="1067" fetchpriority="high" /></picture>}
     <div class="hero__inner">
       <nav aria-label="Fil d'Ariane" class="crumbs"><a href="/destinations/">Destinations</a> / <a href={`/destinations/#${g.continent}`}>{g.continent}</a> / {g.name}</nav>
       <h1>Guide {g.name} : tout pour préparer ton voyage</h1>
@@ -122,7 +125,7 @@ const essentials = [
         <div class="cities">
           {g.cities.map((c) => (
             <a class="city" href={`/destinations/${d.id}/${c.slug}/`}>
-              {c.photo ? <img src={c.photo.src} alt={c.photo.alt} loading="lazy" width="1600" height="1067" /> : <span class="city__empty">{c.name}</span>}
+              {c.photo ? <picture>{webpSet(c.photo.src) && <source type="image/webp" srcset={webpSet(c.photo.src)} sizes="(max-width: 700px) 100vw, 400px" />}<img src={c.photo.src} alt={c.photo.alt} loading="lazy" width="1600" height="1067" /></picture> : <span class="city__empty">{c.name}</span>}
               <span class="city__body">
                 <span class="city__name">{c.name}</span>
                 <span class="row__meta">{c.summary}</span>
@@ -200,6 +203,12 @@ const essentials = [
         <h2>Questions fréquentes</h2>
         <div>{g.faq.map((f) => <details class="faq"><summary>{f.q}</summary><p>{f.a}</p></details>)}</div>
       </section>
+      {related.length > 0 && (
+        <section id="articles" class="block">
+          <h2>Pour préparer ton voyage {g.prep}</h2>
+          <ul class="related">{related.map((a) => <li><a href={`/blog/${a.id}/`}>{a.data.title}</a></li>)}</ul>
+        </section>
+      )}
     </article>
 
     <aside class="side">
@@ -241,6 +250,8 @@ const essentials = [
 </Base>
 
 <style>
+  .related { margin: 0; padding-left: 1.1em; display: grid; gap: 8px; }
+  .related a { color: var(--accent); }
   .advisory { margin: 0 0 28px; padding: 14px 18px; border-left: 3px solid var(--ink-soft); background: var(--sand); color: var(--ink-soft); font-size: 15px; }
   .advisory strong { display: block; color: var(--ink); margin-bottom: 2px; }
   .advisory p { margin: 0; }
@@ -311,5 +322,5 @@ const essentials = [
   .app__title { font-size: 26px; line-height: 1.2; }
   .app p:not(.app__title) { font-size: 15px; opacity: .9; }
   @media (max-width: 960px) { .side { position: static; } }
-  @media (max-width: 560px) { .city { flex-direction: column; align-items: stretch; } .city img, .city__empty { width: 100%; height: 190px; } .itin li { grid-template-columns: 1fr; } .itin li span:last-child { grid-column: 1; } }
+  @media (max-width: 560px) { .lead { font-size: 20px; } .city { flex-direction: column; align-items: stretch; } .city img { width: 100%; height: 190px; } .city__empty { display: none; } .itin li { grid-template-columns: 1fr; } .itin li span:last-child { grid-column: 1; } }
 </style>

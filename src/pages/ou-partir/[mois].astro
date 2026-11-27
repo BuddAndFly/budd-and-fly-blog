@@ -1,4 +1,5 @@
 ---
+import { webpSet } from '@/lib/img';
 import Base from '@/layouts/Base.astro';
 import { getDestinations } from '@/lib/content';
 import { MONTHS } from '@/data/site';
@@ -35,7 +36,7 @@ const next = MONTHS[(i + 1) % 12]!;
       <div class="rows">
         {ideal.map((d) => (
           <a class="dest" href={`/destinations/${d.id}/#quand-partir`}>
-            {d.data.hero ? <img src={d.data.hero.src} alt={d.data.hero.alt} loading="lazy" width="320" height="213" /> : <span class="dest__empty">{d.data.name}</span>}
+            {d.data.hero ? <picture>{webpSet(d.data.hero.src) && <source type="image/webp" srcset={webpSet(d.data.hero.src)} sizes="320px" />}<img src={d.data.hero.src} alt={d.data.hero.alt} loading="lazy" width="320" height="213" /></picture> : <span class="dest__empty">{d.data.name}</span>}
             <span class="dest__body">
               <span class="kicker">{d.data.continent}</span>
               <span class="row__title">{d.data.name}</span>

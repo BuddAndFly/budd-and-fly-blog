@@ -1,9 +1,15 @@
 ---
 import { NAV } from '@/data/site';
+import { EARLY_ACCESS } from '@/data/early-access.mjs';
 const path = Astro.url.pathname;
 ---
 <a class="visually-hidden" href="#contenu">Aller au contenu</a>
 <header class="site-header">
+  <a class="beta-bar" href={EARLY_ACCESS.url} target="_blank" rel="noopener">
+    <span class="beta-bar__dot" aria-hidden="true"></span>
+    <span class="beta-bar__text"><strong>Deviens testeur de l'appli Budd&amp;Fly</strong><span class="beta-bar__long"> : trouve avec qui voyager, en avant-première et gratuitement</span></span>
+    <span class="beta-bar__cta">Je m'inscris <span aria-hidden="true">→</span></span>
+  </a>
   <div class="wrap site-header__inner">
     <a href="/" class="brand" aria-label="Budd&Fly, accueil">
       <img src="/logo-buddfly.png" alt="" width="40" height="40" />
@@ -24,6 +30,17 @@ const path = Astro.url.pathname;
 </header>
 
 <style>
+  .beta-bar { display: flex; align-items: center; justify-content: center; gap: 10px 14px; flex-wrap: wrap; padding: 9px max(16px, env(safe-area-inset-right, 0px)) 9px max(16px, env(safe-area-inset-left, 0px)); background: var(--accent); color: #fff; text-decoration: none; font-size: 14px; line-height: 1.35; text-align: center; }
+  .beta-bar:hover .beta-bar__cta { background: #fff; color: var(--accent); }
+  .beta-bar:focus-visible { outline: 3px solid #fff; outline-offset: -3px; }
+  .beta-bar__dot { width: 8px; height: 8px; border-radius: 50%; background: #b9f5cf; box-shadow: 0 0 0 4px rgba(185, 245, 207, .25); flex: none; }
+  .beta-bar__cta { display: inline-flex; align-items: center; gap: 6px; padding: 4px 12px; border: 1px solid rgba(255,255,255,.7); border-radius: 999px; font-weight: 700; white-space: nowrap; transition: background .15s, color .15s; }
+  @media (max-width: 640px) {
+    .beta-bar { font-size: 13px; padding-block: 8px; gap: 8px; flex-wrap: nowrap; justify-content: space-between; text-align: left; }
+    .beta-bar__long { display: none; }
+    .beta-bar__dot { display: none; }
+    .beta-bar__cta { padding: 4px 10px; }
+  }
   .site-header { border-bottom: 1px solid var(--line); background: #fff; position: sticky; top: 0; z-index: 20; }
   .site-header__inner { display: flex; align-items: center; justify-content: space-between; gap: 24px; padding-top: 12px; padding-bottom: 12px; }
   .brand { display: flex; align-items: center; gap: 10px; text-decoration: none; flex-shrink: 0; }
