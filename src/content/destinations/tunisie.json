@@ -12,7 +12,15 @@
     "title": "Guide Tunisie : Tunis, Djerba, désert, sécurité",
     "description": "Préparer un voyage en Tunisie : passeport, zones déconseillées, meilleure saison, Tunis, Sidi Bou Saïd, Kairouan, Djerba, Tozeur. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/tunisie/hero.jpg",
+    "alt": "Une ruelle de Sidi Bou Saïd, en Tunisie",
+    "credit": {
+      "author": "Tunisia_Photos",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/11991803@N04/2378895389"
+    }
+  },
   "summary": "La Tunisie se visite d'avril à juin et de septembre à novembre ; l'été est idéal pour la plage mais très chaud dans le sud. Pas de visa pour 3 mois, avec un passeport valable au moins 3 mois à l'entrée. L'état d'urgence est en vigueur et les zones frontalières sahariennes et montagneuses de l'ouest sont formellement déconseillées ; le reste du pays est en vigilance renforcée.",
   "essentials": {
     "bestPeriod": "Avril à juin, septembre à novembre",

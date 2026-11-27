@@ -12,7 +12,15 @@
     "title": "Guide Serbie : Belgrade, Novi Sad, monastères",
     "description": "Préparer un voyage en Serbie : papiers, meilleure saison, Belgrade, Novi Sad, le parc de Tara, les monastères. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/serbie/hero.jpg",
+    "alt": "La forteresse de Kalemegdan, à Belgrade",
+    "credit": {
+      "author": "George M. Groutas",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/22083482@N03/3762932470"
+    }
+  },
   "summary": "La Serbie se visite d'avril à octobre. Une carte d'identité suffit pour moins de 90 jours, mais un document déjà déclaré perdu ou volé entraîne un refus d'entrée. Belgrade et sa vie nocturne, Novi Sad, les monastères médiévaux et les gorges du Danube composent un voyage très abordable.",
   "essentials": {
     "bestPeriod": "Avril à octobre",

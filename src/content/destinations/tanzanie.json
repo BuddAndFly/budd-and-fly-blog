@@ -12,7 +12,15 @@
     "title": "Guide Tanzanie : Serengeti, Zanzibar, Kilimandjaro",
     "description": "Préparer un voyage en Tanzanie : visa, zones déconseillées, meilleure saison, Serengeti, Ngorongoro, Kilimandjaro, Zanzibar. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/tanzanie/hero.jpg",
+    "alt": "Le Kilimandjaro au coucher du soleil",
+    "credit": {
+      "author": "*rboed*",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/92082510@N04/14159869063"
+    }
+  },
   "summary": "La Tanzanie se visite de juin à octobre (saison sèche, idéale pour les safaris) et de janvier à février (naissances dans le Serengeti). Le visa est obligatoire, en ligne ou à l'arrivée, avec un passeport valable plus de 6 mois. Le sud-est, près du Mozambique, est formellement déconseillé : le circuit nord (Serengeti, Ngorongoro, Kilimandjaro) et Zanzibar sont en vigilance renforcée.",
   "essentials": {
     "bestPeriod": "Juin à octobre, janvier-février",

@@ -12,7 +12,15 @@
     "title": "Guide Timor oriental : Dili, île d'Atauro, mont Ramelau",
     "description": "Préparer un voyage au Timor oriental : sans visa 90 jours, paludisme, Dili, plongée à Atauro, lever de soleil au mont Ramelau. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/timor-oriental/hero.jpg",
+    "alt": "Une barque au coucher du soleil, au Timor oriental",
+    "credit": {
+      "author": "Kate B Dixon",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/10816493@N00/7020706917"
+    }
+  },
   "summary": "Le Timor oriental se visite de mai à novembre, en saison sèche. Pas de visa pour moins de 90 jours, avec un passeport valable 6 mois. Le pays est en vigilance renforcée, avec des conditions de sécurité satisfaisantes. Les fonds marins de l'île d'Atauro et le mont Ramelau sont les temps forts.",
   "essentials": {
     "bestPeriod": "Mai à novembre",

@@ -12,7 +12,15 @@
     "title": "Guide Togo : Lomé, Kpalimé, lac Togo, sécurité",
     "description": "Préparer un voyage au Togo : e-visa obligatoire, fièvre jaune, zones déconseillées au nord, Lomé, Kpalimé, lac Togo. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/togo/hero.jpg",
+    "alt": "Le monument de la Colombe de la Paix, à Lomé",
+    "credit": {
+      "author": "Jeff Attaway",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/33398364@N08/3330451514"
+    }
+  },
   "summary": "Le Togo se visite de novembre à février, en saison sèche. Un visa électronique et la vaccination contre la fièvre jaune sont obligatoires ; le visa ne s'obtient plus à l'arrivée. Le nord (région des Savanes et triples frontières) est déconseillé. Le sud offre Lomé, les collines de Kpalimé et le lac Togo.",
   "essentials": {
     "bestPeriod": "Novembre à février",

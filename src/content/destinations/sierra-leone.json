@@ -12,7 +12,15 @@
     "title": "Guide Sierra Leone : plages de Freetown, îles, chimpanzés",
     "description": "Préparer un voyage en Sierra Leone : visa, fièvre jaune obligatoire, paludisme, plages de la péninsule, îles Banana, sanctuaire de Tacugama. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/sierra-leone/hero.jpg",
+    "alt": "Coucher de soleil sur la plage de Lumley, à Freetown",
+    "credit": {
+      "author": "DFID - UK Department for International Development",
+      "license": "CC BY 2.0",
+      "url": "https://www.flickr.com/photos/14214150@N02/22836956291"
+    }
+  },
   "summary": "La Sierra Leone se visite de novembre à avril, en saison sèche. Un visa est obligatoire, et la vaccination contre la fièvre jaune est une condition d'entrée. Le pays est en vigilance renforcée, sauf la frontière avec le Libéria, déconseillée sauf raison impérative. Les plages de la péninsule de Freetown, les îles Banana et les chimpanzés de Tacugama sont les temps forts.",
   "essentials": {
     "bestPeriod": "Novembre à avril",
