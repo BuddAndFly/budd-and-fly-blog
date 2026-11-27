@@ -10,6 +10,13 @@ export const SITE = {
 } as const;
 
 /**
+ * Codes de validation des outils pour webmasters (balise meta sur toutes les pages).
+ * Google Search Console : méthode « Balise HTML », copier seulement la valeur de content.
+ * Bing Webmaster Tools : méthode « Balise meta » (msvalidate.01).
+ */
+export const VERIFY = { google: '', bing: '' } as const;
+
+/**
  * Les brouillons sont visibles seulement quand SHOW_DRAFTS=true (aperçu de relecture).
  * En production, seuls les guides validés par une personne sont publiés et indexés.
  */
