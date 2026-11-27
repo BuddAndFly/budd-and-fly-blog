@@ -12,7 +12,15 @@
     "title": "Guide Honduras : Roatán, Copán, zones de vigilance",
     "description": "Préparer un voyage au Honduras : passeport 6 mois, zones déconseillées, Roatán et les îles de la Baie, site maya de Copán. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/honduras/hero.jpg",
+    "alt": "Une stèle maya sous son abri, sur le site de Copán",
+    "credit": {
+      "author": "Ridiculopathy",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Cop%C3%A1n_archaeological_site,_Honduras_19.jpg"
+    }
+  },
   "summary": "Une grande partie du Honduras est déconseillée sauf raison impérative, à cause d'une criminalité très élevée, dont Tegucigalpa, San Pedro Sula et La Ceiba. France Diplomatie juge en revanche compatibles avec le tourisme les îles de la Baie (Roatán) et la région du site maya de Copán. Pas de visa pour les Français ; le passeport doit être valable 6 mois.",
   "essentials": {
     "bestPeriod": "Février à mai",

@@ -12,7 +12,15 @@
     "title": "Guide Antigua-et-Barbuda : plages, English Harbour",
     "description": "Préparer un voyage à Antigua-et-Barbuda : passeport obligatoire, ouragans, English Harbour, Shirley Heights, plages et Barbuda. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/antigua-et-barbuda/hero.jpg",
+    "alt": "Nelson's Dockyard à English Harbour, Antigua",
+    "credit": {
+      "author": "Dr. Thomas Liptak",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Antigua_English_Harbour_Nelson%27s_Dockyard_2.jpg"
+    }
+  },
   "summary": "Antigua-et-Barbuda se visite de décembre à avril, hors saison des ouragans. Pas de visa pour moins de 6 mois, mais le passeport est obligatoire : la carte d'identité ne suffit pas. Le pays est en vigilance renforcée. Plages, l'ancien arsenal naval d'English Harbour et la lagune de Barbuda sont les temps forts.",
   "essentials": {
     "bestPeriod": "Décembre à avril",

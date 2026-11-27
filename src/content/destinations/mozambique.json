@@ -12,7 +12,15 @@
     "title": "Guide Mozambique : Maputo, Tofo, Bazaruto, sécurité",
     "description": "Préparer un voyage au Mozambique : e-visa, passeport 6 mois, nord formellement déconseillé, Maputo, Tofo, Vilanculos et Bazaruto. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/mozambique/hero.jpg",
+    "alt": "La plage de Tofo, au Mozambique",
+    "credit": {
+      "author": "Erik Cleves Kristensen",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Praia_do_Tofo_Moz_view_2008.jpg"
+    }
+  },
   "summary": "Le sud du Mozambique se visite de mai à novembre. Il faut demander une autorisation de visa en ligne avant le départ, avec un passeport valable 6 mois après le séjour et deux pages vierges. Le nord est formellement déconseillé (Cabo Delgado, dont Pemba et les Quirimbas). Le sud offre Maputo, les plages de Tofo et l'archipel de Bazaruto.",
   "essentials": {
     "bestPeriod": "Mai à novembre",

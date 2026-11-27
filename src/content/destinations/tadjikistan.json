@@ -12,7 +12,15 @@
     "title": "Guide Tadjikistan : monts Fann, Douchanbé, sécurité",
     "description": "Préparer un voyage au Tadjikistan : sans visa jusqu'à 30 jours, autorisation pour le Pamir, zones déconseillées, monts Fann, Douchanbé. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/tadjikistan/hero.jpg",
+    "alt": "Le lac Iskanderkoul, au Tadjikistan",
+    "credit": {
+      "author": "Rjruiziii",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Iskander-kul,_Tajikistan.JPG"
+    }
+  },
   "summary": "Le Tadjikistan se visite de juin à septembre, pour ses montagnes. Les Français n'ont pas besoin de visa jusqu'à 30 jours. Le Haut-Badakhchan (Pamir) demande une autorisation spéciale, et la frontière avec l'Afghanistan, y compris la route qui la longe vers Khorog, est formellement déconseillée. Les monts Fann et le lac Iskanderkoul sont accessibles depuis Douchanbé.",
   "essentials": {
     "bestPeriod": "Juin à septembre",

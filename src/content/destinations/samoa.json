@@ -12,7 +12,15 @@
     "title": "Guide Samoa : Upolu, Savai'i, plages et fale",
     "description": "Préparer un voyage aux Samoa : sans visa 90 jours, saisons, Upolu, To Sua, Savai'i et ses champs de lave. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/samoa/hero.jpg",
+    "alt": "Le bassin naturel de To Sua, aux Samoa",
+    "credit": {
+      "author": "Rickard Törnblad",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:To_Sua_Ocean_Trench,_Upolu,_Samoa_-_August_2016.jpg"
+    }
+  },
   "summary": "Les Samoa se visitent de mai à octobre, en saison sèche. Pas de visa pour les Français jusqu'à 90 jours sur six mois, avec un passeport valable 6 mois après le séjour et un billet retour. Tout le pays est en vigilance normale. On y dort en fale, des huttes ouvertes au bord des plages d'Upolu et de Savai'i.",
   "essentials": {
     "bestPeriod": "Mai à octobre",
