@@ -15,7 +15,7 @@ hero:
     license: "CC BY 2.0"
     url: "https://www.flickr.com/photos/38678621@N06/8313029033"
 destinations: []
-images: []
+images: [{"src": "/images/blog/voyage-petit-budget-1000-euros-img1.jpg", "alt": "Un train en gare de Penzance, en Cornouailles", "credit": {"author": "philstephenrichards", "license": "CC BY-SA 2.0", "url": "https://www.flickr.com/photos/13035092@N00/7849391552"}}, {"src": "/images/blog/voyage-petit-budget-1000-euros-img2.jpg", "alt": "Des plats au marché de nuit de Temple Street, à Hong Kong", "credit": {"author": "TimShoesUntied", "license": "CC BY 2.0", "url": "https://www.flickr.com/photos/10005662@N00/3075838123"}}]
 enBref: ["Voyager longtemps avec peu d'argent tient surtout à quelques habitudes.", "L'hébergement, les repas, les transports et le rythme sont les postes qui comptent.", "Ne rogne jamais sur l'assurance, les vaccins et un logement sûr."]
 conseil: "Refuse toujours la conversion en euros proposée par les distributeurs et les terminaux de paiement : c'est une perte facile à éviter."
 faq: [{"q": "Comment voyager pas cher ?", "a": "Dors en dortoir ou en guesthouse, mange dans les cantines locales, prends bus et trains plutôt que vols intérieurs et taxis, et voyage lentement."}, {"q": "Sur quoi ne pas économiser en voyage ?", "a": "L'assurance avec assistance et rapatriement, les vaccins recommandés et un logement sûr, surtout en arrivant de nuit."}]

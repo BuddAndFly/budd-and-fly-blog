@@ -15,7 +15,7 @@ hero:
     license: "Domaine public"
     url: "https://commons.wikimedia.org/wiki/File:Two_hikers_on_the_Grotto_Falls_trail_-432_Custer_Gallatin_NF_3W6A3459_(53255614730).jpg"
 destinations: []
-images: []
+images: [{"src": "/images/blog/trouver-un-compagnon-de-voyage-img1.jpg", "alt": "Deux voyageurs sac au dos, prêts à partir", "credit": {"author": "shankar s.", "license": "CC BY 2.0", "url": "https://www.flickr.com/photos/77742560@N06/14418909949"}}]
 enBref: ["L'important n'est pas de trouver quelqu'un de sympathique, mais quelqu'un qui voyage comme toi.", "Parlez avant de partir du rythme, du budget, de l'organisation, des soirées et du temps seul.", "Rencontre-toi d'abord en visio, puis dans un lieu public, idéalement pour un premier week-end."]
 conseil: "Garde ton indépendance financière : un moyen de paiement à toi seul et un budget de secours pour rentrer par tes propres moyens."
 faq: [{"q": "Où trouver un compagnon de voyage ?", "a": "Dans ton entourage, dans des groupes de voyageurs en ligne, sur une application dédiée qui vérifie les profils, ou sur place dans les auberges et visites en groupe."}, {"q": "Comment savoir si on est compatibles ?", "a": "Parlez du rythme, du budget, de l'organisation, des horaires et du besoin de solitude. Le Visa voyageur mesure ces points sur six jauges."}]

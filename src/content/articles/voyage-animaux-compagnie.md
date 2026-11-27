@@ -15,7 +15,7 @@ hero:
     license: "CC BY 2.0"
     url: "https://www.flickr.com/photos/55608722@N06/15986992295"
 destinations: []
-images: []
+images: [{"src": "/images/blog/voyage-animaux-compagnie-img1.jpg", "alt": "Un chien en randonnée face à la mer", "credit": {"author": "Lottie's pets & stuff", "license": "CC0", "url": "https://www.flickr.com/photos/36943025@N07/21378403148"}}, {"src": "/images/blog/voyage-animaux-compagnie-img2.jpg", "alt": "Un chat dans sa caisse de transport", "credit": {"author": "Rochelle Hartman", "license": "CC BY 2.0", "url": "https://www.flickr.com/photos/34756977@N00/6310196993"}}]
 enBref: ["Voyager avec son animal est possible, avec de l'anticipation.", "Dans l'Union européenne : puce, vaccin antirabique et passeport européen pour animal.", "Hors Union européenne, les exigences peuvent être bien plus strictes.", "Réserve la place de l'animal en même temps que ton billet d'avion."]
 conseil: "Renseigne-toi plusieurs mois à l'avance pour un voyage hors de l'Union européenne : tests sanguins et certificats demandent du temps."
 faq: [{"q": "Quels papiers pour voyager avec son chien en Europe ?", "a": "Une puce électronique, un vaccin antirabique valide fait après la pose de la puce et le passeport européen pour animal, délivré par un vétérinaire. Certains pays demandent aussi un traitement antiparasitaire."}, {"q": "Un animal peut-il voyager en cabine ?", "a": "Les petits animaux sont souvent acceptés en cabine dans un sac sous le siège, avec une limite de poids propre à chaque compagnie."}]

@@ -15,7 +15,7 @@ hero:
     license: "CC BY 2.0"
     url: "https://www.flickr.com/photos/82365211@N00/6623729071"
 destinations: []
-images: []
+images: [{"src": "/images/blog/protocole-anti-galere-img1.jpg", "alt": "Un panneau d'avertissement contre les pickpockets", "credit": {"author": "gruntzooki", "license": "CC BY-SA 2.0", "url": "https://www.flickr.com/photos/37996580417@N01/17783621312"}}, {"src": "/images/blog/protocole-anti-galere-img2.jpg", "alt": "Un portefeuille en cuir", "credit": {"author": "ShebleyCL", "license": "CC BY 2.0", "url": "https://www.flickr.com/photos/25636851@N03/26397671939"}}]
 enBref: ["La plupart des galères de voyage se préparent avant de partir.", "Copie des papiers, deux cartes bancaires, une bonne assurance et Ariane.", "Connais les arnaques les plus fréquentes : taxi sans compteur, faux policier, boisson droguée, faux sites de visa."]
 conseil: "Ne mets jamais tout au même endroit : répartis papiers, cartes et argent entre ton sac, ta poche et l'hébergement."
 faq: [{"q": "Que faire en cas de perte ou de vol de passeport ?", "a": "Déclare-le à la police locale, puis contacte l'ambassade ou le consulat de France, qui peut délivrer un passeport d'urgence ou un laissez-passer."}, {"q": "Que faire si on perd sa carte bancaire à l'étranger ?", "a": "Fais opposition immédiatement depuis l'application de ta banque, puis utilise ta seconde carte."}]

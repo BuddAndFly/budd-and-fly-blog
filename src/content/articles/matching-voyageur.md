@@ -15,7 +15,7 @@ hero:
     license: "Domaine public"
     url: "https://commons.wikimedia.org/wiki/File:Two_hikers_on_the_Grotto_Falls_trail_-432_Custer_Gallatin_NF_3W6A3459_(53255614730).jpg"
 destinations: []
-images: []
+images: [{"src": "/images/blog/matching-voyageur-img1.jpg", "alt": "Coucher de soleil sur la mer", "credit": {"author": "Dawn Huczek", "license": "CC BY 2.0", "url": "https://www.flickr.com/photos/31064702@N05/3700284435"}}]
 enBref: ["Budd&Fly cherche à réunir des voyageurs qui voyagent de la même façon.", "Le Visa voyageur place ta façon de voyager sur six jauges et en déduit un profil.", "L'application affiche un indice de compatibilité et rend les écarts visibles.", "Elle ne remplace pas une vraie discussion avant le départ."]
 conseil: "Passe par la messagerie, puis un appel vidéo, puis une rencontre dans un lieu public avant de partir ensemble."
 faq: [{"q": "Comment fonctionne la compatibilité sur Budd&Fly ?", "a": "L'application compare les jauges du Visa voyageur et les voyages publiés, puis affiche un indice de compatibilité avec les écarts visibles."}, {"q": "Les profils sont-ils vérifiés ?", "a": "Chaque membre vérifie son profil par selfie. Cela réduit les faux profils, sans remplacer la prudence."}]

@@ -15,7 +15,7 @@ hero:
     license: "CC BY-SA 2.0"
     url: "https://www.flickr.com/photos/45409431@N00/12185501694"
 destinations: []
-images: []
+images: [{"src": "/images/blog/checklist-sur-mesure-img1.jpg", "alt": "Les affaires d'un voyageur étalées avant de boucler le sac", "credit": {"author": "gorriti", "license": "CC BY-SA 2.0", "url": "https://www.flickr.com/photos/91572751@N00/2300841592"}}, {"src": "/images/blog/checklist-sur-mesure-img2.jpg", "alt": "Un passeport prêt pour le départ", "credit": {"author": "seantoyer", "license": "CC BY 2.0", "url": "https://www.flickr.com/photos/16143699@N00/4638389389"}}]
 enBref: ["Une base commune à tous les voyages : papiers, argent, santé, électronique.", "Des ajouts selon la destination : tropiques, montagne, grand froid, safari, plage.", "Presque tout s'achète sur place : voyage léger."]
 conseil: "Fais des copies numériques de tous tes papiers et emporte deux cartes bancaires de réseaux différents : c'est ce qui sauve un voyage en cas de perte."
 faq: [{"q": "Que mettre dans sa trousse de voyage ?", "a": "Antidouleur, pansements, désinfectant, antidiarrhéique et ton traitement habituel avec l'ordonnance."}, {"q": "Quels papiers emporter en voyage ?", "a": "Passeport ou carte d'identité selon le pays, visa ou autorisation électronique, attestation d'assurance avec le numéro d'assistance, et des copies numériques."}]

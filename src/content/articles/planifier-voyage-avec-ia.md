@@ -15,7 +15,7 @@ hero:
     license: "CC0"
     url: "https://www.flickr.com/photos/37996646802@N01/2824428296"
 destinations: []
-images: []
+images: [{"src": "/images/blog/planifier-voyage-avec-ia-img1.jpg", "alt": "Un téléphone posé sur une carte", "credit": {"author": "McraftPix", "license": "CC0", "url": "https://www.flickr.com/photos/87664525@N04/24225702916"}}, {"src": "/images/blog/planifier-voyage-avec-ia-img2.jpg", "alt": "Un GPS de randonnée affichant une carte", "credit": {"author": "Shreveport-Bossier: Louisiana's Other Side", "license": "CC BY 2.0", "url": "https://www.flickr.com/photos/57902140@N08/27904114902"}}]
 enBref: ["Les outils numériques et l'IA font gagner beaucoup de temps pour préparer un voyage.", "Une IA peut se tromper : vérifie toujours visas, sécurité et vaccins à la source.", "Les horaires et prix donnés par une IA sont souvent faux ou anciens."]
 conseil: "Utilise l'IA pour les idées et pour ajuster un itinéraire, mais jamais comme source pour les formalités : la référence reste France Diplomatie."
 faq: [{"q": "Peut-on faire confiance à une IA pour les visas ?", "a": "Non : une IA peut s'appuyer sur des informations périmées. Vérifie les visas, la sécurité et les vaccins sur France Diplomatie."}, {"q": "Quelles applications emporter en voyage ?", "a": "Une carte hors ligne, un traducteur avec reconnaissance de texte, une application de VTC, une eSIM et Ariane pour les alertes de sécurité."}]

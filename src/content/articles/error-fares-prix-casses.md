@@ -15,7 +15,7 @@ hero:
     license: "CC BY 2.0"
     url: "https://commons.wikimedia.org/wiki/File:Airplane_sky_(6088628530).jpg"
 destinations: []
-images: []
+images: [{"src": "/images/blog/error-fares-prix-casses-img1.jpg", "alt": "Un Boeing 737 au coucher du soleil", "credit": {"author": "Bernal Saborio G. (berkuspic)", "license": "CC BY-SA 2.0", "url": "https://www.flickr.com/photos/44073224@N04/11489954635"}}]
 enBref: ["Une error fare est un tarif aérien publié par erreur, très en dessous du prix normal.", "Elles sont rares, courtes et corrigées vite.", "Réserve vite, puis n'engage rien de non remboursable avant l'émission du billet."]
 conseil: "Une error fare est une belle surprise, pas une stratégie : pour un voyage précis, la flexibilité et les alertes de prix restent plus fiables."
 faq: [{"q": "Une compagnie peut-elle annuler une error fare ?", "a": "Oui : certaines honorent ces billets, d'autres les annulent et remboursent. Les règles varient selon le pays et le transporteur."}, {"q": "Comment trouver des error fares ?", "a": "Abonne-toi à des sites spécialisés dans les bons plans aériens, active des alertes de prix et reste flexible sur les dates et la destination."}]
