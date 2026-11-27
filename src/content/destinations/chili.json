@@ -12,7 +12,15 @@
     "title": "Guide Chili : Atacama, Patagonie, île de Pâques",
     "description": "Préparer un voyage au Chili : formalités, sécurité, meilleure saison, Santiago, Valparaíso, l'Atacama, Torres del Paine, l'île de Pâques. PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/chili/hero.jpg",
+    "alt": "Les Cuernos del Paine au lever du jour, dans le parc Torres del Paine",
+    "credit": {
+      "author": "Pedro Szekely from Los Angeles, USA",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Cuernos_del_Paine_in_Torres_del_Paine_National_Park.jpg"
+    }
+  },
   "summary": "Le Chili s'étire sur 4 300 km : le désert d'Atacama se visite toute l'année, la Patagonie de novembre à mars. Pas de visa pour moins de 3 mois, avec un passeport valable pendant tout le séjour. Le pays est globalement sûr, mais la petite délinquance progresse : Santiago, Valparaíso, l'Atacama et Torres del Paine composent un grand voyage.",
   "essentials": {
     "bestPeriod": "Novembre à mars (Patagonie), toute l'année (Atacama)",
