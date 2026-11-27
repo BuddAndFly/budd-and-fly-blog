@@ -12,7 +12,15 @@
     "title": "Guide Israël : Tel-Aviv, Jérusalem, ETA-IL",
     "description": "Préparer un voyage en Israël : autorisation ETA-IL, contrôles à l'aéroport, shabbat, Tel-Aviv, Jaffa et Jérusalem. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/israel/hero.jpg",
+    "alt": "Le vieux port de Jaffa vu du ciel, à Tel-Aviv",
+    "credit": {
+      "author": "Godot13",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:ISR-2013-Aerial-Jaffa-Port_of_Jaffa.jpg"
+    }
+  },
   "summary": "Israël se visite au printemps et à l'automne, quand la chaleur est supportable. Pas de visa pour un Français, mais une autorisation électronique (ETA-IL) est obligatoire avant le départ. Tel-Aviv, ses plages et le vieux Jaffa, puis Jérusalem et ses lieux saints, sont les étapes phares. France Diplomatie recommande de ne s'y rendre que pour une raison impérative : consulte sa fiche avant de partir.",
   "essentials": {
     "bestPeriod": "Mars à mai, octobre-novembre",
