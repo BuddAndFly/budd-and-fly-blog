@@ -12,7 +12,15 @@
     "title": "Guide Albanie : quand partir, riviera, montagnes",
     "description": "Préparer un voyage en Albanie : meilleure saison, Tirana, Berat, Gjirokastër, la riviera, les Alpes albanaises. Guide PDF gratuit."
   },
-  "hero": null,
+  "hero": {
+    "src": "/images/destinations/albanie/hero.jpg",
+    "alt": "Les maisons ottomanes de Berat, en Albanie",
+    "credit": {
+      "author": "Michel NOCTURE",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:The_old_town_of_Berat_2019.jpg"
+    }
+  },
   "summary": "L'Albanie est idéale en mai-juin et en septembre : mer chaude, montagnes accessibles, et des prix parmi les plus bas d'Europe. Une carte d'identité suffit, valable au moins 3 mois après le retour. En dix jours : Tirana, les villes ottomanes de Berat et Gjirokastër, puis la riviera.",
   "essentials": {
     "bestPeriod": "Mai-juin, septembre",
