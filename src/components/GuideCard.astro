@@ -7,7 +7,7 @@ const g = d.data;
 const n = g.cities.length;
 ---
 <a class="card" href={`/destinations/${d.id}/`}>
-  {g.hero ? <picture>{webpSet(g.hero.src) && <source type="image/webp" srcset={webpSet(g.hero.src)} sizes="(max-width: 700px) 100vw, 400px" />}<img class="card__img" src={g.hero.src} alt={g.hero.alt} loading="lazy" width="800" height="600" /></picture> : <span class="card__img card__img--empty" data-continent={g.continent}><span class="card__empty-name">{g.name}</span></span>}
+  {g.hero ? <picture>{webpSet(g.hero.src) && <source type="image/webp" srcset={webpSet(g.hero.src)} sizes="(max-width: 600px) 50vw, 400px" />}<img class="card__img" src={g.hero.src} alt={g.hero.alt} loading="lazy" width="800" height="600" /></picture> : <span class="card__img card__img--empty" data-continent={g.continent}><span class="card__empty-name">{g.name}</span></span>}
   <span class="kicker">{g.continent}</span>
   <span class="card__title">{g.name}</span>
   <span class="muted small">{n} {n > 1 ? 'villes' : 'ville'} · <strong class="card__free">PDF gratuit</strong>{g.status === 'brouillon' ? ' · brouillon' : ''}</span>
