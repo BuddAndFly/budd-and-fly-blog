@@ -36,7 +36,7 @@ export const inMonth = (i: number) => `en ${MONTHS[i]!.name}`;
 export const RATING_LABEL = ['À éviter si possible', 'Bonne période', 'Période idéale'] as const;
 
 export const NAV = [
-  { label: 'Destinations', href: '/destinations/' },
+  { label: 'Guides gratuits', href: '/destinations/' },
   { label: 'Où partir', href: '/ou-partir/' },
   { label: 'Voyager seul', href: '/blog/categorie/voyager-seul/' },
   { label: 'Partir à deux', href: '/blog/categorie/partir-a-deux/' },

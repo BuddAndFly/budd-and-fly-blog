@@ -45,3 +45,16 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  # Prévient Bing et les autres moteurs IndexNow des pages modifiées (non bloquant).
+  indexnow:
+    needs: deploy
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      # Lancement manuel (workflow_dispatch) : toutes les pages ; sinon celles modifiées depuis 3 jours.
+      - run: sleep 60 && node scripts/indexnow.mjs ${{ github.event_name == 'workflow_dispatch' && '0' || '3' }}

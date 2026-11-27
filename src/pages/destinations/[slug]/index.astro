@@ -20,14 +20,22 @@ const url = new URL(`/destinations/${d.id}/`, SITE.url).href;
 const updated = frDate(g.updatedAt);
 const budgetChecked = g.budget ? frDate(g.budget.checkedAt) : null;
 const missing = missingChecks(d);
+// Titre SEO : l'expression « guide de voyage … gratuit » en tête, sous ~60 caractères avec « | Budd&Fly ».
+const seoTitle = (() => {
+  const base = `Guide de voyage ${g.name} gratuit (PDF)`;
+  if (`${base} : quand partir`.length <= 50) return `${base} : quand partir`;
+  return base.length <= 50 ? base : `Guide ${g.name} gratuit (PDF)`;
+})();
+const seoDescription = /gratuit/i.test(g.seo.description) ? g.seo.description : `${g.seo.description.replace(/\.?$/, '.')} Guide PDF gratuit.`.slice(0, 160);
 const related = (await getArticles()).filter((a) => a.data.destinations.includes(d.id)).slice(0, 4);
 
 const jsonLd = [
   {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: g.seo.title,
-    description: g.seo.description,
+    headline: seoTitle,
+    description: seoDescription,
+    isAccessibleForFree: true,
     inLanguage: 'fr',
     dateModified: g.updatedAt,
     mainEntityOfPage: url,
@@ -35,7 +43,7 @@ const jsonLd = [
     author: g.author ? { '@type': 'Person', name: g.author.name } : { '@type': 'Organization', name: SITE.name },
     publisher: { '@type': 'Organization', name: SITE.name, logo: { '@type': 'ImageObject', url: new URL('/logo-buddfly.png', SITE.url).href } },
     about: { '@type': 'TouristDestination', name: g.name, containedInPlace: { '@type': 'Place', name: g.continent }, touristType: ['Voyageurs solo', 'Couples', 'Petits budgets', 'Familles'] },
-    keywords: ['voyage ' + g.name, 'guide de voyage ' + g.name, 'que voir ' + g.prep, 'quand partir ' + g.prep, 'visa ' + g.name].join(', '),
+    keywords: ['guide de voyage ' + g.name + ' gratuit', 'guide ' + g.name + ' PDF gratuit', 'voyage ' + g.name, 'guide de voyage ' + g.name, 'que voir ' + g.prep, 'quand partir ' + g.prep, 'visa ' + g.name].join(', '),
   },
   {
     '@context': 'https://schema.org',
@@ -65,12 +73,13 @@ const essentials = [
   ...(g.essentials.emergency ? [['Urgences', g.essentials.emergency]] : []),
 ] as [string, string][];
 ---
-<Base title={g.seo.title} description={g.seo.description} image={g.hero?.src} imageAlt={g.hero?.alt} modified={g.updatedAt} draft={draft} jsonLd={jsonLd} type="article">
+<Base title={seoTitle} description={seoDescription} image={g.hero?.src} imageAlt={g.hero?.alt} modified={g.updatedAt} draft={draft} jsonLd={jsonLd} type="article">
   <section class:list={['hero', { 'hero--plain': !g.hero }]}>
     {g.hero && <picture>{webpSet(g.hero.src) && <source type="image/webp" srcset={webpSet(g.hero.src)} sizes="100vw" />}<img src={g.hero.src} alt={g.hero.alt} width="1600" height="1067" fetchpriority="high" /></picture>}
     <div class="hero__inner">
       <nav aria-label="Fil d'Ariane" class="crumbs"><a href="/destinations/">Destinations</a> / <a href={`/destinations/#${g.continent}`}>{g.continent}</a> / {g.name}</nav>
-      <h1>Guide {g.name} : tout pour préparer ton voyage</h1>
+      <span class="free-badge">100 % gratuit · PDF sans inscription</span>
+      <h1>Guide de voyage {g.name} gratuit</h1>
       <p class="hero__date">Mis à jour le {updated}</p>
     </div>
     {g.hero && <Credit credit={g.hero.credit} />}
@@ -213,8 +222,8 @@ const essentials = [
 
     <aside class="side">
       <form id="pdf" class="box pdf" action={`/destinations/${d.id}/imprimer/`} method="get">
-        <span class="kicker">Gratuit · sans inscription</span>
-        <h2 class="serif">Ton guide {g.name} en PDF</h2>
+        <span class="kicker">100 % gratuit · sans inscription ni e-mail</span>
+        <h2 class="serif">Ton guide {g.name} en PDF gratuit</h2>
         <p>Format A4, à imprimer ou garder hors connexion, adapté à ton voyage.</p>
         <label class="field">Durée
           <select name="duree">{[7, 10, 14].map((n) => <option value={n} selected={n === 10}>{n} jours</option>)}</select>
@@ -228,7 +237,7 @@ const essentials = [
         <a href="/visa-voyageur/" class="small-link">Je ne sais pas : passer le Visa (2 min)</a>
         <button class="btn btn--accent btn--block" type="submit">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"></path></svg>
-          Télécharger le guide
+          Télécharger le guide gratuit
         </button>
       </form>
 
