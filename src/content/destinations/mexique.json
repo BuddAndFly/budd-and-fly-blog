@@ -174,7 +174,16 @@
       ],
       "eat": "Les tacos al pastor, les marchés couverts et les cantinas traditionnelles.",
       "getAround": "Métro très bon marché mais bondé aux heures de pointe ; VTC par application pour le soir.",
-      "tip": "La ville est à 2 240 m d'altitude : prends le temps de t'acclimater le premier jour."
+      "tip": "La ville est à 2 240 m d'altitude : prends le temps de t'acclimater le premier jour.",
+      "photo": {
+        "src": "/images/destinations/mexique/mexico.jpg",
+        "alt": "Le palais des Beaux-Arts illuminé, à Mexico",
+        "credit": {
+          "author": "nan palmero",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/97402086@N00/40596189681"
+        }
+      }
     },
     {
       "slug": "oaxaca",
@@ -208,7 +217,16 @@
       ],
       "eat": "Les sept moles (sauces), la tlayuda, le chocolat chaud et le mezcal.",
       "getAround": "À pied dans le centre, colectivos et taxis pour les environs.",
-      "tip": "Pour le jour des Morts, début novembre, réserve des mois à l'avance."
+      "tip": "Pour le jour des Morts, début novembre, réserve des mois à l'avance.",
+      "photo": {
+        "src": "/images/destinations/mexique/oaxaca.jpg",
+        "alt": "Papel picado coloré au-dessus d'un marché mexicain",
+        "credit": {
+          "author": "giulian.frisoni",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/130922869@N07/22965401429"
+        }
+      }
     },
     {
       "slug": "merida",
@@ -242,7 +260,16 @@
       ],
       "eat": "La cochinita pibil (porc mariné cuit à l'étouffée) et les panuchos.",
       "getAround": "Voiture de location ou bus de première classe entre les villes. Ne roule pas de nuit.",
-      "tip": "La région est l'une des plus tranquilles du pays, mais la route reste le principal danger."
+      "tip": "La région est l'une des plus tranquilles du pays, mais la route reste le principal danger.",
+      "photo": {
+        "src": "/images/destinations/mexique/merida.jpg",
+        "alt": "Le cénote Dzitnup, dans le Yucatán",
+        "credit": {
+          "author": "AlphaTangoBravo / Adam Baker",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/44124479650@N01/5295079072"
+        }
+      }
     },
     {
       "slug": "riviera-maya",
@@ -276,7 +303,16 @@
       ],
       "eat": "Ceviches et tacos de poisson.",
       "getAround": "Bus ADO entre les villes, le nouveau train maya, ou voiture.",
-      "tip": "De mai à septembre, renseigne-toi sur l'arrivée des sargasses (algues brunes) avant de choisir ta plage."
+      "tip": "De mai à septembre, renseigne-toi sur l'arrivée des sargasses (algues brunes) avant de choisir ta plage.",
+      "photo": {
+        "src": "/images/destinations/mexique/riviera-maya.jpg",
+        "alt": "Les ruines de Tulum au-dessus de la plage",
+        "credit": {
+          "author": "rakugo",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/24701860@N05/5556310342"
+        }
+      }
     },
     {
       "slug": "san-cristobal",
@@ -305,7 +341,16 @@
       "hidden": [],
       "eat": "Les tamales et le café du Chiapas.",
       "getAround": "Bus depuis Tuxtla Gutiérrez. Pour Palenque, passe par Villahermosa et l'autoroute 186 avec un transport organisé, pas par la route 199.",
-      "tip": "Les règles de sécurité au Chiapas changent souvent : vérifie la carte de France Diplomatie juste avant d'y aller."
+      "tip": "Les règles de sécurité au Chiapas changent souvent : vérifie la carte de France Diplomatie juste avant d'y aller.",
+      "photo": {
+        "src": "/images/destinations/mexique/san-cristobal.jpg",
+        "alt": "Une rue colorée de San Cristóbal de las Casas",
+        "credit": {
+          "author": "Rod Waddington",
+          "license": "CC BY-SA 2.0",
+          "url": "https://www.flickr.com/photos/64607715@N05/35706478471"
+        }
+      }
     }
   ],
   "itineraries": [

@@ -168,7 +168,16 @@
       ],
       "eat": "Le fish and chips, un « Sunday roast » au pub le dimanche, et les cuisines du monde de Brick Lane.",
       "getAround": "Métro (Tube), bus à impériale et marche. Paie avec ta carte bancaire sans contact : le tarif est plafonné par jour.",
-      "tip": "Beaucoup de spectacles du West End vendent des billets à prix réduits le jour même."
+      "tip": "Beaucoup de spectacles du West End vendent des billets à prix réduits le jour même.",
+      "photo": {
+        "src": "/images/destinations/royaume-uni/londres.jpg",
+        "alt": "Le Tower Bridge, à Londres",
+        "credit": {
+          "author": "Håkan Dahlström",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/93755244@N00/230046338"
+        }
+      }
     },
     {
       "slug": "edimbourg",
@@ -206,7 +215,16 @@
       ],
       "eat": "Le haggis (au moins une fois), le saumon fumé écossais et une dégustation de whisky.",
       "getAround": "À pied et en tram depuis l'aéroport. Train direct depuis Londres en 4 h 30 environ.",
-      "tip": "En août, le festival triple la population : réserve l'hébergement très tôt ou choisis une autre période."
+      "tip": "En août, le festival triple la population : réserve l'hébergement très tôt ou choisis une autre période.",
+      "photo": {
+        "src": "/images/destinations/royaume-uni/edimbourg.jpg",
+        "alt": "Le château d'Édimbourg sur son rocher",
+        "credit": {
+          "author": "Jordan S Hatcher",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/58447660@N00/412481945"
+        }
+      }
     },
     {
       "slug": "highlands",
@@ -240,7 +258,16 @@
       ],
       "eat": "Les fruits de mer de Skye et les pubs de village.",
       "getAround": "Une voiture est le plus pratique ; on roule à gauche, souvent sur des routes à une voie avec aires de croisement.",
-      "tip": "Emporte un répulsif efficace contre les moucherons (midges), très présents de juin à septembre."
+      "tip": "Emporte un répulsif efficace contre les moucherons (midges), très présents de juin à septembre.",
+      "photo": {
+        "src": "/images/destinations/royaume-uni/highlands.jpg",
+        "alt": "Le Quiraing, sur l'île de Skye",
+        "credit": {
+          "author": "Colin",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=42809871"
+        }
+      }
     },
     {
       "slug": "bath",
@@ -273,7 +300,16 @@
       ],
       "eat": "Le cream tea : scones, crème et confiture.",
       "getAround": "Train depuis Londres en 1 h 30 ; voiture ou excursion pour les villages.",
-      "tip": "Les Cotswolds se visitent mieux en semaine, quand les villages sont moins fréquentés."
+      "tip": "Les Cotswolds se visitent mieux en semaine, quand les villages sont moins fréquentés.",
+      "photo": {
+        "src": "/images/destinations/royaume-uni/bath.jpg",
+        "alt": "Les thermes romains de Bath",
+        "credit": {
+          "author": "jay galvin",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/36957368@N00/8253387059"
+        }
+      }
     },
     {
       "slug": "york",
@@ -307,7 +343,16 @@
       ],
       "eat": "Le Yorkshire pudding et un thé dans un salon historique.",
       "getAround": "À pied. Train depuis Londres en 2 h environ, sur la ligne vers Édimbourg.",
-      "tip": "York fait une étape idéale entre Londres et Édimbourg en train."
+      "tip": "York fait une étape idéale entre Londres et Édimbourg en train.",
+      "photo": {
+        "src": "/images/destinations/royaume-uni/york.jpg",
+        "alt": "La rue des Shambles, à York",
+        "credit": {
+          "author": "RoyP2012",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/73434272@N04/6781554017"
+        }
+      }
     }
   ],
   "itineraries": [

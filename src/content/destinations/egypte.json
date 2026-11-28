@@ -164,7 +164,16 @@
       ],
       "eat": "Le koshari (riz, lentilles, pâtes, sauce tomate) et le ful medames au petit déjeuner.",
       "getAround": "VTC par application, plus simple et plus sûr que de négocier un taxi. Le métro est pratique et très bon marché.",
-      "tip": "Autour des pyramides, de nombreux vendeurs et loueurs de chameaux sont insistants : fixe le prix avant toute prestation."
+      "tip": "Autour des pyramides, de nombreux vendeurs et loueurs de chameaux sont insistants : fixe le prix avant toute prestation.",
+      "photo": {
+        "src": "/images/destinations/egypte/le-caire.jpg",
+        "alt": "La mosquée de Méhémet-Ali, dans la citadelle du Caire",
+        "credit": {
+          "author": "kallerna",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=12168058"
+        }
+      }
     },
     {
       "slug": "louxor",
@@ -203,7 +212,16 @@
       ],
       "eat": "Les restaurants sur les toits avec vue sur le Nil.",
       "getAround": "Bac public entre les deux rives, taxi ou vélo sur la rive ouest.",
-      "tip": "Le survol de la rive ouest en montgolfière au lever du soleil est un moment fort ; choisis un opérateur reconnu."
+      "tip": "Le survol de la rive ouest en montgolfière au lever du soleil est un moment fort ; choisis un opérateur reconnu.",
+      "photo": {
+        "src": "/images/destinations/egypte/louxor.jpg",
+        "alt": "Le temple de Karnak, à Louxor",
+        "credit": {
+          "author": "_jcthomas_",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/8751402@N02/2504815079"
+        }
+      }
     },
     {
       "slug": "assouan",
@@ -237,7 +255,16 @@
       ],
       "eat": "Les plats nubiens dans les maisons d'hôtes.",
       "getAround": "Bateaux, taxis et felouques. Train de nuit ou croisière depuis Louxor.",
-      "tip": "Ne prends pas la route au-delà d'Abou Simbel vers le sud : la frontière soudanaise est formellement déconseillée."
+      "tip": "Ne prends pas la route au-delà d'Abou Simbel vers le sud : la frontière soudanaise est formellement déconseillée.",
+      "photo": {
+        "src": "/images/destinations/egypte/assouan.jpg",
+        "alt": "Le grand temple d'Abou Simbel",
+        "credit": {
+          "author": "cattan2011",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/68166820@N08/50091685627"
+        }
+      }
     },
     {
       "slug": "croisiere-nil",
@@ -266,7 +293,16 @@
       "hidden": [],
       "eat": "Pension complète à bord.",
       "getAround": "Le bateau fait le trajet ; les visites sont généralement incluses.",
-      "tip": "Les dahabiehs, plus petites, s'arrêtent dans des endroits où les grands bateaux ne vont pas."
+      "tip": "Les dahabiehs, plus petites, s'arrêtent dans des endroits où les grands bateaux ne vont pas.",
+      "photo": {
+        "src": "/images/destinations/egypte/croisiere-nil.jpg",
+        "alt": "Felouques sur le Nil à l'approche d'Assouan",
+        "credit": {
+          "author": "archer10 (Dennis)",
+          "license": "CC BY-SA 2.0",
+          "url": "https://www.flickr.com/photos/22490717@N02/2217394088"
+        }
+      }
     },
     {
       "slug": "mer-rouge",
@@ -300,7 +336,16 @@
       ],
       "eat": "Poissons grillés au bord de l'eau.",
       "getAround": "Vols directs depuis la France selon la saison ; route depuis Louxor.",
-      "tip": "Ne touche pas les coraux et utilise une crème solaire sans danger pour les récifs."
+      "tip": "Ne touche pas les coraux et utilise une crème solaire sans danger pour les récifs.",
+      "photo": {
+        "src": "/images/destinations/egypte/mer-rouge.jpg",
+        "alt": "Un mérou corail sur un récif de la mer Rouge",
+        "credit": {
+          "author": "Derek Keats",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/93242958@N00/6443167939"
+        }
+      }
     }
   ],
   "itineraries": [

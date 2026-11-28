@@ -165,7 +165,16 @@
       ],
       "eat": "Le babi guling (cochon de lait rôti) et le nasi campur dans les warung, petites cantines locales.",
       "getAround": "Chauffeur à la journée ou applications de VTC ; le scooter est risqué sans expérience.",
-      "tip": "Dans la forêt des singes, ne garde rien à la main ni sur la tête : lunettes et téléphones disparaissent vite."
+      "tip": "Dans la forêt des singes, ne garde rien à la main ni sur la tête : lunettes et téléphones disparaissent vite.",
+      "photo": {
+        "src": "/images/destinations/indonesie/ubud.jpg",
+        "alt": "Les rizières en terrasses de Tegallalang, près d'Ubud",
+        "credit": {
+          "author": "mckaysavage",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/56796376@N00/9696099727"
+        }
+      }
     },
     {
       "slug": "uluwatu",
@@ -199,7 +208,16 @@
       ],
       "eat": "Poissons grillés à Jimbaran, les pieds dans le sable.",
       "getAround": "Chauffeur ou VTC. Le trafic dans le sud de Bali est souvent très dense.",
-      "tip": "Les courants sont forts sur beaucoup de plages : baigne-toi entre les drapeaux."
+      "tip": "Les courants sont forts sur beaucoup de plages : baigne-toi entre les drapeaux.",
+      "photo": {
+        "src": "/images/destinations/indonesie/uluwatu.jpg",
+        "alt": "Le temple d'Uluwatu au bord de la falaise, à Bali",
+        "credit": {
+          "author": "ePi.Longo",
+          "license": "CC BY-SA 2.0",
+          "url": "https://www.flickr.com/photos/56278354@N00/8333190564"
+        }
+      }
     },
     {
       "slug": "gili",
@@ -233,7 +251,16 @@
       ],
       "eat": "Les marchés de nuit de poisson grillé.",
       "getAround": "À pied, à vélo ou en charrette à cheval (cidomo). Bateaux rapides depuis Bali.",
-      "tip": "Les bateaux rapides depuis Bali sont parfois annulés par mer forte : garde une journée de marge avant ton vol."
+      "tip": "Les bateaux rapides depuis Bali sont parfois annulés par mer forte : garde une journée de marge avant ton vol.",
+      "photo": {
+        "src": "/images/destinations/indonesie/gili.jpg",
+        "alt": "Bateaux sur l'eau turquoise de Gili Trawangan",
+        "credit": {
+          "author": "NFarras",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=129524137"
+        }
+      }
     },
     {
       "slug": "yogyakarta",
@@ -267,7 +294,16 @@
       ],
       "eat": "Le gudeg, ragoût de jacquier, spécialité de la ville.",
       "getAround": "VTC, becak (vélo-taxi) et train vers les autres villes de Java.",
-      "tip": "Combine avec le volcan Bromo et le cratère Ijen à l'est de Java avant de rejoindre Bali par la route et le ferry."
+      "tip": "Combine avec le volcan Bromo et le cratère Ijen à l'est de Java avant de rejoindre Bali par la route et le ferry.",
+      "photo": {
+        "src": "/images/destinations/indonesie/yogyakarta.jpg",
+        "alt": "Les stupas du temple de Borobudur, près de Yogyakarta",
+        "credit": {
+          "author": "CEphoto, Uwe Aranas",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=39108656"
+        }
+      }
     },
     {
       "slug": "labuan-bajo",
@@ -301,7 +337,16 @@
       ],
       "eat": "Le marché aux poissons du soir à Labuan Bajo.",
       "getAround": "Vol depuis Bali, puis bateau. Choisis un opérateur sérieux, avec gilets de sauvetage.",
-      "tip": "Les droits d'entrée du parc ont augmenté ces dernières années : vérifie le tarif en vigueur avant de réserver."
+      "tip": "Les droits d'entrée du parc ont augmenté ces dernières années : vérifie le tarif en vigueur avant de réserver.",
+      "photo": {
+        "src": "/images/destinations/indonesie/labuan-bajo.jpg",
+        "alt": "Les baies de l'île de Padar, dans le parc national de Komodo",
+        "credit": {
+          "author": "Jakub Hałun",
+          "license": "CC BY 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=175969769"
+        }
+      }
     }
   ],
   "itineraries": [

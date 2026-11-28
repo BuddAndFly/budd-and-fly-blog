@@ -167,7 +167,16 @@
       ],
       "eat": "Le petit déjeuner turc, les meze, le balık ekmek (sandwich au poisson) sur le port et les baklavas.",
       "getAround": "Tram, métro, ferries et funiculaires avec une carte Istanbulkart rechargeable.",
-      "tip": "Si un inconnu sympathique te propose de boire un verre dans un bar, méfie-toi : l'addition géante est une arnaque connue."
+      "tip": "Si un inconnu sympathique te propose de boire un verre dans un bar, méfie-toi : l'addition géante est une arnaque connue.",
+      "photo": {
+        "src": "/images/destinations/turquie/istanbul.jpg",
+        "alt": "Sainte-Sophie au crépuscule, à Istanbul",
+        "credit": {
+          "author": "David Spender",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/8313664@N03/3836504118"
+        }
+      }
     },
     {
       "slug": "cappadoce",
@@ -206,7 +215,16 @@
       ],
       "eat": "Le testi kebab, cuit dans une jarre en terre qu'on casse à table.",
       "getAround": "Vol vers Kayseri ou Nevşehir, puis navette. Scooter, quad ou voiture pour les vallées.",
-      "tip": "Garde au moins deux matins sur place : les vols en montgolfière sont souvent annulés à cause du vent."
+      "tip": "Garde au moins deux matins sur place : les vols en montgolfière sont souvent annulés à cause du vent.",
+      "photo": {
+        "src": "/images/destinations/turquie/cappadoce.jpg",
+        "alt": "Montgolfières au-dessus du parc national de Göreme, en Cappadoce",
+        "credit": {
+          "author": "Feridun F. Alkaya",
+          "license": "CC0",
+          "url": "https://www.flickr.com/photos/11773439@N03/45010287104"
+        }
+      }
     },
     {
       "slug": "ephese",
@@ -240,7 +258,16 @@
       ],
       "eat": "Les gözleme (crêpes farcies) et le vin de fruits de Şirince.",
       "getAround": "Minibus (dolmuş) et taxi. Aéroport d'Izmir à 1 h.",
-      "tip": "En été, le site est écrasant de chaleur dès 10 h : eau, chapeau, et visite tôt."
+      "tip": "En été, le site est écrasant de chaleur dès 10 h : eau, chapeau, et visite tôt.",
+      "photo": {
+        "src": "/images/destinations/turquie/ephese.jpg",
+        "alt": "La façade de la bibliothèque de Celsus, à Éphèse",
+        "credit": {
+          "author": "Carole Raddato from FRANKFURT, Germany",
+          "license": "CC BY-SA 2.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=45976104"
+        }
+      }
     },
     {
       "slug": "pamukkale",
@@ -268,7 +295,16 @@
       "hidden": [],
       "eat": "Les restaurants familiaux du village.",
       "getAround": "Bus depuis Selçuk ou Denizli.",
-      "tip": "Le coucher du soleil sur les terrasses est magique, et la foule des excursions est repartie."
+      "tip": "Le coucher du soleil sur les terrasses est magique, et la foule des excursions est repartie.",
+      "photo": {
+        "src": "/images/destinations/turquie/pamukkale.jpg",
+        "alt": "Les vasques de travertin de Pamukkale",
+        "credit": {
+          "author": "Harold Litwiler, Poppy",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/116337886@N07/14365783258"
+        }
+      }
     },
     {
       "slug": "cote-lycienne",
@@ -302,7 +338,16 @@
       ],
       "eat": "Poisson grillé et meze dans les ports.",
       "getAround": "Minibus entre les villes ; voiture pour la liberté.",
-      "tip": "Au printemps et en automne, la randonnée sur la voie lycienne est idéale ; en été, il fait trop chaud."
+      "tip": "Au printemps et en automne, la randonnée sur la voie lycienne est idéale ; en été, il fait trop chaud.",
+      "photo": {
+        "src": "/images/destinations/turquie/cote-lycienne.jpg",
+        "alt": "La plage de Kaputaş, sur la côte lycienne",
+        "credit": {
+          "author": "SimplyOwners",
+          "license": "CC BY-SA 2.0",
+          "url": "https://www.flickr.com/photos/124187379@N07/14266750686"
+        }
+      }
     }
   ],
   "itineraries": [

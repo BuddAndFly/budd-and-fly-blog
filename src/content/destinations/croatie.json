@@ -164,7 +164,16 @@
       ],
       "eat": "Le risotto noir à l'encre de seiche et les fruits de mer de la baie de Ston.",
       "getAround": "À pied dans la vieille ville, bus urbains pour le reste.",
-      "tip": "Les jours d'escale des paquebots, la vieille ville est saturée de 10 h à 16 h : visite tôt le matin et en soirée."
+      "tip": "Les jours d'escale des paquebots, la vieille ville est saturée de 10 h à 16 h : visite tôt le matin et en soirée.",
+      "photo": {
+        "src": "/images/destinations/croatie/dubrovnik.jpg",
+        "alt": "La vieille ville fortifiée de Dubrovnik vue du mont Srđ",
+        "credit": {
+          "author": "archer10 (Dennis)",
+          "license": "CC BY-SA 2.0",
+          "url": "https://www.flickr.com/photos/22490717@N02/10090694983"
+        }
+      }
     },
     {
       "slug": "split",
@@ -236,7 +245,16 @@
       ],
       "eat": "La truite grillée et les plats de montagne des restaurants autour du parc.",
       "getAround": "En voiture ou en bus depuis Zagreb, Split ou Zadar. Billets d'entrée à réserver en ligne en été.",
-      "tip": "La baignade est interdite dans le parc. Arrive à l'ouverture : à partir de 10 h, les passerelles sont saturées en été."
+      "tip": "La baignade est interdite dans le parc. Arrive à l'ouverture : à partir de 10 h, les passerelles sont saturées en été.",
+      "photo": {
+        "src": "/images/destinations/croatie/plitvice.jpg",
+        "alt": "Les lacs turquoise et passerelles de Plitvice",
+        "credit": {
+          "author": "jvcaff",
+          "license": "CC BY-SA 2.0",
+          "url": "https://www.flickr.com/photos/67457249@N02/6794175944"
+        }
+      }
     },
     {
       "slug": "rovinj",
@@ -270,7 +288,16 @@
       ],
       "eat": "Les pâtes aux truffes, l'huile d'olive et le vin malvazija.",
       "getAround": "Une voiture est le plus pratique pour l'intérieur ; bus entre les villes.",
-      "tip": "L'Istrie est accessible en voiture depuis l'Italie : une bonne option pour un road trip."
+      "tip": "L'Istrie est accessible en voiture depuis l'Italie : une bonne option pour un road trip.",
+      "photo": {
+        "src": "/images/destinations/croatie/rovinj.jpg",
+        "alt": "Le port et la vieille ville de Rovinj",
+        "credit": {
+          "author": "Ekaterina Polischuk",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=82519000"
+        }
+      }
     },
     {
       "slug": "zagreb",
@@ -304,7 +331,16 @@
       ],
       "eat": "Les štrukli, pâte fourrée au fromage, cuite au four.",
       "getAround": "Tramways et marche. Aéroport à 30 minutes en bus.",
-      "tip": "En décembre, le marché de l'Avent justifie à lui seul un week-end."
+      "tip": "En décembre, le marché de l'Avent justifie à lui seul un week-end.",
+      "photo": {
+        "src": "/images/destinations/croatie/zagreb.jpg",
+        "alt": "L'église Saint-Marc et son toit coloré, à Zagreb",
+        "credit": {
+          "author": "Larisa Uhryn",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=82701625"
+        }
+      }
     }
   ],
   "itineraries": [
