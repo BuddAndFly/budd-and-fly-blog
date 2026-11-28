@@ -159,7 +159,16 @@
       ],
       "eat": "Le rice and curry, servi avec plusieurs petits currys de légumes.",
       "getAround": "Chauffeur ou tuk-tuk avec conducteur. Safari éléphants dans les parcs de Minneriya ou Kaudulla.",
-      "tip": "Le billet de Sigiriya est cher : Pidurangala offre une superbe vue pour bien moins."
+      "tip": "Le billet de Sigiriya est cher : Pidurangala offre une superbe vue pour bien moins.",
+      "photo": {
+        "src": "/images/destinations/sri-lanka/sigiriya.jpg",
+        "alt": "Le rocher de Sigiriya",
+        "credit": {
+          "author": "Santhosh Janardhanan",
+          "license": "CC BY-SA 2.0",
+          "url": "https://www.flickr.com/photos/78898908@N00/5505127124"
+        }
+      }
     },
     {
       "slug": "kandy",
@@ -193,7 +202,16 @@
       ],
       "eat": "Les petits restaurants locaux autour du marché.",
       "getAround": "Tuk-tuk au compteur ou par application. Train vers les montagnes.",
-      "tip": "Réserve le train Kandy-Ella à l'avance en haute saison, surtout en 2e classe."
+      "tip": "Réserve le train Kandy-Ella à l'avance en haute saison, surtout en 2e classe.",
+      "photo": {
+        "src": "/images/destinations/sri-lanka/kandy.jpg",
+        "alt": "Le lac de Kandy et le temple de la Dent",
+        "credit": {
+          "author": "Dan arndt",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=52234820"
+        }
+      }
     },
     {
       "slug": "ella",
@@ -231,7 +249,16 @@
       ],
       "eat": "Le thé de Ceylan, évidemment, et les rotis.",
       "getAround": "À pied et en tuk-tuk.",
-      "tip": "Ne te penche pas aux portes ouvertes du train pour les photos : des voyageurs tombent chaque année."
+      "tip": "Ne te penche pas aux portes ouvertes du train pour les photos : des voyageurs tombent chaque année.",
+      "photo": {
+        "src": "/images/destinations/sri-lanka/ella.jpg",
+        "alt": "Le pont aux neuf arches, près d'Ella",
+        "credit": {
+          "author": "Amanullah Nazim",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=79579566"
+        }
+      }
     },
     {
       "slug": "galle",
@@ -265,7 +292,16 @@
       ],
       "eat": "Les currys de poisson et les fruits de mer.",
       "getAround": "À pied dans le fort ; train côtier vers Colombo.",
-      "tip": "Le train côtier entre Colombo et Galle longe l'océan : à faire au moins une fois."
+      "tip": "Le train côtier entre Colombo et Galle longe l'océan : à faire au moins une fois.",
+      "photo": {
+        "src": "/images/destinations/sri-lanka/galle.jpg",
+        "alt": "Le phare du fort de Galle",
+        "credit": {
+          "author": "FLASHPACKER TRAVELGUIDE",
+          "license": "CC BY-SA 2.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=70963796"
+        }
+      }
     },
     {
       "slug": "mirissa",
@@ -299,7 +335,16 @@
       ],
       "eat": "Poissons grillés sur la plage le soir.",
       "getAround": "Tuk-tuk et bus côtiers.",
-      "tip": "Les courants sont forts sur beaucoup de plages : baigne-toi là où les locaux se baignent."
+      "tip": "Les courants sont forts sur beaucoup de plages : baigne-toi là où les locaux se baignent.",
+      "photo": {
+        "src": "/images/destinations/sri-lanka/mirissa.jpg",
+        "alt": "La plage de Mirissa",
+        "credit": {
+          "author": "clurr",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/68474627@N00/3129336288"
+        }
+      }
     }
   ],
   "itineraries": [

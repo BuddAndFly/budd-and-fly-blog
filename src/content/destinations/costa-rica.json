@@ -158,7 +158,16 @@
       ],
       "eat": "Le casado (riz, haricots, viande, banane plantain) dans les sodas.",
       "getAround": "Voiture ou navettes touristiques entre les régions.",
-      "tip": "Les sources chaudes publiques gratuites existent, mais les bassins payants sont plus sûrs et mieux entretenus."
+      "tip": "Les sources chaudes publiques gratuites existent, mais les bassins payants sont plus sûrs et mieux entretenus.",
+      "photo": {
+        "src": "/images/destinations/costa-rica/la-fortuna.jpg",
+        "alt": "Le volcan Arenal, près de La Fortuna",
+        "credit": {
+          "author": "Rhododendrites",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=157431895"
+        }
+      }
     },
     {
       "slug": "monteverde",
@@ -192,7 +201,16 @@
       ],
       "eat": "Le café de la région et les fromages locaux.",
       "getAround": "Route de montagne en partie non goudronnée : 4x4 recommandé. Navettes depuis La Fortuna.",
-      "tip": "Il fait frais et humide : prévois une veste imperméable, même en saison sèche."
+      "tip": "Il fait frais et humide : prévois une veste imperméable, même en saison sèche.",
+      "photo": {
+        "src": "/images/destinations/costa-rica/monteverde.jpg",
+        "alt": "Un pont suspendu dans la forêt de nuages de Monteverde",
+        "credit": {
+          "author": "mikegoren",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/41894168277@N01/1491277225"
+        }
+      }
     },
     {
       "slug": "manuel-antonio",
@@ -226,7 +244,16 @@
       ],
       "eat": "Poissons et fruits de mer à Quepos.",
       "getAround": "Bus locaux entre Quepos et le parc ; voiture pour la côte.",
-      "tip": "Ne nourris pas les singes et surveille ton sac sur la plage : ils sont aussi habiles que les pickpockets."
+      "tip": "Ne nourris pas les singes et surveille ton sac sur la plage : ils sont aussi habiles que les pickpockets.",
+      "photo": {
+        "src": "/images/destinations/costa-rica/manuel-antonio.jpg",
+        "alt": "Une plage de Manuel Antonio",
+        "credit": {
+          "author": "jmcmichael from No Fixed Abode, The World",
+          "license": "CC BY-SA 2.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=91504518"
+        }
+      }
     },
     {
       "slug": "tortuguero",
@@ -260,7 +287,16 @@
       ],
       "eat": "Le rice and beans au lait de coco, spécialité caribéenne.",
       "getAround": "Bus et bateau depuis La Pavona, ou transfert organisé depuis San José.",
-      "tip": "Pas de voiture ni de distributeur fiable sur place : prévois des espèces."
+      "tip": "Pas de voiture ni de distributeur fiable sur place : prévois des espèces.",
+      "photo": {
+        "src": "/images/destinations/costa-rica/tortuguero.jpg",
+        "alt": "Un martin-pêcheur vert-et-roux, à Tortuguero",
+        "credit": {
+          "author": "Becky Matsubara from El Sobrante, California",
+          "license": "CC BY 2.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=93353722"
+        }
+      }
     },
     {
       "slug": "osa",
@@ -288,7 +324,16 @@
       "hidden": [],
       "eat": "Les lodges proposent généralement la pension complète.",
       "getAround": "Petit avion depuis San José, ou longue route puis bateau.",
-      "tip": "La région est isolée : réserve tout à l'avance et garde une marge pour la météo."
+      "tip": "La région est isolée : réserve tout à l'avance et garde une marge pour la météo.",
+      "photo": {
+        "src": "/images/destinations/costa-rica/osa.jpg",
+        "alt": "La forêt tropicale du parc national de Corcovado",
+        "credit": {
+          "author": "Christian Haugen",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/34073237@N04/3634195345"
+        }
+      }
     }
   ],
   "itineraries": [

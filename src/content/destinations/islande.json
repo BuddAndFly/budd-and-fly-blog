@@ -159,7 +159,16 @@
       ],
       "eat": "Le hot-dog islandais, la soupe d'agneau et le skyr.",
       "getAround": "À pied ; bus Flybus depuis l'aéroport de Keflavík (45 minutes).",
-      "tip": "Garde une nuit à Reykjavik à la fin du voyage : les vols tôt le matin sont fréquents et l'aéroport est loin."
+      "tip": "Garde une nuit à Reykjavik à la fin du voyage : les vols tôt le matin sont fréquents et l'aéroport est loin.",
+      "photo": {
+        "src": "/images/destinations/islande/reykjavik.jpg",
+        "alt": "Reykjavik vue du clocher de la Hallgrímskirkja",
+        "credit": {
+          "author": "G. Edward Johnson",
+          "license": "CC BY 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=184681499"
+        }
+      }
     },
     {
       "slug": "cercle-d-or",
@@ -196,7 +205,16 @@
       ],
       "eat": "Les fermes-restaurants de la région, avec tomates de serre géothermique.",
       "getAround": "En voiture, depuis Reykjavik. Faisable en une journée.",
-      "tip": "Commence par Þingvellir très tôt le matin pour avoir le site presque pour toi."
+      "tip": "Commence par Þingvellir très tôt le matin pour avoir le site presque pour toi.",
+      "photo": {
+        "src": "/images/destinations/islande/cercle-d-or.jpg",
+        "alt": "La cascade de Gullfoss et son arc-en-ciel",
+        "credit": {
+          "author": "o palsson",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/45713725@N00/3905929777"
+        }
+      }
     },
     {
       "slug": "cote-sud",
@@ -230,7 +248,16 @@
       ],
       "eat": "Les rares restaurants de Vík ; prévois des courses.",
       "getAround": "En voiture par la route 1, très fréquentée en été.",
-      "tip": "Ne marche jamais seul sur un glacier : les crevasses ne se voient pas."
+      "tip": "Ne marche jamais seul sur un glacier : les crevasses ne se voient pas.",
+      "photo": {
+        "src": "/images/destinations/islande/cote-sud.jpg",
+        "alt": "Lever du soleil sur la plage noire de Reynisfjara",
+        "credit": {
+          "author": "Giuseppe Milo (www.pixael.com)",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/87690240@N03/40301204721"
+        }
+      }
     },
     {
       "slug": "jokulsarlon",
@@ -264,7 +291,16 @@
       ],
       "eat": "Le homard de Höfn, spécialité locale.",
       "getAround": "En voiture, à environ 5 h de Reykjavik.",
-      "tip": "Les grottes de glace se visitent seulement en hiver et uniquement avec un guide."
+      "tip": "Les grottes de glace se visitent seulement en hiver et uniquement avec un guide.",
+      "photo": {
+        "src": "/images/destinations/islande/jokulsarlon.jpg",
+        "alt": "Un iceberg sur la lagune glaciaire de Jökulsárlón",
+        "credit": {
+          "author": "stefanserena",
+          "license": "CC0",
+          "url": "https://www.flickr.com/photos/146738176@N02/46992313021"
+        }
+      }
     },
     {
       "slug": "myvatn",
@@ -298,7 +334,16 @@
       ],
       "eat": "Le pain de seigle cuit dans le sol chaud, et la truite fumée.",
       "getAround": "En voiture par la route 1, ou vol intérieur vers Akureyri.",
-      "tip": "En été, les moucherons de Mývatn sont nombreux : une moustiquaire de tête est bien utile."
+      "tip": "En été, les moucherons de Mývatn sont nombreux : une moustiquaire de tête est bien utile.",
+      "photo": {
+        "src": "/images/destinations/islande/myvatn.jpg",
+        "alt": "Les pseudo-cratères du lac Mývatn",
+        "credit": {
+          "author": "diego_cue",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=53785365"
+        }
+      }
     }
   ],
   "itineraries": [

@@ -197,7 +197,16 @@
       ],
       "eat": "La soupe de quinoa, le cochon d'Inde rôti (cuy) pour les curieux, et le maté de coca.",
       "getAround": "À pied à Cusco (ça monte), colectivos et taxis vers la vallée.",
-      "tip": "Commence par la Vallée sacrée, plus basse, puis monte à Cusco : l'acclimatation sera plus facile."
+      "tip": "Commence par la Vallée sacrée, plus basse, puis monte à Cusco : l'acclimatation sera plus facile.",
+      "photo": {
+        "src": "/images/destinations/perou/cusco.jpg",
+        "alt": "La fontaine et l'église de la Compagnie sur la Plaza de Armas, à Cusco",
+        "credit": {
+          "author": "Murray Foubister",
+          "license": "CC BY-SA 2.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=51803427"
+        }
+      }
     },
     {
       "slug": "machu-picchu",
@@ -264,7 +273,16 @@
       ],
       "eat": "Le rocoto relleno (piment farci) et le chupe de camarones (soupe de crevettes).",
       "getAround": "Bus touristiques ou excursions organisées pour Colca.",
-      "tip": "Le col sur la route de Colca dépasse 4 800 m : prévois-le après quelques jours en altitude."
+      "tip": "Le col sur la route de Colca dépasse 4 800 m : prévois-le après quelques jours en altitude.",
+      "photo": {
+        "src": "/images/destinations/perou/arequipa.jpg",
+        "alt": "Un condor des Andes en vol au-dessus du canyon de Colca",
+        "credit": {
+          "author": "Thomas Fuhrmann",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=118676119"
+        }
+      }
     },
     {
       "slug": "titicaca",
@@ -298,7 +316,16 @@
       ],
       "eat": "La truite du lac.",
       "getAround": "Bus depuis Cusco ou Arequipa ; bateaux vers les îles.",
-      "tip": "Puno est à plus de 3 800 m et les nuits sont glaciales : prévois des vêtements chauds."
+      "tip": "Puno est à plus de 3 800 m et les nuits sont glaciales : prévois des vêtements chauds.",
+      "photo": {
+        "src": "/images/destinations/perou/titicaca.jpg",
+        "alt": "Les bateaux en roseau totora des îles Uros, sur le lac Titicaca",
+        "credit": {
+          "author": "wallygrom",
+          "license": "CC BY-SA 2.0",
+          "url": "https://www.flickr.com/photos/33037982@N04/3399304325"
+        }
+      }
     }
   ],
   "itineraries": [
