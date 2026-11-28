@@ -203,7 +203,16 @@
       "hidden": [],
       "eat": "Le poisson du lac (fogas) et le vin blanc local.",
       "getAround": "Train et bus autour du lac, ferries entre les rives.",
-      "tip": "L'eau est peu profonde sur la rive sud, idéale pour les enfants."
+      "tip": "L'eau est peu profonde sur la rive sud, idéale pour les enfants.",
+      "photo": {
+        "src": "/images/destinations/hongrie/balaton.jpg",
+        "alt": "Le lac Balaton vu de Balatonfüred",
+        "credit": {
+          "author": "Susulyka",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=3925126"
+        }
+      }
     },
     {
       "slug": "eger",
@@ -232,7 +241,16 @@
       "hidden": [],
       "eat": "Le Bikavér (Sang de taureau) dans les caves.",
       "getAround": "Train direct depuis Budapest en 2 h environ.",
-      "tip": "Tokaj, l'autre grande région viticole, est à environ 1 h 30 de route."
+      "tip": "Tokaj, l'autre grande région viticole, est à environ 1 h 30 de route.",
+      "photo": {
+        "src": "/images/destinations/hongrie/eger.jpg",
+        "alt": "La statue d'István Dobó et les maisons colorées d'Eger",
+        "credit": {
+          "author": "Wojsyl",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=563274"
+        }
+      }
     },
     {
       "slug": "pecs",
@@ -261,7 +279,16 @@
       "hidden": [],
       "eat": "Les vins de Villány, à 30 minutes.",
       "getAround": "Train ou bus depuis Budapest.",
-      "tip": "Ville étudiante : beaucoup de terrasses et une vie culturelle animée."
+      "tip": "Ville étudiante : beaucoup de terrasses et une vie culturelle animée.",
+      "photo": {
+        "src": "/images/destinations/hongrie/pecs.jpg",
+        "alt": "Les fresques dorées de la cathédrale de Pécs",
+        "credit": {
+          "author": "Takkk",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=8678370"
+        }
+      }
     }
   ],
   "itineraries": [

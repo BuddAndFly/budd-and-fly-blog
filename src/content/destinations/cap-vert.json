@@ -186,7 +186,16 @@
       ],
       "eat": "La cachupa, ragoût de maïs et haricots, plat national.",
       "getAround": "À pied et en taxi.",
-      "tip": "Mindelo est la base pour rejoindre Santo Antão en ferry."
+      "tip": "Mindelo est la base pour rejoindre Santo Antão en ferry.",
+      "photo": {
+        "src": "/images/destinations/cap-vert/mindelo.jpg",
+        "alt": "La baie de Mindelo, sur l'île de São Vicente",
+        "credit": {
+          "author": "Herbert wie",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=76469478"
+        }
+      }
     },
     {
       "slug": "sal",
@@ -220,7 +229,16 @@
       ],
       "eat": "Le poisson grillé et le thon frais.",
       "getAround": "Taxis et aluguers.",
-      "tip": "Sal est idéale pour se reposer, moins pour découvrir le Cap-Vert : combine-la avec une autre île."
+      "tip": "Sal est idéale pour se reposer, moins pour découvrir le Cap-Vert : combine-la avec une autre île.",
+      "photo": {
+        "src": "/images/destinations/cap-vert/sal.jpg",
+        "alt": "Barques de pêche sur l'eau turquoise de Santa Maria, à Sal",
+        "credit": {
+          "author": "IDS.photos from Tiverton, UK",
+          "license": "CC BY-SA 2.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=25738216"
+        }
+      }
     },
     {
       "slug": "boa-vista",
@@ -248,7 +266,16 @@
       "hidden": [],
       "eat": "Les petits restaurants de Sal Rei.",
       "getAround": "4x4 avec guide pour l'intérieur de l'île.",
-      "tip": "France Diplomatie signale des agressions hors des zones urbaines : explore l'île avec un guide."
+      "tip": "France Diplomatie signale des agressions hors des zones urbaines : explore l'île avec un guide.",
+      "photo": {
+        "src": "/images/destinations/cap-vert/boa-vista.jpg",
+        "alt": "L'épave du Cabo de Santa Maria, à Boa Vista",
+        "credit": {
+          "author": "Ximonic (Simo Räsänen)",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=38019084"
+        }
+      }
     },
     {
       "slug": "fogo",
@@ -276,7 +303,16 @@
       "hidden": [],
       "eat": "Le vin et le café de Fogo, cultivés dans la cendre volcanique.",
       "getAround": "Vol ou ferry depuis Praia, puis aluguers.",
-      "tip": "Ne randonne pas seul : France Diplomatie signale des agressions hors des villes."
+      "tip": "Ne randonne pas seul : France Diplomatie signale des agressions hors des villes.",
+      "photo": {
+        "src": "/images/destinations/cap-vert/fogo.jpg",
+        "alt": "Le Pico do Fogo, sur l'île de Fogo",
+        "credit": {
+          "author": "Cayambe",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=20156004"
+        }
+      }
     }
   ],
   "itineraries": [

@@ -158,7 +158,16 @@
       ],
       "eat": "Le halloumi grillé et un meze de poisson.",
       "getAround": "Bus locaux et voiture pour Akamas.",
-      "tip": "Akamas est protégée : reste sur les pistes autorisées et emporte de l'eau."
+      "tip": "Akamas est protégée : reste sur les pistes autorisées et emporte de l'eau.",
+      "photo": {
+        "src": "/images/destinations/chypre/paphos.jpg",
+        "alt": "Le château du port de Paphos",
+        "credit": {
+          "author": "George M. Groutas",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/22083482@N03/46623158904"
+        }
+      }
     },
     {
       "slug": "nicosie",
@@ -192,7 +201,16 @@
       ],
       "eat": "Le souvlaki et les pâtisseries chypriotes.",
       "getAround": "À pied dans la vieille ville.",
-      "tip": "En été, la ville est la plus chaude de l'île : visite tôt le matin."
+      "tip": "En été, la ville est la plus chaude de l'île : visite tôt le matin.",
+      "photo": {
+        "src": "/images/destinations/chypre/nicosie.jpg",
+        "alt": "Le palais de l'archevêché, à Nicosie",
+        "credit": {
+          "author": "AncientNicosia",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=16197726"
+        }
+      }
     },
     {
       "slug": "troodos",

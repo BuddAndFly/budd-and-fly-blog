@@ -202,3 +202,7 @@ details.faq p { margin-top: 10px; color: var(--ink-soft); }
 .deal__title { font-family: var(--serif); font-size: 22px; line-height: 1.2; }
 .deal__more { font-size: 14px; font-weight: 700; color: var(--accent); }
 .cards--compact .card__title { font-size: 22px; line-height: 1.15; }
+
+/* L'attribut hidden doit toujours masquer, même si une classe impose display: flex/grid
+   (sinon tous les écrans du quiz Visa s'affichaient en même temps). */
+[hidden] { display: none !important; }
