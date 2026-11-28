@@ -159,7 +159,16 @@
       ],
       "eat": "Les pierogi (raviolis) et l'obwarzanek, pain en anneau vendu dans la rue.",
       "getAround": "À pied et en tram.",
-      "tip": "Le mémorial et musée d'Auschwitz-Birkenau est à environ 1 h 30 : réserve la visite guidée en ligne bien à l'avance."
+      "tip": "Le mémorial et musée d'Auschwitz-Birkenau est à environ 1 h 30 : réserve la visite guidée en ligne bien à l'avance.",
+      "photo": {
+        "src": "/images/destinations/pologne/cracovie.jpg",
+        "alt": "Le château du Wawel, à Cracovie",
+        "credit": {
+          "author": "David Berkowitz",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/25897810@N00/8718117930"
+        }
+      }
     },
     {
       "slug": "varsovie",
@@ -193,7 +202,16 @@
       ],
       "eat": "Les bar mleczny pour la cuisine populaire, et le żurek, soupe aigre.",
       "getAround": "Métro, tram et bus.",
-      "tip": "Monte au Palais de la culture et de la science pour la vue sur toute la ville."
+      "tip": "Monte au Palais de la culture et de la science pour la vue sur toute la ville.",
+      "photo": {
+        "src": "/images/destinations/pologne/varsovie.jpg",
+        "alt": "La place du Marché de la vieille ville, à Varsovie",
+        "credit": {
+          "author": "Adrian Grycuk",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=90735894"
+        }
+      }
     },
     {
       "slug": "gdansk",
@@ -256,7 +274,16 @@
       "hidden": [],
       "eat": "Les bières artisanales et les pierogi.",
       "getAround": "À pied et en tram.",
-      "tip": "Le marché de Noël de Wrocław est l'un des plus beaux du pays."
+      "tip": "Le marché de Noël de Wrocław est l'un des plus beaux du pays.",
+      "photo": {
+        "src": "/images/destinations/pologne/wroclaw.jpg",
+        "alt": "La place du Marché de Wrocław vue d'en haut",
+        "credit": {
+          "author": "Maksym Kozlenko",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=82281101"
+        }
+      }
     },
     {
       "slug": "zakopane",
@@ -284,7 +311,16 @@
       "hidden": [],
       "eat": "L'oscypek, fromage fumé grillé, servi avec de la confiture d'airelles.",
       "getAround": "Bus ou train depuis Cracovie (environ 2 h).",
-      "tip": "En haute saison, le sentier de Morskie Oko est très fréquenté : pars tôt."
+      "tip": "En haute saison, le sentier de Morskie Oko est très fréquenté : pars tôt.",
+      "photo": {
+        "src": "/images/destinations/pologne/zakopane.jpg",
+        "alt": "Le lac Morskie Oko sous la neige, dans les Tatras",
+        "credit": {
+          "author": "ARKADIUSZ MARKIEWICZ",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=60315152"
+        }
+      }
     }
   ],
   "itineraries": [

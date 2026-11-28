@@ -165,7 +165,16 @@
       ],
       "eat": "Le goulash, le lángos (beignet salé) et les pâtisseries des grands cafés historiques.",
       "getAround": "Métro, tram (la ligne 2 longe le Danube) et marche.",
-      "tip": "Pour les bains, prends tongs et serviette : la location coûte cher sur place."
+      "tip": "Pour les bains, prends tongs et serviette : la location coûte cher sur place.",
+      "photo": {
+        "src": "/images/destinations/hongrie/budapest.jpg",
+        "alt": "Le Parlement illuminé au bord du Danube, à Budapest",
+        "credit": {
+          "author": "radkuch.13",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/137294100@N08/50813472887"
+        }
+      }
     },
     {
       "slug": "balaton",

@@ -155,7 +155,16 @@
       ],
       "eat": "Les moules de la baie et le jambon de Njeguši.",
       "getAround": "Bus le long de la baie, bateaux-taxis vers Perast.",
-      "tip": "Les jours d'escale des paquebots, la vieille ville est bondée : visite-la avant 9 h ou après 17 h."
+      "tip": "Les jours d'escale des paquebots, la vieille ville est bondée : visite-la avant 9 h ou après 17 h.",
+      "photo": {
+        "src": "/images/destinations/montenegro/kotor.jpg",
+        "alt": "L'îlot de Notre-Dame-du-Rocher, dans les bouches de Kotor",
+        "credit": {
+          "author": "archer10 (Dennis)",
+          "license": "CC BY-SA 2.0",
+          "url": "https://www.flickr.com/photos/22490717@N02/10596277313"
+        }
+      }
     },
     {
       "slug": "budva",
@@ -183,7 +192,16 @@
       "hidden": [],
       "eat": "Poissons grillés et risotto noir.",
       "getAround": "Bus côtiers fréquents.",
-      "tip": "En août, Budva est très festive et très bruyante : choisis Petrovac si tu cherches le repos."
+      "tip": "En août, Budva est très festive et très bruyante : choisis Petrovac si tu cherches le repos.",
+      "photo": {
+        "src": "/images/destinations/montenegro/budva.jpg",
+        "alt": "L'îlot de Sveti Stefan, près de Budva",
+        "credit": {
+          "author": "Marcin Konsek",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=37078930"
+        }
+      }
     },
     {
       "slug": "durmitor",
@@ -216,7 +234,16 @@
       ],
       "eat": "Les plats de montagne : agneau, fromage, kačamak (bouillie de maïs).",
       "getAround": "Voiture conseillée ; routes de montagne étroites.",
-      "tip": "Le temps change vite en altitude, même en été : prévois une veste chaude."
+      "tip": "Le temps change vite en altitude, même en été : prévois une veste chaude.",
+      "photo": {
+        "src": "/images/destinations/montenegro/durmitor.jpg",
+        "alt": "Le lac Noir vu des hauteurs du Durmitor",
+        "credit": {
+          "author": "This image is a work by Mercy. When reusing, please credit me as: Mercy from Wik",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=7738487"
+        }
+      }
     },
     {
       "slug": "lac-de-skadar",
@@ -244,7 +271,16 @@
       "hidden": [],
       "eat": "La carpe et l'ablette du lac.",
       "getAround": "Voiture ou excursion depuis la côte.",
-      "tip": "Combine le lac avec une nuit à Cetinje, l'ancienne capitale royale."
+      "tip": "Combine le lac avec une nuit à Cetinje, l'ancienne capitale royale.",
+      "photo": {
+        "src": "/images/destinations/montenegro/lac-de-skadar.jpg",
+        "alt": "Le méandre de la rivière Crnojević, au lac de Skadar",
+        "credit": {
+          "author": "Maja1407",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=80320331"
+        }
+      }
     }
   ],
   "itineraries": [
