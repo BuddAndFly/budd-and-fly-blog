@@ -158,7 +158,16 @@
       ],
       "eat": "Le tavë kosi (agneau au yaourt) et le byrek, feuilleté salé.",
       "getAround": "À pied et en taxi. Bus et furgons (minibus) vers les autres villes.",
-      "tip": "Les furgons partent quand ils sont pleins : demande les horaires approximatifs à ton hébergement."
+      "tip": "Les furgons partent quand ils sont pleins : demande les horaires approximatifs à ton hébergement.",
+      "photo": {
+        "src": "/images/destinations/albanie/tirana.jpg",
+        "alt": "La place Skanderbeg, à Tirana",
+        "credit": {
+          "author": "Photo: Chris Walts",
+          "license": "CC BY-SA 2.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=52560559"
+        }
+      }
     },
     {
       "slug": "berat",
@@ -192,7 +201,16 @@
       ],
       "eat": "Les restaurants familiaux de la vieille ville, et le vin local.",
       "getAround": "À pied. Bus depuis Tirana en 2 à 3 h.",
-      "tip": "Monte à la citadelle en fin de journée pour voir la ville s'éclairer."
+      "tip": "Monte à la citadelle en fin de journée pour voir la ville s'éclairer.",
+      "photo": {
+        "src": "/images/destinations/albanie/berat.jpg",
+        "alt": "Lever du soleil sur les toits de Berat, vus du château",
+        "credit": {
+          "author": "Alexandre Rezende Fonseca",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=135338286"
+        }
+      }
     },
     {
       "slug": "gjirokaster",
@@ -226,7 +244,16 @@
       ],
       "eat": "Les qifqi, boulettes de riz aux herbes, spécialité locale.",
       "getAround": "À pied, avec de bonnes chaussures : les pavés sont glissants.",
-      "tip": "Combine avec l'œil bleu sur la route vers Saranda et Ksamil."
+      "tip": "Combine avec l'œil bleu sur la route vers Saranda et Ksamil.",
+      "photo": {
+        "src": "/images/destinations/albanie/gjirokaster.jpg",
+        "alt": "Une maison de pierre à Gjirokastër",
+        "credit": {
+          "author": "Jocelyn777",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=192787604"
+        }
+      }
     },
     {
       "slug": "riviera",
@@ -260,7 +287,16 @@
       ],
       "eat": "Poissons grillés et fruits de mer, bon marché hors de Ksamil.",
       "getAround": "Bus le long de la côte ; voiture pour les criques. La route de Llogara est spectaculaire.",
-      "tip": "En août, Ksamil est saturée : préfère Himarë ou viens en juin ou septembre."
+      "tip": "En août, Ksamil est saturée : préfère Himarë ou viens en juin ou septembre.",
+      "photo": {
+        "src": "/images/destinations/albanie/riviera.jpg",
+        "alt": "Les eaux turquoise de Ksamil, sur la riviera albanaise",
+        "credit": {
+          "author": "Artur Malinowski",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/57387723@N04/6514838979"
+        }
+      }
     },
     {
       "slug": "theth-valbona",
@@ -288,7 +324,16 @@
       "hidden": [],
       "eat": "Les plats de montagne servis par les familles : fromage, viande, légumes du jardin.",
       "getAround": "Minibus depuis Shkodër, ferry du lac de Komani.",
-      "tip": "Il n'y a pas toujours de réseau ni de distributeur : prévois des espèces."
+      "tip": "Il n'y a pas toujours de réseau ni de distributeur : prévois des espèces.",
+      "photo": {
+        "src": "/images/destinations/albanie/theth-valbona.jpg",
+        "alt": "La vallée de Theth, dans les Alpes albanaises",
+        "credit": {
+          "author": "Timsterboy88",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=133959149"
+        }
+      }
     }
   ],
   "itineraries": [

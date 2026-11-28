@@ -156,7 +156,16 @@
       ],
       "eat": "Les pastizzi (feuilletés à la ricotta ou aux pois) et le lapin mijoté, plat national.",
       "getAround": "À pied ; ferries vers Sliema et les Trois Cités ; bus pour toute l'île.",
-      "tip": "Les rues sont en pente et en escaliers : prends de bonnes chaussures."
+      "tip": "Les rues sont en pente et en escaliers : prends de bonnes chaussures.",
+      "photo": {
+        "src": "/images/destinations/malte/la-valette.jpg",
+        "alt": "Les balcons colorés de La Valette",
+        "credit": {
+          "author": "Tobias von der Haar",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/76402385@N03/9189405669"
+        }
+      }
     },
     {
       "slug": "trois-cites",
@@ -184,7 +193,16 @@
       "hidden": [],
       "eat": "Les restaurants du port de plaisance de Birgu.",
       "getAround": "En dghajsa (barque traditionnelle) ou en ferry depuis La Valette.",
-      "tip": "La traversée en barque traditionnelle est courte et fait partie du plaisir."
+      "tip": "La traversée en barque traditionnelle est courte et fait partie du plaisir.",
+      "photo": {
+        "src": "/images/destinations/malte/trois-cites.jpg",
+        "alt": "Le fort Saint-Ange, à Birgu",
+        "credit": {
+          "author": "Spike28742",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=94493437"
+        }
+      }
     },
     {
       "slug": "mdina",
@@ -218,7 +236,16 @@
       ],
       "eat": "Les salons de thé dans les remparts.",
       "getAround": "Bus depuis La Valette.",
-      "tip": "Combine avec les falaises de Dingli pour le coucher du soleil."
+      "tip": "Combine avec les falaises de Dingli pour le coucher du soleil.",
+      "photo": {
+        "src": "/images/destinations/malte/mdina.jpg",
+        "alt": "Mdina, la cité fortifiée, vue du ciel",
+        "credit": {
+          "author": "R Muscat",
+          "license": "CC BY-SA 2.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=33648867"
+        }
+      }
     },
     {
       "slug": "gozo",
@@ -252,7 +279,16 @@
       ],
       "eat": "Le ftira de Gozo, pain garni, et le fromage de chèvre local.",
       "getAround": "Ferry public depuis Ċirkewwa (25 minutes), puis bus ou voiture.",
-      "tip": "Gozo mérite au moins une nuit : en excursion d'une journée, on n'en voit qu'une petite partie."
+      "tip": "Gozo mérite au moins une nuit : en excursion d'une journée, on n'en voit qu'une petite partie.",
+      "photo": {
+        "src": "/images/destinations/malte/gozo.jpg",
+        "alt": "Fungus Rock au coucher du soleil, à Gozo",
+        "credit": {
+          "author": "Giuseppe Milo (www.pixael.com)",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/87690240@N03/21413152313"
+        }
+      }
     },
     {
       "slug": "comino",
@@ -281,7 +317,16 @@
       "hidden": [],
       "eat": "Emporte ton pique-nique et de l'eau.",
       "getAround": "Bateaux depuis Malte ou Gozo. Le nombre de visiteurs du lagon bleu est limité en saison : réserve.",
-      "tip": "Il n'y a quasiment pas d'ombre : chapeau et parasol indispensables."
+      "tip": "Il n'y a quasiment pas d'ombre : chapeau et parasol indispensables.",
+      "photo": {
+        "src": "/images/destinations/malte/comino.jpg",
+        "alt": "Le lagon bleu de Comino",
+        "credit": {
+          "author": "Frank Vincentz",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=34028257"
+        }
+      }
     }
   ],
   "itineraries": [

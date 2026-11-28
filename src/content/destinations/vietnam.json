@@ -169,7 +169,16 @@
       ],
       "eat": "Le phở au petit déjeuner, le bún chả (porc grillé et vermicelles) et le café à l'œuf.",
       "getAround": "À pied et en VTC à moto ou en voiture via application, au prix affiché.",
-      "tip": "Pour traverser la rue, avance d'un pas lent et régulier : les scooters te contournent. Ne cours jamais."
+      "tip": "Pour traverser la rue, avance d'un pas lent et régulier : les scooters te contournent. Ne cours jamais.",
+      "photo": {
+        "src": "/images/destinations/vietnam/hanoi.jpg",
+        "alt": "La tour de la Tortue sur le lac Hoan Kiem, à Hanoï",
+        "credit": {
+          "author": "Richard Mortel from Riyadh, Saudi Arabia",
+          "license": "CC BY 2.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=64218670"
+        }
+      }
     },
     {
       "slug": "ha-long",

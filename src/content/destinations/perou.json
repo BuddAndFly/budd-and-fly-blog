@@ -158,7 +158,16 @@
       ],
       "eat": "Le ceviche le midi, et la cuisine nikkei, mélange péruvien et japonais.",
       "getAround": "VTC par application. Ne hèle pas de taxi dans la rue.",
-      "tip": "Le climat est gris et brumeux une bonne partie de l'année : ne juge pas le pays à la météo de Lima."
+      "tip": "Le climat est gris et brumeux une bonne partie de l'année : ne juge pas le pays à la météo de Lima.",
+      "photo": {
+        "src": "/images/destinations/perou/lima.jpg",
+        "alt": "La cathédrale de Lima sur la Plaza Mayor",
+        "credit": {
+          "author": "Avodrocc",
+          "license": "CC BY 2.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=27169906"
+        }
+      }
     },
     {
       "slug": "cusco",
@@ -239,7 +248,16 @@
       ],
       "eat": "Les restaurants d'Aguas Calientes, simples et chers.",
       "getAround": "Train depuis Ollantaytambo ou Cusco jusqu'à Aguas Calientes, puis bus jusqu'au site.",
-      "tip": "Vérifie que ton nom sur le billet correspond exactement à ton passeport : il est contrôlé à l'entrée."
+      "tip": "Vérifie que ton nom sur le billet correspond exactement à ton passeport : il est contrôlé à l'entrée.",
+      "photo": {
+        "src": "/images/destinations/perou/machu-picchu.jpg",
+        "alt": "La citadelle du Machu Picchu et le Huayna Picchu",
+        "credit": {
+          "author": "PIERRE ANDRE LECLERCQ",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=36847856"
+        }
+      }
     },
     {
       "slug": "arequipa",
