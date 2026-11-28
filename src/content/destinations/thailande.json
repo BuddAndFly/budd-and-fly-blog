@@ -170,7 +170,16 @@
       ],
       "eat": "Les marchés de nuit et la cuisine de rue de Chinatown (Yaowarat), le soir.",
       "getAround": "Métro aérien (BTS), métro (MRT) et bateaux express sur le fleuve Chao Phraya. Pour les taxis, exige le compteur ou passe par une application.",
-      "tip": "Si un inconnu t'annonce qu'un temple est « fermé aujourd'hui » et te propose un tuk-tuk, c'est une arnaque classique."
+      "tip": "Si un inconnu t'annonce qu'un temple est « fermé aujourd'hui » et te propose un tuk-tuk, c'est une arnaque classique.",
+      "photo": {
+        "src": "/images/destinations/thailande/bangkok.jpg",
+        "alt": "Le Wat Arun, temple de l'Aube, au bord du Chao Phraya à Bangkok",
+        "credit": {
+          "author": "dalbera",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/72746018@N00/49906235957"
+        }
+      }
     },
     {
       "slug": "chiang-mai",
@@ -209,7 +218,16 @@
       ],
       "eat": "Le khao soi, soupe de nouilles au curry typique du nord.",
       "getAround": "À pied dans la vieille ville, en « songthaew » (pick-up partagé rouge) ou par application pour le reste.",
-      "tip": "Pour voir des éléphants, choisis un refuge qui interdit la monte et les spectacles."
+      "tip": "Pour voir des éléphants, choisis un refuge qui interdit la monte et les spectacles.",
+      "photo": {
+        "src": "/images/destinations/thailande/chiang-mai.jpg",
+        "alt": "Les dorures du temple du Doi Suthep, à Chiang Mai",
+        "credit": {
+          "author": "didier.michelle.ferrand",
+          "license": "Domaine public",
+          "url": "https://www.flickr.com/photos/187946018@N05/55095699687"
+        }
+      }
     },
     {
       "slug": "ayutthaya",
@@ -273,7 +291,16 @@
       ],
       "eat": "Poissons grillés et curry de crabe dans les restaurants de bord de mer.",
       "getAround": "Bateaux à longue queue entre les plages, minibus entre les villes.",
-      "tip": "De mai à octobre, la mer peut être agitée de ce côté du pays : préfère les îles du golfe."
+      "tip": "De mai à octobre, la mer peut être agitée de ce côté du pays : préfère les îles du golfe.",
+      "photo": {
+        "src": "/images/destinations/thailande/krabi.jpg",
+        "alt": "Les falaises calcaires de Railay, près de Krabi",
+        "credit": {
+          "author": "Nicolas Vollmer",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/91094471@N02/14439114415"
+        }
+      }
     },
     {
       "slug": "koh-lanta",

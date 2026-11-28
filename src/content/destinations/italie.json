@@ -211,7 +211,16 @@
       ],
       "eat": "Le marché central de San Lorenzo, la bistecca alla fiorentina et un sandwich au lampredotto pour les curieux.",
       "getAround": "Tout se fait à pied. Bus et trains régionaux pour Sienne, Pise et la campagne.",
-      "tip": "Le centre est une zone à circulation limitée : n'y entre pas en voiture, les amendes sont automatiques."
+      "tip": "Le centre est une zone à circulation limitée : n'y entre pas en voiture, les amendes sont automatiques.",
+      "photo": {
+        "src": "/images/destinations/italie/florence.jpg",
+        "alt": "Le Ponte Vecchio sur l'Arno, à Florence",
+        "credit": {
+          "author": "Ray in Manila",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/21186555@N07/27155711546"
+        }
+      }
     },
     {
       "slug": "venise",
@@ -249,7 +258,16 @@
       ],
       "eat": "Les « cicchetti », petites bouchées servies dans les bars à vin (bacari), avec un verre en fin de journée.",
       "getAround": "À pied et en vaporetto. Un forfait de plusieurs jours est rentable si tu prends souvent le bateau.",
-      "tip": "Certains jours, Venise fait payer une taxe d'accès aux visiteurs qui ne dorment pas sur place : vérifie le calendrier sur le site officiel de la ville."
+      "tip": "Certains jours, Venise fait payer une taxe d'accès aux visiteurs qui ne dorment pas sur place : vérifie le calendrier sur le site officiel de la ville.",
+      "photo": {
+        "src": "/images/destinations/italie/venise.jpg",
+        "alt": "Gondoles face à San Giorgio Maggiore, à Venise",
+        "credit": {
+          "author": "amelie bry",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/53105210@N05/7435474178"
+        }
+      }
     },
     {
       "slug": "naples",

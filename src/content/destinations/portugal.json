@@ -166,7 +166,16 @@
       ],
       "eat": "Les pastéis de nata, la morue sous toutes ses formes et les sardines grillées en juin.",
       "getAround": "Métro, trams et funiculaires. Prends une carte rechargeable pour les transports.",
-      "tip": "Les pavés sont glissants et les rues très pentues : de bonnes chaussures changent tout."
+      "tip": "Les pavés sont glissants et les rues très pentues : de bonnes chaussures changent tout.",
+      "photo": {
+        "src": "/images/destinations/portugal/lisbonne.jpg",
+        "alt": "Un tramway jaune dans les rues de Lisbonne",
+        "credit": {
+          "author": "Alain GAVILLET from Chêne-Bougeries, Suisse",
+          "license": "CC BY 2.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=27714148"
+        }
+      }
     },
     {
       "slug": "sintra",
@@ -200,7 +209,16 @@
       ],
       "eat": "Les travesseiros, feuilletés à la crème d'amande, spécialité locale.",
       "getAround": "Train depuis Lisbonne, puis bus locaux ou marche entre les palais.",
-      "tip": "Évite d'y aller en voiture : les routes sont étroites et le stationnement presque impossible."
+      "tip": "Évite d'y aller en voiture : les routes sont étroites et le stationnement presque impossible.",
+      "photo": {
+        "src": "/images/destinations/portugal/sintra.jpg",
+        "alt": "Les maisons colorées de Sintra",
+        "credit": {
+          "author": "szeke",
+          "license": "CC BY-SA 2.0",
+          "url": "https://www.flickr.com/photos/43355249@N00/38835773472"
+        }
+      }
     },
     {
       "slug": "porto",
@@ -242,7 +260,16 @@
       ],
       "eat": "La francesinha, sandwich très copieux, et les tripes à la mode de Porto pour les curieux.",
       "getAround": "À pied (ça monte), métro et trams historiques.",
-      "tip": "Le train qui longe le Douro jusqu'à Pinhão offre l'une des plus belles lignes d'Europe, pour quelques euros."
+      "tip": "Le train qui longe le Douro jusqu'à Pinhão offre l'une des plus belles lignes d'Europe, pour quelques euros.",
+      "photo": {
+        "src": "/images/destinations/portugal/porto.jpg",
+        "alt": "Le pont Luís Ier illuminé, à Porto",
+        "credit": {
+          "author": "Portuguese_eyes",
+          "license": "CC BY-SA 2.0",
+          "url": "https://www.flickr.com/photos/21446942@N00/2852129708"
+        }
+      }
     },
     {
       "slug": "algarve",
@@ -280,7 +307,16 @@
       ],
       "eat": "La cataplana, ragoût de poisson et fruits de mer cuit dans une marmite en cuivre.",
       "getAround": "Une voiture est le plus simple ; trains et bus relient les principales villes.",
-      "tip": "En juillet et août, réserve longtemps à l'avance : c'est la destination balnéaire préférée des Européens."
+      "tip": "En juillet et août, réserve longtemps à l'avance : c'est la destination balnéaire préférée des Européens.",
+      "photo": {
+        "src": "/images/destinations/portugal/algarve.jpg",
+        "alt": "Les falaises de la côte de l'Algarve",
+        "credit": {
+          "author": "Voyages etc...",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/46945036@N06/25768065772"
+        }
+      }
     },
     {
       "slug": "madere",
@@ -314,7 +350,16 @@
       ],
       "eat": "L'espada (sabre noir) à la banane et le poncha, cocktail local.",
       "getAround": "Une voiture est indispensable pour explorer l'île : routes sinueuses, prudence.",
-      "tip": "Le temps change vite en montagne : vérifie l'état des sentiers sur le site officiel avant chaque randonnée."
+      "tip": "Le temps change vite en montagne : vérifie l'état des sentiers sur le site officiel avant chaque randonnée.",
+      "photo": {
+        "src": "/images/destinations/portugal/madere.jpg",
+        "alt": "Une maison traditionnelle au toit de chaume, à Santana, sur l'île de Madère",
+        "credit": {
+          "author": "PnBo from Strasbourg, France",
+          "license": "CC BY-SA 2.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=72978330"
+        }
+      }
     }
   ],
   "itineraries": [
