@@ -169,7 +169,16 @@
       ],
       "eat": "Les pâtes romaines (carbonara, cacio e pepe, amatriciana) dans une trattoria loin des grandes places, et une part de pizza al taglio.",
       "getAround": "À pied dans le centre. Métro et bus pour le reste, en payant avec ta carte bancaire sans contact.",
-      "tip": "Les grands sites demandent une réservation en ligne : prévois-les avant de partir, surtout de avril à octobre."
+      "tip": "Les grands sites demandent une réservation en ligne : prévois-les avant de partir, surtout de avril à octobre.",
+      "photo": {
+        "src": "/images/destinations/italie/rome.jpg",
+        "alt": "Le Colisée, à Rome",
+        "credit": {
+          "author": "Arch_Sam",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/132084522@N05/16800139540"
+        }
+      }
     },
     {
       "slug": "florence",
@@ -305,7 +314,16 @@
       ],
       "eat": "La pizza napolitaine, dans une pizzeria historique, et une sfogliatella au petit déjeuner.",
       "getAround": "Train régional (Circumvesuviana) pour Pompéi et Sorrente, bateaux pour les îles et la côte.",
-      "tip": "Naples demande un peu plus de vigilance sur tes affaires que le reste de l'Italie, notamment dans les transports."
+      "tip": "Naples demande un peu plus de vigilance sur tes affaires que le reste de l'Italie, notamment dans les transports.",
+      "photo": {
+        "src": "/images/destinations/italie/naples.jpg",
+        "alt": "Positano, sur la côte amalfitaine",
+        "credit": {
+          "author": "Glen MacLarty",
+          "license": "CC BY 2.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=8016824"
+        }
+      }
     },
     {
       "slug": "lecce",
@@ -339,7 +357,16 @@
       ],
       "eat": "Les orecchiette, la burrata et le pasticciotto, petit gâteau à la crème.",
       "getAround": "Une voiture est le plus simple pour la campagne et la côte ; trains régionaux entre les villes.",
-      "tip": "En août, la région est très prisée des Italiens : réserve tôt ou viens en juin et septembre."
+      "tip": "En août, la région est très prisée des Italiens : réserve tôt ou viens en juin et septembre.",
+      "photo": {
+        "src": "/images/destinations/italie/lecce.jpg",
+        "alt": "Lama Monachile, à Polignano a Mare, dans les Pouilles",
+        "credit": {
+          "author": "ParisTaras",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=130724326"
+        }
+      }
     }
   ],
   "itineraries": [

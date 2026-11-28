@@ -257,7 +257,16 @@
       "hidden": [],
       "eat": "Les crêpes sucrées « roti sai mai », spécialité locale.",
       "getAround": "Train depuis Bangkok, puis vélo de location entre les sites.",
-      "tip": "Le site est vaste et très chaud en journée : commence tôt."
+      "tip": "Le site est vaste et très chaud en journée : commence tôt.",
+      "photo": {
+        "src": "/images/destinations/thailande/ayutthaya.jpg",
+        "alt": "La tête de Bouddha prise dans les racines d'un arbre, au Wat Mahathat d'Ayutthaya",
+        "credit": {
+          "author": "paularps",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/21160385@N02/15643972443"
+        }
+      }
     },
     {
       "slug": "krabi",
@@ -333,7 +342,16 @@
       ],
       "eat": "Les petits restaurants de plage, et les marchés de l'île.",
       "getAround": "Scooter très répandu, mais dangereux sans expérience : préfère les tuk-tuks.",
-      "tip": "Koh Lanta est idéale de novembre à avril ; beaucoup d'établissements ferment pendant la saison des pluies."
+      "tip": "Koh Lanta est idéale de novembre à avril ; beaucoup d'établissements ferment pendant la saison des pluies.",
+      "photo": {
+        "src": "/images/destinations/thailande/koh-lanta.jpg",
+        "alt": "Une plage de Koh Lanta",
+        "credit": {
+          "author": "hedhoodphoto",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/126357105@N06/14728742225"
+        }
+      }
     }
   ],
   "itineraries": [

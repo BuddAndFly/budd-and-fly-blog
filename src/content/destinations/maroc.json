@@ -168,7 +168,16 @@
       ],
       "eat": "Le tajine et le couscous du vendredi, la tanjia (viande mijotée) et un jus d'orange frais sur la place.",
       "getAround": "À pied dans la médina, petits taxis au compteur pour le reste.",
-      "tip": "Un « guide » improvisé qui propose de te montrer le chemin attend toujours un paiement : décline poliment."
+      "tip": "Un « guide » improvisé qui propose de te montrer le chemin attend toujours un paiement : décline poliment.",
+      "photo": {
+        "src": "/images/destinations/maroc/marrakech.jpg",
+        "alt": "La place Jemaa el-Fna au coucher du soleil, à Marrakech",
+        "credit": {
+          "author": "Sar and Ish",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/54389708@N08/7188132640"
+        }
+      }
     },
     {
       "slug": "desert",
@@ -202,7 +211,16 @@
       ],
       "eat": "La « pizza berbère » (medfouna), pain farci cuit dans le sable.",
       "getAround": "Excursion organisée depuis Marrakech ou Fès (2 à 3 jours), ou voiture de location.",
-      "tip": "Les nuits sont très froides de novembre à février : prends une vraie veste chaude."
+      "tip": "Les nuits sont très froides de novembre à février : prends une vraie veste chaude.",
+      "photo": {
+        "src": "/images/destinations/maroc/desert.jpg",
+        "alt": "Les dunes de l'erg Chebbi, près de Merzouga",
+        "credit": {
+          "author": "Dimitry B",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/61533954@N00/13663817085"
+        }
+      }
     },
     {
       "slug": "fes",
@@ -236,7 +254,16 @@
       ],
       "eat": "La pastilla, feuilleté sucré-salé, spécialité de la ville.",
       "getAround": "À pied dans la médina, taxis pour les autres quartiers. Train vers Rabat, Casablanca et Marrakech.",
-      "tip": "Prends un guide officiel (badge) à l'office de tourisme ou par ton riad plutôt qu'un rabatteur dans la rue."
+      "tip": "Prends un guide officiel (badge) à l'office de tourisme ou par ton riad plutôt qu'un rabatteur dans la rue.",
+      "photo": {
+        "src": "/images/destinations/maroc/fes.jpg",
+        "alt": "La tannerie Chouara, à Fès",
+        "credit": {
+          "author": "Uwe Brodrecht",
+          "license": "CC BY-SA 2.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=94133804"
+        }
+      }
     },
     {
       "slug": "chefchaouen",
@@ -265,7 +292,16 @@
       "hidden": [],
       "eat": "Le fromage de chèvre local et les tajines de montagne.",
       "getAround": "À pied. Bus depuis Fès et Tanger.",
-      "tip": "On te proposera du haschich : refuse, la loi marocaine le punit sévèrement."
+      "tip": "On te proposera du haschich : refuse, la loi marocaine le punit sévèrement.",
+      "photo": {
+        "src": "/images/destinations/maroc/chefchaouen.jpg",
+        "alt": "Une ruelle bleue de Chefchaouen",
+        "credit": {
+          "author": "Mark Fischer",
+          "license": "CC BY-SA 2.0",
+          "url": "https://www.flickr.com/photos/80854685@N08/7458011136"
+        }
+      }
     },
     {
       "slug": "essaouira",
@@ -299,7 +335,16 @@
       ],
       "eat": "Les poissons et fruits de mer grillés sur le port.",
       "getAround": "À pied ; bus réguliers depuis Marrakech (environ 3 h).",
-      "tip": "En été, quand Marrakech étouffe, Essaouira reste fraîche grâce au vent."
+      "tip": "En été, quand Marrakech étouffe, Essaouira reste fraîche grâce au vent.",
+      "photo": {
+        "src": "/images/destinations/maroc/essaouira.jpg",
+        "alt": "Les barques bleues du port d'Essaouira",
+        "credit": {
+          "author": "jonl1973",
+          "license": "CC BY-SA 2.0",
+          "url": "https://www.flickr.com/photos/82916658@N00/3004326536"
+        }
+      }
     }
   ],
   "itineraries": [

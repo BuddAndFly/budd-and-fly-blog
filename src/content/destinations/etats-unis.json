@@ -171,7 +171,16 @@
       ],
       "eat": "Une part de pizza new-yorkaise, un bagel au saumon et les restaurants de Chinatown.",
       "getAround": "Métro 24 h/24, paiement sans contact aux portiques. Marche beaucoup : c'est la meilleure façon de voir la ville.",
-      "tip": "Les grands musées et points de vue proposent des billets combinés : calcule avant d'acheter, ils ne sont rentables que si tu en vois beaucoup."
+      "tip": "Les grands musées et points de vue proposent des billets combinés : calcule avant d'acheter, ils ne sont rentables que si tu en vois beaucoup.",
+      "photo": {
+        "src": "/images/destinations/etats-unis/new-york.jpg",
+        "alt": "Le pont de Brooklyn et Manhattan illuminés, à New York",
+        "credit": {
+          "author": "John Cunniff",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/131474603@N03/20222411585"
+        }
+      }
     },
     {
       "slug": "san-francisco",
@@ -209,7 +218,16 @@
       ],
       "eat": "Le clam chowder dans un pain au levain, et les burritos de Mission.",
       "getAround": "Bus, tramways, métro régional (BART) depuis l'aéroport. Pas besoin de voiture en ville.",
-      "tip": "Les vols dans les voitures sont très fréquents : ne laisse absolument rien de visible, même quelques minutes."
+      "tip": "Les vols dans les voitures sont très fréquents : ne laisse absolument rien de visible, même quelques minutes.",
+      "photo": {
+        "src": "/images/destinations/etats-unis/san-francisco.jpg",
+        "alt": "Le Golden Gate Bridge, à San Francisco",
+        "credit": {
+          "author": "ground.zero",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/83265757@N00/73471268"
+        }
+      }
     },
     {
       "slug": "los-angeles",
@@ -242,7 +260,16 @@
       ],
       "eat": "Les tacos des camions de rue et les marchés couverts comme Grand Central Market.",
       "getAround": "Voiture quasiment indispensable. Évite les heures de pointe sur les autoroutes.",
-      "tip": "Regroupe tes visites par quartier : traverser la ville peut prendre plus d'une heure."
+      "tip": "Regroupe tes visites par quartier : traverser la ville peut prendre plus d'une heure.",
+      "photo": {
+        "src": "/images/destinations/etats-unis/los-angeles.jpg",
+        "alt": "Le panneau de fin de la Route 66 sur la jetée de Santa Monica, à Los Angeles",
+        "credit": {
+          "author": "Prayitno / Thank you for (12 millions +) view",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/34128007@N04/6835744917"
+        }
+      }
     },
     {
       "slug": "parcs-de-l-ouest",
@@ -280,7 +307,16 @@
       ],
       "eat": "Les diners de bord de route, et des provisions pour les journées dans les parcs.",
       "getAround": "Voiture indispensable. Distances énormes : prévois des étapes de 3 à 5 heures de route maximum.",
-      "tip": "En été, la chaleur peut être dangereuse : pars marcher à l'aube et emporte beaucoup plus d'eau que tu ne le penses."
+      "tip": "En été, la chaleur peut être dangereuse : pars marcher à l'aube et emporte beaucoup plus d'eau que tu ne le penses.",
+      "photo": {
+        "src": "/images/destinations/etats-unis/parcs-de-l-ouest.jpg",
+        "alt": "Les buttes de Monument Valley",
+        "credit": {
+          "author": "romainguy",
+          "license": "CC0",
+          "url": "https://www.flickr.com/photos/24046097@N00/3286519829"
+        }
+      }
     },
     {
       "slug": "la-nouvelle-orleans",
@@ -314,7 +350,16 @@
       ],
       "eat": "Le gumbo, le jambalaya, le po'boy et les beignets du Café du Monde.",
       "getAround": "À pied dans le centre, tramways historiques pour le reste.",
-      "tip": "Évite de marcher seul la nuit hors des rues animées, et de juin à novembre, surveille les alertes ouragans."
+      "tip": "Évite de marcher seul la nuit hors des rues animées, et de juin à novembre, surveille les alertes ouragans.",
+      "photo": {
+        "src": "/images/destinations/etats-unis/la-nouvelle-orleans.jpg",
+        "alt": "Balcons fleuris du Quartier français, à La Nouvelle-Orléans",
+        "credit": {
+          "author": "David Paul Ohmer",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/50965924@N00/14830761472"
+        }
+      }
     }
   ],
   "itineraries": [

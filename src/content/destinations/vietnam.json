@@ -203,7 +203,16 @@
       ],
       "eat": "Fruits de mer servis à bord.",
       "getAround": "Navette depuis Hanoï (environ 2 h 30 par autoroute), souvent incluse dans la croisière.",
-      "tip": "Les offres très bon marché sont souvent synonymes de bateaux vétustes : lis les avis récents avant de réserver."
+      "tip": "Les offres très bon marché sont souvent synonymes de bateaux vétustes : lis les avis récents avant de réserver.",
+      "photo": {
+        "src": "/images/destinations/vietnam/ha-long.jpg",
+        "alt": "Jonques entre les pitons calcaires de la baie d'Ha Long",
+        "credit": {
+          "author": "archer10 (Dennis)",
+          "license": "CC BY-SA 2.0",
+          "url": "https://www.flickr.com/photos/22490717@N02/3541377575"
+        }
+      }
     },
     {
       "slug": "hoi-an",
@@ -237,7 +246,16 @@
       ],
       "eat": "Le cao lầu, nouilles locales, et le bánh mì, sandwich vietnamien.",
       "getAround": "À pied et à vélo. Aéroport à Da Nang, à 45 minutes.",
-      "tip": "Les tailleurs réalisent des vêtements sur mesure en 24 à 48 h : prévois au moins deux essayages."
+      "tip": "Les tailleurs réalisent des vêtements sur mesure en 24 à 48 h : prévois au moins deux essayages.",
+      "photo": {
+        "src": "/images/destinations/vietnam/hoi-an.jpg",
+        "alt": "Les lanternes colorées de Hoi An",
+        "credit": {
+          "author": "teflsearch",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/129176831@N06/16860069039"
+        }
+      }
     },
     {
       "slug": "hue",
@@ -271,7 +289,16 @@
       ],
       "eat": "Le bún bò Huế, soupe épicée, et la cuisine impériale en petites bouchées.",
       "getAround": "Vélo, taxi et bateau sur la rivière.",
-      "tip": "Le trajet en train entre Hué et Da Nang longe la côte : l'un des plus beaux du pays."
+      "tip": "Le trajet en train entre Hué et Da Nang longe la côte : l'un des plus beaux du pays.",
+      "photo": {
+        "src": "/images/destinations/vietnam/hue.jpg",
+        "alt": "Une porte de la Cité impériale, à Hué",
+        "credit": {
+          "author": "Vyacheslav Argenberg",
+          "license": "CC BY 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=85839502"
+        }
+      }
     },
     {
       "slug": "ho-chi-minh-ville",
@@ -305,7 +332,16 @@
       ],
       "eat": "Le cơm tấm (riz brisé et porc grillé), et les marchés de nuit.",
       "getAround": "VTC par application, à moto ou en voiture. Le nouveau métro dessert une partie de la ville.",
-      "tip": "Garde ton téléphone bien en main, loin de la chaussée : les vols à l'arraché depuis un scooter sont fréquents."
+      "tip": "Garde ton téléphone bien en main, loin de la chaussée : les vols à l'arraché depuis un scooter sont fréquents.",
+      "photo": {
+        "src": "/images/destinations/vietnam/ho-chi-minh-ville.jpg",
+        "alt": "Le marché flottant du delta du Mékong",
+        "credit": {
+          "author": "katinalynn",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/76948127@N00/5677559428"
+        }
+      }
     }
   ],
   "itineraries": [

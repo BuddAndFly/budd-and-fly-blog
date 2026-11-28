@@ -167,7 +167,16 @@
       ],
       "eat": "Le marché de la Boqueria tôt le matin, puis les bars à tapas du Born et de Gràcia.",
       "getAround": "Métro, bus et marche. La carte multi-trajets est plus économique que les tickets à l'unité.",
-      "tip": "Sur la Rambla et dans le métro, garde ton téléphone et ton portefeuille en poche avant : c'est le terrain de jeu des pickpockets."
+      "tip": "Sur la Rambla et dans le métro, garde ton téléphone et ton portefeuille en poche avant : c'est le terrain de jeu des pickpockets.",
+      "photo": {
+        "src": "/images/destinations/espagne/barcelone.jpg",
+        "alt": "Barcelone et la Sagrada Família vues du ciel",
+        "credit": {
+          "author": "dronepicr",
+          "license": "CC BY 2.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=106294844"
+        }
+      }
     },
     {
       "slug": "madrid",
@@ -209,7 +218,16 @@
       ],
       "eat": "Le bocadillo de calamars près de la place Mayor, et les tapas de La Latina le dimanche.",
       "getAround": "Métro très complet. Trains rapides vers Tolède, Ségovie, Séville et Barcelone.",
-      "tip": "On dîne vers 21 h 30 ou 22 h : avant, les restaurants sont vides."
+      "tip": "On dîne vers 21 h 30 ou 22 h : avant, les restaurants sont vides.",
+      "photo": {
+        "src": "/images/destinations/espagne/madrid.jpg",
+        "alt": "L'édifice Metrópolis sur la Gran Vía, à Madrid",
+        "credit": {
+          "author": "trioptikmal",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/70889483@N00/5804464958"
+        }
+      }
     },
     {
       "slug": "seville",
@@ -247,7 +265,16 @@
       ],
       "eat": "Les bars à tapas de Triana et le salmorejo, soupe froide de tomate.",
       "getAround": "À pied dans le centre, tram et vélo en libre-service.",
-      "tip": "De juin à septembre, la chaleur peut dépasser 40 °C : visites tôt le matin, sieste l'après-midi."
+      "tip": "De juin à septembre, la chaleur peut dépasser 40 °C : visites tôt le matin, sieste l'après-midi.",
+      "photo": {
+        "src": "/images/destinations/espagne/seville.jpg",
+        "alt": "La place d'Espagne, à Séville",
+        "credit": {
+          "author": "ahisgett",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/37804979@N00/41348629160"
+        }
+      }
     },
     {
       "slug": "grenade",
@@ -281,7 +308,16 @@
       ],
       "eat": "Dans beaucoup de bars, une tapa est offerte avec chaque boisson.",
       "getAround": "À pied et en minibus pour les quartiers en pente.",
-      "tip": "Sans billet réservé à l'avance pour l'Alhambra, tu risques de ne pas pouvoir entrer dans les palais."
+      "tip": "Sans billet réservé à l'avance pour l'Alhambra, tu risques de ne pas pouvoir entrer dans les palais.",
+      "photo": {
+        "src": "/images/destinations/espagne/grenade.jpg",
+        "alt": "L'Alhambra à l'aube, à Grenade",
+        "credit": {
+          "author": "Jebulon",
+          "license": "CC0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=52005558"
+        }
+      }
     },
     {
       "slug": "valence",
@@ -315,7 +351,16 @@
       ],
       "eat": "La vraie paella valencienne (poulet, lapin, haricots), plutôt le midi.",
       "getAround": "Vélo, métro et tram jusqu'à la plage.",
-      "tip": "La paella se mange le midi : le soir, c'est souvent un plat pour touristes."
+      "tip": "La paella se mange le midi : le soir, c'est souvent un plat pour touristes.",
+      "photo": {
+        "src": "/images/destinations/espagne/valence.jpg",
+        "alt": "La Cité des arts et des sciences au coucher du soleil, à Valence",
+        "credit": {
+          "author": "o palsson",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/45713725@N00/8422970825"
+        }
+      }
     }
   ],
   "itineraries": [

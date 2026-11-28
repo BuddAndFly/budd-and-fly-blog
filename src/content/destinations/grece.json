@@ -167,7 +167,16 @@
       ],
       "eat": "Souvlaki et pita gyros, et les tavernes de Psyrri le soir.",
       "getAround": "Métro moderne, y compris depuis l'aéroport. Le centre se fait à pied.",
-      "tip": "Le billet combiné couvre plusieurs sites antiques sur plusieurs jours : rentable si tu en vois au moins trois."
+      "tip": "Le billet combiné couvre plusieurs sites antiques sur plusieurs jours : rentable si tu en vois au moins trois.",
+      "photo": {
+        "src": "/images/destinations/grece/athenes.jpg",
+        "alt": "Le Parthénon sur l'Acropole, à Athènes",
+        "credit": {
+          "author": "Kristoffer Trolle",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/126744325@N07/17088729869"
+        }
+      }
     },
     {
       "slug": "santorin",
@@ -200,7 +209,16 @@
       ],
       "eat": "Les tomates séchées, la fava (purée de pois) et le vin blanc local, l'assyrtiko.",
       "getAround": "Bus entre les villages, ou quad et voiture de location.",
-      "tip": "Les paquebots déversent des milliers de visiteurs en journée : visite Oia et Fira le matin tôt ou le soir."
+      "tip": "Les paquebots déversent des milliers de visiteurs en journée : visite Oia et Fira le matin tôt ou le soir.",
+      "photo": {
+        "src": "/images/destinations/grece/santorin.jpg",
+        "alt": "Un dôme bleu face à la caldeira, à Oia, Santorin",
+        "credit": {
+          "author": "George M. Groutas",
+          "license": "CC BY 2.0",
+          "url": "https://www.flickr.com/photos/22083482@N03/2752585802"
+        }
+      }
     },
     {
       "slug": "naxos",
@@ -235,7 +253,16 @@
       ],
       "eat": "Le fromage graviera de Naxos, les pommes de terre locales et le kitron, liqueur d'agrume.",
       "getAround": "Bus vers les plages et les villages ; voiture pour plus de liberté.",
-      "tip": "Naxos est bien reliée par ferry à Paros, Santorin et Athènes : une base idéale pour les Cyclades."
+      "tip": "Naxos est bien reliée par ferry à Paros, Santorin et Athènes : une base idéale pour les Cyclades.",
+      "photo": {
+        "src": "/images/destinations/grece/naxos.jpg",
+        "alt": "La Portara face à la mer, à Naxos",
+        "credit": {
+          "author": "Olaf Tausch",
+          "license": "CC BY 3.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=31093681"
+        }
+      }
     },
     {
       "slug": "crete",
@@ -274,7 +301,16 @@
       ],
       "eat": "Le dakos (pain d'orge, tomate, fromage), l'huile d'olive crétoise et le raki offert en fin de repas.",
       "getAround": "Une voiture est quasiment indispensable pour profiter de l'île.",
-      "tip": "La Crète est grande : choisis l'ouest ou l'est plutôt que de tout vouloir voir en une semaine."
+      "tip": "La Crète est grande : choisis l'ouest ou l'est plutôt que de tout vouloir voir en une semaine.",
+      "photo": {
+        "src": "/images/destinations/grece/crete.jpg",
+        "alt": "La lagune de Balos vue du ciel, en Crète",
+        "credit": {
+          "author": "dronepicr",
+          "license": "CC BY 2.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=101700374"
+        }
+      }
     },
     {
       "slug": "meteores",
@@ -303,7 +339,16 @@
       "hidden": [],
       "eat": "Les tavernes de Kastraki, viandes grillées et tourtes aux légumes.",
       "getAround": "Train depuis Athènes jusqu'à Kalambaka, puis bus, taxi ou marche.",
-      "tip": "Tenue correcte exigée dans les monastères : jambes et épaules couvertes, jupe pour les femmes (souvent prêtée à l'entrée)."
+      "tip": "Tenue correcte exigée dans les monastères : jambes et épaules couvertes, jupe pour les femmes (souvent prêtée à l'entrée).",
+      "photo": {
+        "src": "/images/destinations/grece/meteores.jpg",
+        "alt": "Les monastères perchés des Météores",
+        "credit": {
+          "author": "Stathis floros",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=68724727"
+        }
+      }
     }
   ],
   "itineraries": [
